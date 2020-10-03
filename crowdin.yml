@@ -1,0 +1,3 @@
+files:
+  - source: cutter_fr.ts
+    translation: cutter_ %locale_with_underscore%.ts
