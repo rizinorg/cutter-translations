@@ -113,7 +113,7 @@
     </message>
     <message>
       <source>Please check your internet connection and try again.</source>
-      <translation type="unfinished">Please check your internet connection and try again.</translation>
+      <translation>Пожалуйста, проверьте ваше интернет-соединение и попробуйте еще раз.</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="102"/>
@@ -127,19 +127,19 @@
     </message>
     <message>
       <source>You have latest version and no need to update!</source>
-      <translation type="unfinished">You have latest version and no need to update!</translation>
+      <translation>У вас установлена последняя версия, и в обновлении нет необходимости!</translation>
     </message>
     <message>
       <source>Current version:</source>
-      <translation type="unfinished">Current version:</translation>
+      <translation>Текущая версия:</translation>
     </message>
     <message>
       <source>Latest version:</source>
-      <translation type="unfinished">Latest version:</translation>
+      <translation>Последняя версия:</translation>
     </message>
     <message>
       <source>For update, please check the link:</source>
-      <translation type="unfinished">For update, please check the link:</translation>
+      <translation>Для обновления перейдите по ссылке:</translation>
     </message>
   </context>
   <context>
@@ -147,22 +147,22 @@
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="16"/>
       <source>Show in</source>
-      <translation type="unfinished">Show in</translation>
+      <translation>Показать в</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="17"/>
       <source>Copy address</source>
-      <translation type="unfinished">Copy address</translation>
+      <translation>Копировать адрес</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="18"/>
       <source>Show X-Refs</source>
-      <translation type="unfinished">Show X-Refs</translation>
+      <translation>Показать перекрестные ссылки</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="19"/>
       <source>Add comment</source>
-      <translation type="unfinished">Add comment</translation>
+      <translation>Добавить комментарий</translation>
     </message>
   </context>
   <context>
@@ -170,22 +170,22 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="409"/>
       <source>class</source>
-      <translation type="unfinished">class</translation>
+      <translation>класс</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="433"/>
       <source>base</source>
-      <translation type="unfinished">base</translation>
+      <translation>базовый</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="463"/>
       <source>method</source>
-      <translation type="unfinished">method</translation>
+      <translation>метод</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="497"/>
       <source>vtable</source>
-      <translation type="unfinished">vtable</translation>
+      <translation>таблица виртуальных методов</translation>
     </message>
   </context>
   <context>
@@ -193,22 +193,22 @@
     <message>
       <location filename="../common/AnalTask.cpp" line="26"/>
       <source>Loading the file...</source>
-      <translation type="unfinished">Loading the file...</translation>
+      <translation>Загрузка файла...</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="67"/>
       <source>Loading PDB file...</source>
-      <translation type="unfinished">Loading PDB file...</translation>
+      <translation>Загрузка PDB файла...</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="76"/>
       <source>Loading shellcode...</source>
-      <translation type="unfinished">Loading shellcode...</translation>
+      <translation>Загрузка шеллкода...</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="87"/>
       <source>Executing script...</source>
-      <translation type="unfinished">Executing script...</translation>
+      <translation>Выполнение скрипта...</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="99"/>
