@@ -401,12 +401,12 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="192"/>
       <source>Color theme &lt;b&gt;%1&lt;/b&gt; was successfully imported.</source>
-      <translation type="unfinished">Color theme &lt;b&gt;%1&lt;/b&gt; was successfully imported.</translation>
+      <translation>颜色主题 &lt;b&gt;%1&lt;/b&gt; 已成功导入。</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="219"/>
       <source>Color theme &lt;b&gt;%1&lt;/b&gt; was successfully exported.</source>
-      <translation type="unfinished">Color theme &lt;b&gt;%1&lt;/b&gt; was successfully exported.</translation>
+      <translation>颜色主题 &lt;b&gt;%1&lt;/b&gt; 已成功导出。</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="229"/>
@@ -416,17 +416,17 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="251"/>
       <source>Language settings</source>
-      <translation type="unfinished">Language settings</translation>
+      <translation>语言设置</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="252"/>
       <source>Language will be changed after next application start.</source>
-      <translation type="unfinished">Language will be changed after next application start.</translation>
+      <translation>语言将在下一次应用程序启动后更改。</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="256"/>
       <source>Cannot set language, not found in available ones</source>
-      <translation type="unfinished">Cannot set language, not found in available ones</translation>
+      <translation>无法设置语言，在可用语言中未找到对应语言。</translation>
     </message>
   </context>
   <context>
@@ -539,7 +539,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="247"/>
       <source>Off</source>
-      <translation type="unfinished">Off</translation>
+      <translation>关闭</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="255"/>
