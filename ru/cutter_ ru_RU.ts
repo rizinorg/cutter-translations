@@ -663,44 +663,44 @@
     <message>
       <location filename="../dialogs/AsyncTaskDialog.ui" line="20"/>
       <source>Time</source>
-      <translation type="unfinished">Time</translation>
+      <translation>Время</translation>
     </message>
     <message>
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="50"/>
       <source>Running for</source>
-      <translation type="unfinished">Running for</translation>
+      <translation>Выполняется</translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="52"/>
       <source>%n hour</source>
       <comment>%n hours</comment>
-      <translation type="unfinished">
-        <numerusform>%n hour</numerusform>
-        <numerusform>%n hour</numerusform>
-        <numerusform>%n hour</numerusform>
-        <numerusform>%n hour</numerusform>
+      <translation>
+        <numerusform>%n час</numerusform>
+        <numerusform>%n часов</numerusform>
+        <numerusform>%n часов</numerusform>
+        <numerusform>%n часов</numerusform>
       </translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="56"/>
       <source>%n minute</source>
       <comment>%n minutes</comment>
-      <translation type="unfinished">
-        <numerusform>%n minute</numerusform>
-        <numerusform>%n minute</numerusform>
-        <numerusform>%n minute</numerusform>
-        <numerusform>%n minute</numerusform>
+      <translation>
+        <numerusform>%n минута</numerusform>
+        <numerusform>%n минут</numerusform>
+        <numerusform>%n минут</numerusform>
+        <numerusform>%n минут</numerusform>
       </translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="59"/>
       <source>%n seconds</source>
       <comment>%n second</comment>
-      <translation type="unfinished">
-        <numerusform>%n seconds</numerusform>
-        <numerusform>%n seconds</numerusform>
-        <numerusform>%n seconds</numerusform>
-        <numerusform>%n seconds</numerusform>
+      <translation>
+        <numerusform>%n секунда</numerusform>
+        <numerusform>%n секунд</numerusform>
+        <numerusform>%n секунд</numerusform>
+        <numerusform>%n секунд</numerusform>
       </translation>
     </message>
   </context>
@@ -709,44 +709,44 @@
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="14"/>
       <source>Select process to attach...</source>
-      <translation type="unfinished">Select process to attach...</translation>
+      <translation>Выбрать процесс для присоединения...</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="46"/>
       <source>Processes with same name as currently open file:</source>
-      <translation type="unfinished">Processes with same name as currently open file:</translation>
+      <translation>Процессы с тем же именем как у открытого в данный момент файла:</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="94"/>
       <source>All processes:</source>
-      <translation type="unfinished">All processes:</translation>
+      <translation>Все процессы:</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="138"/>
       <source>Quick Filter</source>
-      <translation type="unfinished">Quick Filter</translation>
+      <translation>Быстрый фильтр</translation>
     </message>
   </context>
   <context>
     <name>BacktraceWidget</name>
     <message>
       <source>Func Name</source>
-      <translation type="unfinished">Func Name</translation>
+      <translation>Имя функции</translation>
     </message>
     <message>
       <location filename="../widgets/BacktraceWidget.cpp" line="17"/>
       <source>Function</source>
-      <translation type="unfinished">Function</translation>
+      <translation>Функция</translation>
     </message>
     <message>
       <location filename="../widgets/BacktraceWidget.cpp" line="20"/>
       <source>Description</source>
-      <translation type="unfinished">Description</translation>
+      <translation>Описание</translation>
     </message>
     <message>
       <location filename="../widgets/BacktraceWidget.cpp" line="21"/>
       <source>Frame Size</source>
-      <translation type="unfinished">Frame Size</translation>
+      <translation>Размер кадра</translation>
     </message>
   </context>
   <context>
@@ -754,22 +754,22 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="125"/>
       <source>method</source>
-      <translation type="unfinished">method</translation>
+      <translation>метод</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="149"/>
       <source>field</source>
-      <translation type="unfinished">field</translation>
+      <translation>поле</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="171"/>
       <source>base class</source>
-      <translation type="unfinished">base class</translation>
+      <translation>базовый класс</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="192"/>
       <source>class</source>
-      <translation type="unfinished">class</translation>
+      <translation>класс</translation>
     </message>
   </context>
   <context>
@@ -777,49 +777,49 @@
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="64"/>
       <source>HW %1</source>
-      <translation type="unfinished">HW %1</translation>
+      <translation>HW %1</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="66"/>
       <source>SW</source>
-      <translation type="unfinished">SW</translation>
+      <translation>SW</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="99"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>Смещение</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="101"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Имя</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="103"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>Тип</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="107"/>
       <source>Enabled</source>
-      <translation type="unfinished">Enabled</translation>
+      <translation>Включено</translation>
     </message>
     <message>
       <source>Permissions</source>
-      <translation type="unfinished">Permissions</translation>
+      <translation>Права доступа</translation>
     </message>
     <message>
       <source>Hardware bp</source>
-      <translation type="unfinished">Hardware bp</translation>
+      <translation>Аппаратная точка останова</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="105"/>
       <source>Tracing</source>
-      <translation type="unfinished">Tracing</translation>
+      <translation>Трассировка</translation>
     </message>
     <message>
       <source>Active</source>
-      <translation type="unfinished">Active</translation>
+      <translation>Активный</translation>
     </message>
   </context>
   <context>
@@ -827,45 +827,45 @@
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="58"/>
       <source>Add new breakpoint</source>
-      <translation type="unfinished">Add new breakpoint</translation>
+      <translation>Добавить точку останова</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="65"/>
       <location filename="../widgets/BreakpointWidget.cpp" line="195"/>
       <source>Delete breakpoint</source>
-      <translation type="unfinished">Delete breakpoint</translation>
+      <translation>Удалить точку останова</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="72"/>
       <source>Delete all breakpoints</source>
-      <translation type="unfinished">Delete all breakpoints</translation>
+      <translation>Удалить все точки останова</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="201"/>
       <source>Toggle breakpoint</source>
-      <translation type="unfinished">Toggle breakpoint</translation>
+      <translation>Переключить состояние точки останова</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="207"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>Редактировать</translation>
     </message>
   </context>
   <context>
     <name>BreakpointsDialog</name>
     <message>
       <source>Add breakpoints</source>
-      <translation type="unfinished">Add breakpoints</translation>
+      <translation>Добавить точки останова</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="14"/>
       <source>Add/Edit breakpoint</source>
-      <translation type="unfinished">Add/Edit breakpoint</translation>
+      <translation>Добавить/редактировать точки останова</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="22"/>
       <source>Position</source>
-      <translation type="unfinished">Position</translation>
+      <translation>Позиция</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="59"/>
@@ -1128,64 +1128,64 @@
     <message>
       <location filename="../widgets/ColorPicker.ui" line="118"/>
       <source>Sat:</source>
-      <translation type="unfinished">Sat:</translation>
+      <translation>Насыщ:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="149"/>
       <source>Hue:</source>
-      <translation type="unfinished">Hue:</translation>
+      <translation>Тон:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="184"/>
       <source>Red:</source>
-      <translation type="unfinished">Red:</translation>
+      <translation>Красный:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="215"/>
       <source>Green:</source>
-      <translation type="unfinished">Green:</translation>
+      <translation>Зеленый:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="246"/>
       <source>Blue:</source>
-      <translation type="unfinished">Blue:</translation>
+      <translation>Синий:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="281"/>
       <source>Hex:</source>
-      <translation type="unfinished">Hex:</translation>
+      <translation>Шестнадцатеричный код:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="288"/>
       <source>\#HHHHHH</source>
-      <translation type="unfinished">\#HHHHHH</translation>
+      <translation>\#HHHHHH</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="312"/>
       <source>Pick color from screen</source>
-      <translation type="unfinished">Pick color from screen</translation>
+      <translation>Выбрать цвет на экране</translation>
     </message>
   </context>
   <context>
     <name>ColorSchemeFileSaver</name>
     <message>
       <source>Standard themes not found!</source>
-      <translation type="unfinished">Standard themes not found!</translation>
+      <translation>Стандартные темы не найдены!</translation>
     </message>
     <message>
       <source>The radare2 standard themes could not be found! This probably means radare2 is not properly installed. If you think it is open an issue please.</source>
-      <translation type="unfinished">The radare2 standard themes could not be found! This probably means radare2 is not properly installed. If you think it is open an issue please.</translation>
+      <translation>Стандартные темы radare2 не найдены! Вероятно, radare2 неправильно установлен. Если вы считаете, что он установлен правильно, пожалуйста сообщите об ошибке.</translation>
     </message>
   </context>
   <context>
     <name>ColorSchemePrefWidget</name>
     <message>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <source>Set Default</source>
-      <translation type="unfinished">Set Default</translation>
+      <translation>Установить по умолчанию</translation>
     </message>
   </context>
   <context>
@@ -1193,33 +1193,33 @@
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation type="unfinished">Dialog</translation>
+      <translation>Диалог</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.ui" line="26"/>
       <source>Color Theme:</source>
-      <translation type="unfinished">Color Theme:</translation>
+      <translation>Цветовая тема:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.ui" line="55"/>
       <source>Search</source>
-      <translation type="unfinished">Search</translation>
+      <translation>Поиск</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="36"/>
       <source>Disassembly Preview</source>
-      <translation type="unfinished">Disassembly Preview</translation>
+      <translation>Предварительный просмотр листинга</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="80"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>Ошибка</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="95"/>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="146"/>
       <source>Unsaved changes</source>
-      <translation type="unfinished">Unsaved changes</translation>
+      <translation>Несохраненные изменения</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="96"/>
@@ -1322,12 +1322,12 @@
     <message>
       <location filename="../widgets/ComboQuickFilterView.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Форма</translation>
     </message>
     <message>
       <location filename="../widgets/ComboQuickFilterView.ui" line="32"/>
       <source>Quick Filter</source>
-      <translation type="unfinished">Quick Filter</translation>
+      <translation>Быстрый фильтр</translation>
     </message>
     <message>
       <location filename="../widgets/ComboQuickFilterView.ui" line="39"/>
