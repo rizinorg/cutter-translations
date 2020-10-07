@@ -185,7 +185,7 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="497"/>
       <source>vtable</source>
-      <translation>vtable</translation>
+      <translation type="unfinished">vtable</translation>
     </message>
   </context>
   <context>
