@@ -31,7 +31,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="128"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;Cutter&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;Cutter&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;Cutter&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <source>Show plugin information</source>
@@ -45,7 +45,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="29"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="29"/>
@@ -185,7 +185,7 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="497"/>
       <source>vtable</source>
-      <translation>таблица виртуальных методов</translation>
+      <translation>vtable</translation>
     </message>
   </context>
   <context>
@@ -264,7 +264,7 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="95"/>
       <source>%</source>
-      <translation type="unfinished">%</translation>
+      <translation>%</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="116"/>
@@ -519,7 +519,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="185"/>
       <source>ESIL (asm.esil)</source>
-      <translation type="unfinished">ESIL (asm.esil)</translation>
+      <translation>ESIL (asm.esil)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="190"/>
@@ -658,7 +658,7 @@
     <message>
       <location filename="../dialogs/AsyncTaskDialog.ui" line="14"/>
       <source>Cutter</source>
-      <translation type="unfinished">Cutter</translation>
+      <translation>Cutter</translation>
     </message>
     <message>
       <location filename="../dialogs/AsyncTaskDialog.ui" line="20"/>
@@ -777,12 +777,12 @@
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="64"/>
       <source>HW %1</source>
-      <translation type="unfinished">HW %1</translation>
+      <translation>HW %1</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="66"/>
       <source>SW</source>
-      <translation type="unfinished">SW</translation>
+      <translation>SW</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="99"/>
@@ -925,22 +925,22 @@
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="217"/>
       <source>1</source>
-      <translation type="unfinished">1</translation>
+      <translation>1</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="222"/>
       <source>2</source>
-      <translation type="unfinished">2</translation>
+      <translation>2</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="227"/>
       <source>4</source>
-      <translation type="unfinished">4</translation>
+      <translation>4</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="232"/>
       <source>8</source>
-      <translation type="unfinished">8</translation>
+      <translation>8</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="261"/>
@@ -1002,15 +1002,15 @@
     <name>ClassesModel</name>
     <message>
       <source>method</source>
-      <translation type="unfinished">method</translation>
+      <translation>method</translation>
     </message>
     <message>
       <source>field</source>
-      <translation type="unfinished">field</translation>
+      <translation>field</translation>
     </message>
     <message>
       <source>class</source>
-      <translation type="unfinished">class</translation>
+      <translation>class</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="19"/>
@@ -1158,7 +1158,7 @@
     <message>
       <location filename="../widgets/ColorPicker.ui" line="288"/>
       <source>\#HHHHHH</source>
-      <translation type="unfinished">\#HHHHHH</translation>
+      <translation>\#HHHHHH</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="312"/>
@@ -1454,7 +1454,7 @@
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="159"/>
       <source>...</source>
-      <translation type="unfinished">...</translation>
+      <translation>...</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.cpp" line="62"/>
@@ -1571,7 +1571,7 @@
       <location filename="../widgets/Dashboard.ui" line="913"/>
       <location filename="../widgets/Dashboard.ui" line="942"/>
       <source>--</source>
-      <translation type="unfinished">--</translation>
+      <translation>--</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="207"/>
@@ -1611,7 +1611,7 @@
     <message>
       <location filename="../widgets/Dashboard.ui" line="426"/>
       <source>FD:</source>
-      <translation type="unfinished">FD:</translation>
+      <translation>FD:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="455"/>
@@ -1626,32 +1626,32 @@
     <message>
       <location filename="../widgets/Dashboard.ui" line="513"/>
       <source>Canary:</source>
-      <translation type="unfinished">Canary:</translation>
+      <translation>Canary:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="542"/>
       <source>Crypto:</source>
-      <translation type="unfinished">Crypto:</translation>
+      <translation>Crypto:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="571"/>
       <source>NX bit:</source>
-      <translation type="unfinished">NX bit:</translation>
+      <translation>NX bit:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="600"/>
       <source>PIC:</source>
-      <translation type="unfinished">PIC:</translation>
+      <translation>PIC:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="629"/>
       <source>Static:</source>
-      <translation type="unfinished">Static:</translation>
+      <translation>Static:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="645"/>
       <source>Relro:</source>
-      <translation type="unfinished">Relro:</translation>
+      <translation>Relro:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="700"/>
@@ -1681,7 +1681,7 @@
     <message>
       <location filename="../widgets/Dashboard.ui" line="845"/>
       <source>Relocs:</source>
-      <translation type="unfinished">Relocs:</translation>
+      <translation>Relocs:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="874"/>
@@ -1721,12 +1721,12 @@
     <message>
       <location filename="../widgets/Dashboard.ui" line="1087"/>
       <source>MD5:</source>
-      <translation type="unfinished">MD5:</translation>
+      <translation>MD5:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1116"/>
       <source>SHA1:</source>
-      <translation type="unfinished">SHA1:</translation>
+      <translation>SHA1:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1151"/>
@@ -1792,12 +1792,12 @@
     <message>
       <location filename="../widgets/Dashboard.cpp" line="220"/>
       <source>True</source>
-      <translation type="unfinished">True</translation>
+      <translation>True</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="222"/>
       <source>False</source>
-      <translation type="unfinished">False</translation>
+      <translation>False</translation>
     </message>
   </context>
   <context>
@@ -2159,68 +2159,68 @@
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1083"/>
       <source>Graphviz dot (*.dot)</source>
-      <translation type="unfinished">Graphviz dot (*.dot)</translation>
+      <translation>Graphviz dot (*.dot)</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1084"/>
       <source>Graphviz json (*.json)</source>
-      <translation type="unfinished">Graphviz json (*.json)</translation>
+      <translation>Graphviz json (*.json)</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1085"/>
       <source>Graphviz gif (*.gif)</source>
-      <translation type="unfinished">Graphviz gif (*.gif)</translation>
+      <translation>Graphviz gif (*.gif)</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1086"/>
       <source>Graphviz png (*.png)</source>
-      <translation type="unfinished">Graphviz png (*.png)</translation>
+      <translation>Graphviz png (*.png)</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1087"/>
       <source>Graphviz jpg (*.jpg)</source>
-      <translation type="unfinished">Graphviz jpg (*.jpg)</translation>
+      <translation>Graphviz jpg (*.jpg)</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1088"/>
       <source>Graphviz PostScript (*.ps)</source>
-      <translation type="unfinished">Graphviz PostScript (*.ps)</translation>
+      <translation>Graphviz PostScript (*.ps)</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1089"/>
       <source>Graphviz svg (*.svg)</source>
-      <translation type="unfinished">Graphviz svg (*.svg)</translation>
+      <translation>Graphviz svg (*.svg)</translation>
     </message>
     <message>
       <source>Graphiz dot (*.dot)</source>
-      <translation type="unfinished">Graphiz dot (*.dot)</translation>
+      <translation>Graphiz dot (*.dot)</translation>
     </message>
     <message>
       <source>GIF (*.gif)</source>
-      <translation type="unfinished">GIF (*.gif)</translation>
+      <translation>GIF (*.gif)</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1075"/>
       <source>PNG (*.png)</source>
-      <translation type="unfinished">PNG (*.png)</translation>
+      <translation>PNG (*.png)</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1076"/>
       <source>JPEG (*.jpg)</source>
-      <translation type="unfinished">JPEG (*.jpg)</translation>
+      <translation>JPEG (*.jpg)</translation>
     </message>
     <message>
       <source>PostScript (*.ps)</source>
-      <translation type="unfinished">PostScript (*.ps)</translation>
+      <translation>PostScript (*.ps)</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1077"/>
       <source>SVG (*.svg)</source>
-      <translation type="unfinished">SVG (*.svg)</translation>
+      <translation>SVG (*.svg)</translation>
     </message>
     <message>
       <source>JSON (*.json)</source>
-      <translation type="unfinished">JSON (*.json)</translation>
+      <translation>JSON (*.json)</translation>
     </message>
   </context>
   <context>
@@ -2352,7 +2352,7 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="192"/>
       <source>Syscall</source>
-      <translation type="unfinished">Syscall</translation>
+      <translation>Syscall</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="196"/>
@@ -2421,7 +2421,7 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="248"/>
       <source>Byte</source>
-      <translation type="unfinished">Byte</translation>
+      <translation>Byte</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="252"/>
@@ -2431,12 +2431,12 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="256"/>
       <source>Dword</source>
-      <translation type="unfinished">Dword</translation>
+      <translation>Dword</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="260"/>
       <source>Qword</source>
-      <translation type="unfinished">Qword</translation>
+      <translation>Qword</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="275"/>
@@ -2492,7 +2492,7 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="350"/>
       <source>%1 (%2)</source>
-      <translation type="unfinished">%1 (%2)</translation>
+      <translation>%1 (%2)</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="445"/>
@@ -2571,7 +2571,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="713"/>
       <source>OK</source>
-      <translation type="unfinished">OK</translation>
+      <translation>OK</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="714"/>
@@ -2772,7 +2772,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="102"/>
       <source>OK</source>
-      <translation type="unfinished">OK</translation>
+      <translation>OK</translation>
     </message>
   </context>
   <context>
@@ -2849,7 +2849,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="54"/>
       <source>1</source>
-      <translation type="unfinished">1</translation>
+      <translation>1</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="73"/>
@@ -2885,7 +2885,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="86"/>
       <source>Flagspace:</source>
-      <translation type="unfinished">Flagspace:</translation>
+      <translation>Flagspace:</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="99"/>
@@ -2895,7 +2895,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="102"/>
       <source>N</source>
-      <translation type="unfinished">N</translation>
+      <translation>N</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="110"/>
@@ -2905,12 +2905,12 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="113"/>
       <source>Del</source>
-      <translation type="unfinished">Del</translation>
+      <translation>Del</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="216"/>
       <source>(all)</source>
-      <translation type="unfinished">(all)</translation>
+      <translation>(all)</translation>
     </message>
   </context>
   <context>
@@ -2933,7 +2933,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="127"/>
       <source>true</source>
-      <translation type="unfinished">true</translation>
+      <translation>true</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="127"/>
@@ -2943,17 +2943,17 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="129"/>
       <source>Nargs: %1</source>
-      <translation type="unfinished">Nargs: %1</translation>
+      <translation>Nargs: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="131"/>
       <source>Nbbs: %1</source>
-      <translation type="unfinished">Nbbs: %1</translation>
+      <translation>Nbbs: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="133"/>
       <source>Nlocals: %1</source>
-      <translation type="unfinished">Nlocals: %1</translation>
+      <translation>Nlocals: %1</translation>
     </message>
     <message>
       <source>Cyclomatic complexity: %1</source>
@@ -2975,7 +2975,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     </message>
     <message>
       <source>Calls/OutDegree: %1</source>
-      <translation type="unfinished">Calls/OutDegree: %1</translation>
+      <translation>Calls/OutDegree: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="139"/>
@@ -2990,7 +2990,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="220"/>
       <source>&lt;div&gt;&lt;strong&gt;Highlights&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</source>
-      <translation type="unfinished">&lt;div&gt;&lt;strong&gt;Highlights&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
+      <translation>&lt;div&gt;&lt;strong&gt;Highlights&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
     </message>
     <message>
       <source>&lt;div&gt;&lt;strong&gt;Summary&lt;/strong&gt;:&lt;br&gt;</source>
@@ -3022,7 +3022,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="257"/>
       <source>Imp.</source>
-      <translation type="unfinished">Imp.</translation>
+      <translation>Imp.</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="259"/>
@@ -3032,17 +3032,17 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="261"/>
       <source>Nargs</source>
-      <translation type="unfinished">Nargs</translation>
+      <translation>Nargs</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="265"/>
       <source>Nbbs</source>
-      <translation type="unfinished">Nbbs</translation>
+      <translation>Nbbs</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="263"/>
       <source>Nlocals</source>
-      <translation type="unfinished">Nlocals</translation>
+      <translation>Nlocals</translation>
     </message>
     <message>
       <source>Cyclo. Comp.</source>
@@ -3064,7 +3064,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     </message>
     <message>
       <source>Calls/OutDeg.</source>
-      <translation type="unfinished">Calls/OutDeg.</translation>
+      <translation>Calls/OutDeg.</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="271"/>
@@ -3208,7 +3208,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="91"/>
       <source>Big Endian</source>
-      <translation type="unfinished">Big Endian</translation>
+      <translation>Big Endian</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="96"/>
@@ -3279,11 +3279,11 @@ WARNING: In write mode any changes will be commited to disk</source>
     <name>HexdumpWidget</name>
     <message>
       <source>0  1  2  3 ...</source>
-      <translation type="unfinished">0  1  2  3 ...</translation>
+      <translation>0  1  2  3 ...</translation>
     </message>
     <message>
       <source>0123...</source>
-      <translation type="unfinished">0123...</translation>
+      <translation>0123...</translation>
     </message>
     <message>
       <source>Offset</source>
@@ -3313,42 +3313,42 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="129"/>
       <source>C bytes</source>
-      <translation type="unfinished">C bytes</translation>
+      <translation>C bytes</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="134"/>
       <source>C half-words (2 byte)</source>
-      <translation type="unfinished">C half-words (2 byte)</translation>
+      <translation>C half-words (2 byte)</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="139"/>
       <source>C words (4 byte)</source>
-      <translation type="unfinished">C words (4 byte)</translation>
+      <translation>C words (4 byte)</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="144"/>
       <source>C dwords (8 byte)</source>
-      <translation type="unfinished">C dwords (8 byte)</translation>
+      <translation>C dwords (8 byte)</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="149"/>
       <source>Python</source>
-      <translation type="unfinished">Python</translation>
+      <translation>Python</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="154"/>
       <source>JSON</source>
-      <translation type="unfinished">JSON</translation>
+      <translation>JSON</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="159"/>
       <source>JavaScript</source>
-      <translation type="unfinished">JavaScript</translation>
+      <translation>JavaScript</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="164"/>
       <source>Yara</source>
-      <translation type="unfinished">Yara</translation>
+      <translation>Yara</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="178"/>
@@ -3358,7 +3358,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="189"/>
       <source>Little</source>
-      <translation type="unfinished">Little</translation>
+      <translation>Little</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="194"/>
@@ -3378,27 +3378,27 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="289"/>
       <source>16</source>
-      <translation type="unfinished">16</translation>
+      <translation>16</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="294"/>
       <source>32</source>
-      <translation type="unfinished">32</translation>
+      <translation>32</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="299"/>
       <source>64</source>
-      <translation type="unfinished">64</translation>
+      <translation>64</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="388"/>
       <source>MD5:</source>
-      <translation type="unfinished">MD5:</translation>
+      <translation>MD5:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="428"/>
       <source>SHA1:</source>
-      <translation type="unfinished">SHA1:</translation>
+      <translation>SHA1:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="468"/>
@@ -3443,15 +3443,15 @@ WARNING: In write mode any changes will be commited to disk</source>
     </message>
     <message>
       <source>2</source>
-      <translation type="unfinished">2</translation>
+      <translation>2</translation>
     </message>
     <message>
       <source>4</source>
-      <translation type="unfinished">4</translation>
+      <translation>4</translation>
     </message>
     <message>
       <source>8</source>
-      <translation type="unfinished">8</translation>
+      <translation>8</translation>
     </message>
     <message>
       <source>Edit</source>
@@ -3471,7 +3471,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     </message>
     <message>
       <source>Hex</source>
-      <translation type="unfinished">Hex</translation>
+      <translation>Hex</translation>
     </message>
     <message>
       <source>Octal</source>
@@ -3479,15 +3479,15 @@ WARNING: In write mode any changes will be commited to disk</source>
     </message>
     <message>
       <source>Half-word</source>
-      <translation type="unfinished">Half-word</translation>
+      <translation>Half-word</translation>
     </message>
     <message>
       <source>Word</source>
-      <translation type="unfinished">Word</translation>
+      <translation>Word</translation>
     </message>
     <message>
       <source>Quad-word</source>
-      <translation type="unfinished">Quad-word</translation>
+      <translation>Quad-word</translation>
     </message>
     <message>
       <source>Emoji</source>
@@ -3669,7 +3669,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="372"/>
       <source>...</source>
-      <translation type="unfinished">...</translation>
+      <translation>...</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="403"/>
@@ -3699,27 +3699,27 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="473"/>
       <source>CPU:</source>
-      <translation type="unfinished">CPU:</translation>
+      <translation>CPU:</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="524"/>
       <source>8</source>
-      <translation type="unfinished">8</translation>
+      <translation>8</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="529"/>
       <source>16</source>
-      <translation type="unfinished">16</translation>
+      <translation>16</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="534"/>
       <source>32</source>
-      <translation type="unfinished">32</translation>
+      <translation>32</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="539"/>
       <source>64</source>
-      <translation type="unfinished">64</translation>
+      <translation>64</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="553"/>
@@ -3729,12 +3729,12 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="572"/>
       <source>Little</source>
-      <translation type="unfinished">Little</translation>
+      <translation>Little</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="577"/>
       <source>Big</source>
-      <translation type="unfinished">Big</translation>
+      <translation>Big</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="598"/>
@@ -3754,7 +3754,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="699"/>
       <source>1024</source>
-      <translation type="unfinished">1024</translation>
+      <translation>1024</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="718"/>
@@ -3764,7 +3764,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="734"/>
       <source>0x40000</source>
-      <translation type="unfinished">0x40000</translation>
+      <translation>0x40000</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="741"/>
@@ -3804,7 +3804,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="884"/>
       <source>  Ok  </source>
-      <translation type="unfinished">  Ok  </translation>
+      <translation>  Ok  </translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="54"/>
@@ -3947,7 +3947,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <name>JupyterWebView</name>
     <message>
       <source>Jupyter</source>
-      <translation type="unfinished">Jupyter</translation>
+      <translation>Jupyter</translation>
     </message>
   </context>
   <context>
@@ -3979,7 +3979,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../dialogs/LinkTypeDialog.ui" line="26"/>
       <source>=</source>
-      <translation type="unfinished">=</translation>
+      <translation>=</translation>
     </message>
     <message>
       <location filename="../dialogs/LinkTypeDialog.ui" line="43"/>
@@ -4120,7 +4120,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../core/MainWindow.ui" line="261"/>
       <source>Ctrl+N</source>
-      <translation type="unfinished">Ctrl+N</translation>
+      <translation>Ctrl+N</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="266"/>
@@ -4146,7 +4146,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../core/MainWindow.ui" line="287"/>
       <source>Ctrl+O</source>
-      <translation type="unfinished">Ctrl+O</translation>
+      <translation>Ctrl+O</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="292"/>
@@ -4156,7 +4156,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../core/MainWindow.ui" line="295"/>
       <source>Ctrl+S</source>
-      <translation type="unfinished">Ctrl+S</translation>
+      <translation>Ctrl+S</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="353"/>
@@ -4304,7 +4304,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../core/MainWindow.ui" line="471"/>
       <source>Relocs</source>
-      <translation type="unfinished">Relocs</translation>
+      <translation>Relocs</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="474"/>
@@ -4386,7 +4386,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../core/MainWindow.ui" line="580"/>
       <source>Bindiff</source>
-      <translation type="unfinished">Bindiff</translation>
+      <translation>Bindiff</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="585"/>
@@ -4435,7 +4435,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../core/MainWindow.ui" line="647"/>
       <source>Switch case</source>
-      <translation type="unfinished">Switch case</translation>
+      <translation>Switch case</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="652"/>
@@ -4466,37 +4466,37 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../core/MainWindow.ui" line="699"/>
       <source>1</source>
-      <translation type="unfinished">1</translation>
+      <translation>1</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="704"/>
       <source>2</source>
-      <translation type="unfinished">2</translation>
+      <translation>2</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="709"/>
       <source>4</source>
-      <translation type="unfinished">4</translation>
+      <translation>4</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="714"/>
       <source>8</source>
-      <translation type="unfinished">8</translation>
+      <translation>8</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="719"/>
       <source>16</source>
-      <translation type="unfinished">16</translation>
+      <translation>16</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="724"/>
       <source>32</source>
-      <translation type="unfinished">32</translation>
+      <translation>32</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="729"/>
       <source>64</source>
-      <translation type="unfinished">64</translation>
+      <translation>64</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="734"/>
@@ -4564,7 +4564,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../core/MainWindow.ui" line="814"/>
       <source>Ctrl+Q</source>
-      <translation type="unfinished">Ctrl+Q</translation>
+      <translation>Ctrl+Q</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="822"/>
@@ -4654,7 +4654,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../core/MainWindow.ui" line="1094"/>
       <source>Ctrl++</source>
-      <translation type="unfinished">Ctrl++</translation>
+      <translation>Ctrl++</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1102"/>
@@ -4664,7 +4664,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../core/MainWindow.ui" line="1105"/>
       <source>Ctrl+-</source>
-      <translation type="unfinished">Ctrl+-</translation>
+      <translation>Ctrl+-</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1113"/>
@@ -4674,11 +4674,11 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../core/MainWindow.ui" line="1116"/>
       <source>Ctrl+=</source>
-      <translation type="unfinished">Ctrl+=</translation>
+      <translation>Ctrl+=</translation>
     </message>
     <message>
       <source>Tmp</source>
-      <translation type="unfinished">Tmp</translation>
+      <translation>Tmp</translation>
     </message>
     <message>
       <source>Disassembly</source>
@@ -4921,27 +4921,27 @@ Save your project before closing!</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="1484"/>
       <source>C uin8_t array (*.c)</source>
-      <translation type="unfinished">C uin8_t array (*.c)</translation>
+      <translation>C uin8_t array (*.c)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1486"/>
       <source>C uin16_t array (*.c)</source>
-      <translation type="unfinished">C uin16_t array (*.c)</translation>
+      <translation>C uin16_t array (*.c)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1488"/>
       <source>C uin32_t array (*.c)</source>
-      <translation type="unfinished">C uin32_t array (*.c)</translation>
+      <translation>C uin32_t array (*.c)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1490"/>
       <source>C uin64_t array (*.c)</source>
-      <translation type="unfinished">C uin64_t array (*.c)</translation>
+      <translation>C uin64_t array (*.c)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1492"/>
       <source>C string (*.c)</source>
-      <translation type="unfinished">C string (*.c)</translation>
+      <translation>C string (*.c)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1494"/>
@@ -4971,7 +4971,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="1504"/>
       <source>GAS .byte blob (*.asm, *.s)</source>
-      <translation type="unfinished">GAS .byte blob (*.asm, *.s)</translation>
+      <translation>GAS .byte blob (*.asm, *.s)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1506"/>
@@ -5085,11 +5085,11 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NewfileDialog.ui" line="202"/>
       <source>&lt;b&gt;IO&lt;/b&gt;</source>
-      <translation type="unfinished">&lt;b&gt;IO&lt;/b&gt;</translation>
+      <translation>&lt;b&gt;IO&lt;/b&gt;</translation>
     </message>
     <message>
       <source>://</source>
-      <translation type="unfinished">://</translation>
+      <translation>://</translation>
     </message>
     <message>
       <location filename="../dialogs/NewfileDialog.ui" line="296"/>
@@ -5121,7 +5121,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NewfileDialog.ui" line="413"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Projects path (dir.projects):&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Projects path (dir.projects):&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Projects path (dir.projects):&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/NewfileDialog.ui" line="522"/>
@@ -5213,7 +5213,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/OpenFileDialog.ui" line="72"/>
       <source>0x40000</source>
-      <translation type="unfinished">0x40000</translation>
+      <translation>0x40000</translation>
     </message>
     <message>
       <location filename="../dialogs/OpenFileDialog.cpp" line="38"/>
@@ -5292,7 +5292,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/AttachProcDialog.cpp" line="74"/>
       <source>UID</source>
-      <translation type="unfinished">UID</translation>
+      <translation>UID</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.cpp" line="76"/>
@@ -5315,7 +5315,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ProcessesWidget.cpp" line="28"/>
       <source>UID</source>
-      <translation type="unfinished">UID</translation>
+      <translation>UID</translation>
     </message>
     <message>
       <location filename="../widgets/ProcessesWidget.cpp" line="29"/>
@@ -5349,11 +5349,11 @@ Save your project before closing!</source>
     </message>
     <message>
       <source>r2dec</source>
-      <translation type="unfinished">r2dec</translation>
+      <translation>r2dec</translation>
     </message>
     <message>
       <source>pdc</source>
-      <translation type="unfinished">pdc</translation>
+      <translation>pdc</translation>
     </message>
     <message>
       <source>Click Refresh to generate Pseudocode from current offset.</source>
@@ -5519,12 +5519,12 @@ Save your project before closing!</source>
     </message>
     <message>
       <source>flow</source>
-      <translation type="unfinished">flow</translation>
+      <translation>flow</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="467"/>
       <source>flow2</source>
-      <translation type="unfinished">flow2</translation>
+      <translation>flow2</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="472"/>
@@ -5535,7 +5535,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="473"/>
       <source>prompt</source>
-      <translation type="unfinished">prompt</translation>
+      <translation>prompt</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="478"/>
@@ -5588,11 +5588,11 @@ Save your project before closing!</source>
     </message>
     <message>
       <source>bin</source>
-      <translation type="unfinished">bin</translation>
+      <translation>bin</translation>
     </message>
     <message>
       <source>btext</source>
-      <translation type="unfinished">btext</translation>
+      <translation>btext</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="539"/>
@@ -5672,7 +5672,7 @@ Save your project before closing!</source>
     </message>
     <message>
       <source>mov</source>
-      <translation type="unfinished">mov</translation>
+      <translation>mov</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="460"/>
@@ -5924,7 +5924,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="810"/>
       <source>Main</source>
-      <translation type="unfinished">Main</translation>
+      <translation>Main</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="857"/>
@@ -5949,12 +5949,12 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="870"/>
       <source>ucall</source>
-      <translation type="unfinished">ucall</translation>
+      <translation>ucall</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="876"/>
       <source>ujmp</source>
-      <translation type="unfinished">ujmp</translation>
+      <translation>ujmp</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="882"/>
@@ -6043,7 +6043,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/QuickFilterView.ui" line="61"/>
       <source>X</source>
-      <translation type="unfinished">X</translation>
+      <translation>X</translation>
     </message>
   </context>
   <context>
@@ -6064,7 +6064,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="24"/>
       <source>RBin</source>
-      <translation type="unfinished">RBin</translation>
+      <translation>RBin</translation>
     </message>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="30"/>
@@ -6102,7 +6102,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="65"/>
       <source>RIO</source>
-      <translation type="unfinished">RIO</translation>
+      <translation>RIO</translation>
     </message>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="71"/>
@@ -6117,7 +6117,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="106"/>
       <source>RCore</source>
-      <translation type="unfinished">RCore</translation>
+      <translation>RCore</translation>
     </message>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="112"/>
@@ -6127,7 +6127,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="137"/>
       <source>RAsm</source>
-      <translation type="unfinished">RAsm</translation>
+      <translation>RAsm</translation>
     </message>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="143"/>
@@ -6142,7 +6142,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="164"/>
       <source>CPU&apos;s</source>
-      <translation type="unfinished">CPU&apos;s</translation>
+      <translation>CPU&apos;s</translation>
     </message>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="169"/>
@@ -6156,7 +6156,7 @@ Save your project before closing!</source>
     </message>
     <message>
       <source>Cutter</source>
-      <translation type="unfinished">Cutter</translation>
+      <translation>Cutter</translation>
     </message>
     <message>
       <source>Cutter plugins</source>
@@ -6294,17 +6294,17 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="40"/>
       <source>GDB</source>
-      <translation type="unfinished">GDB</translation>
+      <translation>GDB</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="45"/>
       <source>WinDbg - Pipe</source>
-      <translation type="unfinished">WinDbg - Pipe</translation>
+      <translation>WinDbg - Pipe</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="53"/>
       <source>IP:</source>
-      <translation type="unfinished">IP:</translation>
+      <translation>IP:</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="82"/>
@@ -6360,7 +6360,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="61"/>
       <source>Index</source>
-      <translation type="unfinished">Index</translation>
+      <translation>Index</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="63"/>
@@ -6656,7 +6656,7 @@ Save your project before closing!</source>
       <location filename="../dialogs/SetToDataDialog.ui" line="20"/>
       <location filename="../dialogs/SetToDataDialog.ui" line="34"/>
       <source>???</source>
-      <translation type="unfinished">???</translation>
+      <translation>???</translation>
     </message>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="27"/>
@@ -6682,7 +6682,7 @@ Save your project before closing!</source>
       <location filename="../dialogs/SetToDataDialog.ui" line="62"/>
       <location filename="../dialogs/SetToDataDialog.ui" line="69"/>
       <source>1</source>
-      <translation type="unfinished">1</translation>
+      <translation>1</translation>
     </message>
   </context>
   <context>
@@ -6697,11 +6697,11 @@ Save your project before closing!</source>
     </message>
     <message>
       <source>X</source>
-      <translation type="unfinished">X</translation>
+      <translation>X</translation>
     </message>
     <message>
       <source>example.py</source>
-      <translation type="unfinished">example.py</translation>
+      <translation>example.py</translation>
     </message>
     <message>
       <source>Execution finished</source>
@@ -6721,11 +6721,11 @@ Save your project before closing!</source>
     </message>
     <message>
       <source>v</source>
-      <translation type="unfinished">v</translation>
+      <translation>v</translation>
     </message>
     <message>
       <source>^</source>
-      <translation type="unfinished">^</translation>
+      <translation>^</translation>
     </message>
     <message>
       <source>Hexadecimal</source>
@@ -6737,7 +6737,7 @@ Save your project before closing!</source>
     </message>
     <message>
       <source>...</source>
-      <translation type="unfinished">...</translation>
+      <translation>...</translation>
     </message>
     <message>
       <source>Settings</source>
@@ -6764,7 +6764,7 @@ Save your project before closing!</source>
     </message>
     <message>
       <source>...</source>
-      <translation type="unfinished">...</translation>
+      <translation>...</translation>
     </message>
     <message>
       <source>Opcode description:</source>
@@ -7106,7 +7106,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="322"/>
       <source>Cutter</source>
-      <translation type="unfinished">Cutter</translation>
+      <translation>Cutter</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="322"/>
@@ -7262,7 +7262,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="83"/>
       <source>Cutter</source>
-      <translation type="unfinished">Cutter</translation>
+      <translation>Cutter</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="104"/>
