@@ -3103,12 +3103,12 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="432"/>
       <source>Horizontal</source>
-      <translation type="unfinished">Horizontal</translation>
+      <translation>水平</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="433"/>
       <source>Vertical</source>
-      <translation type="unfinished">Vertical</translation>
+      <translation>垂直</translation>
     </message>
   </context>
   <context>
@@ -3214,7 +3214,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="106"/>
       <source>Copy address</source>
-      <translation type="unfinished">Copy address</translation>
+      <translation>复制地址</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="112"/>
@@ -3755,7 +3755,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="734"/>
       <source>0x40000</source>
-      <translation type="unfinished">0x40000</translation>
+      <translation>0x40000</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="741"/>
