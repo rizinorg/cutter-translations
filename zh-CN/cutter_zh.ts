@@ -6055,7 +6055,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="24"/>
       <source>RBin</source>
-      <translation type="unfinished">RBin</translation>
+      <translation>RBin</translation>
     </message>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="30"/>
@@ -6093,7 +6093,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="65"/>
       <source>RIO</source>
-      <translation type="unfinished">RIO</translation>
+      <translation>RIO</translation>
     </message>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="71"/>
@@ -6108,7 +6108,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="106"/>
       <source>RCore</source>
-      <translation type="unfinished">RCore</translation>
+      <translation>RCore</translation>
     </message>
     <message>
       <location filename="../dialogs/R2PluginsDialog.ui" line="112"/>
@@ -6788,7 +6788,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="239"/>
       <source>Reference</source>
-      <translation type="unfinished">Reference</translation>
+      <translation>引用</translation>
     </message>
   </context>
   <context>
@@ -6799,7 +6799,7 @@ Save your project before closing!</source>
     </message>
     <message>
       <source>Value</source>
-      <translation type="unfinished">Value</translation>
+      <translation>值</translation>
     </message>
     <message>
       <source>Reference</source>
