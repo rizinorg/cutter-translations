@@ -2874,7 +2874,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="79"/>
       <source>Quick Filter</source>
-      <translation type="unfinished">Quick Filter</translation>
+      <translation>Filtro Rapido</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="86"/>
@@ -2884,12 +2884,12 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="99"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>Rinomina</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="102"/>
       <source>N</source>
-      <translation type="unfinished">N</translation>
+      <translation>N</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="110"/>
@@ -2899,7 +2899,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="113"/>
       <source>Del</source>
-      <translation type="unfinished">Del</translation>
+      <translation>Canc</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="216"/>
@@ -2984,7 +2984,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="220"/>
       <source>&lt;div&gt;&lt;strong&gt;Highlights&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</source>
-      <translation type="unfinished">&lt;div&gt;&lt;strong&gt;Highlights&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
+      <translation>&lt;div&gt;&lt;strong&gt;Evidenziazione&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
     </message>
     <message>
       <source>&lt;div&gt;&lt;strong&gt;Summary&lt;/strong&gt;:&lt;br&gt;</source>
@@ -3006,7 +3006,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
       <location filename="../widgets/FunctionsWidget.cpp" line="249"/>
       <location filename="../widgets/FunctionsWidget.cpp" line="253"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Nome</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="255"/>
@@ -3016,27 +3016,27 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="257"/>
       <source>Imp.</source>
-      <translation type="unfinished">Imp.</translation>
+      <translation>Imp.</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="259"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>Offset</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="261"/>
       <source>Nargs</source>
-      <translation type="unfinished">Nargs</translation>
+      <translation>Narg</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="265"/>
       <source>Nbbs</source>
-      <translation type="unfinished">Nbbs</translation>
+      <translation>Nbb</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="263"/>
       <source>Nlocals</source>
-      <translation type="unfinished">Nlocals</translation>
+      <translation>Nlocal</translation>
     </message>
     <message>
       <source>Cyclo. Comp.</source>
@@ -3045,16 +3045,16 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="267"/>
       <source>Call type</source>
-      <translation type="unfinished">Call type</translation>
+      <translation>Tipo di chiamata</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="269"/>
       <source>Edges</source>
-      <translation type="unfinished">Edges</translation>
+      <translation>Bordi</translation>
     </message>
     <message>
       <source>Cost</source>
-      <translation type="unfinished">Cost</translation>
+      <translation>Costo</translation>
     </message>
     <message>
       <source>Calls/OutDeg.</source>
@@ -3083,7 +3083,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="430"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>Rinomina</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="431"/>
@@ -3093,11 +3093,11 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="435"/>
       <source>Functions</source>
-      <translation type="unfinished">Functions</translation>
+      <translation>Funzioni</translation>
     </message>
     <message>
       <source>X-Refs</source>
-      <translation type="unfinished">X-Refs</translation>
+      <translation>X-Ref</translation>
     </message>
     <message>
       <source>Cross references</source>
@@ -3106,12 +3106,12 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="432"/>
       <source>Horizontal</source>
-      <translation type="unfinished">Horizontal</translation>
+      <translation>Orizzontale</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="433"/>
       <source>Vertical</source>
-      <translation type="unfinished">Vertical</translation>
+      <translation>Verticale</translation>
     </message>
   </context>
   <context>
@@ -3129,7 +3129,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="49"/>
       <source>Show offsets (graph.offset)</source>
-      <translation type="unfinished">Show offsets (graph.offset)</translation>
+      <translation>Mostra offset (graph.offset)</translation>
     </message>
     <message>
       <source>Show offsets (graph.offset) </source>
@@ -3141,12 +3141,12 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="54"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>Offset</translation>
     </message>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="56"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Nome</translation>
     </message>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="58"/>
@@ -3159,7 +3159,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="115"/>
       <source>Headers</source>
-      <translation type="unfinished">Headers</translation>
+      <translation>Intestazioni</translation>
     </message>
   </context>
   <context>
@@ -3167,72 +3167,72 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../widgets/HexWidget.cpp" line="58"/>
       <source>Hexadecimal</source>
-      <translation type="unfinished">Hexadecimal</translation>
+      <translation>Esadecimale</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="59"/>
       <source>Octal</source>
-      <translation type="unfinished">Octal</translation>
+      <translation>Ottale</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="60"/>
       <source>Decimal</source>
-      <translation type="unfinished">Decimal</translation>
+      <translation>Decimale</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="61"/>
       <source>Signed decimal</source>
-      <translation type="unfinished">Signed decimal</translation>
+      <translation>Decimale firmato</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="62"/>
       <source>Float</source>
-      <translation type="unfinished">Float</translation>
+      <translation>Virgola mobile</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="75"/>
       <source>Bytes per row</source>
-      <translation type="unfinished">Bytes per row</translation>
+      <translation>Byte per riga</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="85"/>
       <source>Power of 2</source>
-      <translation type="unfinished">Power of 2</translation>
+      <translation>Potenza di 2</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="91"/>
       <source>Big Endian</source>
-      <translation type="unfinished">Big Endian</translation>
+      <translation>Grande Endiano</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="96"/>
       <source>Bytes as pairs</source>
-      <translation type="unfinished">Bytes as pairs</translation>
+      <translation>Byte come coppie</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="100"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>Copia</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="106"/>
       <source>Copy address</source>
-      <translation type="unfinished">Copy address</translation>
+      <translation>Copia indirizzo</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="112"/>
       <source>Select range</source>
-      <translation type="unfinished">Select range</translation>
+      <translation>Seleziona intervallo</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="566"/>
       <source>Item size:</source>
-      <translation type="unfinished">Item size:</translation>
+      <translation>Dimensione elemento:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="568"/>
       <source>Item format:</source>
-      <translation type="unfinished">Item format:</translation>
+      <translation>Formato elemento:</translation>
     </message>
   </context>
   <context>
@@ -3240,33 +3240,33 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="14"/>
       <source>Select Block</source>
-      <translation type="unfinished">Select Block</translation>
+      <translation>Seleziona Blocco</translation>
     </message>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="47"/>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="79"/>
       <source>Exclusive end address</source>
-      <translation type="unfinished">Exclusive end address</translation>
+      <translation>Indirizzo finale esclusivo</translation>
     </message>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="50"/>
       <source>End Address:</source>
-      <translation type="unfinished">End Address:</translation>
+      <translation>Indirizzo Finale:</translation>
     </message>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="65"/>
       <source>Start Address:</source>
-      <translation type="unfinished">Start Address:</translation>
+      <translation>Indirizzo Iniziale:</translation>
     </message>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="99"/>
       <source>Length:</source>
-      <translation type="unfinished">Length:</translation>
+      <translation>Lunghezza:</translation>
     </message>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="115"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff8585;&quot;&gt;Big selection might cause a delay&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff8585;&quot;&gt;Big selection might cause a delay&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff8585;&quot;&gt;Una grande selezione potrebbe causare un ritardo&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
   </context>
   <context>
@@ -3281,28 +3281,28 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     </message>
     <message>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>Offset</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="70"/>
       <source>Parsing</source>
-      <translation type="unfinished">Parsing</translation>
+      <translation>Analizzando</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="110"/>
       <location filename="../widgets/HexdumpWidget.ui" line="114"/>
       <source>Disassembly</source>
-      <translation type="unfinished">Disassembly</translation>
+      <translation>Disassemblaggio</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="119"/>
       <source>String</source>
-      <translation type="unfinished">String</translation>
+      <translation>Stringa</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="124"/>
       <source>Assembler</source>
-      <translation type="unfinished">Assembler</translation>
+      <translation>Assemblatore</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="129"/>
@@ -5145,12 +5145,12 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="118"/>
       <source>Permission denied</source>
-      <translation type="unfinished">Permission denied</translation>
+      <translation>Permesso negato</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="119"/>
       <source>You do not have write access to &lt;b&gt;%1&lt;/b&gt;</source>
-      <translation type="unfinished">You do not have write access to &lt;b&gt;%1&lt;/b&gt;</translation>
+      <translation>Non devi l'accesso di scrittura a &lt;b&gt;%1&lt;/b&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="233"/>
@@ -5160,7 +5160,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="339"/>
       <source>Open a file with no extra treatment.</source>
-      <translation type="unfinished">Open a file with no extra treatment.</translation>
+      <translation>Apri un file senza trattamento extra.</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="366"/>
@@ -5188,17 +5188,17 @@ Save your project before closing!</translation>
       <location filename="../dialogs/OpenFileDialog.ui" line="52"/>
       <location filename="../dialogs/OpenFileDialog.cpp" line="20"/>
       <source>Select file</source>
-      <translation type="unfinished">Select file</translation>
+      <translation>Seleziona file</translation>
     </message>
     <message>
       <location filename="../dialogs/OpenFileDialog.ui" line="59"/>
       <source>Map address:</source>
-      <translation type="unfinished">Map address:</translation>
+      <translation>Indirizzo mappa:</translation>
     </message>
     <message>
       <location filename="../dialogs/OpenFileDialog.ui" line="26"/>
       <source>File:</source>
-      <translation type="unfinished">File:</translation>
+      <translation>File:</translation>
     </message>
     <message>
       <source>Map address</source>
@@ -5212,7 +5212,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/OpenFileDialog.cpp" line="38"/>
       <source>Failed to open file</source>
-      <translation type="unfinished">Failed to open file</translation>
+      <translation>Impossibile aprire il file</translation>
     </message>
   </context>
   <context>
@@ -5220,32 +5220,32 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="26"/>
       <source>Plugins are loaded from &lt;b&gt;%1&lt;/b&gt;</source>
-      <translation type="unfinished">Plugins are loaded from &lt;b&gt;%1&lt;/b&gt;</translation>
+      <translation>I plugin sono caricati da &lt;b&gt;%1&lt;/b&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="32"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Nome</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="33"/>
       <source>Description</source>
-      <translation type="unfinished">Description</translation>
+      <translation>Descrizione</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="34"/>
       <source>Version</source>
-      <translation type="unfinished">Version</translation>
+      <translation>Versione</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="35"/>
       <source>Author</source>
-      <translation type="unfinished">Author</translation>
+      <translation>Autore</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="50"/>
       <source>Show radare2 plugin information</source>
-      <translation type="unfinished">Show radare2 plugin information</translation>
+      <translation>Mostra informazioni del plugin radare2</translation>
     </message>
   </context>
   <context>
@@ -5253,27 +5253,27 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.ui" line="6"/>
       <source>Preferences</source>
-      <translation type="unfinished">Preferences</translation>
+      <translation>Preferenze</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="29"/>
       <source>Disassembly</source>
-      <translation type="unfinished">Disassembly</translation>
+      <translation>Disassemblaggio</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="41"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>Debug</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="46"/>
       <source>Appearance</source>
-      <translation type="unfinished">Appearance</translation>
+      <translation>Aspetto</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="51"/>
       <source>Plugins</source>
-      <translation type="unfinished">Plugins</translation>
+      <translation>Plugin</translation>
     </message>
   </context>
   <context>
@@ -5291,7 +5291,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/AttachProcDialog.cpp" line="76"/>
       <source>Status</source>
-      <translation type="unfinished">Status</translation>
+      <translation>Stato</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.cpp" line="78"/>
@@ -5304,27 +5304,27 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/ProcessesWidget.cpp" line="27"/>
       <source>PID</source>
-      <translation type="unfinished">PID</translation>
+      <translation>PID</translation>
     </message>
     <message>
       <location filename="../widgets/ProcessesWidget.cpp" line="28"/>
       <source>UID</source>
-      <translation type="unfinished">UID</translation>
+      <translation>UID</translation>
     </message>
     <message>
       <location filename="../widgets/ProcessesWidget.cpp" line="29"/>
       <source>Status</source>
-      <translation type="unfinished">Status</translation>
+      <translation>Stato</translation>
     </message>
     <message>
       <location filename="../widgets/ProcessesWidget.cpp" line="30"/>
       <source>Path</source>
-      <translation type="unfinished">Path</translation>
+      <translation>Percorso</translation>
     </message>
     <message>
       <location filename="../widgets/ProcessesWidget.cpp" line="172"/>
       <source>Unable to switch to the requested process.</source>
-      <translation type="unfinished">Unable to switch to the requested process.</translation>
+      <translation>Impossibile passare al processo richiesto.</translation>
     </message>
   </context>
   <context>
@@ -5367,7 +5367,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="73"/>
       <source>A Qt and C++ GUI for radare2 reverse engineering framework</source>
-      <translation type="unfinished">A Qt and C++ GUI for radare2 reverse engineering framework</translation>
+      <translation>Una GUI Qt e C++ per il framework di ingegneria inverso di radare2</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="76"/>
@@ -5377,22 +5377,22 @@ Save your project before closing!</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="79"/>
       <source>Automatically open file and optionally start analysis. Needs filename to be specified. May be a value between 0 and 2: 0 = no analysis, 1 = aaa, 2 = aaaa (experimental)</source>
-      <translation type="unfinished">Automatically open file and optionally start analysis. Needs filename to be specified. May be a value between 0 and 2: 0 = no analysis, 1 = aaa, 2 = aaaa (experimental)</translation>
+      <translation>Apri automaticamente il file ed opzionalmente avvia le analisi. Necessita che il nome del file sia specificato. Potrebbe essere un valore tra 0 e 2: 0 = nessuna analisi, 1 = aaa, 2 = aaaa (sperimentale)</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="80"/>
       <source>level</source>
-      <translation type="unfinished">level</translation>
+      <translation>livello</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="84"/>
       <source>Force using a specific file format (bin plugin)</source>
-      <translation type="unfinished">Force using a specific file format (bin plugin)</translation>
+      <translation>Forza l'uso di un formato di file specifico (plugin bin)</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="85"/>
       <source>name</source>
-      <translation type="unfinished">name</translation>
+      <translation>nome</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="89"/>
@@ -5407,7 +5407,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="93"/>
       <source>PYTHONHOME to use for embedded python interpreter</source>
-      <translation type="unfinished">PYTHONHOME to use for embedded python interpreter</translation>
+      <translation>PYTHONHOME da usare per l'interprete di python incorporato</translation>
     </message>
     <message>
       <source>PYTHONHOME to use for Jupyter</source>
@@ -5416,17 +5416,17 @@ Save your project before closing!</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="108"/>
       <source>Version mismatch!</source>
-      <translation type="unfinished">Version mismatch!</translation>
+      <translation>Mancata corrispondenza della versione!</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="110"/>
       <source>The version used to compile Cutter (%1) does not match the binary version of radare2 (%2). This could result in unexpected behaviour. Are you sure you want to continue?</source>
-      <translation type="unfinished">The version used to compile Cutter (%1) does not match the binary version of radare2 (%2). This could result in unexpected behaviour. Are you sure you want to continue?</translation>
+      <translation>La versione usata per compilare Cutter (%1) non corrisponde alla versione binaria di radare2 (%2). Questo potrebbe risultare in un comportamento inatteso. Sei sicuro di voler continuare?</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="151"/>
       <source>Invalid Analysis Level. May be a value between 0 and 2.</source>
-      <translation type="unfinished">Invalid Analysis Level. May be a value between 0 and 2.</translation>
+      <translation>Livello di Analisi Non Valido. Potrebbe essere un valore tra 0 e 2.</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="173"/>
