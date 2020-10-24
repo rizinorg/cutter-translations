@@ -2370,32 +2370,32 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="129"/>
       <source>Structure offset</source>
-      <translation type="unfinished">Structure offset</translation>
+      <translation>Offset struttura</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="133"/>
       <source>Link Type to Address</source>
-      <translation type="unfinished">Link Type to Address</translation>
+      <translation>Tipo di Collegamento all'Indirizzo</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="221"/>
       <source>Set as...</source>
-      <translation type="unfinished">Set as...</translation>
+      <translation>Imposta come...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="223"/>
       <source>Code</source>
-      <translation type="unfinished">Code</translation>
+      <translation>Codice</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="227"/>
       <source>String...</source>
-      <translation type="unfinished">String...</translation>
+      <translation>Stringa...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="229"/>
       <source>Auto-detect</source>
-      <translation type="unfinished">Auto-detect</translation>
+      <translation>Rilevamento automatico</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="231"/>
@@ -2405,7 +2405,7 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="233"/>
       <source>Adanced</source>
-      <translation type="unfinished">Adanced</translation>
+      <translation>Avanzate</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="246"/>
@@ -2580,7 +2580,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="916"/>
       <source>Can&apos;t edit string at this address</source>
-      <translation type="unfinished">Can&apos;t edit string at this address</translation>
+      <translation>Impossibile modificare la stringa a questo indirizzo</translation>
     </message>
     <message>
       <source>Add Comment at %1</source>
@@ -2644,7 +2644,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     </message>
     <message>
       <source>Sync/unsync offset</source>
-      <translation type="unfinished">Sync/unsync offset</translation>
+      <translation>Offset sincronizzazione/disincronizzazione</translation>
     </message>
   </context>
   <context>
@@ -2708,27 +2708,27 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="42"/>
       <source>Address:</source>
-      <translation type="unfinished">Address:</translation>
+      <translation>Indirizzo:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="52"/>
       <source>Virtual:</source>
-      <translation type="unfinished">Virtual:</translation>
+      <translation>Virtuale:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="66"/>
       <source>Offset in VTable:</source>
-      <translation type="unfinished">Offset in VTable:</translation>
+      <translation>Offset in VTable:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.cpp" line="153"/>
       <source>Create Method</source>
-      <translation type="unfinished">Create Method</translation>
+      <translation>Crea Metodo</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.cpp" line="168"/>
       <source>Edit Method</source>
-      <translation type="unfinished">Edit Method</translation>
+      <translation>Modifica Metodo</translation>
     </message>
   </context>
   <context>
@@ -2736,37 +2736,37 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="23"/>
       <source>Edit string</source>
-      <translation type="unfinished">Edit string</translation>
+      <translation>Modifica stringa</translation>
     </message>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="33"/>
       <source>Address:</source>
-      <translation type="unfinished">Address:</translation>
+      <translation>Indirizzo:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="46"/>
       <source>Size:</source>
-      <translation type="unfinished">Size:</translation>
+      <translation>Dimensione:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="53"/>
       <source>Type:</source>
-      <translation type="unfinished">Type:</translation>
+      <translation>Tipo:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="86"/>
       <source>Auto</source>
-      <translation type="unfinished">Auto</translation>
+      <translation>Automatico</translation>
     </message>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="95"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>Annulla</translation>
     </message>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="102"/>
       <source>OK</source>
-      <translation type="unfinished">OK</translation>
+      <translation>OK</translation>
     </message>
   </context>
   <context>
@@ -2779,17 +2779,17 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../dialogs/EditVariablesDialog.ui" line="22"/>
       <source>Modify:</source>
-      <translation type="unfinished">Modify:</translation>
+      <translation>Modifica:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditVariablesDialog.ui" line="35"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>Nome:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditVariablesDialog.ui" line="42"/>
       <source>Type:</source>
-      <translation type="unfinished">Type:</translation>
+      <translation>Tipo:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditVariablesDialog.cpp" line="19"/>
@@ -2812,12 +2812,12 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="63"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>Tipo</translation>
     </message>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="65"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Nome</translation>
     </message>
   </context>
   <context>
@@ -2825,7 +2825,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="131"/>
       <source>Exports</source>
-      <translation type="unfinished">Exports</translation>
+      <translation>Esportazioni</translation>
     </message>
   </context>
   <context>
@@ -2833,7 +2833,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="14"/>
       <source>Add Flag</source>
-      <translation type="unfinished">Add Flag</translation>
+      <translation>Aggiungi Flag</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="31"/>
@@ -2848,7 +2848,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="73"/>
       <source>Size:</source>
-      <translation type="unfinished">Size:</translation>
+      <translation>Dimensione:</translation>
     </message>
   </context>
   <context>
@@ -2861,12 +2861,12 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="62"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>Offset</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="64"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Nome</translation>
     </message>
   </context>
   <context>
@@ -3307,22 +3307,22 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="129"/>
       <source>C bytes</source>
-      <translation type="unfinished">C bytes</translation>
+      <translation>Byte C</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="134"/>
       <source>C half-words (2 byte)</source>
-      <translation type="unfinished">C half-words (2 byte)</translation>
+      <translation>Mezze parole C (2 byte)</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="139"/>
       <source>C words (4 byte)</source>
-      <translation type="unfinished">C words (4 byte)</translation>
+      <translation>Parole C (4 byte)</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="144"/>
       <source>C dwords (8 byte)</source>
-      <translation type="unfinished">C dwords (8 byte)</translation>
+      <translation>Dword C (8 byte)</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="149"/>
@@ -3342,32 +3342,32 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="164"/>
       <source>Yara</source>
-      <translation type="unfinished">Yara</translation>
+      <translation>Yara</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="178"/>
       <source>Endian</source>
-      <translation type="unfinished">Endian</translation>
+      <translation>Endiano</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="189"/>
       <source>Little</source>
-      <translation type="unfinished">Little</translation>
+      <translation>Piccolo</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="194"/>
       <source>Big</source>
-      <translation type="unfinished">Big</translation>
+      <translation>Grande</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="249"/>
       <source>Arch</source>
-      <translation type="unfinished">Arch</translation>
+      <translation>Arco</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="278"/>
       <source>Bits</source>
-      <translation type="unfinished">Bits</translation>
+      <translation>Bit</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="289"/>
@@ -3387,17 +3387,17 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="388"/>
       <source>MD5:</source>
-      <translation type="unfinished">MD5:</translation>
+      <translation>MD5:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="428"/>
       <source>SHA1:</source>
-      <translation type="unfinished">SHA1:</translation>
+      <translation>SHA1:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="468"/>
       <source>Entropy:</source>
-      <translation type="unfinished">Entropy:</translation>
+      <translation>Entropia:</translation>
     </message>
     <message>
       <source>Hexdump side panel</source>
@@ -3449,7 +3449,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     </message>
     <message>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>Modifica</translation>
     </message>
     <message>
       <source>Paste</source>
@@ -3469,7 +3469,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     </message>
     <message>
       <source>Octal</source>
-      <translation type="unfinished">Octal</translation>
+      <translation>Ottale</translation>
     </message>
     <message>
       <source>Half-word</source>
@@ -3514,11 +3514,11 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     </message>
     <message>
       <source>Format</source>
-      <translation type="unfinished">Format</translation>
+      <translation>Formato</translation>
     </message>
     <message>
       <source>Sync/unsync offset</source>
-      <translation type="unfinished">Sync/unsync offset</translation>
+      <translation>Offset sincronizzazione/disincronizzazione</translation>
     </message>
     <message>
       <source>Error: Could not select range, end address is less then start address</source>
@@ -3530,7 +3530,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="48"/>
       <source>Unsafe</source>
-      <translation type="unfinished">Unsafe</translation>
+      <translation>Non sicuro</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="70"/>
@@ -3540,17 +3540,17 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="72"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>Tipo</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="74"/>
       <source>Safety</source>
-      <translation type="unfinished">Safety</translation>
+      <translation>Sicurezza</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="76"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Nome</translation>
     </message>
   </context>
   <context>
@@ -3558,7 +3558,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="147"/>
       <source>Imports</source>
-      <translation type="unfinished">Imports</translation>
+      <translation>Importazioni</translation>
     </message>
   </context>
   <context>
@@ -3663,7 +3663,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="372"/>
       <source>...</source>
-      <translation type="unfinished">...</translation>
+      <translation>...</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="403"/>
@@ -3678,7 +3678,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="448"/>
       <source>Architecture:</source>
-      <translation type="unfinished">Architecture:</translation>
+      <translation>Architettura:</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="459"/>
@@ -3688,7 +3688,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
       <location filename="../dialogs/InitialOptionsDialog.ui" line="637"/>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="37"/>
       <source>Auto</source>
-      <translation type="unfinished">Auto</translation>
+      <translation>Automatico</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="473"/>
@@ -3698,22 +3698,22 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="524"/>
       <source>8</source>
-      <translation type="unfinished">8</translation>
+      <translation>8</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="529"/>
       <source>16</source>
-      <translation type="unfinished">16</translation>
+      <translation>16</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="534"/>
       <source>32</source>
-      <translation type="unfinished">32</translation>
+      <translation>32</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="539"/>
       <source>64</source>
-      <translation type="unfinished">64</translation>
+      <translation>64</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="553"/>
@@ -3723,12 +3723,12 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="572"/>
       <source>Little</source>
-      <translation type="unfinished">Little</translation>
+      <translation>Piccolo</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="577"/>
       <source>Big</source>
-      <translation type="unfinished">Big</translation>
+      <translation>Grande</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="598"/>
@@ -3738,7 +3738,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="626"/>
       <source>Format:</source>
-      <translation type="unfinished">Format:</translation>
+      <translation>Formato:</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="680"/>
@@ -3758,7 +3758,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="734"/>
       <source>0x40000</source>
-      <translation type="unfinished">0x40000</translation>
+      <translation>0x40000</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="741"/>
@@ -3803,52 +3803,52 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="54"/>
       <source>Analyze all symbols</source>
-      <translation type="unfinished">Analyze all symbols</translation>
+      <translation>Analizza tutti i simboli</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="55"/>
       <source>Analyze instructions for references</source>
-      <translation type="unfinished">Analyze instructions for references</translation>
+      <translation>Analizza le istruzioni per i riferimenti</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="56"/>
       <source>Analyze function calls</source>
-      <translation type="unfinished">Analyze function calls</translation>
+      <translation>Analizza chiamate alla funzione</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="57"/>
       <source>Analyze all basic blocks</source>
-      <translation type="unfinished">Analyze all basic blocks</translation>
+      <translation>Analizza tutti i blocchi di base</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="58"/>
       <source>Analyze all objc references</source>
-      <translation type="unfinished">Analyze all objc references</translation>
+      <translation>Analizza tutti i riferimenti objc</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="59"/>
       <source>Recover class information from RTTI</source>
-      <translation type="unfinished">Recover class information from RTTI</translation>
+      <translation>Recupera le informazioni della classe da RTTI</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="60"/>
       <source>Autoname functions based on context</source>
-      <translation type="unfinished">Autoname functions based on context</translation>
+      <translation>Nomina automaticamente le funzioni in base al contesto</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="61"/>
       <source>Emulate code to find computed references</source>
-      <translation type="unfinished">Emulate code to find computed references</translation>
+      <translation>Emula il codice per trovare i riferimenti calcolati</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="62"/>
       <source>Analyze all consecutive functions</source>
-      <translation type="unfinished">Analyze all consecutive functions</translation>
+      <translation>Analizza tutte le funzioni consecutive</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="63"/>
       <source>Type and Argument matching analysis</source>
-      <translation type="unfinished">Type and Argument matching analysis</translation>
+      <translation>Analisi di corrispondenza del Tipo e dell'Argomento</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="64"/>
@@ -3863,17 +3863,17 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="66"/>
       <source>Analyze jump tables in switch statements</source>
-      <translation type="unfinished">Analyze jump tables in switch statements</translation>
+      <translation>Analizza le tabelle di salto nelle istruzioni di scambio</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="67"/>
       <source>Analyze PUSH+RET as JMP</source>
-      <translation type="unfinished">Analyze PUSH+RET as JMP</translation>
+      <translation>Analizza PUSH+RET come JMP</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="68"/>
       <source>Continue analysis after each function</source>
-      <translation type="unfinished">Continue analysis after each function</translation>
+      <translation>Continua analisi dopo ogni funzione</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="318"/>
@@ -4022,7 +4022,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../core/MainWindow.ui" line="33"/>
       <source>Add extra...</source>
-      <translation type="unfinished">Add extra...</translation>
+      <translation>Aggiungi extra...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="61"/>
@@ -4033,12 +4033,12 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
       <location filename="../core/MainWindow.ui" line="79"/>
       <location filename="../core/MainWindow.cpp" line="221"/>
       <source>View</source>
-      <translation type="unfinished">View</translation>
+      <translation>Vista</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="86"/>
       <source>Zoom</source>
-      <translation type="unfinished">Zoom</translation>
+      <translation>Zoom</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="106"/>
@@ -4049,67 +4049,67 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
       <location filename="../core/MainWindow.ui" line="113"/>
       <location filename="../core/MainWindow.ui" line="632"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>Modifica</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="123"/>
       <source>Windows</source>
-      <translation type="unfinished">Windows</translation>
+      <translation>Finestre</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="127"/>
       <source>Plugins</source>
-      <translation type="unfinished">Plugins</translation>
+      <translation>Plugin</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="132"/>
       <source>Info...</source>
-      <translation type="unfinished">Info...</translation>
+      <translation>Info...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="151"/>
       <source>Debug...</source>
-      <translation type="unfinished">Debug...</translation>
+      <translation>Debug...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="186"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>Debug</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="232"/>
       <source>Reset Layout</source>
-      <translation type="unfinished">Reset Layout</translation>
+      <translation>Ripristina Layout</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="235"/>
       <source>Reset layout</source>
-      <translation type="unfinished">Reset layout</translation>
+      <translation>Ripristina layout</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="240"/>
       <source>Zen Mode</source>
-      <translation type="unfinished">Zen Mode</translation>
+      <translation>Modalità Zen</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="243"/>
       <source>Zen mode</source>
-      <translation type="unfinished">Zen mode</translation>
+      <translation>Modalità zen</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="248"/>
       <source>About</source>
-      <translation type="unfinished">About</translation>
+      <translation>Su di noi</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="253"/>
       <source>Report an issue</source>
-      <translation type="unfinished">Report an issue</translation>
+      <translation>Segnala un problema</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="258"/>
       <source>New</source>
-      <translation type="unfinished">New</translation>
+      <translation>Nuovo</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="261"/>
@@ -4170,13 +4170,13 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../core/MainWindow.ui" line="305"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>Copia</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="310"/>
       <location filename="../core/MainWindow.ui" line="637"/>
       <source>Paste</source>
-      <translation type="unfinished">Paste</translation>
+      <translation>Incolla</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="315"/>
@@ -4258,12 +4258,12 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../core/MainWindow.ui" line="427"/>
       <source>Segments</source>
-      <translation type="unfinished">Segments</translation>
+      <translation>Segmenti</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="430"/>
       <source>Show/Hide Segments panel</source>
-      <translation type="unfinished">Show/Hide Segments panel</translation>
+      <translation>Mostra/Nascondi pannello Segmenti</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="438"/>
@@ -4278,7 +4278,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../core/MainWindow.ui" line="449"/>
       <source>Imports</source>
-      <translation type="unfinished">Imports</translation>
+      <translation>Importazioni</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="452"/>
@@ -4298,7 +4298,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../core/MainWindow.ui" line="471"/>
       <source>Relocs</source>
-      <translation type="unfinished">Relocs</translation>
+      <translation>Rilocalizzazioni</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="474"/>
@@ -4308,7 +4308,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../core/MainWindow.ui" line="482"/>
       <source>Flags</source>
-      <translation type="unfinished">Flags</translation>
+      <translation>Flag</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="485"/>
@@ -4334,7 +4334,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
       <location filename="../core/MainWindow.ui" line="523"/>
       <location filename="../core/MainWindow.ui" line="526"/>
       <source>Tabs up/down</source>
-      <translation type="unfinished">Tabs up/down</translation>
+      <translation>Schede su/giù</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="535"/>
@@ -4359,7 +4359,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../core/MainWindow.ui" line="557"/>
       <source>Toggle tab position</source>
-      <translation type="unfinished">Toggle tab position</translation>
+      <translation>Attiva/disattiva posizione scheda</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="562"/>
@@ -4380,7 +4380,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../core/MainWindow.ui" line="580"/>
       <source>Bindiff</source>
-      <translation type="unfinished">Bindiff</translation>
+      <translation>Bindiff</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="585"/>
@@ -4390,7 +4390,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../core/MainWindow.ui" line="590"/>
       <source>Test menu</source>
-      <translation type="unfinished">Test menu</translation>
+      <translation>Menu di prova</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="595"/>
@@ -4407,7 +4407,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../core/MainWindow.ui" line="611"/>
       <source>Copy ASCII</source>
-      <translation type="unfinished">Copy ASCII</translation>
+      <translation>Copia ASCII</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="616"/>
@@ -4429,19 +4429,19 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../core/MainWindow.ui" line="647"/>
       <source>Switch case</source>
-      <translation type="unfinished">Switch case</translation>
+      <translation>Cambia maiusc/minusc</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="652"/>
       <location filename="../core/MainWindow.ui" line="655"/>
       <source>Copy all</source>
-      <translation type="unfinished">Copy all</translation>
+      <translation>Copia tutto</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="660"/>
       <location filename="../core/MainWindow.ui" line="663"/>
       <source>Copy bytes</source>
-      <translation type="unfinished">Copy bytes</translation>
+      <translation>Copia byte</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="668"/>
@@ -4465,32 +4465,32 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../core/MainWindow.ui" line="704"/>
       <source>2</source>
-      <translation type="unfinished">2</translation>
+      <translation>2</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="709"/>
       <source>4</source>
-      <translation type="unfinished">4</translation>
+      <translation>4</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="714"/>
       <source>8</source>
-      <translation type="unfinished">8</translation>
+      <translation>8</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="719"/>
       <source>16</source>
-      <translation type="unfinished">16</translation>
+      <translation>16</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="724"/>
       <source>32</source>
-      <translation type="unfinished">32</translation>
+      <translation>32</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="729"/>
       <source>64</source>
-      <translation type="unfinished">64</translation>
+      <translation>64</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="734"/>
@@ -4501,18 +4501,18 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
       <location filename="../core/MainWindow.ui" line="739"/>
       <location filename="../core/MainWindow.ui" line="749"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>Rinomina</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="744"/>
       <location filename="../core/MainWindow.ui" line="754"/>
       <source>Undefine</source>
-      <translation type="unfinished">Undefine</translation>
+      <translation>Rimuovi Definizione</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="759"/>
       <source>Add comment</source>
-      <translation type="unfinished">Add comment</translation>
+      <translation>Aggiungi commento</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="771"/>
@@ -4533,7 +4533,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../core/MainWindow.ui" line="795"/>
       <source>Dashboard</source>
-      <translation type="unfinished">Dashboard</translation>
+      <translation>Dashboard</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="798"/>
@@ -4563,7 +4563,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../core/MainWindow.ui" line="822"/>
       <source>Exports</source>
-      <translation type="unfinished">Exports</translation>
+      <translation>Esportazioni</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="825"/>
@@ -4613,27 +4613,27 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../core/MainWindow.ui" line="894"/>
       <source>Graph Overview</source>
-      <translation type="unfinished">Graph Overview</translation>
+      <translation>Panoramica Grafico</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="902"/>
       <source>Decompiler</source>
-      <translation type="unfinished">Decompiler</translation>
+      <translation>Decompilatore</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1065"/>
       <source>Add Hexdump</source>
-      <translation type="unfinished">Add Hexdump</translation>
+      <translation>Aggiungi Hexdump</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1070"/>
       <source>Add Disassembly</source>
-      <translation type="unfinished">Add Disassembly</translation>
+      <translation>Aggiungi Disassemblaggio</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1075"/>
       <source>Add Graph</source>
-      <translation type="unfinished">Add Graph</translation>
+      <translation>Aggiungi Grafico</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1086"/>
@@ -4643,32 +4643,32 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../core/MainWindow.ui" line="1091"/>
       <source>Zoom In</source>
-      <translation type="unfinished">Zoom In</translation>
+      <translation>Ingrandisci</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1094"/>
       <source>Ctrl++</source>
-      <translation type="unfinished">Ctrl++</translation>
+      <translation>Ctrl++</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1102"/>
       <source>Zoom Out</source>
-      <translation type="unfinished">Zoom Out</translation>
+      <translation>Riduci</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1105"/>
       <source>Ctrl+-</source>
-      <translation type="unfinished">Ctrl+-</translation>
+      <translation>Ctrl+-</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1113"/>
       <source>Reset</source>
-      <translation type="unfinished">Reset</translation>
+      <translation>Ripristina</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1116"/>
       <source>Ctrl+=</source>
-      <translation type="unfinished">Ctrl+=</translation>
+      <translation>Ctrl+=</translation>
     </message>
     <message>
       <source>Tmp</source>
@@ -4681,7 +4681,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../core/MainWindow.ui" line="886"/>
       <source>Graph</source>
-      <translation type="unfinished">Graph</translation>
+      <translation>Grafico</translation>
     </message>
     <message>
       <source>Pseudocode</source>
@@ -4718,12 +4718,12 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../core/MainWindow.ui" line="942"/>
       <source>Threads</source>
-      <translation type="unfinished">Threads</translation>
+      <translation>Thread</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="950"/>
       <source>Processes</source>
-      <translation type="unfinished">Processes</translation>
+      <translation>Processi</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="958"/>
@@ -4733,12 +4733,12 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../core/MainWindow.ui" line="966"/>
       <source>Breakpoints</source>
-      <translation type="unfinished">Breakpoints</translation>
+      <translation>Punti di rottura</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="974"/>
       <source>Register References</source>
-      <translation type="unfinished">Register References</translation>
+      <translation>Riferimenti del Registro</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="982"/>
@@ -4763,7 +4763,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../core/MainWindow.ui" line="1008"/>
       <source>VTables</source>
-      <translation type="unfinished">VTables</translation>
+      <translation>VTables</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1011"/>
@@ -4773,32 +4773,32 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
     <message>
       <location filename="../core/MainWindow.ui" line="1019"/>
       <source>Types</source>
-      <translation type="unfinished">Types</translation>
+      <translation>Tipi</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1022"/>
       <source>Show/Hide Types panel</source>
-      <translation type="unfinished">Show/Hide Types panel</translation>
+      <translation>Mostra/Nascondi pannello Tipi</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1030"/>
       <source>Search</source>
-      <translation type="unfinished">Search</translation>
+      <translation>Cerca</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1033"/>
       <source>Show/Hide Search panel</source>
-      <translation type="unfinished">Show/Hide Search panel</translation>
+      <translation>Mostra/Nascondi pannello di ricerca</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1041"/>
       <source>Headers</source>
-      <translation type="unfinished">Headers</translation>
+      <translation>Intestazioni</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1044"/>
       <source>Show/Hide Headers panel</source>
-      <translation type="unfinished">Show/Hide Headers panel</translation>
+      <translation>Mostra/Nascondi pannello Intestazioni</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="1052"/>
@@ -4818,7 +4818,7 @@ ATTENZIONE: In modalità scrittura, eventuali modifiche saranno scritte su disco
       <location filename="../core/MainWindow.ui" line="1060"/>
       <location filename="../core/MainWindow.cpp" line="1509"/>
       <source>Export as code</source>
-      <translation type="unfinished">Export as code</translation>
+      <translation>Esporta come codice</translation>
     </message>
     <message>
       <source>Hexdump view</source>
