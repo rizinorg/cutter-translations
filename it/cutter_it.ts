@@ -1047,7 +1047,7 @@
     <message>
       <location filename="../widgets/ClassesWidget.ui" line="109"/>
       <source>Seek to VTable</source>
-      <translation type="unfinished">Seek to VTable</translation>
+      <translation>Cerca in VTable</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.ui" line="114"/>
@@ -1458,7 +1458,7 @@
     <message>
       <location filename="../widgets/ConsoleWidget.cpp" line="66"/>
       <source>Wrap Lines</source>
-      <translation type="unfinished">Wrap Lines</translation>
+      <translation>Linee di Avvolgimento</translation>
     </message>
   </context>
   <context>
@@ -1839,7 +1839,7 @@
     <message>
       <location filename="../widgets/DebugActions.cpp" line="40"/>
       <source>Continue until main</source>
-      <translation type="unfinished">Continue until main</translation>
+      <translation>Continua fino al principale</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="36"/>
@@ -1879,7 +1879,7 @@
     <message>
       <location filename="../widgets/DebugActions.cpp" line="115"/>
       <source>Debugged process exited (</source>
-      <translation type="unfinished">Debugged process exited (</translation>
+      <translation>Processo di debug uscito (</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="208"/>
@@ -2103,17 +2103,17 @@
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="107"/>
       <source>Graphviz polyline LR</source>
-      <translation type="unfinished">Graphviz polyline LR</translation>
+      <translation>Polilinea LR di Graphviz</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="108"/>
       <source>Graphviz ortho</source>
-      <translation type="unfinished">Graphviz ortho</translation>
+      <translation>Ortho Graphviz</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="109"/>
       <source>Graphviz ortho LR</source>
-      <translation type="unfinished">Graphviz ortho LR</translation>
+      <translation>LR Ortho di Graphviz</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="112"/>
@@ -2128,17 +2128,17 @@
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="153"/>
       <source>Unhighlight block</source>
-      <translation type="unfinished">Unhighlight block</translation>
+      <translation>Rimuovi evidenziazione blocco</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="163"/>
       <source>Highlight instruction</source>
-      <translation type="unfinished">Highlight instruction</translation>
+      <translation>Evidenzia istruzione</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="167"/>
       <source>Unhighlight instruction</source>
-      <translation type="unfinished">Unhighlight instruction</translation>
+      <translation>Rimuovi evidenziazione istruzione</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="249"/>
@@ -2153,37 +2153,37 @@
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1083"/>
       <source>Graphviz dot (*.dot)</source>
-      <translation type="unfinished">Graphviz dot (*.dot)</translation>
+      <translation>Graphviz dot (*.dot)</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1084"/>
       <source>Graphviz json (*.json)</source>
-      <translation type="unfinished">Graphviz json (*.json)</translation>
+      <translation>Graphviz json (*.json)</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1085"/>
       <source>Graphviz gif (*.gif)</source>
-      <translation type="unfinished">Graphviz gif (*.gif)</translation>
+      <translation>Graphviz gif (*.gif)</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1086"/>
       <source>Graphviz png (*.png)</source>
-      <translation type="unfinished">Graphviz png (*.png)</translation>
+      <translation>Graphviz png (*.png)</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1087"/>
       <source>Graphviz jpg (*.jpg)</source>
-      <translation type="unfinished">Graphviz jpg (*.jpg)</translation>
+      <translation>Graphviz jpg (*.jpg)</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1088"/>
       <source>Graphviz PostScript (*.ps)</source>
-      <translation type="unfinished">Graphviz PostScript (*.ps)</translation>
+      <translation>Graphviz PostScript (*.ps)</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="1089"/>
       <source>Graphviz svg (*.svg)</source>
-      <translation type="unfinished">Graphviz svg (*.svg)</translation>
+      <translation>Graphviz svg (*.svg)</translation>
     </message>
     <message>
       <source>Graphiz dot (*.dot)</source>
@@ -2233,7 +2233,7 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="80"/>
       <source>Show in</source>
-      <translation type="unfinished">Show in</translation>
+      <translation>Mostra in</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="85"/>
@@ -2365,7 +2365,7 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="119"/>
       <source>Define function here</source>
-      <translation type="unfinished">Define function here</translation>
+      <translation>Definisci qui la funzione</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="129"/>
