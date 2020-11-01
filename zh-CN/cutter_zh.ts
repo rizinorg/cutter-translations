@@ -577,7 +577,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="292"/>
       <source>Show refpointer information (asm.refptr)</source>
-      <translation type="unfinished">Show refpointer information (asm.refptr)</translation>
+      <translation>显示引用指针信息(asm.refptr)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="321"/>
@@ -7324,7 +7324,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="389"/>
       <source>Contributing</source>
-      <translation type="unfinished">Contributing</translation>
+      <translation>贡献</translation>
     </message>
     <message>
       <source>Continue 🢒</source>
@@ -7376,17 +7376,17 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="136"/>
       <source>X-Refs to %1:</source>
-      <translation type="unfinished">X-Refs to %1:</translation>
+      <translation>%1的外部参照：</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="137"/>
       <source>X-Refs from %1:</source>
-      <translation type="unfinished">X-Refs from %1:</translation>
+      <translation>来自%1的外部参照：</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="146"/>
       <source>X-Refs for %1</source>
-      <translation type="unfinished">X-Refs for %1</translation>
+      <translation>%1 的外部参考</translation>
     </message>
   </context>
   <context>
