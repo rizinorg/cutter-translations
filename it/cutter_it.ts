@@ -80,17 +80,17 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="50"/>
       <source>Cutter is developed by the community and maintained by its core and development teams.&lt;br/&gt;</source>
-      <translation>Cutter è sviluppato dalla comunità e mantenuto dal suo nucleo e dai suoi team di sviluppo.&lt;br/&gt;</translation>
+      <translation>Cutter è sviluppato dalla comunità e mantenuto dal suo nucleo e dal suo team di sviluppo.&lt;br/&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="51"/>
       <source>Check our &lt;a href=&apos;https://github.com/radareorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</source>
-      <translation>Controlla la nostra &lt;a href=&apos;https://github.com/radareorg/cutter/graphs/contributors&apos;&gt;pagina cotributori&lt;/a&gt; per l'elenco completo dei contribuenti.</translation>
+      <translation>Controlla la nostra &lt;a href=&apos;https://github.com/radareorg/cutter/graphs/contributors&apos;&gt;pagina contributori&lt;/a&gt; per l'elenco completo dei contributori.</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="73"/>
       <source>radare2 version information</source>
-      <translation>Informazioni versione di Radare2</translation>
+      <translation>informazioni sulla versione di Radare2</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="96"/>
@@ -105,7 +105,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="146"/>
       <source>Based on Qt %1 (%2, %3 bit)</source>
-      <translation>In base al Qt %1 (%2, %3 bit)</translation>
+      <translation>Basato su Qt %1 (%2, %3 bit)</translation>
     </message>
     <message>
       <source>Timeout error!</source>
@@ -139,7 +139,7 @@
     </message>
     <message>
       <source>For update, please check the link:</source>
-      <translation>Per aggiornamenti, si prega di controllare all'indirizzo:</translation>
+      <translation>Per aggiornamenti, si prega di controllare l'indirizzo:</translation>
     </message>
   </context>
   <context>
@@ -147,7 +147,7 @@
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="16"/>
       <source>Show in</source>
-      <translation>Mostra</translation>
+      <translation>Mostra in</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="17"/>
@@ -203,7 +203,7 @@
     <message>
       <location filename="../common/AnalTask.cpp" line="76"/>
       <source>Loading shellcode...</source>
-      <translation>Caricando lo shellcode...</translation>
+      <translation>Caricando il shellcode...</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="87"/>
@@ -337,11 +337,11 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="302"/>
       <source>Save as Default</source>
-      <translation>Salva come predefiniti</translation>
+      <translation>Salva come predefinito</translation>
     </message>
     <message>
       <source>Enter scheme name</source>
-      <translation>Inserire nome schema</translation>
+      <translation>Inserisci nome schema</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="139"/>
@@ -356,12 +356,12 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="127"/>
       <source>Theme Editor - &lt;%1&gt;</source>
-      <translation>Editor Tema - &amp;lt%1&gt;</translation>
+      <translation>Editor Tema - &lt;%1&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="138"/>
       <source>Enter theme name</source>
-      <translation>Inserisci nome tema</translation>
+      <translation>Inserisci nome del tema</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="140"/>
@@ -376,7 +376,7 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="147"/>
       <source>Theme named %1 already exists.</source>
-      <translation>Il tema chiamato %1 è già esistente.</translation>
+      <translation>Il tema chiamato %1 esiste già.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="162"/>
@@ -396,7 +396,7 @@
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="191"/>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="218"/>
       <source>Success</source>
-      <translation>Operazione riuscita</translation>
+      <translation>Successo</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="192"/>
@@ -435,7 +435,7 @@
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="14"/>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="47"/>
       <source>Disassembly</source>
-      <translation>Disassembly</translation>
+      <translation>Disassembla</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="35"/>
@@ -448,12 +448,12 @@
     </message>
     <message>
       <source>Show pseudocode instead of assembly (asm.pseudo)</source>
-      <translation>Visualizza pseudocodice anziché assembly (asm.pseudo)</translation>
+      <translation>Visualizza il pseudocodice anziché l'assembly (asm.pseudo)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="129"/>
       <source>Show offsets (asm.offset)</source>
-      <translation>Visualizza offset (asm.offset)</translation>
+      <translation>Visualizza gli offset (asm.offset)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="205"/>
@@ -468,7 +468,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="229"/>
       <source>Show opcode description (asm.describe)</source>
-      <translation>Visualizza descrizione opcode (asm.describe)</translation>
+      <translation>Visualizza la descrizione degli opcode (asm.describe)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="112"/>
@@ -488,12 +488,12 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="64"/>
       <source>Capitalize (asm.capitalize)</source>
-      <translation>Capitalizzare (asm.capitalize)</translation>
+      <translation>Capitalizza (asm.capitalize)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="105"/>
       <source>Separate bytes with whitespace (asm.bytespace)</source>
-      <translation>Separa bytes con una spazio bianco (asm.bytespace)</translation>
+      <translation>Separa i bytes con una spazio bianco (asm.bytespace)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="122"/>
@@ -539,7 +539,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="247"/>
       <source>Off</source>
-      <translation>Disattivato</translation>
+      <translation>Spento</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="255"/>
@@ -549,7 +549,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="82"/>
       <source>Tabs in assembly (asm.tabs):</source>
-      <translation>Schede in Assemblea (asm.tabs):</translation>
+      <translation>Tabelle in Assembly (asm.tabs):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="136"/>
@@ -601,7 +601,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="341"/>
       <source>Show function boundary lines (asm.lines.fcn)</source>
-      <translation>Visualizza funzione linee di contorno (asm.lines.fcn)</translation>
+      <translation>Visualizza la funzione per le linee di contorno (asm.lines.fcn)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="348"/>
@@ -693,7 +693,7 @@
       <source>%n seconds</source>
       <comment>%n second</comment>
       <translation>
-        <numerusform>%n secondo</numerusform>
+        <numerusform>%n secondi</numerusform>
         <numerusform>%n secondi</numerusform>
       </translation>
     </message>
@@ -725,7 +725,7 @@
     <name>BacktraceWidget</name>
     <message>
       <source>Func Name</source>
-      <translation>Nome di Func</translation>
+      <translation>Nome della funzione</translation>
     </message>
     <message>
       <location filename="../widgets/BacktraceWidget.cpp" line="17"/>
@@ -740,7 +740,7 @@
     <message>
       <location filename="../widgets/BacktraceWidget.cpp" line="21"/>
       <source>Frame Size</source>
-      <translation>Dimensione frame</translation>
+      <translation>Dimensione del frame</translation>
     </message>
   </context>
   <context>
@@ -758,7 +758,7 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="171"/>
       <source>base class</source>
-      <translation>classe base</translation>
+      <translation>classe di base</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="192"/>
@@ -969,7 +969,7 @@
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="33"/>
       <source>Address or expression calculated when creating breakpoint</source>
-      <translation>Indirizzo o espressione calcolati quando si crea breakpoint</translation>
+      <translation>Indirizzo o espressione calcolati quando è stato creato il breakpoint</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="34"/>
@@ -984,7 +984,7 @@
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="35"/>
       <source>Module offset</source>
-      <translation>Offset modulo</translation>
+      <translation>Offset del modulo</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="35"/>
@@ -1168,7 +1168,7 @@
     </message>
     <message>
       <source>The radare2 standard themes could not be found! This probably means radare2 is not properly installed. If you think it is open an issue please.</source>
-      <translation>I temi standard di radare2 non ci sono! Può essere che radare2 non sia installato correttamente. Se pensi il contrario per favore apri una issue.</translation>
+      <translation>I temi standard di radare2 non ci sono! Può essere che radare2 non sia installato correttamente. Se pensi il contrario, apri un issue, grazie.</translation>
     </message>
   </context>
   <context>
@@ -1278,7 +1278,7 @@
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="264"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; could not be opened. Please make sure you have access to it and try again.</source>
-      <translation>Il file &lt;b&gt;%1&lt;/b&gt; non può essere aperto. Assicurati di avere accesso e riprova.</translation>
+      <translation>Il file &lt;b&gt;%1&lt;/b&gt; non può essere aperto. Assicurati di avere accesso al file e riprova.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="268"/>
@@ -1293,7 +1293,7 @@
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="279"/>
       <source>Error occurred during importing. Please make sure you have an access to the directory &lt;b&gt;%1&lt;/b&gt; and try again.</source>
-      <translation>Errore durante l'importazione. Assicurati di avere accesso alla directory &lt;b&gt;%1&lt;/b&gt; e riprova.</translation>
+      <translation>Errore durante l'importazione. Assicurati di avere accesso alla cartella &lt;b&gt;%1&lt;/b&gt; e riprova.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="289"/>
@@ -1308,7 +1308,7 @@
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="299"/>
       <source>Something went wrong during renaming. Please make sure you have access to the directory &lt;b&gt;&quot;%1&quot;&lt;/b&gt;.</source>
-      <translation>Qualcosa è andato storto durante la rinomina. Assicurati di avere accesso alla directory &lt;b&gt;&quot;%1&quot;&lt;/b&gt;.</translation>
+      <translation>Qualcosa è andato storto durante la rinominazione. Assicurati di avere accesso alla cartella &lt;b&gt;&quot;%1&quot;&lt;/b&gt;.</translation>
     </message>
   </context>
   <context>
@@ -1438,7 +1438,7 @@
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="137"/>
       <source> Enter input for the debugee</source>
-      <translation> Inserisci input per il debug</translation>
+      <translation> Inserisci input per il debugger</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="153"/>
@@ -1458,7 +1458,7 @@
     <message>
       <location filename="../widgets/ConsoleWidget.cpp" line="66"/>
       <source>Wrap Lines</source>
-      <translation>Linee di Avvolgimento</translation>
+      <translation>Righe A Capo</translation>
     </message>
   </context>
   <context>
@@ -1466,7 +1466,7 @@
     <message>
       <location filename="../core/Cutter.cpp" line="1333"/>
       <source>Starting native debug...</source>
-      <translation>Avvio debug nativo...</translation>
+      <translation>Avvio debugger nativo...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1376"/>
@@ -1486,12 +1486,12 @@
     <message>
       <location filename="../core/Cutter.cpp" line="1793"/>
       <source>Breakpoint error</source>
-      <translation>Errore breakpoint</translation>
+      <translation>Errore del breakpoint</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1793"/>
       <source>Failed to create breakpoint</source>
-      <translation>Impossibile creare breakpoint</translation>
+      <translation>Impossibile creare il breakpoint</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2664"/>
