@@ -21,12 +21,12 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="108"/>
       <source>Show Rizin plugin information</source>
-      <translation type="unfinished">Show Rizin plugin information</translation>
+      <translation>Informazioni sul plugin di Rizin</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="121"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter is a free and open-source reverse engineering platform powered by Rizin&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter is a free and open-source reverse engineering platform powered by Rizin&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter è una piattaforma di reverse engineering gratuita e open-source alimentata da Rizin&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Per saperne di più su &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter. e&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <source>Show radare2 plugin information</source>
@@ -67,7 +67,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="28"/>
       <source>Using rizin </source>
-      <translation type="unfinished">Using rizin </translation>
+      <translation>Utilizzo di rizin </translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="30"/>
@@ -97,12 +97,12 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="52"/>
       <source>Check our &lt;a href=&apos;https://github.com/rizinorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</source>
-      <translation type="unfinished">Check our &lt;a href=&apos;https://github.com/rizinorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</translation>
+      <translation>Controlla la nostra &lt;a href=&apos;https://github.com/rizinorg/cutter/graphs/contributors&apos;&gt;pagina dei contributori&lt;/a&gt; per l'elenco completo.</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="76"/>
       <source>Rizin version information</source>
-      <translation type="unfinished">Rizin version information</translation>
+      <translation>Informazione sulla versione di Rizin</translation>
     </message>
     <message>
       <source>Check our &lt;a href=&apos;https://github.com/radareorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</source>
@@ -167,7 +167,7 @@
     <message>
       <location filename="../widgets/AddressableDockWidget.cpp" line="12"/>
       <source>Sync/unsync offset</source>
-      <translation type="unfinished">Sync/unsync offset</translation>
+      <translation>Sincronizza/desincronizza l'offset</translation>
     </message>
   </context>
   <context>
@@ -226,57 +226,57 @@
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="55"/>
       <source>Show verbose information when performing analysis (analysis.verbose)</source>
-      <translation type="unfinished">Show verbose information when performing analysis (analysis.verbose)</translation>
+      <translation>Mostra i messaggi verbosi quando si esegue l'analisi (analysis.verbose)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="68"/>
       <source>Analyze push+ret as jmp (analysis.pushret)</source>
-      <translation type="unfinished">Analyze push+ret as jmp (analysis.pushret)</translation>
+      <translation>Analizza push+ret come jmp (e! analysis.pushret)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="81"/>
       <source>Verbose output from type analysis (analysis.types.verbose)</source>
-      <translation type="unfinished">Verbose output from type analysis (analysis.types.verbose)</translation>
+      <translation>Mostra i messaggi verbosi dell'analisi del tipi delle variabili (analysis.types.verbose)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="94"/>
       <source>Speculatively set a name for the functions (analysis.autoname)</source>
-      <translation type="unfinished">Speculatively set a name for the functions (analysis.autoname)</translation>
+      <translation>Imposta automaticamente un nome per le funzioni (analysis.autoname)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="107"/>
       <source>Search for new functions following already defined functions (analysis.hasnext)</source>
-      <translation type="unfinished">Search for new functions following already defined functions (analysis.hasnext)</translation>
+      <translation>Cerca nuove funzioni partendo da quelle già definite (analysis.hasnext)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="120"/>
       <source>Create references for unconditional jumps (analysis.jmp.ref)</source>
-      <translation type="unfinished">Create references for unconditional jumps (analysis.jmp.ref)</translation>
+      <translation>Crea riferimenti per salti incondizionati (analysis.jmp.ref)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="133"/>
       <source>Analyze jump tables in switch statements (analysis.jmp.tbl)</source>
-      <translation type="unfinished">Analyze jump tables in switch statements (analysis.jmp.tbl)</translation>
+      <translation>Analizza le jump table nei costrutti switch (analysis.jmp.tbl)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="161"/>
       <source>Search boundaries for analysis (analysis.in): </source>
-      <translation type="unfinished">Search boundaries for analysis (analysis.in): </translation>
+      <translation>Cerca i confini per l'analisi (analysis.in): </translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="195"/>
       <source>Pointer depth (analysis.ptrdepth):</source>
-      <translation type="unfinished">Pointer depth (analysis.ptrdepth):</translation>
+      <translation>Setta la profondità del puntatore durante l'analisi (analysis.ptrdepth):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="236"/>
       <source>Functions Prelude (analysis.prelude):</source>
-      <translation type="unfinished">Functions Prelude (analysis.prelude):</translation>
+      <translation>Abilita le funzioni preludiche durante l'analisi (analysis.prelude):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="269"/>
       <source>Analyze program</source>
-      <translation type="unfinished">Analyze program</translation>
+      <translation>Analizza file</translation>
     </message>
   </context>
   <context>
@@ -284,7 +284,7 @@
     <message>
       <location filename="../common/AnalTask.cpp" line="26"/>
       <source>Analyzing Program</source>
-      <translation type="unfinished">Analyzing Program</translation>
+      <translation>Sto analizzando il file</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="43"/>
@@ -400,12 +400,12 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="289"/>
       <source>Use information provided by decompiler when highlighting code.</source>
-      <translation type="unfinished">Use information provided by decompiler when highlighting code.</translation>
+      <translation>Utilizzare le informazioni fornite dal decompilatore durante l'evidenziazione del codice.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="292"/>
       <source>Decompiler based highlighting</source>
-      <translation type="unfinished">Decompiler based highlighting</translation>
+      <translation>Evidenziazione basata su decompilatore</translation>
     </message>
     <message>
       <source>Qt Theme:</source>
@@ -639,7 +639,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="223"/>
       <source>Separate bytes with whitespace (asm.bytes.space)</source>
-      <translation type="unfinished">Separate bytes with whitespace (asm.bytes.space)</translation>
+      <translation>Separa bytes con uno spazio (asm.bytes.space)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="230"/>
