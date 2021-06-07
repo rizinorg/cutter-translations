@@ -241,7 +241,7 @@
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="94"/>
       <source>Speculatively set a name for the functions (analysis.autoname)</source>
-      <translation type="unfinished">Speculatively set a name for the functions (analysis.autoname)</translation>
+      <translation>Автоматически сгенерировать имена функций (analysis.autoname)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="107"/>
@@ -2295,7 +2295,7 @@
     <message>
       <location filename="../widgets/DebugActions.cpp" line="268"/>
       <source>If you encounter any problems or have suggestions, please submit an issue to https://github.com/rizinorg/cutter/issues</source>
-      <translation type="unfinished">If you encounter any problems or have suggestions, please submit an issue to https://github.com/rizinorg/cutter/issues</translation>
+      <translation>Если у вас возникли проблемы или у вас есть предложения, пожалуйста, создайте issue на https://github.com/rizinorg/cutter/issues</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="282"/>
@@ -2337,7 +2337,7 @@
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="79"/>
       <source>Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</source>
-      <translation type="unfinished">Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</translation>
+      <translation>Скрывать текст при увеличении масштаба, и когда размер шрифта меньше заданного значения. Более высокие значения могут повысить производительность.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="82"/>
@@ -2352,7 +2352,7 @@
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="109"/>
       <source>Trace each step during continue in a trace session (dbg.trace_continue)</source>
-      <translation type="unfinished">Trace each step during continue in a trace session (dbg.trace_continue)</translation>
+      <translation>Трассировать каждый шаг при продолжении в сеансе трассировки (dbg.trace_continue)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="112"/>
@@ -2648,7 +2648,7 @@
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="469"/>
       <source>Can&apos;t edit this variable. Only local variables defined in disassembly can be edited.</source>
-      <translation type="unfinished">Can&apos;t edit this variable. Only local variables defined in disassembly can be edited.</translation>
+      <translation>Нельзя изменить эту переменную.Только локальные переменные, определенные в дисассемблере, могут быть переименованы.</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="535"/>
@@ -2711,7 +2711,7 @@
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="262"/>
       <source>No function found at this offset. Seek to a function or define one in order to decompile it.</source>
-      <translation type="unfinished">No function found at this offset. Seek to a function or define one in order to decompile it.</translation>
+      <translation>Не найдена функция по этому смещению. Перейдите к функции или определите ее, чтобы декомпилировать ее.</translation>
     </message>
     <message>
       <source>Cancel</source>
@@ -3314,12 +3314,12 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/DisassemblyWidget.cpp" line="670"/>
       <source>More than one (%1) references here. Weird behaviour expected.</source>
-      <translation type="unfinished">More than one (%1) references here. Weird behaviour expected.</translation>
+      <translation>Здесь более одной (%1) ссылки. Возможно странное поведение.</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblyWidget.cpp" line="676"/>
       <source>offsetFrom (%1) differs from refs.at(0).from (%(2))</source>
-      <translation type="unfinished">offsetFrom (%1) differs from refs.at(0).from (%(2))</translation>
+      <translation>offsetFrom (%1) отличается от refs.at(0).от (%(2))</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblyWidget.cpp" line="721"/>
@@ -4092,7 +4092,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="146"/>
       <source>Write De\Encoded Base64 string</source>
-      <translation type="unfinished">Write De\Encoded Base64 string</translation>
+      <translation>Записать закодированную/декодированную в Base64 строку</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="151"/>
@@ -4152,8 +4152,8 @@ WARNING: In write mode any changes will be commited to disk</source>
       <location filename="../widgets/HexWidget.cpp" line="770"/>
       <source>Error occured during decoding your input.
 Please, make sure, that it is a valid base64 string and try again.</source>
-      <translation type="unfinished">Error occured during decoding your input.
-Please, make sure, that it is a valid base64 string and try again.</translation>
+      <translation>Произошла ошибка во время декодирования ввода.
+Пожалуйста, убедитесь, что это допустимая строка base64 и повторите попытку.</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="793"/>
@@ -4257,7 +4257,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="147"/>
       <source>C bytes with instructions</source>
-      <translation type="unfinished">C bytes with instructions</translation>
+      <translation>С-байты с инструкциями</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="148"/>
@@ -6037,12 +6037,12 @@ Save your project before closing!</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="251"/>
       <source>No plugins are installed. Check the plugins section on Cutter documentation to learn more.</source>
-      <translation type="unfinished">No plugins are installed. Check the plugins section on Cutter documentation to learn more.</translation>
+      <translation>Плагины не установлены. Обратитесь к разделу плагинов в документации Cutter для получения дополнительной информации.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="256"/>
       <source>The installed plugins didn&apos;t add entries to this menu.</source>
-      <translation type="unfinished">The installed plugins didn&apos;t add entries to this menu.</translation>
+      <translation>Установленные плагины не добавили записи в это меню.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="616"/>
