@@ -649,17 +649,17 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="259"/>
       <source>Show offsets relative to:</source>
-      <translation type="unfinished">Show offsets relative to:</translation>
+      <translation>Показывать смещения относительно:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="266"/>
       <source>Functions (asm.reloff)</source>
-      <translation type="unfinished">Functions (asm.reloff)</translation>
+      <translation>Функций (asm.reloff)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="275"/>
       <source>Flags (asm.reloff.flags)</source>
-      <translation type="unfinished">Flags (asm.reloff.flags)</translation>
+      <translation>Флагов (asm.reloff.flags)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="312"/>
@@ -892,22 +892,22 @@
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="14"/>
       <source>Base64 Encode/Decode</source>
-      <translation type="unfinished">Base64 Encode/Decode</translation>
+      <translation>Кодирование/декодирование Base64</translation>
     </message>
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="24"/>
       <source>String:</source>
-      <translation type="unfinished">String:</translation>
+      <translation>Строка:</translation>
     </message>
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="38"/>
       <source>Decode</source>
-      <translation type="unfinished">Decode</translation>
+      <translation>Декодировать</translation>
     </message>
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="48"/>
       <source>Encode</source>
-      <translation type="unfinished">Encode</translation>
+      <translation>Кодировать</translation>
     </message>
   </context>
   <context>
@@ -1169,12 +1169,12 @@
     <message>
       <location filename="../widgets/CallGraph.cpp" line="23"/>
       <source>Global Callgraph</source>
-      <translation type="unfinished">Global Callgraph</translation>
+      <translation>Глобальный граф вызовов</translation>
     </message>
     <message>
       <location filename="../widgets/CallGraph.cpp" line="23"/>
       <source>Callgraph</source>
-      <translation type="unfinished">Callgraph</translation>
+      <translation>Граф вызовов</translation>
     </message>
   </context>
   <context>
@@ -1278,12 +1278,12 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="743"/>
       <source>Class Name:</source>
-      <translation type="unfinished">Class Name:</translation>
+      <translation>Имя класса:</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="778"/>
       <source>Class name:</source>
-      <translation type="unfinished">Class name:</translation>
+      <translation>Имя класса:</translation>
     </message>
     <message>
       <source>Class Name</source>
@@ -1632,7 +1632,7 @@
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="93"/>
       <source>Rizin Console</source>
-      <translation type="unfinished">Rizin Console</translation>
+      <translation>Консоль rizin</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="98"/>
@@ -1695,12 +1695,12 @@
     <message>
       <location filename="../core/Cutter.cpp" line="2209"/>
       <source>Creating debug tracepoint...</source>
-      <translation type="unfinished">Creating debug tracepoint...</translation>
+      <translation>Созадние точки трассировки...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2245"/>
       <source>Stopping debug session...</source>
-      <translation type="unfinished">Stopping debug session...</translation>
+      <translation>Остановка сеанса отладки...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2279"/>
@@ -1769,92 +1769,92 @@
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="65"/>
       <source>Graphviz sfdp</source>
-      <translation type="unfinished">Graphviz sfdp</translation>
+      <translation>Graphviz sfdp</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="66"/>
       <source>Graphviz neato</source>
-      <translation type="unfinished">Graphviz neato</translation>
+      <translation>Graphviz neato</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="67"/>
       <source>Graphviz twopi</source>
-      <translation type="unfinished">Graphviz twopi</translation>
+      <translation>Graphviz twopi</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="68"/>
       <source>Graphviz circo</source>
-      <translation type="unfinished">Graphviz circo</translation>
+      <translation>Graphviz circo</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="409"/>
       <source>PNG (*.png)</source>
-      <translation type="unfinished">PNG (*.png)</translation>
+      <translation>PNG (*.png)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="410"/>
       <source>JPEG (*.jpg)</source>
-      <translation type="unfinished">JPEG (*.jpg)</translation>
+      <translation>JPEG (*.jpg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="411"/>
       <source>SVG (*.svg)</source>
-      <translation type="unfinished">SVG (*.svg)</translation>
+      <translation>SVG (*.svg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="417"/>
       <source>Graphviz dot (*.dot)</source>
-      <translation type="unfinished">Graphviz dot (*.dot)</translation>
+      <translation>Graphviz dot (*.dot)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="418"/>
       <source>Graph Modelling Language (*.gml)</source>
-      <translation type="unfinished">Graph Modelling Language (*.gml)</translation>
+      <translation>Язык моделирования графиков (*.gml)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="420"/>
       <source>RZ JSON (*.json)</source>
-      <translation type="unfinished">RZ JSON (*.json)</translation>
+      <translation>RZ JSON (*.json)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="421"/>
       <source>SDB key-value (*.txt)</source>
-      <translation type="unfinished">SDB key-value (*.txt)</translation>
+      <translation>Ключи-значения SDB (*.txt)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="427"/>
       <source>Graphviz json (*.json)</source>
-      <translation type="unfinished">Graphviz json (*.json)</translation>
+      <translation>Graphviz json (*.json)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="429"/>
       <source>Graphviz gif (*.gif)</source>
-      <translation type="unfinished">Graphviz gif (*.gif)</translation>
+      <translation>Graphviz gif (*.gif)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="431"/>
       <source>Graphviz png (*.png)</source>
-      <translation type="unfinished">Graphviz png (*.png)</translation>
+      <translation>Graphviz png (*.png)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="433"/>
       <source>Graphviz jpg (*.jpg)</source>
-      <translation type="unfinished">Graphviz jpg (*.jpg)</translation>
+      <translation>Graphviz jpg (*.jpg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="435"/>
       <source>Graphviz PostScript (*.ps)</source>
-      <translation type="unfinished">Graphviz PostScript (*.ps)</translation>
+      <translation>Graphviz PostScript (*.ps)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="437"/>
       <source>Graphviz svg (*.svg)</source>
-      <translation type="unfinished">Graphviz svg (*.svg)</translation>
+      <translation>Graphviz svg (*.svg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="460"/>
       <source>Graph Export</source>
-      <translation type="unfinished">Graph Export</translation>
+      <translation>Экспорт графа</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="461"/>
@@ -2140,7 +2140,7 @@
     <message>
       <location filename="../widgets/Dashboard.cpp" line="124"/>
       <source>&lt;b&gt;Entropy:&lt;/b&gt;</source>
-      <translation type="unfinished">&lt;b&gt;Entropy:&lt;/b&gt;</translation>
+      <translation>&lt;b&gt;Энтропия:&lt;/b&gt;</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="236"/>
@@ -2224,7 +2224,7 @@
     <message>
       <location filename="../widgets/DebugActions.cpp" line="46"/>
       <source>Continue backwards</source>
-      <translation type="unfinished">Continue backwards</translation>
+      <translation>Продолжить назад</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="47"/>
@@ -2244,17 +2244,17 @@
     <message>
       <location filename="../widgets/DebugActions.cpp" line="50"/>
       <source>Step backwards</source>
-      <translation type="unfinished">Step backwards</translation>
+      <translation>Шаг назад</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="51"/>
       <source>Start trace session</source>
-      <translation type="unfinished">Start trace session</translation>
+      <translation>Начать трассировку</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="52"/>
       <source>Stop trace session</source>
-      <translation type="unfinished">Stop trace session</translation>
+      <translation>Остановить трассировку</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="53"/>
@@ -2322,12 +2322,12 @@
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="30"/>
       <source>Debug plugin:</source>
-      <translation type="unfinished">Debug plugin:</translation>
+      <translation>Плагин отладки:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="42"/>
       <source>ESIL options</source>
-      <translation type="unfinished">ESIL options</translation>
+      <translation>Параметры ESIL</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="69"/>
@@ -2347,7 +2347,7 @@
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="100"/>
       <source>Trace options</source>
-      <translation type="unfinished">Trace options</translation>
+      <translation>Параметры трассировки</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="109"/>
@@ -2477,12 +2477,12 @@
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="33"/>
       <source>Delete &lt;name&gt;</source>
-      <translation type="unfinished">Delete &lt;name&gt;</translation>
+      <translation>Удалить &lt;name&gt;</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="34"/>
       <source>Edit variable &lt;name of variable&gt;</source>
-      <translation type="unfinished">Edit variable &lt;name of variable&gt;</translation>
+      <translation>Редактировать переменную &lt;name of variable&gt;</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="35"/>
@@ -2574,12 +2574,12 @@
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="236"/>
       <source>Copy address (%1)</source>
-      <translation type="unfinished">Copy address (%1)</translation>
+      <translation>Копировать адрес (%1)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="252"/>
       <source>Edit variable %1</source>
-      <translation type="unfinished">Edit variable %1</translation>
+      <translation>Изменить переменную %1</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="254"/>
@@ -2605,7 +2605,7 @@
       <location filename="../menus/DecompilerContextMenu.cpp" line="408"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="415"/>
       <source>Function name:</source>
-      <translation type="unfinished">Function name:</translation>
+      <translation>Имя функции:</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="414"/>
@@ -2623,12 +2623,12 @@
       <location filename="../menus/DecompilerContextMenu.cpp" line="432"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="450"/>
       <source>Enter name</source>
-      <translation type="unfinished">Enter name</translation>
+      <translation>Введите имя</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="432"/>
       <source>Add name to %2</source>
-      <translation type="unfinished">Add name to %2</translation>
+      <translation>Добавить имя к %2</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="443"/>
@@ -2653,7 +2653,7 @@
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="535"/>
       <source>Breakpoint</source>
-      <translation type="unfinished">Breakpoint</translation>
+      <translation>Точка останова</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="545"/>
