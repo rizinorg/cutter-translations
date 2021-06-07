@@ -1278,7 +1278,7 @@ Disminuir (Zoom out)</translation>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="778"/>
       <source>Class name:</source>
-      <translation type="unfinished">Class name:</translation>
+      <translation>Nombre de clase:</translation>
     </message>
     <message>
       <source>Class Name</source>
@@ -1627,7 +1627,7 @@ Disminuir (Zoom out)</translation>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="93"/>
       <source>Rizin Console</source>
-      <translation type="unfinished">Rizin Console</translation>
+      <translation>Consola Rizin</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="98"/>
@@ -1729,7 +1729,7 @@ Disminuir (Zoom out)</translation>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="42"/>
       <source>Layout</source>
-      <translation type="unfinished">Layout</translation>
+      <translation>Diseño</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="43"/>
@@ -1784,32 +1784,32 @@ Disminuir (Zoom out)</translation>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="409"/>
       <source>PNG (*.png)</source>
-      <translation type="unfinished">PNG (*.png)</translation>
+      <translation>PNG (*.png)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="410"/>
       <source>JPEG (*.jpg)</source>
-      <translation type="unfinished">JPEG (*.jpg)</translation>
+      <translation>JPEG (*.jpg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="411"/>
       <source>SVG (*.svg)</source>
-      <translation type="unfinished">SVG (*.svg)</translation>
+      <translation>SVG (*.svg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="417"/>
       <source>Graphviz dot (*.dot)</source>
-      <translation type="unfinished">Graphviz dot (*.dot)</translation>
+      <translation>Graphviz dot (*.dot)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="418"/>
       <source>Graph Modelling Language (*.gml)</source>
-      <translation type="unfinished">Graph Modelling Language (*.gml)</translation>
+      <translation>Graph Modelling Language (*.gml)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="420"/>
       <source>RZ JSON (*.json)</source>
-      <translation type="unfinished">RZ JSON (*.json)</translation>
+      <translation>RZ JSON (*.json)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="421"/>
@@ -1819,32 +1819,32 @@ Disminuir (Zoom out)</translation>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="427"/>
       <source>Graphviz json (*.json)</source>
-      <translation type="unfinished">Graphviz json (*.json)</translation>
+      <translation>Graphviz json (*.json)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="429"/>
       <source>Graphviz gif (*.gif)</source>
-      <translation type="unfinished">Graphviz gif (*.gif)</translation>
+      <translation>Graphviz gif (*.gif)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="431"/>
       <source>Graphviz png (*.png)</source>
-      <translation type="unfinished">Graphviz png (*.png)</translation>
+      <translation>Graphviz png (*.png)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="433"/>
       <source>Graphviz jpg (*.jpg)</source>
-      <translation type="unfinished">Graphviz jpg (*.jpg)</translation>
+      <translation>Graphviz jpg (*.jpg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="435"/>
       <source>Graphviz PostScript (*.ps)</source>
-      <translation type="unfinished">Graphviz PostScript (*.ps)</translation>
+      <translation>Graphviz PostScript (*.ps)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="437"/>
       <source>Graphviz svg (*.svg)</source>
-      <translation type="unfinished">Graphviz svg (*.svg)</translation>
+      <translation>Graphviz svg (*.svg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="460"/>
@@ -2342,7 +2342,7 @@ Disminuir (Zoom out)</translation>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="100"/>
       <source>Trace options</source>
-      <translation type="unfinished">Trace options</translation>
+      <translation>Opciones de trazado</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="109"/>
@@ -2436,7 +2436,7 @@ Disminuir (Zoom out)</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="26"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>Copiar</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="27"/>
@@ -2451,7 +2451,7 @@ Disminuir (Zoom out)</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="29"/>
       <source>Show in</source>
-      <translation type="unfinished">Show in</translation>
+      <translation>Mostrar en</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="30"/>
@@ -2467,7 +2467,7 @@ Disminuir (Zoom out)</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="32"/>
       <source>Rename function at cursor</source>
-      <translation type="unfinished">Rename function at cursor</translation>
+      <translation>Renombrar función en el cursor</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="33"/>
@@ -2482,7 +2482,7 @@ Disminuir (Zoom out)</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="35"/>
       <source>Show X-Refs</source>
-      <translation type="unfinished">Show X-Refs</translation>
+      <translation>Mostrar X-Refs</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="36"/>
@@ -2493,7 +2493,7 @@ Disminuir (Zoom out)</translation>
       <location filename="../menus/DecompilerContextMenu.cpp" line="37"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="192"/>
       <source>Advanced breakpoint</source>
-      <translation type="unfinished">Advanced breakpoint</translation>
+      <translation>Breakpoint avanzado</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="39"/>
@@ -2503,7 +2503,7 @@ Disminuir (Zoom out)</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="40"/>
       <source>Set PC</source>
-      <translation type="unfinished">Set PC</translation>
+      <translation>Configurar PC</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="164"/>
@@ -2513,12 +2513,12 @@ Disminuir (Zoom out)</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="180"/>
       <source>Add breakpoint</source>
-      <translation type="unfinished">Add breakpoint</translation>
+      <translation>Añadir breakpoint</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="182"/>
       <source>Remove breakpoint</source>
-      <translation type="unfinished">Remove breakpoint</translation>
+      <translation>Eliminar breakpoint</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="184"/>
@@ -2528,7 +2528,7 @@ Disminuir (Zoom out)</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="191"/>
       <source>Edit breakpoint</source>
-      <translation type="unfinished">Edit breakpoint</translation>
+      <translation>Editar breakpoint</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="195"/>
@@ -2548,7 +2548,7 @@ Disminuir (Zoom out)</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="213"/>
       <source>Remove %1</source>
-      <translation type="unfinished">Remove %1</translation>
+      <translation>Eliminar %1</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="216"/>
@@ -2569,17 +2569,17 @@ Disminuir (Zoom out)</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="236"/>
       <source>Copy address (%1)</source>
-      <translation type="unfinished">Copy address (%1)</translation>
+      <translation>Copiar dirección (%1)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="252"/>
       <source>Edit variable %1</source>
-      <translation type="unfinished">Edit variable %1</translation>
+      <translation>Editar variable %1</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="254"/>
       <source>Rename variable %1</source>
-      <translation type="unfinished">Rename variable %1</translation>
+      <translation>Renombrar variable %1</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="316"/>
@@ -2600,7 +2600,7 @@ Disminuir (Zoom out)</translation>
       <location filename="../menus/DecompilerContextMenu.cpp" line="408"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="415"/>
       <source>Function name:</source>
-      <translation type="unfinished">Function name:</translation>
+      <translation>Nombre de la función:</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="414"/>
@@ -2618,17 +2618,17 @@ Disminuir (Zoom out)</translation>
       <location filename="../menus/DecompilerContextMenu.cpp" line="432"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="450"/>
       <source>Enter name</source>
-      <translation type="unfinished">Enter name</translation>
+      <translation>Introducir nombre</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="432"/>
       <source>Add name to %2</source>
-      <translation type="unfinished">Add name to %2</translation>
+      <translation>Añadir nombre a %2</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="443"/>
       <source>Rename local variable %1</source>
-      <translation type="unfinished">Rename local variable %1</translation>
+      <translation>Renombrar variable local %1</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="444"/>
@@ -2638,7 +2638,7 @@ Disminuir (Zoom out)</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="468"/>
       <source>Edit local variable %1</source>
-      <translation type="unfinished">Edit local variable %1</translation>
+      <translation>Editar variable local %1</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="469"/>
@@ -2648,23 +2648,23 @@ Disminuir (Zoom out)</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="535"/>
       <source>Breakpoint</source>
-      <translation type="unfinished">Breakpoint</translation>
+      <translation>Breakpoint</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="545"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>Depurar</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="575"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="577"/>
       <source>Show %1 in</source>
-      <translation type="unfinished">Show %1 in</translation>
+      <translation>Mostrar %1 en</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="582"/>
       <source>%1 (%2)</source>
-      <translation type="unfinished">%1 (%2)</translation>
+      <translation>%1 (%2)</translation>
     </message>
   </context>
   <context>
@@ -3004,13 +3004,13 @@ Disminuir (Zoom out)</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="826"/>
       <source>New function at %1</source>
-      <translation type="unfinished">New function at %1</translation>
+      <translation>Nueva función en %1</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="827"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="841"/>
       <source>Function name:</source>
-      <translation type="unfinished">Function name:</translation>
+      <translation>Nombre de la función:</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="840"/>
@@ -3520,7 +3520,7 @@ ADVERTENCIA: En modo de escritura cualquier cambio se guardará en el disco</tra
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="68"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Comentario</translation>
     </message>
   </context>
   <context>
@@ -3589,12 +3589,12 @@ ADVERTENCIA: En modo de escritura cualquier cambio se guardará en el disco</tra
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="70"/>
       <source>Real Name</source>
-      <translation type="unfinished">Real Name</translation>
+      <translation>Nombre Real</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="72"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Comentario</translation>
     </message>
   </context>
   <context>
@@ -3690,7 +3690,7 @@ ADVERTENCIA: En modo de escritura cualquier cambio se guardará en el disco</tra
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="281"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Comentario</translation>
     </message>
     <message>
       <source>Cyclomatic complexity: %1</source>
@@ -3851,7 +3851,7 @@ ADVERTENCIA: En modo de escritura cualquier cambio se guardará en el disco</tra
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="550"/>
       <source>Function name:</source>
-      <translation type="unfinished">Function name:</translation>
+      <translation>Nombre de la función:</translation>
     </message>
     <message>
       <source>X-Refs</source>
@@ -3913,27 +3913,27 @@ ADVERTENCIA: En modo de escritura cualquier cambio se guardará en el disco</tra
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="73"/>
       <source>Minimum Font Size</source>
-      <translation type="unfinished">Minimum Font Size</translation>
+      <translation>Tamaño mínimo de fuente</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="98"/>
       <source>Graph Layout Options</source>
-      <translation type="unfinished">Graph Layout Options</translation>
+      <translation>Opciones de diseño gráfico</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="117"/>
       <source>Vertical</source>
-      <translation type="unfinished">Vertical</translation>
+      <translation>Vertical</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="140"/>
       <source>Horizontal</source>
-      <translation type="unfinished">Horizontal</translation>
+      <translation>Horizontal</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="176"/>
       <source>Block spacing:</source>
-      <translation type="unfinished">Block spacing:</translation>
+      <translation>Espaciado de bloque:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="183"/>
@@ -3958,7 +3958,7 @@ ADVERTENCIA: En modo de escritura cualquier cambio se guardará en el disco</tra
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="218"/>
       <source>%</source>
-      <translation type="unfinished">%</translation>
+      <translation>%</translation>
     </message>
     <message>
       <source>Show offsets (graph.offset)</source>
@@ -3989,7 +3989,7 @@ ADVERTENCIA: En modo de escritura cualquier cambio se guardará en el disco</tra
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="61"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Comentario</translation>
     </message>
   </context>
   <context>
@@ -4066,7 +4066,7 @@ ADVERTENCIA: En modo de escritura cualquier cambio se guardará en el disco</tra
       <location filename="../widgets/HexWidget.cpp" line="130"/>
       <location filename="../widgets/HexWidget.cpp" line="705"/>
       <source>Write string</source>
-      <translation type="unfinished">Write string</translation>
+      <translation>Escribir cadena</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="134"/>
@@ -4123,7 +4123,7 @@ ADVERTENCIA: En modo de escritura cualquier cambio se guardará en el disco</tra
     <message>
       <location filename="../widgets/HexWidget.cpp" line="627"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>Modificar</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="705"/>
@@ -4131,34 +4131,34 @@ ADVERTENCIA: En modo de escritura cualquier cambio se guardará en el disco</tra
       <location filename="../widgets/HexWidget.cpp" line="842"/>
       <location filename="../widgets/HexWidget.cpp" line="857"/>
       <source>String:</source>
-      <translation type="unfinished">String:</translation>
+      <translation>Cadena:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="745"/>
       <source>Number of zeros:</source>
-      <translation type="unfinished">Number of zeros:</translation>
+      <translation>Número de ceros:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="769"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>Error</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="770"/>
       <source>Error occured during decoding your input.
 Please, make sure, that it is a valid base64 string and try again.</source>
-      <translation type="unfinished">Error occured during decoding your input.
-Please, make sure, that it is a valid base64 string and try again.</translation>
+      <translation>Ha ocurrido un error al decodificar su entrada.
+Por favor, asegúrese de que es una cadena base64 válida y vuelva a intentarlo.</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="793"/>
       <source>Write random</source>
-      <translation type="unfinished">Write random</translation>
+      <translation>Escribir al azar</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="793"/>
       <source>Number of bytes:</source>
-      <translation type="unfinished">Number of bytes:</translation>
+      <translation>Número de bytes:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="826"/>
@@ -4337,12 +4337,12 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="357"/>
       <source>Copy SHA256</source>
-      <translation type="unfinished">Copy SHA256</translation>
+      <translation>Copiar SHA256</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="396"/>
       <source>Copy CRC32</source>
-      <translation type="unfinished">Copy CRC32</translation>
+      <translation>Copiar CRC32</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="466"/>
@@ -4352,7 +4352,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="479"/>
       <source>CRC32:</source>
-      <translation type="unfinished">CRC32:</translation>
+      <translation>CRC32:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="350"/>
@@ -4515,7 +4515,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="77"/>
       <source>Library</source>
-      <translation type="unfinished">Library</translation>
+      <translation>Biblioteca</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="79"/>
@@ -4525,7 +4525,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="81"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Comentario</translation>
     </message>
   </context>
   <context>
@@ -4541,32 +4541,32 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="14"/>
       <source>Increment/Decrement</source>
-      <translation type="unfinished">Increment/Decrement</translation>
+      <translation>Incrementar/Disminuir</translation>
     </message>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="24"/>
       <source>Interpret as</source>
-      <translation type="unfinished">Interpret as</translation>
+      <translation>Interpretar como</translation>
     </message>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="38"/>
       <source>Value:</source>
-      <translation type="unfinished">Value:</translation>
+      <translation>Valor:</translation>
     </message>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="54"/>
       <source>Increment</source>
-      <translation type="unfinished">Increment</translation>
+      <translation>Incrementar</translation>
     </message>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="64"/>
       <source>Decrement</source>
-      <translation type="unfinished">Decrement</translation>
+      <translation>Disminuir</translation>
     </message>
     <message>
       <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
       <source>Byte</source>
-      <translation type="unfinished">Byte</translation>
+      <translation>Byte</translation>
     </message>
     <message>
       <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
@@ -4576,12 +4576,12 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
       <source>Dword</source>
-      <translation type="unfinished">Dword</translation>
+      <translation>Dword</translation>
     </message>
     <message>
       <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
       <source>Qword</source>
-      <translation type="unfinished">Qword</translation>
+      <translation>Qword</translation>
     </message>
   </context>
   <context>
@@ -4982,7 +4982,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/preferences/InitializationFileEditor.ui" line="20"/>
       <source>TextLabel</source>
-      <translation type="unfinished">TextLabel</translation>
+      <translation>TextLabel</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/InitializationFileEditor.cpp" line="35"/>
@@ -5040,7 +5040,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <location filename="../dialogs/LayoutManager.ui" line="32"/>
       <location filename="../dialogs/LayoutManager.cpp" line="60"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>Eliminar</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="42"/>
@@ -5060,7 +5060,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="45"/>
       <source>Enter name</source>
-      <translation type="unfinished">Enter name</translation>
+      <translation>Introducir nombre</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="61"/>
@@ -5137,7 +5137,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="68"/>
       <source>Set mode</source>
-      <translation type="unfinished">Set mode</translation>
+      <translation>Establecer modo</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="94"/>
@@ -5153,7 +5153,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="110"/>
       <source>Layouts</source>
-      <translation type="unfinished">Layouts</translation>
+      <translation>Diseños</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="130"/>
@@ -5288,7 +5288,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="245"/>
       <source>New Window</source>
-      <translation type="unfinished">New Window</translation>
+      <translation>Nueva Ventana</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="271"/>
@@ -5298,7 +5298,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="274"/>
       <source>Ctrl+M</source>
-      <translation type="unfinished">Ctrl+M</translation>
+      <translation>Ctrl+M</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="279"/>
@@ -5646,7 +5646,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="717"/>
       <source>Save Project As...</source>
-      <translation type="unfinished">Save Project As...</translation>
+      <translation>Guardar proyecto como...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="735"/>
@@ -5671,7 +5671,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="828"/>
       <source>Cache mode</source>
-      <translation type="unfinished">Cache mode</translation>
+      <translation>Modo de caché</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="831"/>
@@ -5788,7 +5788,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="750"/>
       <source>Add Decompiler</source>
-      <translation type="unfinished">Add Decompiler</translation>
+      <translation>Añadir decompilador</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="755"/>
@@ -6047,12 +6047,12 @@ Guarda tu proyecto antes de cerrar!</translation>
     <message>
       <location filename="../core/MainWindow.cpp" line="619"/>
       <source>Open Project</source>
-      <translation type="unfinished">Open Project</translation>
+      <translation>Abrir proyecto</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1043"/>
       <source>New Decompiler</source>
-      <translation type="unfinished">New Decompiler</translation>
+      <translation>Nuevo decompilador</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1204"/>
@@ -6067,7 +6067,7 @@ Guarda tu proyecto antes de cerrar!</translation>
     <message>
       <location filename="../core/MainWindow.cpp" line="1207"/>
       <source>Enter name</source>
-      <translation type="unfinished">Enter name</translation>
+      <translation>Introducir nombre</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1514"/>
@@ -6187,13 +6187,13 @@ Guarda tu proyecto antes de cerrar!</translation>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="26"/>
       <source>File:</source>
-      <translation type="unfinished">File:</translation>
+      <translation>Archivo:</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="52"/>
       <location filename="../dialogs/MapFileDialog.cpp" line="18"/>
       <source>Select file</source>
-      <translation type="unfinished">Select file</translation>
+      <translation>Seleccionar archivo</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="59"/>
@@ -6203,7 +6203,7 @@ Guarda tu proyecto antes de cerrar!</translation>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="72"/>
       <source>0x40000</source>
-      <translation type="unfinished">0x40000</translation>
+      <translation>0x40000</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
@@ -6248,7 +6248,7 @@ Guarda tu proyecto antes de cerrar!</translation>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="66"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Comentario</translation>
     </message>
   </context>
   <context>
@@ -6353,7 +6353,7 @@ Guarda tu proyecto antes de cerrar!</translation>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="534"/>
       <source>Clear all projects</source>
-      <translation type="unfinished">Clear all projects</translation>
+      <translation>Borrar todos los proyectos</translation>
     </message>
     <message>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Projects path (dir.projects):&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -6398,7 +6398,7 @@ Guarda tu proyecto antes de cerrar!</translation>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="104"/>
       <source>Open Project</source>
-      <translation type="unfinished">Open Project</translation>
+      <translation>Abrir proyecto</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="287"/>
@@ -6521,7 +6521,7 @@ Guarda tu proyecto antes de cerrar!</translation>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="37"/>
       <source>Initialization Script</source>
-      <translation type="unfinished">Initialization Script</translation>
+      <translation>Script de Inicialización</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="39"/>
@@ -6679,17 +6679,17 @@ Guarda tu proyecto antes de cerrar!</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="343"/>
       <source>Load project file</source>
-      <translation type="unfinished">Load project file</translation>
+      <translation>Cargar archivo de proyecto</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="344"/>
       <source>project file</source>
-      <translation type="unfinished">project file</translation>
+      <translation>archivo de proyecto</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="348"/>
       <source>Open file in write mode</source>
-      <translation type="unfinished">Open file in write mode</translation>
+      <translation>Abrir archivo en modo escritura</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="352"/>
@@ -6704,17 +6704,17 @@ Guarda tu proyecto antes de cerrar!</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="364"/>
       <source>Do not load plugins</source>
-      <translation type="unfinished">Do not load plugins</translation>
+      <translation>No cargar complementos</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="368"/>
       <source>Do not load Cutter plugins</source>
-      <translation type="unfinished">Do not load Cutter plugins</translation>
+      <translation>No cargar complementos Cutter</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="372"/>
       <source>Do not load rizin plugins</source>
-      <translation type="unfinished">Do not load rizin plugins</translation>
+      <translation>No cargar complementos de rizin</translation>
     </message>
     <message>
       <source>PYTHONHOME to use for Jupyter</source>
@@ -7348,17 +7348,17 @@ WARNING: In Write mode, any changes will be committed to the file on disk. For s
     <message>
       <location filename="../common/IOModesController.cpp" line="60"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>Cancelar</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="62"/>
       <source>Reopen in Write mode</source>
-      <translation type="unfinished">Reopen in Write mode</translation>
+      <translation>Reabrir en modo de escritura</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="64"/>
       <source>Enable Cache mode</source>
-      <translation type="unfinished">Enable Cache mode</translation>
+      <translation>Activar modo de caché</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="99"/>
@@ -7552,7 +7552,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="73"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Comentario</translation>
     </message>
   </context>
   <context>
@@ -7588,7 +7588,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/RelocsWidget.cpp" line="60"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Comentario</translation>
     </message>
   </context>
   <context>
@@ -7609,7 +7609,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="82"/>
       <source>IP or Path:</source>
-      <translation type="unfinished">IP or Path:</translation>
+      <translation>IP o ruta:</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="159"/>
@@ -7620,7 +7620,7 @@ Do you want to commit them now?</translation>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="164"/>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="167"/>
       <source>Remove all</source>
-      <translation type="unfinished">Remove all</translation>
+      <translation>Eliminar todo</translation>
     </message>
     <message>
       <source>GDB</source>
@@ -7706,7 +7706,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="88"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Comentario</translation>
     </message>
   </context>
   <context>
@@ -7762,7 +7762,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="31"/>
       <source>User command</source>
-      <translation type="unfinished">User command</translation>
+      <translation>Comando de usuario</translation>
     </message>
   </context>
   <context>
@@ -7770,17 +7770,17 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="14"/>
       <source>Rizin plugin information</source>
-      <translation type="unfinished">Rizin plugin information</translation>
+      <translation>Mostrar información del complemento Rizin</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="24"/>
       <source>RzBin</source>
-      <translation type="unfinished">RzBin</translation>
+      <translation>RzBin</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="30"/>
       <source>RzBin plugins</source>
-      <translation type="unfinished">RzBin plugins</translation>
+      <translation>Complementos RzBin</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="41"/>
@@ -7788,7 +7788,7 @@ Do you want to commit them now?</translation>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="123"/>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="154"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Nombre</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="46"/>
@@ -7796,7 +7796,7 @@ Do you want to commit them now?</translation>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="128"/>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="174"/>
       <source>Description</source>
-      <translation type="unfinished">Description</translation>
+      <translation>Descripción</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="51"/>
@@ -7808,42 +7808,42 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="56"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>Tipo</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="65"/>
       <source>RzIO</source>
-      <translation type="unfinished">RzIO</translation>
+      <translation>RzIO</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="71"/>
       <source>RzIO plugins</source>
-      <translation type="unfinished">RzIO plugins</translation>
+      <translation>Complementos RziO</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="97"/>
       <source>Permissions</source>
-      <translation type="unfinished">Permissions</translation>
+      <translation>Permisos</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="106"/>
       <source>RzCore</source>
-      <translation type="unfinished">RzCore</translation>
+      <translation>RzCore</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="112"/>
       <source>RzCore plugins</source>
-      <translation type="unfinished">RzCore plugins</translation>
+      <translation>Complementos RzCore</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="137"/>
       <source>RzAsm</source>
-      <translation type="unfinished">RzAsm</translation>
+      <translation>RzAsm</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="143"/>
       <source>RzAsm plugins</source>
-      <translation type="unfinished">RzAsm plugins</translation>
+      <translation>Complementos RzAsm</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="159"/>
@@ -7853,17 +7853,17 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="164"/>
       <source>CPU&apos;s</source>
-      <translation type="unfinished">CPU&apos;s</translation>
+      <translation>CPU&apos;s</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="169"/>
       <source>Version</source>
-      <translation type="unfinished">Version</translation>
+      <translation>Versión</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="184"/>
       <source>Author</source>
-      <translation type="unfinished">Author</translation>
+      <translation>Autor</translation>
     </message>
   </context>
   <context>
@@ -7876,43 +7876,43 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/RizinTaskDialog.ui" line="20"/>
       <source>Rizin task in progress..</source>
-      <translation type="unfinished">Rizin task in progress..</translation>
+      <translation>Tarea de Rizin en curso..</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinTaskDialog.ui" line="27"/>
       <source>Time</source>
-      <translation type="unfinished">Time</translation>
+      <translation>Hora</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinTaskDialog.cpp" line="32"/>
       <source>Running for</source>
-      <translation type="unfinished">Running for</translation>
+      <translation>Ejecutando por</translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/RizinTaskDialog.cpp" line="34"/>
       <source>%n hour</source>
       <comment>%n hours</comment>
-      <translation type="unfinished">
-        <numerusform>%n hour</numerusform>
-        <numerusform>%n hour</numerusform>
+      <translation>
+        <numerusform>%n hora</numerusform>
+        <numerusform>%n horas</numerusform>
       </translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/RizinTaskDialog.cpp" line="38"/>
       <source>%n minute</source>
       <comment>%n minutes</comment>
-      <translation type="unfinished">
-        <numerusform>%n minute</numerusform>
-        <numerusform>%n minute</numerusform>
+      <translation>
+        <numerusform>%n minuto</numerusform>
+        <numerusform>%n minutos</numerusform>
       </translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/RizinTaskDialog.cpp" line="41"/>
       <source>%n seconds</source>
       <comment>%n second</comment>
-      <translation type="unfinished">
-        <numerusform>%n seconds</numerusform>
-        <numerusform>%n seconds</numerusform>
+      <translation>
+        <numerusform>%n segundos</numerusform>
+        <numerusform>%n segundos</numerusform>
       </translation>
     </message>
   </context>
@@ -8035,7 +8035,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="123"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Comentario</translation>
     </message>
   </context>
   <context>
@@ -8088,7 +8088,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="285"/>
       <source>No Results Found</source>
-      <translation type="unfinished">No Results Found</translation>
+      <translation>No se encontraron resultados</translation>
     </message>
   </context>
   <context>
@@ -8131,7 +8131,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="107"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Comentario</translation>
     </message>
   </context>
   <context>
@@ -8164,7 +8164,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="91"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Comentario</translation>
     </message>
   </context>
   <context>
@@ -8341,7 +8341,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SimpleTextGraphView.cpp" line="29"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>Copiar</translation>
     </message>
   </context>
   <context>
@@ -8364,7 +8364,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="222"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Comentario</translation>
     </message>
   </context>
   <context>
@@ -8441,7 +8441,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="79"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Comentario</translation>
     </message>
   </context>
   <context>
@@ -8503,7 +8503,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SymbolsWidget.cpp" line="64"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Comentario</translation>
     </message>
   </context>
   <context>
@@ -8856,7 +8856,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="213"/>
       <source>Midnight Theme</source>
-      <translation type="unfinished">Midnight Theme</translation>
+      <translation>Tema Medianoche</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="218"/>
@@ -8963,7 +8963,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="293"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Comentario</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="289"/>
@@ -9006,12 +9006,12 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="152"/>
       <source>Writes to %1</source>
-      <translation type="unfinished">Writes to %1</translation>
+      <translation>Escribe a %1</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="153"/>
       <source>Reads from %1</source>
-      <translation type="unfinished">Reads from %1</translation>
+      <translation>Lee desde %1</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="164"/>
