@@ -82,7 +82,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="48"/>
       <source>This Software is released under the GNU General Public License v3.0</source>
-      <translation>本软件是根据GNU通用公共许可证v3.0发布的</translation>
+      <translation>本软件根据 GNU 通用公共许可证 v3.0 发布</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="49"/>
@@ -843,12 +843,12 @@
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="46"/>
       <source>Processes with same name as currently open file:</source>
-      <translation>与当前打开的文件同名的进程：</translation>
+      <translation>与当前打开的文件同名称的进程：</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="94"/>
       <source>All processes:</source>
-      <translation>所有进程:</translation>
+      <translation>所有进程：</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="138"/>
@@ -1208,7 +1208,7 @@
     <message>
       <location filename="../widgets/ClassesWidget.ui" line="79"/>
       <source>Source:</source>
-      <translation>来源:</translation>
+      <translation>资料来源：</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.ui" line="93"/>
@@ -1223,7 +1223,7 @@
     <message>
       <location filename="../widgets/ClassesWidget.ui" line="109"/>
       <source>Seek to VTable</source>
-      <translation>寻找VTable</translation>
+      <translation>查找到虚函数表</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.ui" line="114"/>
@@ -1259,12 +1259,12 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="695"/>
       <source>Missing VTable in class</source>
-      <translation>类中缺少VTable</translation>
+      <translation>类中缺少虚函数表</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="696"/>
       <source>The class %1 does not have any VTable!</source>
-      <translation>类 %1 没有任何VTable！</translation>
+      <translation>类 %1 没有任何虚函数表！</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="743"/>
@@ -1611,7 +1611,7 @@
     <message>
       <location filename="../common/Configuration.cpp" line="139"/>
       <source>!!! Settings are not writable! Make sure you have a write access to &quot;%1&quot;</source>
-      <translation>！！！设置不可写！请确保您对&quot;%1&quot;具有写入权限</translation>
+      <translation>!!! 设置不可写！ 请确保您对 &quot;%1&quot; 具有写入权限</translation>
     </message>
   </context>
   <context>
@@ -1633,7 +1633,7 @@
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="115"/>
       <source> Type &quot;?&quot; for help</source>
-      <translation> 类型 &quot;?&quot;  帮助</translation>
+      <translation> 键入&quot;？&quot;以获得帮助</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="137"/>
@@ -2266,7 +2266,7 @@
     </message>
     <message>
       <source>If you encounter any problems or have suggestions, please submit an issue to https://github.com/radareorg/cutter/issues</source>
-      <translation>如果您遇到任何问题或有建议，请向https://github.com/radareorg/cutter/issues提交问题</translation>
+      <translation>如果你遇到任何问题或有建议，请到 https://github.com/radareorg/cutter/issues提交 issue</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="295"/>
@@ -2730,23 +2730,23 @@
     </message>
     <message>
       <source>Grid narrow</source>
-      <translation>窄网格</translation>
+      <translation>网格压缩</translation>
     </message>
     <message>
       <source>Grid medium</source>
-      <translation>中网格</translation>
+      <translation>网格适中</translation>
     </message>
     <message>
       <source>Grid wide</source>
-      <translation>宽网格</translation>
+      <translation>网格宽度</translation>
     </message>
     <message>
       <source>Graphviz polyline</source>
-      <translation>Graphviz 折线图</translation>
+      <translation>Graphviz多线图</translation>
     </message>
     <message>
       <source>Graphviz polyline LR</source>
-      <translation>Graphviz 折线图 LR</translation>
+      <translation>Graphviz多线图LR</translation>
     </message>
     <message>
       <source>Graphviz ortho</source>
@@ -2940,7 +2940,7 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="172"/>
       <source>Set Immediate Base to...</source>
-      <translation>将立即数基址设置为...</translation>
+      <translation>将立即基数设置为...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="174"/>
@@ -3030,7 +3030,7 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="125"/>
       <source>Link Type to Address</source>
-      <translation>指向地址的链接类型</translation>
+      <translation>链接类型至地址</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="226"/>
@@ -3231,9 +3231,9 @@
       <source>Unable to complete write operation. Consider opening in write mode. 
 
 WARNING: In write mode any changes will be commited to disk</source>
-      <translation>无法完成写操作。考虑以写模式打开。
+      <translation>无法完成写入操作，可尝试以写入模式打开。
 
-警告：在写模式下，任何变化都将被写入磁盘</translation>
+警告：在写入模式下，所有修改都将保存到磁盘文件</translation>
     </message>
     <message>
       <source>OK</source>
@@ -3241,7 +3241,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     </message>
     <message>
       <source>Reopen in write mode and try again</source>
-      <translation>以写模式重新打开，然后重试</translation>
+      <translation>在写入模式下重新打开，再试一次</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="938"/>
@@ -3603,7 +3603,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="86"/>
       <source>Flagspace:</source>
-      <translation>标志空间：</translation>
+      <translation>标志寄存器空间:</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="99"/>
@@ -3661,17 +3661,17 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="128"/>
       <source>true</source>
-      <translation>true</translation>
+      <translation>真</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="128"/>
       <source>false</source>
-      <translation>false</translation>
+      <translation>假</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="130"/>
       <source>Nargs: %1</source>
-      <translation>Nargs: %1</translation>
+      <translation>参数：%1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="132"/>
@@ -3681,7 +3681,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="134"/>
       <source>Nlocals: %1</source>
-      <translation>Nlocals %1</translation>
+      <translation>本地：%1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="281"/>
@@ -3700,7 +3700,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="138"/>
       <source>Edges: %1</source>
-      <translation>边: %1</translation>
+      <translation>边界：%1</translation>
     </message>
     <message>
       <source>Cost: %1</source>
@@ -3765,12 +3765,12 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="267"/>
       <source>Offset</source>
-      <translation>Offset</translation>
+      <translation>偏移</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="269"/>
       <source>Nargs</source>
-      <translation>Nargs</translation>
+      <translation>鸣谢</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="273"/>
@@ -3794,11 +3794,11 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="277"/>
       <source>Edges</source>
-      <translation>边</translation>
+      <translation>边界</translation>
     </message>
     <message>
       <source>Cost</source>
-      <translation>成本</translation>
+      <translation>损失</translation>
     </message>
     <message>
       <source>Calls/OutDeg.</source>
@@ -3851,7 +3851,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     </message>
     <message>
       <source>X-Refs</source>
-      <translation>交叉引用</translation>
+      <translation>外部参考文献</translation>
     </message>
     <message>
       <source>Cross references</source>
@@ -3860,12 +3860,12 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="444"/>
       <source>Horizontal</source>
-      <translation>水平</translation>
+      <translation>横向</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="445"/>
       <source>Vertical</source>
-      <translation>垂直</translation>
+      <translation>纵向</translation>
     </message>
   </context>
   <context>
@@ -3873,7 +3873,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="14"/>
       <source>Graph</source>
-      <translation>图</translation>
+      <translation>图表</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="22"/>
@@ -3898,7 +3898,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="50"/>
       <source>Maximum Line Length:</source>
-      <translation>最大行长度：</translation>
+      <translation>最大线路长度：</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="70"/>
@@ -3958,7 +3958,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     </message>
     <message>
       <source>Show offsets (graph.offset)</source>
-      <translation>Show offsets (graph.offset)</translation>
+      <translation>显示偏移量 (graph.offset)</translation>
     </message>
     <message>
       <source>Show offsets (graph.offset) </source>
@@ -3993,7 +3993,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="120"/>
       <source>Headers</source>
-      <translation>标头</translation>
+      <translation>标题</translation>
     </message>
   </context>
   <context>
@@ -4041,7 +4041,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="107"/>
       <source>Bytes as pairs</source>
-      <translation>双字节</translation>
+      <translation>字节成对</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="111"/>
@@ -4109,7 +4109,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="620"/>
       <source>Item size:</source>
-      <translation>项目大小:</translation>
+      <translation>项目大小：</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="622"/>
@@ -4178,7 +4178,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="47"/>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="79"/>
       <source>Exclusive end address</source>
-      <translation>专属的终端地址</translation>
+      <translation>专属的结束地址</translation>
     </message>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="50"/>
@@ -4752,17 +4752,17 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="598"/>
       <source>Kernel: </source>
-      <translation>核心: </translation>
+      <translation>内核： </translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="626"/>
       <source>Format:</source>
-      <translation>格式:</translation>
+      <translation>格式：</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="680"/>
       <source>Load bin offset (-B)</source>
-      <translation>载入二进制偏移(-B)</translation>
+      <translation>Load bin 偏移量 (-B)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="699"/>
@@ -4772,7 +4772,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="718"/>
       <source>Map offset (-m)</source>
-      <translation>Map偏移 (-m)</translation>
+      <translation>Map偏移量 (-m)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="734"/>
@@ -4831,7 +4831,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="56"/>
       <source>Analyze instructions for references</source>
-      <translation>[分析指令引用] Analyze instructions for references</translation>
+      <translation>分析指令的参考文献</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="57"/>
@@ -4841,7 +4841,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="58"/>
       <source>Analyze all basic blocks</source>
-      <translation>[分析所有基本模块] Analyze all basic blocks</translation>
+      <translation>分析所有的基本模块</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="59"/>
@@ -4876,12 +4876,12 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="65"/>
       <source>Analyze code after trap-sleds</source>
-      <translation>Trap-sleds之后分析代码</translation>
+      <translation>trap-sleds后分析代码</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="66"/>
       <source>Analyze function preludes</source>
-      <translation>分析函数序言</translation>
+      <translation>分析函数preludes</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="67"/>
@@ -5200,12 +5200,12 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="227"/>
       <source>Zen Mode</source>
-      <translation>禅模式</translation>
+      <translation>Zen 模式</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="230"/>
       <source>Zen mode</source>
-      <translation>禅模式</translation>
+      <translation>Zen模式</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="235"/>
@@ -5427,11 +5427,11 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     </message>
     <message>
       <source>Flags</source>
-      <translation>Flags</translation>
+      <translation>标志寄存器</translation>
     </message>
     <message>
       <source>Show/Hide Flags panel</source>
-      <translation>显示/隐藏标志面板</translation>
+      <translation>显示/隐藏标志寄存器面板</translation>
     </message>
     <message>
       <source>Memory</source>
@@ -5450,7 +5450,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <location filename="../core/MainWindow.ui" line="400"/>
       <location filename="../core/MainWindow.ui" line="403"/>
       <source>Tabs up/down</source>
-      <translation>向上/向下拉标签</translation>
+      <translation>选项卡向上/向下</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="412"/>
@@ -5779,7 +5779,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="745"/>
       <source>Add Hexdump</source>
-      <translation>添加内存窗口</translation>
+      <translation>添加Hexdump</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="750"/>
@@ -5789,12 +5789,12 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="755"/>
       <source>Add Disassembly</source>
-      <translation>添加反汇编窗口</translation>
+      <translation>添加反汇编</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="760"/>
       <source>Add Graph</source>
-      <translation>添加流程图窗口</translation>
+      <translation>添加图形</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="771"/>
@@ -5890,7 +5890,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     </message>
     <message>
       <source>Register References</source>
-      <translation>寄存器引用</translation>
+      <translation>注册的引用</translation>
     </message>
     <message>
       <source>Classes</source>
@@ -5943,11 +5943,11 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     </message>
     <message>
       <source>Zignatures</source>
-      <translation>Zignatures</translation>
+      <translation>签名</translation>
     </message>
     <message>
       <source>Show/Hide Zignatures panel</source>
-      <translation>显示/隐藏 Zignatures 面板</translation>
+      <translation>显示/隐藏属性面板</translation>
     </message>
     <message>
       <source>Jupyter</source>
@@ -6009,17 +6009,17 @@ Save your project before closing!</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="1038"/>
       <source>New disassembly</source>
-      <translation>新反汇编窗口</translation>
+      <translation>新的反汇编</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1040"/>
       <source>New graph</source>
-      <translation>新流程图窗口</translation>
+      <translation>新建图表</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1042"/>
       <source>New hexdump</source>
-      <translation>新内存窗口</translation>
+      <translation>新的十六进制转储</translation>
     </message>
     <message>
       <source>Select radare2 script</source>
@@ -6123,7 +6123,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="1682"/>
       <source>Shell-script that reconstructs the bin (*.sh)</source>
-      <translation>重建bin (*.sh)的shell脚本</translation>
+      <translation>用于重建bin（*.sh）的Shell脚本</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1684"/>
@@ -6216,7 +6216,7 @@ Save your project before closing!</source>
     <name>MemoryDockWidget</name>
     <message>
       <source>Sync/unsync offset</source>
-      <translation>同步/取消同步偏移</translation>
+      <translation>同步/不同步偏移</translation>
     </message>
   </context>
   <context>
@@ -6427,11 +6427,11 @@ Save your project before closing!</source>
     </message>
     <message>
       <source>Map address:</source>
-      <translation>映射地址:</translation>
+      <translation>Map 地址:</translation>
     </message>
     <message>
       <source>File:</source>
-      <translation>File:</translation>
+      <translation>文件：</translation>
     </message>
     <message>
       <source>Map address</source>
@@ -6737,7 +6737,7 @@ Save your project before closing!</source>
     </message>
     <message>
       <source>Color of comment generated by radare2</source>
-      <translation>radare2生成注释颜色</translation>
+      <translation>由radare2生成的注释颜色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="410"/>
@@ -6790,7 +6790,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="416"/>
       <source>Color of ascii line in left side that shows what opcodes are belong to function</source>
-      <translation>左侧ascii线的颜色，表示操作码属于哪个函数</translation>
+      <translation>左侧ascii 线的 颜色，显示哪些操作码属于函数</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="418"/>
@@ -6800,7 +6800,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="420"/>
       <source>Color of flags (similar to bookmarks for offset)</source>
-      <translation>标志的颜色 (类似于用于偏移的书签)</translation>
+      <translation>标志寄存器的颜色 (类似于用于偏移的书签)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="420"/>
@@ -6922,12 +6922,12 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="451"/>
       <source>nop opcode color</source>
-      <translation>nop指令颜色</translation>
+      <translation>无操作码颜色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="452"/>
       <source>ret opcode color</source>
-      <translation>ret指令颜色</translation>
+      <translation>网络操作码颜色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="453"/>
@@ -6942,7 +6942,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="454"/>
       <source>swi opcode color</source>
-      <translation>swi指令颜色</translation>
+      <translation>当前选项颜色</translation>
     </message>
     <message>
       <source>cmp opcode color</source>
@@ -6997,7 +6997,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="437"/>
       <source>Color of binary operations (and, or, xor etc).</source>
-      <translation>二进制运算的颜色，例如：(and, or, xor etc).</translation>
+      <translation>二进制运算的颜色，例如(and, or, xor etc).</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="437"/>
@@ -7224,7 +7224,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="512"/>
       <source>Main</source>
-      <translation>基本</translation>
+      <translation>主要内容</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="521"/>
@@ -7493,7 +7493,7 @@ Do you want to commit them now?</translation>
     </message>
     <message>
       <source>Running for</source>
-      <translation>为运行</translation>
+      <translation>运行</translation>
     </message>
     <message numerus="yes">
       <source>%n hour</source>
@@ -7540,7 +7540,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="71"/>
       <source>Reference</source>
-      <translation>引用</translation>
+      <translation>参考文献</translation>
     </message>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="73"/>
@@ -7558,7 +7558,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="138"/>
       <source>Copy register reference</source>
-      <translation>复制寄存器引用</translation>
+      <translation>复制寄存器参考信息</translation>
     </message>
   </context>
   <context>
@@ -7589,7 +7589,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/RelocsWidget.cpp" line="131"/>
       <source>Relocs</source>
-      <translation>重定位表</translation>
+      <translation>重新定位</translation>
     </message>
   </context>
   <context>
@@ -7621,7 +7621,7 @@ Do you want to commit them now?</translation>
     </message>
     <message>
       <source>WinDbg - Pipe</source>
-      <translation>WinDbg - Pipe</translation>
+      <translation>WinDbg - 管道</translation>
     </message>
     <message>
       <source>IP:</source>
@@ -7911,7 +7911,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../common/RunScriptTask.cpp" line="18"/>
       <source>Executing script...</source>
-      <translation>正在执行脚本……</translation>
+      <translation>正在执行脚本...</translation>
     </message>
     <message>
       <location filename="../common/RunScriptTask.h" line="15"/>
@@ -8010,7 +8010,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="117"/>
       <source>Offset</source>
-      <translation>偏移量</translation>
+      <translation>偏移</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="119"/>
@@ -8033,7 +8033,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SearchWidget.ui" line="83"/>
       <source>Search</source>
-      <translation>搜索​​​​</translation>
+      <translation>搜索</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.ui" line="90"/>
@@ -8291,7 +8291,7 @@ Do you want to commit them now?</translation>
     </message>
     <message>
       <source>Info</source>
-      <translation>提示</translation>
+      <translation>信息</translation>
     </message>
     <message>
       <source>Value</source>
@@ -8319,7 +8319,7 @@ Do you want to commit them now?</translation>
     </message>
     <message>
       <source>Instruction</source>
-      <translation>指令</translation>
+      <translation>用法说明</translation>
     </message>
     <message>
       <source>X-Refs from current address:</source>
@@ -8339,17 +8339,17 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="216"/>
       <source>Offset</source>
-      <translation>Offset</translation>
+      <translation>偏移</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="218"/>
       <source>Value</source>
-      <translation>Value</translation>
+      <translation>值</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="220"/>
       <source>Reference</source>
-      <translation>引用</translation>
+      <translation>参考文献</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="222"/>
@@ -8393,7 +8393,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="140"/>
       <source>Pointed memory</source>
-      <translation>指向存储器</translation>
+      <translation>指向内存</translation>
     </message>
   </context>
   <context>
@@ -8612,7 +8612,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/TypesWidget.ui" line="100"/>
       <source>Link Type to Address</source>
-      <translation>地址链接类型</translation>
+      <translation>链接类型至地址</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="140"/>
@@ -8785,7 +8785,7 @@ Do you want to commit them now?</translation>
       <location filename="../dialogs/VersionInfoDialog.ui" line="94"/>
       <location filename="../dialogs/VersionInfoDialog.ui" line="126"/>
       <source>Key</source>
-      <translation>密钥</translation>
+      <translation>键</translation>
     </message>
     <message>
       <location filename="../dialogs/VersionInfoDialog.ui" line="99"/>
@@ -8807,7 +8807,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/VisualNavbar.cpp" line="29"/>
       <source>Visual navigation bar</source>
-      <translation>可视化导航条</translation>
+      <translation>可视化的导航栏</translation>
     </message>
   </context>
   <context>
@@ -8891,11 +8891,11 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;加入我们社区中成千上万的逆向工程师：&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Twitter:&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;	&lt;/span&gt;&lt;a href=&quot;https://twitter.com/r2gui&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@r2gui&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Telegram:	&lt;/span&gt;&lt;a href=&quot;https://t.me/r2cutter&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@r2cutter &lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;IRC:	&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;#cutter on &lt;/span&gt;&lt;a href=&quot;irc.freenode.net&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;irc.freenode.net&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;加入我们社区中成千上万的逆向工程师行列:&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Twitter:&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;	&lt;/span&gt;&lt;a href=&quot;https://twitter.com/r2gui&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@r2gui&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Telegram:	&lt;/span&gt;&lt;a href=&quot;https://t.me/r2cutter&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@r2cutter &lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;IRC:	&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;#cutter 在 &lt;/span&gt;&lt;a href=&quot;irc.freenode.net&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;irc.freenode.net&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;Want to help us make Cutter even better?&lt;br/&gt;Visit our &lt;/span&gt;&lt;a href=&quot;https://github.com/radareorg/cutter&quot;&gt;&lt;span style=&quot; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;Github page&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt; and report bugs or contribute code.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation>&lt;html&gt;&lt;head/&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;您希望帮助 Cutter 变得更好吗？&lt;br/&gt;访问我们的&lt;/span&gt;&lt;a href=&quot;https://github.com/radareorg/cutter&quot;&gt;&lt;span style=&quot; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;Github 页面&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;来报告问题或贡献代码。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;想帮助我们使Cutter变得更好吗?&lt;br/&gt;Visit our &lt;/span&gt;&lt;a href=&quot;https://github.com/radareorg/cutter&quot;&gt;&lt;span style=&quot; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;Github page&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt; 并报告错误或贡献代码.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="417"/>
@@ -8977,11 +8977,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
       <source>X-Refs to %1:</source>
-      <translation>%1的外部参照：</translation>
+      <translation>到%1的外部参考文献：</translation>
     </message>
     <message>
       <source>X-Refs from %1:</source>
-      <translation>来自%1的外部参照：</translation>
+      <translation>来自%1的外部参考文献：</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="145"/>
@@ -9007,7 +9007,7 @@ p, li { white-space: pre-wrap; }
       <location filename="../dialogs/XrefsDialog.cpp" line="164"/>
       <location filename="../dialogs/XrefsDialog.cpp" line="183"/>
       <source>X-Refs for %1</source>
-      <translation>%1 的外部参考</translation>
+      <translation>%1的外部参考文献</translation>
     </message>
   </context>
   <context>
