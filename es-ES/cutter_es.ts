@@ -21,7 +21,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="108"/>
       <source>Show Rizin plugin information</source>
-      <translation type="unfinished">Show Rizin plugin information</translation>
+      <translation>Mostrar información del complemento Rizin</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="121"/>
@@ -67,7 +67,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="28"/>
       <source>Using rizin </source>
-      <translation type="unfinished">Using rizin </translation>
+      <translation>Usando rizin </translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="30"/>
@@ -102,7 +102,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="76"/>
       <source>Rizin version information</source>
-      <translation type="unfinished">Rizin version information</translation>
+      <translation>Información de la versión Rizin</translation>
     </message>
     <message>
       <source>Check our &lt;a href=&apos;https://github.com/radareorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</source>
@@ -266,7 +266,7 @@
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="195"/>
       <source>Pointer depth (analysis.ptrdepth):</source>
-      <translation type="unfinished">Pointer depth (analysis.ptrdepth):</translation>
+      <translation>Profundidad del puntero (analysis.ptrdepth):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="236"/>
@@ -276,7 +276,7 @@
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="269"/>
       <source>Analyze program</source>
-      <translation type="unfinished">Analyze program</translation>
+      <translation>Analizar programa</translation>
     </message>
   </context>
   <context>
@@ -685,7 +685,7 @@ Disminuir (Zoom out)</translation>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="482"/>
       <source>Substitute entire variable expressions with names (asm.sub.varonly)</source>
-      <translation type="unfinished">Substitute entire variable expressions with names (asm.sub.varonly)</translation>
+      <translation>Sustituir expresiones de variables completas por nombres (asm.sub.varonly)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="237"/>
@@ -887,22 +887,22 @@ Disminuir (Zoom out)</translation>
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="14"/>
       <source>Base64 Encode/Decode</source>
-      <translation type="unfinished">Base64 Encode/Decode</translation>
+      <translation>Codificación/decodificación Base64</translation>
     </message>
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="24"/>
       <source>String:</source>
-      <translation type="unfinished">String:</translation>
+      <translation>Cadena:</translation>
     </message>
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="38"/>
       <source>Decode</source>
-      <translation type="unfinished">Decode</translation>
+      <translation>Decodificar</translation>
     </message>
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="48"/>
       <source>Encode</source>
-      <translation type="unfinished">Encode</translation>
+      <translation>Codificar</translation>
     </message>
   </context>
   <context>
@@ -963,7 +963,7 @@ Disminuir (Zoom out)</translation>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="111"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Comentario</translation>
     </message>
     <message>
       <source>Permissions</source>
@@ -1164,12 +1164,12 @@ Disminuir (Zoom out)</translation>
     <message>
       <location filename="../widgets/CallGraph.cpp" line="23"/>
       <source>Global Callgraph</source>
-      <translation type="unfinished">Global Callgraph</translation>
+      <translation>Callgraph global</translation>
     </message>
     <message>
       <location filename="../widgets/CallGraph.cpp" line="23"/>
       <source>Callgraph</source>
-      <translation type="unfinished">Callgraph</translation>
+      <translation>Callgraph</translation>
     </message>
   </context>
   <context>
