@@ -21,12 +21,12 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="108"/>
       <source>Show Rizin plugin information</source>
-      <translation type="unfinished">Show Rizin plugin information</translation>
+      <translation>显示Rizin插件信息</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="121"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter is a free and open-source reverse engineering platform powered by Rizin&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter is a free and open-source reverse engineering platform powered by Rizin&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter是一个免费和开源的逆向工程平台，由Rizin提供支持。&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;阅读更多内容 &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <source>Show radare2 plugin information</source>
@@ -34,7 +34,7 @@
     </message>
     <message>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter is a free and open-source reverse engineering platform powered by radare2&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter is a free and open-source reverse engineering platform powered by radare2&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter是一个免费和开源的逆向工程平台，由radare2提供支持&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;阅读更多信息 &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="128"/>
@@ -67,7 +67,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="28"/>
       <source>Using rizin </source>
-      <translation type="unfinished">Using rizin </translation>
+      <translation>使用rizin </translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="30"/>
@@ -92,17 +92,17 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="50"/>
       <source>Cutter is developed by the community and maintained by its core and development teams.&lt;br/&gt;</source>
-      <translation>Cutter 由社区开发，并由其核心和开发团队维护。&lt;br/&gt;</translation>
+      <translation>Cutter由community开发，由其核心和开发团队维护。&lt;br/&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="52"/>
       <source>Check our &lt;a href=&apos;https://github.com/rizinorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</source>
-      <translation type="unfinished">Check our &lt;a href=&apos;https://github.com/rizinorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</translation>
+      <translation>查看我们的 &lt;a href=&apos;https://github.com/rizinorg/cutter/graphs/contributors&apos;&gt;贡献者页面&lt;/a&gt; for the full list of contributors.</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="76"/>
       <source>Rizin version information</source>
-      <translation type="unfinished">Rizin version information</translation>
+      <translation>Rizin版本信息</translation>
     </message>
     <message>
       <source>Check our &lt;a href=&apos;https://github.com/radareorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</source>
@@ -138,7 +138,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="105"/>
       <source>Error!</source>
-      <translation>错误</translation>
+      <translation>错误!</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="108"/>
@@ -167,7 +167,7 @@
     <message>
       <location filename="../widgets/AddressableDockWidget.cpp" line="12"/>
       <source>Sync/unsync offset</source>
-      <translation type="unfinished">Sync/unsync offset</translation>
+      <translation>同步/不同步偏移量</translation>
     </message>
   </context>
   <context>
@@ -185,7 +185,7 @@
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="18"/>
       <source>Show X-Refs</source>
-      <translation>显示 X-Refs</translation>
+      <translation>显示外部参考文献</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="19"/>
@@ -226,57 +226,57 @@
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="55"/>
       <source>Show verbose information when performing analysis (analysis.verbose)</source>
-      <translation type="unfinished">Show verbose information when performing analysis (analysis.verbose)</translation>
+      <translation>在进行分析时，显示详细的信息 (analysis.verbose)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="68"/>
       <source>Analyze push+ret as jmp (analysis.pushret)</source>
-      <translation type="unfinished">Analyze push+ret as jmp (analysis.pushret)</translation>
+      <translation>将push+ret分析为jmp (analysis.pushret)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="81"/>
       <source>Verbose output from type analysis (analysis.types.verbose)</source>
-      <translation type="unfinished">Verbose output from type analysis (analysis.types.verbose)</translation>
+      <translation>类型分析的详细输出 (analysis.types.verbose)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="94"/>
       <source>Speculatively set a name for the functions (analysis.autoname)</source>
-      <translation type="unfinished">Speculatively set a name for the functions (analysis.autoname)</translation>
+      <translation>推测性地设置一个函数的名称 (analysis.autoname)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="107"/>
       <source>Search for new functions following already defined functions (analysis.hasnext)</source>
-      <translation type="unfinished">Search for new functions following already defined functions (analysis.hasnext)</translation>
+      <translation>在已定义的函数之后搜索新函数 (analysis.hasnext)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="120"/>
       <source>Create references for unconditional jumps (analysis.jmp.ref)</source>
-      <translation type="unfinished">Create references for unconditional jumps (analysis.jmp.ref)</translation>
+      <translation>为无条件jumps创建参考资料 (analysis.jmp.ref)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="133"/>
       <source>Analyze jump tables in switch statements (analysis.jmp.tbl)</source>
-      <translation type="unfinished">Analyze jump tables in switch statements (analysis.jmp.tbl)</translation>
+      <translation>分析switch语句中的jump 表 (analysis.jmp.tbl)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="161"/>
       <source>Search boundaries for analysis (analysis.in): </source>
-      <translation type="unfinished">Search boundaries for analysis (analysis.in): </translation>
+      <translation>搜索分析边界 (analysis.in): </translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="195"/>
       <source>Pointer depth (analysis.ptrdepth):</source>
-      <translation type="unfinished">Pointer depth (analysis.ptrdepth):</translation>
+      <translation>指针深度 (analysis.ptrdepth):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="236"/>
       <source>Functions Prelude (analysis.prelude):</source>
-      <translation type="unfinished">Functions Prelude (analysis.prelude):</translation>
+      <translation>函数开头 (analysis.prelude):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="269"/>
       <source>Analyze program</source>
-      <translation type="unfinished">Analyze program</translation>
+      <translation>分析程序</translation>
     </message>
   </context>
   <context>
@@ -284,7 +284,7 @@
     <message>
       <location filename="../common/AnalTask.cpp" line="26"/>
       <source>Analyzing Program</source>
-      <translation type="unfinished">Analyzing Program</translation>
+      <translation>分析程序</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="43"/>
@@ -400,12 +400,12 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="289"/>
       <source>Use information provided by decompiler when highlighting code.</source>
-      <translation type="unfinished">Use information provided by decompiler when highlighting code.</translation>
+      <translation>在突出显示代码时使用反编译器提供的信息。</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="292"/>
       <source>Decompiler based highlighting</source>
-      <translation type="unfinished">Decompiler based highlighting</translation>
+      <translation>基于反编译器的高亮显示</translation>
     </message>
     <message>
       <source>Qt Theme:</source>
@@ -639,27 +639,27 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="223"/>
       <source>Separate bytes with whitespace (asm.bytes.space)</source>
-      <translation type="unfinished">Separate bytes with whitespace (asm.bytes.space)</translation>
+      <translation>用空格分隔字节 (asm.bytes.space)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="230"/>
       <source>Display flags&apos; real name (asm.flags.real)</source>
-      <translation type="unfinished">Display flags&apos; real name (asm.flags.real)</translation>
+      <translation>显示标志寄存器的真实名称</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="259"/>
       <source>Show offsets relative to:</source>
-      <translation type="unfinished">Show offsets relative to:</translation>
+      <translation>显示相对于以下的偏移量:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="266"/>
       <source>Functions (asm.reloff)</source>
-      <translation type="unfinished">Functions (asm.reloff)</translation>
+      <translation>函数 (asm.reloff)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="275"/>
       <source>Flags (asm.reloff.flags)</source>
-      <translation type="unfinished">Flags (asm.reloff.flags)</translation>
+      <translation>标志寄存器 (asm.reloff.flags)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="312"/>
@@ -679,12 +679,12 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="475"/>
       <source>Substitute variables (asm.sub.var)</source>
-      <translation type="unfinished">Substitute variables (asm.sub.var)</translation>
+      <translation>替代变量 (asm.sub.var)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="482"/>
       <source>Substitute entire variable expressions with names (asm.sub.varonly)</source>
-      <translation type="unfinished">Substitute entire variable expressions with names (asm.sub.varonly)</translation>
+      <translation>用名称替代整个变量表达式 (asm.sub.varonly)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="237"/>
@@ -712,7 +712,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="355"/>
       <source>Show x-refs (asm.xrefs)</source>
-      <translation>显示 x-refs (asm.xrefs)</translation>
+      <translation>显示外部参考文献 (asm.xrefs)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="362"/>
@@ -746,7 +746,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="440"/>
       <source>Show offset before flags (asm.flags.off)</source>
-      <translation>在分析结果前显示偏移 (asm.flags.off)</translation>
+      <translation>显示标志寄存器前的偏移量 (asm.flags.off)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="447"/>
@@ -883,22 +883,22 @@
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="14"/>
       <source>Base64 Encode/Decode</source>
-      <translation type="unfinished">Base64 Encode/Decode</translation>
+      <translation>Base64编码/解码</translation>
     </message>
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="24"/>
       <source>String:</source>
-      <translation type="unfinished">String:</translation>
+      <translation>字符串:</translation>
     </message>
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="38"/>
       <source>Decode</source>
-      <translation type="unfinished">Decode</translation>
+      <translation>解码</translation>
     </message>
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="48"/>
       <source>Encode</source>
-      <translation type="unfinished">Encode</translation>
+      <translation>编码</translation>
     </message>
   </context>
   <context>
@@ -1160,12 +1160,12 @@
     <message>
       <location filename="../widgets/CallGraph.cpp" line="23"/>
       <source>Global Callgraph</source>
-      <translation type="unfinished">Global Callgraph</translation>
+      <translation>全局调用图</translation>
     </message>
     <message>
       <location filename="../widgets/CallGraph.cpp" line="23"/>
       <source>Callgraph</source>
-      <translation type="unfinished">Callgraph</translation>
+      <translation>调用图</translation>
     </message>
   </context>
   <context>
@@ -1269,12 +1269,12 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="743"/>
       <source>Class Name:</source>
-      <translation type="unfinished">Class Name:</translation>
+      <translation>类名::</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="778"/>
       <source>Class name:</source>
-      <translation type="unfinished">Class name:</translation>
+      <translation>类名::</translation>
     </message>
     <message>
       <source>Class Name</source>
@@ -1440,12 +1440,12 @@
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="46"/>
       <source>The Rizin standard themes could not be found in &apos;%1&apos;. Most likely, Rizin is not properly installed.</source>
-      <translation type="unfinished">The Rizin standard themes could not be found in &apos;%1&apos;. Most likely, Rizin is not properly installed.</translation>
+      <translation>在&apos;%1&apos;中找不到Rizin标准主题。很可能是Rizin没有正确安装。</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="199"/>
       <source>You can not delete standard Rizin color themes.</source>
-      <translation type="unfinished">You can not delete standard Rizin color themes.</translation>
+      <translation>你不能删除标准的Rizin颜色主题。</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="207"/>
@@ -1495,7 +1495,7 @@
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="257"/>
       <source>You can not rename standard Rizin themes.</source>
-      <translation type="unfinished">You can not rename standard Rizin themes.</translation>
+      <translation>你不能重新命名标准的Rizin主题。</translation>
     </message>
     <message>
       <source>You can not rename standard radare2 themes.</source>
@@ -1623,7 +1623,7 @@
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="93"/>
       <source>Rizin Console</source>
-      <translation type="unfinished">Rizin Console</translation>
+      <translation>Rizin控制台</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="98"/>
@@ -1686,12 +1686,12 @@
     <message>
       <location filename="../core/Cutter.cpp" line="2209"/>
       <source>Creating debug tracepoint...</source>
-      <translation type="unfinished">Creating debug tracepoint...</translation>
+      <translation>创建调试追踪点...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2245"/>
       <source>Stopping debug session...</source>
-      <translation type="unfinished">Stopping debug session...</translation>
+      <translation>正在停止调试会话...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2279"/>
@@ -1735,22 +1735,22 @@
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="47"/>
       <source>Grid narrow</source>
-      <translation type="unfinished">Grid narrow</translation>
+      <translation>Grid 窄</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="48"/>
       <source>Grid medium</source>
-      <translation type="unfinished">Grid medium</translation>
+      <translation>Grid适中</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="49"/>
       <source>Grid wide</source>
-      <translation type="unfinished">Grid wide</translation>
+      <translation>Grid宽</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="63"/>
       <source>Graphviz polyline</source>
-      <translation type="unfinished">Graphviz polyline</translation>
+      <translation>Graphviz 多段线</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="64"/>
@@ -1765,7 +1765,7 @@
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="66"/>
       <source>Graphviz neato</source>
-      <translation type="unfinished">Graphviz neato</translation>
+      <translation>Graphviz 新颖</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="67"/>
@@ -1800,7 +1800,7 @@
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="418"/>
       <source>Graph Modelling Language (*.gml)</source>
-      <translation type="unfinished">Graph Modelling Language (*.gml)</translation>
+      <translation>图形建模语言 (*.gml)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="420"/>
@@ -1810,7 +1810,7 @@
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="421"/>
       <source>SDB key-value (*.txt)</source>
-      <translation type="unfinished">SDB key-value (*.txt)</translation>
+      <translation>SDB 键-值 (*.txt)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="427"/>
@@ -1835,7 +1835,7 @@
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="435"/>
       <source>Graphviz PostScript (*.ps)</source>
-      <translation type="unfinished">Graphviz PostScript (*.ps)</translation>
+      <translation>Graphviz补充说明 (*.ps)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="437"/>
@@ -1845,12 +1845,12 @@
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="460"/>
       <source>Graph Export</source>
-      <translation type="unfinished">Graph Export</translation>
+      <translation>图形输出</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="461"/>
       <source>Do you really want to export %1 x %2 = %3 pixel bitmap image? Consider using different format.</source>
-      <translation type="unfinished">Do you really want to export %1 x %2 = %3 pixel bitmap image? Consider using different format.</translation>
+      <translation>你真的想输出%1 x %2 = %3 像素的位图图像吗？考虑使用不同的格式。</translation>
     </message>
   </context>
   <context>
@@ -1863,7 +1863,7 @@
     <message>
       <location filename="../common/CutterSeekable.cpp" line="73"/>
       <source>More than one (%1) references here. Weird behaviour expected.</source>
-      <translation type="unfinished">More than one (%1) references here. Weird behaviour expected.</translation>
+      <translation>此处有多个（%1）引用。异常的状态是意料之中的。</translation>
     </message>
   </context>
   <context>
@@ -2091,7 +2091,7 @@
     <message>
       <location filename="../widgets/Dashboard.ui" line="1133"/>
       <source>X-Refs:</source>
-      <translation>交叉引用：</translation>
+      <translation>外部参考文献：</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1159"/>
@@ -2131,7 +2131,7 @@
     <message>
       <location filename="../widgets/Dashboard.cpp" line="124"/>
       <source>&lt;b&gt;Entropy:&lt;/b&gt;</source>
-      <translation type="unfinished">&lt;b&gt;Entropy:&lt;/b&gt;</translation>
+      <translation>&lt;b&gt;熵:&lt;/b&gt;</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="236"/>
@@ -2215,7 +2215,7 @@
     <message>
       <location filename="../widgets/DebugActions.cpp" line="46"/>
       <source>Continue backwards</source>
-      <translation type="unfinished">Continue backwards</translation>
+      <translation>继续回溯</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="47"/>
@@ -2235,17 +2235,17 @@
     <message>
       <location filename="../widgets/DebugActions.cpp" line="50"/>
       <source>Step backwards</source>
-      <translation type="unfinished">Step backwards</translation>
+      <translation>后退一步</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="51"/>
       <source>Start trace session</source>
-      <translation type="unfinished">Start trace session</translation>
+      <translation>开始追踪会话</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="52"/>
       <source>Stop trace session</source>
-      <translation type="unfinished">Stop trace session</translation>
+      <translation>停止跟踪会话</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="53"/>
@@ -2286,7 +2286,7 @@
     <message>
       <location filename="../widgets/DebugActions.cpp" line="268"/>
       <source>If you encounter any problems or have suggestions, please submit an issue to https://github.com/rizinorg/cutter/issues</source>
-      <translation type="unfinished">If you encounter any problems or have suggestions, please submit an issue to https://github.com/rizinorg/cutter/issues</translation>
+      <translation>如果您遇到任何问题或有任何建议，请向https://github.com/rizinorg/cutter/issues提交issues</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="282"/>
@@ -2313,12 +2313,12 @@
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="30"/>
       <source>Debug plugin:</source>
-      <translation type="unfinished">Debug plugin:</translation>
+      <translation>调试插件：</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="42"/>
       <source>ESIL options</source>
-      <translation type="unfinished">ESIL options</translation>
+      <translation>ESIL选项</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="69"/>
@@ -2328,7 +2328,7 @@
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="79"/>
       <source>Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</source>
-      <translation type="unfinished">Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</translation>
+      <translation>在缩放时隐藏文本，并且它小于给定的值。更高的值可以提高性能。</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="82"/>
@@ -2338,17 +2338,17 @@
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="100"/>
       <source>Trace options</source>
-      <translation type="unfinished">Trace options</translation>
+      <translation>追踪选项</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="109"/>
       <source>Trace each step during continue in a trace session (dbg.trace_continue)</source>
-      <translation type="unfinished">Trace each step during continue in a trace session (dbg.trace_continue)</translation>
+      <translation>在追踪会话中继续追踪每个步骤（dbg.trace_continue）</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="112"/>
       <source>Disabling this option means that stepping back after continue will return to the previous PC. Significantly improves performance.</source>
-      <translation type="unfinished">Disabling this option means that stepping back after continue will return to the previous PC. Significantly improves performance.</translation>
+      <translation>禁用这个选项意味着在继续后退一步将返回到以前的电脑。大大地提高了性能。</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="54"/>
@@ -2432,17 +2432,17 @@
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="26"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>复制</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="27"/>
       <source>Copy instruction address (&lt;address&gt;)</source>
-      <translation type="unfinished">Copy instruction address (&lt;address&gt;)</translation>
+      <translation>复制指令地址 (&lt;address&gt;)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="28"/>
       <source>Copy address of [flag] (&lt;address&gt;)</source>
-      <translation type="unfinished">Copy address of [flag] (&lt;address&gt;)</translation>
+      <translation>复制[标志寄存器]的地址（&lt;address&gt;）</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="29"/>
@@ -2463,22 +2463,22 @@
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="32"/>
       <source>Rename function at cursor</source>
-      <translation type="unfinished">Rename function at cursor</translation>
+      <translation>在光标处重命名函数</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="33"/>
       <source>Delete &lt;name&gt;</source>
-      <translation type="unfinished">Delete &lt;name&gt;</translation>
+      <translation>删除 &lt;name&gt;</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="34"/>
       <source>Edit variable &lt;name of variable&gt;</source>
-      <translation type="unfinished">Edit variable &lt;name of variable&gt;</translation>
+      <translation>编辑变量 &lt;name 的变量&gt;</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="35"/>
       <source>Show X-Refs</source>
-      <translation>显示 X-Refs</translation>
+      <translation>显示外部参考文献</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="36"/>
@@ -2499,7 +2499,7 @@
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="40"/>
       <source>Set PC</source>
-      <translation type="unfinished">Set PC</translation>
+      <translation>设置PC</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="164"/>
@@ -2519,7 +2519,7 @@
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="184"/>
       <source>Remove all breakpoints in line</source>
-      <translation type="unfinished">Remove all breakpoints in line</translation>
+      <translation>移除行中的所有断点</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="191"/>
@@ -2529,7 +2529,7 @@
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="195"/>
       <source>Set %1 here</source>
-      <translation type="unfinished">Set %1 here</translation>
+      <translation>在此设置%1</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="207"/>
@@ -2544,59 +2544,59 @@
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="213"/>
       <source>Remove %1</source>
-      <translation type="unfinished">Remove %1</translation>
+      <translation>删除 %1</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="216"/>
       <source>Add name to %1</source>
-      <translation type="unfinished">Add name to %1</translation>
+      <translation>将名称添加到 %1</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="221"/>
       <source>Copy instruction address (%1)</source>
-      <translation type="unfinished">Copy instruction address (%1)</translation>
+      <translation>复制指令地址（%1）</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="227"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="232"/>
       <source>Copy address of %1 (%2)</source>
-      <translation type="unfinished">Copy address of %1 (%2)</translation>
+      <translation>复制%1的地址 (%2)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="236"/>
       <source>Copy address (%1)</source>
-      <translation type="unfinished">Copy address (%1)</translation>
+      <translation>复制地址 (%1)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="252"/>
       <source>Edit variable %1</source>
-      <translation type="unfinished">Edit variable %1</translation>
+      <translation>编辑变量 %1</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="254"/>
       <source>Rename variable %1</source>
-      <translation type="unfinished">Rename variable %1</translation>
+      <translation>重命名变量%1</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="316"/>
       <source>Can&apos;t rename this variable.&lt;br&gt;Only local variables defined in disassembly can be renamed.</source>
-      <translation type="unfinished">Can&apos;t rename this variable.&lt;br&gt;Only local variables defined in disassembly can be renamed.</translation>
+      <translation>不能重命名这个变量。&lt;br&gt;只有在反汇编中定义的本地变量才能被重命名。</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="335"/>
       <source>Can&apos;t edit this variable.&lt;br&gt;Only local variables defined in disassembly can be edited.</source>
-      <translation type="unfinished">Can&apos;t edit this variable.&lt;br&gt;Only local variables defined in disassembly can be edited.</translation>
+      <translation>不能编辑这个变量。&lt;br&gt;只有在反汇编中定义的本地变量才能被编辑。</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="407"/>
       <source>Define this function at %2</source>
-      <translation type="unfinished">Define this function at %2</translation>
+      <translation>在%2处定义此函数</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="408"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="415"/>
       <source>Function name:</source>
-      <translation type="unfinished">Function name:</translation>
+      <translation>Function 名称:</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="414"/>
@@ -2614,37 +2614,37 @@
       <location filename="../menus/DecompilerContextMenu.cpp" line="432"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="450"/>
       <source>Enter name</source>
-      <translation type="unfinished">Enter name</translation>
+      <translation>输入名称</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="432"/>
       <source>Add name to %2</source>
-      <translation type="unfinished">Add name to %2</translation>
+      <translation>将名称添加到 %2</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="443"/>
       <source>Rename local variable %1</source>
-      <translation type="unfinished">Rename local variable %1</translation>
+      <translation>重命名本地变量%1</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="444"/>
       <source>Can&apos;t rename this variable. Only local variables defined in disassembly can be renamed.</source>
-      <translation type="unfinished">Can&apos;t rename this variable. Only local variables defined in disassembly can be renamed.</translation>
+      <translation>不能重命名这个变量。只有在反汇编中定义的本地变量可以被重命名。</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="468"/>
       <source>Edit local variable %1</source>
-      <translation type="unfinished">Edit local variable %1</translation>
+      <translation>编辑本地变量 %1</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="469"/>
       <source>Can&apos;t edit this variable. Only local variables defined in disassembly can be edited.</source>
-      <translation type="unfinished">Can&apos;t edit this variable. Only local variables defined in disassembly can be edited.</translation>
+      <translation>不能编辑这个变量。只有在反汇编中定义的本地变量可以被编辑。</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="535"/>
       <source>Breakpoint</source>
-      <translation type="unfinished">Breakpoint</translation>
+      <translation>断点</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="545"/>
@@ -2655,7 +2655,7 @@
       <location filename="../menus/DecompilerContextMenu.cpp" line="575"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="577"/>
       <source>Show %1 in</source>
-      <translation type="unfinished">Show %1 in</translation>
+      <translation>显示 %1 在</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="582"/>
@@ -2692,7 +2692,7 @@
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="33"/>
       <source>Choose an offset and refresh to get decompiled code</source>
-      <translation type="unfinished">Choose an offset and refresh to get decompiled code</translation>
+      <translation>选择偏移量和刷新以获得反编译代码</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="69"/>
@@ -2702,7 +2702,7 @@
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="262"/>
       <source>No function found at this offset. Seek to a function or define one in order to decompile it.</source>
-      <translation type="unfinished">No function found at this offset. Seek to a function or define one in order to decompile it.</translation>
+      <translation>在这个偏移处没有找到函数。寻找一个函数或定义一个函数，以便对它进行反编译。</translation>
     </message>
     <message>
       <source>Cancel</source>
@@ -2889,7 +2889,7 @@
     </message>
     <message>
       <source>Re-type function local vars</source>
-      <translation>重新输入函数局部变量</translation>
+      <translation>重新输入函数本地变量</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="100"/>
@@ -2925,12 +2925,12 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="133"/>
       <source>Show X-Refs</source>
-      <translation>显示 X-Refs</translation>
+      <translation>显示外部参考文献</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="137"/>
       <source>X-Refs for local variables</source>
-      <translation type="unfinished">X-Refs for local variables</translation>
+      <translation>本地变量的外部参考文献</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="141"/>
@@ -2990,23 +2990,23 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="424"/>
       <source>Rename local &quot;%1&quot;</source>
-      <translation type="unfinished">Rename local &quot;%1&quot;</translation>
+      <translation>重命名本地“%1”</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="429"/>
       <source>Rename flag &quot;%1&quot; (used here)</source>
-      <translation type="unfinished">Rename flag &quot;%1&quot; (used here)</translation>
+      <translation>重命名标志寄存器“%1”(此处使用)</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="826"/>
       <source>New function at %1</source>
-      <translation type="unfinished">New function at %1</translation>
+      <translation>%1的新函数</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="827"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="841"/>
       <source>Function name:</source>
-      <translation type="unfinished">Function name:</translation>
+      <translation>函数名:</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="840"/>
@@ -3114,7 +3114,7 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="298"/>
       <source>Breakpoint</source>
-      <translation type="unfinished">Breakpoint</translation>
+      <translation>断点</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="310"/>
@@ -3129,13 +3129,13 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="88"/>
       <source>Rename or add flag</source>
-      <translation type="unfinished">Rename or add flag</translation>
+      <translation>重命名或添加标志寄存器</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="92"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="875"/>
       <source>Re-type Local Variables</source>
-      <translation type="unfinished">Re-type Local Variables</translation>
+      <translation>重新输入本地变量</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="238"/>
@@ -3211,7 +3211,7 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="601"/>
       <source>X-Refs for %1</source>
-      <translation>%1 的外部参考</translation>
+      <translation>%1 的外部参考文献</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="701"/>
@@ -3305,12 +3305,12 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/DisassemblyWidget.cpp" line="670"/>
       <source>More than one (%1) references here. Weird behaviour expected.</source>
-      <translation type="unfinished">More than one (%1) references here. Weird behaviour expected.</translation>
+      <translation>这里有多于一个(%1)的参考资料。预计会有异常行为。</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblyWidget.cpp" line="676"/>
       <source>offsetFrom (%1) differs from refs.at(0).from (%(2))</source>
-      <translation type="unfinished">offsetFrom (%1) differs from refs.at(0).from (%(2))</translation>
+      <translation>offsetFrom (%1) 与 refs.at(0).from (%(2)) 不同</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblyWidget.cpp" line="721"/>
@@ -3327,17 +3327,17 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../dialogs/DuplicateFromOffsetDialog.ui" line="20"/>
       <source>Duplicate from offset</source>
-      <translation type="unfinished">Duplicate from offset</translation>
+      <translation>复制从偏移量</translation>
     </message>
     <message>
       <location filename="../dialogs/DuplicateFromOffsetDialog.ui" line="28"/>
       <source>Offset:</source>
-      <translation type="unfinished">Offset:</translation>
+      <translation>偏移量:</translation>
     </message>
     <message>
       <location filename="../dialogs/DuplicateFromOffsetDialog.ui" line="49"/>
       <source>N bytes:</source>
-      <translation type="unfinished">N bytes:</translation>
+      <translation>N字节:</translation>
     </message>
   </context>
   <context>
@@ -3488,7 +3488,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../dialogs/EditVariablesDialog.cpp" line="19"/>
       <source>Edit Variables in Function: %1</source>
-      <translation type="unfinished">Edit Variables in Function: %1</translation>
+      <translation>在函数%1中编辑变量</translation>
     </message>
   </context>
   <context>
@@ -3532,17 +3532,17 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="14"/>
       <source>Add Flag</source>
-      <translation>添加 Flag</translation>
+      <translation>添加标志寄存器</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="20"/>
       <source>Add flag at</source>
-      <translation type="unfinished">Add flag at</translation>
+      <translation>添加标志寄存器在</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="38"/>
       <source>Flag:</source>
-      <translation>标志：</translation>
+      <translation>标志寄存器：</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="61"/>
@@ -3557,7 +3557,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../dialogs/FlagDialog.cpp" line="24"/>
       <source>Edit flag at %1</source>
-      <translation type="unfinished">Edit flag at %1</translation>
+      <translation>编辑标志寄存器在 %1</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.cpp" line="26"/>
@@ -3585,7 +3585,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="70"/>
       <source>Real Name</source>
-      <translation type="unfinished">Real Name</translation>
+      <translation>真实名称</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="72"/>
@@ -3633,7 +3633,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="215"/>
       <source>Flag name:</source>
-      <translation type="unfinished">Flag name:</translation>
+      <translation>标志寄存器名称:</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="244"/>
@@ -3718,7 +3718,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="142"/>
       <source>Comment: %1</source>
-      <translation type="unfinished">Comment: %1</translation>
+      <translation>注释: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="221"/>
@@ -3847,7 +3847,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="550"/>
       <source>Function name:</source>
-      <translation type="unfinished">Function name:</translation>
+      <translation>函数名称:</translation>
     </message>
     <message>
       <source>X-Refs</source>
@@ -3873,27 +3873,27 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="14"/>
       <source>Graph</source>
-      <translation>图表</translation>
+      <translation>数据结构图</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="22"/>
       <source>Graph Block Options </source>
-      <translation type="unfinished">Graph Block Options </translation>
+      <translation>数据结构图 区块 选项 </translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="31"/>
       <source>The offset of the first instruction of a graph block is shown in the header of the respective graph block</source>
-      <translation type="unfinished">The offset of the first instruction of a graph block is shown in the header of the respective graph block</translation>
+      <translation>数据结构图区块的第一条指令的偏移量显示在各个图形块的头部</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="34"/>
       <source>Show offset of the first instruction in each graph block</source>
-      <translation type="unfinished">Show offset of the first instruction in each graph block</translation>
+      <translation>显示每个数据结构图区块中第一条指令的偏移量</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="41"/>
       <source>Show offset for each instruction (graph.offset)</source>
-      <translation type="unfinished">Show offset for each instruction (graph.offset)</translation>
+      <translation>显示每条指令的偏移量（graph.offset）</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="50"/>
@@ -3904,17 +3904,17 @@ WARNING: In write mode any changes will be commited to disk</source>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="70"/>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="80"/>
       <source>Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</source>
-      <translation type="unfinished">Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</translation>
+      <translation>在缩放时隐藏文本，并且它小于给定的值。更高的值可以提高性能。</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="73"/>
       <source>Minimum Font Size</source>
-      <translation type="unfinished">Minimum Font Size</translation>
+      <translation>最小字体大小</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="98"/>
       <source>Graph Layout Options</source>
-      <translation type="unfinished">Graph Layout Options</translation>
+      <translation>数据结构图 布局 选项</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="117"/>
@@ -3929,27 +3929,27 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="176"/>
       <source>Block spacing:</source>
-      <translation type="unfinished">Block spacing:</translation>
+      <translation>块间距:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="183"/>
       <source>Edge spacing</source>
-      <translation type="unfinished">Edge spacing</translation>
+      <translation>边宽边距</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="193"/>
       <source>Bitmap Export Options</source>
-      <translation type="unfinished">Bitmap Export Options</translation>
+      <translation>位图导出选项</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="202"/>
       <source>Export Transparent Bitmap Graphs</source>
-      <translation type="unfinished">Export Transparent Bitmap Graphs</translation>
+      <translation>导出透明像素点图数据结构图</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="211"/>
       <source>Graph Bitmap Export Scale: </source>
-      <translation type="unfinished">Graph Bitmap Export Scale: </translation>
+      <translation>数据结构图像素点图导出比例: </translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="218"/>
@@ -4062,49 +4062,49 @@ WARNING: In write mode any changes will be commited to disk</source>
       <location filename="../widgets/HexWidget.cpp" line="130"/>
       <location filename="../widgets/HexWidget.cpp" line="705"/>
       <source>Write string</source>
-      <translation type="unfinished">Write string</translation>
+      <translation>写入字符串</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="134"/>
       <source>Write length and string</source>
-      <translation type="unfinished">Write length and string</translation>
+      <translation>写入长度和字符串</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="138"/>
       <location filename="../widgets/HexWidget.cpp" line="842"/>
       <source>Write wide string</source>
-      <translation type="unfinished">Write wide string</translation>
+      <translation>写入宽字符串</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="142"/>
       <source>Write zero terminated string</source>
-      <translation type="unfinished">Write zero terminated string</translation>
+      <translation>写入 zero终止字符串</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="146"/>
       <source>Write De\Encoded Base64 string</source>
-      <translation type="unfinished">Write De\Encoded Base64 string</translation>
+      <translation>写入\编码的Base64字符串</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="151"/>
       <location filename="../widgets/HexWidget.cpp" line="745"/>
       <source>Write zeros</source>
-      <translation type="unfinished">Write zeros</translation>
+      <translation>写入zeros</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="155"/>
       <source>Write random bytes</source>
-      <translation type="unfinished">Write random bytes</translation>
+      <translation>随机写入字节</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="159"/>
       <source>Duplicate from offset</source>
-      <translation type="unfinished">Duplicate from offset</translation>
+      <translation>从偏移量复制</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="163"/>
       <source>Increment/Decrement</source>
-      <translation type="unfinished">Increment/Decrement</translation>
+      <translation>增加/减少</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="620"/>
@@ -4127,44 +4127,44 @@ WARNING: In write mode any changes will be commited to disk</source>
       <location filename="../widgets/HexWidget.cpp" line="842"/>
       <location filename="../widgets/HexWidget.cpp" line="857"/>
       <source>String:</source>
-      <translation type="unfinished">String:</translation>
+      <translation>字符串:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="745"/>
       <source>Number of zeros:</source>
-      <translation type="unfinished">Number of zeros:</translation>
+      <translation>zeros数量:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="769"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>错误</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="770"/>
       <source>Error occured during decoding your input.
 Please, make sure, that it is a valid base64 string and try again.</source>
-      <translation type="unfinished">Error occured during decoding your input.
-Please, make sure, that it is a valid base64 string and try again.</translation>
+      <translation>在对你的输入进行解码时发生了错误。
+请确保它是一个有效的base64字符串，然后再试一次。</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="793"/>
       <source>Write random</source>
-      <translation type="unfinished">Write random</translation>
+      <translation>随机写入</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="793"/>
       <source>Number of bytes:</source>
-      <translation type="unfinished">Number of bytes:</translation>
+      <translation>字节数:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="826"/>
       <source>Write Pascal string</source>
-      <translation type="unfinished">Write Pascal string</translation>
+      <translation>写入 Pasca字符串</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="857"/>
       <source>Write zero-terminated string</source>
-      <translation type="unfinished">Write zero-terminated string</translation>
+      <translation>写入 zero-终止字符串</translation>
     </message>
   </context>
   <context>
@@ -4223,7 +4223,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="50"/>
       <source>Select bytes to display information</source>
-      <translation type="unfinished">Select bytes to display information</translation>
+      <translation>选择显示信息的字节</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="143"/>
@@ -4248,7 +4248,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="147"/>
       <source>C bytes with instructions</source>
-      <translation type="unfinished">C bytes with instructions</translation>
+      <translation>带有指令的C字节</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="148"/>
@@ -4333,12 +4333,12 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="357"/>
       <source>Copy SHA256</source>
-      <translation type="unfinished">Copy SHA256</translation>
+      <translation>复制SHA256</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="396"/>
       <source>Copy CRC32</source>
-      <translation type="unfinished">Copy CRC32</translation>
+      <translation>复制 CRC32</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="466"/>
@@ -4511,7 +4511,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="77"/>
       <source>Library</source>
-      <translation type="unfinished">Library</translation>
+      <translation>库</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="79"/>
@@ -4537,47 +4537,47 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="14"/>
       <source>Increment/Decrement</source>
-      <translation type="unfinished">Increment/Decrement</translation>
+      <translation>增量/递减</translation>
     </message>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="24"/>
       <source>Interpret as</source>
-      <translation type="unfinished">Interpret as</translation>
+      <translation>解释为</translation>
     </message>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="38"/>
       <source>Value:</source>
-      <translation type="unfinished">Value:</translation>
+      <translation>字:</translation>
     </message>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="54"/>
       <source>Increment</source>
-      <translation type="unfinished">Increment</translation>
+      <translation>增量</translation>
     </message>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="64"/>
       <source>Decrement</source>
-      <translation type="unfinished">Decrement</translation>
+      <translation>递减</translation>
     </message>
     <message>
       <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
       <source>Byte</source>
-      <translation type="unfinished">Byte</translation>
+      <translation>字节</translation>
     </message>
     <message>
       <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
       <source>Word</source>
-      <translation type="unfinished">Word</translation>
+      <translation>字</translation>
     </message>
     <message>
       <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
       <source>Dword</source>
-      <translation type="unfinished">Dword</translation>
+      <translation>双字</translation>
     </message>
     <message>
       <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
       <source>Qword</source>
-      <translation type="unfinished">Qword</translation>
+      <translation>四字</translation>
     </message>
   </context>
   <context>
@@ -4803,7 +4803,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="808"/>
       <source>Path to Rizin script file</source>
-      <translation type="unfinished">Path to Rizin script file</translation>
+      <translation>Rizin 脚本文件的路径</translation>
     </message>
     <message>
       <source>Path to radare2 script file</source>
@@ -4952,12 +4952,12 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="428"/>
       <source>Select Rizin script file</source>
-      <translation type="unfinished">Select Rizin script file</translation>
+      <translation>选择Rizin脚本文件</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="429"/>
       <source>Script file (*.rz)</source>
-      <translation type="unfinished">Script file (*.rz)</translation>
+      <translation>脚本文件 (*.rz)</translation>
     </message>
     <message>
       <source>Select radare2 script file</source>
@@ -4973,7 +4973,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/preferences/InitializationFileEditor.ui" line="14"/>
       <source>CutterRC Editor</source>
-      <translation type="unfinished">CutterRC Editor</translation>
+      <translation>CutterRC 编辑器</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/InitializationFileEditor.ui" line="20"/>
@@ -4983,7 +4983,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/preferences/InitializationFileEditor.cpp" line="35"/>
       <source>Script is loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
-      <translation type="unfinished">Script is loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
+      <translation>脚本从以下地方加载 &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
     </message>
   </context>
   <context>
@@ -4991,7 +4991,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../common/Decompiler.cpp" line="40"/>
       <source>Failed to parse JSON from jsdec</source>
-      <translation type="unfinished">Failed to parse JSON from jsdec</translation>
+      <translation>无法从jsdec解析JSON</translation>
     </message>
   </context>
   <context>
@@ -5041,12 +5041,12 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="42"/>
       <source>Rename layout error</source>
-      <translation type="unfinished">Rename layout error</translation>
+      <translation>重命名布局错误</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="43"/>
       <source>&apos;%1&apos; is already used.</source>
-      <translation type="unfinished">&apos;%1&apos; is already used.</translation>
+      <translation>&apos;%1&apos; 已被使用。</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="45"/>
@@ -5056,12 +5056,12 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="45"/>
       <source>Enter name</source>
-      <translation type="unfinished">Enter name</translation>
+      <translation>输入名称</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="61"/>
       <source>Do you want to delete &apos;%1&apos;</source>
-      <translation type="unfinished">Do you want to delete &apos;%1&apos;</translation>
+      <translation>你是否想删除 &apos;%1&apos;</translation>
     </message>
   </context>
   <context>
@@ -5133,7 +5133,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="68"/>
       <source>Set mode</source>
-      <translation type="unfinished">Set mode</translation>
+      <translation>设置模式</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="94"/>
@@ -5149,7 +5149,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="110"/>
       <source>Layouts</source>
-      <translation type="unfinished">Layouts</translation>
+      <translation>布局</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="130"/>
@@ -5279,17 +5279,17 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="222"/>
       <source>Reset to default layout</source>
-      <translation type="unfinished">Reset to default layout</translation>
+      <translation>重置为默认布局</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="245"/>
       <source>New Window</source>
-      <translation type="unfinished">New Window</translation>
+      <translation>新窗口</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="271"/>
       <source>Map File</source>
-      <translation type="unfinished">Map File</translation>
+      <translation>Map文件</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="274"/>
@@ -5637,52 +5637,52 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="645"/>
       <source>Run Rizin script</source>
-      <translation type="unfinished">Run Rizin script</translation>
+      <translation>运行Rizin脚本</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="717"/>
       <source>Save Project As...</source>
-      <translation type="unfinished">Save Project As...</translation>
+      <translation>将项目保存为...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="735"/>
       <source>Analyze Program</source>
-      <translation type="unfinished">Analyze Program</translation>
+      <translation>分析程序</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="809"/>
       <source>Commit changes</source>
-      <translation type="unfinished">Commit changes</translation>
+      <translation>提交更改</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="817"/>
       <source>Write mode</source>
-      <translation type="unfinished">Write mode</translation>
+      <translation>写入模式</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="820"/>
       <source>Open the file in write mode. Every change to the file will change the original file on disk.</source>
-      <translation type="unfinished">Open the file in write mode. Every change to the file will change the original file on disk.</translation>
+      <translation>以写入模式打开文件。对文件的每一次改变都会改变磁盘上的原始文件。</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="828"/>
       <source>Cache mode</source>
-      <translation type="unfinished">Cache mode</translation>
+      <translation>缓存模式</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="831"/>
       <source>Enable cache mode. Changes to the file would not be applied to disk unless you specifically commit them. This is a safer option.</source>
-      <translation type="unfinished">Enable cache mode. Changes to the file would not be applied to disk unless you specifically commit them. This is a safer option.</translation>
+      <translation>启用缓存模式。对文件的更改不会应用到磁盘，除非您特别提交它们。这是一个更安全的选择。</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="842"/>
       <source>Read-Only mode</source>
-      <translation type="unfinished">Read-Only mode</translation>
+      <translation>只读模式</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="852"/>
       <source>Manage layouts</source>
-      <translation type="unfinished">Manage layouts</translation>
+      <translation>管理布局</translation>
     </message>
     <message>
       <source>SDB Browser</source>
@@ -5784,7 +5784,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="750"/>
       <source>Add Decompiler</source>
-      <translation type="unfinished">Add Decompiler</translation>
+      <translation>添加反编译器</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="755"/>
@@ -6028,47 +6028,47 @@ Save your project before closing!</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="251"/>
       <source>No plugins are installed. Check the plugins section on Cutter documentation to learn more.</source>
-      <translation type="unfinished">No plugins are installed. Check the plugins section on Cutter documentation to learn more.</translation>
+      <translation>没有安装插件。请查看Cutter文档中的插件部分以了解更多。</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="256"/>
       <source>The installed plugins didn&apos;t add entries to this menu.</source>
-      <translation type="unfinished">The installed plugins didn&apos;t add entries to this menu.</translation>
+      <translation>已安装的插件没有向此菜单添加条目。</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="616"/>
       <source>Failed to open project: %1</source>
-      <translation type="unfinished">Failed to open project: %1</translation>
+      <translation>打开项目失败：%1</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="619"/>
       <source>Open Project</source>
-      <translation type="unfinished">Open Project</translation>
+      <translation>打开项目</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1043"/>
       <source>New Decompiler</source>
-      <translation type="unfinished">New Decompiler</translation>
+      <translation>新的反编译器</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1204"/>
       <source>Save layout error</source>
-      <translation type="unfinished">Save layout error</translation>
+      <translation>保存布局错误</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1205"/>
       <source>&apos;%1&apos; is not a valid name.</source>
-      <translation type="unfinished">&apos;%1&apos; is not a valid name.</translation>
+      <translation>&apos;%1&apos; 不是一个有效的名称。</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1207"/>
       <source>Enter name</source>
-      <translation type="unfinished">Enter name</translation>
+      <translation>输入名称</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1514"/>
       <source>Select Rizin script</source>
-      <translation type="unfinished">Select Rizin script</translation>
+      <translation>选择Rizin脚本</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1557"/>
@@ -6143,7 +6143,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="1690"/>
       <source>Print &apos;wx&apos; Rizin commands (*.rz)</source>
-      <translation type="unfinished">Print &apos;wx&apos; Rizin commands (*.rz)</translation>
+      <translation>打印 &apos;wx&apos; Rizin commands (*.rz)</translation>
     </message>
     <message>
       <source>Print &apos;wx&apos; r2 commands (*.r2)</source>
@@ -6178,12 +6178,12 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="14"/>
       <source>Map New File</source>
-      <translation type="unfinished">Map New File</translation>
+      <translation>Map新文件</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="26"/>
       <source>File:</source>
-      <translation type="unfinished">File:</translation>
+      <translation>文件:</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="52"/>
@@ -6194,7 +6194,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="59"/>
       <source>Map address:</source>
-      <translation type="unfinished">Map address:</translation>
+      <translation>Map地址:</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="72"/>
@@ -6204,12 +6204,12 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
       <source>Map new file file</source>
-      <translation type="unfinished">Map new file file</translation>
+      <translation>Map新文件档案</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
       <source>Failed to map a new file</source>
-      <translation type="unfinished">Failed to map a new file</translation>
+      <translation>映射一个新文件失败</translation>
     </message>
   </context>
   <context>
@@ -6344,12 +6344,12 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="410"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Open Project&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Open Project&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;打开程序&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="534"/>
       <source>Clear all projects</source>
-      <translation type="unfinished">Clear all projects</translation>
+      <translation>清除所有项目</translation>
     </message>
     <message>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Projects path (dir.projects):&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -6394,7 +6394,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="104"/>
       <source>Open Project</source>
-      <translation type="unfinished">Open Project</translation>
+      <translation>打开项目</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="287"/>
@@ -6455,7 +6455,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="28"/>
       <source>Plugins are loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
-      <translation type="unfinished">Plugins are loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
+      <translation>插件加载来自于 &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="34"/>
@@ -6480,7 +6480,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="48"/>
       <source>Show Rizin plugin information</source>
-      <translation type="unfinished">Show Rizin plugin information</translation>
+      <translation>显示Rizin插件信息</translation>
     </message>
     <message>
       <source>Show radare2 plugin information</source>
@@ -6517,7 +6517,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="37"/>
       <source>Initialization Script</source>
-      <translation type="unfinished">Initialization Script</translation>
+      <translation>初始化脚本</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="39"/>
@@ -6620,12 +6620,12 @@ Save your project before closing!</source>
     <message>
       <location filename="../CutterApplication.cpp" line="97"/>
       <source>The version used to compile Cutter (%1) does not match the binary version of rizin (%2). This could result in unexpected behaviour. Are you sure you want to continue?</source>
-      <translation type="unfinished">The version used to compile Cutter (%1) does not match the binary version of rizin (%2). This could result in unexpected behaviour. Are you sure you want to continue?</translation>
+      <translation>用于编译Cutter (%1)的版本与rizin (%2)的二进制版本不匹配。这可能会导致意想不到的行为。您确定要继续吗？</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="317"/>
       <source>A Qt and C++ GUI for rizin reverse engineering framework</source>
-      <translation type="unfinished">A Qt and C++ GUI for rizin reverse engineering framework</translation>
+      <translation>rizin逆向工程框架的Qt和C++图形用户界面</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="320"/>
@@ -6655,12 +6655,12 @@ Save your project before closing!</source>
     <message>
       <location filename="../CutterApplication.cpp" line="336"/>
       <source>Load binary at a specific base address</source>
-      <translation type="unfinished">Load binary at a specific base address</translation>
+      <translation>在特定基址加载二进制文件</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="337"/>
       <source>base address</source>
-      <translation type="unfinished">base address</translation>
+      <translation>基址</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="340"/>
@@ -6675,17 +6675,17 @@ Save your project before closing!</source>
     <message>
       <location filename="../CutterApplication.cpp" line="343"/>
       <source>Load project file</source>
-      <translation type="unfinished">Load project file</translation>
+      <translation>加载程序文件</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="344"/>
       <source>project file</source>
-      <translation type="unfinished">project file</translation>
+      <translation>程序文件</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="348"/>
       <source>Open file in write mode</source>
-      <translation type="unfinished">Open file in write mode</translation>
+      <translation>以写模式打开文件</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="352"/>
@@ -6695,22 +6695,22 @@ Save your project before closing!</source>
     <message>
       <location filename="../CutterApplication.cpp" line="358"/>
       <source>Disable output redirection. Some of the output in console widget will not be visible. Use this option when debuging a crash or freeze and output  redirection is causing some messages to be lost.</source>
-      <translation type="unfinished">Disable output redirection. Some of the output in console widget will not be visible. Use this option when debuging a crash or freeze and output  redirection is causing some messages to be lost.</translation>
+      <translation>禁用输出重定向。控制台小部件中的某些输出将不可见。当调试崩溃或冻结并且输出重定向导致某些消息丢失时，请使用此选项。</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="364"/>
       <source>Do not load plugins</source>
-      <translation type="unfinished">Do not load plugins</translation>
+      <translation>不加载插件</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="368"/>
       <source>Do not load Cutter plugins</source>
-      <translation type="unfinished">Do not load Cutter plugins</translation>
+      <translation>不要加载Cutter插件</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="372"/>
       <source>Do not load rizin plugins</source>
-      <translation type="unfinished">Do not load rizin plugins</translation>
+      <translation>不要加载rizin插件</translation>
     </message>
     <message>
       <source>PYTHONHOME to use for Jupyter</source>
@@ -6747,7 +6747,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="410"/>
       <source>Color of comment generated by Rizin</source>
-      <translation type="unfinished">Color of comment generated by Rizin</translation>
+      <translation>Rizin生成注释的颜色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="411"/>
@@ -6805,7 +6805,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="420"/>
       <source>Flag</source>
-      <translation>标志</translation>
+      <translation>标志寄存器</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="421"/>
@@ -6824,7 +6824,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="424"/>
       <source>flow2</source>
-      <translation>flow2</translation>
+      <translation>流2</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="425"/>
@@ -6855,7 +6855,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="428"/>
       <source>Invalid opcode color</source>
-      <translation>无效的 opcode 颜色</translation>
+      <translation>无效的操作码颜色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="428"/>
@@ -6870,17 +6870,17 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="430"/>
       <source>0x00 opcode color</source>
-      <translation>0x00 opcode color</translation>
+      <translation>0x00操作码颜色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="431"/>
       <source>0x7f opcode color</source>
-      <translation>0x7f opcode color</translation>
+      <translation>0x7f 操作码颜色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="432"/>
       <source>0xff opcode color</source>
-      <translation>0xff opcode color</translation>
+      <translation>0xff 操作码颜色</translation>
     </message>
     <message>
       <source>arithmetic color (+, -, *, / etc.)</source>
@@ -6897,12 +6897,12 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="443"/>
       <source>push opcode color</source>
-      <translation>push opcode color</translation>
+      <translation>push 操作码颜色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="444"/>
       <source>pop opcode color</source>
-      <translation>pop opcode color</translation>
+      <translation>pop 操作码颜色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="445"/>
@@ -6922,12 +6922,12 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="451"/>
       <source>nop opcode color</source>
-      <translation>无操作码颜色</translation>
+      <translation>nop操作码颜色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="452"/>
       <source>ret opcode color</source>
-      <translation>网络操作码颜色</translation>
+      <translation>ret操作码颜色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="453"/>
@@ -6942,7 +6942,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="454"/>
       <source>swi opcode color</source>
-      <translation>当前选项颜色</translation>
+      <translation>swi操作码颜色</translation>
     </message>
     <message>
       <source>cmp opcode color</source>
@@ -6982,7 +6982,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="423"/>
       <source>Flow</source>
-      <translation>Flow</translation>
+      <translation>流</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="434"/>
@@ -7067,7 +7067,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="467"/>
       <source>Function variable (local or argument) type color</source>
-      <translation>函数变量（局部或参数）类型的颜色</translation>
+      <translation>函数变量（本地或参数）类型的颜色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="468"/>
@@ -7092,7 +7092,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="482"/>
       <source>Arrow true</source>
-      <translation>箭头 true</translation>
+      <translation>Arrow正确</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="484"/>
@@ -7102,7 +7102,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="484"/>
       <source>Arrow false</source>
-      <translation>箭头 false</translation>
+      <translation>Arrow错误</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="486"/>
@@ -7201,7 +7201,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="509"/>
       <source>Selected line background color</source>
-      <translation>选定线的背景色</translation>
+      <translation>选定的线条背景颜色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="509"/>
@@ -7215,7 +7215,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="511"/>
       <source>Word higlight</source>
-      <translation>单词高亮</translation>
+      <translation>字高亮</translation>
     </message>
     <message>
       <source>Color of main function color</source>
@@ -7305,7 +7305,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../common/CrashHandler.cpp" line="142"/>
       <source>Success</source>
-      <translation>成功</translation>
+      <translation>结果</translation>
     </message>
     <message>
       <location filename="../common/CrashHandler.cpp" line="143"/>
@@ -7337,36 +7337,36 @@ Save your project before closing!</source>
       <source>Your file is opened in read-only mode. Editing is only available when the file is opened in either Write or Cache modes.
 
 WARNING: In Write mode, any changes will be committed to the file on disk. For safety, please consider using Cache mode and then commit the changes manually via File -&gt; Commit modifications to disk.</source>
-      <translation type="unfinished">Your file is opened in read-only mode. Editing is only available when the file is opened in either Write or Cache modes.
+      <translation>您的文件以只读模式打开。仅当文件以写入或缓存模式打开时，编辑才可用。
 
-WARNING: In Write mode, any changes will be committed to the file on disk. For safety, please consider using Cache mode and then commit the changes manually via File -&gt; Commit modifications to disk.</translation>
+警告:在写入模式下，任何更改都将提交到磁盘上的文件。为了安全起见，请考虑使用缓存模式，然后通过文件-&gt;将修改提交到磁盘手动提交更改。</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="60"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>取消</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="62"/>
       <source>Reopen in Write mode</source>
-      <translation type="unfinished">Reopen in Write mode</translation>
+      <translation>以写入模式重新打开</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="64"/>
       <source>Enable Cache mode</source>
-      <translation type="unfinished">Enable Cache mode</translation>
+      <translation>启用缓存模式</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="99"/>
       <source>Uncomitted changes</source>
-      <translation type="unfinished">Uncomitted changes</translation>
+      <translation>未提交的更改</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="100"/>
       <source>It seems that you have changes or patches that are not committed to the file.
 Do you want to commit them now?</source>
-      <translation type="unfinished">It seems that you have changes or patches that are not committed to the file.
-Do you want to commit them now?</translation>
+      <translation>您似乎有未提交到文件中的更改或修补程序。
+你想现在就提交吗？</translation>
     </message>
   </context>
   <context>
@@ -7602,7 +7602,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="82"/>
       <source>IP or Path:</source>
-      <translation type="unfinished">IP or Path:</translation>
+      <translation>IP或路径:</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="159"/>
@@ -7613,7 +7613,7 @@ Do you want to commit them now?</translation>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="164"/>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="167"/>
       <source>Remove all</source>
-      <translation type="unfinished">Remove all</translation>
+      <translation>删除所有</translation>
     </message>
     <message>
       <source>GDB</source>
@@ -7720,42 +7720,42 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="21"/>
       <source>Data reference graph (aga)</source>
-      <translation type="unfinished">Data reference graph (aga)</translation>
+      <translation>数据参考图 (aga)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="22"/>
       <source>Global data references graph (agA)</source>
-      <translation type="unfinished">Global data references graph (agA)</translation>
+      <translation>全局数据引用图 (agA)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="26"/>
       <source>Imports graph (agi)</source>
-      <translation type="unfinished">Imports graph (agi)</translation>
+      <translation>输入图 (agi)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="27"/>
       <source>References graph (agr)</source>
-      <translation type="unfinished">References graph (agr)</translation>
+      <translation>参考文献图 (agr)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="28"/>
       <source>Global references graph (agR)</source>
-      <translation type="unfinished">Global references graph (agR)</translation>
+      <translation>全局引用图 (agR)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="29"/>
       <source>Cross references graph (agx)</source>
-      <translation type="unfinished">Cross references graph (agx)</translation>
+      <translation>交叉引用图(agx)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="30"/>
       <source>Custom graph (agg)</source>
-      <translation type="unfinished">Custom graph (agg)</translation>
+      <translation>自定义图形 (agg)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="31"/>
       <source>User command</source>
-      <translation type="unfinished">User command</translation>
+      <translation>用户指令</translation>
     </message>
   </context>
   <context>
@@ -7763,7 +7763,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="14"/>
       <source>Rizin plugin information</source>
-      <translation type="unfinished">Rizin plugin information</translation>
+      <translation>Rizin插件信息</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="24"/>
@@ -7773,7 +7773,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="30"/>
       <source>RzBin plugins</source>
-      <translation type="unfinished">RzBin plugins</translation>
+      <translation>RzBin插件</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="41"/>
@@ -7781,7 +7781,7 @@ Do you want to commit them now?</translation>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="123"/>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="154"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名称</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="46"/>
@@ -7789,7 +7789,7 @@ Do you want to commit them now?</translation>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="128"/>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="174"/>
       <source>Description</source>
-      <translation type="unfinished">Description</translation>
+      <translation>注释</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="51"/>
@@ -7811,7 +7811,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="71"/>
       <source>RzIO plugins</source>
-      <translation type="unfinished">RzIO plugins</translation>
+      <translation>RzIO 插件</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="97"/>
@@ -7826,7 +7826,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="112"/>
       <source>RzCore plugins</source>
-      <translation type="unfinished">RzCore plugins</translation>
+      <translation>RzCore插件</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="137"/>
@@ -7836,7 +7836,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="143"/>
       <source>RzAsm plugins</source>
-      <translation type="unfinished">RzAsm plugins</translation>
+      <translation>RzAsm 插件</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="159"/>
@@ -7864,12 +7864,12 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/RizinTaskDialog.ui" line="14"/>
       <source>Rizin Task</source>
-      <translation type="unfinished">Rizin Task</translation>
+      <translation>Rizin 任务</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinTaskDialog.ui" line="20"/>
       <source>Rizin task in progress..</source>
-      <translation type="unfinished">Rizin task in progress..</translation>
+      <translation>Rizin任务正在进行..</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinTaskDialog.ui" line="27"/>
@@ -7879,22 +7879,22 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/RizinTaskDialog.cpp" line="32"/>
       <source>Running for</source>
-      <translation type="unfinished">Running for</translation>
+      <translation>运行</translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/RizinTaskDialog.cpp" line="34"/>
       <source>%n hour</source>
       <comment>%n hours</comment>
-      <translation type="unfinished">
-        <numerusform>%n hour</numerusform>
+      <translation>
+        <numerusform>%n 小时</numerusform>
       </translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/RizinTaskDialog.cpp" line="38"/>
       <source>%n minute</source>
       <comment>%n minutes</comment>
-      <translation type="unfinished">
-        <numerusform>%n minute</numerusform>
+      <translation>
+        <numerusform>%n 分钟</numerusform>
       </translation>
     </message>
     <message numerus="yes">
@@ -8048,7 +8048,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="251"/>
       <source>asm code</source>
-      <translation>asm code</translation>
+      <translation>汇编代码</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="252"/>
@@ -8063,22 +8063,22 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="254"/>
       <source>ROP gadgets</source>
-      <translation>ROP gadgets</translation>
+      <translation>ROP 小工具</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="255"/>
       <source>32bit value</source>
-      <translation>32bit value</translation>
+      <translation>32位值</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="282"/>
       <source>No results found for:</source>
-      <translation type="unfinished">No results found for:</translation>
+      <translation>没有找到以下结果:</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="285"/>
       <source>No Results Found</source>
-      <translation type="unfinished">No Results Found</translation>
+      <translation>没有找到结果</translation>
     </message>
   </context>
   <context>
@@ -8331,7 +8331,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SimpleTextGraphView.cpp" line="29"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>复制</translation>
     </message>
   </context>
   <context>
@@ -8846,7 +8846,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="213"/>
       <source>Midnight Theme</source>
-      <translation type="unfinished">Midnight Theme</translation>
+      <translation>午夜主题</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="218"/>
@@ -8870,16 +8870,16 @@ Do you want to commit them now?</translation>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;Join thousands of reverse engineers in our community:&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Twitter:&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;	&lt;/span&gt;&lt;a href=&quot;https://twitter.com/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Telegram:	&lt;/span&gt;&lt;a href=&quot;https://t.me/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re &lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;IRC:	&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;#cutter on &lt;/span&gt;&lt;a href=&quot;irc.freenode.net&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;irc.freenode.net&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+      <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;Join thousands of reverse engineers in our community:&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Twitter:&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;	&lt;/span&gt;&lt;a href=&quot;https://twitter.com/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Telegram:	&lt;/span&gt;&lt;a href=&quot;https://t.me/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re &lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;IRC:	&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;#cutter on &lt;/span&gt;&lt;a href=&quot;irc.freenode.net&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;irc.freenode.net&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;加入我们社区中成千上万的逆向工程师行列:&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Twitter:&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;	&lt;/span&gt;&lt;a href=&quot;https://twitter.com/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Telegram:	&lt;/span&gt;&lt;a href=&quot;https://t.me/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re &lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;IRC:	&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;#cutter on &lt;/span&gt;&lt;a href=&quot;irc.freenode.net&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;irc.freenode.net&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="355"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;Want to help us make Cutter even better?&lt;br/&gt;Visit our &lt;/span&gt;&lt;a href=&quot;https://github.com/rizinorg/cutter&quot;&gt;&lt;span style=&quot; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;Github page&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt; and report bugs or contribute code.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;Want to help us make Cutter even better?&lt;br/&gt;Visit our &lt;/span&gt;&lt;a href=&quot;https://github.com/rizinorg/cutter&quot;&gt;&lt;span style=&quot; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;Github page&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt; and report bugs or contribute code.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;想帮助我们使Cutter变得更好吗?&lt;br/&gt;Visit our &lt;/span&gt;&lt;a href=&quot;https://github.com/rizinorg/cutter&quot;&gt;&lt;span style=&quot; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;Github page&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt; 并报告错误或贡献代码.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -8986,22 +8986,22 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="145"/>
       <source>X-Refs to %1 (%2 results):</source>
-      <translation type="unfinished">X-Refs to %1 (%2 results):</translation>
+      <translation>到%1的外部参考文献（%2的结果）：</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="147"/>
       <source>X-Refs from %1 (%2 results):</source>
-      <translation type="unfinished">X-Refs from %1 (%2 results):</translation>
+      <translation>来自%1的外部参考文献（%2的结果）：</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="152"/>
       <source>Writes to %1</source>
-      <translation type="unfinished">Writes to %1</translation>
+      <translation>写入%1中</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="153"/>
       <source>Reads from %1</source>
-      <translation type="unfinished">Reads from %1</translation>
+      <translation>从%1中读出</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="164"/>
