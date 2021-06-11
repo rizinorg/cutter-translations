@@ -3623,7 +3623,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="113"/>
       <source>Del</source>
-      <translation>删除</translation>
+      <translation>Del</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="214"/>
@@ -3676,7 +3676,7 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="132"/>
       <source>Nbbs: %1</source>
-      <translation>Nbb: %1</translation>
+      <translation>Nbbs: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="134"/>
@@ -3775,16 +3775,16 @@ WARNING: In write mode any changes will be commited to disk</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="273"/>
       <source>Nbbs</source>
-      <translation>Nbbs框架</translation>
+      <translation>Nbbs</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="271"/>
       <source>Nlocals</source>
-      <translation>非本地</translation>
+      <translation>Nlocals</translation>
     </message>
     <message>
       <source>Cyclo. Comp.</source>
-      <translation>循环复杂度。</translation>
+      <translation>Cyclo. Comp.</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="275"/>
@@ -4467,7 +4467,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="219"/>
       <source>Hexdump</source>
-      <translation>内存窗口</translation>
+      <translation>Hexdump</translation>
     </message>
     <message>
       <source>Columns</source>
@@ -5494,7 +5494,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="446"/>
       <source>Bindiff</source>
-      <translation type="unfinished">Bindiff</translation>
+      <translation>Bindiff</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="451"/>
@@ -5543,7 +5543,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="513"/>
       <source>Switch case</source>
-      <translation type="unfinished">Switch case</translation>
+      <translation>Switch case</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="518"/>
@@ -6824,7 +6824,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="424"/>
       <source>flow2</source>
-      <translation type="unfinished">flow2</translation>
+      <translation>flow2</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="425"/>
@@ -6982,7 +6982,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="423"/>
       <source>Flow</source>
-      <translation type="unfinished">Flow</translation>
+      <translation>Flow</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="434"/>
@@ -7249,12 +7249,12 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="524"/>
       <source>ucall</source>
-      <translation type="unfinished">ucall</translation>
+      <translation>ucall</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="525"/>
       <source>ujmp</source>
-      <translation type="unfinished">ujmp</translation>
+      <translation>ujmp</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="526"/>
@@ -7374,7 +7374,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/QuickFilterView.ui" line="14"/>
       <source>Form</source>
-      <translation>构成</translation>
+      <translation>Form</translation>
     </message>
     <message>
       <location filename="../widgets/QuickFilterView.ui" line="41"/>
@@ -7384,7 +7384,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/QuickFilterView.ui" line="61"/>
       <source>X</source>
-      <translation type="unfinished">X</translation>
+      <translation>X</translation>
     </message>
   </context>
   <context>
@@ -7446,7 +7446,7 @@ Do you want to commit them now?</translation>
     </message>
     <message>
       <source>RAsm</source>
-      <translation type="unfinished">RAsm</translation>
+      <translation>RAsm</translation>
     </message>
     <message>
       <source>RAsm plugins</source>
@@ -7458,7 +7458,7 @@ Do you want to commit them now?</translation>
     </message>
     <message>
       <source>CPU&apos;s</source>
-      <translation type="unfinished">CPU&apos;s</translation>
+      <translation>CPU&apos;s</translation>
     </message>
     <message>
       <source>Version</source>
@@ -8465,7 +8465,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="161"/>
       <source>Section:</source>
-      <translation>节区:</translation>
+      <translation>Section:</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="244"/>
