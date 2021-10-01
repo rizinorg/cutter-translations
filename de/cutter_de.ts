@@ -8929,7 +8929,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="394"/>
       <source>Contributing</source>
-      <translation>Mitwirkend</translation>
+      <translation>Mitwirken</translation>
     </message>
     <message>
       <source>Continue 🢒</source>
