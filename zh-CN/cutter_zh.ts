@@ -2091,7 +2091,7 @@
     <message>
       <location filename="../widgets/Dashboard.ui" line="1133"/>
       <source>X-Refs:</source>
-      <translation>外部参考文献：</translation>
+      <translation>X-Refs:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1159"/>
