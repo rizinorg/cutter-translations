@@ -3144,7 +3144,7 @@
       <location filename="../menus/DisassemblyContextMenu.cpp" line="92"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="875"/>
       <source>Re-type Local Variables</source>
-      <translation type="unfinished">Re-type Local Variables</translation>
+      <translation>Перетипизация локальных переменных</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="238"/>
@@ -5298,7 +5298,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="271"/>
       <source>Map File</source>
-      <translation type="unfinished">Map File</translation>
+      <translation>Отображение файла в память</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="274"/>
@@ -6187,7 +6187,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="14"/>
       <source>Map New File</source>
-      <translation type="unfinished">Map New File</translation>
+      <translation>Отобразить в память новый файл</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="26"/>
@@ -6218,7 +6218,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
       <source>Failed to map a new file</source>
-      <translation type="unfinished">Failed to map a new file</translation>
+      <translation>Не удалось отобразить новый файл в память</translation>
     </message>
   </context>
   <context>
