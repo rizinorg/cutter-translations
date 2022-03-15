@@ -2613,7 +2613,7 @@
       <location filename="../menus/DecompilerContextMenu.cpp" line="432"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="450"/>
       <source>Enter name</source>
-      <translation type="unfinished">Enter name</translation>
+      <translation>이름을 입력</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="432"/>
