@@ -2990,7 +2990,7 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="198"/>
       <source>Syscall</source>
-      <translation type="unfinished">Syscall</translation>
+      <translation>طلبات النظام</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="202"/>
@@ -3347,7 +3347,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/DuplicateFromOffsetDialog.ui" line="28"/>
       <source>Offset:</source>
-      <translation type="unfinished">Offset:</translation>
+      <translation>الإختلاف:</translation>
     </message>
     <message>
       <location filename="../dialogs/DuplicateFromOffsetDialog.ui" line="49"/>
@@ -3360,7 +3360,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="14"/>
       <source>Edit Function</source>
-      <translation type="unfinished">Edit Function</translation>
+      <translation>تعديل الوظيفة</translation>
     </message>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="43"/>
@@ -3379,7 +3379,7 @@ WARNING: In write mode any changes will be commited to disk</translation>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="63"/>
       <source>Stack size</source>
-      <translation type="unfinished">Stack size</translation>
+      <translation>حجم مكدس (بنية بيانات)</translation>
     </message>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="73"/>
@@ -4303,7 +4303,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="120"/>
       <source>Endian</source>
-      <translation type="unfinished">Endian</translation>
+      <translation>ترتيب البايتات</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="131"/>
