@@ -5418,7 +5418,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     </message>
     <message>
       <source>Imports</source>
-      <translation type="unfinished">Imports</translation>
+      <translation>التحميلات</translation>
     </message>
     <message>
       <source>Show/Hide Imports panel</source>
