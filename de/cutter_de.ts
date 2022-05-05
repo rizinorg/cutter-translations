@@ -21,7 +21,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="108"/>
       <source>Show Rizin plugin information</source>
-      <translation type="unfinished">Show Rizin plugin information</translation>
+      <translation>Informationen über Rizin</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="121"/>
@@ -62,12 +62,12 @@
     </message>
     <message>
       <source>Using r2-</source>
-      <translation>Using r2-</translation>
+      <translation>Verwendet r2-</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="28"/>
       <source>Using rizin </source>
-      <translation type="unfinished">Using rizin </translation>
+      <translation>Benutzt rizin </translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="30"/>
@@ -102,7 +102,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="76"/>
       <source>Rizin version information</source>
-      <translation type="unfinished">Rizin version information</translation>
+      <translation>Rizin Versions Informationen</translation>
     </message>
     <message>
       <source>Check our &lt;a href=&apos;https://github.com/radareorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</source>
@@ -231,7 +231,7 @@
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="68"/>
       <source>Analyze push+ret as jmp (analysis.pushret)</source>
-      <translation type="unfinished">Analyze push+ret as jmp (analysis.pushret)</translation>
+      <translation>Push+ret als jmp behandeln (analysis.pushret)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="81"/>
@@ -276,7 +276,7 @@
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="269"/>
       <source>Analyze program</source>
-      <translation type="unfinished">Analyze program</translation>
+      <translation>Programm analysieren</translation>
     </message>
   </context>
   <context>
@@ -284,7 +284,7 @@
     <message>
       <location filename="../common/AnalTask.cpp" line="26"/>
       <source>Analyzing Program</source>
-      <translation type="unfinished">Analyzing Program</translation>
+      <translation>Programm wird analysiert</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="43"/>
@@ -569,7 +569,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="291"/>
       <source>Comments</source>
-      <translation type="unfinished">Comments</translation>
+      <translation>Kommentare</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="299"/>
@@ -868,7 +868,7 @@
     <message>
       <location filename="../widgets/BacktraceWidget.cpp" line="16"/>
       <source>Function</source>
-      <translation type="unfinished">Function</translation>
+      <translation>Funktion</translation>
     </message>
     <message>
       <location filename="../widgets/BacktraceWidget.cpp" line="19"/>
@@ -1203,7 +1203,7 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="25"/>
       <source>VTable</source>
-      <translation type="unfinished">VTable</translation>
+      <translation>VTable</translation>
     </message>
   </context>
   <context>
@@ -1498,7 +1498,7 @@
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="257"/>
       <source>You can not rename standard Rizin themes.</source>
-      <translation type="unfinished">You can not rename standard Rizin themes.</translation>
+      <translation>Du kannst nicht standard Rizin Designs umbenennen.</translation>
     </message>
     <message>
       <source>You can not rename standard radare2 themes.</source>
@@ -2089,7 +2089,7 @@
     <message>
       <location filename="../widgets/Dashboard.ui" line="1107"/>
       <source>Functions:</source>
-      <translation>Functions:</translation>
+      <translation>Funktionen:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1133"/>
@@ -3248,7 +3248,7 @@ WARNUNG: Im Schreibmodus werden alle Änderungen auf den Datenträger geschriebe
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="938"/>
       <source>Wrong address</source>
-      <translation>Falsche IP-Adresse</translation>
+      <translation>Falsche Adresse</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="939"/>
@@ -3839,7 +3839,7 @@ WARNUNG: Im Schreibmodus werden alle Änderungen auf den Datenträger geschriebe
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="447"/>
       <source>Functions</source>
-      <translation type="unfinished">Functions</translation>
+      <translation>Funktionen</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="549"/>
