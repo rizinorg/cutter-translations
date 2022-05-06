@@ -2563,22 +2563,22 @@
       <location filename="../menus/DecompilerContextMenu.cpp" line="227"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="232"/>
       <source>Copy address of %1 (%2)</source>
-      <translation type="unfinished">Copy address of %1 (%2)</translation>
+      <translation>Adresse von %1 (%2) kopieren</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="236"/>
       <source>Copy address (%1)</source>
-      <translation type="unfinished">Copy address (%1)</translation>
+      <translation>Adresse kopieren (%1)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="252"/>
       <source>Edit variable %1</source>
-      <translation type="unfinished">Edit variable %1</translation>
+      <translation>Variable %1 bearbeiten</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="254"/>
       <source>Rename variable %1</source>
-      <translation type="unfinished">Rename variable %1</translation>
+      <translation>Variable %1 umbenennen</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="316"/>
@@ -2593,13 +2593,13 @@
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="407"/>
       <source>Define this function at %2</source>
-      <translation type="unfinished">Define this function at %2</translation>
+      <translation>Funktion bei %2 definieren</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="408"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="415"/>
       <source>Function name:</source>
-      <translation type="unfinished">Function name:</translation>
+      <translation>Funktionsname:</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="414"/>
@@ -2617,17 +2617,17 @@
       <location filename="../menus/DecompilerContextMenu.cpp" line="432"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="450"/>
       <source>Enter name</source>
-      <translation type="unfinished">Enter name</translation>
+      <translation>Name eingeben</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="432"/>
       <source>Add name to %2</source>
-      <translation type="unfinished">Add name to %2</translation>
+      <translation>Name zu %2 hinzufügen</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="443"/>
       <source>Rename local variable %1</source>
-      <translation type="unfinished">Rename local variable %1</translation>
+      <translation>Lokale Variable %1 umbenennen</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="444"/>
@@ -2637,7 +2637,7 @@
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="468"/>
       <source>Edit local variable %1</source>
-      <translation type="unfinished">Edit local variable %1</translation>
+      <translation>Lokale Variable %1 bearbeiten</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="469"/>
@@ -2647,23 +2647,23 @@
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="535"/>
       <source>Breakpoint</source>
-      <translation type="unfinished">Breakpoint</translation>
+      <translation>Breakpoint</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="545"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>Debug</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="575"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="577"/>
       <source>Show %1 in</source>
-      <translation type="unfinished">Show %1 in</translation>
+      <translation>%1 anzeigen in</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="582"/>
       <source>%1 (%2)</source>
-      <translation type="unfinished">%1 (%2)</translation>
+      <translation>%1 (%2)</translation>
     </message>
   </context>
   <context>
@@ -2690,7 +2690,7 @@
     <message>
       <location filename="../widgets/DecompilerWidget.ui" line="75"/>
       <source>Decompiler:</source>
-      <translation type="unfinished">Decompiler:</translation>
+      <translation>Decompiler:</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="33"/>
@@ -2709,7 +2709,7 @@
     </message>
     <message>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>Abbrechen</translation>
     </message>
     <message>
       <source>Click Refresh to generate Decompiler from current offset.</source>
@@ -2865,7 +2865,7 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="79"/>
       <source>Show in</source>
-      <translation type="unfinished">Show in</translation>
+      <translation>Anzeigen in</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="84"/>
@@ -2933,7 +2933,7 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="137"/>
       <source>X-Refs for local variables</source>
-      <translation type="unfinished">X-Refs for local variables</translation>
+      <translation>X-Refs für lokale Variablen</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="141"/>
@@ -3003,13 +3003,13 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="826"/>
       <source>New function at %1</source>
-      <translation type="unfinished">New function at %1</translation>
+      <translation>Neue Funktion bei %1</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="827"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="841"/>
       <source>Function name:</source>
-      <translation type="unfinished">Function name:</translation>
+      <translation>Funktionsname:</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="840"/>
@@ -3043,7 +3043,7 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="228"/>
       <source>Code</source>
-      <translation type="unfinished">Code</translation>
+      <translation>Code</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="232"/>
@@ -3117,12 +3117,12 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="298"/>
       <source>Breakpoint</source>
-      <translation type="unfinished">Breakpoint</translation>
+      <translation>Breakpoint</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="310"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>Debug</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="300"/>
@@ -3132,13 +3132,13 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="88"/>
       <source>Rename or add flag</source>
-      <translation type="unfinished">Rename or add flag</translation>
+      <translation>Flag umbenennen oder hinzufügen</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="92"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="875"/>
       <source>Re-type Local Variables</source>
-      <translation type="unfinished">Re-type Local Variables</translation>
+      <translation>Lokale Variablen neu definieren</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="238"/>
@@ -3209,7 +3209,7 @@
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="586"/>
       <source>Edit breakpoint</source>
-      <translation type="unfinished">Edit breakpoint</translation>
+      <translation>Breakpoint bearbeiten</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="601"/>
@@ -3307,7 +3307,7 @@ WARNUNG: Im Schreibmodus werden alle Änderungen auf den Datenträger geschriebe
     <message>
       <location filename="../widgets/DisassemblyWidget.cpp" line="670"/>
       <source>More than one (%1) references here. Weird behaviour expected.</source>
-      <translation type="unfinished">More than one (%1) references here. Weird behaviour expected.</translation>
+      <translation>Hier gibt es mehr als eine (%1) Referenz. Seltsames Verhalten wird erwartet.</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblyWidget.cpp" line="676"/>
@@ -3317,11 +3317,11 @@ WARNUNG: Im Schreibmodus werden alle Änderungen auf den Datenträger geschriebe
     <message>
       <location filename="../widgets/DisassemblyWidget.cpp" line="721"/>
       <source>Disassembly</source>
-      <translation type="unfinished">Disassembly</translation>
+      <translation>Disassembly</translation>
     </message>
     <message>
       <source>Sync/unsync offset</source>
-      <translation type="unfinished">Sync/unsync offset</translation>
+      <translation>Sync/Unsync Offset</translation>
     </message>
   </context>
   <context>
