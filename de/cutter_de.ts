@@ -761,7 +761,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="461"/>
       <source>Show size of opcodes in disassembly (asm.size)</source>
-      <translation>Zeige grösse der opcodes im disassembly (asm.size)</translation>
+      <translation>Zeige die Größe der OpCodes im Disassembler an (asm.size)</translation>
     </message>
     <message>
       <source>Show bytes (asm.bytes)</source>
