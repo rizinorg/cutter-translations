@@ -886,7 +886,7 @@
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="14"/>
       <source>Base64 Encode/Decode</source>
-      <translation type="unfinished">Base64 Encode/Decode</translation>
+      <translation>Base64 Kodieren/Dekodieren</translation>
     </message>
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="24"/>
@@ -1843,12 +1843,12 @@
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="437"/>
       <source>Graphviz svg (*.svg)</source>
-      <translation type="unfinished">Graphviz svg (*.svg)</translation>
+      <translation>Graphviz svg (*.svg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="460"/>
       <source>Graph Export</source>
-      <translation type="unfinished">Graph Export</translation>
+      <translation>Graph-Export</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="461"/>
@@ -2163,12 +2163,12 @@
     <message>
       <location filename="../widgets/DebugActions.cpp" line="37"/>
       <source>Start emulation</source>
-      <translation type="unfinished">Start emulation</translation>
+      <translation>Emulation starten</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="38"/>
       <source>Attach to process</source>
-      <translation type="unfinished">Attach to process</translation>
+      <translation>An Prozess anhängen</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="40"/>
@@ -2198,7 +2198,7 @@
     <message>
       <location filename="../widgets/DebugActions.cpp" line="43"/>
       <source>Continue until main</source>
-      <translation type="unfinished">Continue until main</translation>
+      <translation>Fortsetzen bis zu der Main-Funktion</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="39"/>
@@ -2295,7 +2295,7 @@
       <location filename="../widgets/DebugActions.cpp" line="282"/>
       <location filename="../widgets/DebugActions.cpp" line="357"/>
       <source>Detach from process</source>
-      <translation type="unfinished">Detach from process</translation>
+      <translation>Von Prozess trennen</translation>
     </message>
   </context>
   <context>
@@ -2331,7 +2331,7 @@
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="79"/>
       <source>Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</source>
-      <translation type="unfinished">Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</translation>
+      <translation>Text beim Vergrößern ausblenden und kleiner als der angegebene Wert. Höhere Werte können die Leistung beeinflussen.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="82"/>
@@ -2346,7 +2346,7 @@
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="109"/>
       <source>Trace each step during continue in a trace session (dbg.trace_continue)</source>
-      <translation type="unfinished">Trace each step during continue in a trace session (dbg.trace_continue)</translation>
+      <translation>Jeden Schritt verfolgen während in einer Trace-Session (dbg.trace_continue)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="112"/>
@@ -2502,7 +2502,7 @@
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="40"/>
       <source>Set PC</source>
-      <translation type="unfinished">Set PC</translation>
+      <translation>PC setzen</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="164"/>
@@ -2522,17 +2522,17 @@
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="184"/>
       <source>Remove all breakpoints in line</source>
-      <translation type="unfinished">Remove all breakpoints in line</translation>
+      <translation>Alle Haltepunkte in der Linie entfernen</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="191"/>
       <source>Edit breakpoint</source>
-      <translation type="unfinished">Edit breakpoint</translation>
+      <translation>Breakpoint bearbeiten</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="195"/>
       <source>Set %1 here</source>
-      <translation type="unfinished">Set %1 here</translation>
+      <translation>%1 hier setzen</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="207"/>
@@ -2547,17 +2547,17 @@
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="213"/>
       <source>Remove %1</source>
-      <translation type="unfinished">Remove %1</translation>
+      <translation>%1 entfernen</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="216"/>
       <source>Add name to %1</source>
-      <translation type="unfinished">Add name to %1</translation>
+      <translation>Name zu %1 hinzufügen</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="221"/>
       <source>Copy instruction address (%1)</source>
-      <translation type="unfinished">Copy instruction address (%1)</translation>
+      <translation>Instruction Adresse kopieren (%1)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="227"/>
