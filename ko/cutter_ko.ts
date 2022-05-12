@@ -92,7 +92,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="50"/>
       <source>Cutter is developed by the community and maintained by its core and development teams.&lt;br/&gt;</source>
-      <translation>커터는 커뮤니티에 의해 개발되고 핵심 및 개발 팀에 의해 유지 관리됩니다.&lt;br/&gt;</translation>
+      <translation>Cutter는 커뮤니티 구성원에 의해 개발되고 핵심 개발 팀에 의해 관리됩니다.&lt;br/&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="52"/>
@@ -185,7 +185,7 @@
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="18"/>
       <source>Show X-Refs</source>
-      <translation>크로스 레퍼런스 보기</translation>
+      <translation>역참조 보기</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="19"/>
@@ -231,7 +231,7 @@
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="68"/>
       <source>Analyze push+ret as jmp (analysis.pushret)</source>
-      <translation type="unfinished">Analyze push+ret as jmp (analysis.pushret)</translation>
+      <translation>push+ret을 jmp로 변환 (analysis.pushret)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="81"/>
@@ -241,7 +241,7 @@
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="94"/>
       <source>Speculatively set a name for the functions (analysis.autoname)</source>
-      <translation type="unfinished">Speculatively set a name for the functions (analysis.autoname)</translation>
+      <translation>함수 이름 추측 (analysis.autoname)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="107"/>
@@ -1397,18 +1397,18 @@
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="93"/>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="144"/>
       <source>Unsaved changes</source>
-      <translation type="unfinished">Unsaved changes</translation>
+      <translation>저장되지 않은 변경 사항</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="94"/>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="145"/>
       <source>Are you sure you want to exit without saving? All changes will be lost.</source>
-      <translation type="unfinished">Are you sure you want to exit without saving? All changes will be lost.</translation>
+      <translation>저장하지 않고 종료하겠습니까?</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="159"/>
       <source>Theme Editor - &lt;%1&gt;</source>
-      <translation type="unfinished">Theme Editor - &lt;%1&gt;</translation>
+      <translation>테마 편집기 - &lt;%1&gt;</translation>
     </message>
   </context>
   <context>
@@ -1435,7 +1435,7 @@
     </message>
     <message>
       <source>You can not delete standard radare2 color themes.</source>
-      <translation type="unfinished">You can not delete standard radare2 color themes.</translation>
+      <translation>기본 radare2 테마를 삭제할 수 없습니다.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="46"/>
@@ -1445,7 +1445,7 @@
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="199"/>
       <source>You can not delete standard Rizin color themes.</source>
-      <translation type="unfinished">You can not delete standard Rizin color themes.</translation>
+      <translation>기본 Rizin 테마를 삭제할 수 없습니다.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="207"/>
@@ -1499,7 +1499,7 @@
     </message>
     <message>
       <source>You can not rename standard radare2 themes.</source>
-      <translation type="unfinished">You can not rename standard radare2 themes.</translation>
+      <translation>기본 radare2 테마 이름을 변경할 수 없습니다.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="263"/>
@@ -1623,7 +1623,7 @@
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="93"/>
       <source>Rizin Console</source>
-      <translation type="unfinished">Rizin Console</translation>
+      <translation>Rizin 콘솔</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="98"/>
