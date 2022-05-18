@@ -159,7 +159,7 @@
     </message>
     <message>
       <source>For update, please check the link:</source>
-      <translation>相关更新，请检查链接：</translation>
+      <translation>如需更新, 请查看链接:</translation>
     </message>
   </context>
   <context>
@@ -185,7 +185,7 @@
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="18"/>
       <source>Show X-Refs</source>
-      <translation>显示外部参考文献</translation>
+      <translation>显示 X-Refs</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="19"/>
@@ -613,7 +613,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="190"/>
       <source>Show empty line after every basic block (asm.bb.line)</source>
-      <translation>在每个基本方块后显示空行 (asm.bb.line)</translation>
+      <translation>在每个基本块后显示空行 (asm.bb.line)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="152"/>
@@ -698,7 +698,7 @@
     </message>
     <message>
       <source>Show empty line after every basic block (asm.bbline)</source>
-      <translation>Show empty line after every basic block (asm.bbline)</translation>
+      <translation>在每个基本块后显示空行 (asm.bbline)</translation>
     </message>
     <message>
       <source>Show comments at right of assembly (asm.cmt.right)</source>
@@ -4841,7 +4841,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="58"/>
       <source>Analyze all basic blocks</source>
-      <translation>分析所有的基本模块</translation>
+      <translation>分析所有基本块</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="59"/>
