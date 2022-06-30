@@ -1,11 +1,11 @@
 # Cutter Translations
 
-This repository holds translations for the [Cutter](https://github.com/radareorg/cutter)
+This repository holds translations for the [Cutter](https://github.com/rizinorg/cutter)
 project.
 
 ## How does it work?
 
-The `Translations.ts` file is uploaded regularly from [Cutter](https://github.com/radareorg/cutter) repository.
+The `Translations.ts` file is uploaded regularly from [Cutter](https://github.com/rizinorg/cutter) repository.
 This will allow our translation platform [Crowdin](https://crowdin.com/project/cutter) to fetch new strings
 and add them to their inner project to allow people to update their translations when new strings are added
 into Cutter.
