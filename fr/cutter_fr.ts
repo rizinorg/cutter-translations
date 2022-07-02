@@ -327,7 +327,7 @@
     <message>
       <location filename="../common/AnalTask.cpp" line="109"/>
       <source>Skipping Analysis.</source>
-      <translation>Ignorer l&apos;analyse.</translation>
+      <translation>Ignorer l'analyse.</translation>
     </message>
     <message>
       <location filename="../common/AnalTask.cpp" line="24"/>
