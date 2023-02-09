@@ -6,22 +6,22 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="14"/>
       <source>About Cutter</source>
-      <translation>About Cutter</translation>
+      <translation>Über Cutter</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="69"/>
       <source>Check for updates on start</source>
-      <translation>Check for updates on start</translation>
+      <translation>Beim Starten nach Aktualisierungen suchen</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="95"/>
       <source>Show version information</source>
-      <translation>Show version information</translation>
+      <translation>Versionsinformationen anzeigen</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="108"/>
       <source>Show Rizin plugin information</source>
-      <translation>Informationen über Rizin</translation>
+      <translation>Rizin Plugin-Informationen anzeigen</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="121"/>
