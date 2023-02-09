@@ -9,49 +9,42 @@
       <translation>О Cutter</translation>
     </message>
     <message>
-      <location filename="../dialogs/AboutDialog.ui" line="69"/>
+      <location filename="../dialogs/AboutDialog.ui" line="54"/>
       <source>Check for updates on start</source>
       <translation>Проверять обновления при старте</translation>
     </message>
     <message>
-      <location filename="../dialogs/AboutDialog.ui" line="95"/>
-      <source>Show version information</source>
-      <translation>Показать сведения о версии</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/AboutDialog.ui" line="108"/>
-      <source>Show Rizin plugin information</source>
-      <translation>Показать информацию о плагинах Rizin</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/AboutDialog.ui" line="121"/>
-      <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter is a free and open-source reverse engineering platform powered by Rizin&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter - бесплатная платформа для реверс-инжиниринга, с открытым исходным кодом, использующая Rizin&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Читайте подробнее на&lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-      <source>Show radare2 plugin information</source>
-      <translation>Показать информацию о плагинах radare2</translation>
-    </message>
-    <message>
-      <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter is a free and open-source reverse engineering platform powered by radare2&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter - бесплатная платформа для реверс-инжиниринга, с открытым исходным кодом, использующая radare2&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Читать подробнее &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/AboutDialog.ui" line="128"/>
-      <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;Cutter&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;Cutter&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-      <source>Show plugin information</source>
-      <translation>Показать информацию о плагинах</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/AboutDialog.ui" line="82"/>
+      <location filename="../dialogs/AboutDialog.ui" line="67"/>
       <source>Check for updates</source>
       <translation>Проверить обновления</translation>
     </message>
     <message>
-      <location filename="../dialogs/AboutDialog.ui" line="29"/>
+      <location filename="../dialogs/AboutDialog.ui" line="80"/>
+      <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter is a free and open-source reverse engineering platform powered by Rizin&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter - бесплатная платформа для реверс-инжиниринга, с открытым исходным кодом, использующая Rizin&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Читайте подробнее на&lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/AboutDialog.ui" line="87"/>
+      <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;Cutter&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;Cutter&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/AboutDialog.ui" line="100"/>
+      <source>Report an issue</source>
+      <translation type="unfinished">Report an issue</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/AboutDialog.ui" line="113"/>
+      <source>Show Rizin plugin information</source>
+      <translation>Показать информацию о плагинах Rizin</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/AboutDialog.ui" line="126"/>
+      <source>Show version information</source>
+      <translation>Показать сведения о версии</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/AboutDialog.ui" line="144"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
       <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
@@ -59,10 +52,6 @@
       <location filename="../dialogs/AboutDialog.cpp" line="28"/>
       <source>Version</source>
       <translation>Версия</translation>
-    </message>
-    <message>
-      <source>Using r2-</source>
-      <translation>Использование r2-</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="28"/>
@@ -105,61 +94,29 @@
       <translation>Информация о версии Rizin</translation>
     </message>
     <message>
-      <source>Check our &lt;a href=&apos;https://github.com/radareorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</source>
-      <translation>Полный список участников можно просмотреть на нашей &lt;a href=&apos;https://github.com/radareorg/cutter/graphs/contributors&apos;&gt;странице участников&lt;/a&gt;.</translation>
-    </message>
-    <message>
-      <source>radare2 version information</source>
-      <translation>Информация о версии radare2</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/AboutDialog.cpp" line="99"/>
+      <location filename="../dialogs/AboutDialog.cpp" line="103"/>
       <source>Checking for updates...</source>
       <translation>Проверка обновлений...</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="109"/>
-      <source>Cutter is up to date!</source>
-      <translation>Cutter обновлён!</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/AboutDialog.cpp" line="150"/>
-      <source>Based on Qt %1 (%2, %3 bit)</source>
-      <translation>Основано на Qt %1 (%2, %3-битном)</translation>
-    </message>
-    <message>
-      <source>Timeout error!</source>
-      <translation>Превышение времени ожидания!</translation>
-    </message>
-    <message>
-      <source>Please check your internet connection and try again.</source>
-      <translation>Пожалуйста, проверьте ваше интернет-соединение и попробуйте еще раз.</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/AboutDialog.cpp" line="105"/>
       <source>Error!</source>
       <translation>Ошибка!</translation>
     </message>
     <message>
-      <location filename="../dialogs/AboutDialog.cpp" line="108"/>
+      <location filename="../dialogs/AboutDialog.cpp" line="112"/>
       <source>Version control</source>
       <translation>Управление версиями</translation>
     </message>
     <message>
-      <source>You have latest version and no need to update!</source>
-      <translation>У вас установлена последняя версия, и в обновлении нет необходимости!</translation>
+      <location filename="../dialogs/AboutDialog.cpp" line="113"/>
+      <source>Cutter is up to date!</source>
+      <translation>Cutter обновлён!</translation>
     </message>
     <message>
-      <source>Current version:</source>
-      <translation>Текущая версия:</translation>
-    </message>
-    <message>
-      <source>Latest version:</source>
-      <translation>Последняя версия:</translation>
-    </message>
-    <message>
-      <source>For update, please check the link:</source>
-      <translation>Для обновления перейдите по ссылке:</translation>
+      <location filename="../dialogs/AboutDialog.cpp" line="154"/>
+      <source>Based on Qt %1 (%2, %3 bit)</source>
+      <translation>Основано на Qt %1 (%2, %3-битном)</translation>
     </message>
   </context>
   <context>
@@ -194,145 +151,137 @@
     </message>
   </context>
   <context>
-    <name>AnalClassesModel</name>
+    <name>AnalysisClassesModel</name>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="403"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="407"/>
       <source>class</source>
-      <translation>класс</translation>
+      <translation type="unfinished">class</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="427"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="431"/>
       <source>base</source>
-      <translation>базовый</translation>
+      <translation type="unfinished">base</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="458"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="464"/>
       <source>method</source>
-      <translation>метод</translation>
+      <translation type="unfinished">method</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="494"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="502"/>
       <source>vtable</source>
-      <translation>vtable</translation>
+      <translation type="unfinished">vtable</translation>
     </message>
   </context>
   <context>
-    <name>AnalOptionsWidget</name>
+    <name>AnalysisOptionsWidget</name>
     <message>
-      <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="20"/>
+      <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="20"/>
       <source>Analysis</source>
-      <translation>Анализ</translation>
+      <translation type="unfinished">Analysis</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="55"/>
+      <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="55"/>
       <source>Show verbose information when performing analysis (analysis.verbose)</source>
-      <translation>Показывать детальную информацию при выполнении анализа (analysis.verbose)</translation>
+      <translation type="unfinished">Show verbose information when performing analysis (analysis.verbose)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="68"/>
+      <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="68"/>
       <source>Analyze push+ret as jmp (analysis.pushret)</source>
-      <translation>Анализировать push+ret как jmp (analysis.pushret)</translation>
+      <translation type="unfinished">Analyze push+ret as jmp (analysis.pushret)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="81"/>
+      <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="81"/>
       <source>Verbose output from type analysis (analysis.types.verbose)</source>
-      <translation>Подробный вывод из анализа типов (analysis.types.verbose)</translation>
+      <translation type="unfinished">Verbose output from type analysis (analysis.types.verbose)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="94"/>
+      <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="94"/>
       <source>Speculatively set a name for the functions (analysis.autoname)</source>
-      <translation>Автоматически сгенерировать имена функций (analysis.autoname)</translation>
+      <translation type="unfinished">Speculatively set a name for the functions (analysis.autoname)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="107"/>
+      <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="107"/>
       <source>Search for new functions following already defined functions (analysis.hasnext)</source>
-      <translation>Поиск новых функций, следующих за уже определенными функциями (analysis.hasnext)</translation>
+      <translation type="unfinished">Search for new functions following already defined functions (analysis.hasnext)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="120"/>
+      <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="120"/>
       <source>Create references for unconditional jumps (analysis.jmp.ref)</source>
-      <translation>Создавать ссылки для безусловных переходов (analysis.jmp.ref)</translation>
+      <translation type="unfinished">Create references for unconditional jumps (analysis.jmp.ref)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="133"/>
+      <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="133"/>
       <source>Analyze jump tables in switch statements (analysis.jmp.tbl)</source>
-      <translation>Анализировать таблицы переходов операторов switch (analysis.jmp.tbl)</translation>
+      <translation type="unfinished">Analyze jump tables in switch statements (analysis.jmp.tbl)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="161"/>
+      <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="161"/>
       <source>Search boundaries for analysis (analysis.in): </source>
-      <translation>Поиск границ для анализа (analysis.in): </translation>
+      <translation type="unfinished">Search boundaries for analysis (analysis.in): </translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="195"/>
+      <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="195"/>
       <source>Pointer depth (analysis.ptrdepth):</source>
-      <translation>Глубина указателя (analysis.ptrdepthth):</translation>
+      <translation type="unfinished">Pointer depth (analysis.ptrdepth):</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="236"/>
+      <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="236"/>
       <source>Functions Prelude (analysis.prelude):</source>
-      <translation>Прелюдия функции (analysis.prelude):</translation>
+      <translation type="unfinished">Functions Prelude (analysis.prelude):</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AnalOptionsWidget.ui" line="269"/>
+      <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="269"/>
       <source>Analyze program</source>
-      <translation>Анализировать программу</translation>
+      <translation type="unfinished">Analyze program</translation>
     </message>
   </context>
   <context>
-    <name>AnalTask</name>
+    <name>AnalysisTask</name>
     <message>
-      <location filename="../common/AnalTask.cpp" line="26"/>
-      <source>Analyzing Program</source>
-      <translation>Анализ программы</translation>
-    </message>
-    <message>
-      <location filename="../common/AnalTask.cpp" line="43"/>
-      <source>Loading the file...</source>
-      <translation>Загрузка файла...</translation>
-    </message>
-    <message>
-      <location filename="../common/AnalTask.cpp" line="69"/>
-      <source>Loading PDB file...</source>
-      <translation>Загрузка PDB файла...</translation>
-    </message>
-    <message>
-      <location filename="../common/AnalTask.cpp" line="78"/>
-      <source>Loading shellcode...</source>
-      <translation>Загрузка шеллкода...</translation>
-    </message>
-    <message>
-      <location filename="../common/AnalTask.cpp" line="89"/>
-      <source>Executing script...</source>
-      <translation>Выполнение скрипта...</translation>
-    </message>
-    <message>
-      <location filename="../common/AnalTask.cpp" line="98"/>
-      <source>Executing analysis...</source>
-      <translation>Выполнение анализа...</translation>
-    </message>
-    <message>
-      <source>Analyzing...</source>
-      <translation>Анализ...</translation>
-    </message>
-    <message>
-      <source>Running</source>
-      <translation>Выполняется</translation>
-    </message>
-    <message>
-      <location filename="../common/AnalTask.cpp" line="107"/>
-      <source>Analysis complete!</source>
-      <translation>Анализ завершён!</translation>
-    </message>
-    <message>
-      <location filename="../common/AnalTask.cpp" line="109"/>
-      <source>Skipping Analysis.</source>
-      <translation>Пропуск анализа.</translation>
-    </message>
-    <message>
-      <location filename="../common/AnalTask.cpp" line="24"/>
+      <location filename="../common/AnalysisTask.cpp" line="25"/>
       <source>Initial Analysis</source>
-      <translation>Первоначальный анализ</translation>
+      <translation type="unfinished">Initial Analysis</translation>
+    </message>
+    <message>
+      <location filename="../common/AnalysisTask.cpp" line="27"/>
+      <source>Analyzing Program</source>
+      <translation type="unfinished">Analyzing Program</translation>
+    </message>
+    <message>
+      <location filename="../common/AnalysisTask.cpp" line="45"/>
+      <source>Loading the file...</source>
+      <translation type="unfinished">Loading the file...</translation>
+    </message>
+    <message>
+      <location filename="../common/AnalysisTask.cpp" line="72"/>
+      <source>Loading PDB file...</source>
+      <translation type="unfinished">Loading PDB file...</translation>
+    </message>
+    <message>
+      <location filename="../common/AnalysisTask.cpp" line="81"/>
+      <source>Loading shellcode...</source>
+      <translation type="unfinished">Loading shellcode...</translation>
+    </message>
+    <message>
+      <location filename="../common/AnalysisTask.cpp" line="92"/>
+      <source>Executing script...</source>
+      <translation type="unfinished">Executing script...</translation>
+    </message>
+    <message>
+      <location filename="../common/AnalysisTask.cpp" line="101"/>
+      <source>Executing analysis...</source>
+      <translation type="unfinished">Executing analysis...</translation>
+    </message>
+    <message>
+      <location filename="../common/AnalysisTask.cpp" line="110"/>
+      <source>Analysis complete!</source>
+      <translation type="unfinished">Analysis complete!</translation>
+    </message>
+    <message>
+      <location filename="../common/AnalysisTask.cpp" line="112"/>
+      <source>Skipping Analysis.</source>
+      <translation type="unfinished">Skipping Analysis.</translation>
     </message>
   </context>
   <context>
@@ -373,6 +322,16 @@
       <translation>Тема оформления:</translation>
     </message>
     <message>
+      <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="147"/>
+      <source>Default</source>
+      <translation>По умолчанию</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="152"/>
+      <source>Dark</source>
+      <translation>Темный</translation>
+    </message>
+    <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="160"/>
       <source>Color Theme:</source>
       <translation>Цветовая тема:</translation>
@@ -386,6 +345,17 @@
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="193"/>
       <source>Rename</source>
       <translation>Переименовать</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="213"/>
+      <source>Copy</source>
+      <translation>Копировать</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="227"/>
+      <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="163"/>
+      <source>Delete</source>
+      <translation>Удалить</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="241"/>
@@ -408,56 +378,9 @@
       <translation>Подсветка на основе результатов декомпиляции</translation>
     </message>
     <message>
-      <source>Qt Theme:</source>
-      <translation>Тема Qt:</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="147"/>
-      <source>Default</source>
-      <translation>По умолчанию</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="152"/>
-      <source>Dark</source>
-      <translation>Темный</translation>
-    </message>
-    <message>
-      <source>Color Theme</source>
-      <translation>Цветовая схема</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="213"/>
-      <source>Copy</source>
-      <translation>Копировать</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="227"/>
-      <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="163"/>
-      <source>Delete</source>
-      <translation>Удалить</translation>
-    </message>
-    <message>
-      <source>Language</source>
-      <translation>Язык</translation>
-    </message>
-    <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="312"/>
       <source>Save as Default</source>
       <translation>Сохранить по умолчанию</translation>
-    </message>
-    <message>
-      <source>Enter scheme name</source>
-      <translation>Введите название цветовой схемы</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="136"/>
-      <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="221"/>
-      <source>Name:</source>
-      <translation>Имя:</translation>
-    </message>
-    <message>
-      <source>Are you sure you want to delete theme </source>
-      <translation>Вы уверены, что хотите удалить тему </translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="125"/>
@@ -468,6 +391,12 @@
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="136"/>
       <source>Enter theme name</source>
       <translation>Введите название темы</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="136"/>
+      <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="221"/>
+      <source>Name:</source>
+      <translation>Имя:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="137"/>
@@ -536,6 +465,44 @@
     </message>
   </context>
   <context>
+    <name>ArenaInfoDialog</name>
+    <message>
+      <location filename="../dialogs/ArenaInfoDialog.ui" line="14"/>
+      <source>Dialog</source>
+      <translation type="unfinished">Dialog</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/ArenaInfoDialog.ui" line="22"/>
+      <source>Top</source>
+      <translation type="unfinished">Top</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/ArenaInfoDialog.ui" line="29"/>
+      <source>Next</source>
+      <translation type="unfinished">Next</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/ArenaInfoDialog.ui" line="36"/>
+      <source>Next free</source>
+      <translation type="unfinished">Next free</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/ArenaInfoDialog.ui" line="43"/>
+      <source>System Memory</source>
+      <translation type="unfinished">System Memory</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/ArenaInfoDialog.ui" line="50"/>
+      <source>Max Memory</source>
+      <translation type="unfinished">Max Memory</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/ArenaInfoDialog.ui" line="92"/>
+      <source>Last Remainder</source>
+      <translation type="unfinished">Last Remainder</translation>
+    </message>
+  </context>
+  <context>
     <name>AsmOptionsWidget</name>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="14"/>
@@ -549,244 +516,213 @@
       <translation>Стиль</translation>
     </message>
     <message>
-      <source>Show ESIL instead of assembly (asm.esil)</source>
-      <translation>Показать ESIL, вместо ассемблерного листинга (asm.esil)</translation>
-    </message>
-    <message>
-      <source>Show pseudocode instead of assembly (asm.pseudo)</source>
-      <translation>Показать псевдокод, вместо ассемблерного листинга (asm.pseudo)</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="170"/>
-      <source>Show offsets (asm.offset)</source>
-      <translation>Показать смещения (asm.offset)</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="71"/>
-      <source>Display the bytes of each instruction (asm.bytes)</source>
-      <translation>Отображение байтов каждой инструкции (asm.bytes)</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="291"/>
-      <source>Comments</source>
-      <translation>Комментарии</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="299"/>
-      <source>Show opcode description (asm.describe)</source>
-      <translation>Показать описание опкода (asm.describe)</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="78"/>
-      <source>Syntax (asm.syntax):</source>
-      <translation>Синтаксис (asm.syntax):</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="198"/>
-      <source>Lowercase</source>
-      <translation>Строчный</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="203"/>
-      <source>Uppercase (asm.ucase)</source>
-      <translation>Верхний регистр (asm.ucase)</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="208"/>
-      <source>Capitalize (asm.capitalize)</source>
-      <translation>Заглавная буква (asm.capitalize)</translation>
-    </message>
-    <message>
-      <source>Separate bytes with whitespace (asm.bytespace)</source>
-      <translation>Отделить байты пробелом (asm.bytespace)</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="121"/>
-      <source>Indent disassembly based on reflines depth (asm.indent)</source>
-      <translation>Отступ в листинге основанный на глубине линий ссылок (asm.indent)</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="98"/>
-      <source>Show Disassembly as:</source>
-      <translation>Показать листинг как:</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="190"/>
-      <source>Show empty line after every basic block (asm.bb.line)</source>
-      <translation>Показывать пустую строку после каждого базового блока (asm.bb.line)</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="152"/>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="307"/>
-      <source>Normal</source>
-      <translation>Нормально</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="157"/>
-      <source>ESIL (asm.esil)</source>
-      <translation>ESIL (asm.esil)</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="162"/>
-      <source>Pseudocode (asm.pseudo)</source>
-      <translation>Псевдокод (asm.pseudo)</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="216"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="88"/>
       <source>Align bytes to the left (asm.lbytes)</source>
       <translation>Выравнивание байт по левой стороне (asm.lbytes)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="223"/>
-      <source>Separate bytes with whitespace (asm.bytes.space)</source>
-      <translation>Разделять байты пробелами (asm.bytes.space)</translation>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="95"/>
+      <source>Show preview when hovering:</source>
+      <translation type="unfinished">Show preview when hovering:</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="230"/>
-      <source>Display flags&apos; real name (asm.flags.real)</source>
-      <translation>Отображать реальное имя флагов (asm.flags.real)</translation>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="102"/>
+      <source>Syntax (asm.syntax):</source>
+      <translation>Синтаксис (asm.syntax):</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="259"/>
-      <source>Show offsets relative to:</source>
-      <translation>Показывать смещения относительно:</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="266"/>
-      <source>Functions (asm.reloff)</source>
-      <translation>Функций (asm.reloff)</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="275"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="112"/>
       <source>Flags (asm.reloff.flags)</source>
       <translation>Флагов (asm.reloff.flags)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="312"/>
-      <source>Above instructions</source>
-      <translation>Инструкции выше</translation>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="120"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="314"/>
+      <source>Normal</source>
+      <translation>Нормально</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="317"/>
-      <source>Off</source>
-      <translation>Выключено</translation>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="125"/>
+      <source>ESIL (asm.esil)</source>
+      <translation>ESIL (asm.esil)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="325"/>
-      <source>Show comments:</source>
-      <translation>Показать комментарии:</translation>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="130"/>
+      <source>Pseudocode (asm.pseudo)</source>
+      <translation>Псевдокод (asm.pseudo)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="475"/>
-      <source>Substitute variables (asm.sub.var)</source>
-      <translation>Заменять переменные (asm.sub.var)</translation>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="138"/>
+      <source>Show offsets (asm.offset)</source>
+      <translation>Показать смещения (asm.offset)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="482"/>
-      <source>Substitute entire variable expressions with names (asm.sub.varonly)</source>
-      <translation>Целиком заменять выражения переменных на их имена (asm.sub.varonly)</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="237"/>
-      <source>Tabs in assembly (asm.tabs):</source>
-      <translation>Отступов после инструкции (asm.tabs):</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="177"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="145"/>
       <source>Tabs before assembly (asm.tabs.off):</source>
       <translation>Отступов до инструкции (asm.tabs.off):</translation>
     </message>
     <message>
-      <source>Show empty line after every basic block (asm.bbline)</source>
-      <translation>Показывать пустую строку после каждого базового блока (asm.bbline)</translation>
-    </message>
-    <message>
-      <source>Show comments at right of assembly (asm.cmt.right)</source>
-      <translation>Показывать комментарии справа от инструкций (asm.cmt.right)</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="345"/>
-      <source>Column to align comments (asm.cmt.col):</source>
-      <translation>Столбец для выравнивания комментариев (asm.cmt.col):</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="355"/>
-      <source>Show x-refs (asm.xrefs)</source>
-      <translation>Показать x-refs (asm.xrefs)</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="362"/>
-      <source>Show refpointer information (asm.refptr)</source>
-      <translation>Показывать информацию об указателе (asm.refptr)</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="395"/>
-      <source>Metadata</source>
-      <translation>Метаданные</translation>
-    </message>
-    <message>
-      <source>Show stack pointer (asm.stackptr)</source>
-      <translation>Показать указатель стека (asm.stackptr)</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="419"/>
-      <source>Slow Analysis (asm.slow)</source>
-      <translation>Медленный анализ (asm.slow)</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="426"/>
-      <source>Show jump lines (asm.lines)</source>
-      <translation>Показать прыжки (asm.lines)</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="433"/>
-      <source>Show function boundary lines (asm.lines.fcn)</source>
-      <translation>Показывать границы функции (asm.lines.fcn)</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="440"/>
-      <source>Show offset before flags (asm.flags.off)</source>
-      <translation>Показать смещение перед флагами (asm.flags.off)</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="447"/>
-      <source>Run ESIL emulation analysis (asm.emu)</source>
-      <translation>Запустить анализ с помощью эмуляции ESIL (asm.emu)</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="454"/>
-      <source>Show only strings if any in the asm.emu output (emu.str)</source>
-      <translation>Показывать только строки, если они находятся в выводе asm.emu (emu.str)</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="461"/>
-      <source>Show size of opcodes in disassembly (asm.size)</source>
-      <translation>Показать размер опкодов в дизассемблере (asm.size)</translation>
-    </message>
-    <message>
-      <source>Show bytes (asm.bytes)</source>
-      <translation>Показать байты (asm.bytes)</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="468"/>
-      <source>Show variables summary instead of full list (asm.var.summary)</source>
-      <translation>Краткое отображение переменных вместо списка (asm.var.summary)</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="111"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="158"/>
       <source>Number of bytes to display (asm.nbytes):</source>
       <translation>Количество байт для отображения (asm.nbytes):</translation>
     </message>
     <message>
-      <source>Substitute variables (asm.var.sub)</source>
-      <translation>Заменить переменные (asm.var.sub)</translation>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="168"/>
+      <source>Separate bytes with whitespace (asm.bytes.space)</source>
+      <translation>Разделять байты пробелами (asm.bytes.space)</translation>
     </message>
     <message>
-      <source>Substitute entire variable expressions with names (asm.var.subonly)</source>
-      <translation>Заменить все переменные выражения именами (asm.var.subonly)</translation>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="185"/>
+      <source>Display the bytes of each instruction (asm.bytes)</source>
+      <translation>Отображение байтов каждой инструкции (asm.bytes)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="538"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="193"/>
+      <source>Lowercase</source>
+      <translation>Строчный</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="198"/>
+      <source>Uppercase (asm.ucase)</source>
+      <translation>Верхний регистр (asm.ucase)</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="203"/>
+      <source>Capitalize (asm.capitalize)</source>
+      <translation>Заглавная буква (asm.capitalize)</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="211"/>
+      <source>Show empty line after every basic block (asm.bb.line)</source>
+      <translation>Показывать пустую строку после каждого базового блока (asm.bb.line)</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="220"/>
+      <source>Show offsets relative to:</source>
+      <translation>Показывать смещения относительно:</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="227"/>
+      <source>Functions (asm.reloff)</source>
+      <translation>Функций (asm.reloff)</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="255"/>
+      <source>Show Disassembly as:</source>
+      <translation>Показать листинг как:</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="265"/>
+      <source>Tabs in assembly (asm.tabs):</source>
+      <translation>Отступов после инструкции (asm.tabs):</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="275"/>
+      <source>Indent disassembly based on reflines depth (asm.indent)</source>
+      <translation>Отступ в листинге основанный на глубине линий ссылок (asm.indent)</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="282"/>
+      <source>Display flags&apos; real name (asm.flags.real)</source>
+      <translation>Отображать реальное имя флагов (asm.flags.real)</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="298"/>
+      <source>Comments</source>
+      <translation>Комментарии</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="306"/>
+      <source>Show opcode description (asm.describe)</source>
+      <translation>Показать описание опкода (asm.describe)</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="319"/>
+      <source>Above instructions</source>
+      <translation>Инструкции выше</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="324"/>
+      <source>Off</source>
+      <translation>Выключено</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="332"/>
+      <source>Show comments:</source>
+      <translation>Показать комментарии:</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="352"/>
+      <source>Column to align comments (asm.cmt.col):</source>
+      <translation>Столбец для выравнивания комментариев (asm.cmt.col):</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="362"/>
+      <source>Show x-refs (asm.xrefs)</source>
+      <translation>Показать x-refs (asm.xrefs)</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="369"/>
+      <source>Show refpointer information (asm.refptr)</source>
+      <translation>Показывать информацию об указателе (asm.refptr)</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="402"/>
+      <source>Metadata</source>
+      <translation>Метаданные</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="426"/>
+      <source>Slow Analysis (asm.slow)</source>
+      <translation>Медленный анализ (asm.slow)</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="433"/>
+      <source>Show jump lines (asm.lines)</source>
+      <translation>Показать прыжки (asm.lines)</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="440"/>
+      <source>Show function boundary lines (asm.lines.fcn)</source>
+      <translation>Показывать границы функции (asm.lines.fcn)</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="447"/>
+      <source>Show offset before flags (asm.flags.off)</source>
+      <translation>Показать смещение перед флагами (asm.flags.off)</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="454"/>
+      <source>Run ESIL emulation analysis (asm.emu)</source>
+      <translation>Запустить анализ с помощью эмуляции ESIL (asm.emu)</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="461"/>
+      <source>Show only strings if any in the asm.emu output (emu.str)</source>
+      <translation>Показывать только строки, если они находятся в выводе asm.emu (emu.str)</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="468"/>
+      <source>Show size of opcodes in disassembly (asm.size)</source>
+      <translation>Показать размер опкодов в дизассемблере (asm.size)</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="475"/>
+      <source>Show variables summary instead of full list (asm.var.summary)</source>
+      <translation>Краткое отображение переменных вместо списка (asm.var.summary)</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="482"/>
+      <source>Substitute variables (asm.sub.var)</source>
+      <translation>Заменять переменные (asm.sub.var)</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="489"/>
+      <source>Substitute entire variable expressions with names (asm.sub.varonly)</source>
+      <translation>Целиком заменять выражения переменных на их имена (asm.sub.varonly)</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="545"/>
       <source>Save as Default</source>
       <translation>Сохранить по умолчанию</translation>
     </message>
@@ -855,22 +791,18 @@
       <translation>Процессы с тем же именем как текущий открытый файл:</translation>
     </message>
     <message>
-      <location filename="../dialogs/AttachProcDialog.ui" line="94"/>
+      <location filename="../dialogs/AttachProcDialog.ui" line="90"/>
       <source>All processes:</source>
       <translation>Все процессы:</translation>
     </message>
     <message>
-      <location filename="../dialogs/AttachProcDialog.ui" line="138"/>
+      <location filename="../dialogs/AttachProcDialog.ui" line="130"/>
       <source>Quick Filter</source>
       <translation>Быстрая фильтрация</translation>
     </message>
   </context>
   <context>
     <name>BacktraceWidget</name>
-    <message>
-      <source>Func Name</source>
-      <translation>Имя функции</translation>
-    </message>
     <message>
       <location filename="../widgets/BacktraceWidget.cpp" line="16"/>
       <source>Function</source>
@@ -913,24 +845,94 @@
   <context>
     <name>BinClassesModel</name>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="121"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="123"/>
       <source>method</source>
       <translation>метод</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="145"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="147"/>
       <source>field</source>
       <translation>поле</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="167"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="169"/>
       <source>base class</source>
       <translation>базовый класс</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="187"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="189"/>
       <source>class</source>
       <translation>класс</translation>
+    </message>
+  </context>
+  <context>
+    <name>BinsModel</name>
+    <message>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="130"/>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="132"/>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="138"/>
+      <source>N/A</source>
+      <translation type="unfinished">N/A</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="154"/>
+      <source>#</source>
+      <translation type="unfinished">#</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="156"/>
+      <source>Fd</source>
+      <translation type="unfinished">Fd</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="158"/>
+      <source>Bk</source>
+      <translation type="unfinished">Bk</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="160"/>
+      <source>Type</source>
+      <translation type="unfinished">Type</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="162"/>
+      <source>Chunks count</source>
+      <translation type="unfinished">Chunks count</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="164"/>
+      <source>Chunks size</source>
+      <translation type="unfinished">Chunks size</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="172"/>
+      <source>Bin number in NBINS or fastbinsY array</source>
+      <translation type="unfinished">Bin number in NBINS or fastbinsY array</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="174"/>
+      <source>Pointer to first chunk of the bin</source>
+      <translation type="unfinished">Pointer to first chunk of the bin</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="176"/>
+      <source>Pointer to last chunk of the bin</source>
+      <translation type="unfinished">Pointer to last chunk of the bin</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="178"/>
+      <source>Type of bin</source>
+      <translation type="unfinished">Type of bin</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="180"/>
+      <source>Number of chunks in the bin</source>
+      <translation type="unfinished">Number of chunks in the bin</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="182"/>
+      <source>Size of all chunks in the bin</source>
+      <translation type="unfinished">Size of all chunks in the bin</translation>
     </message>
   </context>
   <context>
@@ -961,6 +963,11 @@
       <translation>Тип</translation>
     </message>
     <message>
+      <location filename="../widgets/BreakpointWidget.cpp" line="107"/>
+      <source>Tracing</source>
+      <translation>Трассировка</translation>
+    </message>
+    <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="109"/>
       <source>Enabled</source>
       <translation>Включено</translation>
@@ -969,23 +976,6 @@
       <location filename="../widgets/BreakpointWidget.cpp" line="111"/>
       <source>Comment</source>
       <translation>Комментарий</translation>
-    </message>
-    <message>
-      <source>Permissions</source>
-      <translation>Права доступа</translation>
-    </message>
-    <message>
-      <source>Hardware bp</source>
-      <translation>Аппаратная точка останова</translation>
-    </message>
-    <message>
-      <location filename="../widgets/BreakpointWidget.cpp" line="107"/>
-      <source>Tracing</source>
-      <translation>Трассировка</translation>
-    </message>
-    <message>
-      <source>Active</source>
-      <translation>Активный</translation>
     </message>
   </context>
   <context>
@@ -1019,10 +1009,6 @@
   </context>
   <context>
     <name>BreakpointsDialog</name>
-    <message>
-      <source>Add breakpoints</source>
-      <translation>Добавление точки останова</translation>
-    </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="14"/>
       <source>Add/Edit breakpoint</source>
@@ -1173,24 +1159,18 @@
     </message>
     <message>
       <location filename="../widgets/CallGraph.cpp" line="23"/>
+      <location filename="../widgets/CallGraph.cpp" line="28"/>
       <source>Callgraph</source>
       <translation>Граф вызовов</translation>
+    </message>
+    <message>
+      <location filename="../widgets/CallGraph.cpp" line="28"/>
+      <source>GlobalCallgraph</source>
+      <translation type="unfinished">GlobalCallgraph</translation>
     </message>
   </context>
   <context>
     <name>ClassesModel</name>
-    <message>
-      <source>method</source>
-      <translation>method</translation>
-    </message>
-    <message>
-      <source>field</source>
-      <translation>field</translation>
-    </message>
-    <message>
-      <source>class</source>
-      <translation>class</translation>
-    </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="19"/>
       <source>Name</source>
@@ -1198,16 +1178,21 @@
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="21"/>
+      <source>Real Name</source>
+      <translation type="unfinished">Real Name</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ClassesWidget.cpp" line="23"/>
       <source>Type</source>
       <translation>Тип</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="23"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="25"/>
       <source>Offset</source>
       <translation>Смещение</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="25"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="27"/>
       <source>VTable</source>
       <translation>Таблица виртуальных методов</translation>
     </message>
@@ -1246,7 +1231,7 @@
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.ui" line="124"/>
-      <location filename="../widgets/ClassesWidget.cpp" line="743"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="751"/>
       <source>Create new Class</source>
       <translation>Создать новый класс</translation>
     </message>
@@ -1257,47 +1242,39 @@
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.ui" line="134"/>
-      <location filename="../widgets/ClassesWidget.cpp" line="759"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="767"/>
       <source>Delete Class</source>
       <translation>Удалить класс</translation>
     </message>
     <message>
-      <source>Flags (Editable)</source>
-      <translation>Флаги (редактируемые)</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="695"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="703"/>
       <source>Missing VTable in class</source>
       <translation>В классе отсутствует таблица виртуальных методов</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="696"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="704"/>
       <source>The class %1 does not have any VTable!</source>
       <translation>Класс %1 не имеет VTable!</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="743"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="751"/>
       <source>Class Name:</source>
       <translation>Имя класса:</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="778"/>
-      <source>Class name:</source>
-      <translation>Имя класса:</translation>
-    </message>
-    <message>
-      <source>Class Name</source>
-      <translation>Имя класса</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="760"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="768"/>
       <source>Are you sure you want to delete the class %1?</source>
       <translation>Вы уверенны что хотите удалить класс %1?</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="777"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="785"/>
       <source>Rename Class %1</source>
       <translation>Переименовать класс %1</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ClassesWidget.cpp" line="786"/>
+      <source>Class name:</source>
+      <translation>Имя класса:</translation>
     </message>
   </context>
   <context>
@@ -1354,28 +1331,6 @@
     </message>
   </context>
   <context>
-    <name>ColorSchemeFileSaver</name>
-    <message>
-      <source>Standard themes not found!</source>
-      <translation>Стандартные темы не найдены!</translation>
-    </message>
-    <message>
-      <source>The radare2 standard themes could not be found! This probably means radare2 is not properly installed. If you think it is open an issue please.</source>
-      <translation>Стандартные темы radare2 не найдены! Вероятно, radare2 неправильно установлен. Если вы считаете, что он установлен правильно, пожалуйста сообщите об ошибке.</translation>
-    </message>
-  </context>
-  <context>
-    <name>ColorSchemePrefWidget</name>
-    <message>
-      <source>Form</source>
-      <translation>Форма</translation>
-    </message>
-    <message>
-      <source>Set Default</source>
-      <translation>Установить по умолчанию</translation>
-    </message>
-  </context>
-  <context>
     <name>ColorThemeEditDialog</name>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.ui" line="14"/>
@@ -1428,90 +1383,78 @@
       <translation>Стандартные темы не найдены</translation>
     </message>
     <message>
-      <source>The radare2 standard themes could not be found. Most likely, radare2 is not properly installed.</source>
-      <translation>Не удалось найти стандартные темы radare2. Скорее всего, radare2 установлен неправильно.</translation>
-    </message>
-    <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="74"/>
-      <location filename="../common/ColorThemeWorker.cpp" line="202"/>
-      <source>Theme &lt;b&gt;%1&lt;/b&gt; does not exist.</source>
-      <translation>Тема &lt;b&gt;%1&lt;/b&gt; не существует.</translation>
-    </message>
-    <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="84"/>
-      <source>The file &lt;b&gt;%1&lt;/b&gt; cannot be opened.</source>
-      <translation>Файл &lt;b&gt;%1&lt;/b&gt; не может быть открыт.</translation>
-    </message>
-    <message>
-      <source>You can not delete standard radare2 color themes.</source>
-      <translation>Вы не можете удалить стандартные цветовые темы radare2.</translation>
-    </message>
-    <message>
       <location filename="../common/ColorThemeWorker.cpp" line="46"/>
       <source>The Rizin standard themes could not be found in &apos;%1&apos;. Most likely, Rizin is not properly installed.</source>
       <translation>Не удалось найти стандартные темы Rizin в &apos;%1&apos;. Скорее всего, Rizin установлен неправильно.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="199"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="75"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="169"/>
+      <source>Theme &lt;b&gt;%1&lt;/b&gt; does not exist.</source>
+      <translation>Тема &lt;b&gt;%1&lt;/b&gt; не существует.</translation>
+    </message>
+    <message>
+      <location filename="../common/ColorThemeWorker.cpp" line="85"/>
+      <source>The file &lt;b&gt;%1&lt;/b&gt; cannot be opened.</source>
+      <translation>Файл &lt;b&gt;%1&lt;/b&gt; не может быть открыт.</translation>
+    </message>
+    <message>
+      <location filename="../common/ColorThemeWorker.cpp" line="166"/>
       <source>You can not delete standard Rizin color themes.</source>
       <translation>Вы не можете удалить стандартные цветовые темы Rizin.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="207"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="174"/>
       <source>You have no permission to write to &lt;b&gt;%1&lt;/b&gt;</source>
       <translation>У вас нет разрешения на запись в &lt;b&gt;%1&lt;/b&gt;</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="210"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="177"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; can not be opened.</source>
       <translation>Файл &lt;b&gt;%1&lt;/b&gt; не может быть открыт.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="213"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="180"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; can not be removed.</source>
       <translation>Файл &lt;b&gt;%1&lt;/b&gt; не может быть удален.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="222"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="189"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; does not exist.</source>
       <translation>Файл &lt;b&gt;%1&lt;/b&gt; не существует.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="228"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="195"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; could not be opened. Please make sure you have access to it and try again.</source>
       <translation>Файл &lt;b&gt;%1&lt;/b&gt; не может быть открыт. Пожалуйста, убедитесь, что у вас есть доступ к нему и повторите попытку.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="232"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="199"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; is not a Cutter color theme</source>
       <translation>Файл &lt;b&gt;%1&lt;/b&gt; не является цветовой темой Cutter</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="237"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="204"/>
       <source>A color theme named &lt;b&gt;%1&lt;/b&gt; already exists.</source>
       <translation>Цветовая тема &lt;b&gt;%1&lt;/b&gt; уже существует.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="243"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="210"/>
       <source>Error occurred during importing. Please make sure you have an access to the directory &lt;b&gt;%1&lt;/b&gt; and try again.</source>
       <translation>Произошла ошибка во время импорта. Пожалуйста, убедитесь, что у вас есть доступ к каталогу &lt;b&gt;%1&lt;/b&gt; и повторите попытку.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="253"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="220"/>
       <source>A color theme named &lt;b&gt;&quot;%1&quot;&lt;/b&gt; already exists.</source>
       <translation>Цветовая тема &lt;b&gt;&quot;%1&quot;&lt;/b&gt; уже существует.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="257"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="224"/>
       <source>You can not rename standard Rizin themes.</source>
       <translation>Вы не можете переименовать стандартные темы Rizin.</translation>
     </message>
     <message>
-      <source>You can not rename standard radare2 themes.</source>
-      <translation>Вы не можете переименовать стандартные темы radare2.</translation>
-    </message>
-    <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="263"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="230"/>
       <source>Something went wrong during renaming. Please make sure you have access to the directory &lt;b&gt;&quot;%1&quot;&lt;/b&gt;.</source>
       <translation>Что-то пошло не так во время переименования. Пожалуйста, убедитесь, что у вас есть доступ к каталогу &lt;b&gt;&quot;%1&quot;&lt;/b&gt;.</translation>
     </message>
@@ -1550,12 +1493,12 @@
       <translation>Комментарий</translation>
     </message>
     <message>
-      <location filename="../dialogs/CommentsDialog.cpp" line="43"/>
+      <location filename="../dialogs/CommentsDialog.cpp" line="41"/>
       <source>Add Comment at %1</source>
       <translation>Добавить комментарий к %1</translation>
     </message>
     <message>
-      <location filename="../dialogs/CommentsDialog.cpp" line="45"/>
+      <location filename="../dialogs/CommentsDialog.cpp" line="43"/>
       <source>Edit Comment at %1</source>
       <translation>Изменить комментарий к %1</translation>
     </message>
@@ -1587,48 +1530,36 @@
   <context>
     <name>CommentsWidget</name>
     <message>
-      <location filename="../widgets/CommentsWidget.cpp" line="236"/>
+      <location filename="../widgets/CommentsWidget.cpp" line="235"/>
       <source>Horizontal</source>
       <translation>Горизонтально</translation>
     </message>
     <message>
-      <location filename="../widgets/CommentsWidget.cpp" line="239"/>
-      <source>Comments</source>
-      <translation>Комментарии</translation>
-    </message>
-    <message>
-      <source>Horizontal view</source>
-      <translation>Горизонтальное отображение</translation>
-    </message>
-    <message>
-      <location filename="../widgets/CommentsWidget.cpp" line="237"/>
+      <location filename="../widgets/CommentsWidget.cpp" line="236"/>
       <source>Vertical</source>
       <translation>По вертикали</translation>
     </message>
     <message>
-      <source>Vertical view</source>
-      <translation>Вертикальное отображение</translation>
+      <location filename="../widgets/CommentsWidget.cpp" line="238"/>
+      <source>Comments</source>
+      <translation>Комментарии</translation>
     </message>
   </context>
   <context>
     <name>Configuration</name>
     <message>
-      <location filename="../common/Configuration.cpp" line="138"/>
+      <location filename="../common/Configuration.cpp" line="146"/>
       <source>Critical!</source>
       <translation>Критично!</translation>
     </message>
     <message>
-      <location filename="../common/Configuration.cpp" line="139"/>
+      <location filename="../common/Configuration.cpp" line="147"/>
       <source>!!! Settings are not writable! Make sure you have a write access to &quot;%1&quot;</source>
       <translation>!!! Сохранение настроек недоступно! Убедитесь, что у вас есть доступ на запись &quot;%1&quot;</translation>
     </message>
   </context>
   <context>
     <name>ConsoleWidget</name>
-    <message>
-      <source>R2 Console</source>
-      <translation>R2 консоль</translation>
-    </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="93"/>
       <source>Rizin Console</source>
@@ -1660,12 +1591,12 @@
       <translation>...</translation>
     </message>
     <message>
-      <location filename="../widgets/ConsoleWidget.cpp" line="75"/>
+      <location filename="../widgets/ConsoleWidget.cpp" line="76"/>
       <source>Clear Output</source>
       <translation>Очистить вывод</translation>
     </message>
     <message>
-      <location filename="../widgets/ConsoleWidget.cpp" line="84"/>
+      <location filename="../widgets/ConsoleWidget.cpp" line="85"/>
       <source>Wrap Lines</source>
       <translation>Переносить строки</translation>
     </message>
@@ -1673,54 +1604,85 @@
   <context>
     <name>CutterCore</name>
     <message>
-      <location filename="../core/Cutter.cpp" line="1717"/>
+      <location filename="../core/Cutter.cpp" line="1057"/>
+      <location filename="../core/Cutter.cpp" line="1066"/>
+      <location filename="../core/Cutter.cpp" line="1071"/>
+      <location filename="../core/Cutter.cpp" line="1081"/>
+      <location filename="../core/Cutter.cpp" line="1085"/>
+      <source>Signatures</source>
+      <translation type="unfinished">Signatures</translation>
+    </message>
+    <message>
+      <location filename="../core/Cutter.cpp" line="1058"/>
+      <source>Cannot apply signature file because the requested arch is not supported by .sig files</source>
+      <translation type="unfinished">Cannot apply signature file because the requested arch is not supported by .sig files</translation>
+    </message>
+    <message>
+      <location filename="../core/Cutter.cpp" line="1067"/>
+      <source>Found %1 matching signatures!</source>
+      <translation type="unfinished">Found %1 matching signatures!</translation>
+    </message>
+    <message>
+      <location filename="../core/Cutter.cpp" line="1072"/>
+      <source>Failed to apply signature file!
+Please check the console for more details.</source>
+      <translation type="unfinished">Failed to apply signature file!
+Please check the console for more details.</translation>
+    </message>
+    <message>
+      <location filename="../core/Cutter.cpp" line="1082"/>
+      <source>Cannot create signature file (check the console for more details).</source>
+      <translation type="unfinished">Cannot create signature file (check the console for more details).</translation>
+    </message>
+    <message>
+      <location filename="../core/Cutter.cpp" line="1086"/>
+      <source>Written %1 signatures to %2.</source>
+      <translation type="unfinished">Written %1 signatures to %2.</translation>
+    </message>
+    <message>
+      <location filename="../core/Cutter.cpp" line="1955"/>
       <source>Starting native debug...</source>
       <translation>Запуск нативной отладки...</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="1760"/>
+      <location filename="../core/Cutter.cpp" line="2003"/>
       <source>Starting emulation...</source>
       <translation>Запуск эмуляции...</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="1814"/>
+      <location filename="../core/Cutter.cpp" line="2066"/>
       <source>Connecting to: </source>
       <translation>Подключение к: </translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="1853"/>
+      <location filename="../core/Cutter.cpp" line="2111"/>
       <source>Attaching to process (</source>
       <translation>Присоединиться к процессу (</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2209"/>
+      <location filename="../core/Cutter.cpp" line="2565"/>
       <source>Creating debug tracepoint...</source>
       <translation>Созадние точки трассировки...</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2245"/>
+      <location filename="../core/Cutter.cpp" line="2610"/>
       <source>Stopping debug session...</source>
       <translation>Остановка сеанса отладки...</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2279"/>
+      <location filename="../core/Cutter.cpp" line="2645"/>
       <source>Breakpoint error</source>
       <translation>Ошибка точки останова</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2279"/>
+      <location filename="../core/Cutter.cpp" line="2645"/>
       <source>Failed to create breakpoint</source>
       <translation>Не удалось создать точку останова</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="3144"/>
+      <location filename="../core/Cutter.cpp" line="3596"/>
       <source>Unknown (%1)</source>
       <translation>Неизвестный (%1)</translation>
-    </message>
-    <message>
-      <location filename="../core/Cutter.cpp" line="3396"/>
-      <source>Primitive</source>
-      <translation>Простой</translation>
     </message>
   </context>
   <context>
@@ -1865,14 +1827,14 @@
   <context>
     <name>CutterSeekable</name>
     <message>
-      <location filename="../widgets/AddressableDockWidget.cpp" line="45"/>
-      <source> (unsynced)</source>
-      <translation> (не синхронизировано)</translation>
-    </message>
-    <message>
       <location filename="../common/CutterSeekable.cpp" line="73"/>
       <source>More than one (%1) references here. Weird behaviour expected.</source>
       <translation>Здесь более одной (%1) ссылки. Возможно странное поведение.</translation>
+    </message>
+    <message>
+      <location filename="../widgets/AddressableDockWidget.cpp" line="45"/>
+      <source> (unsynced)</source>
+      <translation> (не синхронизировано)</translation>
     </message>
   </context>
   <context>
@@ -2076,18 +2038,6 @@
       <translation>Библиотеки</translation>
     </message>
     <message>
-      <source>MD5:</source>
-      <translation>MD5:</translation>
-    </message>
-    <message>
-      <source>SHA1:</source>
-      <translation>SHA1:</translation>
-    </message>
-    <message>
-      <source>Entropy:</source>
-      <translation>Энтропия:</translation>
-    </message>
-    <message>
       <location filename="../widgets/Dashboard.ui" line="1083"/>
       <source>Analysis info</source>
       <translation>Информация об анализе</translation>
@@ -2138,34 +2088,28 @@
       <translation>Процент покрытия:</translation>
     </message>
     <message>
-      <location filename="../widgets/Dashboard.cpp" line="124"/>
-      <source>&lt;b&gt;Entropy:&lt;/b&gt;</source>
-      <translation>&lt;b&gt;Энтропия:&lt;/b&gt;</translation>
+      <location filename="../widgets/Dashboard.cpp" line="162"/>
+      <source>Key</source>
+      <translation type="unfinished">Key</translation>
     </message>
     <message>
-      <location filename="../widgets/Dashboard.cpp" line="236"/>
-      <location filename="../widgets/Dashboard.cpp" line="256"/>
+      <location filename="../widgets/Dashboard.cpp" line="162"/>
+      <source>Value</source>
+      <translation type="unfinished">Value</translation>
+    </message>
+    <message>
+      <location filename="../widgets/Dashboard.cpp" line="163"/>
+      <source>root</source>
+      <translation type="unfinished">root</translation>
+    </message>
+    <message>
+      <location filename="../widgets/Dashboard.cpp" line="204"/>
       <source>N/A</source>
       <translation>Н/Д</translation>
-    </message>
-    <message>
-      <location filename="../widgets/Dashboard.cpp" line="251"/>
-      <source>True</source>
-      <translation>True</translation>
-    </message>
-    <message>
-      <location filename="../widgets/Dashboard.cpp" line="253"/>
-      <source>False</source>
-      <translation>False</translation>
     </message>
   </context>
   <context>
     <name>DebugActions</name>
-    <message>
-      <location filename="../widgets/DebugActions.cpp" line="56"/>
-      <source>Start debug</source>
-      <translation>Начать отладку</translation>
-    </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="37"/>
       <source>Start emulation</source>
@@ -2175,6 +2119,11 @@
       <location filename="../widgets/DebugActions.cpp" line="38"/>
       <source>Attach to process</source>
       <translation>Присоединиться к процессу</translation>
+    </message>
+    <message>
+      <location filename="../widgets/DebugActions.cpp" line="39"/>
+      <source>Connect to a remote debugger</source>
+      <translation>Подключиться к удалённому отладчику</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="40"/>
@@ -2187,29 +2136,14 @@
       <translation>Остановить эмуляцию</translation>
     </message>
     <message>
-      <location filename="../widgets/DebugActions.cpp" line="55"/>
-      <source>Restart program</source>
-      <translation>Перезапустить программу</translation>
-    </message>
-    <message>
       <location filename="../widgets/DebugActions.cpp" line="42"/>
       <source>Restart emulation</source>
       <translation>Перезапустить эмуляцию</translation>
     </message>
     <message>
-      <location filename="../widgets/DebugActions.cpp" line="54"/>
-      <source>Continue</source>
-      <translation>Продолжить</translation>
-    </message>
-    <message>
       <location filename="../widgets/DebugActions.cpp" line="43"/>
       <source>Continue until main</source>
       <translation>Продолжить выполнение до достижения main</translation>
-    </message>
-    <message>
-      <location filename="../widgets/DebugActions.cpp" line="39"/>
-      <source>Connect to a remote debugger</source>
-      <translation>Подключиться к удалённому отладчику</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="44"/>
@@ -2262,6 +2196,21 @@
       <translation>Приостановить процесс</translation>
     </message>
     <message>
+      <location filename="../widgets/DebugActions.cpp" line="54"/>
+      <source>Continue</source>
+      <translation>Продолжить</translation>
+    </message>
+    <message>
+      <location filename="../widgets/DebugActions.cpp" line="55"/>
+      <source>Restart program</source>
+      <translation>Перезапустить программу</translation>
+    </message>
+    <message>
+      <location filename="../widgets/DebugActions.cpp" line="56"/>
+      <source>Start debug</source>
+      <translation>Начать отладку</translation>
+    </message>
+    <message>
       <location filename="../widgets/DebugActions.cpp" line="147"/>
       <source>Debugged process exited (</source>
       <translation>Отлаживаемый процесс завершился (</translation>
@@ -2274,34 +2223,30 @@
 </translation>
     </message>
     <message>
-      <source>If you encounter any problems or have suggestions, please submit an issue to https://github.com/radareorg/cutter/issues</source>
-      <translation>Если у вас возникли проблемы или у вас есть предложения, пожалуйста, зарегистрируйте issue на https://github.com/radareorg/cutter/issues</translation>
-    </message>
-    <message>
-      <location filename="../widgets/DebugActions.cpp" line="295"/>
-      <source>Error connecting.</source>
-      <translation>Ошибка подключения.</translation>
-    </message>
-    <message>
-      <location filename="../widgets/DebugActions.cpp" line="377"/>
-      <source>File &apos;%1&apos; does not have executable permissions.</source>
-      <translation>Файл &apos;%1&apos; не имеет разрешения на исполнение.</translation>
-    </message>
-    <message>
-      <location filename="../widgets/DebugActions.cpp" line="348"/>
-      <source>Error attaching. No process selected!</source>
-      <translation>Ошибка присоединения. Процесс не выбран!</translation>
-    </message>
-    <message>
       <location filename="../widgets/DebugActions.cpp" line="268"/>
       <source>If you encounter any problems or have suggestions, please submit an issue to https://github.com/rizinorg/cutter/issues</source>
       <translation>Если у вас возникли проблемы или у вас есть предложения, пожалуйста, создайте issue на https://github.com/rizinorg/cutter/issues</translation>
     </message>
     <message>
-      <location filename="../widgets/DebugActions.cpp" line="282"/>
-      <location filename="../widgets/DebugActions.cpp" line="357"/>
+      <location filename="../widgets/DebugActions.cpp" line="289"/>
+      <location filename="../widgets/DebugActions.cpp" line="368"/>
       <source>Detach from process</source>
       <translation>Отсоединиться от процесса</translation>
+    </message>
+    <message>
+      <location filename="../widgets/DebugActions.cpp" line="306"/>
+      <source>Error connecting.</source>
+      <translation>Ошибка подключения.</translation>
+    </message>
+    <message>
+      <location filename="../widgets/DebugActions.cpp" line="359"/>
+      <source>Error attaching. No process selected!</source>
+      <translation>Ошибка присоединения. Процесс не выбран!</translation>
+    </message>
+    <message>
+      <location filename="../widgets/DebugActions.cpp" line="388"/>
+      <source>File &apos;%1&apos; does not have executable permissions.</source>
+      <translation>Файл &apos;%1&apos; не имеет разрешения на исполнение.</translation>
     </message>
   </context>
   <context>
@@ -2312,14 +2257,6 @@
       <translation>Отладка</translation>
     </message>
     <message>
-      <source>Debug Plugin:</source>
-      <translation>Отладка плагина:</translation>
-    </message>
-    <message>
-      <source>Program Arguments:</source>
-      <translation>Аргументы программы:</translation>
-    </message>
-    <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="30"/>
       <source>Debug plugin:</source>
       <translation>Плагин отладки:</translation>
@@ -2328,6 +2265,11 @@
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="42"/>
       <source>ESIL options</source>
       <translation>Параметры ESIL</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="54"/>
+      <source>Break esil execution when instruction is invalid (esil.breakoninvalid)</source>
+      <translation>Прервать выполнение Esil, когда инструкция будет неверной (esil.breakoninvalid)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="69"/>
@@ -2359,82 +2301,6 @@
       <source>Disabling this option means that stepping back after continue will return to the previous PC. Significantly improves performance.</source>
       <translation type="unfinished">Disabling this option means that stepping back after continue will return to the previous PC. Significantly improves performance.</translation>
     </message>
-    <message>
-      <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="54"/>
-      <source>Break esil execution when instruction is invalid (esil.breakoninvalid)</source>
-      <translation>Прервать выполнение Esil, когда инструкция будет неверной (esil.breakoninvalid)</translation>
-    </message>
-  </context>
-  <context>
-    <name>DebugToolbar</name>
-    <message>
-      <source>Start debug</source>
-      <translation>Начать отладку</translation>
-    </message>
-    <message>
-      <source>Start emulation</source>
-      <translation>Начать эмуляцию</translation>
-    </message>
-    <message>
-      <source>Attach to process</source>
-      <translation>Присоединиться к процессу</translation>
-    </message>
-    <message>
-      <source>Stop debug</source>
-      <translation>Остановить отладку</translation>
-    </message>
-    <message>
-      <source>Stop emulation</source>
-      <translation>Остановить эмуляцию</translation>
-    </message>
-    <message>
-      <source>Restart program</source>
-      <translation>Перезапустить программу</translation>
-    </message>
-    <message>
-      <source>Restart emulation</source>
-      <translation>Перезапустить эмуляцию</translation>
-    </message>
-    <message>
-      <source>Continue</source>
-      <translation>Продолжить выполнение</translation>
-    </message>
-    <message>
-      <source>Continue until main</source>
-      <translation>Продолжить выполнение до достижения main</translation>
-    </message>
-    <message>
-      <source>Continue until call</source>
-      <translation>Продолжить выполнение до достижения вызова</translation>
-    </message>
-    <message>
-      <source>Continue until syscall</source>
-      <translation>Продолжить выполнение до достижения syscall</translation>
-    </message>
-    <message>
-      <source>Step</source>
-      <translation>Шаг</translation>
-    </message>
-    <message>
-      <source>Step over</source>
-      <translation>Шаг с обходом</translation>
-    </message>
-    <message>
-      <source>Step out</source>
-      <translation>Шаг с выходом</translation>
-    </message>
-    <message>
-      <source>File &apos;%1&apos; does not have executable permissions.</source>
-      <translation>Файл &apos;%1&apos; не имеет прав на выполнение.</translation>
-    </message>
-    <message>
-      <source>Error attaching. No process selected!</source>
-      <translation>Ошибка присоединения. Процесс не выбран!</translation>
-    </message>
-    <message>
-      <source>Detach from process</source>
-      <translation>Отсоединиться от процесса</translation>
-    </message>
   </context>
   <context>
     <name>DecompilerContextMenu</name>
@@ -2460,7 +2326,7 @@
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="30"/>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="161"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="166"/>
       <source>Add Comment</source>
       <translation>Добавить комментарий</translation>
     </message>
@@ -2496,7 +2362,7 @@
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="37"/>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="192"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="197"/>
       <source>Advanced breakpoint</source>
       <translation>Расширенное создание точки останова</translation>
     </message>
@@ -2511,163 +2377,163 @@
       <translation type="unfinished">Set PC</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="164"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="169"/>
       <source>Edit Comment</source>
       <translation>Редактировать комментарий</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="180"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="185"/>
       <source>Add breakpoint</source>
       <translation>Добавление точки останова</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="182"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="187"/>
       <source>Remove breakpoint</source>
       <translation>Удаление точки останова</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="184"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="189"/>
       <source>Remove all breakpoints in line</source>
       <translation>Удалить все точки останова в строке</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="191"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="196"/>
       <source>Edit breakpoint</source>
       <translation>Редактирование точки останова</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="195"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="200"/>
       <source>Set %1 here</source>
       <translation>Установить %1 здесь</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="207"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="212"/>
       <source>Rename function %1</source>
       <translation>Переименовать функцию %1</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="212"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="217"/>
       <source>Rename %1</source>
       <translation>Переименовать %1</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="213"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="218"/>
       <source>Remove %1</source>
       <translation>Удалить %1</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="216"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="221"/>
       <source>Add name to %1</source>
       <translation>Добавить имя к %1</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="221"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="226"/>
       <source>Copy instruction address (%1)</source>
       <translation>Копировать адрес инструкции (%1)</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="227"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="232"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="237"/>
       <source>Copy address of %1 (%2)</source>
       <translation>Копировать адрес %1 (%2)</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="236"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="241"/>
       <source>Copy address (%1)</source>
       <translation>Копировать адрес (%1)</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="252"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="257"/>
       <source>Edit variable %1</source>
       <translation>Изменить переменную %1</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="254"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="259"/>
       <source>Rename variable %1</source>
       <translation>Переименовать переменную %1</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="316"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="321"/>
       <source>Can&apos;t rename this variable.&lt;br&gt;Only local variables defined in disassembly can be renamed.</source>
       <translation>Нельзя переименовать эту переменную.&lt;br&gt;Только локальные переменные, определенные в дизассемблере, могут быть переименованы.</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="335"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="340"/>
       <source>Can&apos;t edit this variable.&lt;br&gt;Only local variables defined in disassembly can be edited.</source>
       <translation>Нельзя изменить эту переменную.&lt;br&gt;Только локальные переменные, определенные в дизассемблере, могут быть переименованы.</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="407"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="413"/>
       <source>Define this function at %2</source>
       <translation>Определить эту функцию по адресу %2</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="408"/>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="415"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="414"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="421"/>
       <source>Function name:</source>
       <translation>Имя функции:</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="414"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="420"/>
       <source>Rename function %2</source>
       <translation>Переименовать функцию %2</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="424"/>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="449"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="431"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="455"/>
       <source>Rename %2</source>
       <translation>Переименовать %2</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="425"/>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="432"/>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="450"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="431"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="439"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="456"/>
       <source>Enter name</source>
       <translation>Введите имя</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="432"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="438"/>
       <source>Add name to %2</source>
       <translation>Добавить имя к %2</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="443"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="449"/>
       <source>Rename local variable %1</source>
       <translation>Переименовать локальную переменную %1</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="444"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="450"/>
       <source>Can&apos;t rename this variable. Only local variables defined in disassembly can be renamed.</source>
       <translation>Нельзя переименовывать эту переменную.Только локальные переменные, определенные в дизассемблере, могут быть переименованы.</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="468"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="475"/>
       <source>Edit local variable %1</source>
       <translation>Редактировать локальную переменную %1</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="469"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="476"/>
       <source>Can&apos;t edit this variable. Only local variables defined in disassembly can be edited.</source>
       <translation>Нельзя изменить эту переменную.Только локальные переменные, определенные в дисассемблере, могут быть переименованы.</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="535"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="542"/>
       <source>Breakpoint</source>
       <translation>Точка останова</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="545"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="552"/>
       <source>Debug</source>
       <translation>Отладка</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="575"/>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="577"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="582"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="584"/>
       <source>Show %1 in</source>
       <translation>Показать %1 в</translation>
     </message>
     <message>
-      <location filename="../menus/DecompilerContextMenu.cpp" line="582"/>
+      <location filename="../menus/DecompilerContextMenu.cpp" line="589"/>
       <source>%1 (%2)</source>
       <translation>%1 (%2)</translation>
     </message>
@@ -2676,17 +2542,9 @@
     <name>DecompilerWidget</name>
     <message>
       <location filename="../widgets/DecompilerWidget.ui" line="14"/>
-      <location filename="../widgets/DecompilerWidget.cpp" line="452"/>
+      <location filename="../widgets/DecompilerWidget.cpp" line="475"/>
       <source>Decompiler</source>
       <translation>Декомпилятор</translation>
-    </message>
-    <message>
-      <source>Auto Refresh</source>
-      <translation>Автообновление</translation>
-    </message>
-    <message>
-      <source>Refresh</source>
-      <translation>Обновить</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.ui" line="53"/>
@@ -2709,20 +2567,12 @@
       <translation>Декомпилятор недоступен.</translation>
     </message>
     <message>
-      <location filename="../widgets/DecompilerWidget.cpp" line="262"/>
+      <location filename="../widgets/DecompilerWidget.cpp" line="285"/>
       <source>No function found at this offset. Seek to a function or define one in order to decompile it.</source>
       <translation>Не найдена функция по этому смещению. Перейдите к функции или определите ее, чтобы декомпилировать ее.</translation>
     </message>
     <message>
-      <source>Cancel</source>
-      <translation>Отмена</translation>
-    </message>
-    <message>
-      <source>Click Refresh to generate Decompiler from current offset.</source>
-      <translation>Нажмите обновить для генерации декомпилированного кода.</translation>
-    </message>
-    <message>
-      <location filename="../widgets/DecompilerWidget.cpp" line="309"/>
+      <location filename="../widgets/DecompilerWidget.cpp" line="332"/>
       <source>Cannot decompile at this address (Not a function?)</source>
       <translation>Невозможно декомпилировать по этому адресу (не функция?)</translation>
     </message>
@@ -2730,581 +2580,364 @@
   <context>
     <name>DisassemblerGraphView</name>
     <message>
-      <source>Export Graph</source>
-      <translation>Экспорт графа</translation>
-    </message>
-    <message>
-      <source>Sync/unsync offset</source>
-      <translation>Синхронизация/Десинхронизация смещения</translation>
-    </message>
-    <message>
-      <source>Grid narrow</source>
-      <translation>Узкая сетка</translation>
-    </message>
-    <message>
-      <source>Grid medium</source>
-      <translation>Средняя сетка</translation>
-    </message>
-    <message>
-      <source>Grid wide</source>
-      <translation>Широкая сетка</translation>
-    </message>
-    <message>
-      <source>Graphviz polyline</source>
-      <translation>Полилиния graphviz</translation>
-    </message>
-    <message>
-      <source>Graphviz polyline LR</source>
-      <translation>Полилиния Graphviz LR</translation>
-    </message>
-    <message>
-      <source>Graphviz ortho</source>
-      <translation>Graphviz орто</translation>
-    </message>
-    <message>
-      <source>Graphviz ortho LR</source>
-      <translation>Graphviz орто LR</translation>
-    </message>
-    <message>
-      <source>Layout</source>
-      <translation>Схема расположения</translation>
-    </message>
-    <message>
-      <location filename="../widgets/DisassemblerGraphView.cpp" line="91"/>
+      <location filename="../widgets/DisassemblerGraphView.cpp" line="97"/>
       <source>Highlight block</source>
       <translation>Подсветить блок</translation>
     </message>
     <message>
-      <location filename="../widgets/DisassemblerGraphView.cpp" line="109"/>
+      <location filename="../widgets/DisassemblerGraphView.cpp" line="115"/>
       <source>Unhighlight block</source>
       <translation>Убрать подсветку блока</translation>
     </message>
     <message>
-      <location filename="../widgets/DisassemblerGraphView.cpp" line="119"/>
+      <location filename="../widgets/DisassemblerGraphView.cpp" line="125"/>
       <source>Highlight instruction</source>
       <translation>Подсветить инструкцию</translation>
     </message>
     <message>
-      <location filename="../widgets/DisassemblerGraphView.cpp" line="123"/>
+      <location filename="../widgets/DisassemblerGraphView.cpp" line="129"/>
       <source>Unhighlight instruction</source>
       <translation>Отменить подсветку инструкции</translation>
     </message>
     <message>
-      <location filename="../widgets/DisassemblerGraphView.cpp" line="199"/>
-      <source>No function detected. Cannot display graph.</source>
-      <translation>Функция не найдена. Не удается отобразить график.</translation>
-    </message>
-    <message>
-      <location filename="../widgets/DisassemblerGraphView.cpp" line="214"/>
+      <location filename="../widgets/DisassemblerGraphView.cpp" line="195"/>
       <source>Graph</source>
       <translation>Граф</translation>
     </message>
     <message>
-      <source>Graphviz dot (*.dot)</source>
-      <translation>Graphviz dot (*.dot)</translation>
-    </message>
-    <message>
-      <source>Graphviz json (*.json)</source>
-      <translation>Graphviz json (*.json)</translation>
-    </message>
-    <message>
-      <source>Graphviz gif (*.gif)</source>
-      <translation>Graphviz gif (*.gif)</translation>
-    </message>
-    <message>
-      <source>Graphviz png (*.png)</source>
-      <translation>Graphviz png (*.png)</translation>
-    </message>
-    <message>
-      <source>Graphviz jpg (*.jpg)</source>
-      <translation>Graphviz jpg (*.jpg)</translation>
-    </message>
-    <message>
-      <source>Graphviz PostScript (*.ps)</source>
-      <translation>Graphviz PostScript (*.ps)</translation>
-    </message>
-    <message>
-      <source>Graphviz svg (*.svg)</source>
-      <translation>Graphviz svg (*.svg)</translation>
-    </message>
-    <message>
-      <source>Graphiz dot (*.dot)</source>
-      <translation>Graphiz dot (*.dot)</translation>
-    </message>
-    <message>
-      <source>GIF (*.gif)</source>
-      <translation>GIF (*.gif)</translation>
-    </message>
-    <message>
-      <source>PNG (*.png)</source>
-      <translation>PNG (*.png)</translation>
-    </message>
-    <message>
-      <source>JPEG (*.jpg)</source>
-      <translation>JPEG (*.jpg)</translation>
-    </message>
-    <message>
-      <source>PostScript (*.ps)</source>
-      <translation>PostScript (*.ps)</translation>
-    </message>
-    <message>
-      <source>SVG (*.svg)</source>
-      <translation>SVG (*.svg)</translation>
-    </message>
-    <message>
-      <source>JSON (*.json)</source>
-      <translation>JSON (*.json)</translation>
+      <location filename="../widgets/DisassemblerGraphView.cpp" line="209"/>
+      <source>No function detected. Cannot display graph.</source>
+      <translation>Функция не найдена. Не удается отобразить график.</translation>
     </message>
   </context>
   <context>
     <name>DisassemblyContextMenu</name>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="72"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="70"/>
       <source>Copy</source>
       <translation>Копировать</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="75"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="73"/>
       <source>Copy address</source>
       <translation>Скопировать адрес</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="79"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="77"/>
       <source>Show in</source>
       <translation>Показать в</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="84"/>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="549"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="82"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="548"/>
       <source>Add Comment</source>
       <translation>Добавить комментарий</translation>
     </message>
     <message>
-      <source>Add Flag</source>
-      <translation>Добавить флаг</translation>
-    </message>
-    <message>
-      <source>Rename</source>
-      <translation>Переименовать</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="96"/>
-      <source>Edit function</source>
-      <translation>Изменить функцию</translation>
-    </message>
-    <message>
-      <source>Rename Flag/Fcn/Var Used Here</source>
-      <translation>Переименовать Флаг/Функцию/Переменную использованную здесь</translation>
-    </message>
-    <message>
-      <source>Re-type function local vars</source>
-      <translation>Переопределить тип локальных переменных</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="100"/>
-      <source>Delete comment</source>
-      <translation>Удалить комментарий</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="104"/>
-      <source>Delete flag</source>
-      <translation>Удалить флаг</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="107"/>
-      <source>Undefine function</source>
-      <translation>Неопределенная функция</translation>
-    </message>
-    <message>
-      <source>Define function here...</source>
-      <translation>Определить здесь функцию...</translation>
-    </message>
-    <message>
-      <source>Set to Code</source>
-      <translation>Отобразить как код</translation>
-    </message>
-    <message>
-      <source>Set as Code</source>
-      <translation>Отобразить как код</translation>
-    </message>
-    <message>
-      <source>Set as String</source>
-      <translation>Установить как строку</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="133"/>
-      <source>Show X-Refs</source>
-      <translation>Показать перекрестные ссылки</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="137"/>
-      <source>X-Refs for local variables</source>
-      <translation>Перекрестные ссылки на локальные переменные</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="141"/>
-      <source>Show Options</source>
-      <translation>Показать параметры</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="172"/>
-      <source>Set Immediate Base to...</source>
-      <translation>Отобразить смещение как...</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="174"/>
-      <source>Binary</source>
-      <translation>Двоичная</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="178"/>
-      <source>Octal</source>
-      <translation>Восьмеричная</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="182"/>
-      <source>Decimal</source>
-      <translation>Десятичная</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="186"/>
-      <source>Hexadecimal</source>
-      <translation>Шестнадцатеричная</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="190"/>
-      <source>Network Port</source>
-      <translation>Сетевой порт</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="194"/>
-      <source>IP Address</source>
-      <translation>IP адрес</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="198"/>
-      <source>Syscall</source>
-      <translation>Syscall</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="202"/>
-      <source>String</source>
-      <translation>Строка</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="209"/>
-      <source>Set current bits to...</source>
-      <translation>Установить разрядность инструкций...</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="424"/>
-      <source>Rename local &quot;%1&quot;</source>
-      <translation>Переименовать локальное &quot;%1&quot;</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="429"/>
-      <source>Rename flag &quot;%1&quot; (used here)</source>
-      <translation>Переименовать флаг &quot;%1&quot; (используется здесь)</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="826"/>
-      <source>New function at %1</source>
-      <translation>Новая функция по адресу %1</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="827"/>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="841"/>
-      <source>Function name:</source>
-      <translation>Имя функции:</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="840"/>
-      <source>Rename function %2</source>
-      <translation>Переименовать функцию %2</translation>
-    </message>
-    <message>
-      <source>Set to Data...</source>
-      <translation>Отобразить данные как...</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="111"/>
-      <source>Define function here</source>
-      <translation>Определить здесь функцию</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="121"/>
-      <source>Structure offset</source>
-      <translation>Смещение структуры</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="125"/>
-      <source>Link Type to Address</source>
-      <translation>Тип ссылки на адрес</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="226"/>
-      <source>Set as...</source>
-      <translation>Установить как...</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="228"/>
-      <source>Code</source>
-      <translation>Код</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="232"/>
-      <source>String...</source>
-      <translation>Строка...</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="234"/>
-      <source>Auto-detect</source>
-      <translation>Автоопределение</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="236"/>
-      <source>Remove</source>
-      <translation>Удалить</translation>
-    </message>
-    <message>
-      <source>Adanced</source>
-      <translation>Дополнительно</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="250"/>
-      <source>Data...</source>
-      <translation>Данные...</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="252"/>
-      <source>Byte</source>
-      <translation>Byte</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="256"/>
-      <source>Word</source>
-      <translation>Слово</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="260"/>
-      <source>Dword</source>
-      <translation>Dword</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="264"/>
-      <source>Qword</source>
-      <translation>Qword</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="279"/>
-      <source>Edit</source>
-      <translation>Редактировать</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="281"/>
-      <source>Instruction</source>
-      <translation>Инструкция</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="285"/>
-      <source>Nop Instruction</source>
-      <translation>Nop инструкция</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="289"/>
-      <source>Bytes</source>
-      <translation>Байтов</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="292"/>
-      <source>Reverse Jump</source>
-      <translation>Обратный прыжок</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="298"/>
-      <source>Breakpoint</source>
-      <translation>Точка останова</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="310"/>
-      <source>Debug</source>
-      <translation>Отладка</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="300"/>
-      <source>Add/remove breakpoint</source>
-      <translation>Добавить/Удалить точки останова</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="88"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="86"/>
       <source>Rename or add flag</source>
       <translation>Переименовать или добавить флаг</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="92"/>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="875"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="90"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="865"/>
       <source>Re-type Local Variables</source>
       <translation>Перетипизация локальных переменных</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="238"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="94"/>
+      <source>Edit function</source>
+      <translation>Изменить функцию</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="98"/>
+      <source>Delete comment</source>
+      <translation>Удалить комментарий</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="102"/>
+      <source>Delete flag</source>
+      <translation>Удалить флаг</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="105"/>
+      <source>Undefine function</source>
+      <translation>Неопределенная функция</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="109"/>
+      <source>Define function here</source>
+      <translation>Определить здесь функцию</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="119"/>
+      <source>Structure offset</source>
+      <translation>Смещение структуры</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="127"/>
+      <source>Show X-Refs</source>
+      <translation>Показать перекрестные ссылки</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="131"/>
+      <source>X-Refs for local variables</source>
+      <translation>Перекрестные ссылки на локальные переменные</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="135"/>
+      <source>Show Options</source>
+      <translation>Показать параметры</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="166"/>
+      <source>Set Immediate Base to...</source>
+      <translation>Отобразить смещение как...</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="168"/>
+      <source>Binary</source>
+      <translation>Двоичная</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="172"/>
+      <source>Octal</source>
+      <translation>Восьмеричная</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="176"/>
+      <source>Decimal</source>
+      <translation>Десятичная</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="180"/>
+      <source>Hexadecimal</source>
+      <translation>Шестнадцатеричная</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="184"/>
+      <source>Network Port</source>
+      <translation>Сетевой порт</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="188"/>
+      <source>IP Address</source>
+      <translation>IP адрес</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="192"/>
+      <source>Syscall</source>
+      <translation>Syscall</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="196"/>
+      <source>String</source>
+      <translation>Строка</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="203"/>
+      <source>Set current bits to...</source>
+      <translation>Установить разрядность инструкций...</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="220"/>
+      <source>Set as...</source>
+      <translation>Установить как...</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="222"/>
+      <source>Code</source>
+      <translation>Код</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="226"/>
+      <source>String...</source>
+      <translation>Строка...</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="228"/>
+      <source>Auto-detect</source>
+      <translation>Автоопределение</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="230"/>
+      <source>Remove</source>
+      <translation>Удалить</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="232"/>
       <source>Advanced</source>
       <translation>Дополнительно</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="303"/>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="587"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="244"/>
+      <source>Data...</source>
+      <translation>Данные...</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="246"/>
+      <source>Byte</source>
+      <translation>Byte</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="250"/>
+      <source>Word</source>
+      <translation>Слово</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="254"/>
+      <source>Dword</source>
+      <translation>Dword</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="258"/>
+      <source>Qword</source>
+      <translation>Qword</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="273"/>
+      <source>Edit</source>
+      <translation>Редактировать</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="275"/>
+      <source>Instruction</source>
+      <translation>Инструкция</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="279"/>
+      <source>Nop Instruction</source>
+      <translation>Nop инструкция</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="283"/>
+      <source>Bytes</source>
+      <translation>Байтов</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="286"/>
+      <source>Reverse Jump</source>
+      <translation>Обратный прыжок</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="292"/>
+      <source>Breakpoint</source>
+      <translation>Точка останова</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="294"/>
+      <source>Add/remove breakpoint</source>
+      <translation>Добавить/Удалить точки останова</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="297"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="586"/>
       <source>Advanced breakpoint</source>
       <translation>Расширенное создание точки останова</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="312"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="304"/>
+      <source>Debug</source>
+      <translation>Отладка</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="306"/>
       <source>Continue until line</source>
       <translation>Продолжить выполнение до достижения строки</translation>
     </message>
     <message>
-      <source>%1 (used here)</source>
-      <translation>%1 (используется здесь)</translation>
-    </message>
-    <message>
-      <source>%1 (%2)</source>
-      <translation>%1 (%2)</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="552"/>
-      <source>Edit Comment</source>
-      <translation>Редактировать комментарий</translation>
-    </message>
-    <message>
-      <source>Rename function &quot;%1&quot;</source>
-      <translation>Переименовать функцию &quot;%1&quot;</translation>
-    </message>
-    <message>
-      <source>Rename flag &quot;%1&quot;</source>
-      <translation>Переименовать флаг &quot;%1&quot;</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="568"/>
-      <source>Edit function &quot;%1&quot;</source>
-      <translation>Переименовать функцию &quot;%1&quot;</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="414"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="407"/>
       <source>Add flag at %1 (used here)</source>
       <translation>Добавить флаг по адресу %1 (используется здесь)</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="419"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="412"/>
       <source>Rename &quot;%1&quot;</source>
       <translation>Переименовать &quot;%1&quot;</translation>
     </message>
     <message>
-      <source>Rename &quot;%1&quot; (used here)</source>
-      <translation>Переименовать &quot;%1&quot; (используемую здесь)</translation>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="417"/>
+      <source>Rename local &quot;%1&quot;</source>
+      <translation>Переименовать локальное &quot;%1&quot;</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="585"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="422"/>
+      <source>Rename flag &quot;%1&quot; (used here)</source>
+      <translation>Переименовать флаг &quot;%1&quot; (используется здесь)</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="551"/>
+      <source>Edit Comment</source>
+      <translation>Редактировать комментарий</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="567"/>
+      <source>Edit function &quot;%1&quot;</source>
+      <translation>Переименовать функцию &quot;%1&quot;</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="584"/>
       <source>Remove breakpoint</source>
       <translation>Удаление точки останова</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="585"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="584"/>
       <source>Add breakpoint</source>
       <translation>Добавление точки останова</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="586"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="585"/>
       <source>Edit breakpoint</source>
       <translation>Редактирование точки останова</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="601"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="600"/>
       <source>X-Refs for %1</source>
       <translation>Перекрестные ссылки для %1</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="701"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="695"/>
       <source>Edit Instruction at %1</source>
       <translation>Изменить инструкцию по адресу %1</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="755"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="745"/>
       <source>Edit Bytes at %1</source>
       <translation>Изменить байты по адресу %1</translation>
     </message>
     <message>
-      <source>Write error</source>
-      <translation>Ошибка записи</translation>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="816"/>
+      <source>New function at %1</source>
+      <translation>Новая функция по адресу %1</translation>
     </message>
     <message>
-      <source>Unable to complete write operation. Consider opening in write mode. 
-
-WARNING: In write mode any changes will be commited to disk</source>
-      <translation>Не удалось завершить операцию записи. Попробуйте переоткрыть в режиме записи.
-
-ПРЕДУПРЕЖДЕНИЕ. В режиме записи любые изменения будут сразу записаны на диск</translation>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="817"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="831"/>
+      <source>Function name:</source>
+      <translation>Имя функции:</translation>
     </message>
     <message>
-      <source>OK</source>
-      <translation>OK</translation>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="830"/>
+      <source>Rename function %2</source>
+      <translation>Переименовать функцию %2</translation>
     </message>
     <message>
-      <source>Reopen in write mode and try again</source>
-      <translation>Откройте в режиме записи и попробуйте снова</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="938"/>
-      <source>Wrong address</source>
-      <translation>Неправильный адрес</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="939"/>
-      <source>Can&apos;t edit string at this address</source>
-      <translation>Невозможно отредактировать строку по этому адресу</translation>
-    </message>
-    <message>
-      <source>Add Comment at %1</source>
-      <translation>Добавление комментария по адресу %1</translation>
-    </message>
-    <message>
-      <source>Edit Comment at %1</source>
-      <translation>Изменить комментарий по адресу %1</translation>
-    </message>
-    <message>
-      <source>Analyze function at %1</source>
-      <translation>Анализ функции по адресу %1</translation>
-    </message>
-    <message>
-      <source>Function name</source>
-      <translation>Имя функции</translation>
-    </message>
-    <message>
-      <source>Rename function %1</source>
-      <translation>Переименовать функцию %1</translation>
-    </message>
-    <message>
-      <source>Rename flag %1</source>
-      <translation>Переименовать флаг %1</translation>
-    </message>
-    <message>
-      <source>Add flag at %1</source>
-      <translation>Добавить флаг по адресу %1</translation>
-    </message>
-    <message>
-      <source>Rename %1</source>
-      <translation>Переименовать %1</translation>
-    </message>
-    <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="876"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="866"/>
       <source>You must be in a function to define variable types.</source>
       <translation>Вы должны быть в функции для определения типов переменных.</translation>
     </message>
     <message>
-      <source>Set Variable Types for Function: %1</source>
-      <translation>Установить тип переменной для функции: %1</translation>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="928"/>
+      <source>Wrong address</source>
+      <translation>Неправильный адрес</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="1020"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="929"/>
+      <source>Can&apos;t edit string at this address</source>
+      <translation>Невозможно отредактировать строку по этому адресу</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="1001"/>
       <source>Edit function %1</source>
       <translation>Изменить функцию %1</translation>
     </message>
@@ -3312,23 +2945,9 @@ WARNING: In write mode any changes will be commited to disk</source>
   <context>
     <name>DisassemblyWidget</name>
     <message>
-      <location filename="../widgets/DisassemblyWidget.cpp" line="670"/>
-      <source>More than one (%1) references here. Weird behaviour expected.</source>
-      <translation>Здесь более одной (%1) ссылки. Возможно странное поведение.</translation>
-    </message>
-    <message>
-      <location filename="../widgets/DisassemblyWidget.cpp" line="676"/>
-      <source>offsetFrom (%1) differs from refs.at(0).from (%(2))</source>
-      <translation>offsetFrom (%1) отличается от refs.at(0).от (%(2))</translation>
-    </message>
-    <message>
-      <location filename="../widgets/DisassemblyWidget.cpp" line="721"/>
+      <location filename="../widgets/DisassemblyWidget.cpp" line="658"/>
       <source>Disassembly</source>
       <translation>Дизассемблированный код</translation>
-    </message>
-    <message>
-      <source>Sync/unsync offset</source>
-      <translation>Синхронизация/десинхронизация смещения</translation>
     </message>
   </context>
   <context>
@@ -3367,10 +2986,6 @@ WARNING: In write mode any changes will be commited to disk</source>
       <translation>Начальный адрес</translation>
     </message>
     <message>
-      <source>End address</source>
-      <translation>Конечный адрес</translation>
-    </message>
-    <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="63"/>
       <source>Stack size</source>
       <translation>Размер стека</translation>
@@ -3389,9 +3004,14 @@ WARNING: In write mode any changes will be commited to disk</source>
       <translation>Изменить инструкцию</translation>
     </message>
     <message>
-      <location filename="../dialogs/EditInstructionDialog.ui" line="76"/>
+      <location filename="../dialogs/EditInstructionDialog.ui" line="88"/>
       <source>Unknown Instruction</source>
       <translation>Неизвестная инструкция</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/EditInstructionDialog.ui" line="100"/>
+      <source>Fill all remaining bytes with NOP opcodes</source>
+      <translation type="unfinished">Fill all remaining bytes with NOP opcodes</translation>
     </message>
   </context>
   <context>
@@ -3403,31 +3023,41 @@ WARNING: In write mode any changes will be commited to disk</source>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="32"/>
-      <source>Name:</source>
-      <translation>Название:</translation>
+      <source>Unique Identifier (name):</source>
+      <translation type="unfinished">Unique Identifier (name):</translation>
     </message>
     <message>
-      <location filename="../dialogs/EditMethodDialog.ui" line="42"/>
+      <location filename="../dialogs/EditMethodDialog.ui" line="44"/>
+      <source>Auto-Rename</source>
+      <translation type="unfinished">Auto-Rename</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/EditMethodDialog.ui" line="56"/>
+      <source>Display Name (realname):</source>
+      <translation type="unfinished">Display Name (realname):</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/EditMethodDialog.ui" line="66"/>
       <source>Address:</source>
       <translation>Адрес:</translation>
     </message>
     <message>
-      <location filename="../dialogs/EditMethodDialog.ui" line="52"/>
+      <location filename="../dialogs/EditMethodDialog.ui" line="76"/>
       <source>Virtual:</source>
       <translation>Виртуальный:</translation>
     </message>
     <message>
-      <location filename="../dialogs/EditMethodDialog.ui" line="66"/>
+      <location filename="../dialogs/EditMethodDialog.ui" line="90"/>
       <source>Offset in VTable:</source>
       <translation>Смещение в таблице виртуальных методов:</translation>
     </message>
     <message>
-      <location filename="../dialogs/EditMethodDialog.cpp" line="152"/>
+      <location filename="../dialogs/EditMethodDialog.cpp" line="191"/>
       <source>Create Method</source>
       <translation>Создать метод</translation>
     </message>
     <message>
-      <location filename="../dialogs/EditMethodDialog.cpp" line="167"/>
+      <location filename="../dialogs/EditMethodDialog.cpp" line="206"/>
       <source>Edit Method</source>
       <translation>Редактировать метод</translation>
     </message>
@@ -3440,11 +3070,6 @@ WARNING: In write mode any changes will be commited to disk</source>
       <translation>Редактировать строку</translation>
     </message>
     <message>
-      <location filename="../dialogs/EditStringDialog.ui" line="66"/>
-      <source>Address:</source>
-      <translation>Адрес:</translation>
-    </message>
-    <message>
       <location filename="../dialogs/EditStringDialog.ui" line="52"/>
       <source>Size:</source>
       <translation>Размер:</translation>
@@ -3455,17 +3080,14 @@ WARNING: In write mode any changes will be commited to disk</source>
       <translation>Тип:</translation>
     </message>
     <message>
+      <location filename="../dialogs/EditStringDialog.ui" line="66"/>
+      <source>Address:</source>
+      <translation>Адрес:</translation>
+    </message>
+    <message>
       <location filename="../dialogs/EditStringDialog.ui" line="99"/>
       <source>Auto</source>
       <translation>Авто</translation>
-    </message>
-    <message>
-      <source>Cancel</source>
-      <translation>Отмена</translation>
-    </message>
-    <message>
-      <source>OK</source>
-      <translation>OK</translation>
     </message>
   </context>
   <context>
@@ -3491,11 +3113,7 @@ WARNING: In write mode any changes will be commited to disk</source>
       <translation>Тип:</translation>
     </message>
     <message>
-      <source>Set Variable Types for Function: %1</source>
-      <translation>Установка типов переменных для функции: %1</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/EditVariablesDialog.cpp" line="19"/>
+      <location filename="../dialogs/EditVariablesDialog.cpp" line="20"/>
       <source>Edit Variables in Function: %1</source>
       <translation>Редактировать переменные в функции: %1</translation>
     </message>
@@ -3651,172 +3269,180 @@ WARNING: In write mode any changes will be commited to disk</source>
     </message>
   </context>
   <context>
+    <name>FlirtContextMenu</name>
+    <message>
+      <location filename="../menus/FlirtContextMenu.cpp" line="14"/>
+      <source>Copy Line</source>
+      <translation type="unfinished">Copy Line</translation>
+    </message>
+    <message>
+      <location filename="../menus/FlirtContextMenu.cpp" line="15"/>
+      <source>Apply Signature File</source>
+      <translation type="unfinished">Apply Signature File</translation>
+    </message>
+  </context>
+  <context>
+    <name>FlirtModel</name>
+    <message>
+      <location filename="../widgets/FlirtWidget.cpp" line="65"/>
+      <source>Bin</source>
+      <translation type="unfinished">Bin</translation>
+    </message>
+    <message>
+      <location filename="../widgets/FlirtWidget.cpp" line="67"/>
+      <source>Arch</source>
+      <translation type="unfinished">Arch</translation>
+    </message>
+    <message>
+      <location filename="../widgets/FlirtWidget.cpp" line="69"/>
+      <source>Bits</source>
+      <translation type="unfinished">Bits</translation>
+    </message>
+    <message>
+      <location filename="../widgets/FlirtWidget.cpp" line="71"/>
+      <source># Funcs</source>
+      <translation type="unfinished"># Funcs</translation>
+    </message>
+    <message>
+      <location filename="../widgets/FlirtWidget.cpp" line="73"/>
+      <source>Name</source>
+      <translation type="unfinished">Name</translation>
+    </message>
+    <message>
+      <location filename="../widgets/FlirtWidget.cpp" line="75"/>
+      <source>Details</source>
+      <translation type="unfinished">Details</translation>
+    </message>
+  </context>
+  <context>
     <name>FunctionModel</name>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="123"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="134"/>
       <source>Offset: %1</source>
       <translation>Смещение %1</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="125"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="136"/>
       <source>Size: %1</source>
       <translation>Размер: %1</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="127"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="138"/>
       <source>Import: %1</source>
       <translation>Импорт: %1</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="128"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="139"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="166"/>
       <source>true</source>
       <translation>true</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="128"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="139"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="166"/>
       <source>false</source>
       <translation>неверно</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="130"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="141"/>
       <source>Nargs: %1</source>
       <translation>Nargs: %1</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="132"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="143"/>
       <source>Nbbs: %1</source>
       <translation>Nbbs: %1</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="134"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="145"/>
       <source>Nlocals: %1</source>
       <translation>Nlocals: %1</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="281"/>
-      <source>Comment</source>
-      <translation>Комментарий</translation>
-    </message>
-    <message>
-      <source>Cyclomatic complexity: %1</source>
-      <translation>Цикломатическая сложность: %1</translation>
-    </message>
-    <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="136"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="147"/>
       <source>Call type: %1</source>
       <translation>Тип вызова: %1</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="138"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="149"/>
       <source>Edges: %1</source>
       <translation>Края: %1</translation>
     </message>
     <message>
-      <source>Cost: %1</source>
-      <translation>Сумма: %1</translation>
-    </message>
-    <message>
-      <source>Calls/OutDegree: %1</source>
-      <translation>Calls/OutDegree: %1</translation>
-    </message>
-    <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="140"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="151"/>
       <source>StackFrame: %1</source>
       <translation>Кадр стека: %1</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="142"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="153"/>
       <source>Comment: %1</source>
       <translation>Комментарий: %1</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="221"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="266"/>
       <source>&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;Disassembly preview&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</source>
       <translation>&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;Дизассемблерный предпросмотр&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="226"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="271"/>
       <source>&lt;div&gt;&lt;strong&gt;Highlights&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</source>
       <translation>&lt;div&gt;&lt;strong&gt;Highlights&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
     </message>
     <message>
-      <source>&lt;div&gt;&lt;strong&gt;Summary&lt;/strong&gt;:&lt;br&gt;</source>
-      <translation>&lt;div&gt;&lt;strong&gt;Отчет&lt;/strong&gt;:&lt;br&gt;</translation>
-    </message>
-    <message>
-      <source>Size:&amp;nbsp;%1,&amp;nbsp;Cyclomatic complexity:&amp;nbsp;%2,&amp;nbsp;Basic blocks:&amp;nbsp;%3</source>
-      <translation>Размер:&amp;nbsp;%1,&amp;nbsp;Цикломатическая сложность:&amp;nbsp;%2,&amp;nbsp;Основные блоки:&amp;nbsp;%3</translation>
-    </message>
-    <message>
-      <source>&lt;/div&gt;&lt;div style=&quot;margin-top: 10px;&quot;&gt;&lt;strong&gt;Disassembly preview&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</source>
-      <translation>&lt;/div&gt;&lt;div style=&quot;margin-top: 10px;&quot;&gt;&lt;strong&gt;Дизассемблерный предпросмотр&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
-    </message>
-    <message>
-      <source>&lt;div style=&quot;margin-top: 10px;&quot;&gt;&lt;strong&gt;Highlights&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</source>
-      <translation>&lt;div style=&quot;margin-top: 10px;&quot;&gt;&lt;strong&gt;Выделенные&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
-    </message>
-    <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="257"/>
-      <location filename="../widgets/FunctionsWidget.cpp" line="261"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="306"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="310"/>
       <source>Name</source>
       <translation>Имя</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="263"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="312"/>
       <source>Size</source>
       <translation>Размер</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="265"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="314"/>
       <source>Imp.</source>
       <translation>Imp.</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="267"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="316"/>
       <source>Offset</source>
       <translation>Смещение</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="269"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="318"/>
       <source>Nargs</source>
       <translation>Nargs</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="273"/>
-      <source>Nbbs</source>
-      <translation>Nbbs</translation>
-    </message>
-    <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="271"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="320"/>
       <source>Nlocals</source>
       <translation>Nlocals</translation>
     </message>
     <message>
-      <source>Cyclo. Comp.</source>
-      <translation>Цикл. сложн.</translation>
+      <location filename="../widgets/FunctionsWidget.cpp" line="322"/>
+      <source>Nbbs</source>
+      <translation>Nbbs</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="275"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="324"/>
       <source>Call type</source>
       <translation>Тип вызова</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="277"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="326"/>
       <source>Edges</source>
       <translation>Края</translation>
     </message>
     <message>
-      <source>Cost</source>
-      <translation>Сумма</translation>
-    </message>
-    <message>
-      <source>Calls/OutDeg.</source>
-      <translation>Calls/OutDeg.</translation>
-    </message>
-    <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="279"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="328"/>
       <source>StackFrame</source>
       <translation>Кадр стека</translation>
+    </message>
+    <message>
+      <location filename="../widgets/FunctionsWidget.cpp" line="330"/>
+      <source>Comment</source>
+      <translation>Комментарий</translation>
     </message>
   </context>
   <context>
@@ -3830,51 +3456,256 @@ WARNING: In write mode any changes will be commited to disk</source>
   <context>
     <name>FunctionsWidget</name>
     <message>
-      <source>Add comment</source>
-      <translation>Добавить комментарий</translation>
-    </message>
-    <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="442"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="491"/>
       <source>Rename</source>
       <translation>Переименовать</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="443"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="492"/>
       <source>Undefine</source>
       <translation>Неопределенный</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="447"/>
-      <source>Functions</source>
-      <translation>Функции</translation>
-    </message>
-    <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="549"/>
-      <source>Rename function %1</source>
-      <translation>Переименовать функцию %1</translation>
-    </message>
-    <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="550"/>
-      <source>Function name:</source>
-      <translation>Имя функции:</translation>
-    </message>
-    <message>
-      <source>X-Refs</source>
-      <translation>Перекрестные ссылки</translation>
-    </message>
-    <message>
-      <source>Cross references</source>
-      <translation>Перекрестные ссылки</translation>
-    </message>
-    <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="444"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="493"/>
       <source>Horizontal</source>
       <translation>Горизонтально</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="445"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="494"/>
       <source>Vertical</source>
       <translation>Вертикально</translation>
+    </message>
+    <message>
+      <location filename="../widgets/FunctionsWidget.cpp" line="496"/>
+      <source>Functions</source>
+      <translation>Функции</translation>
+    </message>
+    <message>
+      <location filename="../widgets/FunctionsWidget.cpp" line="613"/>
+      <source>Rename function %1</source>
+      <translation>Переименовать функцию %1</translation>
+    </message>
+    <message>
+      <location filename="../widgets/FunctionsWidget.cpp" line="614"/>
+      <source>Function name:</source>
+      <translation>Имя функции:</translation>
+    </message>
+  </context>
+  <context>
+    <name>GlibcHeapBinsDialog</name>
+    <message>
+      <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="14"/>
+      <source>Dialog</source>
+      <translation type="unfinished">Dialog</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="25"/>
+      <source>Chain info:</source>
+      <translation type="unfinished">Chain info:</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="41"/>
+      <source>Detailed chunk info:</source>
+      <translation type="unfinished">Detailed chunk info:</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="48"/>
+      <source>Enter chunk base address and press enter</source>
+      <translation type="unfinished">Enter chunk base address and press enter</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="28"/>
+      <source>Bins info for arena @ </source>
+      <translation type="unfinished">Bins info for arena @ </translation>
+    </message>
+  </context>
+  <context>
+    <name>GlibcHeapInfoDialog</name>
+    <message>
+      <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="14"/>
+      <source>Dialog</source>
+      <translation type="unfinished">Dialog</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="22"/>
+      <source>Base</source>
+      <translation type="unfinished">Base</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="29"/>
+      <source>Base address of the chunk</source>
+      <translation type="unfinished">Base address of the chunk</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="39"/>
+      <source>Size</source>
+      <translation type="unfinished">Size</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="46"/>
+      <source>Size of the heap chunk including metadata</source>
+      <translation type="unfinished">Size of the heap chunk including metadata</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="56"/>
+      <source>Fd</source>
+      <translation type="unfinished">Fd</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="63"/>
+      <source>Link to next free chunk in bin&apos;s linked list</source>
+      <translation type="unfinished">Link to next free chunk in bin&apos;s linked list</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="73"/>
+      <source>Bk</source>
+      <translation type="unfinished">Bk</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="80"/>
+      <source>Link to previous free chunk in bin&apos;s linked list</source>
+      <translation type="unfinished">Link to previous free chunk in bin&apos;s linked list</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="90"/>
+      <source>Link to next larger free chunk (only for large chunks)</source>
+      <translation type="unfinished">Link to next larger free chunk (only for large chunks)</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="100"/>
+      <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Fd-nextsize&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Fd-nextsize&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="107"/>
+      <source>Bk-nextsize</source>
+      <translation type="unfinished">Bk-nextsize</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="114"/>
+      <source>Link to next smaller free chunk (for large chunks)</source>
+      <translation type="unfinished">Link to next smaller free chunk (for large chunks)</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="124"/>
+      <source>Size of previous chunk (if free)</source>
+      <translation type="unfinished">Size of previous chunk (if free)</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="134"/>
+      <source>PrevSize</source>
+      <translation type="unfinished">PrevSize</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="145"/>
+      <source>If the chunk was obtained from a non-main arena</source>
+      <translation type="unfinished">If the chunk was obtained from a non-main arena</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="148"/>
+      <source>NON_MAIN_ARENA</source>
+      <translation type="unfinished">NON_MAIN_ARENA</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="161"/>
+      <source>The chunk was obtained with mmap()</source>
+      <translation type="unfinished">The chunk was obtained with mmap()</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="164"/>
+      <source>IS_MMAPED</source>
+      <translation type="unfinished">IS_MMAPED</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="177"/>
+      <source>Previous adjacent chunk is in use</source>
+      <translation type="unfinished">Previous adjacent chunk is in use</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="180"/>
+      <source>PREV_INUSE</source>
+      <translation type="unfinished">PREV_INUSE</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="195"/>
+      <source>Save</source>
+      <translation type="unfinished">Save</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="12"/>
+      <source>Chunk @ </source>
+      <translation type="unfinished">Chunk @ </translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="100"/>
+      <source>Chunk saved</source>
+      <translation type="unfinished">Chunk saved</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="101"/>
+      <source>Chunk header successfully overwritten</source>
+      <translation type="unfinished">Chunk header successfully overwritten</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="103"/>
+      <source>Chunk not saved</source>
+      <translation type="unfinished">Chunk not saved</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="104"/>
+      <source>Chunk header not successfully overwritten</source>
+      <translation type="unfinished">Chunk header not successfully overwritten</translation>
+    </message>
+  </context>
+  <context>
+    <name>GlibcHeapModel</name>
+    <message>
+      <location filename="../widgets/GlibcHeapWidget.cpp" line="161"/>
+      <source>Offset</source>
+      <translation type="unfinished">Offset</translation>
+    </message>
+    <message>
+      <location filename="../widgets/GlibcHeapWidget.cpp" line="163"/>
+      <source>Size</source>
+      <translation type="unfinished">Size</translation>
+    </message>
+    <message>
+      <location filename="../widgets/GlibcHeapWidget.cpp" line="165"/>
+      <source>Status</source>
+      <translation type="unfinished">Status</translation>
+    </message>
+  </context>
+  <context>
+    <name>GlibcHeapWidget</name>
+    <message>
+      <location filename="../widgets/GlibcHeapWidget.ui" line="14"/>
+      <source>Form</source>
+      <translation type="unfinished">Form</translation>
+    </message>
+    <message>
+      <location filename="../widgets/GlibcHeapWidget.ui" line="34"/>
+      <source>Arena</source>
+      <translation type="unfinished">Arena</translation>
+    </message>
+    <message>
+      <location filename="../widgets/GlibcHeapWidget.ui" line="47"/>
+      <source>View bins info for an arena</source>
+      <translation type="unfinished">View bins info for an arena</translation>
+    </message>
+    <message>
+      <location filename="../widgets/GlibcHeapWidget.ui" line="50"/>
+      <source>Bins</source>
+      <translation type="unfinished">Bins</translation>
+    </message>
+    <message>
+      <location filename="../widgets/GlibcHeapWidget.cpp" line="27"/>
+      <source>Detailed Chunk Info</source>
+      <translation type="unfinished">Detailed Chunk Info</translation>
+    </message>
+    <message>
+      <location filename="../widgets/GlibcHeapWidget.cpp" line="28"/>
+      <source>Bins Info</source>
+      <translation type="unfinished">Bins Info</translation>
     </message>
   </context>
   <context>
@@ -3905,73 +3736,70 @@ WARNING: In write mode any changes will be commited to disk</source>
       <translation>Показывать смещение для каждой инструкции (graph.offset)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="50"/>
+      <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="48"/>
+      <source>Show preview when hovering (graph.preview)</source>
+      <translation type="unfinished">Show preview when hovering (graph.preview)</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="57"/>
       <source>Maximum Line Length:</source>
       <translation>Максимальная длина линии:</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="70"/>
-      <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="80"/>
+      <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="77"/>
+      <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="87"/>
       <source>Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</source>
       <translation>Скрывать текст при увеличении масштаба, и когда размер шрифта меньше заданного значения. Более высокие значения могут повысить производительность.</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="73"/>
+      <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="80"/>
       <source>Minimum Font Size</source>
       <translation>Минимальный размер шрифта</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="98"/>
+      <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="105"/>
       <source>Graph Layout Options</source>
       <translation>Параметры размещения графа</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="117"/>
+      <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="124"/>
       <source>Vertical</source>
       <translation>Вертикально</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="140"/>
+      <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="147"/>
       <source>Horizontal</source>
       <translation>Горизонтально</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="176"/>
+      <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="183"/>
       <source>Block spacing:</source>
       <translation>Расстояние между блоками:</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="183"/>
+      <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="190"/>
       <source>Edge spacing</source>
       <translation>Расстояние от краев</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="193"/>
+      <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="200"/>
       <source>Bitmap Export Options</source>
       <translation>Параметры экспорта растрового изображения</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="202"/>
+      <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="209"/>
       <source>Export Transparent Bitmap Graphs</source>
       <translation>Экспорт графов в растровые изображения с прозрачностью</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="211"/>
+      <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="218"/>
       <source>Graph Bitmap Export Scale: </source>
       <translation>Масштаб при экспортировании растрового изображения: </translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="218"/>
+      <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="225"/>
       <source>%</source>
       <translation>%</translation>
-    </message>
-    <message>
-      <source>Show offsets (graph.offset)</source>
-      <translation>Показывать смещения (graph.offset)</translation>
-    </message>
-    <message>
-      <source>Show offsets (graph.offset) </source>
-      <translation>Показать смещения (graph.offset) </translation>
     </message>
   </context>
   <context>
@@ -4006,172 +3834,231 @@ WARNING: In write mode any changes will be commited to disk</source>
     </message>
   </context>
   <context>
+    <name>HeapBinsGraphView</name>
+    <message>
+      <location filename="../widgets/HeapBinsGraphView.cpp" line="8"/>
+      <source>Detailed Chunk Info</source>
+      <translation type="unfinished">Detailed Chunk Info</translation>
+    </message>
+    <message>
+      <location filename="../widgets/HeapBinsGraphView.cpp" line="80"/>
+      <location filename="../widgets/HeapBinsGraphView.cpp" line="122"/>
+      <source>bin </source>
+      <translation type="unfinished">bin </translation>
+    </message>
+    <message>
+      <location filename="../widgets/HeapBinsGraphView.cpp" line="122"/>
+      <source> @ </source>
+      <translation type="unfinished"> @ </translation>
+    </message>
+  </context>
+  <context>
+    <name>HeapDockWidget</name>
+    <message>
+      <location filename="../widgets/HeapDockWidget.ui" line="14"/>
+      <source>Heap</source>
+      <translation type="unfinished">Heap</translation>
+    </message>
+  </context>
+  <context>
     <name>HexWidget</name>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="67"/>
+      <location filename="../widgets/HexWidget.cpp" line="70"/>
       <source>Hexadecimal</source>
       <translation>Шестнадцатеричное</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="68"/>
+      <location filename="../widgets/HexWidget.cpp" line="71"/>
       <source>Octal</source>
       <translation>Восьмеричная</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="69"/>
+      <location filename="../widgets/HexWidget.cpp" line="72"/>
       <source>Decimal</source>
       <translation>Десятичное</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="70"/>
+      <location filename="../widgets/HexWidget.cpp" line="73"/>
       <source>Signed decimal</source>
       <translation>Знаковое десятичное</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="71"/>
+      <location filename="../widgets/HexWidget.cpp" line="74"/>
       <source>Float</source>
       <translation>С плавающей точкой</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="85"/>
+      <location filename="../widgets/HexWidget.cpp" line="88"/>
       <source>Bytes per row</source>
       <translation>Байтов в строке</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="95"/>
+      <location filename="../widgets/HexWidget.cpp" line="98"/>
       <source>Power of 2</source>
       <translation>Степень двойки</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="102"/>
+      <location filename="../widgets/HexWidget.cpp" line="105"/>
       <source>Big Endian</source>
       <translation>Big Endian</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="107"/>
+      <location filename="../widgets/HexWidget.cpp" line="110"/>
       <source>Bytes as pairs</source>
       <translation>Байты в виде пар</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="111"/>
+      <location filename="../widgets/HexWidget.cpp" line="114"/>
       <source>Copy</source>
       <translation>Копировать</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="117"/>
+      <location filename="../widgets/HexWidget.cpp" line="120"/>
       <source>Copy address</source>
       <translation>Скопировать адрес</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="123"/>
+      <location filename="../widgets/HexWidget.cpp" line="127"/>
+      <location filename="../widgets/HexWidget.cpp" line="1157"/>
+      <source>Add Comment</source>
+      <translation type="unfinished">Add Comment</translation>
+    </message>
+    <message>
+      <location filename="../widgets/HexWidget.cpp" line="134"/>
+      <source>Delete Comment</source>
+      <translation type="unfinished">Delete Comment</translation>
+    </message>
+    <message>
+      <location filename="../widgets/HexWidget.cpp" line="140"/>
       <source>Select range</source>
       <translation>Выбрать диапазон</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="130"/>
-      <location filename="../widgets/HexWidget.cpp" line="705"/>
+      <location filename="../widgets/HexWidget.cpp" line="147"/>
+      <location filename="../widgets/HexWidget.cpp" line="1272"/>
       <source>Write string</source>
       <translation>Записать строку</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="134"/>
+      <location filename="../widgets/HexWidget.cpp" line="151"/>
       <source>Write length and string</source>
       <translation>Записать длину и строку</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="138"/>
-      <location filename="../widgets/HexWidget.cpp" line="842"/>
+      <location filename="../widgets/HexWidget.cpp" line="155"/>
+      <location filename="../widgets/HexWidget.cpp" line="1466"/>
       <source>Write wide string</source>
       <translation>Записать широкую строку</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="142"/>
+      <location filename="../widgets/HexWidget.cpp" line="159"/>
       <source>Write zero terminated string</source>
       <translation>Записать 0-терминированную строку</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="146"/>
+      <location filename="../widgets/HexWidget.cpp" line="163"/>
       <source>Write De\Encoded Base64 string</source>
       <translation>Записать закодированную/декодированную в Base64 строку</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="151"/>
-      <location filename="../widgets/HexWidget.cpp" line="745"/>
+      <location filename="../widgets/HexWidget.cpp" line="168"/>
+      <location filename="../widgets/HexWidget.cpp" line="1318"/>
+      <source>Write hex bytes</source>
+      <translation type="unfinished">Write hex bytes</translation>
+    </message>
+    <message>
+      <location filename="../widgets/HexWidget.cpp" line="172"/>
+      <location filename="../widgets/HexWidget.cpp" line="1354"/>
       <source>Write zeros</source>
       <translation>Записать нули</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="155"/>
+      <location filename="../widgets/HexWidget.cpp" line="176"/>
       <source>Write random bytes</source>
       <translation>Записать случайные данные</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="159"/>
+      <location filename="../widgets/HexWidget.cpp" line="180"/>
       <source>Duplicate from offset</source>
       <translation>Дублировать начиная со смещения</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="163"/>
+      <location filename="../widgets/HexWidget.cpp" line="184"/>
       <source>Increment/Decrement</source>
       <translation>Увеличить/уменьшить на 1</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="620"/>
+      <location filename="../widgets/HexWidget.cpp" line="188"/>
+      <source>Edit with keyboard</source>
+      <translation type="unfinished">Edit with keyboard</translation>
+    </message>
+    <message>
+      <location filename="../widgets/HexWidget.cpp" line="1160"/>
+      <source>Edit Comment</source>
+      <translation type="unfinished">Edit Comment</translation>
+    </message>
+    <message>
+      <location filename="../widgets/HexWidget.cpp" line="1168"/>
       <source>Item size:</source>
       <translation>Размер элемента:</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="622"/>
+      <location filename="../widgets/HexWidget.cpp" line="1170"/>
       <source>Item format:</source>
       <translation>Формат элемента:</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="627"/>
+      <location filename="../widgets/HexWidget.cpp" line="1175"/>
       <source>Edit</source>
       <translation>Редактировать</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="705"/>
-      <location filename="../widgets/HexWidget.cpp" line="826"/>
-      <location filename="../widgets/HexWidget.cpp" line="842"/>
-      <location filename="../widgets/HexWidget.cpp" line="857"/>
+      <location filename="../widgets/HexWidget.cpp" line="1272"/>
+      <location filename="../widgets/HexWidget.cpp" line="1448"/>
+      <location filename="../widgets/HexWidget.cpp" line="1466"/>
+      <location filename="../widgets/HexWidget.cpp" line="1484"/>
       <source>String:</source>
       <translation>Строка:</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="745"/>
+      <location filename="../widgets/HexWidget.cpp" line="1318"/>
+      <source>Hex byte string:</source>
+      <translation type="unfinished">Hex byte string:</translation>
+    </message>
+    <message>
+      <location filename="../widgets/HexWidget.cpp" line="1354"/>
       <source>Number of zeros:</source>
       <translation>Количество нулей:</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="769"/>
+      <location filename="../widgets/HexWidget.cpp" line="1381"/>
       <source>Error</source>
       <translation>Ошибка</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="770"/>
+      <location filename="../widgets/HexWidget.cpp" line="1382"/>
       <source>Error occured during decoding your input.
 Please, make sure, that it is a valid base64 string and try again.</source>
       <translation>Произошла ошибка во время декодирования ввода.
 Пожалуйста, убедитесь, что это допустимая строка base64 и повторите попытку.</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="793"/>
+      <location filename="../widgets/HexWidget.cpp" line="1410"/>
       <source>Write random</source>
       <translation>Записать случайные байты</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="793"/>
+      <location filename="../widgets/HexWidget.cpp" line="1410"/>
       <source>Number of bytes:</source>
       <translation>Количество байт:</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="826"/>
+      <location filename="../widgets/HexWidget.cpp" line="1448"/>
       <source>Write Pascal string</source>
       <translation>Записать Pascal строку</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="857"/>
+      <location filename="../widgets/HexWidget.cpp" line="1484"/>
       <source>Write zero-terminated string</source>
       <translation>Записать 0-терминированную строку</translation>
     </message>
@@ -4213,21 +4100,84 @@ Please, make sure, that it is a valid base64 string and try again.</source>
   <context>
     <name>HexdumpWidget</name>
     <message>
-      <source>0  1  2  3 ...</source>
-      <translation>0  1  2  3 ...</translation>
-    </message>
-    <message>
-      <source>0123...</source>
-      <translation>0123...</translation>
-    </message>
-    <message>
-      <source>Offset</source>
-      <translation>Смещение</translation>
-    </message>
-    <message>
       <location filename="../widgets/HexdumpWidget.ui" line="70"/>
       <source>Parsing</source>
       <translation>Обработка</translation>
+    </message>
+    <message>
+      <location filename="../widgets/HexdumpWidget.ui" line="120"/>
+      <source>Endian</source>
+      <translation>Порядок байт</translation>
+    </message>
+    <message>
+      <location filename="../widgets/HexdumpWidget.ui" line="131"/>
+      <source>Little</source>
+      <translation>Little</translation>
+    </message>
+    <message>
+      <location filename="../widgets/HexdumpWidget.ui" line="136"/>
+      <source>Big</source>
+      <translation>Big (от старшего к младшему)</translation>
+    </message>
+    <message>
+      <location filename="../widgets/HexdumpWidget.ui" line="191"/>
+      <source>Arch</source>
+      <translation>Архитектура</translation>
+    </message>
+    <message>
+      <location filename="../widgets/HexdumpWidget.ui" line="220"/>
+      <source>Bits</source>
+      <translation>Битность</translation>
+    </message>
+    <message>
+      <location filename="../widgets/HexdumpWidget.ui" line="231"/>
+      <source>16</source>
+      <translation>16</translation>
+    </message>
+    <message>
+      <location filename="../widgets/HexdumpWidget.ui" line="236"/>
+      <source>32</source>
+      <translation>32</translation>
+    </message>
+    <message>
+      <location filename="../widgets/HexdumpWidget.ui" line="241"/>
+      <source>64</source>
+      <translation>64</translation>
+    </message>
+    <message>
+      <location filename="../widgets/HexdumpWidget.ui" line="318"/>
+      <source>SHA256:</source>
+      <translation>SHA1: {256:?}</translation>
+    </message>
+    <message>
+      <location filename="../widgets/HexdumpWidget.ui" line="350"/>
+      <source>SHA1:</source>
+      <translation>SHA1:</translation>
+    </message>
+    <message>
+      <location filename="../widgets/HexdumpWidget.ui" line="357"/>
+      <source>Copy SHA256</source>
+      <translation>Копировать SHA256</translation>
+    </message>
+    <message>
+      <location filename="../widgets/HexdumpWidget.ui" line="396"/>
+      <source>Copy CRC32</source>
+      <translation>Копировать CRC32</translation>
+    </message>
+    <message>
+      <location filename="../widgets/HexdumpWidget.ui" line="434"/>
+      <source>Entropy:</source>
+      <translation>Энтропия:</translation>
+    </message>
+    <message>
+      <location filename="../widgets/HexdumpWidget.ui" line="466"/>
+      <source>MD5:</source>
+      <translation>MD5:</translation>
+    </message>
+    <message>
+      <location filename="../widgets/HexdumpWidget.ui" line="479"/>
+      <source>CRC32:</source>
+      <translation>CRC32:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="50"/>
@@ -4295,204 +4245,9 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <translation>Yara</translation>
     </message>
     <message>
-      <location filename="../widgets/HexdumpWidget.ui" line="120"/>
-      <source>Endian</source>
-      <translation>Порядок байт</translation>
-    </message>
-    <message>
-      <location filename="../widgets/HexdumpWidget.ui" line="131"/>
-      <source>Little</source>
-      <translation>Little</translation>
-    </message>
-    <message>
-      <location filename="../widgets/HexdumpWidget.ui" line="136"/>
-      <source>Big</source>
-      <translation>Big (от старшего к младшему)</translation>
-    </message>
-    <message>
-      <location filename="../widgets/HexdumpWidget.ui" line="191"/>
-      <source>Arch</source>
-      <translation>Архитектура</translation>
-    </message>
-    <message>
-      <location filename="../widgets/HexdumpWidget.ui" line="220"/>
-      <source>Bits</source>
-      <translation>Битность</translation>
-    </message>
-    <message>
-      <location filename="../widgets/HexdumpWidget.ui" line="231"/>
-      <source>16</source>
-      <translation>16</translation>
-    </message>
-    <message>
-      <location filename="../widgets/HexdumpWidget.ui" line="236"/>
-      <source>32</source>
-      <translation>32</translation>
-    </message>
-    <message>
-      <location filename="../widgets/HexdumpWidget.ui" line="241"/>
-      <source>64</source>
-      <translation>64</translation>
-    </message>
-    <message>
-      <location filename="../widgets/HexdumpWidget.ui" line="318"/>
-      <source>SHA256:</source>
-      <translation>SHA1: {256:?}</translation>
-    </message>
-    <message>
-      <location filename="../widgets/HexdumpWidget.ui" line="357"/>
-      <source>Copy SHA256</source>
-      <translation>Копировать SHA256</translation>
-    </message>
-    <message>
-      <location filename="../widgets/HexdumpWidget.ui" line="396"/>
-      <source>Copy CRC32</source>
-      <translation>Копировать CRC32</translation>
-    </message>
-    <message>
-      <location filename="../widgets/HexdumpWidget.ui" line="466"/>
-      <source>MD5:</source>
-      <translation>MD5:</translation>
-    </message>
-    <message>
-      <location filename="../widgets/HexdumpWidget.ui" line="479"/>
-      <source>CRC32:</source>
-      <translation>CRC32:</translation>
-    </message>
-    <message>
-      <location filename="../widgets/HexdumpWidget.ui" line="350"/>
-      <source>SHA1:</source>
-      <translation>SHA1:</translation>
-    </message>
-    <message>
-      <location filename="../widgets/HexdumpWidget.ui" line="434"/>
-      <source>Entropy:</source>
-      <translation>Энтропия:</translation>
-    </message>
-    <message>
-      <source>Hexdump side panel</source>
-      <translation>Боковая панель дампа</translation>
-    </message>
-    <message>
-      <source>Undefine</source>
-      <translation type="unfinished">Undefine</translation>
-    </message>
-    <message>
-      <source>Copy all</source>
-      <translation>Скопировать всё</translation>
-    </message>
-    <message>
-      <source>Copy bytes</source>
-      <translation>Скопировать байты</translation>
-    </message>
-    <message>
-      <source>Copy disasm</source>
-      <translation>Скопировать дизассемблерный листинг</translation>
-    </message>
-    <message>
-      <source>Copy Hexpair</source>
-      <translation>Копировать шестнадцатеричную строку</translation>
-    </message>
-    <message>
-      <source>Copy ASCII</source>
-      <translation>Скопировать ASCII</translation>
-    </message>
-    <message>
-      <source>Copy Text</source>
-      <translation>Скопировать текст</translation>
-    </message>
-    <message>
-      <source>1</source>
-      <translation type="unfinished">1</translation>
-    </message>
-    <message>
-      <source>2</source>
-      <translation>2</translation>
-    </message>
-    <message>
-      <source>4</source>
-      <translation>4</translation>
-    </message>
-    <message>
-      <source>8</source>
-      <translation>8</translation>
-    </message>
-    <message>
-      <source>Edit</source>
-      <translation>Редактировать</translation>
-    </message>
-    <message>
-      <source>Paste</source>
-      <translation>Вставить</translation>
-    </message>
-    <message>
-      <source>Insert Hex</source>
-      <translation>Вставить шестнадцатеричную строку</translation>
-    </message>
-    <message>
-      <source>Insert String</source>
-      <translation>Вставить строку</translation>
-    </message>
-    <message>
-      <source>Hex</source>
-      <translation>Hex</translation>
-    </message>
-    <message>
-      <source>Octal</source>
-      <translation>Восьмеричная</translation>
-    </message>
-    <message>
-      <source>Half-word</source>
-      <translation>Half-word</translation>
-    </message>
-    <message>
-      <source>Word</source>
-      <translation>Word</translation>
-    </message>
-    <message>
-      <source>Quad-word</source>
-      <translation>Quad-word</translation>
-    </message>
-    <message>
-      <source>Emoji</source>
-      <translation>Эмодзи</translation>
-    </message>
-    <message>
-      <source>1 byte</source>
-      <translation>1 байт</translation>
-    </message>
-    <message>
-      <source>2 bytes</source>
-      <translation>2 байта</translation>
-    </message>
-    <message>
-      <source>4 bytes</source>
-      <translation>4 байта</translation>
-    </message>
-    <message>
-      <source>Select Block...</source>
-      <translation>Выбрать блок...</translation>
-    </message>
-    <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="219"/>
       <source>Hexdump</source>
       <translation>Шестнадцатеричный дамп</translation>
-    </message>
-    <message>
-      <source>Columns</source>
-      <translation>Столбцы</translation>
-    </message>
-    <message>
-      <source>Format</source>
-      <translation>Формат</translation>
-    </message>
-    <message>
-      <source>Sync/unsync offset</source>
-      <translation>Синхронизация/десинхронизация смещения</translation>
-    </message>
-    <message>
-      <source>Error: Could not select range, end address is less then start address</source>
-      <translation>Ошибка: Не удалось выбрать диапазон, конечный адрес меньше, чем начальный адрес</translation>
     </message>
   </context>
   <context>
@@ -4602,233 +4357,186 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <translation>Программа:</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="161"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="167"/>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="363"/>
       <source>Analysis: Enabled</source>
       <translation>Анализ: Включен</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="177"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="183"/>
       <source>Level: </source>
       <translation>Уровень: </translation>
     </message>
     <message>
-      <source>Analyze all symbols (aa)</source>
-      <translation>Анализировать все символы (aa)</translation>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="224"/>
+      <source>None</source>
+      <translation type="unfinished">None</translation>
     </message>
     <message>
-      <source>Analyze for references (aar)</source>
-      <translation>Анализ ссылок (aar)</translation>
-    </message>
-    <message>
-      <source>Analyze function calls (aac)</source>
-      <translation>Анализ вызовов функции (aac)</translation>
-    </message>
-    <message>
-      <source>Analyze all basic blocks (aab)</source>
-      <translation>Анализ всех основных блоков (aab)</translation>
-    </message>
-    <message>
-      <source>Autorename functions based on context (aan)</source>
-      <translation>Авто-переименование функции на основе контекста (aan)</translation>
-    </message>
-    <message>
-      <source>Experimental:</source>
-      <translation>Экспериментальный:</translation>
-    </message>
-    <message>
-      <source>Emulate code to find computed references (aae)</source>
-      <translation>Эмуляция кода для нахождения вычисляемых ссылок (aae)</translation>
-    </message>
-    <message>
-      <source>Analyze for consecutive function (aat)</source>
-      <translation>Анализ последовательности функции (aat)</translation>
-    </message>
-    <message>
-      <source>Type and Argument matching analysis (afta)</source>
-      <translation>Анализ соответствия типов и аргументов (afta)</translation>
-    </message>
-    <message>
-      <source>Analyze code after trap-sleds (aaT)</source>
-      <translation>Анализ кода после ловушек (aaT)</translation>
-    </message>
-    <message>
-      <source>Analyze function preludes (aap)</source>
-      <translation>Анализировать пролог функции (aap)</translation>
-    </message>
-    <message>
-      <source>Analyze jump tables in switch statements (e! anal.jmptbl)</source>
-      <translation>Анализ таблиц переходов в операторах switch (e! anal.jmptbl)</translation>
-    </message>
-    <message>
-      <source>Analyze push+ret as jmp (e! anal.pushret)</source>
-      <translation>Анализировать push+ret как jmp (e! anal.pushret)</translation>
-    </message>
-    <message>
-      <source>Continue analysis after each function (e! anal.hasnext)</source>
-      <translation>Продолжить анализ после каждой функции (e! anal.hasnext)</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="322"/>
-      <source>Load in write mode (-w)</source>
-      <translation>Загрузить в режиме записи (-w)</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="332"/>
-      <source>Do not load bin information (-n)</source>
-      <translation>Не загружать двоичную информацию (-n)</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="345"/>
-      <source>Use virtual addressing</source>
-      <translation>Использовать виртуальную адресацию</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="355"/>
-      <source>Import demangled symbols</source>
-      <translation>Импортировать измененные символы</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="372"/>
-      <source>...</source>
-      <translation>...</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="403"/>
-      <source>Advanced options</source>
-      <translation>Дополнительные настройки</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="433"/>
-      <source>CPU options</source>
-      <translation>CPU опции</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="448"/>
-      <source>Architecture:</source>
-      <translation>Архитектура:</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="459"/>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="519"/>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="567"/>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="612"/>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="637"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="259"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="655"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="715"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="763"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="808"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="833"/>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="37"/>
       <source>Auto</source>
       <translation>Авто</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="473"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="326"/>
+      <source>Auto Exp</source>
+      <translation type="unfinished">Auto Exp</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="364"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="349"/>
+      <source>Advanced</source>
+      <translation>Дополнительно</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="518"/>
+      <source>Load in write mode (-w)</source>
+      <translation>Загрузить в режиме записи (-w)</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="528"/>
+      <source>Do not load bin information (-n)</source>
+      <translation>Не загружать двоичную информацию (-n)</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="541"/>
+      <source>Use virtual addressing</source>
+      <translation>Использовать виртуальную адресацию</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="551"/>
+      <source>Import demangled symbols</source>
+      <translation>Импортировать измененные символы</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="568"/>
+      <source>...</source>
+      <translation>...</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="599"/>
+      <source>Advanced options</source>
+      <translation>Дополнительные настройки</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="629"/>
+      <source>CPU options</source>
+      <translation>CPU опции</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="644"/>
+      <source>Architecture:</source>
+      <translation>Архитектура:</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="669"/>
       <source>CPU:</source>
       <translation>CPU:</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="524"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="720"/>
       <source>8</source>
       <translation>8</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="529"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="725"/>
       <source>16</source>
       <translation>16</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="534"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="730"/>
       <source>32</source>
       <translation>32</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="539"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="735"/>
       <source>64</source>
       <translation>64</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="553"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="749"/>
       <source>Endianness: </source>
       <translation>Порядок байтов: </translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="572"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="768"/>
       <source>Little</source>
       <translation>Little</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="577"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="773"/>
       <source>Big</source>
       <translation>Big</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="598"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="794"/>
       <source>Kernel: </source>
       <translation>Ядро: </translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="626"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="822"/>
       <source>Format:</source>
       <translation>Формат:</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="680"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="876"/>
       <source>Load bin offset (-B)</source>
       <translation>Загрузить двоичный файл по смещению (-B)</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="699"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="895"/>
       <source>1024</source>
       <translation>1024</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="718"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="914"/>
       <source>Map offset (-m)</source>
       <translation>Смещение файла карты (-m)</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="734"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="930"/>
       <source>0x40000</source>
       <translation>0x40000</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="741"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="937"/>
       <source>Load PDB</source>
       <translation>Загрузить PDB</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="766"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="962"/>
       <source>PDB File path</source>
       <translation>Путь к PDB-файлу</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="773"/>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="815"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="969"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="1011"/>
       <source>Select</source>
       <translation>Выбрать</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="783"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="979"/>
       <source>Load script file</source>
       <translation>Загрузите скрипт</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="808"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="1004"/>
       <source>Path to Rizin script file</source>
       <translation>Путь к файлу скрипта Rizin</translation>
     </message>
     <message>
-      <source>Path to radare2 script file</source>
-      <translation>Путь до radare2 скрипта</translation>
-    </message>
-    <message>
-      <source>BasicBlock maxsize:</source>
-      <translation>Максимальный размер основного блока:</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="871"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="1067"/>
       <source>Cancel</source>
       <translation>Отмена</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="884"/>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="1080"/>
       <source>  Ok  </source>
       <translation>  Ok  </translation>
     </message>
@@ -4923,11 +4631,6 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <translation>Авто-анализ Экспериментальный (aaaa)</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="349"/>
-      <source>Advanced</source>
-      <translation>Дополнительно</translation>
-    </message>
-    <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="351"/>
       <source>Unknown</source>
       <translation>Неизвестно</translation>
@@ -4968,14 +4671,6 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <source>Script file (*.rz)</source>
       <translation>Файл скрипта (*.rz)</translation>
     </message>
-    <message>
-      <source>Select radare2 script file</source>
-      <translation>Выберите radare2 скрипт</translation>
-    </message>
-    <message>
-      <source>Script file (*.r2)</source>
-      <translation>Файл скрипта (*.r2)</translation>
-    </message>
   </context>
   <context>
     <name>InitializationFileEditor</name>
@@ -4998,35 +4693,9 @@ Please, make sure, that it is a valid base64 string and try again.</source>
   <context>
     <name>JSDecDecompiler</name>
     <message>
-      <location filename="../common/Decompiler.cpp" line="40"/>
+      <location filename="../common/Decompiler.cpp" line="109"/>
       <source>Failed to parse JSON from jsdec</source>
       <translation>Ошибка парсинга JSON из jsdec</translation>
-    </message>
-  </context>
-  <context>
-    <name>JupyterWebView</name>
-    <message>
-      <source>Jupyter</source>
-      <translation>Jupyter</translation>
-    </message>
-  </context>
-  <context>
-    <name>JupyterWidget</name>
-    <message>
-      <source>Jupyter</source>
-      <translation type="unfinished">Jupyter</translation>
-    </message>
-    <message>
-      <source>Cutter has been built without QtWebEngine.&lt;br /&gt;Open the following URL in your Browser to use Jupyter:&lt;br /&gt;&lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
-      <translation>Cutter был собран без QtWebEngine.&lt;br /&gt;Откройте URL в вашем браузере, чтобы использовать Jupyter:&lt;br /&gt;&lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
-    </message>
-    <message>
-      <source>An error occurred while opening jupyter. Make sure Jupyter is installed system-wide.</source>
-      <translation>Произошла ошибка открытия Jupiter. Убедитесь, что Jupiter установлен в системе.</translation>
-    </message>
-    <message>
-      <source>Error</source>
-      <translation>Ошибка</translation>
     </message>
   </context>
   <context>
@@ -5074,60 +4743,6 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     </message>
   </context>
   <context>
-    <name>LinkTypeDialog</name>
-    <message>
-      <location filename="../dialogs/LinkTypeDialog.ui" line="20"/>
-      <source>Dialog</source>
-      <translation>Диалог</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/LinkTypeDialog.ui" line="26"/>
-      <source>=</source>
-      <translation>=</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/LinkTypeDialog.ui" line="43"/>
-      <source>Enter Address</source>
-      <translation>Введите адрес</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/LinkTypeDialog.ui" line="50"/>
-      <source>Structure Type</source>
-      <translation>Тип структуры</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/LinkTypeDialog.ui" line="73"/>
-      <source>Address/Flag</source>
-      <translation>Адрес/флаг</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/LinkTypeDialog.cpp" line="10"/>
-      <source>Link type to address</source>
-      <translation>Тип ссылки на адрес</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/LinkTypeDialog.cpp" line="13"/>
-      <location filename="../dialogs/LinkTypeDialog.cpp" line="57"/>
-      <source>(No Type)</source>
-      <translation>(Без типа)</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/LinkTypeDialog.cpp" line="75"/>
-      <source>Error</source>
-      <translation>Ошибка</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/LinkTypeDialog.cpp" line="75"/>
-      <source>The given address is invalid</source>
-      <translation>Введен направильный адрес</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/LinkTypeDialog.cpp" line="106"/>
-      <source>Invalid Address</source>
-      <translation>Неправильный адрес</translation>
-    </message>
-  </context>
-  <context>
     <name>MainWindow</name>
     <message>
       <location filename="../core/MainWindow.ui" line="33"/>
@@ -5145,1041 +4760,708 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <translation>Выбрать режим</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="94"/>
-      <location filename="../core/MainWindow.cpp" line="288"/>
+      <location filename="../core/MainWindow.ui" line="97"/>
+      <location filename="../core/MainWindow.cpp" line="289"/>
       <source>View</source>
       <translation>Вид</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="101"/>
+      <location filename="../core/MainWindow.ui" line="104"/>
       <source>Zoom</source>
       <translation>Масштаб</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="110"/>
+      <location filename="../core/MainWindow.ui" line="113"/>
       <source>Layouts</source>
       <translation>Макеты расположения</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="130"/>
+      <location filename="../core/MainWindow.ui" line="133"/>
       <source>Help</source>
       <translation>Справка</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="138"/>
-      <location filename="../core/MainWindow.ui" line="498"/>
+      <location filename="../core/MainWindow.ui" line="141"/>
+      <location filename="../core/MainWindow.ui" line="501"/>
       <source>Edit</source>
       <translation>Правка</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="147"/>
+      <location filename="../core/MainWindow.ui" line="150"/>
       <source>Windows</source>
       <translation>Окна</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="151"/>
-      <location filename="../core/MainWindow.cpp" line="142"/>
+      <location filename="../core/MainWindow.ui" line="154"/>
       <location filename="../core/MainWindow.cpp" line="143"/>
+      <location filename="../core/MainWindow.cpp" line="144"/>
       <source>Plugins</source>
       <translation>Плагины</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="156"/>
+      <location filename="../core/MainWindow.ui" line="159"/>
       <source>Info...</source>
       <translation>Информация...</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="161"/>
+      <location filename="../core/MainWindow.ui" line="164"/>
       <source>Debug...</source>
       <translation>Отладка...</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="176"/>
+      <location filename="../core/MainWindow.ui" line="179"/>
       <source>Debug</source>
       <translation>Отладка</translation>
     </message>
     <message>
-      <source>Reset Layout</source>
-      <translation>Сбросить оформление</translation>
-    </message>
-    <message>
-      <source>Reset layout</source>
-      <translation>Сбросить оформление</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="227"/>
-      <source>Zen Mode</source>
-      <translation>Режим &quot;Дзен&quot;</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="230"/>
-      <source>Zen mode</source>
-      <translation>Режим &quot;Дзен&quot;</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="235"/>
-      <source>About</source>
-      <translation>О программе</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="240"/>
-      <source>Report an issue</source>
-      <translation>Сообщить об ошибке</translation>
-    </message>
-    <message>
-      <source>New</source>
-      <translation>Создать</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="248"/>
-      <source>Ctrl+N</source>
-      <translation>Ctrl+N</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="253"/>
-      <source>Close</source>
-      <translation>Закрыть</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="258"/>
-      <location filename="../core/MainWindow.ui" line="261"/>
-      <location filename="../core/MainWindow.ui" line="847"/>
-      <location filename="../core/MainWindow.cpp" line="1207"/>
-      <source>Save layout</source>
-      <translation>Сохранить оформление</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="266"/>
-      <source>Documentation</source>
-      <translation>Документация</translation>
-    </message>
-    <message>
-      <source>Open</source>
-      <translation>Открыть</translation>
-    </message>
-    <message>
-      <source>Ctrl+O</source>
-      <translation>Ctrl+O</translation>
-    </message>
-    <message>
-      <source>Save</source>
-      <translation>Сохранить</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="282"/>
-      <source>Ctrl+S</source>
-      <translation>Ctrl+S</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="340"/>
-      <source>Undo Seek</source>
-      <translation>Отменить</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="352"/>
-      <source>Redo Seek</source>
-      <translation>Повторить</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="287"/>
-      <source>Cut</source>
-      <translation>Вырезать</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="222"/>
+      <location filename="../core/MainWindow.ui" line="225"/>
       <source>Reset to default layout</source>
       <translation>Вернуть стандартное расположение</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="245"/>
+      <location filename="../core/MainWindow.ui" line="230"/>
+      <source>Zen Mode</source>
+      <translation>Режим &quot;Дзен&quot;</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.ui" line="233"/>
+      <source>Zen mode</source>
+      <translation>Режим &quot;Дзен&quot;</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.ui" line="238"/>
+      <source>About</source>
+      <translation>О программе</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.ui" line="243"/>
+      <source>Report an issue</source>
+      <translation>Сообщить об ошибке</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.ui" line="248"/>
       <source>New Window</source>
       <translation>Новое окно</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="271"/>
+      <location filename="../core/MainWindow.ui" line="251"/>
+      <source>Ctrl+N</source>
+      <translation>Ctrl+N</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.ui" line="256"/>
+      <source>Close</source>
+      <translation>Закрыть</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.ui" line="261"/>
+      <location filename="../core/MainWindow.ui" line="264"/>
+      <location filename="../core/MainWindow.ui" line="860"/>
+      <location filename="../core/MainWindow.cpp" line="1237"/>
+      <source>Save layout</source>
+      <translation>Сохранить оформление</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.ui" line="269"/>
+      <source>Documentation</source>
+      <translation>Документация</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.ui" line="274"/>
       <source>Map File</source>
       <translation>Отображение файла в память</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="274"/>
+      <location filename="../core/MainWindow.ui" line="277"/>
       <source>Ctrl+M</source>
       <translation>Ctrl+M</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="279"/>
-      <location filename="../core/MainWindow.cpp" line="712"/>
-      <location filename="../core/MainWindow.cpp" line="735"/>
+      <location filename="../core/MainWindow.ui" line="282"/>
+      <location filename="../core/MainWindow.cpp" line="723"/>
+      <location filename="../core/MainWindow.cpp" line="746"/>
       <source>Save Project</source>
       <translation>Сохранить проект</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="292"/>
+      <location filename="../core/MainWindow.ui" line="285"/>
+      <source>Ctrl+S</source>
+      <translation>Ctrl+S</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.ui" line="290"/>
+      <source>Cut</source>
+      <translation>Вырезать</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.ui" line="295"/>
       <source>Copy</source>
       <translation>Копировать</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="297"/>
-      <location filename="../core/MainWindow.ui" line="503"/>
+      <location filename="../core/MainWindow.ui" line="300"/>
+      <location filename="../core/MainWindow.ui" line="506"/>
       <source>Paste</source>
       <translation>Вставить</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="302"/>
+      <location filename="../core/MainWindow.ui" line="305"/>
       <source>Delete</source>
       <translation>Удалить</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="307"/>
       <location filename="../core/MainWindow.ui" line="310"/>
+      <location filename="../core/MainWindow.ui" line="313"/>
       <source>Select all</source>
       <translation>Выделить все</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="315"/>
+      <location filename="../core/MainWindow.ui" line="318"/>
       <source>Find</source>
       <translation>Найти</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="320"/>
       <location filename="../core/MainWindow.ui" line="323"/>
+      <location filename="../core/MainWindow.ui" line="326"/>
       <source>Find next</source>
       <translation>Найти далее</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="328"/>
       <location filename="../core/MainWindow.ui" line="331"/>
+      <location filename="../core/MainWindow.ui" line="334"/>
       <source>Find previous</source>
       <translation>Найти предыдущее</translation>
     </message>
     <message>
-      <source>Back</source>
-      <translation>Назад</translation>
+      <location filename="../core/MainWindow.ui" line="343"/>
+      <source>Undo Seek</source>
+      <translation>Отменить</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="343"/>
+      <location filename="../core/MainWindow.ui" line="346"/>
       <source>Go back</source>
       <translation>Вернуться</translation>
     </message>
     <message>
-      <source>Forward</source>
-      <translation>Вперед</translation>
+      <location filename="../core/MainWindow.ui" line="355"/>
+      <source>Redo Seek</source>
+      <translation>Повторить</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="363"/>
+      <location filename="../core/MainWindow.ui" line="366"/>
       <source>Unlock Panels</source>
       <translation>Разблокировать панели</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="366"/>
+      <location filename="../core/MainWindow.ui" line="369"/>
       <source>Toggle panel locks</source>
       <translation>Переключить блокировку панелей</translation>
     </message>
     <message>
-      <source>Lock/Unlock</source>
-      <translation>Блокировать/Разблокировать</translation>
-    </message>
-    <message>
-      <source>Strings</source>
-      <translation>Строки</translation>
-    </message>
-    <message>
-      <source>Show/Hide Strings panel</source>
-      <translation>Показать/скрыть панель строк</translation>
-    </message>
-    <message>
-      <source>Sections</source>
-      <translation>Разделы</translation>
-    </message>
-    <message>
-      <source>Show/Hide Sections panel</source>
-      <translation>Показать/скрыть панель секций</translation>
-    </message>
-    <message>
-      <source>Segments</source>
-      <translation>Сегменты</translation>
-    </message>
-    <message>
-      <source>Show/Hide Segments panel</source>
-      <translation>Показать/скрыть панель сегментов</translation>
-    </message>
-    <message>
-      <source>Functions</source>
-      <translation>Функции</translation>
-    </message>
-    <message>
-      <source>Show/Hide Functions panel</source>
-      <translation>Показать/скрыть панель функций</translation>
-    </message>
-    <message>
-      <source>Imports</source>
-      <translation>Импорт</translation>
-    </message>
-    <message>
-      <source>Show/Hide Imports panel</source>
-      <translation>Показать/скрыть панель импорта</translation>
-    </message>
-    <message>
-      <source>Symbols</source>
-      <translation>Символы</translation>
-    </message>
-    <message>
-      <source>Show/Hide Symbols panel</source>
-      <translation>Показать/скрыть панель символов</translation>
-    </message>
-    <message>
-      <source>Relocs</source>
-      <translation>Relocs</translation>
-    </message>
-    <message>
-      <source>Show/Hide Relocs panel</source>
-      <translation>Показать/скрыть панель передислокации</translation>
-    </message>
-    <message>
-      <source>Flags</source>
-      <translation>Флаги</translation>
-    </message>
-    <message>
-      <source>Show/Hide Flags panel</source>
-      <translation>Показать/скрыть панель флагов</translation>
-    </message>
-    <message>
-      <source>Memory</source>
-      <translation>Память</translation>
-    </message>
-    <message>
-      <source>Show/Hide Memory panel</source>
-      <translation>Показать/скрыть панель памяти</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="385"/>
+      <location filename="../core/MainWindow.ui" line="388"/>
       <source>Theme</source>
       <translation>Тема</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="400"/>
       <location filename="../core/MainWindow.ui" line="403"/>
+      <location filename="../core/MainWindow.ui" line="406"/>
       <source>Tabs up/down</source>
       <translation>Верхние/Нижние вкладки</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="412"/>
+      <location filename="../core/MainWindow.ui" line="415"/>
       <source>Refresh</source>
       <translation>Обновить</translation>
     </message>
     <message>
-      <source>Comments</source>
-      <translation>Комментарии</translation>
-    </message>
-    <message>
-      <source>Show/Hide comments</source>
-      <translation>Показать/скрыть комментарии</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="420"/>
+      <location filename="../core/MainWindow.ui" line="423"/>
       <source>Show Tabs at the Top</source>
       <translation>Показывать вкладки в верхней части</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="423"/>
+      <location filename="../core/MainWindow.ui" line="426"/>
       <source>Toggle tab position</source>
       <translation>Переключить позицию таба</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="428"/>
+      <location filename="../core/MainWindow.ui" line="431"/>
       <source>Dark Theme</source>
       <translation>Тёмная тема</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="433"/>
       <location filename="../core/MainWindow.ui" line="436"/>
+      <location filename="../core/MainWindow.ui" line="439"/>
       <source>Load layout</source>
       <translation>Загрузить оформление</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="441"/>
+      <location filename="../core/MainWindow.ui" line="444"/>
       <source>Default Theme</source>
       <translation>Оформление по-умолчанию</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="446"/>
+      <location filename="../core/MainWindow.ui" line="449"/>
       <source>Bindiff</source>
       <translation>Bindiff</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="451"/>
+      <location filename="../core/MainWindow.ui" line="454"/>
       <source>Analysis</source>
       <translation>Анализ</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="456"/>
+      <location filename="../core/MainWindow.ui" line="459"/>
       <source>Test menu</source>
       <translation>Тестовое меню</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="461"/>
       <location filename="../core/MainWindow.ui" line="464"/>
+      <location filename="../core/MainWindow.ui" line="467"/>
       <source>Copy hexpair</source>
       <translation>Копировать шестнадцатеричную строку</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="469"/>
       <location filename="../core/MainWindow.ui" line="472"/>
+      <location filename="../core/MainWindow.ui" line="475"/>
       <source>Copy text</source>
       <translation>Скопировать текст</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="477"/>
+      <location filename="../core/MainWindow.ui" line="480"/>
       <source>Copy ASCII</source>
       <translation>Копировать ASCII</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="482"/>
       <location filename="../core/MainWindow.ui" line="485"/>
+      <location filename="../core/MainWindow.ui" line="488"/>
       <source>Insert string</source>
       <translation>Вставить строку</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="490"/>
       <location filename="../core/MainWindow.ui" line="493"/>
+      <location filename="../core/MainWindow.ui" line="496"/>
       <source>Insert hex</source>
       <translation>Вставить шестнадцатеричную строку</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="508"/>
+      <location filename="../core/MainWindow.ui" line="511"/>
       <source>Show/Hide bytes</source>
       <translation>Показать/скрыть байты</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="513"/>
+      <location filename="../core/MainWindow.ui" line="516"/>
       <source>Switch case</source>
       <translation>Switch case</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="518"/>
       <location filename="../core/MainWindow.ui" line="521"/>
+      <location filename="../core/MainWindow.ui" line="524"/>
       <source>Copy all</source>
       <translation>Копировать все</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="526"/>
       <location filename="../core/MainWindow.ui" line="529"/>
+      <location filename="../core/MainWindow.ui" line="532"/>
       <source>Copy bytes</source>
       <translation>Копировать байты</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="534"/>
       <location filename="../core/MainWindow.ui" line="537"/>
-      <location filename="../core/MainWindow.ui" line="542"/>
+      <location filename="../core/MainWindow.ui" line="540"/>
       <location filename="../core/MainWindow.ui" line="545"/>
+      <location filename="../core/MainWindow.ui" line="548"/>
       <source>Copy disasm</source>
       <translation>Скопировать дизассемблерный листинг</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="557"/>
       <location filename="../core/MainWindow.ui" line="560"/>
+      <location filename="../core/MainWindow.ui" line="563"/>
       <source>Start web server</source>
       <translation>Запустить web-сервер</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="565"/>
+      <location filename="../core/MainWindow.ui" line="568"/>
       <source>1</source>
       <translation>1</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="570"/>
+      <location filename="../core/MainWindow.ui" line="573"/>
       <source>2</source>
       <translation>2</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="575"/>
+      <location filename="../core/MainWindow.ui" line="578"/>
       <source>4</source>
       <translation>4</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="580"/>
+      <location filename="../core/MainWindow.ui" line="583"/>
       <source>8</source>
       <translation>8</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="585"/>
+      <location filename="../core/MainWindow.ui" line="588"/>
       <source>16</source>
       <translation>16</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="590"/>
+      <location filename="../core/MainWindow.ui" line="593"/>
       <source>32</source>
       <translation>32</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="595"/>
+      <location filename="../core/MainWindow.ui" line="598"/>
       <source>64</source>
       <translation>64</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="600"/>
+      <location filename="../core/MainWindow.ui" line="603"/>
       <source>Syntax AT&amp;T/Intel</source>
       <translation>Синтаксис AT&amp;T/Intel</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="605"/>
-      <location filename="../core/MainWindow.ui" line="615"/>
+      <location filename="../core/MainWindow.ui" line="608"/>
+      <location filename="../core/MainWindow.ui" line="618"/>
       <source>Rename</source>
       <translation>Переименовать</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="610"/>
-      <location filename="../core/MainWindow.ui" line="620"/>
+      <location filename="../core/MainWindow.ui" line="613"/>
+      <location filename="../core/MainWindow.ui" line="623"/>
       <source>Undefine</source>
       <translation>Неопределенный</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="625"/>
+      <location filename="../core/MainWindow.ui" line="628"/>
       <source>Add comment</source>
       <translation>Добавить комментарий</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="637"/>
       <location filename="../core/MainWindow.ui" line="640"/>
+      <location filename="../core/MainWindow.ui" line="643"/>
       <source>Show/Hide bottom pannel</source>
       <translation>Показать/скрыть нижнюю панелью</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="645"/>
+      <location filename="../core/MainWindow.ui" line="648"/>
       <source>Run Rizin script</source>
       <translation>Запустить скрипт Rizin</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="717"/>
-      <source>Save Project As...</source>
-      <translation>Сохранить проект как...</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="735"/>
-      <source>Analyze Program</source>
-      <translation>Анализировать программу</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="809"/>
-      <source>Commit changes</source>
-      <translation>Применить изменения</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="817"/>
-      <source>Write mode</source>
-      <translation>Режим записи</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="820"/>
-      <source>Open the file in write mode. Every change to the file will change the original file on disk.</source>
-      <translation>Открыть файл в режиме записи. Каждое изменение файла изменит исходный файл на диске.</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="828"/>
-      <source>Cache mode</source>
-      <translation>Режим кэширования</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="831"/>
-      <source>Enable cache mode. Changes to the file would not be applied to disk unless you specifically commit them. This is a safer option.</source>
-      <translation>Включить режим кэширования. Изменения в файле не будут записаны на диска, пока вы их не примените. Это более безопасный вариант.</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="842"/>
-      <source>Read-Only mode</source>
-      <translation>Режим только для чтения</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="852"/>
-      <source>Manage layouts</source>
-      <translation>Управление расположением</translation>
-    </message>
-    <message>
-      <source>SDB Browser</source>
-      <translation>SDB обозреватель</translation>
-    </message>
-    <message>
-      <source>Run Script</source>
-      <translation>Запустить скрипт</translation>
-    </message>
-    <message>
-      <source>Dashboard</source>
-      <translation>Панель мониторинга</translation>
-    </message>
-    <message>
-      <source>Show/Hide Dashboard panel</source>
-      <translation>Показать/скрыть информационную панель</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="650"/>
+      <location filename="../core/MainWindow.ui" line="653"/>
       <source>Reset Settings</source>
       <translation>Сбросить настройки</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="653"/>
+      <location filename="../core/MainWindow.ui" line="656"/>
       <source>Reset settings</source>
       <translation>Сбросить настройки</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="658"/>
+      <location filename="../core/MainWindow.ui" line="661"/>
       <source>Quit</source>
       <translation>Выход</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="661"/>
+      <location filename="../core/MainWindow.ui" line="664"/>
       <source>Ctrl+Q</source>
       <translation>Ctrl+Q</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="669"/>
+      <location filename="../core/MainWindow.ui" line="672"/>
       <source>Exports</source>
       <translation>Экспорт</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="672"/>
+      <location filename="../core/MainWindow.ui" line="675"/>
       <source>Show/Hide Exports panel</source>
       <translation>Показать/скрыть панель экспорта</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="677"/>
+      <location filename="../core/MainWindow.ui" line="680"/>
       <source>Refresh Contents</source>
       <translation>Обновить содержимое</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="680"/>
+      <location filename="../core/MainWindow.ui" line="683"/>
       <source>Refresh contents</source>
       <translation>Обновить содержимое</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="688"/>
+      <location filename="../core/MainWindow.ui" line="691"/>
       <source>Show ESIL rather than assembly</source>
       <translation>Показать ESIL вместо ассемблера</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="696"/>
+      <location filename="../core/MainWindow.ui" line="699"/>
       <source>Show pseudocode rather than assembly</source>
       <translation>Показать псевдокод вместо ассемблера</translation>
     </message>
     <message>
-      <source>Entry Points</source>
-      <translation>Точка входа</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="707"/>
+      <location filename="../core/MainWindow.ui" line="710"/>
       <source>Display offsets</source>
       <translation>Отобразить смещения</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="712"/>
+      <location filename="../core/MainWindow.ui" line="715"/>
       <source>Preferences</source>
       <translation>Параметры</translation>
     </message>
     <message>
-      <source>Save As...</source>
-      <translation>Сохранить как...</translation>
+      <location filename="../core/MainWindow.ui" line="720"/>
+      <source>Save Project As...</source>
+      <translation>Сохранить проект как...</translation>
     </message>
     <message>
-      <source>Graph Overview</source>
-      <translation>Обзор графа</translation>
-    </message>
-    <message>
-      <source>Decompiler</source>
-      <translation>Декомпилятор</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="745"/>
-      <source>Add Hexdump</source>
-      <translation>Добавить шестнадцатеричный дамп</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="750"/>
-      <source>Add Decompiler</source>
-      <translation>Добавить окно декомпилятора</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="755"/>
-      <source>Add Disassembly</source>
-      <translation>Добавить дизассемблерный листинг</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="760"/>
-      <source>Add Graph</source>
-      <translation>Добавить граф</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="771"/>
-      <source>Grouped dock dragging</source>
-      <translation>Группировка перетаскиванием</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="776"/>
-      <source>Zoom In</source>
-      <translation>Приблизить</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="779"/>
-      <source>Ctrl++</source>
-      <translation>Ctrl++</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="787"/>
-      <source>Zoom Out</source>
-      <translation>Отдалить</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="790"/>
-      <source>Ctrl+-</source>
-      <translation>Ctrl+-</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="798"/>
-      <source>Reset</source>
-      <translation>Сбросить</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="801"/>
-      <source>Ctrl+=</source>
-      <translation>Ctrl+=</translation>
-    </message>
-    <message>
-      <source>Tmp</source>
-      <translation>Tmp</translation>
-    </message>
-    <message>
-      <source>Disassembly</source>
-      <translation>Дизассемблер</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="725"/>
+      <location filename="../core/MainWindow.ui" line="728"/>
       <source>Graph</source>
       <translation>Граф</translation>
     </message>
     <message>
-      <source>Pseudocode</source>
-      <translation>Псевдокод</translation>
-    </message>
-    <message>
-      <source>Hexdump</source>
-      <translation type="unfinished">Hexdump</translation>
-    </message>
-    <message>
-      <source>Sidebar</source>
-      <translation>Боковая панель</translation>
-    </message>
-    <message>
-      <source>Console</source>
-      <translation>Консоль</translation>
-    </message>
-    <message>
-      <source>Stack</source>
-      <translation>Стек</translation>
-    </message>
-    <message>
-      <source>Registers</source>
-      <translation>Регистры</translation>
-    </message>
-    <message>
-      <source>Backtrace</source>
-      <translation>Обратная трассировка</translation>
-    </message>
-    <message>
-      <source>Threads</source>
-      <translation>Потоки</translation>
-    </message>
-    <message>
-      <source>Processes</source>
-      <translation>Процессы</translation>
-    </message>
-    <message>
-      <source>Memory map</source>
-      <translation>Карта памяти</translation>
-    </message>
-    <message>
-      <source>Breakpoints</source>
-      <translation>Точки останова</translation>
-    </message>
-    <message>
-      <source>Register References</source>
-      <translation>Ссылки на регистр</translation>
-    </message>
-    <message>
-      <source>Classes</source>
-      <translation>Классы</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="730"/>
+      <location filename="../core/MainWindow.ui" line="733"/>
       <source>Import PDB</source>
       <translation>Импорт PDB</translation>
     </message>
     <message>
-      <source>Analyze</source>
-      <translation>Анализ</translation>
+      <location filename="../core/MainWindow.ui" line="738"/>
+      <source>Analyze Program</source>
+      <translation>Анализировать программу</translation>
     </message>
     <message>
-      <source>Resources</source>
-      <translation>Ресурсы</translation>
-    </message>
-    <message>
-      <source>VTables</source>
-      <translation>Виртуальные таблицы</translation>
-    </message>
-    <message>
-      <source>Show/Hide VTables panel</source>
-      <translation>Показать/скрыть панель виртуальных таблиц</translation>
-    </message>
-    <message>
-      <source>Types</source>
-      <translation>Типы</translation>
-    </message>
-    <message>
-      <source>Show/Hide Types panel</source>
-      <translation>Показать/скрыть панель типов</translation>
-    </message>
-    <message>
-      <source>Search</source>
-      <translation>Поиск</translation>
-    </message>
-    <message>
-      <source>Show/Hide Search panel</source>
-      <translation>Показать/скрыть панель поиска</translation>
-    </message>
-    <message>
-      <source>Headers</source>
-      <translation>Заголовки</translation>
-    </message>
-    <message>
-      <source>Show/Hide Headers panel</source>
-      <translation>Показать/скрыть панель заголовков</translation>
-    </message>
-    <message>
-      <source>Zignatures</source>
-      <translation>Сигнатуры</translation>
-    </message>
-    <message>
-      <source>Show/Hide Zignatures panel</source>
-      <translation>Показать/скрыть панель сигнатур</translation>
-    </message>
-    <message>
-      <source>Jupyter</source>
-      <translation type="unfinished">Jupyter</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.ui" line="740"/>
-      <location filename="../core/MainWindow.cpp" line="1697"/>
+      <location filename="../core/MainWindow.ui" line="743"/>
       <source>Export as code</source>
       <translation>Экспортировать как код</translation>
     </message>
     <message>
-      <source>Hexdump view</source>
-      <translation>Дамп</translation>
+      <location filename="../core/MainWindow.ui" line="748"/>
+      <location filename="../core/MainWindow.cpp" line="1793"/>
+      <source>Apply Signature From File</source>
+      <translation type="unfinished">Apply Signature From File</translation>
     </message>
     <message>
-      <source>Disassembly view</source>
-      <translation>Дизассемблер</translation>
+      <location filename="../core/MainWindow.ui" line="753"/>
+      <location filename="../core/MainWindow.cpp" line="1814"/>
+      <source>Create New Signature File</source>
+      <translation type="unfinished">Create New Signature File</translation>
     </message>
     <message>
-      <source>Graph view</source>
-      <translation>Представление в виде графа</translation>
+      <location filename="../core/MainWindow.ui" line="758"/>
+      <source>Add Hexdump</source>
+      <translation>Добавить шестнадцатеричный дамп</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="533"/>
+      <location filename="../core/MainWindow.ui" line="763"/>
+      <source>Add Decompiler</source>
+      <translation>Добавить окно декомпилятора</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.ui" line="768"/>
+      <source>Add Disassembly</source>
+      <translation>Добавить дизассемблерный листинг</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.ui" line="773"/>
+      <source>Add Graph</source>
+      <translation>Добавить граф</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.ui" line="784"/>
+      <source>Grouped dock dragging</source>
+      <translation>Группировка перетаскиванием</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.ui" line="789"/>
+      <source>Zoom In</source>
+      <translation>Приблизить</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.ui" line="792"/>
+      <source>Ctrl++</source>
+      <translation>Ctrl++</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.ui" line="800"/>
+      <source>Zoom Out</source>
+      <translation>Отдалить</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.ui" line="803"/>
+      <source>Ctrl+-</source>
+      <translation>Ctrl+-</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.ui" line="811"/>
+      <source>Reset</source>
+      <translation>Сбросить</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.ui" line="814"/>
+      <source>Ctrl+=</source>
+      <translation>Ctrl+=</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.ui" line="822"/>
+      <source>Commit changes</source>
+      <translation>Применить изменения</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.ui" line="830"/>
+      <source>Write mode</source>
+      <translation>Режим записи</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.ui" line="833"/>
+      <source>Open the file in write mode. Every change to the file will change the original file on disk.</source>
+      <translation>Открыть файл в режиме записи. Каждое изменение файла изменит исходный файл на диске.</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.ui" line="841"/>
+      <source>Cache mode</source>
+      <translation>Режим кэширования</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.ui" line="844"/>
+      <source>Enable cache mode. Changes to the file would not be applied to disk unless you specifically commit them. This is a safer option.</source>
+      <translation>Включить режим кэширования. Изменения в файле не будут записаны на диска, пока вы их не примените. Это более безопасный вариант.</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.ui" line="855"/>
+      <source>Read-Only mode</source>
+      <translation>Режим только для чтения</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.ui" line="865"/>
+      <source>Manage layouts</source>
+      <translation>Управление расположением</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.cpp" line="252"/>
+      <source>No plugins are installed. Check the plugins section on Cutter documentation to learn more.</source>
+      <translation>Плагины не установлены. Обратитесь к разделу плагинов в документации Cutter для получения дополнительной информации.</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.cpp" line="257"/>
+      <source>The installed plugins didn&apos;t add entries to this menu.</source>
+      <translation>Установленные плагины не добавили записи в это меню.</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.cpp" line="537"/>
       <source>Script loading</source>
       <translation>Загрузка скрипта</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="534"/>
+      <location filename="../core/MainWindow.cpp" line="538"/>
       <source>Do you want to load the &apos;%1&apos; script?</source>
       <translation>Вы хотите загрузить &apos;%1&apos; скрипт?</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="552"/>
+      <location filename="../core/MainWindow.cpp" line="556"/>
       <source>Cannot open file!</source>
       <translation>Не удается открыть файл!</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="553"/>
+      <location filename="../core/MainWindow.cpp" line="557"/>
       <source>Could not open the file! Make sure the file exists and that you have the correct permissions.</source>
       <translation>Не удалось открыть файл! Убедитесь, что файл существует и у вас есть верные права.</translation>
     </message>
     <message>
-      <source> &gt; Populating UI</source>
-      <translation> &gt; Наполнение пользовательского интерфейса</translation>
+      <location filename="../core/MainWindow.cpp" line="620"/>
+      <source>Failed to open project: %1</source>
+      <translation>Не удалось открыть проект: %1</translation>
     </message>
     <message>
-      <source> &gt; Finished, happy reversing :)</source>
-      <translation> &gt; Готово, счастливого реверса :)</translation>
+      <location filename="../core/MainWindow.cpp" line="625"/>
+      <source>Open Project</source>
+      <translation>Открыть проект</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="764"/>
+      <location filename="../core/MainWindow.cpp" line="747"/>
+      <source>Failed to save project: %1</source>
+      <translation>Не удалось сохранить проект: %1</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.cpp" line="775"/>
       <source>Do you really want to exit?
 Save your project before closing!</source>
       <translation>Вы действительно хотите выйти?
 Сохраните проект перед закрытием!</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1038"/>
+      <location filename="../core/MainWindow.cpp" line="1050"/>
       <source>New disassembly</source>
       <translation>Добавить дизассемблерный листинг</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1040"/>
+      <location filename="../core/MainWindow.cpp" line="1052"/>
       <source>New graph</source>
       <translation>Добавить граф</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1042"/>
+      <location filename="../core/MainWindow.cpp" line="1054"/>
       <source>New hexdump</source>
       <translation>Добавить шестнадцатеричный дамп</translation>
     </message>
     <message>
-      <source>Select radare2 script</source>
-      <translation>Выберите скрипт radare2</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.cpp" line="251"/>
-      <source>No plugins are installed. Check the plugins section on Cutter documentation to learn more.</source>
-      <translation>Плагины не установлены. Обратитесь к разделу плагинов в документации Cutter для получения дополнительной информации.</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.cpp" line="256"/>
-      <source>The installed plugins didn&apos;t add entries to this menu.</source>
-      <translation>Установленные плагины не добавили записи в это меню.</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.cpp" line="616"/>
-      <source>Failed to open project: %1</source>
-      <translation>Не удалось открыть проект: %1</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.cpp" line="619"/>
-      <source>Open Project</source>
-      <translation>Открыть проект</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.cpp" line="1043"/>
+      <location filename="../core/MainWindow.cpp" line="1055"/>
       <source>New Decompiler</source>
       <translation>Новое окно декомпилятора</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1204"/>
+      <location filename="../core/MainWindow.cpp" line="1234"/>
       <source>Save layout error</source>
       <translation>Ошибка сохранения расположения</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1205"/>
+      <location filename="../core/MainWindow.cpp" line="1235"/>
       <source>&apos;%1&apos; is not a valid name.</source>
       <translation>&apos;%1&apos; не является допустимым именем.</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1207"/>
+      <location filename="../core/MainWindow.cpp" line="1237"/>
       <source>Enter name</source>
       <translation>Введите имя</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1514"/>
+      <location filename="../core/MainWindow.cpp" line="1548"/>
       <source>Select Rizin script</source>
       <translation>Выберите скрипт Rizin</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1557"/>
+      <location filename="../core/MainWindow.cpp" line="1591"/>
       <source>Do you really want to clear all settings?</source>
       <translation>Вы действительно хотите сбросить все настройки?</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1651"/>
+      <location filename="../core/MainWindow.cpp" line="1685"/>
       <source>Select PDB file</source>
       <translation>Выберите PDB файл</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1652"/>
+      <location filename="../core/MainWindow.cpp" line="1686"/>
       <source>PDB file (*.pdb)</source>
       <translation>PDB-файл (*.pdb)</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1652"/>
+      <location filename="../core/MainWindow.cpp" line="1686"/>
       <source>All files (*)</source>
       <translation>Все файлы (*)</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1662"/>
+      <location filename="../core/MainWindow.cpp" line="1696"/>
       <source>%1 loaded.</source>
       <translation>%1 загружен.</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1672"/>
-      <source>C uin8_t array (*.c)</source>
-      <translation>C uin8_t array (*.c)</translation>
+      <location filename="../core/MainWindow.cpp" line="1789"/>
+      <location filename="../core/MainWindow.cpp" line="1811"/>
+      <source>Signature File (*.sig)</source>
+      <translation type="unfinished">Signature File (*.sig)</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1674"/>
-      <source>C uin16_t array (*.c)</source>
-      <translation>C uin16_t array (*.c)</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.cpp" line="1676"/>
-      <source>C uin32_t array (*.c)</source>
-      <translation>C uin32_t array (*.c)</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.cpp" line="1678"/>
-      <source>C uin64_t array (*.c)</source>
-      <translation>C uin64_t array (*.c)</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.cpp" line="1680"/>
-      <source>C string (*.c)</source>
-      <translation>C string (*.c)</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.cpp" line="1682"/>
-      <source>Shell-script that reconstructs the bin (*.sh)</source>
-      <translation>Шелл-скрипт реконструирующий двоичный файл (*.sh)</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.cpp" line="1684"/>
-      <source>JSON array (*.json)</source>
-      <translation>JSON массив(*.json)</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.cpp" line="1686"/>
-      <source>JavaScript array (*.js)</source>
-      <translation>JavaScript массив(*.js)</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.cpp" line="1688"/>
-      <source>Python array (*.py)</source>
-      <translation>Python массив(*.py)</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.cpp" line="1690"/>
-      <source>Print &apos;wx&apos; Rizin commands (*.rz)</source>
-      <translation>Печатать &apos;wx&apos; команды Rizin (*.rz)</translation>
-    </message>
-    <message>
-      <source>Print &apos;wx&apos; r2 commands (*.r2)</source>
-      <translation>Введите &apos;wx&apos; r2 команды (*.r2)</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.cpp" line="1692"/>
-      <source>GAS .byte blob (*.asm, *.s)</source>
-      <translation>GAS .byte blob (*.asm, *.s)</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.cpp" line="1694"/>
-      <source>.bytes with instructions in comments (*.txt)</source>
-      <translation>.bytes c инструкциями в комментариях (*.txt)</translation>
-    </message>
-    <message>
-      <source>Project saved: %1</source>
-      <translation>Проект сохранен: %1</translation>
-    </message>
-    <message>
-      <location filename="../core/MainWindow.cpp" line="736"/>
-      <source>Failed to save project: %1</source>
-      <translation>Не удалось сохранить проект: %1</translation>
-    </message>
-    <message>
-      <source>Project saved:</source>
-      <translation>Проект сохранен:</translation>
+      <location filename="../core/MainWindow.cpp" line="1790"/>
+      <location filename="../core/MainWindow.cpp" line="1812"/>
+      <source>Pattern File (*.pat)</source>
+      <translation type="unfinished">Pattern File (*.pat)</translation>
     </message>
   </context>
   <context>
@@ -6219,13 +5501,6 @@ Save your project before closing!</source>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
       <source>Failed to map a new file</source>
       <translation>Не удалось отобразить новый файл в память</translation>
-    </message>
-  </context>
-  <context>
-    <name>MemoryDockWidget</name>
-    <message>
-      <source>Sync/unsync offset</source>
-      <translation>Синхронизация/десинхронизация смещения</translation>
     </message>
   </context>
   <context>
@@ -6304,24 +5579,20 @@ Save your project before closing!</source>
       <translation>О программе</translation>
     </message>
     <message>
+      <location filename="../dialogs/NewFileDialog.ui" line="169"/>
+      <source>&lt;b&gt;Select new file&lt;b&gt;</source>
+      <translation>&lt;b&gt;Выберите новый файл&lt;b&gt;</translation>
+    </message>
+    <message>
       <location filename="../dialogs/NewFileDialog.ui" line="182"/>
       <location filename="../dialogs/NewFileDialog.ui" line="390"/>
       <source>Select</source>
       <translation>Выбрать</translation>
     </message>
     <message>
-      <location filename="../dialogs/NewFileDialog.ui" line="169"/>
-      <source>&lt;b&gt;Select new file&lt;b&gt;</source>
-      <translation>&lt;b&gt;Выберите новый файл&lt;b&gt;</translation>
-    </message>
-    <message>
       <location filename="../dialogs/NewFileDialog.ui" line="202"/>
       <source>&lt;b&gt;IO&lt;/b&gt;</source>
       <translation>&lt;b&gt;IO&lt;/b&gt;</translation>
-    </message>
-    <message>
-      <source>://</source>
-      <translation>://</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="296"/>
@@ -6356,15 +5627,6 @@ Save your project before closing!</source>
       <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Открыть проект&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-      <location filename="../dialogs/NewFileDialog.ui" line="534"/>
-      <source>Clear all projects</source>
-      <translation>Очистить все проекты</translation>
-    </message>
-    <message>
-      <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Projects path (dir.projects):&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Projects path (dir.projects):&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
       <location filename="../dialogs/NewFileDialog.ui" line="519"/>
       <source>Remove item</source>
       <translation>Удалить элемент</translation>
@@ -6380,38 +5642,27 @@ Save your project before closing!</source>
       <translation>Удалить проект</translation>
     </message>
     <message>
-      <location filename="../dialogs/NewFileDialog.cpp" line="92"/>
+      <location filename="../dialogs/NewFileDialog.ui" line="534"/>
+      <source>Clear all projects</source>
+      <translation>Очистить все проекты</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/NewFileDialog.cpp" line="95"/>
       <source>Select file</source>
       <translation>Выберите файл</translation>
     </message>
     <message>
-      <source>Select project path (dir.projects)</source>
-      <translation>Выбрать путь проекта (dir.projects)</translation>
-    </message>
-    <message>
-      <source>Permission denied</source>
-      <translation>Отказано в доступе</translation>
-    </message>
-    <message>
-      <source>You do not have write access to &lt;b&gt;%1&lt;/b&gt;</source>
-      <translation>У вас нет прав на запись в &lt;b&gt;%1&lt;/b&gt;</translation>
-    </message>
-    <message>
-      <source>Delete the project &quot;%1&quot; from disk ?</source>
-      <translation>Удалить проект &quot;%1&quot; с диска ?</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/NewFileDialog.cpp" line="104"/>
+      <location filename="../dialogs/NewFileDialog.cpp" line="107"/>
       <source>Open Project</source>
       <translation>Открыть проект</translation>
     </message>
     <message>
-      <location filename="../dialogs/NewFileDialog.cpp" line="287"/>
+      <location filename="../dialogs/NewFileDialog.cpp" line="290"/>
       <source>Open a file with no extra treatment.</source>
       <translation>Открыть файл без дополнительной обработки.</translation>
     </message>
     <message>
-      <location filename="../dialogs/NewFileDialog.cpp" line="319"/>
+      <location filename="../dialogs/NewFileDialog.cpp" line="322"/>
       <source>Select a new program or a previous one before continuing.</source>
       <translation>Выберите новую программу или последнюю перед тем, как продолжить.</translation>
     </message>
@@ -6425,42 +5676,7 @@ Save your project before closing!</source>
     </message>
   </context>
   <context>
-    <name>OpenFileDialog</name>
-    <message>
-      <source>Open file</source>
-      <translation>Открыть файл</translation>
-    </message>
-    <message>
-      <source>Select file</source>
-      <translation>Выберите файл</translation>
-    </message>
-    <message>
-      <source>Map address:</source>
-      <translation>Начальный адрес:</translation>
-    </message>
-    <message>
-      <source>File:</source>
-      <translation>Файл:</translation>
-    </message>
-    <message>
-      <source>Map address</source>
-      <translation>Адрес карты</translation>
-    </message>
-    <message>
-      <source>0x40000</source>
-      <translation>0x40000</translation>
-    </message>
-    <message>
-      <source>Failed to open file</source>
-      <translation>Не удалось открыть файл</translation>
-    </message>
-  </context>
-  <context>
     <name>PluginsOptionsWidget</name>
-    <message>
-      <source>Plugins are loaded from &lt;b&gt;%1&lt;/b&gt;</source>
-      <translation>Плагины загружаются из &lt;b&gt;%1&lt;/b&gt;</translation>
-    </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="28"/>
       <source>Plugins are loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
@@ -6490,10 +5706,6 @@ Save your project before closing!</source>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="48"/>
       <source>Show Rizin plugin information</source>
       <translation>Показать информацию о плагинах Rizin</translation>
-    </message>
-    <message>
-      <source>Show radare2 plugin information</source>
-      <translation>Показать информацию о плагинах radare2</translation>
     </message>
   </context>
   <context>
@@ -6580,761 +5792,22 @@ Save your project before closing!</source>
       <translation>Путь</translation>
     </message>
     <message>
-      <location filename="../widgets/ProcessesWidget.cpp" line="172"/>
+      <location filename="../widgets/ProcessesWidget.cpp" line="167"/>
       <source>Unable to switch to the requested process.</source>
       <translation>Не удается переключиться на запрошенный процесс.</translation>
     </message>
   </context>
   <context>
-    <name>PseudocodeWidget</name>
-    <message>
-      <source>Pseudocode</source>
-      <translation>Псевдокод</translation>
-    </message>
-    <message>
-      <source>Refresh</source>
-      <translation type="unfinished">Refresh</translation>
-    </message>
-    <message>
-      <source>Decompiler:</source>
-      <translation>Декомпилятор:</translation>
-    </message>
-    <message>
-      <source>r2dec</source>
-      <translation>r2dec</translation>
-    </message>
-    <message>
-      <source>pdc</source>
-      <translation>pdc</translation>
-    </message>
-    <message>
-      <source>Click Refresh to generate Pseudocode from current offset.</source>
-      <translation>Нажмите обновить для генерации псевдокода.</translation>
-    </message>
-    <message>
-      <source>Cannot decompile at</source>
-      <translation>Не удается декомпилировать по</translation>
-    </message>
-    <message>
-      <source>(Not a function?)</source>
-      <translation>(Нет функции?)</translation>
-    </message>
-  </context>
-  <context>
     <name>QObject</name>
     <message>
-      <source>A Qt and C++ GUI for radare2 reverse engineering framework</source>
-      <translation>Qt и C++ GUI для radare2 reverse engineering framework</translation>
+      <location filename="../common/DisassemblyPreview.cpp" line="41"/>
+      <source>More than one (%1) references here. Weird behaviour expected.</source>
+      <translation type="unfinished">More than one (%1) references here. Weird behaviour expected.</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="97"/>
-      <source>The version used to compile Cutter (%1) does not match the binary version of rizin (%2). This could result in unexpected behaviour. Are you sure you want to continue?</source>
-      <translation>Версия, используемая для компиляции Cutter (%1), не соответствует бинарной версии rizin (%2). Это может привести к неожиданному поведению. Вы уверены что хотите продолжить?</translation>
-    </message>
-    <message>
-      <location filename="../CutterApplication.cpp" line="317"/>
-      <source>A Qt and C++ GUI for rizin reverse engineering framework</source>
-      <translation>Qt и C++ GUI для фреймворка реверс-инжиниринга rizin</translation>
-    </message>
-    <message>
-      <location filename="../CutterApplication.cpp" line="320"/>
-      <source>Filename to open.</source>
-      <translation>Имя файла для открытия.</translation>
-    </message>
-    <message>
-      <location filename="../CutterApplication.cpp" line="324"/>
-      <source>Automatically open file and optionally start analysis. Needs filename to be specified. May be a value between 0 and 2: 0 = no analysis, 1 = aaa, 2 = aaaa (experimental)</source>
-      <translation>Автоматически открывать файл и при необходимости запускать анализ. Требуется указать имя файла. Значение может быть от 0 до 2: 0 = не анализировать, 1 = aaa, 2 = aaaa (экспериментальный)</translation>
-    </message>
-    <message>
-      <location filename="../CutterApplication.cpp" line="327"/>
-      <source>level</source>
-      <translation>уровень</translation>
-    </message>
-    <message>
-      <location filename="../CutterApplication.cpp" line="331"/>
-      <source>Force using a specific file format (bin plugin)</source>
-      <translation>Принудительное использование определенного формата файла (бинарный плагин)</translation>
-    </message>
-    <message>
-      <location filename="../CutterApplication.cpp" line="332"/>
-      <source>name</source>
-      <translation>название</translation>
-    </message>
-    <message>
-      <location filename="../CutterApplication.cpp" line="336"/>
-      <source>Load binary at a specific base address</source>
-      <translation>Загрузить бинарный файл с определенным базовым адресом</translation>
-    </message>
-    <message>
-      <location filename="../CutterApplication.cpp" line="337"/>
-      <source>base address</source>
-      <translation>базовый адрес</translation>
-    </message>
-    <message>
-      <location filename="../CutterApplication.cpp" line="340"/>
-      <source>Run script file</source>
-      <translation>Запустить скрипт</translation>
-    </message>
-    <message>
-      <location filename="../CutterApplication.cpp" line="340"/>
-      <source>file</source>
-      <translation>файл</translation>
-    </message>
-    <message>
-      <location filename="../CutterApplication.cpp" line="343"/>
-      <source>Load project file</source>
-      <translation>Загрузка файла проекта</translation>
-    </message>
-    <message>
-      <location filename="../CutterApplication.cpp" line="344"/>
-      <source>project file</source>
-      <translation>файл проекта</translation>
-    </message>
-    <message>
-      <location filename="../CutterApplication.cpp" line="348"/>
-      <source>Open file in write mode</source>
-      <translation>Открыть файл в режиме записи</translation>
-    </message>
-    <message>
-      <location filename="../CutterApplication.cpp" line="352"/>
-      <source>PYTHONHOME to use for embedded python interpreter</source>
-      <translation>PYTHONHOME чтобы использовать встроенные интерпретатор Python</translation>
-    </message>
-    <message>
-      <location filename="../CutterApplication.cpp" line="358"/>
-      <source>Disable output redirection. Some of the output in console widget will not be visible. Use this option when debuging a crash or freeze and output  redirection is causing some messages to be lost.</source>
-      <translation>Отключить перенаправление вывода. Некоторые выходные данные в консоли виджета не будут видны. Используйте эту опцию при отладке падений или зависаний, и когда перенаправление вывода вызывает потерю некоторых сообщений.</translation>
-    </message>
-    <message>
-      <location filename="../CutterApplication.cpp" line="364"/>
-      <source>Do not load plugins</source>
-      <translation>Не загружать плагины</translation>
-    </message>
-    <message>
-      <location filename="../CutterApplication.cpp" line="368"/>
-      <source>Do not load Cutter plugins</source>
-      <translation>Не загружать плагины Cutter</translation>
-    </message>
-    <message>
-      <location filename="../CutterApplication.cpp" line="372"/>
-      <source>Do not load rizin plugins</source>
-      <translation>Не загружать плагины rizin</translation>
-    </message>
-    <message>
-      <source>PYTHONHOME to use for Jupyter</source>
-      <translation>PYTHONHOME для использования Jupyter</translation>
-    </message>
-    <message>
-      <location filename="../CutterApplication.cpp" line="96"/>
-      <source>Version mismatch!</source>
-      <translation>Конфликт версии!</translation>
-    </message>
-    <message>
-      <source>The version used to compile Cutter (%1) does not match the binary version of radare2 (%2). This could result in unexpected behaviour. Are you sure you want to continue?</source>
-      <translation>Версия, используемая для компиляции Cutter (%1), не соответствует бинарной версии radare2 (%2). Это может привести к неожиданному поведению. Вы уверены что хотите продолжить?</translation>
-    </message>
-    <message>
-      <location filename="../CutterApplication.cpp" line="386"/>
-      <source>Invalid Analysis Level. May be a value between 0 and 2.</source>
-      <translation>Неверный уровень анализа. Допустимое значение находится между 0 и 2.</translation>
-    </message>
-    <message>
-      <location filename="../CutterApplication.cpp" line="406"/>
-      <source>Filename must be specified to start analysis automatically.</source>
-      <translation>Имя файла должно быть указано для автоматического запуска анализа.</translation>
-    </message>
-    <message>
-      <source>Color of comment generated by radare2</source>
-      <translation>Цвет комментариев созданных radare2</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="410"/>
-      <source>Comment</source>
-      <translation>Комментарий</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="410"/>
-      <source>Color of comment generated by Rizin</source>
-      <translation>Цвет комментариев, созданных Rizin</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="411"/>
-      <source>Comment created by user</source>
-      <translation>Комментарий созданный пользователем</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="411"/>
-      <source>Color of user Comment</source>
-      <translation>Цвет пользовательских комментариев</translation>
-    </message>
-    <message>
-      <source>Color of function arguments</source>
-      <translation>Цвет аргументов функции</translation>
-    </message>
-    <message>
-      <source>Arguments</source>
-      <translation>Аргументы</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="413"/>
-      <source>Color of names of functions</source>
-      <translation>Цвет для имени функций</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="413"/>
-      <source>Function name</source>
-      <translation>Имя функции</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="414"/>
-      <source>Color of function location</source>
-      <translation>Цвет расположения функции</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="414"/>
-      <source>Function location</source>
-      <translation>Расположение функции</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="416"/>
-      <source>Color of ascii line in left side that shows what opcodes are belong to function</source>
-      <translation>Цвет линии ascii в левой части показывает, какие опкоды принадлежат функции</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="418"/>
-      <source>Function line</source>
-      <translation>Линии функций</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="420"/>
-      <source>Color of flags (similar to bookmarks for offset)</source>
-      <translation>Цвет флагов (аналогично закладкам для смещения)</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="420"/>
-      <source>Flag</source>
-      <translation>Флаг</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="421"/>
-      <source>Label</source>
-      <translation>Метка</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="422"/>
-      <source>Help</source>
-      <translation>Справка</translation>
-    </message>
-    <message>
-      <source>flow</source>
-      <translation>flow</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="424"/>
-      <source>flow2</source>
-      <translation>flow2</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="425"/>
-      <location filename="../widgets/ColorThemeListView.cpp" line="427"/>
-      <source>Info</source>
-      <translation>Информация</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="425"/>
-      <source>prompt</source>
-      <translation>prompt</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="426"/>
-      <source>Color of offsets</source>
-      <translation>Цвет смещений</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="426"/>
-      <source>Offset</source>
-      <translation>Смещение</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="427"/>
-      <source>input</source>
-      <translation>ввод</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="428"/>
-      <source>Invalid opcode color</source>
-      <translation>Неверный цвет опкода</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="428"/>
-      <source>invalid</source>
-      <translation>неверный</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="429"/>
-      <source>other</source>
-      <translation>другое</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="430"/>
-      <source>0x00 opcode color</source>
-      <translation>Цвет 0x00 опкода</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="431"/>
-      <source>0x7f opcode color</source>
-      <translation>Цвет 0x7f опкода</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="432"/>
-      <source>0xff opcode color</source>
-      <translation>Цвет 0xff опкода</translation>
-    </message>
-    <message>
-      <source>arithmetic color (+, -, *, / etc.)</source>
-      <translation>цвет арифметических действий (+, -, *, / и т.д)</translation>
-    </message>
-    <message>
-      <source>bin</source>
-      <translation>bin</translation>
-    </message>
-    <message>
-      <source>btext</source>
-      <translation>btext</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="443"/>
-      <source>push opcode color</source>
-      <translation>Цвет push опкода</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="444"/>
-      <source>pop opcode color</source>
-      <translation>Цвет pop опкода</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="445"/>
-      <source>Cryptographic color</source>
-      <translation>Криптографический цвет</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="446"/>
-      <source>jmp instructions color</source>
-      <translation>цвет jmp инструкции</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="450"/>
-      <source>call instructions color (ccall, rcall, call etc)</source>
-      <translation>цвет инструкции call (ccall, rcall, call etc)</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="451"/>
-      <source>nop opcode color</source>
-      <translation>цвет nop опкода</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="452"/>
-      <source>ret opcode color</source>
-      <translation>цвет ret опкода</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="453"/>
-      <source>Color of interrupts</source>
-      <translation>Цвет прерываний</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="453"/>
-      <source>Interrupts</source>
-      <translation>Прерывания</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="454"/>
-      <source>swi opcode color</source>
-      <translation>цвет swi опкода</translation>
-    </message>
-    <message>
-      <source>cmp opcode color</source>
-      <translation>цвет cmp опкода</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="458"/>
-      <source>Registers color</source>
-      <translation>Цвет регистров</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="458"/>
-      <source>Register</source>
-      <translation>Регистр</translation>
-    </message>
-    <message>
-      <source>Numeric constants color</source>
-      <translation>Цвет числовых констант</translation>
-    </message>
-    <message>
-      <source>Numbers</source>
-      <translation>Цифры</translation>
-    </message>
-    <message>
-      <source>mov instructions color (mov, movd, movw etc</source>
-      <translation>цвет mov инструкции (mov, movd, movw etc</translation>
-    </message>
-    <message>
-      <source>mov</source>
-      <translation>mov</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="423"/>
-      <source>Color of lines showing jump destination</source>
-      <translation>Цвета линий показывают, показывающих место перехода</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="423"/>
-      <source>Flow</source>
-      <translation>Поток выполнения</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="434"/>
-      <source>Color of arithmetic opcodes (add, div, mul etc)</source>
-      <translation>Цвет арифметических команд (добавить, div, mul и т.д.)</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="435"/>
-      <source>Arithmetic</source>
-      <translation>Арифметические</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="437"/>
-      <source>Color of binary operations (and, or, xor etc).</source>
-      <translation>Цвет бинарных операций (and, or, xor и т.д.).</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="437"/>
-      <source>Binary</source>
-      <translation>Бинарные</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="439"/>
-      <source>Color of object names, commas between operators, squared brackets and operators inside them.</source>
-      <translation>Цвет имен объектов, запятых между операторами, квадратных скобок и операторов внутри них.</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="442"/>
-      <source>Text</source>
-      <translation>Текст</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="448"/>
-      <source>Color of conditional jump opcodes such as je, jg, jne etc</source>
-      <translation>Цвет команд условного перехода, таких как je, jg, jne и т.д.</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="449"/>
-      <source>Conditional jump</source>
-      <translation>Условный переход</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="456"/>
-      <source>Color of compare instructions such as test and cmp</source>
-      <translation>Цвет инструкций сравнения, таких как test и cmp</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="457"/>
-      <source>Compare instructions</source>
-      <translation>Инструкции сравнения</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="461"/>
-      <source>Color of numeric constants and object pointers</source>
-      <translation>Цвет числовых констант и указателей на объекты</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="461"/>
-      <source>Constants</source>
-      <translation>Константы</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="463"/>
-      <source>Color of move instructions such as mov, movd, lea etc</source>
-      <translation>Цвет инструкций перемещения, таких как mov, movd, lea и т.д.</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="464"/>
-      <source>Move instructions</source>
-      <translation>Инструкции перемещения</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="465"/>
-      <source>Function variable color</source>
-      <translation>Цвет переменной функции</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="465"/>
-      <source>Function variable</source>
-      <translation>Переменная функции</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="467"/>
-      <source>Function variable (local or argument) type color</source>
-      <translation>Тип цвета переменной функции (локальной или аргумента)</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="468"/>
-      <source>Variable type</source>
-      <translation>Тип переменной</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="470"/>
-      <source>Function variable address color</source>
-      <translation>Цвет адреса переменной функции</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="470"/>
-      <source>Variable address</source>
-      <translation>Адрес переменной</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="482"/>
-      <source>In graph view jump arrow true</source>
-      <translation>Стрелка истины в графическом представлении</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="482"/>
-      <source>Arrow true</source>
-      <translation>Стрелка истина</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="484"/>
-      <source>In graph view jump arrow false</source>
-      <translation>Стрелка лжи в графическом представлении</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="484"/>
-      <source>Arrow false</source>
-      <translation>Стрелка ложь</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="486"/>
-      <source>In graph view jump arrow (no condition)</source>
-      <translation>Стрелка прыжка в графическом представлении (без условия)</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="486"/>
-      <source>Arrow</source>
-      <translation>Стрелка</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="490"/>
-      <source>Background color of Graph Overview&apos;s node</source>
-      <translation>Цвет фона узла в графе</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="491"/>
-      <source>Graph Overview node</source>
-      <translation>Узел графа</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="493"/>
-      <source>Fill color of Graph Overview&apos;s selection</source>
-      <translation>Цвет заливки выделения в графе</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="494"/>
-      <source>Graph Overview fill</source>
-      <translation>Цвет заливки графа</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="496"/>
-      <source>Border color of Graph Overview&apos;s selection</source>
-      <translation>Цвет границы выделения в просмотре графа</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="497"/>
-      <source>Graph Overview border</source>
-      <translation>Граница просмотра графа</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="500"/>
-      <source>General background color</source>
-      <translation>Общий цвет фона</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="500"/>
-      <source>Background</source>
-      <translation>Фон</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="502"/>
-      <source>Background color of non-focused graph node</source>
-      <translation>Цвет фона в узлах вне фокуса</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="503"/>
-      <source>Node background</source>
-      <translation>Фон узла</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="511"/>
-      <source>Background color of selected word</source>
-      <translation>Цвет фона выбранного слова</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="512"/>
-      <source>Main function color</source>
-      <translation>Основной цвет функции</translation>
-    </message>
-    <message>
-      <source>Alt. background</source>
-      <translation>Альтернативный фон</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="505"/>
-      <source>Background of current graph node</source>
-      <translation>Фон текущего узла графа</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="505"/>
-      <source>Current graph node</source>
-      <translation>Текущий узел графа</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="507"/>
-      <source>Color of node border in graph view</source>
-      <translation>Цвет границы узла в просмотре графа</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="507"/>
-      <source>Node border</source>
-      <translation>Граница узла</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="509"/>
-      <source>Selected line background color</source>
-      <translation>Цвет фона выделенной линии</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="509"/>
-      <source>Line highlight</source>
-      <translation>Подсветка линии</translation>
-    </message>
-    <message>
-      <source>Highlighted word text color</source>
-      <translation>Цвет текста выделенного слова</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="511"/>
-      <source>Word higlight</source>
-      <translation>Подсветка опечатки</translation>
-    </message>
-    <message>
-      <source>Color of main function color</source>
-      <translation>Цвет основной функции</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="512"/>
-      <source>Main</source>
-      <translation>Main</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="521"/>
-      <source>Code section color in navigation bar</source>
-      <translation>Цвет секций кода в панели навигации</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="521"/>
-      <source>Navbar code</source>
-      <translation>Код панели навигации</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="523"/>
-      <source>Empty section color in navigation bar</source>
-      <translation>Цвет пустой секции в панели навигации</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="523"/>
-      <source>Navbar empty</source>
-      <translation>Пустая панель навигации</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="524"/>
-      <source>ucall</source>
-      <translation>ucall</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="525"/>
-      <source>ujmp</source>
-      <translation>ujmp</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="526"/>
-      <source>Breakpoint background</source>
-      <translation>Фон точки останова</translation>
-    </message>
-    <message>
-      <location filename="../common/CrashHandler.cpp" line="100"/>
-      <source>Crash</source>
-      <translation>Сбой</translation>
-    </message>
-    <message>
-      <location filename="../common/CrashHandler.cpp" line="101"/>
-      <source>Cutter received a signal it can&apos;t handle and will close.&lt;br/&gt;Would you like to create a crash dump for a bug report?</source>
-      <translation>Cutter получил сигнал об ошибке, который он не может обработать, и будет закрыт.&lt;br/&gt;Хотите создать дамп памяти для отчёта об ошибке?</translation>
-    </message>
-    <message>
-      <location filename="../common/CrashHandler.cpp" line="104"/>
-      <source>Create a Crash Dump</source>
-      <translation>Создать дамп памяти</translation>
-    </message>
-    <message>
-      <location filename="../common/CrashHandler.cpp" line="105"/>
-      <location filename="../common/CrashHandler.cpp" line="148"/>
-      <source>Quit</source>
-      <translation>Выход</translation>
-    </message>
-    <message>
-      <location filename="../common/CrashHandler.cpp" line="119"/>
-      <source>Choose a directory to save the crash dump in</source>
-      <translation>Выберите каталог для сохранения дампа памяти</translation>
-    </message>
-    <message>
-      <location filename="../common/CrashHandler.cpp" line="124"/>
-      <source>Minidump (*.dmp)</source>
-      <translation>Минидамп (*.dmp)</translation>
-    </message>
-    <message>
-      <location filename="../common/CrashHandler.cpp" line="133"/>
-      <source>Save Crash Dump</source>
-      <translation>Сохранить дамп памяти</translation>
-    </message>
-    <message>
-      <location filename="../common/CrashHandler.cpp" line="134"/>
-      <source>Failed to write to %1.&lt;br/&gt;Please make sure you have access to that directory and try again.</source>
-      <translation>Не удалось записать в %1.&lt;br/&gt;Пожалуйста, убедитесь, что у вас есть доступ к этой папке и повторите попытку.</translation>
-    </message>
-    <message>
-      <location filename="../common/CrashHandler.cpp" line="142"/>
-      <source>Success</source>
-      <translation>Успешно</translation>
-    </message>
-    <message>
-      <location filename="../common/CrashHandler.cpp" line="143"/>
-      <source>&lt;a href=&quot;%1&quot;&gt;Crash dump&lt;/a&gt; was successfully created.</source>
-      <translation>&lt;a href=&quot;%1&quot;&gt;Дамп памяти&lt;/a&gt; был успешно создан.</translation>
-    </message>
-    <message>
-      <location filename="../common/CrashHandler.cpp" line="147"/>
-      <source>Open an Issue</source>
-      <translation>Открыть тикет</translation>
-    </message>
-    <message>
-      <location filename="../common/CrashHandler.cpp" line="156"/>
-      <source>Error</source>
-      <translation>Ошибка</translation>
-    </message>
-    <message>
-      <location filename="../common/CrashHandler.cpp" line="157"/>
-      <source>Error occurred during crash dump creation.</source>
-      <translation>Произошла ошибка при создании дампа памяти.</translation>
+      <location filename="../common/DisassemblyPreview.cpp" line="49"/>
+      <source>offsetFrom (%1) differs from refs.at(0).from (%(2))</source>
+      <translation type="unfinished">offsetFrom (%1) differs from refs.at(0).from (%(2))</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="53"/>
@@ -7366,16 +5839,592 @@ WARNING: In Write mode, any changes will be committed to the file on disk. For s
       <translation>Включить режим кэширования</translation>
     </message>
     <message>
-      <location filename="../common/IOModesController.cpp" line="99"/>
+      <location filename="../common/IOModesController.cpp" line="94"/>
       <source>Uncomitted changes</source>
       <translation>Незафиксированные изменения</translation>
     </message>
     <message>
-      <location filename="../common/IOModesController.cpp" line="100"/>
+      <location filename="../common/IOModesController.cpp" line="95"/>
       <source>It seems that you have changes or patches that are not committed to the file.
 Do you want to commit them now?</source>
       <translation>Похоже, что есть изменения или патчи, которые не применены к файлу.
 Вы хотите применить их сейчас?</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="98"/>
+      <source>Version mismatch!</source>
+      <translation>Конфликт версии!</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="99"/>
+      <source>The version used to compile Cutter (%1) does not match the binary version of rizin (%2). This could result in unexpected behaviour. Are you sure you want to continue?</source>
+      <translation>Версия, используемая для компиляции Cutter (%1), не соответствует бинарной версии rizin (%2). Это может привести к неожиданному поведению. Вы уверены что хотите продолжить?</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="304"/>
+      <source>A Qt and C++ GUI for rizin reverse engineering framework</source>
+      <translation>Qt и C++ GUI для фреймворка реверс-инжиниринга rizin</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="307"/>
+      <source>Filename to open.</source>
+      <translation>Имя файла для открытия.</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="311"/>
+      <source>Automatically open file and optionally start analysis. Needs filename to be specified. May be a value between 0 and 2: 0 = no analysis, 1 = aaa, 2 = aaaa (experimental)</source>
+      <translation>Автоматически открывать файл и при необходимости запускать анализ. Требуется указать имя файла. Значение может быть от 0 до 2: 0 = не анализировать, 1 = aaa, 2 = aaaa (экспериментальный)</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="314"/>
+      <source>level</source>
+      <translation>уровень</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="318"/>
+      <source>Force using a specific file format (bin plugin)</source>
+      <translation>Принудительное использование определенного формата файла (бинарный плагин)</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="319"/>
+      <source>name</source>
+      <translation>название</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="323"/>
+      <source>Load binary at a specific base address</source>
+      <translation>Загрузить бинарный файл с определенным базовым адресом</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="324"/>
+      <source>base address</source>
+      <translation>базовый адрес</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="327"/>
+      <source>Run script file</source>
+      <translation>Запустить скрипт</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="327"/>
+      <source>file</source>
+      <translation>файл</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="330"/>
+      <source>Load project file</source>
+      <translation>Загрузка файла проекта</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="331"/>
+      <source>project file</source>
+      <translation>файл проекта</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="335"/>
+      <source>Open file in write mode</source>
+      <translation>Открыть файл в режиме записи</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="339"/>
+      <source>PYTHONHOME to use for embedded python interpreter</source>
+      <translation>PYTHONHOME чтобы использовать встроенные интерпретатор Python</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="345"/>
+      <source>Disable output redirection. Some of the output in console widget will not be visible. Use this option when debuging a crash or freeze and output  redirection is causing some messages to be lost.</source>
+      <translation>Отключить перенаправление вывода. Некоторые выходные данные в консоли виджета не будут видны. Используйте эту опцию при отладке падений или зависаний, и когда перенаправление вывода вызывает потерю некоторых сообщений.</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="351"/>
+      <source>Do not load plugins</source>
+      <translation>Не загружать плагины</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="355"/>
+      <source>Do not load Cutter plugins</source>
+      <translation>Не загружать плагины Cutter</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="359"/>
+      <source>Do not load rizin plugins</source>
+      <translation>Не загружать плагины rizin</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="373"/>
+      <source>Invalid Analysis Level. May be a value between 0 and 2.</source>
+      <translation>Неверный уровень анализа. Допустимое значение находится между 0 и 2.</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="393"/>
+      <source>Filename must be specified to start analysis automatically.</source>
+      <translation>Имя файла должно быть указано для автоматического запуска анализа.</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="397"/>
+      <source>Color of comment generated by Rizin</source>
+      <translation>Цвет комментариев, созданных Rizin</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="397"/>
+      <source>Comment</source>
+      <translation>Комментарий</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="398"/>
+      <source>Comment created by user</source>
+      <translation>Комментарий созданный пользователем</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="398"/>
+      <source>Color of user Comment</source>
+      <translation>Цвет пользовательских комментариев</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="400"/>
+      <source>Color of names of functions</source>
+      <translation>Цвет для имени функций</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="400"/>
+      <source>Function name</source>
+      <translation>Имя функции</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="401"/>
+      <source>Color of function location</source>
+      <translation>Цвет расположения функции</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="401"/>
+      <source>Function location</source>
+      <translation>Расположение функции</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="403"/>
+      <source>Color of ascii line in left side that shows what opcodes are belong to function</source>
+      <translation>Цвет линии ascii в левой части показывает, какие опкоды принадлежат функции</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="405"/>
+      <source>Function line</source>
+      <translation>Линии функций</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="407"/>
+      <source>Color of flags (similar to bookmarks for offset)</source>
+      <translation>Цвет флагов (аналогично закладкам для смещения)</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="407"/>
+      <source>Flag</source>
+      <translation>Флаг</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="408"/>
+      <source>Label</source>
+      <translation>Метка</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="409"/>
+      <source>Help</source>
+      <translation>Справка</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="410"/>
+      <source>Color of lines showing jump destination</source>
+      <translation>Цвета линий показывают, показывающих место перехода</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="410"/>
+      <source>Flow</source>
+      <translation>Поток выполнения</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="411"/>
+      <source>flow2</source>
+      <translation>flow2</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="412"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="414"/>
+      <source>Info</source>
+      <translation>Информация</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="412"/>
+      <source>prompt</source>
+      <translation>prompt</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="413"/>
+      <source>Color of offsets</source>
+      <translation>Цвет смещений</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="413"/>
+      <source>Offset</source>
+      <translation>Смещение</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="414"/>
+      <source>input</source>
+      <translation>ввод</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="415"/>
+      <source>Invalid opcode color</source>
+      <translation>Неверный цвет опкода</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="415"/>
+      <source>invalid</source>
+      <translation>неверный</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="416"/>
+      <source>other</source>
+      <translation>другое</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="417"/>
+      <source>0x00 opcode color</source>
+      <translation>Цвет 0x00 опкода</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="418"/>
+      <source>0x7f opcode color</source>
+      <translation>Цвет 0x7f опкода</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="419"/>
+      <source>0xff opcode color</source>
+      <translation>Цвет 0xff опкода</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="421"/>
+      <source>Color of arithmetic opcodes (add, div, mul etc)</source>
+      <translation>Цвет арифметических команд (добавить, div, mul и т.д.)</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="422"/>
+      <source>Arithmetic</source>
+      <translation>Арифметические</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="424"/>
+      <source>Color of binary operations (and, or, xor etc).</source>
+      <translation>Цвет бинарных операций (and, or, xor и т.д.).</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="424"/>
+      <source>Binary</source>
+      <translation>Бинарные</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="426"/>
+      <source>Color of object names, commas between operators, squared brackets and operators inside them.</source>
+      <translation>Цвет имен объектов, запятых между операторами, квадратных скобок и операторов внутри них.</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="429"/>
+      <source>Text</source>
+      <translation>Текст</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="430"/>
+      <source>push opcode color</source>
+      <translation>Цвет push опкода</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="431"/>
+      <source>pop opcode color</source>
+      <translation>Цвет pop опкода</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="432"/>
+      <source>Cryptographic color</source>
+      <translation>Криптографический цвет</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="433"/>
+      <source>jmp instructions color</source>
+      <translation>цвет jmp инструкции</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="435"/>
+      <source>Color of conditional jump opcodes such as je, jg, jne etc</source>
+      <translation>Цвет команд условного перехода, таких как je, jg, jne и т.д.</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="436"/>
+      <source>Conditional jump</source>
+      <translation>Условный переход</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="437"/>
+      <source>call instructions color (ccall, rcall, call etc)</source>
+      <translation>цвет инструкции call (ccall, rcall, call etc)</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="438"/>
+      <source>nop opcode color</source>
+      <translation>цвет nop опкода</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="439"/>
+      <source>ret opcode color</source>
+      <translation>цвет ret опкода</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="440"/>
+      <source>Color of interrupts</source>
+      <translation>Цвет прерываний</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="440"/>
+      <source>Interrupts</source>
+      <translation>Прерывания</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="441"/>
+      <source>swi opcode color</source>
+      <translation>цвет swi опкода</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="443"/>
+      <source>Color of compare instructions such as test and cmp</source>
+      <translation>Цвет инструкций сравнения, таких как test и cmp</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="444"/>
+      <source>Compare instructions</source>
+      <translation>Инструкции сравнения</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="445"/>
+      <source>Registers color</source>
+      <translation>Цвет регистров</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="445"/>
+      <source>Register</source>
+      <translation>Регистр</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="448"/>
+      <source>Color of numeric constants and object pointers</source>
+      <translation>Цвет числовых констант и указателей на объекты</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="448"/>
+      <source>Constants</source>
+      <translation>Константы</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="450"/>
+      <source>Color of move instructions such as mov, movd, lea etc</source>
+      <translation>Цвет инструкций перемещения, таких как mov, movd, lea и т.д.</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="451"/>
+      <source>Move instructions</source>
+      <translation>Инструкции перемещения</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="452"/>
+      <source>Function variable color</source>
+      <translation>Цвет переменной функции</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="452"/>
+      <source>Function variable</source>
+      <translation>Переменная функции</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="454"/>
+      <source>Function variable (local or argument) type color</source>
+      <translation>Тип цвета переменной функции (локальной или аргумента)</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="455"/>
+      <source>Variable type</source>
+      <translation>Тип переменной</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="457"/>
+      <source>Function variable address color</source>
+      <translation>Цвет адреса переменной функции</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="457"/>
+      <source>Variable address</source>
+      <translation>Адрес переменной</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="469"/>
+      <source>In graph view jump arrow true</source>
+      <translation>Стрелка истины в графическом представлении</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="469"/>
+      <source>Arrow true</source>
+      <translation>Стрелка истина</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="471"/>
+      <source>In graph view jump arrow false</source>
+      <translation>Стрелка лжи в графическом представлении</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="471"/>
+      <source>Arrow false</source>
+      <translation>Стрелка ложь</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="473"/>
+      <source>In graph view jump arrow (no condition)</source>
+      <translation>Стрелка прыжка в графическом представлении (без условия)</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="473"/>
+      <source>Arrow</source>
+      <translation>Стрелка</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="477"/>
+      <source>Background color of Graph Overview&apos;s node</source>
+      <translation>Цвет фона узла в графе</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="478"/>
+      <source>Graph Overview node</source>
+      <translation>Узел графа</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="480"/>
+      <source>Fill color of Graph Overview&apos;s selection</source>
+      <translation>Цвет заливки выделения в графе</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="481"/>
+      <source>Graph Overview fill</source>
+      <translation>Цвет заливки графа</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="483"/>
+      <source>Border color of Graph Overview&apos;s selection</source>
+      <translation>Цвет границы выделения в просмотре графа</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="484"/>
+      <source>Graph Overview border</source>
+      <translation>Граница просмотра графа</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="487"/>
+      <source>General background color</source>
+      <translation>Общий цвет фона</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="487"/>
+      <source>Background</source>
+      <translation>Фон</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="489"/>
+      <source>Background color of non-focused graph node</source>
+      <translation>Цвет фона в узлах вне фокуса</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="490"/>
+      <source>Node background</source>
+      <translation>Фон узла</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="492"/>
+      <source>Background of current graph node</source>
+      <translation>Фон текущего узла графа</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="492"/>
+      <source>Current graph node</source>
+      <translation>Текущий узел графа</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="494"/>
+      <source>Color of node border in graph view</source>
+      <translation>Цвет границы узла в просмотре графа</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="494"/>
+      <source>Node border</source>
+      <translation>Граница узла</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="496"/>
+      <source>Selected line background color</source>
+      <translation>Цвет фона выделенной линии</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="496"/>
+      <source>Line highlight</source>
+      <translation>Подсветка линии</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="498"/>
+      <source>Background color of selected word</source>
+      <translation>Цвет фона выбранного слова</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="498"/>
+      <source>Word higlight</source>
+      <translation>Подсветка опечатки</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="499"/>
+      <source>Main function color</source>
+      <translation>Основной цвет функции</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="499"/>
+      <source>Main</source>
+      <translation>Main</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="508"/>
+      <source>Code section color in navigation bar</source>
+      <translation>Цвет секций кода в панели навигации</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="508"/>
+      <source>Navbar code</source>
+      <translation>Код панели навигации</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="510"/>
+      <source>Empty section color in navigation bar</source>
+      <translation>Цвет пустой секции в панели навигации</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="510"/>
+      <source>Navbar empty</source>
+      <translation>Пустая панель навигации</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="511"/>
+      <source>ucall</source>
+      <translation>ucall</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="512"/>
+      <source>ujmp</source>
+      <translation>ujmp</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="513"/>
+      <source>Breakpoint background</source>
+      <translation>Фон точки останова</translation>
     </message>
   </context>
   <context>
@@ -7394,145 +6443,6 @@ Do you want to commit them now?</source>
       <location filename="../widgets/QuickFilterView.ui" line="61"/>
       <source>X</source>
       <translation>X</translation>
-    </message>
-  </context>
-  <context>
-    <name>R2DecDecompiler</name>
-    <message>
-      <source>Failed to parse JSON from r2dec</source>
-      <translation>Ошибка парсинга JSON из r2dec</translation>
-    </message>
-  </context>
-  <context>
-    <name>R2PluginsDialog</name>
-    <message>
-      <source>radare2 plugin information</source>
-      <translation>сведения о плагине radare2</translation>
-    </message>
-    <message>
-      <source>RBin</source>
-      <translation>RBin</translation>
-    </message>
-    <message>
-      <source>RBin plugins</source>
-      <translation>RBin плагины</translation>
-    </message>
-    <message>
-      <source>Name</source>
-      <translation>Имя</translation>
-    </message>
-    <message>
-      <source>Description</source>
-      <translation>Описание</translation>
-    </message>
-    <message>
-      <source>License</source>
-      <translation>Лицензия</translation>
-    </message>
-    <message>
-      <source>Type</source>
-      <translation>Тип</translation>
-    </message>
-    <message>
-      <source>RIO</source>
-      <translation>RIO</translation>
-    </message>
-    <message>
-      <source>RIO plugins</source>
-      <translation>RIO плагины</translation>
-    </message>
-    <message>
-      <source>Permissions</source>
-      <translation>Права доступа</translation>
-    </message>
-    <message>
-      <source>RCore</source>
-      <translation>RCore</translation>
-    </message>
-    <message>
-      <source>RCore plugins</source>
-      <translation>RCore плагины</translation>
-    </message>
-    <message>
-      <source>RAsm</source>
-      <translation>RAsm</translation>
-    </message>
-    <message>
-      <source>RAsm plugins</source>
-      <translation>RAsm плагины</translation>
-    </message>
-    <message>
-      <source>Architecture</source>
-      <translation>Архитектура</translation>
-    </message>
-    <message>
-      <source>CPU&apos;s</source>
-      <translation>CPU&apos;s</translation>
-    </message>
-    <message>
-      <source>Version</source>
-      <translation>Версия</translation>
-    </message>
-    <message>
-      <source>Author</source>
-      <translation>Автор</translation>
-    </message>
-    <message>
-      <source>Cutter</source>
-      <translation>Cutter</translation>
-    </message>
-    <message>
-      <source>Cutter plugins</source>
-      <translation>Cutter плагины</translation>
-    </message>
-  </context>
-  <context>
-    <name>R2TaskDialog</name>
-    <message>
-      <source>R2 Task</source>
-      <translation>Задача R2</translation>
-    </message>
-    <message>
-      <source>R2 task in progress..</source>
-      <translation>Задача R2 в выполняется...</translation>
-    </message>
-    <message>
-      <source>Time</source>
-      <translation>Время</translation>
-    </message>
-    <message>
-      <source>Running for</source>
-      <translation>Выполняется</translation>
-    </message>
-    <message numerus="yes">
-      <source>%n hour</source>
-      <comment>%n hours</comment>
-      <translation>
-        <numerusform>%n час</numerusform>
-        <numerusform>%n часа</numerusform>
-        <numerusform>%n часов</numerusform>
-        <numerusform>%n часов</numerusform>
-      </translation>
-    </message>
-    <message numerus="yes">
-      <source>%n minute</source>
-      <comment>%n minutes</comment>
-      <translation>
-        <numerusform>%n минута</numerusform>
-        <numerusform>%n минуты</numerusform>
-        <numerusform>%n минут</numerusform>
-        <numerusform>%n минут</numerusform>
-      </translation>
-    </message>
-    <message numerus="yes">
-      <source>%n seconds</source>
-      <comment>%n second</comment>
-      <translation>
-        <numerusform>%n секунда</numerusform>
-        <numerusform>%n секунды</numerusform>
-        <numerusform>%n секунд</numerusform>
-        <numerusform>%n секунд</numerusform>
-      </translation>
     </message>
   </context>
   <context>
@@ -7618,6 +6528,11 @@ Do you want to commit them now?</source>
       <translation>Отладчик:</translation>
     </message>
     <message>
+      <location filename="../dialogs/RemoteDebugDialog.ui" line="75"/>
+      <source>Port:</source>
+      <translation>Порт:</translation>
+    </message>
+    <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="82"/>
       <source>IP or Path:</source>
       <translation>IP или путь:</translation>
@@ -7632,27 +6547,6 @@ Do you want to commit them now?</source>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="167"/>
       <source>Remove all</source>
       <translation>Удалить все</translation>
-    </message>
-    <message>
-      <source>GDB</source>
-      <translation>GDB</translation>
-    </message>
-    <message>
-      <source>WinDbg - Pipe</source>
-      <translation>WinDbg - Pipe</translation>
-    </message>
-    <message>
-      <source>IP:</source>
-      <translation>IP:</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/RemoteDebugDialog.ui" line="75"/>
-      <source>Port:</source>
-      <translation>Порт:</translation>
-    </message>
-    <message>
-      <source>Path:</source>
-      <translation>Путь:</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.cpp" line="57"/>
@@ -7673,13 +6567,6 @@ Do you want to commit them now?</source>
       <location filename="../dialogs/RemoteDebugDialog.cpp" line="94"/>
       <source>Invalid port</source>
       <translation>Некорректный порт</translation>
-    </message>
-  </context>
-  <context>
-    <name>RenameDialog</name>
-    <message>
-      <source>Name:</source>
-      <translation>Имя:</translation>
     </message>
   </context>
   <context>
@@ -7797,7 +6684,7 @@ Do you want to commit them now?</source>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="41"/>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="82"/>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="123"/>
-      <location filename="../dialogs/RizinPluginsDialog.ui" line="154"/>
+      <location filename="../dialogs/RizinPluginsDialog.ui" line="159"/>
       <source>Name</source>
       <translation>Имя</translation>
     </message>
@@ -7805,14 +6692,15 @@ Do you want to commit them now?</source>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="46"/>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="87"/>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="128"/>
-      <location filename="../dialogs/RizinPluginsDialog.ui" line="174"/>
+      <location filename="../dialogs/RizinPluginsDialog.ui" line="179"/>
       <source>Description</source>
       <translation>Описание</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="51"/>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="92"/>
-      <location filename="../dialogs/RizinPluginsDialog.ui" line="179"/>
+      <location filename="../dialogs/RizinPluginsDialog.ui" line="133"/>
+      <location filename="../dialogs/RizinPluginsDialog.ui" line="184"/>
       <source>License</source>
       <translation>Лицензия</translation>
     </message>
@@ -7847,32 +6735,32 @@ Do you want to commit them now?</source>
       <translation>Плагины RzCore</translation>
     </message>
     <message>
-      <location filename="../dialogs/RizinPluginsDialog.ui" line="137"/>
+      <location filename="../dialogs/RizinPluginsDialog.ui" line="142"/>
       <source>RzAsm</source>
       <translation>RzAsm</translation>
     </message>
     <message>
-      <location filename="../dialogs/RizinPluginsDialog.ui" line="143"/>
+      <location filename="../dialogs/RizinPluginsDialog.ui" line="148"/>
       <source>RzAsm plugins</source>
       <translation>Плагины RzAsm</translation>
     </message>
     <message>
-      <location filename="../dialogs/RizinPluginsDialog.ui" line="159"/>
+      <location filename="../dialogs/RizinPluginsDialog.ui" line="164"/>
       <source>Architecture</source>
       <translation>Архитектура</translation>
     </message>
     <message>
-      <location filename="../dialogs/RizinPluginsDialog.ui" line="164"/>
+      <location filename="../dialogs/RizinPluginsDialog.ui" line="169"/>
       <source>CPU&apos;s</source>
       <translation>Процессоры</translation>
     </message>
     <message>
-      <location filename="../dialogs/RizinPluginsDialog.ui" line="169"/>
+      <location filename="../dialogs/RizinPluginsDialog.ui" line="174"/>
       <source>Version</source>
       <translation>Версия</translation>
     </message>
     <message>
-      <location filename="../dialogs/RizinPluginsDialog.ui" line="184"/>
+      <location filename="../dialogs/RizinPluginsDialog.ui" line="189"/>
       <source>Author</source>
       <translation>Автор</translation>
     </message>
@@ -7947,64 +6835,6 @@ Do you want to commit them now?</source>
     </message>
   </context>
   <context>
-    <name>SaveProjectDialog</name>
-    <message>
-      <source>Save Project</source>
-      <translation>Сохранить проект</translation>
-    </message>
-    <message>
-      <source>Project name (prj.name):</source>
-      <translation>Имя проекта (prj.name):</translation>
-    </message>
-    <message>
-      <source>Projects path (dir.projects):</source>
-      <translation>Путь проектов (dir.projects):</translation>
-    </message>
-    <message>
-      <source>Select</source>
-      <translation>Выбрать</translation>
-    </message>
-    <message>
-      <source>Use simple project saving style (prj.simple, recommended)</source>
-      <translation>Использовать простой стиль сохранения проекта (prj.simple, рекомендуется)</translation>
-    </message>
-    <message>
-      <source>Save the target binary inside the project directory (prj.files)</source>
-      <translation>Сохранить исследуемый файл внутри директории проекта (prj.files)</translation>
-    </message>
-    <message>
-      <source>Project is a git repo and saving is committing (prj.git)</source>
-      <translation>Проект представляет собой git репозиторий и сохранение эквивалентно коммиту (prj.git)</translation>
-    </message>
-    <message>
-      <source>Use ZIP format for project files (prj.zip)</source>
-      <translation>Использовать ZIP формат для проектов (prj.zip)</translation>
-    </message>
-    <message>
-      <source>Select project path (dir.projects)</source>
-      <translation>Выбрать путь проекта (dir.projects)</translation>
-    </message>
-    <message>
-      <source>Save project</source>
-      <translation>Сохранить проект</translation>
-    </message>
-    <message>
-      <source>Invalid project name.</source>
-      <translation>Недопустимое имя проекта.</translation>
-    </message>
-  </context>
-  <context>
-    <name>SdbDock</name>
-    <message>
-      <source>Key</source>
-      <translation>Ключ</translation>
-    </message>
-    <message>
-      <source>Value</source>
-      <translation>Значение</translation>
-    </message>
-  </context>
-  <context>
     <name>SdbWidget</name>
     <message>
       <location filename="../widgets/SdbWidget.ui" line="17"/>
@@ -8073,37 +6903,42 @@ Do you want to commit them now?</source>
       <translation>Искать в:</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="251"/>
+      <location filename="../widgets/SearchWidget.cpp" line="255"/>
       <source>asm code</source>
       <translation>ассемблерный код</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="252"/>
+      <location filename="../widgets/SearchWidget.cpp" line="256"/>
       <source>string</source>
       <translation>строка</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="253"/>
+      <location filename="../widgets/SearchWidget.cpp" line="257"/>
+      <source>string (case insensitive)</source>
+      <translation type="unfinished">string (case insensitive)</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="258"/>
       <source>hex string</source>
       <translation>шестнадцатеричная строка</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="254"/>
+      <location filename="../widgets/SearchWidget.cpp" line="259"/>
       <source>ROP gadgets</source>
       <translation>ROP гаджеты</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="255"/>
+      <location filename="../widgets/SearchWidget.cpp" line="260"/>
       <source>32bit value</source>
       <translation>32bit значение</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="282"/>
+      <location filename="../widgets/SearchWidget.cpp" line="287"/>
       <source>No results found for:</source>
       <translation>Ничего не найдено для:</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="285"/>
+      <location filename="../widgets/SearchWidget.cpp" line="290"/>
       <source>No Results Found</source>
       <translation>Ничего не найдено</translation>
     </message>
@@ -8121,11 +6956,6 @@ Do you want to commit them now?</source>
       <translation>Размер</translation>
     </message>
     <message>
-      <location filename="../widgets/SectionsWidget.cpp" line="101"/>
-      <source>Virtual Size</source>
-      <translation>Виртуальный размер</translation>
-    </message>
-    <message>
       <location filename="../widgets/SectionsWidget.cpp" line="97"/>
       <source>Address</source>
       <translation>Адрес</translation>
@@ -8134,6 +6964,11 @@ Do you want to commit them now?</source>
       <location filename="../widgets/SectionsWidget.cpp" line="99"/>
       <source>End Address</source>
       <translation>Конечный адрес</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SectionsWidget.cpp" line="101"/>
+      <source>Virtual Size</source>
+      <translation>Виртуальный размер</translation>
     </message>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="103"/>
@@ -8185,29 +7020,6 @@ Do you want to commit them now?</source>
     </message>
   </context>
   <context>
-    <name>SetFunctionVarTypes</name>
-    <message>
-      <source>Dialog</source>
-      <translation>Диалог</translation>
-    </message>
-    <message>
-      <source>Set Type To:</source>
-      <translation>Установить тип для:</translation>
-    </message>
-    <message>
-      <source>Set Name To:</source>
-      <translation>Установить имя для:</translation>
-    </message>
-    <message>
-      <source>Modify:</source>
-      <translation>Редактировать:</translation>
-    </message>
-    <message>
-      <source>You must be in a function to define variable types.</source>
-      <translation>Вы должны быть в функции для определения типов переменных.</translation>
-    </message>
-  </context>
-  <context>
     <name>SetToDataDialog</name>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="14"/>
@@ -8248,112 +7060,6 @@ Do you want to commit them now?</source>
     </message>
   </context>
   <context>
-    <name>SideBar</name>
-    <message>
-      <source>Form</source>
-      <translation type="unfinished">Form</translation>
-    </message>
-    <message>
-      <source>Script</source>
-      <translation>Скрипт</translation>
-    </message>
-    <message>
-      <source>X</source>
-      <translation>X</translation>
-    </message>
-    <message>
-      <source>example.py</source>
-      <translation>example.py</translation>
-    </message>
-    <message>
-      <source>Execution finished</source>
-      <translation>Выполнение завершено</translation>
-    </message>
-    <message>
-      <source>Calculator</source>
-      <translation>Калькулятор</translation>
-    </message>
-    <message>
-      <source>Assembler</source>
-      <translation type="unfinished">Assembler</translation>
-    </message>
-    <message>
-      <source>Assembly</source>
-      <translation>Ассемблер</translation>
-    </message>
-    <message>
-      <source>v</source>
-      <translation>v</translation>
-    </message>
-    <message>
-      <source>^</source>
-      <translation>^</translation>
-    </message>
-    <message>
-      <source>Hexadecimal</source>
-      <translation>Шестнадцатеричный</translation>
-    </message>
-    <message>
-      <source>Toogle resposiveness</source>
-      <translation>Переключение адаптивного интерфейса</translation>
-    </message>
-    <message>
-      <source>...</source>
-      <translation>...</translation>
-    </message>
-    <message>
-      <source>Settings</source>
-      <translation>Настройки</translation>
-    </message>
-  </context>
-  <context>
-    <name>SidebarWidget</name>
-    <message>
-      <source> Function:</source>
-      <translation> Функция:</translation>
-    </message>
-    <message>
-      <source>Offset info:</source>
-      <translation>Информация о смещении:</translation>
-    </message>
-    <message>
-      <source>Info</source>
-      <translation>Информация</translation>
-    </message>
-    <message>
-      <source>Value</source>
-      <translation>Значение</translation>
-    </message>
-    <message>
-      <source>...</source>
-      <translation>...</translation>
-    </message>
-    <message>
-      <source>Opcode description:</source>
-      <translation>Описание опкода:</translation>
-    </message>
-    <message>
-      <source>Function registers info:</source>
-      <translation>Информация о регистрах функции:</translation>
-    </message>
-    <message>
-      <source>X-Refs to current address:</source>
-      <translation>Перекрестные ссылки к текущему адресу:</translation>
-    </message>
-    <message>
-      <source>Address</source>
-      <translation>Адрес</translation>
-    </message>
-    <message>
-      <source>Instruction</source>
-      <translation>Инструкция</translation>
-    </message>
-    <message>
-      <source>X-Refs from current address:</source>
-      <translation>Перекрестные ссылки от текущего адреса:</translation>
-    </message>
-  </context>
-  <context>
     <name>SimpleTextGraphView</name>
     <message>
       <location filename="../widgets/SimpleTextGraphView.cpp" line="29"/>
@@ -8364,44 +7070,28 @@ Do you want to commit them now?</source>
   <context>
     <name>StackModel</name>
     <message>
-      <location filename="../widgets/StackWidget.cpp" line="216"/>
+      <location filename="../widgets/StackWidget.cpp" line="218"/>
       <source>Offset</source>
       <translation>Смещение</translation>
     </message>
     <message>
-      <location filename="../widgets/StackWidget.cpp" line="218"/>
+      <location filename="../widgets/StackWidget.cpp" line="220"/>
       <source>Value</source>
       <translation>Значение</translation>
     </message>
     <message>
-      <location filename="../widgets/StackWidget.cpp" line="220"/>
+      <location filename="../widgets/StackWidget.cpp" line="222"/>
       <source>Reference</source>
       <translation>Ссылка</translation>
     </message>
     <message>
-      <location filename="../widgets/StackWidget.cpp" line="222"/>
+      <location filename="../widgets/StackWidget.cpp" line="224"/>
       <source>Comment</source>
       <translation>Комментарий</translation>
     </message>
   </context>
   <context>
     <name>StackWidget</name>
-    <message>
-      <source>Offset</source>
-      <translation>Смещение</translation>
-    </message>
-    <message>
-      <source>Value</source>
-      <translation>Значение</translation>
-    </message>
-    <message>
-      <source>Reference</source>
-      <translation type="unfinished">Reference</translation>
-    </message>
-    <message>
-      <source>Seek to this offset</source>
-      <translation>Перейти к этому смещению</translation>
-    </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="33"/>
       <source>Edit stack value...</source>
@@ -8472,17 +7162,9 @@ Do you want to commit them now?</source>
   <context>
     <name>StringsWidget</name>
     <message>
-      <source>Copy Address</source>
-      <translation>Копировать адрес</translation>
-    </message>
-    <message>
       <location filename="../widgets/StringsWidget.ui" line="76"/>
       <source>Copy String</source>
       <translation>Ссылка на строку</translation>
-    </message>
-    <message>
-      <source>Xrefs</source>
-      <translation>Внешние ссылки</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.ui" line="81"/>
@@ -8572,18 +7254,18 @@ Do you want to commit them now?</source>
       <translation>Ввести тип вручную</translation>
     </message>
     <message>
-      <location filename="../dialogs/TypesInteractionDialog.cpp" line="32"/>
+      <location filename="../dialogs/TypesInteractionDialog.cpp" line="37"/>
       <source>Select file</source>
       <translation>Выберите файл</translation>
     </message>
     <message>
-      <location filename="../dialogs/TypesInteractionDialog.cpp" line="40"/>
-      <location filename="../dialogs/TypesInteractionDialog.cpp" line="68"/>
+      <location filename="../dialogs/TypesInteractionDialog.cpp" line="45"/>
+      <location filename="../dialogs/TypesInteractionDialog.cpp" line="87"/>
       <source>Error</source>
       <translation>Ошибка</translation>
     </message>
     <message>
-      <location filename="../dialogs/TypesInteractionDialog.cpp" line="69"/>
+      <location filename="../dialogs/TypesInteractionDialog.cpp" line="88"/>
       <source>There was some error while loading new types</source>
       <translation>Произошла ошибка при загрузке новых типов</translation>
     </message>
@@ -8591,26 +7273,22 @@ Do you want to commit them now?</source>
   <context>
     <name>TypesModel</name>
     <message>
-      <source>Type</source>
-      <translation>Тип</translation>
-    </message>
-    <message>
-      <location filename="../widgets/TypesWidget.cpp" line="62"/>
+      <location filename="../widgets/TypesWidget.cpp" line="61"/>
       <source>Type / Name</source>
       <translation>Тип / название</translation>
     </message>
     <message>
-      <location filename="../widgets/TypesWidget.cpp" line="64"/>
+      <location filename="../widgets/TypesWidget.cpp" line="63"/>
       <source>Size</source>
       <translation>Размер</translation>
     </message>
     <message>
-      <location filename="../widgets/TypesWidget.cpp" line="66"/>
+      <location filename="../widgets/TypesWidget.cpp" line="65"/>
       <source>Format</source>
       <translation>Формат</translation>
     </message>
     <message>
-      <location filename="../widgets/TypesWidget.cpp" line="68"/>
+      <location filename="../widgets/TypesWidget.cpp" line="67"/>
       <source>Category</source>
       <translation>Категория</translation>
     </message>
@@ -8626,7 +7304,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/TypesWidget.ui" line="84"/>
       <location filename="../widgets/TypesWidget.ui" line="87"/>
-      <location filename="../widgets/TypesWidget.cpp" line="286"/>
+      <location filename="../widgets/TypesWidget.cpp" line="295"/>
       <source>Load New Types</source>
       <translation>Загрузить новые типы</translation>
     </message>
@@ -8635,11 +7313,6 @@ Do you want to commit them now?</source>
       <location filename="../widgets/TypesWidget.ui" line="95"/>
       <source>Delete Type</source>
       <translation>Удалить тип</translation>
-    </message>
-    <message>
-      <location filename="../widgets/TypesWidget.ui" line="100"/>
-      <source>Link Type to Address</source>
-      <translation>Тип ссылки на адрес</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="140"/>
@@ -8662,39 +7335,39 @@ Do you want to commit them now?</source>
       <translation>(Все)</translation>
     </message>
     <message>
-      <location filename="../widgets/TypesWidget.cpp" line="266"/>
+      <location filename="../widgets/TypesWidget.cpp" line="267"/>
       <source>Save File</source>
       <translation>Сохранить файл</translation>
     </message>
     <message>
-      <location filename="../widgets/TypesWidget.cpp" line="273"/>
+      <location filename="../widgets/TypesWidget.cpp" line="274"/>
       <source>Error</source>
       <translation>Ошибка</translation>
     </message>
     <message>
-      <location filename="../widgets/TypesWidget.cpp" line="302"/>
+      <location filename="../widgets/TypesWidget.cpp" line="311"/>
       <source>Edit Type: </source>
       <translation>Редактировать тип: </translation>
     </message>
     <message>
-      <location filename="../widgets/TypesWidget.cpp" line="305"/>
-      <location filename="../widgets/TypesWidget.cpp" line="355"/>
+      <location filename="../widgets/TypesWidget.cpp" line="314"/>
+      <location filename="../widgets/TypesWidget.cpp" line="352"/>
       <source>View Type: </source>
       <translation>Просмотреть тип: </translation>
     </message>
     <message>
-      <location filename="../widgets/TypesWidget.cpp" line="305"/>
-      <location filename="../widgets/TypesWidget.cpp" line="355"/>
+      <location filename="../widgets/TypesWidget.cpp" line="314"/>
+      <location filename="../widgets/TypesWidget.cpp" line="352"/>
       <source> (Read Only)</source>
       <translation> (Только чтение)</translation>
     </message>
     <message>
-      <location filename="../widgets/TypesWidget.cpp" line="324"/>
+      <location filename="../widgets/TypesWidget.cpp" line="334"/>
       <source>Cutter</source>
       <translation>Cutter</translation>
     </message>
     <message>
-      <location filename="../widgets/TypesWidget.cpp" line="324"/>
+      <location filename="../widgets/TypesWidget.cpp" line="334"/>
       <source>Are you sure you want to delete &quot;%1&quot;?</source>
       <translation>Вы уверены, что хотите удалить &quot;%1&quot;?</translation>
     </message>
@@ -8707,79 +7380,34 @@ Do you want to commit them now?</source>
       <translation>Превышено время проверки версий. Пожалуйста, проверьте подключение к Интернету и повторите попытку.</translation>
     </message>
     <message>
-      <location filename="../common/UpdateWorker.cpp" line="81"/>
+      <location filename="../common/UpdateWorker.cpp" line="58"/>
       <source>Version control</source>
       <translation>Управление версиями</translation>
     </message>
     <message>
-      <location filename="../common/UpdateWorker.cpp" line="82"/>
+      <location filename="../common/UpdateWorker.cpp" line="59"/>
       <source>There is an update available for Cutter.&lt;br/&gt;</source>
       <translation>Доступно обновление для Cutter.&lt;br/&gt;</translation>
     </message>
     <message>
-      <location filename="../common/UpdateWorker.cpp" line="82"/>
+      <location filename="../common/UpdateWorker.cpp" line="59"/>
       <source>Current version:</source>
       <translation>Текущая версия:</translation>
     </message>
     <message>
-      <location filename="../common/UpdateWorker.cpp" line="83"/>
+      <location filename="../common/UpdateWorker.cpp" line="60"/>
       <source>Latest version:</source>
       <translation>Последняя версия:</translation>
     </message>
     <message>
-      <location filename="../common/UpdateWorker.cpp" line="85"/>
-      <source>For update, please check the link:&lt;br/&gt;</source>
-      <translation>Для обновления перейдите по ссылке:&lt;br/&gt;</translation>
+      <location filename="../common/UpdateWorker.cpp" line="62"/>
+      <source>To update, please check the link:&lt;br/&gt;</source>
+      <translation type="unfinished">To update, please check the link:&lt;br/&gt;</translation>
     </message>
     <message>
-      <location filename="../common/UpdateWorker.cpp" line="89"/>
-      <source>or click &quot;Download&quot; to download latest version of Cutter.</source>
-      <translation>или нажмите &quot;Загрузить&quot; для загрузки последней версии Cutter.</translation>
-    </message>
-    <message>
-      <location filename="../common/UpdateWorker.cpp" line="92"/>
-      <source>Don&apos;t check for updates</source>
-      <translation>Не проверять наличие обновлений</translation>
-    </message>
-    <message>
-      <location filename="../common/UpdateWorker.cpp" line="96"/>
-      <source>Download</source>
-      <translation>Загрузить</translation>
-    </message>
-    <message>
-      <location filename="../common/UpdateWorker.cpp" line="103"/>
-      <source>Choose directory for downloading</source>
-      <translation>Выберите каталог для загрузки</translation>
-    </message>
-    <message>
-      <location filename="../common/UpdateWorker.cpp" line="108"/>
-      <source>Downloading update...</source>
-      <translation>Загрузка обновления...</translation>
-    </message>
-    <message>
-      <location filename="../common/UpdateWorker.cpp" line="108"/>
-      <source>Cancel</source>
-      <translation>Отмена</translation>
-    </message>
-    <message>
-      <location filename="../common/UpdateWorker.cpp" line="116"/>
-      <source>Download finished!</source>
-      <translation>Загрузка завершена!</translation>
-    </message>
-    <message>
-      <location filename="../common/UpdateWorker.cpp" line="117"/>
-      <source>Latest version of Cutter was succesfully downloaded!</source>
-      <translation>Последняя версия Cutter была успешно загружена!</translation>
-    </message>
-    <message>
-      <location filename="../common/UpdateWorker.cpp" line="119"/>
-      <source>Open file</source>
-      <translation>Открыть файл</translation>
-    </message>
-    <message>
-      <location filename="../common/UpdateWorker.cpp" line="120"/>
-      <source>Open download folder</source>
-      <translation>Открыть папку загрузок</translation>
+      <location filename="../common/UpdateWorker.cpp" line="68"/>
+      <source>Don&apos;t check for updates automatically</source>
+      <translation type="unfinished">Don&apos;t check for updates automatically</translation>
     </message>
   </context>
   <context>
@@ -8832,7 +7460,7 @@ Do you want to commit them now?</source>
   <context>
     <name>VisualNavbar</name>
     <message>
-      <location filename="../widgets/VisualNavbar.cpp" line="29"/>
+      <location filename="../widgets/VisualNavbar.cpp" line="31"/>
       <source>Visual navigation bar</source>
       <translation>Визуальная панель навигации</translation>
     </message>
@@ -8896,12 +7524,12 @@ Do you want to commit them now?</source>
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;Join thousands of reverse engineers in our community:&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Twitter:&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;	&lt;/span&gt;&lt;a href=&quot;https://twitter.com/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Telegram:	&lt;/span&gt;&lt;a href=&quot;https://t.me/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re &lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;IRC:	&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;#cutter on &lt;/span&gt;&lt;a href=&quot;irc.freenode.net&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;irc.freenode.net&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict. td&quot;&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;Join thousands of reverse engineers in our community:&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Twitter:&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;	&lt;/span&gt;&lt;a href=&quot;https://twitter.com/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Telegram:	&lt;/span&gt;&lt;a href=&quot;https://t.me/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re &lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;IRC:	&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;#cutter on &lt;/span&gt;&lt;a href=&quot;https://web.libera.chat/&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;https://web.libera.chat/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+      <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;Присоединиться к тысячам обратных инженеров в нашем сообществе:&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Twitter:&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;	&lt;/span&gt;&lt;a href=&quot;https://twitter.com/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Telegram:	&lt;/span&gt;&lt;a href=&quot;https://t.me/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re &lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;IRC:	&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;#cutter on &lt;/span&gt;&lt;a href=&quot;irc.freenode.net&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;irc. reenode.net&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;Join thousands of reverse engineers in our community:&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Twitter:&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;	&lt;/span&gt;&lt;a href=&quot;https://twitter.com/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Telegram:	&lt;/span&gt;&lt;a href=&quot;https://t.me/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re &lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;IRC:	&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;#cutter on &lt;/span&gt;&lt;a href=&quot;https://web.libera.chat/&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;https://web.libera.chat/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="355"/>
@@ -8909,49 +7537,13 @@ p, li { white-space: pre-wrap; }
       <translation>&lt;html&gt;&lt;head/&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;Хотите помочь нам сделать Cutter еще лучше?&lt;br/&gt;Посетите нашу &lt;/span&gt;&lt;a href=&quot;https://github.com/rizinorg/cutter&quot;&gt;&lt;span style=&quot; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;страницу Github&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;, сообщайте об ошибках или вносите свой вклад в код.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-      <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;Join thousands of reverse engineers in our community:&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Twitter:&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;	&lt;/span&gt;&lt;a href=&quot;https://twitter.com/r2gui&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@r2gui&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Telegram:	&lt;/span&gt;&lt;a href=&quot;https://t.me/r2cutter&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@r2cutter &lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;IRC:	&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;#cutter on &lt;/span&gt;&lt;a href=&quot;irc.freenode.net&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;irc.freenode.net&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;Присоединиться к тысячам реверс инженеров в нашем сообществе:&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Twitter:&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;	&lt;/span&gt;&lt;a href=&quot;https://twitter.com/r2gui&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@r2gui&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Telegram:	&lt;/span&gt;&lt;a href=&quot;https://t.me/r2cutter&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@r2cutter &lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;IRC:	&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;#cutter on &lt;/span&gt;&lt;a href=&quot;irc.freenode.net&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;irc.freenode.net&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-      <source>&lt;html&gt;&lt;head/&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;Want to help us make Cutter even better?&lt;br/&gt;Visit our &lt;/span&gt;&lt;a href=&quot;https://github.com/radareorg/cutter&quot;&gt;&lt;span style=&quot; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;Github page&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt; and report bugs or contribute code.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation>&lt;html&gt;&lt;head/&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;Хотите помочь нам сделать Cutter еще лучше?&lt;br/&gt;Посетите нашу &lt;/span&gt;&lt;a href=&quot;https://github.com/radareorg/cutter&quot;&gt;&lt;span style=&quot; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;страницу Github&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt; и сообщайте об ошибках или вносите свой код.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/WelcomeDialog.ui" line="417"/>
-      <source>Continue</source>
-      <translation>Продолжить</translation>
-    </message>
-    <message>
-      <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Join thousands of reverse engineers in our community:&lt;br /&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Twitter:&lt;/span&gt;	&lt;a href=&quot;https://twitter.com/r2gui&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;@r2gui&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Telegram:	&lt;/span&gt;&lt;a href=&quot;https://t.me/r2cutter&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;@r2cutter &lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;IRC:	&lt;/span&gt;#cutter on &lt;a href=&quot;irc.freenode.net&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;irc.freenode.net&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Присоединяйтесь к тысячам реверс-инженеров в наше сообщество:&lt;br /&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Twitter:&lt;/span&gt;	&lt;a href=&quot;https://twitter.com/r2gui&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;@r2gui&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Telegram:	&lt;/span&gt;&lt;a href=&quot;https://t.me/r2cutter&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;@r2cutter &lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;IRC:	&lt;/span&gt;#cutter on &lt;a href=&quot;irc.freenode.net&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;irc.freenode.net&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-      <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Want to help us make Cutter even better?&lt;br/&gt;Visit our &lt;a href=&quot;https://github.com/radareorg/cutter&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;Github page&lt;/span&gt;&lt;/a&gt; and report bugs or contribute code.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Хотите помочь нам сделать Cutter еще лучше?&lt;br/&gt;Посетите страницу &lt;a href=&quot;https://github.com/radareorg/cutter&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;Github&lt;/span&gt;&lt;/a&gt; и сообщить об ошибках или внести код.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="394"/>
       <source>Contributing</source>
       <translation>Помощь проекту</translation>
     </message>
     <message>
-      <source>Continue 🢒</source>
+      <location filename="../dialogs/WelcomeDialog.ui" line="417"/>
+      <source>Continue</source>
       <translation>Продолжить</translation>
     </message>
     <message>
@@ -8968,91 +7560,53 @@ p, li { white-space: pre-wrap; }
   <context>
     <name>XrefModel</name>
     <message>
-      <location filename="../dialogs/XrefsDialog.cpp" line="287"/>
+      <location filename="../dialogs/XrefsDialog.cpp" line="297"/>
       <source>Address</source>
       <translation>Адрес</translation>
     </message>
     <message>
-      <location filename="../dialogs/XrefsDialog.cpp" line="291"/>
+      <location filename="../dialogs/XrefsDialog.cpp" line="299"/>
+      <source>Type</source>
+      <translation>Тип</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/XrefsDialog.cpp" line="301"/>
       <source>Code</source>
       <translation>Код</translation>
     </message>
     <message>
-      <location filename="../dialogs/XrefsDialog.cpp" line="293"/>
+      <location filename="../dialogs/XrefsDialog.cpp" line="303"/>
       <source>Comment</source>
       <translation>Комментарий</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/XrefsDialog.cpp" line="289"/>
-      <source>Type</source>
-      <translation>Тип</translation>
     </message>
   </context>
   <context>
     <name>XrefsDialog</name>
     <message>
-      <source>Address</source>
-      <translation>Адрес</translation>
-    </message>
-    <message>
-      <source>Code</source>
-      <translation>Код</translation>
-    </message>
-    <message>
-      <source>Type</source>
-      <translation>Тип</translation>
-    </message>
-    <message>
-      <source>X-Refs to %1:</source>
-      <translation>Перекрестные ссылки к %1:</translation>
-    </message>
-    <message>
-      <source>X-Refs from %1:</source>
-      <translation>Перекрестные ссылки от %1:</translation>
-    </message>
-    <message>
-      <location filename="../dialogs/XrefsDialog.cpp" line="145"/>
+      <location filename="../dialogs/XrefsDialog.cpp" line="155"/>
       <source>X-Refs to %1 (%2 results):</source>
       <translation>Ссылки на %1 (%2 результатов):</translation>
     </message>
     <message>
-      <location filename="../dialogs/XrefsDialog.cpp" line="147"/>
+      <location filename="../dialogs/XrefsDialog.cpp" line="157"/>
       <source>X-Refs from %1 (%2 results):</source>
       <translation>Ссылки от %1 (%2 результатов):</translation>
     </message>
     <message>
-      <location filename="../dialogs/XrefsDialog.cpp" line="152"/>
+      <location filename="../dialogs/XrefsDialog.cpp" line="162"/>
       <source>Writes to %1</source>
       <translation>Запись в %1</translation>
     </message>
     <message>
-      <location filename="../dialogs/XrefsDialog.cpp" line="153"/>
+      <location filename="../dialogs/XrefsDialog.cpp" line="163"/>
       <source>Reads from %1</source>
       <translation>Чтение из %1</translation>
     </message>
     <message>
-      <location filename="../dialogs/XrefsDialog.cpp" line="164"/>
-      <location filename="../dialogs/XrefsDialog.cpp" line="183"/>
+      <location filename="../dialogs/XrefsDialog.cpp" line="174"/>
+      <location filename="../dialogs/XrefsDialog.cpp" line="193"/>
       <source>X-Refs for %1</source>
       <translation>Перекрестные ссылки для %1</translation>
-    </message>
-  </context>
-  <context>
-    <name>ZignaturesModel</name>
-    <message>
-      <location filename="../widgets/ZignaturesWidget.cpp" line="66"/>
-      <source>Offset</source>
-      <translation>Смещение</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ZignaturesWidget.cpp" line="68"/>
-      <source>Name</source>
-      <translation>Название</translation>
-    </message>
-    <message>
-      <location filename="../widgets/ZignaturesWidget.cpp" line="70"/>
-      <source>Bytes</source>
-      <translation>Байтов</translation>
     </message>
   </context>
 </TS>
