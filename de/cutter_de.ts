@@ -375,22 +375,22 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="292"/>
       <source>Decompiler based highlighting</source>
-      <translation>Decompiler basiertes Markieren</translation>
+      <translation>Farbhervorhebungen auf Basis des Decompilers</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="312"/>
       <source>Save as Default</source>
-      <translation>Save as Default</translation>
+      <translation>Als Standard festlegen</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="125"/>
       <source>Theme Editor - &lt;%1&gt;</source>
-      <translation>Theme-Editor - &lt;%1&gt;</translation>
+      <translation>Farbschema-Editor - &lt;%1&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="136"/>
       <source>Enter theme name</source>
-      <translation>Enter theme name</translation>
+      <translation>Farbschemanamen eingeben</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="136"/>
@@ -401,17 +401,17 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="137"/>
       <source> - copy</source>
-      <translation> - copy</translation>
+      <translation> - Kopie</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="143"/>
       <source>Theme Copy</source>
-      <translation>Theme Copy</translation>
+      <translation>Farbschema kopieren</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="144"/>
       <source>Theme named %1 already exists.</source>
-      <translation>%1</translation>
+      <translation>Es existiert bereits ein Thema mit diesem Namen: %1.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="159"/>
@@ -425,7 +425,7 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="163"/>
       <source>Are you sure you want to delete &lt;b&gt;%1&lt;/b&gt;?</source>
-      <translation>僅用於中文</translation>
+      <translation>Soll &lt;b&gt;%1&lt;/b&gt; wirklich gelöscht werden?</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="185"/>
@@ -441,12 +441,12 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="212"/>
       <source>Color theme &lt;b&gt;%1&lt;/b&gt; was successfully exported.</source>
-      <translation>Farbschema &lt;b&gt;%1&lt;/b&gt; wurde erfolgreich importiert.</translation>
+      <translation>Farbschema &lt;b&gt;%1&lt;/b&gt; wurde erfolgreich exportiert.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="221"/>
       <source>Enter new theme name</source>
-      <translation>Theme Namen eingeben</translation>
+      <translation>Neuen Namen für Farbschema festlegen</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="240"/>
@@ -461,7 +461,7 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="245"/>
       <source>Cannot set language, not found in available ones</source>
-      <translation>Sprache kann nicht gesetzt werden, in verfügbaren nicht gefunden</translation>
+      <translation>Sprache kann nicht gesetzt werden. Für die gewählte Sprache konnte keine Übersetzung gefunden werden.</translation>
     </message>
   </context>
   <context>
@@ -513,7 +513,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="35"/>
       <source>Style</source>
-      <translation>Aussehen</translation>
+      <translation>Erscheinungsbild</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="88"/>
@@ -554,7 +554,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="138"/>
       <source>Show offsets (asm.offset)</source>
-      <translation>Zeige Offsets (asm.offset)</translation>
+      <translation>Offsets anzeigen (asm.offset)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="145"/>
