@@ -574,7 +574,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="185"/>
       <source>Display the bytes of each instruction (asm.bytes)</source>
-      <translation>Display the bytes of each instruction (asm.bytes)</translation>
+      <translation>Bytes jeder instruction anzeigen (asm.bytes)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="193"/>
@@ -594,7 +594,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="211"/>
       <source>Show empty line after every basic block (asm.bb.line)</source>
-      <translation>Zeige leere Zeile nach jedem Basic Block (asm.bb.line)</translation>
+      <translation>Leere Zeile nach jedem Basic Block (asm.bb.line)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="220"/>
@@ -619,7 +619,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="275"/>
       <source>Indent disassembly based on reflines depth (asm.indent)</source>
-      <translation>Einrückung basierend auf Umkehrtiefe (asm.indent)</translation>
+      <translation>Einrückung basierend auf Tiefe im Kontrollfluss (asm.indent)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="282"/>
@@ -634,12 +634,12 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="306"/>
       <source>Show opcode description (asm.describe)</source>
-      <translation>Zeige die Assembler Opcode Erklärung (asm.describe)</translation>
+      <translation>Opcode Erklärungen anzeigen (asm.describe)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="319"/>
       <source>Above instructions</source>
-      <translation>Above instructions</translation>
+      <translation>Über instructions</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="324"/>
@@ -649,7 +649,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="332"/>
       <source>Show comments:</source>
-      <translation>Kommentare einblenden</translation>
+      <translation>Kommentare anzeigen:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="352"/>
@@ -659,12 +659,12 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="362"/>
       <source>Show x-refs (asm.xrefs)</source>
-      <translation>Zeige x-refs (asm.xrefs)</translation>
+      <translation>X-Refs anzeigen (asm.xrefs)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="369"/>
       <source>Show refpointer information (asm.refptr)</source>
-      <translation>Zeige refpointer Informationen (asm.refptr)</translation>
+      <translation>Refpointer Informationen anzeigen (asm.refptr)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="402"/>
@@ -679,7 +679,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="433"/>
       <source>Show jump lines (asm.lines)</source>
-      <translation>Zeige Jump Linien (asm.lines)</translation>
+      <translation>Jump Linien anzeigen (asm.lines)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="440"/>
