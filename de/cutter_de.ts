@@ -684,32 +684,32 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="440"/>
       <source>Show function boundary lines (asm.lines.fcn)</source>
-      <translation>Zeige Funktionsgrenzlinien (asm.lines.fcn)</translation>
+      <translation>Linien für Grenzen von Funktionen anzeigen (asm.lines.fcn)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="447"/>
       <source>Show offset before flags (asm.flags.off)</source>
-      <translation>Zeige Versatz vor Flaggen (asm.flags.off)</translation>
+      <translation>Offsets vor Flags anzeigen (asm.flags.off)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="454"/>
       <source>Run ESIL emulation analysis (asm.emu)</source>
-      <translation>Starte ESIL Emulationsanalyse (asm.emu)</translation>
+      <translation>ESIL Emulationsanalyse benutzen (asm.emu)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="461"/>
       <source>Show only strings if any in the asm.emu output (emu.str)</source>
-      <translation>Nur Zeichenketten anzeigen, wenn in der asm.emu Ausgabe (emu.str)</translation>
+      <translation>Nur Zeichenketten aus der ESIL Emulationsanalyse anzeigen (emu.str)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="468"/>
       <source>Show size of opcodes in disassembly (asm.size)</source>
-      <translation>Zeige die Größe der OpCodes im Disassembler an (asm.size)</translation>
+      <translation>Größe der Opcodes im Disassembly anzeigen (asm.size)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="475"/>
       <source>Show variables summary instead of full list (asm.var.summary)</source>
-      <translation>Zeige Variablen-Zusammenfassung anstatt kompletter Liste (asm.var.summary)</translation>
+      <translation>Variablen-Zusammenfassung anstatt kompletter Liste anzeigen (asm.var.summary)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="482"/>
@@ -749,7 +749,7 @@
       <source>%n hour</source>
       <comment>%n hours</comment>
       <translation>
-        <numerusform>%n Stunde</numerusform>
+        <numerusform>%n Stunden</numerusform>
         <numerusform>%n hour</numerusform>
       </translation>
     </message>
@@ -758,7 +758,7 @@
       <source>%n minute</source>
       <comment>%n minutes</comment>
       <translation>
-        <numerusform>%n Minute</numerusform>
+        <numerusform>%n Minuten</numerusform>
         <numerusform>%n minute</numerusform>
       </translation>
     </message>
@@ -777,12 +777,12 @@
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="14"/>
       <source>Select process to attach...</source>
-      <translation>Wähle Prozess zum Anhängen...</translation>
+      <translation>Prozess zum Anhängen auswählen...</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="46"/>
       <source>Processes with same name as currently open file:</source>
-      <translation>Prozesse mit selben Namen wie momentan geöffnete Datei:</translation>
+      <translation>Prozesse mit gleichem Namen wie die momentan geöffnete Datei:</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="90"/>
@@ -810,7 +810,7 @@
     <message>
       <location filename="../widgets/BacktraceWidget.cpp" line="20"/>
       <source>Frame Size</source>
-      <translation>Rahmengrösse</translation>
+      <translation>Größe des Frames</translation>
     </message>
   </context>
   <context>
@@ -818,7 +818,7 @@
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="14"/>
       <source>Base64 Encode/Decode</source>
-      <translation>Base64 Kodieren/Dekodieren</translation>
+      <translation>Base64 Enkodieren/Dekodieren</translation>
     </message>
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="24"/>
@@ -841,12 +841,12 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="123"/>
       <source>method</source>
-      <translation>methode</translation>
+      <translation>Methode</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="147"/>
       <source>field</source>
-      <translation>feld</translation>
+      <translation>Feld</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="169"/>
@@ -1211,7 +1211,7 @@
     <message>
       <location filename="../widgets/ClassesWidget.ui" line="109"/>
       <source>Seek to VTable</source>
-      <translation>Zu VTable suchen</translation>
+      <translation>Zu VTable springen</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.ui" line="114"/>
@@ -1227,7 +1227,7 @@
       <location filename="../widgets/ClassesWidget.ui" line="124"/>
       <location filename="../widgets/ClassesWidget.cpp" line="751"/>
       <source>Create new Class</source>
-      <translation>Neue Klasse Erstellen</translation>
+      <translation>Neue Klasse erstellen</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.ui" line="129"/>
@@ -1604,34 +1604,34 @@
       <location filename="../core/Cutter.cpp" line="1081"/>
       <location filename="../core/Cutter.cpp" line="1085"/>
       <source>Signatures</source>
-      <translation type="unfinished">Signatures</translation>
+      <translation>Signaturen</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1058"/>
       <source>Cannot apply signature file because the requested arch is not supported by .sig files</source>
-      <translation type="unfinished">Cannot apply signature file because the requested arch is not supported by .sig files</translation>
+      <translation>Signaturdatei kann nicht angewendet werden, da die angeforderte Architektur nicht von .sig-Dateien unterstützt wird.</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1067"/>
       <source>Found %1 matching signatures!</source>
-      <translation type="unfinished">Found %1 matching signatures!</translation>
+      <translation>%1 passende Signaturen gefunden!</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1072"/>
       <source>Failed to apply signature file!
 Please check the console for more details.</source>
-      <translation type="unfinished">Failed to apply signature file!
-Please check the console for more details.</translation>
+      <translation>Fehler beim Anwenden der Signaturdatei!
+Bitte überprüfen Sie die Konsole für weitere Details.</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1082"/>
       <source>Cannot create signature file (check the console for more details).</source>
-      <translation type="unfinished">Cannot create signature file (check the console for more details).</translation>
+      <translation>Signaturdatei kann nicht erstellt werden (überprüfen Sie die Konsole für weitere Details).</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1086"/>
       <source>Written %1 signatures to %2.</source>
-      <translation type="unfinished">Written %1 signatures to %2.</translation>
+      <translation>%1 Signaturen wurden nach %2 gespeichert.</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1955"/>
@@ -1700,47 +1700,47 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="47"/>
       <source>Grid narrow</source>
-      <translation type="unfinished">Grid narrow</translation>
+      <translation>Raster eng</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="48"/>
       <source>Grid medium</source>
-      <translation type="unfinished">Grid medium</translation>
+      <translation>Raster medium</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="49"/>
       <source>Grid wide</source>
-      <translation type="unfinished">Grid wide</translation>
+      <translation>Raster weit</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="63"/>
       <source>Graphviz polyline</source>
-      <translation type="unfinished">Graphviz polyline</translation>
+      <translation>Graphviz polyline</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="64"/>
       <source>Graphviz ortho</source>
-      <translation type="unfinished">Graphviz ortho</translation>
+      <translation>Graphviz ortho</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="65"/>
       <source>Graphviz sfdp</source>
-      <translation type="unfinished">Graphviz sfdp</translation>
+      <translation>Graphviz sfdp</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="66"/>
       <source>Graphviz neato</source>
-      <translation type="unfinished">Graphviz neato</translation>
+      <translation>Graphviz neato</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="67"/>
       <source>Graphviz twopi</source>
-      <translation type="unfinished">Graphviz twopi</translation>
+      <translation>Graphviz twopi</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="68"/>
       <source>Graphviz circo</source>
-      <translation type="unfinished">Graphviz circo</translation>
+      <translation>Graphviz circo</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="409"/>
@@ -1760,47 +1760,47 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="417"/>
       <source>Graphviz dot (*.dot)</source>
-      <translation type="unfinished">Graphviz dot (*.dot)</translation>
+      <translation>Graphviz dot (*.dot)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="418"/>
       <source>Graph Modelling Language (*.gml)</source>
-      <translation type="unfinished">Graph Modelling Language (*.gml)</translation>
+      <translation>Graph Modelling Language (*.gml)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="420"/>
       <source>RZ JSON (*.json)</source>
-      <translation type="unfinished">RZ JSON (*.json)</translation>
+      <translation>Rizin JSON (*.json)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="421"/>
       <source>SDB key-value (*.txt)</source>
-      <translation type="unfinished">SDB key-value (*.txt)</translation>
+      <translation>SDB key-value (*.txt)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="427"/>
       <source>Graphviz json (*.json)</source>
-      <translation type="unfinished">Graphviz json (*.json)</translation>
+      <translation>Graphviz json (*.json)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="429"/>
       <source>Graphviz gif (*.gif)</source>
-      <translation type="unfinished">Graphviz gif (*.gif)</translation>
+      <translation>Graphviz gif (*.gif)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="431"/>
       <source>Graphviz png (*.png)</source>
-      <translation type="unfinished">Graphviz png (*.png)</translation>
+      <translation>Graphviz png (*.png)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="433"/>
       <source>Graphviz jpg (*.jpg)</source>
-      <translation type="unfinished">Graphviz jpg (*.jpg)</translation>
+      <translation>Graphviz jpg (*.jpg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="435"/>
       <source>Graphviz PostScript (*.ps)</source>
-      <translation type="unfinished">Graphviz PostScript (*.ps)</translation>
+      <translation>Graphviz PostScript (*.ps)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="437"/>
@@ -1815,7 +1815,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="461"/>
       <source>Do you really want to export %1 x %2 = %3 pixel bitmap image? Consider using different format.</source>
-      <translation type="unfinished">Do you really want to export %1 x %2 = %3 pixel bitmap image? Consider using different format.</translation>
+      <translation>Möchten Sie wirklich %1 x %2 = %3 Pixel als Bitmap exportieren? Eventuell ist ein anderes Format geeigneter.</translation>
     </message>
   </context>
   <context>
@@ -1823,7 +1823,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../common/CutterSeekable.cpp" line="73"/>
       <source>More than one (%1) references here. Weird behaviour expected.</source>
-      <translation type="unfinished">More than one (%1) references here. Weird behaviour expected.</translation>
+      <translation>An dieser Stelle existieren mehr als eine Referenz (%1). Dies kann zu ungewöhnlichem Verhalten führen.</translation>
     </message>
     <message>
       <location filename="../widgets/AddressableDockWidget.cpp" line="45"/>
@@ -2084,12 +2084,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="162"/>
       <source>Key</source>
-      <translation type="unfinished">Key</translation>
+      <translation>Schlüssel</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="162"/>
       <source>Value</source>
-      <translation type="unfinished">Value</translation>
+      <translation>Wert</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="163"/>
