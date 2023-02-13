@@ -86,7 +86,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="52"/>
       <source>Check our &lt;a href=&apos;https://github.com/rizinorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</source>
-      <translation type="unfinished">Check our &lt;a href=&apos;https://github.com/rizinorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</translation>
+      <translation>Besuchen Sie unsere &lt;a href=&apos;https://github.com/rizinorg/cutter/graphs/contributors&apos;&gt;Contributors-Seite&lt;/a&gt; für die vollständige Liste aller Mitwirkenden.</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="76"/>
@@ -124,7 +124,7 @@
     <message>
       <location filename="../widgets/AddressableDockWidget.cpp" line="12"/>
       <source>Sync/unsync offset</source>
-      <translation type="unfinished">Sync/unsync offset</translation>
+      <translation>Offset synchronisieren/nicht synchronisieren</translation>
     </message>
   </context>
   <context>
@@ -155,22 +155,22 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="407"/>
       <source>class</source>
-      <translation type="unfinished">class</translation>
+      <translation>Klasse</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="431"/>
       <source>base</source>
-      <translation type="unfinished">base</translation>
+      <translation>Basisklasse</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="464"/>
       <source>method</source>
-      <translation type="unfinished">method</translation>
+      <translation>Methode</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="502"/>
       <source>vtable</source>
-      <translation type="unfinished">vtable</translation>
+      <translation>VTable</translation>
     </message>
   </context>
   <context>
@@ -241,47 +241,47 @@
     <message>
       <location filename="../common/AnalysisTask.cpp" line="25"/>
       <source>Initial Analysis</source>
-      <translation type="unfinished">Initial Analysis</translation>
+      <translation>Initiale Analyse</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="27"/>
       <source>Analyzing Program</source>
-      <translation type="unfinished">Analyzing Program</translation>
+      <translation>Programm wird analysiert</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="45"/>
       <source>Loading the file...</source>
-      <translation type="unfinished">Loading the file...</translation>
+      <translation>Datei wird geladen...</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="72"/>
       <source>Loading PDB file...</source>
-      <translation type="unfinished">Loading PDB file...</translation>
+      <translation>PDB-Datei wird geladen...</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="81"/>
       <source>Loading shellcode...</source>
-      <translation type="unfinished">Loading shellcode...</translation>
+      <translation>Shellcode wird geladen...</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="92"/>
       <source>Executing script...</source>
-      <translation type="unfinished">Executing script...</translation>
+      <translation>Script wird ausgeführt...</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="101"/>
       <source>Executing analysis...</source>
-      <translation type="unfinished">Executing analysis...</translation>
+      <translation>Analyse wird durchgeführt...</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="110"/>
       <source>Analysis complete!</source>
-      <translation type="unfinished">Analysis complete!</translation>
+      <translation>Analyse abgeschlossen!</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="112"/>
       <source>Skipping Analysis.</source>
-      <translation type="unfinished">Skipping Analysis.</translation>
+      <translation>Analyse wird übersprungen.</translation>
     </message>
   </context>
   <context>
@@ -370,7 +370,7 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="289"/>
       <source>Use information provided by decompiler when highlighting code.</source>
-      <translation type="unfinished">Use information provided by decompiler when highlighting code.</translation>
+      <translation>Vom Decompiler bereitgestellte Informationen für Code-Highlighting verwenden.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="292"/>
@@ -1379,7 +1379,7 @@
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="46"/>
       <source>The Rizin standard themes could not be found in &apos;%1&apos;. Most likely, Rizin is not properly installed.</source>
-      <translation type="unfinished">The Rizin standard themes could not be found in &apos;%1&apos;. Most likely, Rizin is not properly installed.</translation>
+      <translation>Die Rizin Standard-Farbschemata konnten nicht in &apos;%1&apos; gefunden werden. Wahrscheinlich ist Rizin nicht korrekt installiert.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="75"/>
@@ -1395,7 +1395,7 @@
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="166"/>
       <source>You can not delete standard Rizin color themes.</source>
-      <translation type="unfinished">You can not delete standard Rizin color themes.</translation>
+      <translation>Standard Rizin-Farbschemata können nicht gelöscht werden.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="174"/>
@@ -1489,7 +1489,7 @@
     <message>
       <location filename="../dialogs/CommentsDialog.cpp" line="41"/>
       <source>Add Comment at %1</source>
-      <translation type="unfinished">Add Comment at %1</translation>
+      <translation>Kommentar bei %1 hinzufügen</translation>
     </message>
     <message>
       <location filename="../dialogs/CommentsDialog.cpp" line="43"/>
