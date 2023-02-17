@@ -228,7 +228,7 @@
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="236"/>
       <source>Functions Prelude (analysis.prelude):</source>
-      <translation type="unfinished">Functions Prelude (analysis.prelude):</translation>
+      <translation>函数开头 (analysis.prelude):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="269"/>
@@ -271,17 +271,17 @@
     <message>
       <location filename="../common/AnalysisTask.cpp" line="101"/>
       <source>Executing analysis...</source>
-      <translation type="unfinished">Executing analysis...</translation>
+      <translation>正在分析...</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="110"/>
       <source>Analysis complete!</source>
-      <translation type="unfinished">Analysis complete!</translation>
+      <translation>分析完成！</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="112"/>
       <source>Skipping Analysis.</source>
-      <translation type="unfinished">Skipping Analysis.</translation>
+      <translation>正在跳过分析。</translation>
     </message>
   </context>
   <context>
@@ -370,7 +370,7 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="289"/>
       <source>Use information provided by decompiler when highlighting code.</source>
-      <translation>在突出显示代码时使用反编译器提供的信息。</translation>
+      <translation>在高亮代码时使用反编译器所提供的信息。</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="292"/>
@@ -396,17 +396,17 @@
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="136"/>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="221"/>
       <source>Name:</source>
-      <translation>名字：</translation>
+      <translation>名称：</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="137"/>
       <source> - copy</source>
-      <translation> - copy</translation>
+      <translation> - 复制</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="143"/>
       <source>Theme Copy</source>
-      <translation>主题复制</translation>
+      <translation>复制主题</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="144"/>
@@ -425,7 +425,7 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="163"/>
       <source>Are you sure you want to delete &lt;b&gt;%1&lt;/b&gt;?</source>
-      <translation>您确定你要删除 &lt;b&gt;%1&lt;/b&gt;？</translation>
+      <translation>您确定要删除 &lt;b&gt;%1&lt;/b&gt; 吗？</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="185"/>
@@ -456,7 +456,7 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="241"/>
       <source>Language will be changed after next application start.</source>
-      <translation>在下次启动应用程序后，语言将被更改。</translation>
+      <translation>语言将在下一次程序启动后更改。</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="245"/>
@@ -469,12 +469,12 @@
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation type="unfinished">Dialog</translation>
+      <translation>对话框</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="22"/>
       <source>Top</source>
-      <translation type="unfinished">Top</translation>
+      <translation>顶部</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="29"/>
@@ -489,12 +489,12 @@
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="43"/>
       <source>System Memory</source>
-      <translation type="unfinished">System Memory</translation>
+      <translation>系统内存</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="50"/>
       <source>Max Memory</source>
-      <translation type="unfinished">Max Memory</translation>
+      <translation>最大内存</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="92"/>
@@ -523,7 +523,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="95"/>
       <source>Show preview when hovering:</source>
-      <translation type="unfinished">Show preview when hovering:</translation>
+      <translation>悬停时显示预览：</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="102"/>
@@ -863,67 +863,67 @@
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="132"/>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="138"/>
       <source>N/A</source>
-      <translation type="unfinished">N/A</translation>
+      <translation>N/A</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="154"/>
       <source>#</source>
-      <translation type="unfinished">#</translation>
+      <translation>#</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="156"/>
       <source>Fd</source>
-      <translation type="unfinished">Fd</translation>
+      <translation>Fd</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="158"/>
       <source>Bk</source>
-      <translation type="unfinished">Bk</translation>
+      <translation>Bk</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="160"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>类型</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="162"/>
       <source>Chunks count</source>
-      <translation type="unfinished">Chunks count</translation>
+      <translation>堆块数量</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="164"/>
       <source>Chunks size</source>
-      <translation type="unfinished">Chunks size</translation>
+      <translation>堆块大小</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="172"/>
       <source>Bin number in NBINS or fastbinsY array</source>
-      <translation type="unfinished">Bin number in NBINS or fastbinsY array</translation>
+      <translation>NBINS 或 fastbinsY 数组中的 Bin</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="174"/>
       <source>Pointer to first chunk of the bin</source>
-      <translation type="unfinished">Pointer to first chunk of the bin</translation>
+      <translation>指向此 Bin 中第一个堆块的指针</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="176"/>
       <source>Pointer to last chunk of the bin</source>
-      <translation type="unfinished">Pointer to last chunk of the bin</translation>
+      <translation>指向此 Bin 中最后一个 Chunk 的指针</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="178"/>
       <source>Type of bin</source>
-      <translation type="unfinished">Type of bin</translation>
+      <translation>Bin 类型</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="180"/>
       <source>Number of chunks in the bin</source>
-      <translation type="unfinished">Number of chunks in the bin</translation>
+      <translation>此 Bin 中的堆块数量</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="182"/>
       <source>Size of all chunks in the bin</source>
-      <translation type="unfinished">Size of all chunks in the bin</translation>
+      <translation>此 Bin 中所有 Chunk 的数量</translation>
     </message>
   </context>
   <context>
@@ -1157,7 +1157,7 @@
     <message>
       <location filename="../widgets/CallGraph.cpp" line="28"/>
       <source>GlobalCallgraph</source>
-      <translation type="unfinished">GlobalCallgraph</translation>
+      <translation>全局函数调用图</translation>
     </message>
   </context>
   <context>
@@ -1170,7 +1170,7 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="21"/>
       <source>Real Name</source>
-      <translation type="unfinished">Real Name</translation>
+      <translation>真实名字</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="23"/>
@@ -1601,34 +1601,34 @@
       <location filename="../core/Cutter.cpp" line="1081"/>
       <location filename="../core/Cutter.cpp" line="1085"/>
       <source>Signatures</source>
-      <translation type="unfinished">Signatures</translation>
+      <translation>签名</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1058"/>
       <source>Cannot apply signature file because the requested arch is not supported by .sig files</source>
-      <translation type="unfinished">Cannot apply signature file because the requested arch is not supported by .sig files</translation>
+      <translation>无法应用签名文件，因为 .sig 文件不支持此架构</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1067"/>
       <source>Found %1 matching signatures!</source>
-      <translation type="unfinished">Found %1 matching signatures!</translation>
+      <translation>找到 %1 个匹配的签名！</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1072"/>
       <source>Failed to apply signature file!
 Please check the console for more details.</source>
-      <translation type="unfinished">Failed to apply signature file!
-Please check the console for more details.</translation>
+      <translation>应用签名文件失败！
+请检查控制台获取更多信息。</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1082"/>
       <source>Cannot create signature file (check the console for more details).</source>
-      <translation type="unfinished">Cannot create signature file (check the console for more details).</translation>
+      <translation>无法创建签名文件（请检查控制台获取更多细节）。</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1086"/>
       <source>Written %1 signatures to %2.</source>
-      <translation type="unfinished">Written %1 signatures to %2.</translation>
+      <translation>写入 %1 签名到 %2。</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1955"/>
@@ -1717,12 +1717,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="64"/>
       <source>Graphviz ortho</source>
-      <translation type="unfinished">Graphviz ortho</translation>
+      <translation>Graphviz 折线</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="65"/>
       <source>Graphviz sfdp</source>
-      <translation type="unfinished">Graphviz sfdp</translation>
+      <translation>Graphviz 力导向图</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="66"/>
@@ -1732,32 +1732,32 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="67"/>
       <source>Graphviz twopi</source>
-      <translation type="unfinished">Graphviz twopi</translation>
+      <translation>Graphviz 放射状图</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="68"/>
       <source>Graphviz circo</source>
-      <translation type="unfinished">Graphviz circo</translation>
+      <translation>Graphviz 环形图</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="409"/>
       <source>PNG (*.png)</source>
-      <translation type="unfinished">PNG (*.png)</translation>
+      <translation>PNG (*.png)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="410"/>
       <source>JPEG (*.jpg)</source>
-      <translation type="unfinished">JPEG (*.jpg)</translation>
+      <translation>JPEG (*.jpg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="411"/>
       <source>SVG (*.svg)</source>
-      <translation type="unfinished">SVG (*.svg)</translation>
+      <translation>SVG (*.svg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="417"/>
       <source>Graphviz dot (*.dot)</source>
-      <translation type="unfinished">Graphviz dot (*.dot)</translation>
+      <translation>Graphviz dot (*.dot)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="418"/>
@@ -1767,7 +1767,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="420"/>
       <source>RZ JSON (*.json)</source>
-      <translation type="unfinished">RZ JSON (*.json)</translation>
+      <translation>JSON (*.json)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="421"/>
@@ -1777,22 +1777,22 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="427"/>
       <source>Graphviz json (*.json)</source>
-      <translation type="unfinished">Graphviz json (*.json)</translation>
+      <translation>Graphviz json (*.json)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="429"/>
       <source>Graphviz gif (*.gif)</source>
-      <translation type="unfinished">Graphviz gif (*.gif)</translation>
+      <translation>Graphviz gif (*.gif)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="431"/>
       <source>Graphviz png (*.png)</source>
-      <translation type="unfinished">Graphviz png (*.png)</translation>
+      <translation>Graphviz png (*.png)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="433"/>
       <source>Graphviz jpg (*.jpg)</source>
-      <translation type="unfinished">Graphviz jpg (*.jpg)</translation>
+      <translation>Graphviz jpg (*.jpg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="435"/>
@@ -1802,7 +1802,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="437"/>
       <source>Graphviz svg (*.svg)</source>
-      <translation type="unfinished">Graphviz svg (*.svg)</translation>
+      <translation>Graphviz svg (*.svg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="460"/>
@@ -2081,17 +2081,17 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="162"/>
       <source>Key</source>
-      <translation type="unfinished">Key</translation>
+      <translation>键</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="162"/>
       <source>Value</source>
-      <translation type="unfinished">Value</translation>
+      <translation>值</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="163"/>
       <source>root</source>
-      <translation type="unfinished">root</translation>
+      <translation>根</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="204"/>
@@ -2526,7 +2526,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="589"/>
       <source>%1 (%2)</source>
-      <translation type="unfinished">%1 (%2)</translation>
+      <translation>%1 (%2)</translation>
     </message>
   </context>
   <context>
@@ -3002,7 +3002,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/EditInstructionDialog.ui" line="100"/>
       <source>Fill all remaining bytes with NOP opcodes</source>
-      <translation type="unfinished">Fill all remaining bytes with NOP opcodes</translation>
+      <translation>用 NOP 填充所有剩余字节</translation>
     </message>
   </context>
   <context>
@@ -3015,17 +3015,17 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="32"/>
       <source>Unique Identifier (name):</source>
-      <translation type="unfinished">Unique Identifier (name):</translation>
+      <translation>唯一标识符(名称)：</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="44"/>
       <source>Auto-Rename</source>
-      <translation type="unfinished">Auto-Rename</translation>
+      <translation>自动重命名</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="56"/>
       <source>Display Name (realname):</source>
-      <translation type="unfinished">Display Name (realname):</translation>
+      <translation>显示名称 (实际名称)：</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="66"/>
@@ -3264,12 +3264,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/FlirtContextMenu.cpp" line="14"/>
       <source>Copy Line</source>
-      <translation type="unfinished">Copy Line</translation>
+      <translation>复制行</translation>
     </message>
     <message>
       <location filename="../menus/FlirtContextMenu.cpp" line="15"/>
       <source>Apply Signature File</source>
-      <translation type="unfinished">Apply Signature File</translation>
+      <translation>应用签名文件</translation>
     </message>
   </context>
   <context>
@@ -3277,32 +3277,32 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="65"/>
       <source>Bin</source>
-      <translation type="unfinished">Bin</translation>
+      <translation>二进制</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="67"/>
       <source>Arch</source>
-      <translation type="unfinished">Arch</translation>
+      <translation>架构</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="69"/>
       <source>Bits</source>
-      <translation type="unfinished">Bits</translation>
+      <translation>位数</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="71"/>
       <source># Funcs</source>
-      <translation type="unfinished"># Funcs</translation>
+      <translation># 函数</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="73"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名称</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="75"/>
       <source>Details</source>
-      <translation type="unfinished">Details</translation>
+      <translation>详细信息</translation>
     </message>
   </context>
   <context>
@@ -3487,27 +3487,27 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation type="unfinished">Dialog</translation>
+      <translation>对话框</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="25"/>
       <source>Chain info:</source>
-      <translation type="unfinished">Chain info:</translation>
+      <translation>堆块链信息：</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="41"/>
       <source>Detailed chunk info:</source>
-      <translation type="unfinished">Detailed chunk info:</translation>
+      <translation>堆块详细信息:</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="48"/>
       <source>Enter chunk base address and press enter</source>
-      <translation type="unfinished">Enter chunk base address and press enter</translation>
+      <translation>输入堆块地址并按下回车键</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="28"/>
       <source>Bins info for arena @ </source>
-      <translation type="unfinished">Bins info for arena @ </translation>
+      <translation>此分配区的 Bin 信息 @ </translation>
     </message>
   </context>
   <context>
@@ -3515,132 +3515,132 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation type="unfinished">Dialog</translation>
+      <translation>对话框</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="22"/>
       <source>Base</source>
-      <translation type="unfinished">Base</translation>
+      <translation>基址</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="29"/>
       <source>Base address of the chunk</source>
-      <translation type="unfinished">Base address of the chunk</translation>
+      <translation>堆块基址</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="39"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>大小</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="46"/>
       <source>Size of the heap chunk including metadata</source>
-      <translation type="unfinished">Size of the heap chunk including metadata</translation>
+      <translation>包括元数据的堆块大小</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="56"/>
       <source>Fd</source>
-      <translation type="unfinished">Fd</translation>
+      <translation>Fd</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="63"/>
       <source>Link to next free chunk in bin&apos;s linked list</source>
-      <translation type="unfinished">Link to next free chunk in bin&apos;s linked list</translation>
+      <translation>链接到此 Bin 中的下一个空闲堆块</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="73"/>
       <source>Bk</source>
-      <translation type="unfinished">Bk</translation>
+      <translation>Bk</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="80"/>
       <source>Link to previous free chunk in bin&apos;s linked list</source>
-      <translation type="unfinished">Link to previous free chunk in bin&apos;s linked list</translation>
+      <translation>链接到此 Bin 中的前一个空闲堆块</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="90"/>
       <source>Link to next larger free chunk (only for large chunks)</source>
-      <translation type="unfinished">Link to next larger free chunk (only for large chunks)</translation>
+      <translation>链接到下一个更大的空闲堆块（仅适用于 Large 堆块）</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="100"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Fd-nextsize&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Fd-nextsize&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Fd-nextsize&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="107"/>
       <source>Bk-nextsize</source>
-      <translation type="unfinished">Bk-nextsize</translation>
+      <translation>Bk-nextsize</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="114"/>
       <source>Link to next smaller free chunk (for large chunks)</source>
-      <translation type="unfinished">Link to next smaller free chunk (for large chunks)</translation>
+      <translation>链接到下一个更小的空闲堆块（适用于 Large 堆块）</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="124"/>
       <source>Size of previous chunk (if free)</source>
-      <translation type="unfinished">Size of previous chunk (if free)</translation>
+      <translation>上一个堆块大小（如果为空闲堆块）</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="134"/>
       <source>PrevSize</source>
-      <translation type="unfinished">PrevSize</translation>
+      <translation>PrevSize</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="145"/>
       <source>If the chunk was obtained from a non-main arena</source>
-      <translation type="unfinished">If the chunk was obtained from a non-main arena</translation>
+      <translation>此堆块是否来自非主分配区</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="148"/>
       <source>NON_MAIN_ARENA</source>
-      <translation type="unfinished">NON_MAIN_ARENA</translation>
+      <translation>NON_MAIN_ARENA</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="161"/>
       <source>The chunk was obtained with mmap()</source>
-      <translation type="unfinished">The chunk was obtained with mmap()</translation>
+      <translation>此堆块来自于 mmap()</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="164"/>
       <source>IS_MMAPED</source>
-      <translation type="unfinished">IS_MMAPED</translation>
+      <translation>IS_MMAPED</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="177"/>
       <source>Previous adjacent chunk is in use</source>
-      <translation type="unfinished">Previous adjacent chunk is in use</translation>
+      <translation>上一个相邻的堆块正在被使用</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="180"/>
       <source>PREV_INUSE</source>
-      <translation type="unfinished">PREV_INUSE</translation>
+      <translation>PREV_INUSE</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="195"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>保存</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="12"/>
       <source>Chunk @ </source>
-      <translation type="unfinished">Chunk @ </translation>
+      <translation>堆块 @ </translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="100"/>
       <source>Chunk saved</source>
-      <translation type="unfinished">Chunk saved</translation>
+      <translation>堆块已保存</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="101"/>
       <source>Chunk header successfully overwritten</source>
-      <translation type="unfinished">Chunk header successfully overwritten</translation>
+      <translation>堆块头部已成功覆盖</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="103"/>
       <source>Chunk not saved</source>
-      <translation type="unfinished">Chunk not saved</translation>
+      <translation>堆块未保存</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="104"/>
@@ -3676,7 +3676,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="34"/>
       <source>Arena</source>
-      <translation type="unfinished">Arena</translation>
+      <translation>分配区</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="47"/>
@@ -3829,18 +3829,18 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="8"/>
       <source>Detailed Chunk Info</source>
-      <translation type="unfinished">Detailed Chunk Info</translation>
+      <translation>堆块详细信息</translation>
     </message>
     <message>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="80"/>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="122"/>
       <source>bin </source>
-      <translation type="unfinished">bin </translation>
+      <translation>bin </translation>
     </message>
     <message>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="122"/>
       <source> @ </source>
-      <translation type="unfinished"> @ </translation>
+      <translation> @ </translation>
     </message>
   </context>
   <context>
@@ -3848,7 +3848,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/HeapDockWidget.ui" line="14"/>
       <source>Heap</source>
-      <translation type="unfinished">Heap</translation>
+      <translation>堆</translation>
     </message>
   </context>
   <context>
@@ -3912,12 +3912,12 @@ Please check the console for more details.</translation>
       <location filename="../widgets/HexWidget.cpp" line="127"/>
       <location filename="../widgets/HexWidget.cpp" line="1157"/>
       <source>Add Comment</source>
-      <translation type="unfinished">Add Comment</translation>
+      <translation>添加注释</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="134"/>
       <source>Delete Comment</source>
-      <translation type="unfinished">Delete Comment</translation>
+      <translation>删除注释</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="140"/>
@@ -3955,7 +3955,7 @@ Please check the console for more details.</translation>
       <location filename="../widgets/HexWidget.cpp" line="168"/>
       <location filename="../widgets/HexWidget.cpp" line="1318"/>
       <source>Write hex bytes</source>
-      <translation type="unfinished">Write hex bytes</translation>
+      <translation>写入十六进制</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="172"/>
@@ -3981,12 +3981,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="188"/>
       <source>Edit with keyboard</source>
-      <translation type="unfinished">Edit with keyboard</translation>
+      <translation>用键盘编辑</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1160"/>
       <source>Edit Comment</source>
-      <translation type="unfinished">Edit Comment</translation>
+      <translation>编辑注释</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1168"/>
@@ -4014,7 +4014,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1318"/>
       <source>Hex byte string:</source>
-      <translation type="unfinished">Hex byte string:</translation>
+      <translation>十六进制字符串：</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1354"/>
@@ -4168,7 +4168,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="479"/>
       <source>CRC32:</source>
-      <translation type="unfinished">CRC32:</translation>
+      <translation>CRC32:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="50"/>
@@ -4361,7 +4361,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="224"/>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>None</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="259"/>
@@ -4865,7 +4865,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="277"/>
       <source>Ctrl+M</source>
-      <translation type="unfinished">Ctrl+M</translation>
+      <translation>Ctrl+M</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="282"/>
@@ -5227,13 +5227,13 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="748"/>
       <location filename="../core/MainWindow.cpp" line="1793"/>
       <source>Apply Signature From File</source>
-      <translation type="unfinished">Apply Signature From File</translation>
+      <translation>从文件应用签名</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="753"/>
       <location filename="../core/MainWindow.cpp" line="1814"/>
       <source>Create New Signature File</source>
-      <translation type="unfinished">Create New Signature File</translation>
+      <translation>创建签名文件</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="758"/>
@@ -5446,13 +5446,13 @@ Save your project before closing!</source>
       <location filename="../core/MainWindow.cpp" line="1789"/>
       <location filename="../core/MainWindow.cpp" line="1811"/>
       <source>Signature File (*.sig)</source>
-      <translation type="unfinished">Signature File (*.sig)</translation>
+      <translation>签名文件 (*.sig)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1790"/>
       <location filename="../core/MainWindow.cpp" line="1812"/>
       <source>Pattern File (*.pat)</source>
-      <translation type="unfinished">Pattern File (*.pat)</translation>
+      <translation>模板文件 (*.pat)</translation>
     </message>
   </context>
   <context>
@@ -5481,7 +5481,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="72"/>
       <source>0x40000</source>
-      <translation type="unfinished">0x40000</translation>
+      <translation>0x40000</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
@@ -5793,12 +5793,12 @@ Save your project before closing!</source>
     <message>
       <location filename="../common/DisassemblyPreview.cpp" line="41"/>
       <source>More than one (%1) references here. Weird behaviour expected.</source>
-      <translation type="unfinished">More than one (%1) references here. Weird behaviour expected.</translation>
+      <translation>此处有多个（%1）引用。可能会发生异常。</translation>
     </message>
     <message>
       <location filename="../common/DisassemblyPreview.cpp" line="49"/>
       <source>offsetFrom (%1) differs from refs.at(0).from (%(2))</source>
-      <translation type="unfinished">offsetFrom (%1) differs from refs.at(0).from (%(2))</translation>
+      <translation>offsetFrom (%1) 与 refs.at(0).from (%(2)) 不同</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="53"/>
@@ -6743,7 +6743,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="169"/>
       <source>CPU&apos;s</source>
-      <translation type="unfinished">CPU&apos;s</translation>
+      <translation>CPU&apos;s</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="174"/>
@@ -6897,7 +6897,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="257"/>
       <source>string (case insensitive)</source>
-      <translation type="unfinished">string (case insensitive)</translation>
+      <translation>字符串 (大小写不敏感)</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="258"/>
@@ -7384,12 +7384,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="62"/>
       <source>To update, please check the link:&lt;br/&gt;</source>
-      <translation type="unfinished">To update, please check the link:&lt;br/&gt;</translation>
+      <translation>如需更新，请查看链接：&lt;br/&gt;</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="68"/>
       <source>Don&apos;t check for updates automatically</source>
-      <translation type="unfinished">Don&apos;t check for updates automatically</translation>
+      <translation>不自动检查更新</translation>
     </message>
   </context>
   <context>
@@ -7507,11 +7507,11 @@ Do you want to commit them now?</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;Join thousands of reverse engineers in our community:&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Twitter:&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;	&lt;/span&gt;&lt;a href=&quot;https://twitter.com/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Telegram:	&lt;/span&gt;&lt;a href=&quot;https://t.me/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re &lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;IRC:	&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;#cutter on &lt;/span&gt;&lt;a href=&quot;https://web.libera.chat/&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;https://web.libera.chat/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+      <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-/W3C/DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict. td&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
+p, li own white-space: pre-wrapp; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;Join thousands of reverse engineers in our community:&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Twitter:&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;	&lt;/span&gt;&lt;a href=&quot;https://twitter.com/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Telegram:	&lt;/span&gt;&lt;a href=&quot;https://t.me/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re &lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;IRC:	&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;#cutter on &lt;/span&gt;&lt;a href=&quot;https://web.libera.chat/&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;https://web.libera.chat/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;与成千上万的逆向工程师在一起加入我们的社区：&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Twitter：&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;	&lt;/span&gt;&lt;a href=&quot;https://twitter.com/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Telegram：	&lt;/span&gt;&lt;a href=&quot;https://t.me/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re &lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;IRC:	&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;#cutter on &lt;/span&gt;&lt;a href=&quot;https://web.libera.chat/&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;https://web. ibera.chat/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="355"/>
