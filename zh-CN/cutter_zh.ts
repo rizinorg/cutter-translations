@@ -21,7 +21,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="80"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter is a free and open-source reverse engineering platform powered by Rizin&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter是一个免费和开源的逆向工程平台，由Rizin提供支持。&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;阅读更多内容在 &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter 是一个免费和开源的逆向工程平台，由 Rizin 提供支持。&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;阅读更多内容 &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="87"/>
@@ -31,12 +31,12 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="100"/>
       <source>Report an issue</source>
-      <translation type="unfinished">Report an issue</translation>
+      <translation>报告问题</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="113"/>
       <source>Show Rizin plugin information</source>
-      <translation>显示Rizin插件信息</translation>
+      <translation>显示 Rizin 插件信息</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="126"/>
@@ -56,7 +56,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="28"/>
       <source>Using rizin </source>
-      <translation>使用rizin </translation>
+      <translation>使用 rizin </translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="30"/>
@@ -81,17 +81,17 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="50"/>
       <source>Cutter is developed by the community and maintained by its core and development teams.&lt;br/&gt;</source>
-      <translation>Cutter由community开发，由其核心和开发团队维护。&lt;br/&gt;</translation>
+      <translation>Cutter 由社区开发，并由其核心和开发团队维护。&lt;br/&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="52"/>
       <source>Check our &lt;a href=&apos;https://github.com/rizinorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</source>
-      <translation>查看我们的 &lt;a href=&apos;https://github.com/rizinorg/cutter/graphs/contributors&apos;&gt;贡献者页面&lt;/a&gt; for the full list of contributors.</translation>
+      <translation>查看我们的 &lt;a href=&apos;https://github.com/rizinorg/cutter/graphs/contributors&apos;&gt;贡献者页面&lt;/a&gt; 以获取完整贡献者列表。</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="76"/>
       <source>Rizin version information</source>
-      <translation>Rizin版本信息</translation>
+      <translation>Rizin 版本信息</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="103"/>
@@ -101,7 +101,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="109"/>
       <source>Error!</source>
-      <translation>错误!</translation>
+      <translation>错误！</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="112"/>
@@ -155,22 +155,22 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="407"/>
       <source>class</source>
-      <translation type="unfinished">class</translation>
+      <translation>类</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="431"/>
       <source>base</source>
-      <translation type="unfinished">base</translation>
+      <translation>基类</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="464"/>
       <source>method</source>
-      <translation type="unfinished">method</translation>
+      <translation>方法</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="502"/>
       <source>vtable</source>
-      <translation type="unfinished">vtable</translation>
+      <translation>虚函数表</translation>
     </message>
   </context>
   <context>
@@ -178,52 +178,52 @@
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="20"/>
       <source>Analysis</source>
-      <translation type="unfinished">Analysis</translation>
+      <translation>分析</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="55"/>
       <source>Show verbose information when performing analysis (analysis.verbose)</source>
-      <translation type="unfinished">Show verbose information when performing analysis (analysis.verbose)</translation>
+      <translation>在进行分析时，显示详细信息 (analysis.verbose)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="68"/>
       <source>Analyze push+ret as jmp (analysis.pushret)</source>
-      <translation type="unfinished">Analyze push+ret as jmp (analysis.pushret)</translation>
+      <translation>将 push + ret 分析为 jmp (analysis.pushret)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="81"/>
       <source>Verbose output from type analysis (analysis.types.verbose)</source>
-      <translation type="unfinished">Verbose output from type analysis (analysis.types.verbose)</translation>
+      <translation>类型分析的详细信息 (analysis.types.verbose)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="94"/>
       <source>Speculatively set a name for the functions (analysis.autoname)</source>
-      <translation type="unfinished">Speculatively set a name for the functions (analysis.autoname)</translation>
+      <translation>为函数推测命名 (analysis.autoname)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="107"/>
       <source>Search for new functions following already defined functions (analysis.hasnext)</source>
-      <translation type="unfinished">Search for new functions following already defined functions (analysis.hasnext)</translation>
+      <translation>在已定义的函数之后搜索新函数 (analysis.hasnext)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="120"/>
       <source>Create references for unconditional jumps (analysis.jmp.ref)</source>
-      <translation type="unfinished">Create references for unconditional jumps (analysis.jmp.ref)</translation>
+      <translation>为无条件跳转创建引用 (analysis.jmp.ref)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="133"/>
       <source>Analyze jump tables in switch statements (analysis.jmp.tbl)</source>
-      <translation type="unfinished">Analyze jump tables in switch statements (analysis.jmp.tbl)</translation>
+      <translation>分析 switch 语句中的跳转表 (analysis.jmp.tbl)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="161"/>
       <source>Search boundaries for analysis (analysis.in): </source>
-      <translation type="unfinished">Search boundaries for analysis (analysis.in): </translation>
+      <translation>搜索分析边界 (analysis.in): </translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="195"/>
       <source>Pointer depth (analysis.ptrdepth):</source>
-      <translation type="unfinished">Pointer depth (analysis.ptrdepth):</translation>
+      <translation>指针深度 (analysis.ptrdepth):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="236"/>
@@ -233,7 +233,7 @@
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="269"/>
       <source>Analyze program</source>
-      <translation type="unfinished">Analyze program</translation>
+      <translation>分析程序</translation>
     </message>
   </context>
   <context>
@@ -241,32 +241,32 @@
     <message>
       <location filename="../common/AnalysisTask.cpp" line="25"/>
       <source>Initial Analysis</source>
-      <translation type="unfinished">Initial Analysis</translation>
+      <translation>初步分析</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="27"/>
       <source>Analyzing Program</source>
-      <translation type="unfinished">Analyzing Program</translation>
+      <translation>正在分析程序</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="45"/>
       <source>Loading the file...</source>
-      <translation type="unfinished">Loading the file...</translation>
+      <translation>正在加载文件...</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="72"/>
       <source>Loading PDB file...</source>
-      <translation type="unfinished">Loading PDB file...</translation>
+      <translation>正在加载 PDB 文件...</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="81"/>
       <source>Loading shellcode...</source>
-      <translation type="unfinished">Loading shellcode...</translation>
+      <translation>正在加载 shellcode...</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="92"/>
       <source>Executing script...</source>
-      <translation type="unfinished">Executing script...</translation>
+      <translation>正在执行脚本...</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="101"/>
