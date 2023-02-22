@@ -659,7 +659,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="362"/>
       <source>Show x-refs (asm.xrefs)</source>
-      <translation>显示外部参考文献 (asm.xrefs)</translation>
+      <translation>显示交叉引用 (asm.xrefs)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="369"/>
@@ -2041,7 +2041,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1133"/>
       <source>X-Refs:</source>
-      <translation>X-Refs:</translation>
+      <translation>交叉引用:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1159"/>
@@ -2344,7 +2344,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="35"/>
       <source>Show X-Refs</source>
-      <translation>显示外部参考文献</translation>
+      <translation>显示交叉引用</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="36"/>
@@ -2446,12 +2446,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="321"/>
       <source>Can&apos;t rename this variable.&lt;br&gt;Only local variables defined in disassembly can be renamed.</source>
-      <translation>不能重命名这个变量。&lt;br&gt;只有在反汇编中定义的本地变量才能被重命名。</translation>
+      <translation>不能重命名这个变量。&lt;br&gt;只有在反汇编中定义的局部变量才能被重命名。</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="340"/>
       <source>Can&apos;t edit this variable.&lt;br&gt;Only local variables defined in disassembly can be edited.</source>
-      <translation>不能编辑这个变量。&lt;br&gt;只有在反汇编中定义的本地变量才能被编辑。</translation>
+      <translation>不能编辑这个变量。&lt;br&gt;只有在反汇编中定义的局部变量才能被编辑。</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="413"/>
@@ -2668,12 +2668,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="127"/>
       <source>Show X-Refs</source>
-      <translation>显示外部参考文献</translation>
+      <translation>显示交叉引用</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="131"/>
       <source>X-Refs for local variables</source>
-      <translation>本地变量的外部参考文献</translation>
+      <translation>局部变量的交叉引用</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="135"/>
@@ -2884,7 +2884,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="600"/>
       <source>X-Refs for %1</source>
-      <translation>%1 的外部参考文献</translation>
+      <translation>%1 的交叉引用</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="695"/>
@@ -7567,12 +7567,12 @@ p, li own white-space: pre-wrapp; }
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="155"/>
       <source>X-Refs to %1 (%2 results):</source>
-      <translation>到%1的外部参考文献（%2的结果）：</translation>
+      <translation>到%1的交叉引用（%2的结果）：</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="157"/>
       <source>X-Refs from %1 (%2 results):</source>
-      <translation>来自%1的外部参考文献（%2的结果）：</translation>
+      <translation>来自%1的交叉引用（%2的结果）：</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="162"/>
@@ -7588,7 +7588,7 @@ p, li own white-space: pre-wrapp; }
       <location filename="../dialogs/XrefsDialog.cpp" line="174"/>
       <location filename="../dialogs/XrefsDialog.cpp" line="193"/>
       <source>X-Refs for %1</source>
-      <translation>%1的外部参考文献</translation>
+      <translation>%1的交叉引用</translation>
     </message>
   </context>
 </TS>
