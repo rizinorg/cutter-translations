@@ -2041,7 +2041,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1133"/>
       <source>X-Refs:</source>
-      <translation>交叉引用:</translation>
+      <translation>交叉引用：</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1159"/>
@@ -2490,22 +2490,22 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="449"/>
       <source>Rename local variable %1</source>
-      <translation>重命名本地变量%1</translation>
+      <translation>重命名局部变量%1</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="450"/>
       <source>Can&apos;t rename this variable. Only local variables defined in disassembly can be renamed.</source>
-      <translation>不能重命名这个变量。只有在反汇编中定义的本地变量可以被重命名。</translation>
+      <translation>不能重命名这个变量。只有在反汇编中定义的局部变量可以被重命名。</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="475"/>
       <source>Edit local variable %1</source>
-      <translation>编辑本地变量 %1</translation>
+      <translation>编辑局部变量 %1</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="476"/>
       <source>Can&apos;t edit this variable. Only local variables defined in disassembly can be edited.</source>
-      <translation>不能编辑这个变量。只有在反汇编中定义的本地变量可以被编辑。</translation>
+      <translation>不能编辑这个变量。只有在反汇编中定义的局部变量可以被编辑。</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="542"/>
@@ -2633,7 +2633,7 @@ Please check the console for more details.</source>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="90"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="865"/>
       <source>Re-type Local Variables</source>
-      <translation>重新输入本地变量</translation>
+      <translation>重新输入局部变量</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="94"/>
