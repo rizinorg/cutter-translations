@@ -31,12 +31,12 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="100"/>
       <source>Report an issue</source>
-      <translation type="unfinished">Report an issue</translation>
+      <translation>問題を報告</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="113"/>
       <source>Show Rizin plugin information</source>
-      <translation type="unfinished">Show Rizin plugin information</translation>
+      <translation>プラグイン情報を表示</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="126"/>
