@@ -4401,7 +4401,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="541"/>
       <source>Use virtual addressing</source>
-      <translation>Utiliser l&apos;adressage virtuelle</translation>
+      <translation>Utiliser l&apos;adressage virtuel</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="551"/>
