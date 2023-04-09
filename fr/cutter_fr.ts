@@ -21,7 +21,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="80"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter is a free and open-source reverse engineering platform powered by Rizin&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter is a free and open-source reverse engineering platform powered by Rizin&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter est une plateforme de rétro-ingénierie gratuite et open source propulsée par Rizin&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Pour en savoir plus, visitez &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="87"/>
@@ -31,12 +31,12 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="100"/>
       <source>Report an issue</source>
-      <translation type="unfinished">Report an issue</translation>
+      <translation>Signaler un problème</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="113"/>
       <source>Show Rizin plugin information</source>
-      <translation type="unfinished">Show Rizin plugin information</translation>
+      <translation>Voir les informations des plugins de Rizin</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="126"/>
@@ -56,7 +56,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="28"/>
       <source>Using rizin </source>
-      <translation type="unfinished">Using rizin </translation>
+      <translation>Utilise Rizin version </translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="30"/>
@@ -86,7 +86,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="52"/>
       <source>Check our &lt;a href=&apos;https://github.com/rizinorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</source>
-      <translation type="unfinished">Check our &lt;a href=&apos;https://github.com/rizinorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</translation>
+      <translation>Consultez notre &lt;a href=&apos;https://github.com/rizinorg/cutter/graphs/contributors&apos;&gt;page de contributeurs&lt;/a&gt; pour la liste complète des contributeurs.</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="76"/>
@@ -4401,7 +4401,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="541"/>
       <source>Use virtual addressing</source>
-      <translation>Utiliser l&apos;adressage virtuelle</translation>
+      <translation>Utiliser l&apos;adressage virtuel</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="551"/>
@@ -5565,7 +5565,7 @@ Enregistrez votre projet avant de le fermer!</translation>
       <location filename="../dialogs/NewFileDialog.ui" line="20"/>
       <location filename="../dialogs/NewFileDialog.ui" line="149"/>
       <source>Open File</source>
-      <translation>Ouvrir le fichier</translation>
+      <translation>Ouvrir un fichier</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="79"/>
@@ -5603,7 +5603,7 @@ Enregistrez votre projet avant de le fermer!</translation>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="316"/>
       <source>Open Shellcode</source>
-      <translation>Ouvrir le Shellcode</translation>
+      <translation>Ouvrir un Shellcode</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="328"/>
@@ -5623,12 +5623,12 @@ Enregistrez votre projet avant de le fermer!</translation>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="519"/>
       <source>Remove item</source>
-      <translation>Supprimer l&apos;élément</translation>
+      <translation>Supprimer le fichier</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="524"/>
       <source>Clear all</source>
-      <translation>Tout nettoyer</translation>
+      <translation>Tout supprimer</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="529"/>
@@ -5699,7 +5699,7 @@ Enregistrez votre projet avant de le fermer!</translation>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="48"/>
       <source>Show Rizin plugin information</source>
-      <translation type="unfinished">Show Rizin plugin information</translation>
+      <translation>Voir les informations des plugins de Rizin</translation>
     </message>
   </context>
   <context>

@@ -31,12 +31,12 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="100"/>
       <source>Report an issue</source>
-      <translation type="unfinished">Report an issue</translation>
+      <translation>問題を報告</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="113"/>
       <source>Show Rizin plugin information</source>
-      <translation type="unfinished">Show Rizin plugin information</translation>
+      <translation>プラグイン情報を表示</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="126"/>
@@ -56,7 +56,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="28"/>
       <source>Using rizin </source>
-      <translation type="unfinished">Using rizin </translation>
+      <translation>Rizinを使用 </translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="30"/>
@@ -266,17 +266,17 @@
     <message>
       <location filename="../common/AnalysisTask.cpp" line="92"/>
       <source>Executing script...</source>
-      <translation type="unfinished">Executing script...</translation>
+      <translation>スクリプトを実行中...</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="101"/>
       <source>Executing analysis...</source>
-      <translation type="unfinished">Executing analysis...</translation>
+      <translation>解析を実行中...</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="110"/>
       <source>Analysis complete!</source>
-      <translation type="unfinished">Analysis complete!</translation>
+      <translation>解析完了</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="112"/>
@@ -469,7 +469,7 @@
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation type="unfinished">Dialog</translation>
+      <translation>ダイアログ</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="22"/>
@@ -6808,7 +6808,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../common/RunScriptTask.cpp" line="18"/>
       <source>Executing script...</source>
-      <translation type="unfinished">Executing script...</translation>
+      <translation>スクリプトを実行中...</translation>
     </message>
     <message>
       <location filename="../common/RunScriptTask.h" line="15"/>
