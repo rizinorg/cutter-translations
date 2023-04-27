@@ -21,7 +21,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="80"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter is a free and open-source reverse engineering platform powered by Rizin&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter is a free and open-source reverse engineering platform powered by Rizin&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;CutterはRizinを搭載したフリーかつオープンソースのリバースエンジニアリングプラットフォーム&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="87"/>
@@ -86,12 +86,13 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="52"/>
       <source>Check our &lt;a href=&apos;https://github.com/rizinorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</source>
-      <translation type="unfinished">Check our &lt;a href=&apos;https://github.com/rizinorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</translation>
+      <translation>コントリビューター一覧については、 &lt;a href=&apos;https://github.com/rizinorg/cutter/graphs/contributors&apos;&gt;コントリビューターページ&lt;/a&gt; 
+ をご覧ください。</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="76"/>
       <source>Rizin version information</source>
-      <translation type="unfinished">Rizin version information</translation>
+      <translation>Rizinバージョン情報</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="103"/>
@@ -124,7 +125,7 @@
     <message>
       <location filename="../widgets/AddressableDockWidget.cpp" line="12"/>
       <source>Sync/unsync offset</source>
-      <translation type="unfinished">Sync/unsync offset</translation>
+      <translation>Sync/unsync オフセット</translation>
     </message>
   </context>
   <context>
@@ -155,22 +156,22 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="407"/>
       <source>class</source>
-      <translation type="unfinished">class</translation>
+      <translation>クラス</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="431"/>
       <source>base</source>
-      <translation type="unfinished">base</translation>
+      <translation>基底</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="464"/>
       <source>method</source>
-      <translation type="unfinished">method</translation>
+      <translation>メソッド</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="502"/>
       <source>vtable</source>
-      <translation type="unfinished">vtable</translation>
+      <translation>vtable</translation>
     </message>
   </context>
   <context>
@@ -178,12 +179,12 @@
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="20"/>
       <source>Analysis</source>
-      <translation type="unfinished">Analysis</translation>
+      <translation>解析</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="55"/>
       <source>Show verbose information when performing analysis (analysis.verbose)</source>
-      <translation type="unfinished">Show verbose information when performing analysis (analysis.verbose)</translation>
+      <translation>解析の実行時に詳細情報を表示する（analyzis.verbose）</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="68"/>
