@@ -3508,7 +3508,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="28"/>
       <source>Bins info for arena @ </source>
-      <translation type="unfinished">Bins info for arena @ </translation>
+      <translation>アリーナのBin情報 @ </translation>
     </message>
   </context>
   <context>
@@ -3516,42 +3516,42 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation type="unfinished">Dialog</translation>
+      <translation>ダイアログ</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="22"/>
       <source>Base</source>
-      <translation type="unfinished">Base</translation>
+      <translation>基底</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="29"/>
       <source>Base address of the chunk</source>
-      <translation type="unfinished">Base address of the chunk</translation>
+      <translation>チャンクのベースアドレス</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="39"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>サイズ</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="46"/>
       <source>Size of the heap chunk including metadata</source>
-      <translation type="unfinished">Size of the heap chunk including metadata</translation>
+      <translation>メタデータを含むヒープチャンクのサイズ</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="56"/>
       <source>Fd</source>
-      <translation type="unfinished">Fd</translation>
+      <translation>Fd</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="63"/>
       <source>Link to next free chunk in bin&apos;s linked list</source>
-      <translation type="unfinished">Link to next free chunk in bin&apos;s linked list</translation>
+      <translation>bin のリンク リスト内の次のフリー チャンクへのリンク</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="73"/>
       <source>Bk</source>
-      <translation type="unfinished">Bk</translation>
+      <translation>Bk</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="80"/>
@@ -3882,7 +3882,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="88"/>
       <source>Bytes per row</source>
-      <translation type="unfinished">Bytes per row</translation>
+      <translation>行ごとのバイト</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="98"/>
@@ -3897,7 +3897,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="110"/>
       <source>Bytes as pairs</source>
-      <translation type="unfinished">Bytes as pairs</translation>
+      <translation>組としてのバイト</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="114"/>
@@ -3907,18 +3907,18 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="120"/>
       <source>Copy address</source>
-      <translation type="unfinished">Copy address</translation>
+      <translation>アドレスをコピー</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="127"/>
       <location filename="../widgets/HexWidget.cpp" line="1157"/>
       <source>Add Comment</source>
-      <translation type="unfinished">Add Comment</translation>
+      <translation>コメントを追加</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="134"/>
       <source>Delete Comment</source>
-      <translation type="unfinished">Delete Comment</translation>
+      <translation>コメントを削除</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="140"/>
@@ -3929,75 +3929,75 @@ Please check the console for more details.</source>
       <location filename="../widgets/HexWidget.cpp" line="147"/>
       <location filename="../widgets/HexWidget.cpp" line="1272"/>
       <source>Write string</source>
-      <translation type="unfinished">Write string</translation>
+      <translation>文字列の書き込み</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="151"/>
       <source>Write length and string</source>
-      <translation type="unfinished">Write length and string</translation>
+      <translation>長さと文字列の書き込み</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="155"/>
       <location filename="../widgets/HexWidget.cpp" line="1466"/>
       <source>Write wide string</source>
-      <translation type="unfinished">Write wide string</translation>
+      <translation>幅の広い文字列の書き込み</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="159"/>
       <source>Write zero terminated string</source>
-      <translation type="unfinished">Write zero terminated string</translation>
+      <translation>ヌル終端文字列の書き込み</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="163"/>
       <source>Write De\Encoded Base64 string</source>
-      <translation type="unfinished">Write De\Encoded Base64 string</translation>
+      <translation>デコードされた Base64 文字列の書き込み</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="168"/>
       <location filename="../widgets/HexWidget.cpp" line="1318"/>
       <source>Write hex bytes</source>
-      <translation type="unfinished">Write hex bytes</translation>
+      <translation>16 進バイトの書き込み</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="172"/>
       <location filename="../widgets/HexWidget.cpp" line="1354"/>
       <source>Write zeros</source>
-      <translation type="unfinished">Write zeros</translation>
+      <translation>ヌルの書き込み</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="176"/>
       <source>Write random bytes</source>
-      <translation type="unfinished">Write random bytes</translation>
+      <translation>ランダムバイトの書き込み</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="180"/>
       <source>Duplicate from offset</source>
-      <translation type="unfinished">Duplicate from offset</translation>
+      <translation>オフセットから複製</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="184"/>
       <source>Increment/Decrement</source>
-      <translation type="unfinished">Increment/Decrement</translation>
+      <translation>増加 / 減少</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="188"/>
       <source>Edit with keyboard</source>
-      <translation type="unfinished">Edit with keyboard</translation>
+      <translation>キーボードで編集</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1160"/>
       <source>Edit Comment</source>
-      <translation type="unfinished">Edit Comment</translation>
+      <translation>コメントを編集</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1168"/>
       <source>Item size:</source>
-      <translation type="unfinished">Item size:</translation>
+      <translation>項目のサイズ:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1170"/>
       <source>Item format:</source>
-      <translation type="unfinished">Item format:</translation>
+      <translation>項目のフォーマット:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1175"/>
@@ -4010,49 +4010,49 @@ Please check the console for more details.</source>
       <location filename="../widgets/HexWidget.cpp" line="1466"/>
       <location filename="../widgets/HexWidget.cpp" line="1484"/>
       <source>String:</source>
-      <translation type="unfinished">String:</translation>
+      <translation>文字列:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1318"/>
       <source>Hex byte string:</source>
-      <translation type="unfinished">Hex byte string:</translation>
+      <translation>16 進数バイト文字列:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1354"/>
       <source>Number of zeros:</source>
-      <translation type="unfinished">Number of zeros:</translation>
+      <translation>ゼロの数:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1381"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>エラー</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1382"/>
       <source>Error occured during decoding your input.
 Please, make sure, that it is a valid base64 string and try again.</source>
-      <translation type="unfinished">Error occured during decoding your input.
-Please, make sure, that it is a valid base64 string and try again.</translation>
+      <translation>入力のデコード中にエラーが発生しました。
+有効な base64 文字列であることを確認して、もう一度やり直してください。</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1410"/>
       <source>Write random</source>
-      <translation type="unfinished">Write random</translation>
+      <translation>ランダムの書き込み</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1410"/>
       <source>Number of bytes:</source>
-      <translation type="unfinished">Number of bytes:</translation>
+      <translation>バイト数:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1448"/>
       <source>Write Pascal string</source>
-      <translation type="unfinished">Write Pascal string</translation>
+      <translation>パスカル文字列の書き込み</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1484"/>
       <source>Write zero-terminated string</source>
-      <translation type="unfinished">Write zero-terminated string</translation>
+      <translation>ヌル終端文字列の書き込み</translation>
     </message>
   </context>
   <context>
@@ -4066,27 +4066,27 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="47"/>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="79"/>
       <source>Exclusive end address</source>
-      <translation type="unfinished">Exclusive end address</translation>
+      <translation>専用の終了アドレス</translation>
     </message>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="50"/>
       <source>End Address:</source>
-      <translation type="unfinished">End Address:</translation>
+      <translation>終了アドレス:</translation>
     </message>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="65"/>
       <source>Start Address:</source>
-      <translation type="unfinished">Start Address:</translation>
+      <translation>開始アドレス:</translation>
     </message>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="99"/>
       <source>Length:</source>
-      <translation type="unfinished">Length:</translation>
+      <translation>長さ:</translation>
     </message>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="115"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff8585;&quot;&gt;Big selection might cause a delay&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff8585;&quot;&gt;Big selection might cause a delay&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff8585;&quot;&gt;幅広く洗濯すると時間がかかる可能性があります&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
   </context>
   <context>
@@ -4094,7 +4094,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="70"/>
       <source>Parsing</source>
-      <translation type="unfinished">Parsing</translation>
+      <translation>解析中</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="120"/>
@@ -4119,7 +4119,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="220"/>
       <source>Bits</source>
-      <translation type="unfinished">Bits</translation>
+      <translation>ビット</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="231"/>
@@ -4149,12 +4149,12 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="357"/>
       <source>Copy SHA256</source>
-      <translation type="unfinished">Copy SHA256</translation>
+      <translation>SHA256 をコピー</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="396"/>
       <source>Copy CRC32</source>
-      <translation type="unfinished">Copy CRC32</translation>
+      <translation>CRC32 をコピー</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="434"/>
@@ -4169,12 +4169,12 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="479"/>
       <source>CRC32:</source>
-      <translation type="unfinished">CRC32:</translation>
+      <translation>CRC32:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="50"/>
       <source>Select bytes to display information</source>
-      <translation type="unfinished">Select bytes to display information</translation>
+      <translation>バイトを選択して情報を表示</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="143"/>
@@ -4189,32 +4189,32 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="145"/>
       <source>Assembler</source>
-      <translation type="unfinished">Assembler</translation>
+      <translation>アセンブラ</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="146"/>
       <source>C bytes</source>
-      <translation type="unfinished">C bytes</translation>
+      <translation>C バイト</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="147"/>
       <source>C bytes with instructions</source>
-      <translation type="unfinished">C bytes with instructions</translation>
+      <translation>命令付きの C バイト</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="148"/>
       <source>C half-words (2 byte)</source>
-      <translation type="unfinished">C half-words (2 byte)</translation>
+      <translation>C 半語（2 バイト）</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="149"/>
       <source>C words (4 byte)</source>
-      <translation type="unfinished">C words (4 byte)</translation>
+      <translation>C 半語（4 バイト）</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="150"/>
       <source>C dwords (8 byte)</source>
-      <translation type="unfinished">C dwords (8 byte)</translation>
+      <translation>C dword（8 バイト）</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="151"/>
@@ -4247,12 +4247,12 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="45"/>
       <source>Unsafe</source>
-      <translation type="unfinished">Unsafe</translation>
+      <translation>危険</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="71"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>アドレス</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="73"/>
@@ -4262,17 +4262,17 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="75"/>
       <source>Safety</source>
-      <translation type="unfinished">Safety</translation>
+      <translation>安全</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="77"/>
       <source>Library</source>
-      <translation type="unfinished">Library</translation>
+      <translation>ライブラリ</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="79"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名前</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="81"/>
@@ -4765,7 +4765,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="113"/>
       <source>Layouts</source>
-      <translation type="unfinished">Layouts</translation>
+      <translation>レイアウト</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="133"/>
@@ -4781,7 +4781,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="150"/>
       <source>Windows</source>
-      <translation type="unfinished">Windows</translation>
+      <translation>Windows</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="154"/>
@@ -4808,7 +4808,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="225"/>
       <source>Reset to default layout</source>
-      <translation type="unfinished">Reset to default layout</translation>
+      <translation>デフォルトのレイアウトに戻す</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="230"/>
@@ -4833,7 +4833,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="248"/>
       <source>New Window</source>
-      <translation type="unfinished">New Window</translation>
+      <translation>新しいウィンドウ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="251"/>
@@ -4861,19 +4861,19 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="274"/>
       <source>Map File</source>
-      <translation type="unfinished">Map File</translation>
+      <translation>マップファイル</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="277"/>
       <source>Ctrl+M</source>
-      <translation type="unfinished">Ctrl+M</translation>
+      <translation>Ctrl+M</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="282"/>
       <location filename="../core/MainWindow.cpp" line="723"/>
       <location filename="../core/MainWindow.cpp" line="746"/>
       <source>Save Project</source>
-      <translation type="unfinished">Save Project</translation>
+      <translation>プロジェクトを保存</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="285"/>
@@ -4883,7 +4883,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="290"/>
       <source>Cut</source>
-      <translation type="unfinished">Cut</translation>
+      <translation>切り取る</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="295"/>
@@ -4927,7 +4927,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="343"/>
       <source>Undo Seek</source>
-      <translation type="unfinished">Undo Seek</translation>
+      <translation>シークを元に戻す</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="346"/>
@@ -4937,17 +4937,17 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="355"/>
       <source>Redo Seek</source>
-      <translation type="unfinished">Redo Seek</translation>
+      <translation>シークをリドゥーする</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="366"/>
       <source>Unlock Panels</source>
-      <translation type="unfinished">Unlock Panels</translation>
+      <translation>パネルをアンロック</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="369"/>
       <source>Toggle panel locks</source>
-      <translation type="unfinished">Toggle panel locks</translation>
+      <translation>パネルロックの切り替え</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="388"/>
@@ -4958,22 +4958,22 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <location filename="../core/MainWindow.ui" line="403"/>
       <location filename="../core/MainWindow.ui" line="406"/>
       <source>Tabs up/down</source>
-      <translation type="unfinished">Tabs up/down</translation>
+      <translation>タブの上/下</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="415"/>
       <source>Refresh</source>
-      <translation type="unfinished">Refresh</translation>
+      <translation>更新</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="423"/>
       <source>Show Tabs at the Top</source>
-      <translation type="unfinished">Show Tabs at the Top</translation>
+      <translation>上部にタブを表示</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="426"/>
       <source>Toggle tab position</source>
-      <translation type="unfinished">Toggle tab position</translation>
+      <translation>タブの位置を切り替える</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="431"/>
@@ -5033,17 +5033,17 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <location filename="../core/MainWindow.ui" line="493"/>
       <location filename="../core/MainWindow.ui" line="496"/>
       <source>Insert hex</source>
-      <translation type="unfinished">Insert hex</translation>
+      <translation>16 進数を挿入</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="511"/>
       <source>Show/Hide bytes</source>
-      <translation type="unfinished">Show/Hide bytes</translation>
+      <translation>バイトの表示/非表示</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="516"/>
       <source>Switch case</source>
-      <translation type="unfinished">Switch case</translation>
+      <translation>大文字小文字を切り替える</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="521"/>
@@ -5121,7 +5121,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <location filename="../core/MainWindow.ui" line="613"/>
       <location filename="../core/MainWindow.ui" line="623"/>
       <source>Undefine</source>
-      <translation type="unfinished">Undefine</translation>
+      <translation>定義を解除</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="628"/>
@@ -5132,22 +5132,22 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <location filename="../core/MainWindow.ui" line="640"/>
       <location filename="../core/MainWindow.ui" line="643"/>
       <source>Show/Hide bottom pannel</source>
-      <translation type="unfinished">Show/Hide bottom pannel</translation>
+      <translation>下部のパネルを表示/非表示にします。</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="648"/>
       <source>Run Rizin script</source>
-      <translation type="unfinished">Run Rizin script</translation>
+      <translation>Rizin スクリプトを実行</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="653"/>
       <source>Reset Settings</source>
-      <translation type="unfinished">Reset Settings</translation>
+      <translation>設定をリセット</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="656"/>
       <source>Reset settings</source>
-      <translation type="unfinished">Reset settings</translation>
+      <translation>設定をリセット</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="661"/>
@@ -5172,134 +5172,134 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="680"/>
       <source>Refresh Contents</source>
-      <translation type="unfinished">Refresh Contents</translation>
+      <translation>コンテンツを更新</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="683"/>
       <source>Refresh contents</source>
-      <translation type="unfinished">Refresh contents</translation>
+      <translation>コンテンツを更新</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="691"/>
       <source>Show ESIL rather than assembly</source>
-      <translation type="unfinished">Show ESIL rather than assembly</translation>
+      <translation>アセンブリの代わりに ESIL を表示</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="699"/>
       <source>Show pseudocode rather than assembly</source>
-      <translation type="unfinished">Show pseudocode rather than assembly</translation>
+      <translation>アセンブリの代わりに疑似コードを表示</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="710"/>
       <source>Display offsets</source>
-      <translation type="unfinished">Display offsets</translation>
+      <translation>オフセットを表示</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="715"/>
       <source>Preferences</source>
-      <translation type="unfinished">Preferences</translation>
+      <translation>設定</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="720"/>
       <source>Save Project As...</source>
-      <translation type="unfinished">Save Project As...</translation>
+      <translation>プロジェクトに名前を付けて保存...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="728"/>
       <source>Graph</source>
-      <translation type="unfinished">Graph</translation>
+      <translation>グラフ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="733"/>
       <source>Import PDB</source>
-      <translation type="unfinished">Import PDB</translation>
+      <translation>PDB をインポート</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="738"/>
       <source>Analyze Program</source>
-      <translation type="unfinished">Analyze Program</translation>
+      <translation>プログラムを分析</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="743"/>
       <source>Export as code</source>
-      <translation type="unfinished">Export as code</translation>
+      <translation>コードとしてエクスポート</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="748"/>
       <location filename="../core/MainWindow.cpp" line="1793"/>
       <source>Apply Signature From File</source>
-      <translation type="unfinished">Apply Signature From File</translation>
+      <translation>ファイルから署名を適用</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="753"/>
       <location filename="../core/MainWindow.cpp" line="1814"/>
       <source>Create New Signature File</source>
-      <translation type="unfinished">Create New Signature File</translation>
+      <translation>新しい署名ファイルを作成</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="758"/>
       <source>Add Hexdump</source>
-      <translation type="unfinished">Add Hexdump</translation>
+      <translation>16 進ダンプを追加</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="763"/>
       <source>Add Decompiler</source>
-      <translation type="unfinished">Add Decompiler</translation>
+      <translation>デコンピラーを追加</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="768"/>
       <source>Add Disassembly</source>
-      <translation type="unfinished">Add Disassembly</translation>
+      <translation>逆アセンブリを追加</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="773"/>
       <source>Add Graph</source>
-      <translation type="unfinished">Add Graph</translation>
+      <translation>グラフを追加</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="784"/>
       <source>Grouped dock dragging</source>
-      <translation type="unfinished">Grouped dock dragging</translation>
+      <translation>ドックドラッグのグループ化</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="789"/>
       <source>Zoom In</source>
-      <translation type="unfinished">Zoom In</translation>
+      <translation>拡大</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="792"/>
       <source>Ctrl++</source>
-      <translation type="unfinished">Ctrl++</translation>
+      <translation>Ctrl++</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="800"/>
       <source>Zoom Out</source>
-      <translation type="unfinished">Zoom Out</translation>
+      <translation>縮小</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="803"/>
       <source>Ctrl+-</source>
-      <translation type="unfinished">Ctrl+-</translation>
+      <translation>Ctrl+-</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="811"/>
       <source>Reset</source>
-      <translation type="unfinished">Reset</translation>
+      <translation>リセット</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="814"/>
       <source>Ctrl+=</source>
-      <translation type="unfinished">Ctrl+=</translation>
+      <translation>Ctrl+=</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="822"/>
       <source>Commit changes</source>
-      <translation type="unfinished">Commit changes</translation>
+      <translation>変更をコミット</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="830"/>
       <source>Write mode</source>
-      <translation type="unfinished">Write mode</translation>
+      <translation>書き込みモード</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="833"/>
@@ -5579,39 +5579,39 @@ Save your project before closing!</translation>
       <location filename="../dialogs/NewFileDialog.ui" line="182"/>
       <location filename="../dialogs/NewFileDialog.ui" line="390"/>
       <source>Select</source>
-      <translation type="unfinished">Select</translation>
+      <translation>選択</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="202"/>
       <source>&lt;b&gt;IO&lt;/b&gt;</source>
-      <translation type="unfinished">&lt;b&gt;IO&lt;/b&gt;</translation>
+      <translation>&lt;b&gt;IO&lt;/b&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="296"/>
       <source>Don&apos;t open any file</source>
-      <translation type="unfinished">Don&apos;t open any file</translation>
+      <translation>ファイルを開かない</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="303"/>
       <location filename="../dialogs/NewFileDialog.ui" line="360"/>
       <location filename="../dialogs/NewFileDialog.ui" line="501"/>
       <source>Open</source>
-      <translation type="unfinished">Open</translation>
+      <translation>開く</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="316"/>
       <source>Open Shellcode</source>
-      <translation type="unfinished">Open Shellcode</translation>
+      <translation>シェルコードを開く</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="328"/>
       <source>&lt;b&gt;Paste Shellcode&lt;b&gt;</source>
-      <translation type="unfinished">&lt;b&gt;Paste Shellcode&lt;b&gt;</translation>
+      <translation>&lt;b&gt;シェルコードを貼り付ける&lt;b&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="370"/>
       <source>Projects</source>
-      <translation type="unfinished">Projects</translation>
+      <translation>プロジェクト</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="410"/>
