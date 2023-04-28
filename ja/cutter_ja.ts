@@ -2340,7 +2340,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="34"/>
       <source>Edit variable &lt;name of variable&gt;</source>
-      <translation type="unfinished">Edit variable &lt;name of variable&gt;</translation>
+      <translation>(&lt;address&gt; ) を編集</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="35"/>
@@ -2366,7 +2366,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="40"/>
       <source>Set PC</source>
-      <translation type="unfinished">Set PC</translation>
+      <translation>プログラムコンテクストを設定</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="169"/>
@@ -2386,22 +2386,22 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="189"/>
       <source>Remove all breakpoints in line</source>
-      <translation type="unfinished">Remove all breakpoints in line</translation>
+      <translation>行内のすべてのブレークポイントを削除</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="196"/>
       <source>Edit breakpoint</source>
-      <translation type="unfinished">Edit breakpoint</translation>
+      <translation>ブレークポイントを編集</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="200"/>
       <source>Set %1 here</source>
-      <translation type="unfinished">Set %1 here</translation>
+      <translation>ここで %1 を設定</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="212"/>
       <source>Rename function %1</source>
-      <translation type="unfinished">Rename function %1</translation>
+      <translation>%1 関数の名前を変更</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="217"/>
@@ -2411,64 +2411,64 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="218"/>
       <source>Remove %1</source>
-      <translation type="unfinished">Remove %1</translation>
+      <translation>%1 を削除</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="221"/>
       <source>Add name to %1</source>
-      <translation type="unfinished">Add name to %1</translation>
+      <translation>%1 に名前を追加</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="226"/>
       <source>Copy instruction address (%1)</source>
-      <translation type="unfinished">Copy instruction address (%1)</translation>
+      <translation>命令アドレスをコピー (%1)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="232"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="237"/>
       <source>Copy address of %1 (%2)</source>
-      <translation type="unfinished">Copy address of %1 (%2)</translation>
+      <translation>%1 のアドレスをコピー (%2)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="241"/>
       <source>Copy address (%1)</source>
-      <translation type="unfinished">Copy address (%1)</translation>
+      <translation>アドレスをコピー (%1)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="257"/>
       <source>Edit variable %1</source>
-      <translation type="unfinished">Edit variable %1</translation>
+      <translation> %1 変数を編集</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="259"/>
       <source>Rename variable %1</source>
-      <translation type="unfinished">Rename variable %1</translation>
+      <translation>%1 変数の名前を変更</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="321"/>
       <source>Can&apos;t rename this variable.&lt;br&gt;Only local variables defined in disassembly can be renamed.</source>
-      <translation type="unfinished">Can&apos;t rename this variable.&lt;br&gt;Only local variables defined in disassembly can be renamed.</translation>
+      <translation>この変数の名前を変更することはできません。逆アセンブリで定義されたローカルな変数の名前をのみ変更できます。</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="340"/>
       <source>Can&apos;t edit this variable.&lt;br&gt;Only local variables defined in disassembly can be edited.</source>
-      <translation type="unfinished">Can&apos;t edit this variable.&lt;br&gt;Only local variables defined in disassembly can be edited.</translation>
+      <translation>この変数を編集することはできません。逆アセンブリで定義されたローカルな変数をのみ編集できます。</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="413"/>
       <source>Define this function at %2</source>
-      <translation type="unfinished">Define this function at %2</translation>
+      <translation>%2 でこの関数を定義します。</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="414"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="421"/>
       <source>Function name:</source>
-      <translation type="unfinished">Function name:</translation>
+      <translation>関数名:</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="420"/>
       <source>Rename function %2</source>
-      <translation type="unfinished">Rename function %2</translation>
+      <translation>%2 関数の名前を変更</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="431"/>
@@ -2481,17 +2481,17 @@ Please check the console for more details.</source>
       <location filename="../menus/DecompilerContextMenu.cpp" line="439"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="456"/>
       <source>Enter name</source>
-      <translation type="unfinished">Enter name</translation>
+      <translation>名前を入力</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="438"/>
       <source>Add name to %2</source>
-      <translation type="unfinished">Add name to %2</translation>
+      <translation>%2 に名前を追加</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="449"/>
       <source>Rename local variable %1</source>
-      <translation type="unfinished">Rename local variable %1</translation>
+      <translation>%1 ローカル変数の名前を変更</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="450"/>
