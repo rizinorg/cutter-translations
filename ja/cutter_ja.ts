@@ -600,7 +600,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="220"/>
       <source>Show offsets relative to:</source>
-      <translation type="unfinished">Show offsets relative to:</translation>
+      <translation>次に相対的なオフセットを表示:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="227"/>
@@ -615,7 +615,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="265"/>
       <source>Tabs in assembly (asm.tabs):</source>
-      <translation type="unfinished">Tabs in assembly (asm.tabs):</translation>
+      <translation>アセンブリ内のタブ (asm.tabs):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="275"/>
@@ -1139,7 +1139,7 @@
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="35"/>
       <source>Offset relative to module</source>
-      <translation type="unfinished">Offset relative to module</translation>
+      <translation>モジュールに相対的なオフセット</translation>
     </message>
   </context>
   <context>
@@ -1147,18 +1147,18 @@
     <message>
       <location filename="../widgets/CallGraph.cpp" line="23"/>
       <source>Global Callgraph</source>
-      <translation type="unfinished">Global Callgraph</translation>
+      <translation>グローバルコールグラフ</translation>
     </message>
     <message>
       <location filename="../widgets/CallGraph.cpp" line="23"/>
       <location filename="../widgets/CallGraph.cpp" line="28"/>
       <source>Callgraph</source>
-      <translation type="unfinished">Callgraph</translation>
+      <translation>コールグラフ</translation>
     </message>
     <message>
       <location filename="../widgets/CallGraph.cpp" line="28"/>
       <source>GlobalCallgraph</source>
-      <translation type="unfinished">GlobalCallgraph</translation>
+      <translation>グローバルコールグラフ</translation>
     </message>
   </context>
   <context>
@@ -1171,7 +1171,7 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="21"/>
       <source>Real Name</source>
-      <translation type="unfinished">Real Name</translation>
+      <translation>実名</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="23"/>
@@ -1194,22 +1194,22 @@
     <message>
       <location filename="../widgets/ClassesWidget.ui" line="79"/>
       <source>Source:</source>
-      <translation type="unfinished">Source:</translation>
+      <translation>ソース:</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.ui" line="93"/>
       <source>Binary Info (Fixed)</source>
-      <translation type="unfinished">Binary Info (Fixed)</translation>
+      <translation>バイナリ情報 (固定)</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.ui" line="98"/>
       <source>Analysis (Editable)</source>
-      <translation type="unfinished">Analysis (Editable)</translation>
+      <translation>分析 (編集可能)</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.ui" line="109"/>
       <source>Seek to VTable</source>
-      <translation type="unfinished">Seek to VTable</translation>
+      <translation>VTable にシークする</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.ui" line="114"/>
@@ -1251,7 +1251,7 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="751"/>
       <source>Class Name:</source>
-      <translation type="unfinished">Class Name:</translation>
+      <translation>クラス名:</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="768"/>
@@ -1266,7 +1266,7 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="786"/>
       <source>Class name:</source>
-      <translation type="unfinished">Class name:</translation>
+      <translation>クラス名:</translation>
     </message>
   </context>
   <context>
@@ -1279,37 +1279,37 @@
     <message>
       <location filename="../widgets/ColorPicker.ui" line="87"/>
       <source>Val:</source>
-      <translation type="unfinished">Val:</translation>
+      <translation>値:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="118"/>
       <source>Sat:</source>
-      <translation type="unfinished">Sat:</translation>
+      <translation>土:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="149"/>
       <source>Hue:</source>
-      <translation type="unfinished">Hue:</translation>
+      <translation>色相:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="184"/>
       <source>Red:</source>
-      <translation type="unfinished">Red:</translation>
+      <translation>赤:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="215"/>
       <source>Green:</source>
-      <translation type="unfinished">Green:</translation>
+      <translation>緑:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="246"/>
       <source>Blue:</source>
-      <translation type="unfinished">Blue:</translation>
+      <translation>青:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="281"/>
       <source>Hex:</source>
-      <translation type="unfinished">Hex:</translation>
+      <translation>16進数:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="288"/>
@@ -1337,7 +1337,7 @@
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.ui" line="55"/>
       <source>Search</source>
-      <translation type="unfinished">Search</translation>
+      <translation>検索</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="35"/>
@@ -1377,7 +1377,7 @@
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="46"/>
       <source>The Rizin standard themes could not be found in &apos;%1&apos;. Most likely, Rizin is not properly installed.</source>
-      <translation type="unfinished">The Rizin standard themes could not be found in &apos;%1&apos;. Most likely, Rizin is not properly installed.</translation>
+      <translation>&apos;%1&apos; には Rizin 標準テーマが見つかりませんでした。Rizin が正しくインストールされていない可能性があります。</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="75"/>
@@ -1393,7 +1393,7 @@
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="166"/>
       <source>You can not delete standard Rizin color themes.</source>
-      <translation type="unfinished">You can not delete standard Rizin color themes.</translation>
+      <translation>標準の Rizin カラーテーマは削除できません。</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="174"/>
@@ -1443,7 +1443,7 @@
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="224"/>
       <source>You can not rename standard Rizin themes.</source>
-      <translation type="unfinished">You can not rename standard Rizin themes.</translation>
+      <translation>標準の Rizin テーマの名前は変更できません。</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="230"/>
@@ -1524,12 +1524,12 @@
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="235"/>
       <source>Horizontal</source>
-      <translation type="unfinished">Horizontal</translation>
+      <translation>横型</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="236"/>
       <source>Vertical</source>
-      <translation type="unfinished">Vertical</translation>
+      <translation>縦型</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="238"/>
@@ -1542,7 +1542,7 @@
     <message>
       <location filename="../common/Configuration.cpp" line="146"/>
       <source>Critical!</source>
-      <translation type="unfinished">Critical!</translation>
+      <translation>重大！</translation>
     </message>
     <message>
       <location filename="../common/Configuration.cpp" line="147"/>
@@ -1555,12 +1555,12 @@
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="93"/>
       <source>Rizin Console</source>
-      <translation type="unfinished">Rizin Console</translation>
+      <translation>Rizin コンソール</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="98"/>
       <source>Debugee Input</source>
-      <translation type="unfinished">Debugee Input</translation>
+      <translation>デバッガーの入力</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="115"/>
@@ -1602,34 +1602,34 @@
       <location filename="../core/Cutter.cpp" line="1081"/>
       <location filename="../core/Cutter.cpp" line="1085"/>
       <source>Signatures</source>
-      <translation type="unfinished">Signatures</translation>
+      <translation>署名</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1058"/>
       <source>Cannot apply signature file because the requested arch is not supported by .sig files</source>
-      <translation type="unfinished">Cannot apply signature file because the requested arch is not supported by .sig files</translation>
+      <translation>.sig ファイルでサポートされていないため、要求されたアーチは署名ファイルを適用できません。</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1067"/>
       <source>Found %1 matching signatures!</source>
-      <translation type="unfinished">Found %1 matching signatures!</translation>
+      <translation>一致する署名が %1 個見つかりました！</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1072"/>
       <source>Failed to apply signature file!
 Please check the console for more details.</source>
-      <translation type="unfinished">Failed to apply signature file!
-Please check the console for more details.</translation>
+      <translation>署名ファイルの適用に失敗しました！
+詳細はコンソールを確認してください。</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1082"/>
       <source>Cannot create signature file (check the console for more details).</source>
-      <translation type="unfinished">Cannot create signature file (check the console for more details).</translation>
+      <translation>署名ファイルを作成できません（詳細はコンソールを確認してください）。</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1086"/>
       <source>Written %1 signatures to %2.</source>
-      <translation type="unfinished">Written %1 signatures to %2.</translation>
+      <translation>%1 署名を %2 に書き込みました。</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1955"/>
@@ -1654,12 +1654,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../core/Cutter.cpp" line="2565"/>
       <source>Creating debug tracepoint...</source>
-      <translation type="unfinished">Creating debug tracepoint...</translation>
+      <translation>デバッグトレースポイントを作成しています…</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2610"/>
       <source>Stopping debug session...</source>
-      <translation type="unfinished">Stopping debug session...</translation>
+      <translation>デバッグセッションを停止しています…</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2645"/>
@@ -1693,67 +1693,67 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="43"/>
       <source>Horizontal</source>
-      <translation type="unfinished">Horizontal</translation>
+      <translation>横表示</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="47"/>
       <source>Grid narrow</source>
-      <translation type="unfinished">Grid narrow</translation>
+      <translation>幅の狭いグリッド</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="48"/>
       <source>Grid medium</source>
-      <translation type="unfinished">Grid medium</translation>
+      <translation>幅が普通のグリッド</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="49"/>
       <source>Grid wide</source>
-      <translation type="unfinished">Grid wide</translation>
+      <translation>幅が広いグリッド</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="63"/>
       <source>Graphviz polyline</source>
-      <translation type="unfinished">Graphviz polyline</translation>
+      <translation>Graphviz ポリライン</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="64"/>
       <source>Graphviz ortho</source>
-      <translation type="unfinished">Graphviz ortho</translation>
+      <translation>Graphviz オルト</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="65"/>
       <source>Graphviz sfdp</source>
-      <translation type="unfinished">Graphviz sfdp</translation>
+      <translation>Graphviz sfdp</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="66"/>
       <source>Graphviz neato</source>
-      <translation type="unfinished">Graphviz neato</translation>
+      <translation>Graphviz neato</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="67"/>
       <source>Graphviz twopi</source>
-      <translation type="unfinished">Graphviz twopi</translation>
+      <translation>Graphviz twopi</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="68"/>
       <source>Graphviz circo</source>
-      <translation type="unfinished">Graphviz circo</translation>
+      <translation>Graphviz circo</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="409"/>
       <source>PNG (*.png)</source>
-      <translation type="unfinished">PNG (*.png)</translation>
+      <translation>PNG (*.png)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="410"/>
       <source>JPEG (*.jpg)</source>
-      <translation type="unfinished">JPEG (*.jpg)</translation>
+      <translation>JPEG (*.jpg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="411"/>
       <source>SVG (*.svg)</source>
-      <translation type="unfinished">SVG (*.svg)</translation>
+      <translation>SVG (*.svg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="417"/>
@@ -2850,12 +2850,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="417"/>
       <source>Rename local &quot;%1&quot;</source>
-      <translation type="unfinished">Rename local &quot;%1&quot;</translation>
+      <translation>ローカル名を変更&quot;%1&quot;</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="422"/>
       <source>Rename flag &quot;%1&quot; (used here)</source>
-      <translation type="unfinished">Rename flag &quot;%1&quot; (used here)</translation>
+      <translation>フラグ前を変更 &quot;%1&quot; (ここで使用)</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="551"/>
@@ -2885,7 +2885,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="600"/>
       <source>X-Refs for %1</source>
-      <translation type="unfinished">X-Refs for %1</translation>
+      <translation>%1 の相互参照</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="695"/>
@@ -2900,18 +2900,18 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="816"/>
       <source>New function at %1</source>
-      <translation type="unfinished">New function at %1</translation>
+      <translation>%1 での新しい関数</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="817"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="831"/>
       <source>Function name:</source>
-      <translation type="unfinished">Function name:</translation>
+      <translation>関数名:</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="830"/>
       <source>Rename function %2</source>
-      <translation type="unfinished">Rename function %2</translation>
+      <translation>関数名を変更 %2</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="866"/>
@@ -2926,7 +2926,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="929"/>
       <source>Can&apos;t edit string at this address</source>
-      <translation type="unfinished">Can&apos;t edit string at this address</translation>
+      <translation>このアドレスでは文字列を編集できません。</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="1001"/>
@@ -2947,17 +2947,17 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/DuplicateFromOffsetDialog.ui" line="20"/>
       <source>Duplicate from offset</source>
-      <translation type="unfinished">Duplicate from offset</translation>
+      <translation>オフセットから複製</translation>
     </message>
     <message>
       <location filename="../dialogs/DuplicateFromOffsetDialog.ui" line="28"/>
       <source>Offset:</source>
-      <translation type="unfinished">Offset:</translation>
+      <translation>オフセット:</translation>
     </message>
     <message>
       <location filename="../dialogs/DuplicateFromOffsetDialog.ui" line="49"/>
       <source>N bytes:</source>
-      <translation type="unfinished">N bytes:</translation>
+      <translation>Nバイト:</translation>
     </message>
   </context>
   <context>
@@ -3003,7 +3003,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/EditInstructionDialog.ui" line="100"/>
       <source>Fill all remaining bytes with NOP opcodes</source>
-      <translation type="unfinished">Fill all remaining bytes with NOP opcodes</translation>
+      <translation>残りのすべてのバイトを NOP オペコードで埋めます</translation>
     </message>
   </context>
   <context>
@@ -3016,17 +3016,17 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="32"/>
       <source>Unique Identifier (name):</source>
-      <translation type="unfinished">Unique Identifier (name):</translation>
+      <translation>一意の識別子 (名前):</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="44"/>
       <source>Auto-Rename</source>
-      <translation type="unfinished">Auto-Rename</translation>
+      <translation>自動名前変更</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="56"/>
       <source>Display Name (realname):</source>
-      <translation type="unfinished">Display Name (realname):</translation>
+      <translation>表示名 (実名):</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="66"/>
@@ -3107,7 +3107,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/EditVariablesDialog.cpp" line="20"/>
       <source>Edit Variables in Function: %1</source>
-      <translation type="unfinished">Edit Variables in Function: %1</translation>
+      <translation>関数内の変数の編集: %1</translation>
     </message>
   </context>
   <context>
@@ -3135,7 +3135,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="68"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>コメント</translation>
     </message>
   </context>
   <context>
@@ -3156,7 +3156,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="20"/>
       <source>Add flag at</source>
-      <translation type="unfinished">Add flag at</translation>
+      <translation>フラグを追加: </translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="38"/>
@@ -3176,7 +3176,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/FlagDialog.cpp" line="24"/>
       <source>Edit flag at %1</source>
-      <translation type="unfinished">Edit flag at %1</translation>
+      <translation>%1 のフラグを編集</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.cpp" line="26"/>
@@ -3204,12 +3204,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="70"/>
       <source>Real Name</source>
-      <translation type="unfinished">Real Name</translation>
+      <translation>実名</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="72"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>コメント</translation>
     </message>
   </context>
   <context>
@@ -3252,7 +3252,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="215"/>
       <source>Flag name:</source>
-      <translation type="unfinished">Flag name:</translation>
+      <translation>フラッグ名:</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="244"/>
@@ -3265,12 +3265,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/FlirtContextMenu.cpp" line="14"/>
       <source>Copy Line</source>
-      <translation type="unfinished">Copy Line</translation>
+      <translation>行をコピー</translation>
     </message>
     <message>
       <location filename="../menus/FlirtContextMenu.cpp" line="15"/>
       <source>Apply Signature File</source>
-      <translation type="unfinished">Apply Signature File</translation>
+      <translation>署名ファイルを適用</translation>
     </message>
   </context>
   <context>
@@ -3278,32 +3278,32 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="65"/>
       <source>Bin</source>
-      <translation type="unfinished">Bin</translation>
+      <translation>二進数</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="67"/>
       <source>Arch</source>
-      <translation type="unfinished">Arch</translation>
+      <translation>アーチ</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="69"/>
       <source>Bits</source>
-      <translation type="unfinished">Bits</translation>
+      <translation>ビット</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="71"/>
       <source># Funcs</source>
-      <translation type="unfinished"># Funcs</translation>
+      <translation># 関数</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="73"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名前</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="75"/>
       <source>Details</source>
-      <translation type="unfinished">Details</translation>
+      <translation>詳細</translation>
     </message>
   </context>
   <context>
@@ -3358,7 +3358,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="149"/>
       <source>Edges: %1</source>
-      <translation type="unfinished">Edges: %1</translation>
+      <translation>エッジ: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="151"/>
@@ -3368,7 +3368,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="153"/>
       <source>Comment: %1</source>
-      <translation type="unfinished">Comment: %1</translation>
+      <translation>コメント: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="266"/>
@@ -3434,7 +3434,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="330"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>コメント</translation>
     </message>
   </context>
   <context>
@@ -3455,17 +3455,17 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="492"/>
       <source>Undefine</source>
-      <translation type="unfinished">Undefine</translation>
+      <translation>定義を解除</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="493"/>
       <source>Horizontal</source>
-      <translation type="unfinished">Horizontal</translation>
+      <translation>横表示</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="494"/>
       <source>Vertical</source>
-      <translation type="unfinished">Vertical</translation>
+      <translation>縦表示</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="496"/>
@@ -3475,12 +3475,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="613"/>
       <source>Rename function %1</source>
-      <translation type="unfinished">Rename function %1</translation>
+      <translation>関数名を変更 %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="614"/>
       <source>Function name:</source>
-      <translation type="unfinished">Function name:</translation>
+      <translation>関数名:</translation>
     </message>
   </context>
   <context>
@@ -3488,22 +3488,22 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation type="unfinished">Dialog</translation>
+      <translation>ダイアログ</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="25"/>
       <source>Chain info:</source>
-      <translation type="unfinished">Chain info:</translation>
+      <translation>チェーン情報:</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="41"/>
       <source>Detailed chunk info:</source>
-      <translation type="unfinished">Detailed chunk info:</translation>
+      <translation>詳細なチャンク情報:</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="48"/>
       <source>Enter chunk base address and press enter</source>
-      <translation type="unfinished">Enter chunk base address and press enter</translation>
+      <translation>チャンクベースアドレスを入力し、Enter キーを押します</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="28"/>
