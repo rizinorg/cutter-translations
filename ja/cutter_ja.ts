@@ -2674,7 +2674,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="131"/>
       <source>X-Refs for local variables</source>
-      <translation type="unfinished">X-Refs for local variables</translation>
+      <translation>ローカル変数の相互参照</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="135"/>
@@ -2729,12 +2729,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="203"/>
       <source>Set current bits to...</source>
-      <translation type="unfinished">Set current bits to...</translation>
+      <translation>現在のビットを次に設定…</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="220"/>
       <source>Set as...</source>
-      <translation type="unfinished">Set as...</translation>
+      <translation>次として設定...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="222"/>
@@ -2759,7 +2759,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="232"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>高度なメニュー</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="244"/>
@@ -2794,7 +2794,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="275"/>
       <source>Instruction</source>
-      <translation type="unfinished">Instruction</translation>
+      <translation>命令</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="279"/>
@@ -2809,7 +2809,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="286"/>
       <source>Reverse Jump</source>
-      <translation type="unfinished">Reverse Jump</translation>
+      <translation>逆ジャンプ</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="292"/>
