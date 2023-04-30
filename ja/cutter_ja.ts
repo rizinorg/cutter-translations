@@ -4605,37 +4605,37 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="71"/>
       <source>Continue analysis after each function</source>
-      <translation type="unfinished">Continue analysis after each function</translation>
+      <translation>各関数の後に解析を続ける</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="343"/>
       <source>No analysis</source>
-      <translation type="unfinished">No analysis</translation>
+      <translation>分析なし</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="345"/>
       <source>Auto-Analysis (aaa)</source>
-      <translation type="unfinished">Auto-Analysis (aaa)</translation>
+      <translation>自動分析 (aaa)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="347"/>
       <source>Auto-Analysis Experimental (aaaa)</source>
-      <translation type="unfinished">Auto-Analysis Experimental (aaaa)</translation>
+      <translation>自動分析実験的 (aaaaa)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="351"/>
       <source>Unknown</source>
-      <translation type="unfinished">Unknown</translation>
+      <translation>不明</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="357"/>
       <source>Level</source>
-      <translation type="unfinished">Level</translation>
+      <translation>レベル</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="360"/>
       <source>Analysis: Disabled</source>
-      <translation type="unfinished">Analysis: Disabled</translation>
+      <translation>分析: 無効</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="406"/>
@@ -4656,12 +4656,12 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="428"/>
       <source>Select Rizin script file</source>
-      <translation type="unfinished">Select Rizin script file</translation>
+      <translation>Rizin スクリプトファイルへのパス</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="429"/>
       <source>Script file (*.rz)</source>
-      <translation type="unfinished">Script file (*.rz)</translation>
+      <translation>スクリプトファイル (*.rz)</translation>
     </message>
   </context>
   <context>
@@ -4669,17 +4669,17 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/preferences/InitializationFileEditor.ui" line="14"/>
       <source>CutterRC Editor</source>
-      <translation type="unfinished">CutterRC Editor</translation>
+      <translation>CutterRC エディター</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/InitializationFileEditor.ui" line="20"/>
       <source>TextLabel</source>
-      <translation type="unfinished">TextLabel</translation>
+      <translation>テキストラベル</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/InitializationFileEditor.cpp" line="35"/>
       <source>Script is loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
-      <translation type="unfinished">Script is loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
+      <translation>スクリプトは &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt; から読み込まれています</translation>
     </message>
   </context>
   <context>
@@ -4687,7 +4687,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../common/Decompiler.cpp" line="109"/>
       <source>Failed to parse JSON from jsdec</source>
-      <translation type="unfinished">Failed to parse JSON from jsdec</translation>
+      <translation>jsdec からの JSON の取得に失敗しました</translation>
     </message>
   </context>
   <context>
@@ -4711,12 +4711,12 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="42"/>
       <source>Rename layout error</source>
-      <translation type="unfinished">Rename layout error</translation>
+      <translation>レイアウト名前変更のエラー</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="43"/>
       <source>&apos;%1&apos; is already used.</source>
-      <translation type="unfinished">&apos;%1&apos; is already used.</translation>
+      <translation>&apos;%1&apos; は既に使用されています。</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="45"/>
@@ -4726,12 +4726,12 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="45"/>
       <source>Enter name</source>
-      <translation type="unfinished">Enter name</translation>
+      <translation>名前を入力</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="61"/>
       <source>Do you want to delete &apos;%1&apos;</source>
-      <translation type="unfinished">Do you want to delete &apos;%1&apos;</translation>
+      <translation>&apos;%1&apos; を削除しますか？</translation>
     </message>
   </context>
   <context>
@@ -4739,17 +4739,17 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="33"/>
       <source>Add extra...</source>
-      <translation type="unfinished">Add extra...</translation>
+      <translation>追加する…</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="61"/>
       <source>File</source>
-      <translation type="unfinished">File</translation>
+      <translation>ファイル</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="68"/>
       <source>Set mode</source>
-      <translation type="unfinished">Set mode</translation>
+      <translation>モード設定</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="97"/>
@@ -5568,12 +5568,12 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="79"/>
       <source>About</source>
-      <translation type="unfinished">About</translation>
+      <translation>アプリについて</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="169"/>
       <source>&lt;b&gt;Select new file&lt;b&gt;</source>
-      <translation type="unfinished">&lt;b&gt;Select new file&lt;b&gt;</translation>
+      <translation>&lt;b&gt;新しいファイルを選択&lt;b&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="182"/>
@@ -5995,243 +5995,243 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="403"/>
       <source>Color of ascii line in left side that shows what opcodes are belong to function</source>
-      <translation type="unfinished">Color of ascii line in left side that shows what opcodes are belong to function</translation>
+      <translation>どのオペコードが関数に属しているかを示す左側の ASCII 行の色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="405"/>
       <source>Function line</source>
-      <translation type="unfinished">Function line</translation>
+      <translation>関数行</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="407"/>
       <source>Color of flags (similar to bookmarks for offset)</source>
-      <translation type="unfinished">Color of flags (similar to bookmarks for offset)</translation>
+      <translation>フラグの色 (オフセットのブックマークに似ています)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="407"/>
       <source>Flag</source>
-      <translation type="unfinished">Flag</translation>
+      <translation>フラグ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="408"/>
       <source>Label</source>
-      <translation type="unfinished">Label</translation>
+      <translation>ラベル</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="409"/>
       <source>Help</source>
-      <translation type="unfinished">Help</translation>
+      <translation>ヘルプ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="410"/>
       <source>Color of lines showing jump destination</source>
-      <translation type="unfinished">Color of lines showing jump destination</translation>
+      <translation>ジャンプ先を示す行の色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="410"/>
       <source>Flow</source>
-      <translation type="unfinished">Flow</translation>
+      <translation>フロー</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="411"/>
       <source>flow2</source>
-      <translation type="unfinished">flow2</translation>
+      <translation>フロー 2</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="412"/>
       <location filename="../widgets/ColorThemeListView.cpp" line="414"/>
       <source>Info</source>
-      <translation type="unfinished">Info</translation>
+      <translation>情報</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="412"/>
       <source>prompt</source>
-      <translation type="unfinished">prompt</translation>
+      <translation>プロンプト</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="413"/>
       <source>Color of offsets</source>
-      <translation type="unfinished">Color of offsets</translation>
+      <translation>オフセットの色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="413"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>オフセット</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="414"/>
       <source>input</source>
-      <translation type="unfinished">input</translation>
+      <translation>入力</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="415"/>
       <source>Invalid opcode color</source>
-      <translation type="unfinished">Invalid opcode color</translation>
+      <translation>無効なオペコードの色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="415"/>
       <source>invalid</source>
-      <translation type="unfinished">invalid</translation>
+      <translation>無効</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="416"/>
       <source>other</source>
-      <translation type="unfinished">other</translation>
+      <translation>その他</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="417"/>
       <source>0x00 opcode color</source>
-      <translation type="unfinished">0x00 opcode color</translation>
+      <translation>0x00 オペコードの色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="418"/>
       <source>0x7f opcode color</source>
-      <translation type="unfinished">0x7f opcode color</translation>
+      <translation>0x7f オペコードの色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="419"/>
       <source>0xff opcode color</source>
-      <translation type="unfinished">0xff opcode color</translation>
+      <translation>0xff オペコードの色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="421"/>
       <source>Color of arithmetic opcodes (add, div, mul etc)</source>
-      <translation type="unfinished">Color of arithmetic opcodes (add, div, mul etc)</translation>
+      <translation>算術演算オペコードの色 (add、div、mul など)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="422"/>
       <source>Arithmetic</source>
-      <translation type="unfinished">Arithmetic</translation>
+      <translation>算術演算</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="424"/>
       <source>Color of binary operations (and, or, xor etc).</source>
-      <translation type="unfinished">Color of binary operations (and, or, xor etc).</translation>
+      <translation>2進算術演算の色 (and、or、xor など)。</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="424"/>
       <source>Binary</source>
-      <translation type="unfinished">Binary</translation>
+      <translation>バイナリ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="426"/>
       <source>Color of object names, commas between operators, squared brackets and operators inside them.</source>
-      <translation type="unfinished">Color of object names, commas between operators, squared brackets and operators inside them.</translation>
+      <translation>オブジェクト名、演算子間のコンマ、角括弧とその中の演算子の色。</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="429"/>
       <source>Text</source>
-      <translation type="unfinished">Text</translation>
+      <translation>テキスト</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="430"/>
       <source>push opcode color</source>
-      <translation type="unfinished">push opcode color</translation>
+      <translation>push オペコードの色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="431"/>
       <source>pop opcode color</source>
-      <translation type="unfinished">pop opcode color</translation>
+      <translation>pop オペコードの色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="432"/>
       <source>Cryptographic color</source>
-      <translation type="unfinished">Cryptographic color</translation>
+      <translation>暗号化の色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="433"/>
       <source>jmp instructions color</source>
-      <translation type="unfinished">jmp instructions color</translation>
+      <translation>jmp 命令の色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="435"/>
       <source>Color of conditional jump opcodes such as je, jg, jne etc</source>
-      <translation type="unfinished">Color of conditional jump opcodes such as je, jg, jne etc</translation>
+      <translation>je、jg、jneなどの条件付きジャンプコードの色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="436"/>
       <source>Conditional jump</source>
-      <translation type="unfinished">Conditional jump</translation>
+      <translation>条件付きジャンプ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="437"/>
       <source>call instructions color (ccall, rcall, call etc)</source>
-      <translation type="unfinished">call instructions color (ccall, rcall, call etc)</translation>
+      <translation>呼び出し命令の色 (ccall、rcall、call など)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="438"/>
       <source>nop opcode color</source>
-      <translation type="unfinished">nop opcode color</translation>
+      <translation>nop オペコードの色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="439"/>
       <source>ret opcode color</source>
-      <translation type="unfinished">ret opcode color</translation>
+      <translation>ret オペコードの色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="440"/>
       <source>Color of interrupts</source>
-      <translation type="unfinished">Color of interrupts</translation>
+      <translation>割り込みの色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="440"/>
       <source>Interrupts</source>
-      <translation type="unfinished">Interrupts</translation>
+      <translation>割り込み</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="441"/>
       <source>swi opcode color</source>
-      <translation type="unfinished">swi opcode color</translation>
+      <translation>swi オペコードの色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="443"/>
       <source>Color of compare instructions such as test and cmp</source>
-      <translation type="unfinished">Color of compare instructions such as test and cmp</translation>
+      <translation>test や cmp などの比較命令の色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="444"/>
       <source>Compare instructions</source>
-      <translation type="unfinished">Compare instructions</translation>
+      <translation>比較命令</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="445"/>
       <source>Registers color</source>
-      <translation type="unfinished">Registers color</translation>
+      <translation>レジスターの色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="445"/>
       <source>Register</source>
-      <translation type="unfinished">Register</translation>
+      <translation>レジスター</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="448"/>
       <source>Color of numeric constants and object pointers</source>
-      <translation type="unfinished">Color of numeric constants and object pointers</translation>
+      <translation>数値定数とオブジェクトポインタの色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="448"/>
       <source>Constants</source>
-      <translation type="unfinished">Constants</translation>
+      <translation>定数</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="450"/>
       <source>Color of move instructions such as mov, movd, lea etc</source>
-      <translation type="unfinished">Color of move instructions such as mov, movd, lea etc</translation>
+      <translation>mov、movd、lea などの移動命令の色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="451"/>
       <source>Move instructions</source>
-      <translation type="unfinished">Move instructions</translation>
+      <translation>移動命令</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="452"/>
       <source>Function variable color</source>
-      <translation type="unfinished">Function variable color</translation>
+      <translation>関数変数の色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="452"/>
       <source>Function variable</source>
-      <translation type="unfinished">Function variable</translation>
+      <translation>関数変数</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="454"/>
@@ -6501,7 +6501,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RelocsWidget.cpp" line="60"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>コメント</translation>
     </message>
   </context>
   <context>
@@ -6509,7 +6509,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RelocsWidget.cpp" line="131"/>
       <source>Relocs</source>
-      <translation type="unfinished">Relocs</translation>
+      <translation>再局在化</translation>
     </message>
   </context>
   <context>
@@ -6517,48 +6517,48 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="43"/>
       <source>Debugger:</source>
-      <translation type="unfinished">Debugger:</translation>
+      <translation>デバッガ:</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="75"/>
       <source>Port:</source>
-      <translation type="unfinished">Port:</translation>
+      <translation>ポート:</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="82"/>
       <source>IP or Path:</source>
-      <translation type="unfinished">IP or Path:</translation>
+      <translation>IP またはパス:</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="159"/>
       <source>Remove item</source>
-      <translation type="unfinished">Remove item</translation>
+      <translation>項目を削除</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="164"/>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="167"/>
       <source>Remove all</source>
-      <translation type="unfinished">Remove all</translation>
+      <translation>すべて削除</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.cpp" line="57"/>
       <source>Invalid debugger</source>
-      <translation type="unfinished">Invalid debugger</translation>
+      <translation>無効なデバッガー</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.cpp" line="68"/>
       <source>Invalid IP address</source>
-      <translation type="unfinished">Invalid IP address</translation>
+      <translation>無効な IP アドレス</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.cpp" line="81"/>
       <source>Path does not exist</source>
-      <translation type="unfinished">Path does not exist</translation>
+      <translation>パスが存在しません</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.cpp" line="94"/>
       <source>Invalid port</source>
-      <translation type="unfinished">Invalid port</translation>
+      <translation>無効なポート</translation>
     </message>
   </context>
   <context>
@@ -6566,37 +6566,37 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="76"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名前</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="78"/>
       <source>Vaddr</source>
-      <translation type="unfinished">Vaddr</translation>
+      <translation>Vaddr</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="80"/>
       <source>Index</source>
-      <translation type="unfinished">Index</translation>
+      <translation>インデックス</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="82"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>型</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="84"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>サイズ</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="86"/>
       <source>Lang</source>
-      <translation type="unfinished">Lang</translation>
+      <translation>言語</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="88"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>コメント</translation>
     </message>
   </context>
   <context>
@@ -6604,7 +6604,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="118"/>
       <source>Resources</source>
-      <translation type="unfinished">Resources</translation>
+      <translation>リソース</translation>
     </message>
   </context>
   <context>
@@ -6612,32 +6612,32 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RizinGraphWidget.ui" line="57"/>
       <source>ag...</source>
-      <translation type="unfinished">ag...</translation>
+      <translation>ag…</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="21"/>
       <source>Data reference graph (aga)</source>
-      <translation type="unfinished">Data reference graph (aga)</translation>
+      <translation>データ参照グラフ (aga)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="22"/>
       <source>Global data references graph (agA)</source>
-      <translation type="unfinished">Global data references graph (agA)</translation>
+      <translation>グローバルデータ参照グラフ (agA)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="26"/>
       <source>Imports graph (agi)</source>
-      <translation type="unfinished">Imports graph (agi)</translation>
+      <translation>インポートグラフ (agi)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="27"/>
       <source>References graph (agr)</source>
-      <translation type="unfinished">References graph (agr)</translation>
+      <translation>参照グラフ (agr)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="28"/>
       <source>Global references graph (agR)</source>
-      <translation type="unfinished">Global references graph (agR)</translation>
+      <translation>グローバル参照グラフ (agR)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="29"/>
