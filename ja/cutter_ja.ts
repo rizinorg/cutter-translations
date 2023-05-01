@@ -2683,7 +2683,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="166"/>
       <source>Set Immediate Base to...</source>
-      <translation>即時ベースを次に設定...</translation>
+      <translation>即値の基数を次に設定...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="168"/>
@@ -2849,12 +2849,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="417"/>
       <source>Rename local &quot;%1&quot;</source>
-      <translation>ローカル名を変更&quot;%1&quot;</translation>
+      <translation>ローカル &quot;%1&quot; の名前を変更</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="422"/>
       <source>Rename flag &quot;%1&quot; (used here)</source>
-      <translation>フラグ前を変更 &quot;%1&quot; (ここで使用)</translation>
+      <translation>フラグ &quot;%1&quot; の名前を変更 (ここで使用)</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="551"/>
@@ -2899,7 +2899,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="816"/>
       <source>New function at %1</source>
-      <translation>%1 での新しい関数</translation>
+      <translation>%1 に新規関数を作成</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="817"/>
@@ -2910,7 +2910,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="830"/>
       <source>Rename function %2</source>
-      <translation>関数名を変更 %2</translation>
+      <translation>%2 関数の名前を変更</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="866"/>
@@ -2956,7 +2956,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/DuplicateFromOffsetDialog.ui" line="49"/>
       <source>N bytes:</source>
-      <translation>Nバイト:</translation>
+      <translation>N バイト:</translation>
     </message>
   </context>
   <context>
@@ -3002,7 +3002,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/EditInstructionDialog.ui" line="100"/>
       <source>Fill all remaining bytes with NOP opcodes</source>
-      <translation>残りのすべてのバイトを NOP オペコードで埋めます</translation>
+      <translation>残りのすべてのバイトを NOP オペコードで埋める</translation>
     </message>
   </context>
   <context>
@@ -3155,7 +3155,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="20"/>
       <source>Add flag at</source>
-      <translation>フラグを追加: </translation>
+      <translation>フラグを次に場所追加: </translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="38"/>
@@ -3277,7 +3277,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="65"/>
       <source>Bin</source>
-      <translation>二進数</translation>
+      <translation>実行ファイル</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="67"/>
@@ -3292,7 +3292,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="71"/>
       <source># Funcs</source>
-      <translation># 関数</translation>
+      <translation>関数数</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="73"/>
@@ -3502,12 +3502,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="48"/>
       <source>Enter chunk base address and press enter</source>
-      <translation>チャンクベースアドレスを入力し、Enter キーを押します</translation>
+      <translation>チャンクのベースアドレスを入力し、Enter キーを押します</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="28"/>
       <source>Bins info for arena @ </source>
-      <translation>アリーナのBin情報 @ </translation>
+      <translation>次のアドレスにあるアリーナの Bin 情報: </translation>
     </message>
   </context>
   <context>
@@ -3520,7 +3520,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="22"/>
       <source>Base</source>
-      <translation>基底</translation>
+      <translation>基数</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="29"/>
@@ -3545,7 +3545,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="63"/>
       <source>Link to next free chunk in bin&apos;s linked list</source>
-      <translation>bin のリンク リスト内の次のフリーチャンクへのリンク</translation>
+      <translation>bin のリンクリスト内の次のフリーチャンクへのリンク</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="73"/>
@@ -3560,7 +3560,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="90"/>
       <source>Link to next larger free chunk (only for large chunks)</source>
-      <translation>次の大きなフリーチャンクにリンクする（大型チャンク限定）</translation>
+      <translation>次の大きなフリーチャンクへのリンク（大型チャンク限定）</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="100"/>
@@ -3575,7 +3575,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="114"/>
       <source>Link to next smaller free chunk (for large chunks)</source>
-      <translation>次のより小さいフリーチャンクにリンクする（大型チャンク用）</translation>
+      <translation>次のより小さいフリーチャンクへのリンク（大型チャンク用）</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="124"/>
@@ -3590,7 +3590,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="145"/>
       <source>If the chunk was obtained from a non-main arena</source>
-      <translation>メインアリーナ以外からチャンクを取得している場合</translation>
+      <translation>メインアリーナ以外からチャンクを取得しているかどうか</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="148"/>
@@ -3600,7 +3600,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="161"/>
       <source>The chunk was obtained with mmap()</source>
-      <translation>チャンクは mmap() で取得されています</translation>
+      <translation>チャンクが mmap() で取得されているかどうか</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="164"/>
@@ -3610,7 +3610,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="177"/>
       <source>Previous adjacent chunk is in use</source>
-      <translation>前の隣接チャンクが使用中</translation>
+      <translation>前の隣接チャンクが使用中かどうか</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="180"/>
@@ -3645,7 +3645,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="104"/>
       <source>Chunk header not successfully overwritten</source>
-      <translation>チャンクヘッダを正常に上書きできませんでした</translation>
+      <translation>チャンクヘッダの上書きに失敗しました</translation>
     </message>
   </context>
   <context>
@@ -3681,7 +3681,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="47"/>
       <source>View bins info for an arena</source>
-      <translation>アリーナの bin 情報を表示</translation>
+      <translation>アリーナの bins 情報を表示</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="50"/>
@@ -3714,7 +3714,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="31"/>
       <source>The offset of the first instruction of a graph block is shown in the header of the respective graph block</source>
-      <translation>グラフブロックの最初の命令のオフセットは、それぞれのグラフブロックのヘッダーに表示されます</translation>
+      <translation>グラフブロックの最初の命令のオフセットは、それぞれのグラフブロックのヘッダに表示されます</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="34"/>
@@ -3729,7 +3729,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="48"/>
       <source>Show preview when hovering (graph.preview)</source>
-      <translation>ホバリング時にプレビューを表示 (graph.preview) </translation>
+      <translation>マウスを合わせている時にプレビューを表示 (graph.preview)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="57"/>
@@ -3740,7 +3740,7 @@ Please check the console for more details.</source>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="77"/>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="87"/>
       <source>Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</source>
-      <translation>ズームアウト時にテキストが指定された値より小さい場合、テキストを非表示にします。高い値を指定するとパフォーマンスが向上する可能性があります。</translation>
+      <translation>ズームアウト時にテキストが指定された値より小さい場合、テキストを非表示にする。高い値を指定するとパフォーマンスが向上する可能性があります。</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="80"/>
@@ -3770,7 +3770,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="190"/>
       <source>Edge spacing</source>
-      <translation>エッジ間隔:</translation>
+      <translation>エッジの間隔:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="200"/>
@@ -3785,7 +3785,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="218"/>
       <source>Graph Bitmap Export Scale: </source>
-      <translation>ビットマップのエクスポートスケール: </translation>
+      <translation>グラフビットマップのエクスポートスケール: </translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="225"/>
@@ -3835,7 +3835,7 @@ Please check the console for more details.</source>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="80"/>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="122"/>
       <source>bin </source>
-      <translation>二進数 </translation>
+      <translation>bin</translation>
     </message>
     <message>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="122"/>
@@ -3949,7 +3949,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="163"/>
       <source>Write De\Encoded Base64 string</source>
-      <translation>デコードされた Base64 文字列の書き込み</translation>
+      <translation>デコードまたはエンコードされた Base64 文字列の書き込み</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="168"/>
@@ -3976,7 +3976,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="184"/>
       <source>Increment/Decrement</source>
-      <translation>増加 / 減少</translation>
+      <translation>増分 / 減少</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="188"/>
@@ -4046,7 +4046,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1448"/>
       <source>Write Pascal string</source>
-      <translation>パスカル文字列の書き込み</translation>
+      <translation>Pascal 文字列の書き込み</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1484"/>
@@ -4085,7 +4085,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="115"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff8585;&quot;&gt;Big selection might cause a delay&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff8585;&quot;&gt;幅広く洗濯すると時間がかかる可能性があります&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff8585;&quot;&gt;幅広く選択すると時間がかかる可能性があります&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
   </context>
   <context>
@@ -4203,17 +4203,17 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="148"/>
       <source>C half-words (2 byte)</source>
-      <translation>C 半語（2 バイト）</translation>
+      <translation>C half-words (2 byte)</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="149"/>
       <source>C words (4 byte)</source>
-      <translation>C 半語（4 バイト）</translation>
+      <translation>C words (4 byte)</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="150"/>
       <source>C dwords (8 byte)</source>
-      <translation>C dword（8 バイト）</translation>
+      <translation>C dwords (8 byte)</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="151"/>
@@ -4292,7 +4292,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="14"/>
       <source>Increment/Decrement</source>
-      <translation>増加 / 減少</translation>
+      <translation>増分 / 減少</translation>
     </message>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="24"/>
@@ -4377,7 +4377,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="326"/>
       <source>Auto Exp</source>
-      <translation>自動式</translation>
+      <translation>実験的</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="364"/>
@@ -4584,7 +4584,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="65"/>
       <source>Analyze code after trap-sleds</source>
-      <translation>trap-sleds の後にコードを分析</translation>
+      <translation>trap-sleds の後のコードを分析</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="66"/>
@@ -4604,7 +4604,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="71"/>
       <source>Continue analysis after each function</source>
-      <translation>各関数の後に解析を続ける</translation>
+      <translation>各関数の後に解析を続行</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="343"/>
@@ -4655,7 +4655,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="428"/>
       <source>Select Rizin script file</source>
-      <translation>Rizin スクリプトファイルへのパス</translation>
+      <translation>Rizin スクリプトファイルを選択</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="429"/>
@@ -4780,7 +4780,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="150"/>
       <source>Windows</source>
-      <translation>Windows</translation>
+      <translation>ウィンドウ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="154"/>
