@@ -4957,7 +4957,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="403"/>
       <location filename="../core/MainWindow.ui" line="406"/>
       <source>Tabs up/down</source>
-      <translation>タブの上/下</translation>
+      <translation>タブの上下移動</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="415"/>
@@ -5042,7 +5042,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="516"/>
       <source>Switch case</source>
-      <translation>大文字小文字を切り替える</translation>
+      <translation>Switch case</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="521"/>
@@ -5131,7 +5131,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="640"/>
       <location filename="../core/MainWindow.ui" line="643"/>
       <source>Show/Hide bottom pannel</source>
-      <translation>下部のパネルを表示/非表示にします。</translation>
+      <translation>下部のパネルを表示/非表示にする</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="648"/>
@@ -5243,7 +5243,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="763"/>
       <source>Add Decompiler</source>
-      <translation>デコンピラーを追加</translation>
+      <translation>逆コンパイラを追加</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="768"/>
@@ -5263,7 +5263,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="789"/>
       <source>Zoom In</source>
-      <translation>拡大</translation>
+      <translation>ズームイン</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="792"/>
@@ -5273,7 +5273,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="800"/>
       <source>Zoom Out</source>
-      <translation>縮小</translation>
+      <translation>ズームアウト</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="803"/>
@@ -5313,7 +5313,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="844"/>
       <source>Enable cache mode. Changes to the file would not be applied to disk unless you specifically commit them. This is a safer option.</source>
-      <translation>キャッシュモードを有効にします。コミットしない限り、ファイルへの変更はディスクに保存されません。これはより安全なオプションです。</translation>
+      <translation>キャッシュモードを有効にする。ファイルへの変更をコミットしない限り、変更はディスクに保存されません。これはより安全なオプションです。</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="855"/>
@@ -5395,7 +5395,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="1055"/>
       <source>New Decompiler</source>
-      <translation>新規デコンパイラ</translation>
+      <translation>新規逆コンパイラ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1234"/>
@@ -5491,7 +5491,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
       <source>Failed to map a new file</source>
-      <translation>新しいファイルをマッピングに失敗しました</translation>
+      <translation>新しいファイルのマッピングに失敗しました</translation>
     </message>
   </context>
   <context>
@@ -5650,12 +5650,12 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="290"/>
       <source>Open a file with no extra treatment.</source>
-      <translation>処理せずにファイルを開きます。</translation>
+      <translation>処理せずにファイルを開く</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="322"/>
       <source>Select a new program or a previous one before continuing.</source>
-      <translation>続行するには新しいプログラムまたは前のプログラムを選択してください。</translation>
+      <translation>続行するには新しいプログラムまたは以前のプログラムを選択してください。</translation>
     </message>
   </context>
   <context>
@@ -5671,7 +5671,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="28"/>
       <source>Plugins are loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
-      <translation>プラグインは &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt; から読み込まれています</translation>
+      <translation>プラグインは &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt; から読み込まれます</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="34"/>
@@ -5793,7 +5793,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../common/DisassemblyPreview.cpp" line="41"/>
       <source>More than one (%1) references here. Weird behaviour expected.</source>
-      <translation>ここに複数の参照（%1）があります。予期しない動作が期待されています。</translation>
+      <translation>ここには複数の参照（%1）があります。予期しない動作が期待されています。</translation>
     </message>
     <message>
       <location filename="../common/DisassemblyPreview.cpp" line="49"/>
