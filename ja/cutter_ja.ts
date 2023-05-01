@@ -228,12 +228,12 @@
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="236"/>
       <source>Functions Prelude (analysis.prelude):</source>
-      <translation>Prelude関数（analysis.prelude）：</translation>
+      <translation>関数プレリュード（analysis.prelude）：</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="269"/>
       <source>Analyze program</source>
-      <translation>プログラムを分析します</translation>
+      <translation>プログラムを分析</translation>
     </message>
   </context>
   <context>
@@ -256,7 +256,7 @@
     <message>
       <location filename="../common/AnalysisTask.cpp" line="72"/>
       <source>Loading PDB file...</source>
-      <translation>PDBファイルを読み込んでいます…</translation>
+      <translation>PDB ファイルを読み込んでいます…</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="81"/>
@@ -281,7 +281,7 @@
     <message>
       <location filename="../common/AnalysisTask.cpp" line="112"/>
       <source>Skipping Analysis.</source>
-      <translation>解析をスキップします。</translation>
+      <translation>分析をスキップします。</translation>
     </message>
   </context>
   <context>
@@ -370,7 +370,7 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="289"/>
       <source>Use information provided by decompiler when highlighting code.</source>
-      <translation>コードを強調表示するときに、逆コンパイラによって提供された情報を使用する。</translation>
+      <translation>コードを強調表示するときに逆コンパイラによって提供された情報を使用。</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="292"/>
@@ -474,7 +474,7 @@
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="22"/>
       <source>Top</source>
-      <translation>上部</translation>
+      <translation>最後</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="29"/>
@@ -484,12 +484,12 @@
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="36"/>
       <source>Next free</source>
-      <translation>次に解放するのは</translation>
+      <translation>次の空きアリーナ</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="43"/>
       <source>System Memory</source>
-      <translation>システムメモリー</translation>
+      <translation>システムメモリ</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="50"/>
@@ -674,7 +674,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="426"/>
       <source>Slow Analysis (asm.slow)</source>
-      <translation>ゆっくりした分析 (asm.slow)</translation>
+      <translation>低速分析 (asm.slow)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="433"/>
@@ -714,7 +714,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="482"/>
       <source>Substitute variables (asm.sub.var)</source>
-      <translation>代替変数 (asm.sub.var)</translation>
+      <translation>変数を代替 (asm.sub.var)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="489"/>
@@ -815,7 +815,7 @@
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="14"/>
       <source>Base64 Encode/Decode</source>
-      <translation>Base64 エンコード/でコード</translation>
+      <translation>Base64 エンコード/デコード</translation>
     </message>
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="24"/>
@@ -888,12 +888,12 @@
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="162"/>
       <source>Chunks count</source>
-      <translation>チャンクカウント</translation>
+      <translation>チャンク数</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="164"/>
       <source>Chunks size</source>
-      <translation>チャンクサイズ</translation>
+      <translation>チャンクのサイズ</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="172"/>
@@ -903,12 +903,12 @@
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="174"/>
       <source>Pointer to first chunk of the bin</source>
-      <translation>bin の最初のチャンクへのポインター</translation>
+      <translation>bin の最初のチャンクへのポインタ</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="176"/>
       <source>Pointer to last chunk of the bin</source>
-      <translation>bin の最後のチャンクへのポインター</translation>
+      <translation>bin の最後のチャンクへのポインタ</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="178"/>
@@ -923,7 +923,7 @@
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="182"/>
       <source>Size of all chunks in the bin</source>
-      <translation>ビン内のすべてのチャンクのサイズ</translation>
+      <translation>bin 内のすべてのチャンクのサイズ</translation>
     </message>
   </context>
   <context>
@@ -1208,7 +1208,7 @@
     <message>
       <location filename="../widgets/ClassesWidget.ui" line="109"/>
       <source>Seek to VTable</source>
-      <translation>VTable にシークする</translation>
+      <translation>仮想関数テーブルにシークする</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.ui" line="114"/>
@@ -1283,7 +1283,7 @@
     <message>
       <location filename="../widgets/ColorPicker.ui" line="118"/>
       <source>Sat:</source>
-      <translation>土:</translation>
+      <translation>彩度</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="149"/>
@@ -1523,12 +1523,12 @@
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="235"/>
       <source>Horizontal</source>
-      <translation>横型</translation>
+      <translation>横表示</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="236"/>
       <source>Vertical</source>
-      <translation>縦型</translation>
+      <translation>縦表示</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="238"/>
@@ -1541,7 +1541,7 @@
     <message>
       <location filename="../common/Configuration.cpp" line="146"/>
       <source>Critical!</source>
-      <translation>重大！</translation>
+      <translation>クリティカルエラー</translation>
     </message>
     <message>
       <location filename="../common/Configuration.cpp" line="147"/>
@@ -1606,12 +1606,12 @@
     <message>
       <location filename="../core/Cutter.cpp" line="1058"/>
       <source>Cannot apply signature file because the requested arch is not supported by .sig files</source>
-      <translation>.sig ファイルでサポートされていないため、要求されたアーチは署名ファイルを適用できません。</translation>
+      <translation>要求されたアーチが .sig ファイルでサポートされていないため、署名ファイルを適用できません。</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1067"/>
       <source>Found %1 matching signatures!</source>
-      <translation>一致する署名が %1 個見つかりました！</translation>
+      <translation>一致する署名が %1 件見つかりました！</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1072"/>
@@ -1707,7 +1707,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="49"/>
       <source>Grid wide</source>
-      <translation>幅が広いグリッド</translation>
+      <translation>幅の広いグリッド</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="63"/>
@@ -1812,7 +1812,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="461"/>
       <source>Do you really want to export %1 x %2 = %3 pixel bitmap image? Consider using different format.</source>
-      <translation>%1 x %2 = %3 ピクセルビットマップ画像をエクスポートしますか？別のフォーマットを使用することを検討してください。</translation>
+      <translation>%1 x %2 = %3 ピクセルビットマップ画像をエクスポートしますか？別のフォーマットをお勧めします。</translation>
     </message>
   </context>
   <context>
@@ -1820,7 +1820,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../common/CutterSeekable.cpp" line="73"/>
       <source>More than one (%1) references here. Weird behaviour expected.</source>
-      <translation>ここに複数の参照（%1）があります。予期しない動作が期待されています。</translation>
+      <translation>ここには複数の参照（%1）があります。予期しない動作が期待されています。</translation>
     </message>
     <message>
       <location filename="../widgets/AddressableDockWidget.cpp" line="45"/>
@@ -2169,7 +2169,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="50"/>
       <source>Step backwards</source>
-      <translation>戻る</translation>
+      <translation>ステップバック</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="51"/>
@@ -2270,7 +2270,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="79"/>
       <source>Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</source>
-      <translation>ズームアウト時にテキストが指定された値より小さい場合、テキストを非表示にします。高い値を指定するとパフォーマンスが向上する可能性があります。</translation>
+      <translation>ズームアウト時にテキストが指定された値より小さい場合、テキストを非表示にする。高い値を指定するとパフォーマンスが向上する可能性があります。</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="82"/>
@@ -2285,12 +2285,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="109"/>
       <source>Trace each step during continue in a trace session (dbg.trace_continue)</source>
-      <translation>トレースセッションで続行中に各ステップをトレースします (dbg.trace_continue)</translation>
+      <translation>トレースセッションで続行中に各ステップをトレース (dbg.trace_continue)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="112"/>
       <source>Disabling this option means that stepping back after continue will return to the previous PC. Significantly improves performance.</source>
-      <translation>このオプションを無効にすると、続行後にステップバックが前のプログラムコンテクストに戻ります。大幅にパフォーマンスが向上します。</translation>
+      <translation>このオプションを無効にすると、続行後にステップバックが前のプログラムカウンターに戻ります。パフォーマンスが大幅に向上します。</translation>
     </message>
   </context>
   <context>
@@ -2329,7 +2329,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="32"/>
       <source>Rename function at cursor</source>
-      <translation>カーソル位置の関数名を変更</translation>
+      <translation>カーソル位置にある関数の名前を変更</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="33"/>
@@ -2365,7 +2365,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="40"/>
       <source>Set PC</source>
-      <translation>プログラムコンテクストを設定</translation>
+      <translation>プログラムカウンターを設定</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="169"/>
@@ -2395,7 +2395,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="200"/>
       <source>Set %1 here</source>
-      <translation>ここで %1 を設定</translation>
+      <translation>ここに %1 を設定</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="212"/>
@@ -2446,17 +2446,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="321"/>
       <source>Can&apos;t rename this variable.&lt;br&gt;Only local variables defined in disassembly can be renamed.</source>
-      <translation>この変数の名前を変更することはできません。逆アセンブリで定義されたローカルな変数の名前をのみ変更できます。</translation>
+      <translation>この変数の名前を変更することはできません。逆アセンブリで定義されたローカルな変数のみ名前を変更できます。</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="340"/>
       <source>Can&apos;t edit this variable.&lt;br&gt;Only local variables defined in disassembly can be edited.</source>
-      <translation>この変数を編集することはできません。逆アセンブリで定義されたローカルな変数をのみ編集できます。</translation>
+      <translation>この変数を編集することはできません。逆アセンブリで定義されたローカルな変数のみを編集できます。</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="413"/>
       <source>Define this function at %2</source>
-      <translation>%2 でこの関数を定義します。</translation>
+      <translation>%2 にこの関数を定義。</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="414"/>
@@ -2495,7 +2495,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="450"/>
       <source>Can&apos;t rename this variable. Only local variables defined in disassembly can be renamed.</source>
-      <translation>この変数の名前を変更することはできません。逆アセンブリで定義されたローカルな変数の名前をのみ変更できます。</translation>
+      <translation>この変数の名前を変更することはできません。逆アセンブリで定義されたローカルな変数のみ名前を変更できます。</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="475"/>
@@ -2505,7 +2505,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="476"/>
       <source>Can&apos;t edit this variable. Only local variables defined in disassembly can be edited.</source>
-      <translation>この変数を編集することはできません。逆アセンブリで定義されたローカルな変数をのみ編集できます。</translation>
+      <translation>この変数を編集することはできません。逆アセンブリで定義されたローカルな変数のみを編集できます。</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="542"/>
@@ -2550,7 +2550,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="33"/>
       <source>Choose an offset and refresh to get decompiled code</source>
-      <translation>オフセットを選択して更新して、コードを逆コンパイルします</translation>
+      <translation>オフセットを選択して更新し、逆コンパイルされたコードを取得します</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="69"/>
@@ -2616,7 +2616,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="77"/>
       <source>Show in</source>
-      <translation>次で表示する</translation>
+      <translation>次に表示する</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="82"/>
@@ -2627,7 +2627,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="86"/>
       <source>Rename or add flag</source>
-      <translation>名前を変更またはフラグを追加</translation>
+      <translation>フラグ名を変更またはフラグを追加</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="90"/>
@@ -5527,7 +5527,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="123"/>
       <source>Memory Map</source>
-      <translation>メモリーマップ</translation>
+      <translation>メモリマップ</translation>
     </message>
   </context>
   <context>
