@@ -124,7 +124,7 @@
     <message>
       <location filename="../widgets/AddressableDockWidget.cpp" line="12"/>
       <source>Sync/unsync offset</source>
-      <translation>Sincronizar/desincronizar dirección relativa</translation>
+      <translation>Sincronizar/desincronizar offset</translation>
     </message>
   </context>
   <context>
@@ -198,7 +198,7 @@
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="94"/>
       <source>Speculatively set a name for the functions (analysis.autoname)</source>
-      <translation>Asignar un nombre especulativamente para las funciones (analysis.autoname)</translation>
+      <translation>Nombrar funciones especulativamente (analysis.autoname)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="107"/>
