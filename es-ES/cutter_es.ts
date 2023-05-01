@@ -371,12 +371,12 @@ Disminuir (Zoom out)</translation>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="289"/>
       <source>Use information provided by decompiler when highlighting code.</source>
-      <translation>Usa la información proporcionada por el descompilador al resaltar código.</translation>
+      <translation>Usar la información proporcionada por el descompilador al resaltar código.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="292"/>
       <source>Decompiler based highlighting</source>
-      <translation>Resaltado basado en el descompilador</translation>
+      <translation>Resaltado basado en descompilador</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="312"/>
@@ -600,7 +600,7 @@ Disminuir (Zoom out)</translation>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="220"/>
       <source>Show offsets relative to:</source>
-      <translation>Mostrar direcciones relativas a:</translation>
+      <translation>Mostrar offsets relativos a:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="227"/>
@@ -2173,7 +2173,7 @@ Para obtener más información, consulte la consola.</translation>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="50"/>
       <source>Step backwards</source>
-      <translation>Retroceso</translation>
+      <translation>Retroceder</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="51"/>
@@ -2220,7 +2220,7 @@ Para obtener más información, consulte la consola.</translation>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="268"/>
       <source>If you encounter any problems or have suggestions, please submit an issue to https://github.com/rizinorg/cutter/issues</source>
-      <translation>Si tiene algún problema o sugerencia, abra una incidencia en https://github.com/rizinorg/cutter/issues</translation>
+      <translation>Si tiene algún problema o sugerencia, cree una incidencia en https://github.com/rizinorg/cutter/issues</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="289"/>
@@ -2274,7 +2274,7 @@ Para obtener más información, consulte la consola.</translation>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="79"/>
       <source>Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</source>
-      <translation>Se oculta el texto si, al alejar, es más pequeño que el valor especificado. Use valores superiores para mejorar el rendimiento.</translation>
+      <translation>Ocultar el texto si al alejar es más pequeño que el valor especificado. Use valores superiores para mejorar el rendimiento.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="82"/>
@@ -2307,12 +2307,12 @@ Para obtener más información, consulte la consola.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="27"/>
       <source>Copy instruction address (&lt;address&gt;)</source>
-      <translation>Copiar dirección de la instrucción (&lt;address&gt;)</translation>
+      <translation>Copiar dirección de la instrucción (&lt;dirección&gt;)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="28"/>
       <source>Copy address of [flag] (&lt;address&gt;)</source>
-      <translation>Copiar dirección de [marca] (&lt;address&gt;)</translation>
+      <translation>Copiar dirección de [flag] (&lt;dirección&gt;)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="29"/>
@@ -2338,12 +2338,12 @@ Para obtener más información, consulte la consola.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="33"/>
       <source>Delete &lt;name&gt;</source>
-      <translation>Eliminar &lt;name&gt;</translation>
+      <translation>Eliminar &lt;nombre&gt;</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="34"/>
       <source>Edit variable &lt;name of variable&gt;</source>
-      <translation>Editar variable &lt;name of variable&gt;</translation>
+      <translation>Editar variable &lt;nombre de variable&gt;</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="35"/>
@@ -2424,7 +2424,7 @@ Para obtener más información, consulte la consola.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="226"/>
       <source>Copy instruction address (%1)</source>
-      <translation>Copias dirección de instrucción (%1)</translation>
+      <translation>Copiar dirección de instrucción (%1)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="232"/>
@@ -2455,7 +2455,7 @@ Para obtener más información, consulte la consola.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="340"/>
       <source>Can&apos;t edit this variable.&lt;br&gt;Only local variables defined in disassembly can be edited.</source>
-      <translation>No se puede editar esta variable.&lt;br&gt;Solo pueden editarse las variables locales detenidas en el desensamblado.</translation>
+      <translation>No se puede editar esta variable.&lt;br&gt;Solo pueden editarse las variables locales definidas en el desensamblado.</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="413"/>
@@ -2499,7 +2499,7 @@ Para obtener más información, consulte la consola.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="450"/>
       <source>Can&apos;t rename this variable. Only local variables defined in disassembly can be renamed.</source>
-      <translation>No se puede cambiar el nombre de esta variable. Solo se puede cambiar el nombre de las variables locales definidas en desensamblado.</translation>
+      <translation>No se puede cambiar el nombre de esta variable. Solo se puede cambiar el nombre de las variables locales definidas en el desensamblado.</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="475"/>
@@ -2554,7 +2554,7 @@ Para obtener más información, consulte la consola.</translation>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="33"/>
       <source>Choose an offset and refresh to get decompiled code</source>
-      <translation>Elija una dirección relativa y actualice para obtener el código descompilado</translation>
+      <translation>Elija un offset y actualice para obtener el código descompilado</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="69"/>
@@ -2564,7 +2564,7 @@ Para obtener más información, consulte la consola.</translation>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="285"/>
       <source>No function found at this offset. Seek to a function or define one in order to decompile it.</source>
-      <translation>No se encuentra ninguna función en esta dirección relativa. Busque una función o defina una para descompilarlo.</translation>
+      <translation>No se encuentra ninguna función en este offset. Busque una función o defina una para descompilarlo.</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="332"/>
@@ -2637,7 +2637,7 @@ Para obtener más información, consulte la consola.</translation>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="90"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="865"/>
       <source>Re-type Local Variables</source>
-      <translation>Vuelva a escribir las variables locales</translation>
+      <translation>Reescribir variables locales</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="94"/>
@@ -2950,12 +2950,12 @@ Para obtener más información, consulte la consola.</translation>
     <message>
       <location filename="../dialogs/DuplicateFromOffsetDialog.ui" line="20"/>
       <source>Duplicate from offset</source>
-      <translation>Duplicar desde dirección relativa</translation>
+      <translation>Duplicar desde offset</translation>
     </message>
     <message>
       <location filename="../dialogs/DuplicateFromOffsetDialog.ui" line="28"/>
       <source>Offset:</source>
-      <translation>Dirección relativa:</translation>
+      <translation>Offset:</translation>
     </message>
     <message>
       <location filename="../dialogs/DuplicateFromOffsetDialog.ui" line="49"/>
@@ -3296,7 +3296,7 @@ Para obtener más información, consulte la consola.</translation>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="71"/>
       <source># Funcs</source>
-      <translation># Funciones</translation>
+      <translation>N.º de funciones</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="73"/>
@@ -3511,7 +3511,7 @@ Para obtener más información, consulte la consola.</translation>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="28"/>
       <source>Bins info for arena @ </source>
-      <translation>Información de contenedores para la arena @</translation>
+      <translation>Información de bins para la arena @ </translation>
     </message>
   </context>
   <context>
@@ -3549,7 +3549,7 @@ Para obtener más información, consulte la consola.</translation>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="63"/>
       <source>Link to next free chunk in bin&apos;s linked list</source>
-      <translation>Enlace al siguiente fragmento libre en la lista vinculada del fragmento</translation>
+      <translation>Enlace al siguiente fragmento libre en la lista vinculada del bin</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="73"/>
@@ -3559,7 +3559,7 @@ Para obtener más información, consulte la consola.</translation>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="80"/>
       <source>Link to previous free chunk in bin&apos;s linked list</source>
-      <translation>Enlace al fragmento libre anterior de la lista vinculada del contenedor</translation>
+      <translation>Enlace al fragmento libre anterior de la lista vinculada del bin</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="90"/>
@@ -3690,7 +3690,7 @@ Para obtener más información, consulte la consola.</translation>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="50"/>
       <source>Bins</source>
-      <translation>Contenedores</translation>
+      <translation>Bins</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="27"/>
@@ -3700,7 +3700,7 @@ Para obtener más información, consulte la consola.</translation>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="28"/>
       <source>Bins Info</source>
-      <translation>Información de contenedores</translation>
+      <translation>Información de bins</translation>
     </message>
   </context>
   <context>
@@ -3723,12 +3723,12 @@ Para obtener más información, consulte la consola.</translation>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="34"/>
       <source>Show offset of the first instruction in each graph block</source>
-      <translation>Mostrar dirección relativa de la primera instrucción en cada bloque de gráfico</translation>
+      <translation>Mostrar offset de la primera instrucción en cada bloque de gráfico</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="41"/>
       <source>Show offset for each instruction (graph.offset)</source>
-      <translation>Mostrar dirección relativa para cada instrucción (graph.offset)</translation>
+      <translation>Mostrar offset para cada instrucción (graph.offset)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="48"/>
@@ -3744,7 +3744,7 @@ Para obtener más información, consulte la consola.</translation>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="77"/>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="87"/>
       <source>Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</source>
-      <translation>Se oculta el texto si, al alejar, es más pequeño que el valor especificado. Use valores superiores para mejorar el rendimiento.</translation>
+      <translation>Ocultar el texto si al alejar es más pequeño que el valor especificado. Use valores superiores para mejorar el rendimiento.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="80"/>
@@ -3839,7 +3839,7 @@ Para obtener más información, consulte la consola.</translation>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="80"/>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="122"/>
       <source>bin </source>
-      <translation>contenedor</translation>
+      <translation>bin </translation>
     </message>
     <message>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="122"/>
@@ -3975,7 +3975,7 @@ Para obtener más información, consulte la consola.</translation>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="180"/>
       <source>Duplicate from offset</source>
-      <translation>Duplicar desde dirección relativa</translation>
+      <translation>Duplicar desde offset</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="184"/>
@@ -4381,7 +4381,7 @@ Por favor, asegúrese de que es una cadena base64 válida y vuelva a intentarlo.
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="326"/>
       <source>Auto Exp</source>
-      <translation>Auto (experimental)</translation>
+      <translation>Experimental</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="364"/>
@@ -5307,7 +5307,7 @@ Por favor, asegúrese de que es una cadena base64 válida y vuelva a intentarlo.
     <message>
       <location filename="../core/MainWindow.ui" line="833"/>
       <source>Open the file in write mode. Every change to the file will change the original file on disk.</source>
-      <translation>Abre el archivo en el modo de escritura. Todos los cambios realizados en el archivo cambiarán el archivo original en el disco.</translation>
+      <translation>Abre el archivo en el modo de escritura. Todas las modificaciones realizadas en el archivo cambiarán el archivo original en el disco.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="841"/>
@@ -5928,7 +5928,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="345"/>
       <source>Disable output redirection. Some of the output in console widget will not be visible. Use this option when debuging a crash or freeze and output  redirection is causing some messages to be lost.</source>
-      <translation>Deshabilita el redireccionamiento de resultados. Una parte de los resultados en el widget de la consola no será visible. Use esta opción si, al depurar un bloqueo, el redireccionamiento de los resultados causa la pérdida de mensajes.</translation>
+      <translation>Deshabilita el redireccionamiento de la salida. Una parte de la salida en el widget de la consola no será visible. Use esta opción si, cuando se depura un bloqueo, se pierden mensajes al redireccionar la salida.</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="351"/>
