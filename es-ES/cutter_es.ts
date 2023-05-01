@@ -1816,7 +1816,7 @@ Para obtener más información, consulte la consola.</translation>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="461"/>
       <source>Do you really want to export %1 x %2 = %3 pixel bitmap image? Consider using different format.</source>
-      <translation>¿Seguro que quiere exportar la imagen de mapa de bits de %1 × %2 = %3 píxeles? Puede usar otro formato.</translation>
+      <translation>¿Seguro que quiere exportar la imagen de mapa de bits de %1 × %2 = %3 píxeles? También puede usar otro formato.</translation>
     </message>
   </context>
   <context>
@@ -5307,7 +5307,7 @@ Por favor, asegúrese de que es una cadena base64 válida y vuelva a intentarlo.
     <message>
       <location filename="../core/MainWindow.ui" line="833"/>
       <source>Open the file in write mode. Every change to the file will change the original file on disk.</source>
-      <translation>Abre el archivo en el modo de escritura. Al realizar cambios en el archivo, se modificará el archivo original en el disco.</translation>
+      <translation>Abre el archivo en modo de escritura. Al realizar cambios en el archivo, se modificará el archivo original en el disco.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="841"/>
