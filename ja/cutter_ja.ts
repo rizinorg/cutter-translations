@@ -5810,9 +5810,9 @@ Save your project before closing!</source>
       <source>Your file is opened in read-only mode. Editing is only available when the file is opened in either Write or Cache modes.
 
 WARNING: In Write mode, any changes will be committed to the file on disk. For safety, please consider using Cache mode and then commit the changes manually via File -&gt; Commit modifications to disk.</source>
-      <translation>ファイルを読み取り専用モードで開いています。書き込みモードまたはキャッシュモードのみで編集が可能です。
+      <translation>ファイルは読み取り専用モードで開かれています。書き込みモードまたはキャッシュモードのみで編集が可能です。
 
-注意：書き込みモードでは変更はすべて、ディスク上のファイルに書き込まれます。キャッシュモードを使用して [ファイル] -&gt; [コミット] 経由で変更を書き込んだほうが安全です。</translation>
+注意：書き込みモードでは変更はすべて、ディスク上のファイルに書き込まれます。安全上の理由からキャッシュモードを使用して [ファイル] -&gt; [コミット] 経由で変更を書き込むことをお勧めします。</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="60"/>
@@ -5849,7 +5849,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="99"/>
       <source>The version used to compile Cutter (%1) does not match the binary version of rizin (%2). This could result in unexpected behaviour. Are you sure you want to continue?</source>
-      <translation>Cutter (%1) のコンパイルに使用されたバージョンが、rizin のバイナリバージョン (%2) と一致しません。これは予期しない動作につながる可能性があります。続行しますか？</translation>
+      <translation>Cutter (%1) のコンパイルに使用されたバージョンが、rizin の実行ファイルのバージョン (%2) と一致しません。これにより予期しない動作につながる可能性があります。続行しますか？</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="304"/>
@@ -5859,12 +5859,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="307"/>
       <source>Filename to open.</source>
-      <translation>開くファイル名</translation>
+      <translation>開くファイル名。</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="311"/>
       <source>Automatically open file and optionally start analysis. Needs filename to be specified. May be a value between 0 and 2: 0 = no analysis, 1 = aaa, 2 = aaaa (experimental)</source>
-      <translation>ファイルを自動的に開き、オプションで解析を開始します。ファイル名を指定する必要があります。 0 ～ 2 の値に設定できます。0 = 分析なし、 1 = aaa, 2 = aaaa (実験的)</translation>
+      <translation>ファイルを自動的に開き、オプションで分析を開始します。ファイル名を指定する必要があります。 0 ～ 2 の値に設定できます。0 = 分析なし、 1 = aaa、2 = aaaa (実験的)</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="314"/>
@@ -5874,7 +5874,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="318"/>
       <source>Force using a specific file format (bin plugin)</source>
-      <translation>特定のファイル形式を強制する（ビンプラグイン）</translation>
+      <translation>特定のファイル形式を強制する（bin プラグイン）</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="319"/>
@@ -5894,7 +5894,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="327"/>
       <source>Run script file</source>
-      <translation>スクリプト ファイルを実行</translation>
+      <translation>スクリプトファイルを実行</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="327"/>
@@ -5924,7 +5924,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="345"/>
       <source>Disable output redirection. Some of the output in console widget will not be visible. Use this option when debuging a crash or freeze and output  redirection is causing some messages to be lost.</source>
-      <translation>出力のリダイレクトを無効にします。コンソールウィジェットの出力の一部は表示されません。 クラッシュまたはフリーズのデバッグ中に出力のリダイレクトにより一部のメッセージが表示されなくなる場合に使用します。</translation>
+      <translation>出力のリダイレクトを無効にします。コンソールウィジェットの出力の一部が表示されなくなります。 クラッシュまたはフリーズのデバッグ中に出力のリダイレクトにより一部のメッセージが表示されなくなる場合に使用します。</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="351"/>
@@ -5944,12 +5944,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="373"/>
       <source>Invalid Analysis Level. May be a value between 0 and 2.</source>
-      <translation>解析レベルが無効です。0 ～ 2 の値に設定してください。</translation>
+      <translation>分析レベルが無効です。0 ～ 2 の値に設定してください。</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="393"/>
       <source>Filename must be specified to start analysis automatically.</source>
-      <translation>自動的に解析を開始するにはファイル名を指定する必要があります。</translation>
+      <translation>自動的に分析を開始するにはファイル名を指定する必要があります。</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="397"/>
@@ -5994,7 +5994,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="403"/>
       <source>Color of ascii line in left side that shows what opcodes are belong to function</source>
-      <translation>どのオペコードが関数に属しているかを示す左側の ASCII 行の色</translation>
+      <translation>どのオペコードが関数に属しているかを示す行の色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="405"/>
@@ -6110,7 +6110,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="424"/>
       <source>Binary</source>
-      <translation>バイナリ</translation>
+      <translation>2進</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="426"/>
@@ -6145,7 +6145,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="435"/>
       <source>Color of conditional jump opcodes such as je, jg, jne etc</source>
-      <translation>je、jg、jneなどの条件付きジャンプコードの色</translation>
+      <translation>je、jg、jne などの条件付きジャンプコードの色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="436"/>
@@ -6305,7 +6305,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="483"/>
       <source>Border color of Graph Overview&apos;s selection</source>
-      <translation>グラフ概要の選択範囲の枠線色</translation>
+      <translation>グラフ概要の選択範囲の枠線の色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="484"/>
@@ -6325,7 +6325,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="489"/>
       <source>Background color of non-focused graph node</source>
-      <translation>非フォーカスグラフノードの背景色</translation>
+      <translation>非フォーカスグラフノードの背景の色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="490"/>
@@ -6355,7 +6355,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="496"/>
       <source>Selected line background color</source>
-      <translation>選択した行の背景色</translation>
+      <translation>選択した行の背景の色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="496"/>
@@ -6375,12 +6375,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="499"/>
       <source>Main function color</source>
-      <translation>メイン関数の色</translation>
+      <translation>main 関数の色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="499"/>
       <source>Main</source>
-      <translation>明認</translation>
+      <translation>Main</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="508"/>
@@ -6659,7 +6659,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="14"/>
       <source>Rizin plugin information</source>
-      <translation>Rizin プラグイン情報を表示</translation>
+      <translation>Rizin プラグインの情報</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="24"/>
@@ -6917,12 +6917,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="287"/>
       <source>No results found for:</source>
-      <translation>次に一致する項目が見つかりません:</translation>
+      <translation>次に一致する検索結果は見つかりませんでした:</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="290"/>
       <source>No Results Found</source>
-      <translation>一致する結果が見つかりませんでした</translation>
+      <translation>一致する検索結果は見つかりませんでした</translation>
     </message>
   </context>
   <context>
@@ -7064,7 +7064,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="222"/>
       <source>Reference</source>
-      <translation>参考</translation>
+      <translation>参照</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="224"/>
@@ -7082,7 +7082,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="109"/>
       <source>Edit stack at %1</source>
-      <translation>%1 でスタックを編集</translation>
+      <translation>%1 のスタックを編集</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="138"/>
@@ -7138,7 +7138,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../common/StringsTask.h" line="13"/>
       <source>Searching for Strings</source>
-      <translation>文字列を検索</translation>
+      <translation>文字列を検索しています</translation>
     </message>
   </context>
   <context>
