@@ -3155,7 +3155,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="20"/>
       <source>Add flag at</source>
-      <translation>フラグを次に場所追加: </translation>
+      <translation>フラグを次に追加: </translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="38"/>
@@ -5812,7 +5812,7 @@ Save your project before closing!</source>
 WARNING: In Write mode, any changes will be committed to the file on disk. For safety, please consider using Cache mode and then commit the changes manually via File -&gt; Commit modifications to disk.</source>
       <translation>ファイルは読み取り専用モードで開かれています。書き込みモードまたはキャッシュモードのみで編集が可能です。
 
-注意：書き込みモードでは変更はすべて、ディスク上のファイルに書き込まれます。安全上の理由からキャッシュモードを使用して [ファイル] -&gt; [コミット] 経由で変更を書き込むことをお勧めします。</translation>
+注意：書き込みモードでは、変更はすべてディスク上のファイルに書き込まれます。安全上の理由からキャッシュモードを使用して [ファイル] -&gt; [コミット] 経由で変更を書き込むことをお勧めします。</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="60"/>
@@ -6195,12 +6195,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="445"/>
       <source>Registers color</source>
-      <translation>レジスターの色</translation>
+      <translation>レジスタの色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="445"/>
       <source>Register</source>
-      <translation>レジスター</translation>
+      <translation>レジスタ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="448"/>
@@ -6315,7 +6315,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="487"/>
       <source>General background color</source>
-      <translation>一般的背景の色</translation>
+      <translation>一般背景色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="487"/>
@@ -6449,7 +6449,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="67"/>
       <source>Register</source>
-      <translation>レジスター</translation>
+      <translation>レジスタ</translation>
     </message>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="69"/>
@@ -6472,12 +6472,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="137"/>
       <source>Copy register value</source>
-      <translation>レジスターの値をコピー</translation>
+      <translation>レジスタの値をコピー</translation>
     </message>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="138"/>
       <source>Copy register reference</source>
-      <translation>レジスターの参照をコピー</translation>
+      <translation>レジスタの参照をコピー</translation>
     </message>
   </context>
   <context>
