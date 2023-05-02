@@ -2338,7 +2338,7 @@ Para obtener más información, consulte la consola.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="33"/>
       <source>Delete &lt;name&gt;</source>
-      <translation>Eliminar &lt;nombre&gt;</translation>
+      <translation>Eliminar &lt;name&gt;</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="34"/>
