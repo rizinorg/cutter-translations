@@ -2312,7 +2312,7 @@ Para obtener más información, consulte la consola.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="28"/>
       <source>Copy address of [flag] (&lt;address&gt;)</source>
-      <translation>Copiar dirección de [flag] (&lt;dirección&gt;)</translation>
+      <translation>Copiar dirección de [flag] (&lt;address&gt;)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="29"/>
@@ -2343,7 +2343,7 @@ Para obtener más información, consulte la consola.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="34"/>
       <source>Edit variable &lt;name of variable&gt;</source>
-      <translation>Editar variable &lt;nombre de variable&gt;</translation>
+      <translation>Editar variable &lt;name of variable&gt;</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="35"/>
