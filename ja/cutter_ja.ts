@@ -183,22 +183,22 @@
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="55"/>
       <source>Show verbose information when performing analysis (analysis.verbose)</source>
-      <translation>分析の実行時に詳細情報を表示（analyzis.verbose）</translation>
+      <translation>分析の実行時に詳細情報を表示 (analyzis.verbose）</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="68"/>
       <source>Analyze push+ret as jmp (analysis.pushret)</source>
-      <translation>push+ret を jmp として分析（analysis.pushret）</translation>
+      <translation>push+ret を jmp として分析 (analysis.pushret）</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="81"/>
       <source>Verbose output from type analysis (analysis.types.verbose)</source>
-      <translation>型分析の詳細な出力（analysis.types.verbose）</translation>
+      <translation>型分析の詳細な出力 (analysis.types.verbose）</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="94"/>
       <source>Speculatively set a name for the functions (analysis.autoname)</source>
-      <translation>関数の名前を推論的に設定（analysis.autoname）</translation>
+      <translation>関数の名前を推論的に設定 (analysis.autoname）</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="107"/>
@@ -208,27 +208,27 @@
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="120"/>
       <source>Create references for unconditional jumps (analysis.jmp.ref)</source>
-      <translation>無条件ジャンプの参照を作成（analysis.jmp.ref）</translation>
+      <translation>無条件ジャンプの参照を作成 (analysis.jmp.ref）</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="133"/>
       <source>Analyze jump tables in switch statements (analysis.jmp.tbl)</source>
-      <translation>switch 文でジャンプテーブルを分析（analysis.jmp.tbl）</translation>
+      <translation>switch 文でジャンプテーブルを分析 (analysis.jmp.tbl）</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="161"/>
       <source>Search boundaries for analysis (analysis.in): </source>
-      <translation>分析の検索範囲（analysis.in）： </translation>
+      <translation>分析の検索範囲 (analysis.in）: </translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="195"/>
       <source>Pointer depth (analysis.ptrdepth):</source>
-      <translation>ポインタの深さ（analysis.ptrdepth）：</translation>
+      <translation>ポインタの深さ (analysis.ptrdepth）:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="236"/>
       <source>Functions Prelude (analysis.prelude):</source>
-      <translation>関数プレリュード（analysis.prelude）：</translation>
+      <translation>関数プレリュード (analysis.prelude）:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="269"/>
@@ -474,7 +474,7 @@
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="22"/>
       <source>Top</source>
-      <translation>最後</translation>
+      <translation>最上部</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="29"/>
@@ -499,7 +499,7 @@
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="92"/>
       <source>Last Remainder</source>
-      <translation>最後のリマインダー</translation>
+      <translation>余り</translation>
     </message>
   </context>
   <context>
@@ -518,12 +518,12 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="88"/>
       <source>Align bytes to the left (asm.lbytes)</source>
-      <translation>バイトを左に配置（asm.lbytes）</translation>
+      <translation>バイトを左に配置 (asm.lbytes）</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="95"/>
       <source>Show preview when hovering:</source>
-      <translation>マウスを合わせている時にプレビューを表示：</translation>
+      <translation>マウスを合わせている時にプレビューを表示:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="102"/>
@@ -559,7 +559,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="145"/>
       <source>Tabs before assembly (asm.tabs.off):</source>
-      <translation>アセンブリ前のタブ (asm.tabs.off):</translation>
+      <translation>オフセットの後のタブ数 (asm.tabs.off):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="158"/>
@@ -883,7 +883,7 @@
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="160"/>
       <source>Type</source>
-      <translation>型</translation>
+      <translation>種類</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="162"/>
@@ -1559,7 +1559,7 @@
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="98"/>
       <source>Debugee Input</source>
-      <translation>デバッガーの入力</translation>
+      <translation>コンソール入力</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="115"/>
@@ -1623,7 +1623,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../core/Cutter.cpp" line="1082"/>
       <source>Cannot create signature file (check the console for more details).</source>
-      <translation>署名ファイルを作成できません（詳細はコンソールを確認してください）。</translation>
+      <translation>署名ファイルを作成できません (詳細はコンソールを確認してください）。</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1086"/>
@@ -1820,7 +1820,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../common/CutterSeekable.cpp" line="73"/>
       <source>More than one (%1) references here. Weird behaviour expected.</source>
-      <translation>ここには複数の参照（%1）があります。予期しない動作が期待されています。</translation>
+      <translation>ここには複数の参照 (%1) があります。予期しない動作が期待されています。</translation>
     </message>
     <message>
       <location filename="../widgets/AddressableDockWidget.cpp" line="45"/>
@@ -2339,7 +2339,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="34"/>
       <source>Edit variable &lt;name of variable&gt;</source>
-      <translation>(&lt;address&gt; ) を編集</translation>
+      <translation>&lt;name of variable&gt; 変数を編集 </translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="35"/>
@@ -3520,7 +3520,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="22"/>
       <source>Base</source>
-      <translation>基数</translation>
+      <translation>ベース</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="29"/>
@@ -3560,7 +3560,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="90"/>
       <source>Link to next larger free chunk (only for large chunks)</source>
-      <translation>次の大きなフリーチャンクへのリンク（大型チャンク限定）</translation>
+      <translation>次の大きなフリーチャンクへのリンク (大型チャンク限定）</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="100"/>
@@ -3575,7 +3575,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="114"/>
       <source>Link to next smaller free chunk (for large chunks)</source>
-      <translation>次のより小さいフリーチャンクへのリンク（大型チャンク用）</translation>
+      <translation>次のより小さいフリーチャンクへのリンク (大型チャンク用）</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="124"/>
@@ -4036,7 +4036,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1410"/>
       <source>Write random</source>
-      <translation>ランダムの書き込み</translation>
+      <translation>ランダムなバイトの書き込み</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1410"/>
@@ -4478,7 +4478,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="876"/>
       <source>Load bin offset (-B)</source>
-      <translation>bin のオフセットを読み込む（-B）</translation>
+      <translation>bin のオフセットを読み込む (-B）</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="895"/>
@@ -5358,7 +5358,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="620"/>
       <source>Failed to open project: %1</source>
-      <translation>プロジェクトを開けませんでした：%1</translation>
+      <translation>プロジェクトを開けませんでした: %1</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="625"/>
@@ -5368,7 +5368,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="747"/>
       <source>Failed to save project: %1</source>
-      <translation>プロジェクトを保存できませんでした：%1</translation>
+      <translation>プロジェクトを保存できませんでした: %1</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="775"/>
@@ -5650,7 +5650,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="290"/>
       <source>Open a file with no extra treatment.</source>
-      <translation>処理せずにファイルを開く</translation>
+      <translation>追加オプション/設定なしでファイルを開く</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="322"/>
@@ -5793,7 +5793,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../common/DisassemblyPreview.cpp" line="41"/>
       <source>More than one (%1) references here. Weird behaviour expected.</source>
-      <translation>ここには複数の参照（%1）があります。予期しない動作が期待されています。</translation>
+      <translation>ここには複数の参照 (%1) があります。予期しない動作が期待されています。</translation>
     </message>
     <message>
       <location filename="../common/DisassemblyPreview.cpp" line="49"/>
@@ -5812,7 +5812,7 @@ Save your project before closing!</source>
 WARNING: In Write mode, any changes will be committed to the file on disk. For safety, please consider using Cache mode and then commit the changes manually via File -&gt; Commit modifications to disk.</source>
       <translation>ファイルは読み取り専用モードで開かれています。書き込みモードまたはキャッシュモードのみで編集が可能です。
 
-注意：書き込みモードでは、変更はすべてディスク上のファイルに書き込まれます。安全上の理由からキャッシュモードを使用して [ファイル] -&gt; [コミット] 経由で変更を書き込むことをお勧めします。</translation>
+注意: 書き込みモードでは、変更はすべてディスク上のファイルに書き込まれます。安全上の理由からキャッシュモードを使用して [ファイル] -&gt; [コミット] 経由で変更を書き込むことをお勧めします。</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="60"/>
@@ -5874,7 +5874,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="318"/>
       <source>Force using a specific file format (bin plugin)</source>
-      <translation>特定のファイル形式を強制する（bin プラグイン）</translation>
+      <translation>特定のファイル形式を強制する (bin プラグイン）</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="319"/>
@@ -6275,7 +6275,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="473"/>
       <source>In graph view jump arrow (no condition)</source>
-      <translation>グラフ表示のジャンプ矢印（条件なし）</translation>
+      <translation>グラフ表示のジャンプ矢印 (条件なし）</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="473"/>
@@ -6345,12 +6345,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="494"/>
       <source>Color of node border in graph view</source>
-      <translation>グラフ表示でのノード境界の色</translation>
+      <translation>グラフ表示でのノード枠線の色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="494"/>
       <source>Node border</source>
-      <translation>ノード境界</translation>
+      <translation>ノード枠線</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="496"/>
@@ -7567,7 +7567,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="155"/>
       <source>X-Refs to %1 (%2 results):</source>
-      <translation>%1 への相互参照（%2 件の結果）</translation>
+      <translation>%1 への相互参照 (%2 件の結果）</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="157"/>
