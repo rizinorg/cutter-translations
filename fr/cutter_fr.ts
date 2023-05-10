@@ -124,7 +124,7 @@
     <message>
       <location filename="../widgets/AddressableDockWidget.cpp" line="12"/>
       <source>Sync/unsync offset</source>
-      <translation>Décalage de synchronisation/désynchronisation</translation>
+      <translation>Synchroniser/désynchroniser l'offset</translation>
     </message>
   </context>
   <context>
@@ -160,7 +160,7 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="431"/>
       <source>base</source>
-      <translation>Base</translation>
+      <translation>base</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="464"/>
@@ -213,12 +213,12 @@
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="133"/>
       <source>Analyze jump tables in switch statements (analysis.jmp.tbl)</source>
-      <translation>Analyser les tables de saut dans les instructions de commutation (analysis.jmp.tbl)</translation>
+      <translation>Analyser les tables de saut dans les instructions switch (analysis.jmp.tbl)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="161"/>
       <source>Search boundaries for analysis (analysis.in): </source>
-      <translation>Limites de recherche pour l'analyse (analysis.in) :</translation>
+      <translation>Limites de recherche pour l'analyse (analysis.in) : </translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="195"/>
