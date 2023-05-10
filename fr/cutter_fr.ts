@@ -271,7 +271,7 @@
     <message>
       <location filename="../common/AnalysisTask.cpp" line="101"/>
       <source>Executing analysis...</source>
-      <translation>Exécuter des analyses...</translation>
+      <translation>Exécution de l'analyse...</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="110"/>
@@ -281,7 +281,7 @@
     <message>
       <location filename="../common/AnalysisTask.cpp" line="112"/>
       <source>Skipping Analysis.</source>
-      <translation>Analyse des sauts.</translation>
+      <translation>Ignorer l'analyse.</translation>
     </message>
   </context>
   <context>
@@ -714,7 +714,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="482"/>
       <source>Substitute variables (asm.sub.var)</source>
-      <translation>Variables de substitution (asm.sub.var)</translation>
+      <translation>Subistituer les variables (asm.sub.var)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="489"/>
@@ -906,27 +906,27 @@
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="174"/>
       <source>Pointer to first chunk of the bin</source>
-      <translation>Pointeur sur le premier morceau de la corbeille</translation>
+      <translation>Pointeur sur le premier bloc du bin</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="176"/>
       <source>Pointer to last chunk of the bin</source>
-      <translation>Pointeur sur le dernier morceau de la corbeille</translation>
+      <translation>Pointeur sur le dernier bloc du bin</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="178"/>
       <source>Type of bin</source>
-      <translation>Type de poubelle</translation>
+      <translation>Type de bin</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="180"/>
       <source>Number of chunks in the bin</source>
-      <translation>Nombre de morceaux dans la corbeille</translation>
+      <translation>Nombre de blocs dans le bin</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="182"/>
       <source>Size of all chunks in the bin</source>
-      <translation>Taille de tous les morceaux dans la corbeille</translation>
+      <translation>Taille de tous les blocs dans le bin</translation>
     </message>
   </context>
   <context>
@@ -1149,7 +1149,7 @@
     <message>
       <location filename="../widgets/CallGraph.cpp" line="23"/>
       <source>Global Callgraph</source>
-      <translation>Graphique d'appel global</translation>
+      <translation>Callgraph global</translation>
     </message>
     <message>
       <location filename="../widgets/CallGraph.cpp" line="23"/>
@@ -1379,7 +1379,7 @@
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="46"/>
       <source>The Rizin standard themes could not be found in &apos;%1&apos;. Most likely, Rizin is not properly installed.</source>
-      <translation>Les thèmes standard de Rizin n'ont pas été trouvés dans '%1'. Il est probable que Rizin ne soit pas correctement installé.</translation>
+      <translation>Les thèmes standard de Rizin n'ont pas été trouvés dans « %1 ». Il est probable que Rizin ne soit pas correctement installé.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="75"/>
