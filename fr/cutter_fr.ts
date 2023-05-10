@@ -1609,12 +1609,12 @@
     <message>
       <location filename="../core/Cutter.cpp" line="1058"/>
       <source>Cannot apply signature file because the requested arch is not supported by .sig files</source>
-      <translation>Impossible d'appliquer le fichier de signature car l'archive demandée n'est pas prise en charge par les fichiers .sig</translation>
+      <translation>Impossible d'appliquer le fichier de signature, car l'archive demandée n'est pas prise en charge par les fichiers .sig</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1067"/>
       <source>Found %1 matching signatures!</source>
-      <translation>Vous avez trouvé %1 signatures correspondantes !</translation>
+      <translation>%1 signatures correspondantes trouvées !</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1072"/>
@@ -1631,7 +1631,7 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../core/Cutter.cpp" line="1086"/>
       <source>Written %1 signatures to %2.</source>
-      <translation>Ignatures écrites %1 sà %2.</translation>
+      <translation>%1 signatures écrites sur %2.</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1955"/>
@@ -2258,7 +2258,7 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="42"/>
       <source>ESIL options</source>
-      <translation>Options de la SEDI</translation>
+      <translation>Options ESIL</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="54"/>
@@ -2273,7 +2273,7 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="79"/>
       <source>Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</source>
-      <translation>Cachez le texte lorsque vous effectuez un zoom arrière et qu'il est plus petit que la valeur donnée. Des valeurs plus élevées peuvent augmenter les performances.</translation>
+      <translation>Cacher le texte lorsque vous effectuez un zoom arrière et qu'il est plus petit que la valeur donnée. Des valeurs plus élevées peuvent augmenter les performances.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="82"/>
@@ -2293,7 +2293,7 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="112"/>
       <source>Disabling this option means that stepping back after continue will return to the previous PC. Significantly improves performance.</source>
-      <translation>Si vous désactivez cette option, vous reviendrez à l'ordinateur précédent si vous reculez après avoir continué. Cela améliore considérablement les performances.</translation>
+      <translation>Si vous désactivez cette option, vous reviendrez au PC précédent si vous reculez après avoir continué. Cela améliore considérablement les performances.</translation>
     </message>
   </context>
   <context>
@@ -2306,12 +2306,12 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="27"/>
       <source>Copy instruction address (&lt;address&gt;)</source>
-      <translation>Copier l'adresse de l'instruction (&lt;address&amp;gt ;)</translation>
+      <translation>Copier l'adresse de l'instruction (&lt;address&gt;)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="28"/>
       <source>Copy address of [flag] (&lt;address&gt;)</source>
-      <translation>Copier l'adresse de [flag] (&lt;address&amp;gt ;)</translation>
+      <translation>Copier l'adresse de [flag] (&lt;address&gt;)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="29"/>
@@ -2337,12 +2337,12 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="33"/>
       <source>Delete &lt;name&gt;</source>
-      <translation>Supprimer &lt;nom&amp;gt ;</translation>
+      <translation>Supprimer &lt;name&gt;</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="34"/>
       <source>Edit variable &lt;name of variable&gt;</source>
-      <translation>Modifier la variable &lt;nom de la variable&amp;gt ;</translation>
+      <translation>Modifier la variable &lt;name of variable&gt;</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="35"/>
@@ -2368,7 +2368,7 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="40"/>
       <source>Set PC</source>
-      <translation>Set PC</translation>
+      <translation>Définir PC</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="169"/>
@@ -2388,7 +2388,7 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="189"/>
       <source>Remove all breakpoints in line</source>
-      <translation>Supprimez tous les points d'arrêt de la ligne</translation>
+      <translation>Supprimer tous les points d'arrêt de la ligne</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="196"/>
@@ -2398,7 +2398,7 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="200"/>
       <source>Set %1 here</source>
-      <translation>Placez %1 ici</translation>
+      <translation>Placer %1 ici</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="212"/>
@@ -2449,17 +2449,17 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="321"/>
       <source>Can&apos;t rename this variable.&lt;br&gt;Only local variables defined in disassembly can be renamed.</source>
-      <translation>Can't rename this variable.&lt;br&gt;Seules les variables locales définies dans le désassemblage peuvent être renommées.</translation>
+      <translation>Impossible de renommer cette variable.&lt;br&gt;Seules les variables locales définies dans le désassemblage peuvent être renommées.</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="340"/>
       <source>Can&apos;t edit this variable.&lt;br&gt;Only local variables defined in disassembly can be edited.</source>
-      <translation>Can't edit this variable.&lt;br&gt;Seules les variables locales définies dans le désassemblage peuvent être modifiées.</translation>
+      <translation>Impossible d'éditer cette variable.&lt;br&gt;Seules les variables locales définies dans le désassemblage peuvent être modifiées.</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="413"/>
       <source>Define this function at %2</source>
-      <translation>Définissez cette fonction à %2</translation>
+      <translation>Définir cette fonction à %2</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="414"/>
@@ -2636,7 +2636,7 @@ Veuillez consulter la console pour plus de détails.</translation>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="90"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="865"/>
       <source>Re-type Local Variables</source>
-      <translation>Re-tapez les variables locales</translation>
+      <translation>Retyper les variables locales</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="94"/>
@@ -2852,12 +2852,12 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="417"/>
       <source>Rename local &quot;%1&quot;</source>
-      <translation>Renommez le local &quot;%1&amp;quot ;</translation>
+      <translation>Renommer le « %1 » local</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="422"/>
       <source>Rename flag &quot;%1&quot; (used here)</source>
-      <translation>Renommer le drapeau &quot;%1&amp;quot ; (utilisé ici)</translation>
+      <translation>Renommer le drapeau « %1 » (utilisé ici)</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="551"/>
@@ -2949,7 +2949,7 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../dialogs/DuplicateFromOffsetDialog.ui" line="20"/>
       <source>Duplicate from offset</source>
-      <translation>Dupliquer à partir de l'offset</translation>
+      <translation>Dupliquer à partir du décalage</translation>
     </message>
     <message>
       <location filename="../dialogs/DuplicateFromOffsetDialog.ui" line="28"/>
@@ -3267,7 +3267,7 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../menus/FlirtContextMenu.cpp" line="14"/>
       <source>Copy Line</source>
-      <translation>Copier ligne</translation>
+      <translation>Copier la ligne</translation>
     </message>
     <message>
       <location filename="../menus/FlirtContextMenu.cpp" line="15"/>
@@ -3280,7 +3280,7 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="65"/>
       <source>Bin</source>
-      <translation>Caisson</translation>
+      <translation>Bin</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="67"/>
@@ -3295,7 +3295,7 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="71"/>
       <source># Funcs</source>
-      <translation># Funcs</translation>
+      <translation># Fonctions</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="73"/>
@@ -3500,17 +3500,17 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="41"/>
       <source>Detailed chunk info:</source>
-      <translation>Informations détaillées sur le chunk :</translation>
+      <translation>Informations détaillées sur le bloc :</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="48"/>
       <source>Enter chunk base address and press enter</source>
-      <translation>Saisissez l'adresse de la base de chunk et appuyez sur la touche Entrée</translation>
+      <translation>Saisissez l'adresse de la base du bloc et appuyez sur la touche Entrée</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="28"/>
       <source>Bins info for arena @ </source>
-      <translation>Informations sur les bacs pour l'arène @</translation>
+      <translation>Informations sur les bins pour l'arène @ </translation>
     </message>
   </context>
   <context>
@@ -3548,7 +3548,7 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="63"/>
       <source>Link to next free chunk in bin&apos;s linked list</source>
-      <translation>Lien vers le prochain morceau libre dans la liste chaînée de la poubelle</translation>
+      <translation>Lien vers le prochain morceau libre dans la liste chaînée du bin</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="73"/>
@@ -3558,17 +3558,17 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="80"/>
       <source>Link to previous free chunk in bin&apos;s linked list</source>
-      <translation>Lien vers le morceau libre précédent dans la liste chaînée de la poubelle</translation>
+      <translation>Lien vers le bloc libre précédent dans la liste chaînée du bin</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="90"/>
       <source>Link to next larger free chunk (only for large chunks)</source>
-      <translation>Lien vers le morceau libre suivant (uniquement pour les gros morceaux)</translation>
+      <translation>Lien vers le bloc libre suivant (uniquement pour les gros blocs)</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="100"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Fd-nextsize&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Fd-nextsize&lt;/p&gt;&lt;/body&gt;&lt;/html&amp;gt ;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Fd-nextsize&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="107"/>
@@ -3578,12 +3578,12 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="114"/>
       <source>Link to next smaller free chunk (for large chunks)</source>
-      <translation>Lien vers le morceau gratuit suivant (pour les gros morceaux)</translation>
+      <translation>Lien vers le bloc libre suivant (pour les gros blocs)</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="124"/>
       <source>Size of previous chunk (if free)</source>
-      <translation>Taille du morceau précédent (s'il est libre)</translation>
+      <translation>Taille du bloc précédent (s'il est libre)</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="134"/>
@@ -3593,7 +3593,7 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="145"/>
       <source>If the chunk was obtained from a non-main arena</source>
-      <translation>Si le morceau a été obtenu à partir d'une arène non principale</translation>
+      <translation>Si le bloc a été obtenu à partir d'une arène non principale</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="148"/>
@@ -3628,27 +3628,27 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="12"/>
       <source>Chunk @ </source>
-      <translation>Morceau @</translation>
+      <translation>Bloc @ </translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="100"/>
       <source>Chunk saved</source>
-      <translation>Morceaux épargnés</translation>
+      <translation>Blocs sauvegardés</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="101"/>
       <source>Chunk header successfully overwritten</source>
-      <translation>L'en-tête du morceau a été écrasé avec succès</translation>
+      <translation>L'en-tête du bloc a bien été écrasé</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="103"/>
       <source>Chunk not saved</source>
-      <translation>Le morceau n'est pas sauvegardé</translation>
+      <translation>Le bloc n'est pas sauvegardé</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="104"/>
       <source>Chunk header not successfully overwritten</source>
-      <translation>L'en-tête du morceau n'a pas été écrasé avec succès</translation>
+      <translation>L'en-tête du bloc n'a pas été écrasé</translation>
     </message>
   </context>
   <context>
@@ -3679,27 +3679,27 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="34"/>
       <source>Arena</source>
-      <translation>Aréna</translation>
+      <translation>Arène</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="47"/>
       <source>View bins info for an arena</source>
-      <translation>Voir les informations sur les poubelles d'une arène</translation>
+      <translation>Voir les informations sur les bins d'une arène</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="50"/>
       <source>Bins</source>
-      <translation>Emplacements</translation>
+      <translation>Bins</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="27"/>
       <source>Detailed Chunk Info</source>
-      <translation>Informations détaillées sur les morceaux</translation>
+      <translation>Informations détaillées sur les blocs</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="28"/>
       <source>Bins Info</source>
-      <translation>Infos sur les bacs</translation>
+      <translation>Infos sur les bins</translation>
     </message>
   </context>
   <context>
@@ -3712,7 +3712,7 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="22"/>
       <source>Graph Block Options </source>
-      <translation>Options du bloc graphique</translation>
+      <translation>Options du bloc graphique </translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="31"/>
@@ -3743,7 +3743,7 @@ Veuillez consulter la console pour plus de détails.</translation>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="77"/>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="87"/>
       <source>Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</source>
-      <translation>Cachez le texte lorsque vous effectuez un zoom arrière et qu'il est plus petit que la valeur donnée. Des valeurs plus élevées peuvent augmenter les performances.</translation>
+      <translation>Cacher le texte lorsque vous effectuez un zoom arrière et qu'il est plus petit que la valeur donnée. Des valeurs plus élevées peuvent augmenter les performances.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="80"/>
@@ -3788,7 +3788,7 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="218"/>
       <source>Graph Bitmap Export Scale: </source>
-      <translation>Exportation du graphique Bitmap Échelle :</translation>
+      <translation>Échelle d'exportation du graphique Bitmap : </translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="225"/>
@@ -3832,18 +3832,18 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="8"/>
       <source>Detailed Chunk Info</source>
-      <translation>Informations détaillées sur les morceaux</translation>
+      <translation>Informations détaillées sur les blocs</translation>
     </message>
     <message>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="80"/>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="122"/>
       <source>bin </source>
-      <translation>poubelle</translation>
+      <translation>bin </translation>
     </message>
     <message>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="122"/>
       <source> @ </source>
-      <translation>@ </translation>
+      <translation> @ </translation>
     </message>
   </context>
   <context>
@@ -3851,7 +3851,7 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../widgets/HeapDockWidget.ui" line="14"/>
       <source>Heap</source>
-      <translation>Tas</translation>
+      <translation>Pile</translation>
     </message>
   </context>
   <context>
@@ -3931,7 +3931,7 @@ Veuillez consulter la console pour plus de détails.</translation>
       <location filename="../widgets/HexWidget.cpp" line="147"/>
       <location filename="../widgets/HexWidget.cpp" line="1272"/>
       <source>Write string</source>
-      <translation>Chaîne d'écriture</translation>
+      <translation>Écrire la chaîne</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="151"/>
