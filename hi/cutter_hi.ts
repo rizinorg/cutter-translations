@@ -6,17 +6,17 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="14"/>
       <source>About Cutter</source>
-      <translation>कटर के बारे में जानें</translation>
+      <translation>Cutter का परिचय</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="54"/>
       <source>Check for updates on start</source>
-      <translation>चालू होने पर नई सुविधाओं के लिए जाँच करें</translation>
+      <translation>चालू होने पर नए अपडेट के लिए चेक करें</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="67"/>
       <source>Check for updates</source>
-      <translation>नई सुविधाओं के लिए जाँच करें</translation>
+      <translation>नए अपडेट के लिए चेक करें</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="80"/>
@@ -66,7 +66,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="47"/>
       <source>License</source>
-      <translation>लाइसेन्स</translation>
+      <translation>लाइसेंस</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="48"/>
