@@ -160,12 +160,12 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="431"/>
       <source>base</source>
-      <translation>आधार</translation>
+      <translation>बेस</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="464"/>
       <source>method</source>
-      <translation>विधि</translation>
+      <translation>तरीका</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="502"/>
@@ -178,7 +178,7 @@
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="20"/>
       <source>Analysis</source>
-      <translation>विश्लेषण</translation>
+      <translation>एनालिसिस</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="55"/>
@@ -355,7 +355,7 @@
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="227"/>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="163"/>
       <source>Delete</source>
-      <translation>हटाएं</translation>
+      <translation>डिलीट करें</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="241"/>
@@ -2641,7 +2641,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="94"/>
       <source>Edit function</source>
-      <translation>फ़ंक्शन को संपादित करें</translation>
+      <translation>फ़ंक्शन संपादित करें</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="98"/>
@@ -3145,7 +3145,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="138"/>
       <source>Exports</source>
-      <translation>एक्सपोर्ट करें</translation>
+      <translation>एक्सपोर्ट</translation>
     </message>
   </context>
   <context>
@@ -3869,7 +3869,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="72"/>
       <source>Decimal</source>
-      <translation>दशमलव</translation>
+      <translation>डेसिमल</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="73"/>
@@ -4790,7 +4790,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.cpp" line="143"/>
       <location filename="../core/MainWindow.cpp" line="144"/>
       <source>Plugins</source>
-      <translation>प्लगइन्स</translation>
+      <translation>प्लग-इन</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="159"/>
@@ -5433,7 +5433,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="1686"/>
       <source>PDB file (*.pdb)</source>
-      <translation>PDB file (*.pdb)</translation>
+      <translation>PDB फ़ाइल (*.pdb)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1686"/>
@@ -6994,7 +6994,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="87"/>
       <source>End Address</source>
-      <translation>पता समाप्त करें</translation>
+      <translation>अंतिम एड्रेस</translation>
     </message>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="89"/>
@@ -7234,7 +7234,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.ui" line="37"/>
       <source>Select File</source>
-      <translation>फ़ाइल का चयन करें</translation>
+      <translation>फ़ाइल चुनें</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.ui" line="50"/>
