@@ -3942,23 +3942,23 @@ Veuillez consulter la console pour plus de détails.</translation>
       <location filename="../widgets/HexWidget.cpp" line="155"/>
       <location filename="../widgets/HexWidget.cpp" line="1466"/>
       <source>Write wide string</source>
-      <translation>Écriture d'une chaîne de caractères large</translation>
+      <translation>Écrire une chaîne large</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="159"/>
       <source>Write zero terminated string</source>
-      <translation>Écriture d'une chaîne de caractères terminée par un zéro</translation>
+      <translation>Écrire une chaîne terminée par un zéro</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="163"/>
       <source>Write De\Encoded Base64 string</source>
-      <translation>Écriture d'une chaîne de caractères Base64 décodée</translation>
+      <translation>Ecrire la chaîne encodée/décodée en Base64</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="168"/>
       <location filename="../widgets/HexWidget.cpp" line="1318"/>
       <source>Write hex bytes</source>
-      <translation>Écriture d'octets hexagonaux</translation>
+      <translation>Écrire des octets hexadécimaux</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="172"/>
@@ -3969,12 +3969,12 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="176"/>
       <source>Write random bytes</source>
-      <translation>Écriture d'octets aléatoires</translation>
+      <translation>Écrire des octets aléatoires</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="180"/>
       <source>Duplicate from offset</source>
-      <translation>Dupliquer à partir de l'offset</translation>
+      <translation>Dupliquer à partir du décalage</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="184"/>
@@ -4017,7 +4017,7 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1318"/>
       <source>Hex byte string:</source>
-      <translation>Chaîne d'octets hexagonaux :</translation>
+      <translation>Chaîne d'octets hexadécimale :</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1354"/>
@@ -4039,7 +4039,7 @@ Veuillez vous assurer qu'il s'agit d'une chaîne base64 valide et réessayez.</t
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1410"/>
       <source>Write random</source>
-      <translation>Écrire au hasard</translation>
+      <translation>Écrire des octets aléatoires</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1410"/>
@@ -4151,7 +4151,7 @@ Veuillez vous assurer qu'il s'agit d'une chaîne base64 valide et réessayez.</t
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="357"/>
       <source>Copy SHA256</source>
-      <translation>Copie SHA256</translation>
+      <translation>Copier SHA256</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="396"/>
@@ -4305,12 +4305,12 @@ Veuillez vous assurer qu'il s'agit d'une chaîne base64 valide et réessayez.</t
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="38"/>
       <source>Value:</source>
-      <translation>Valeur:</translation>
+      <translation>Valeur :</translation>
     </message>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="54"/>
       <source>Increment</source>
-      <translation>Incrément</translation>
+      <translation>Incrémenter</translation>
     </message>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="64"/>
@@ -4380,7 +4380,7 @@ Veuillez vous assurer qu'il s'agit d'une chaîne base64 valide et réessayez.</t
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="326"/>
       <source>Auto Exp</source>
-      <translation>Auto Exp</translation>
+      <translation>Expérimental</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="364"/>
@@ -4522,7 +4522,7 @@ Veuillez vous assurer qu'il s'agit d'une chaîne base64 valide et réessayez.</t
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="1004"/>
       <source>Path to Rizin script file</source>
-      <translation>Chemin d'accès au fichier script de Rizin</translation>
+      <translation>Chemin d'accès au fichier script Rizin</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="1067"/>
@@ -4671,17 +4671,17 @@ Veuillez vous assurer qu'il s'agit d'une chaîne base64 valide et réessayez.</t
     <message>
       <location filename="../dialogs/preferences/InitializationFileEditor.ui" line="14"/>
       <source>CutterRC Editor</source>
-      <translation>Editeur CutterRC</translation>
+      <translation>Éditeur CutterRC</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/InitializationFileEditor.ui" line="20"/>
       <source>TextLabel</source>
-      <translation>Étiquette de texte</translation>
+      <translation>TextLabel</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/InitializationFileEditor.cpp" line="35"/>
       <source>Script is loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
-      <translation>Le script est chargé depuis &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&amp;gt ;</translation>
+      <translation>Le script est chargé depuis &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
     </message>
   </context>
   <context>
@@ -4718,7 +4718,7 @@ Veuillez vous assurer qu'il s'agit d'une chaîne base64 valide et réessayez.</t
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="43"/>
       <source>&apos;%1&apos; is already used.</source>
-      <translation>'%1' est déjà utilisé.</translation>
+      <translation>« %1 » est déjà utilisé.</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="45"/>
@@ -4733,7 +4733,7 @@ Veuillez vous assurer qu'il s'agit d'une chaîne base64 valide et réessayez.</t
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="61"/>
       <source>Do you want to delete &apos;%1&apos;</source>
-      <translation>Voulez-vous supprimer "%1" ?</translation>
+      <translation>Voulez-vous supprimer « %1 »</translation>
     </message>
   </context>
   <context>
@@ -4751,7 +4751,7 @@ Veuillez vous assurer qu'il s'agit d'une chaîne base64 valide et réessayez.</t
     <message>
       <location filename="../core/MainWindow.ui" line="68"/>
       <source>Set mode</source>
-      <translation>Mode de réglage</translation>
+      <translation>Définir le mode</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="97"/>
@@ -4863,7 +4863,7 @@ Veuillez vous assurer qu'il s'agit d'une chaîne base64 valide et réessayez.</t
     <message>
       <location filename="../core/MainWindow.ui" line="274"/>
       <source>Map File</source>
-      <translation>Fichier cartographique</translation>
+      <translation>Mapper le fichier</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="277"/>
@@ -5204,7 +5204,7 @@ Veuillez vous assurer qu'il s'agit d'une chaîne base64 valide et réessayez.</t
     <message>
       <location filename="../core/MainWindow.ui" line="720"/>
       <source>Save Project As...</source>
-      <translation>Enregistrer le Projet Comme...</translation>
+      <translation>Enregistrer le projet sous...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="728"/>
@@ -5296,7 +5296,7 @@ Veuillez vous assurer qu'il s'agit d'une chaîne base64 valide et réessayez.</t
     <message>
       <location filename="../core/MainWindow.ui" line="822"/>
       <source>Commit changes</source>
-      <translation>Engager des changements</translation>
+      <translation>Valider les modifications</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="830"/>
@@ -5408,7 +5408,7 @@ Enregistrez votre projet avant de le fermer!</translation>
     <message>
       <location filename="../core/MainWindow.cpp" line="1235"/>
       <source>&apos;%1&apos; is not a valid name.</source>
-      <translation>'%1' n'est pas un nom valide.</translation>
+      <translation>« %1 » n'est pas un nom valide.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1237"/>
@@ -5463,7 +5463,7 @@ Enregistrez votre projet avant de le fermer!</translation>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="14"/>
       <source>Map New File</source>
-      <translation>Créer un nouveau fichier</translation>
+      <translation>Mapper un nouveau fichier</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="26"/>
@@ -5474,7 +5474,7 @@ Enregistrez votre projet avant de le fermer!</translation>
       <location filename="../dialogs/MapFileDialog.ui" line="52"/>
       <location filename="../dialogs/MapFileDialog.cpp" line="18"/>
       <source>Select file</source>
-      <translation>Sélectionnez le fichier</translation>
+      <translation>Sélectionner un fichier</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="59"/>
@@ -5489,7 +5489,7 @@ Enregistrez votre projet avant de le fermer!</translation>
     <message>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
       <source>Map new file file</source>
-      <translation>Mettez le nouveau fichier en correspondance avec le fichier</translation>
+      <translation>Mapper un nouveau fichier</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
@@ -5618,7 +5618,7 @@ Enregistrez votre projet avant de le fermer!</translation>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="410"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Open Project&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&amp;quot ; font-weight:600;&quot;&gt;Open Project&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&amp;gt ;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Ouvrir un projet&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="519"/>
@@ -5674,7 +5674,7 @@ Enregistrez votre projet avant de le fermer!</translation>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="28"/>
       <source>Plugins are loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
-      <translation>Les plugins sont chargés à partir de &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&amp;gt ;</translation>
+      <translation>Les plugins sont chargés à partir de &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="34"/>
@@ -5815,7 +5815,7 @@ Enregistrez votre projet avant de le fermer!</translation>
 WARNING: In Write mode, any changes will be committed to the file on disk. For safety, please consider using Cache mode and then commit the changes manually via File -&gt; Commit modifications to disk.</source>
       <translation>Votre fichier est ouvert en mode lecture seule. L'édition n'est possible que lorsque le fichier est ouvert en mode écriture ou en mode cache.
 
-AVERTISSEMENT : En mode écriture, toute modification sera validée dans le fichier sur le disque. Par sécurité, veuillez envisager d'utiliser le mode Cache, puis de valider les modifications manuellement via Fichier -&amp;gt ; Valider les modifications sur le disque.</translation>
+AVERTISSEMENT : en mode écriture, toute modification sera validée dans le fichier sur le disque. Par sécurité, veuillez envisager d'utiliser le mode Cache, puis de valider les modifications manuellement via Fichier -&gt; Valider les modifications sur le disque.</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="60"/>
@@ -5835,7 +5835,7 @@ AVERTISSEMENT : En mode écriture, toute modification sera validée dans le fich
     <message>
       <location filename="../common/IOModesController.cpp" line="94"/>
       <source>Uncomitted changes</source>
-      <translation>Changements non admis</translation>
+      <translation>Changements non validés</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="95"/>
@@ -5912,7 +5912,7 @@ Souhaitez-vous les intégrer maintenant ?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="331"/>
       <source>project file</source>
-      <translation>dossier de projet</translation>
+      <translation>fichier projet</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="335"/>
@@ -6634,7 +6634,7 @@ Souhaitez-vous les intégrer maintenant ?</translation>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="27"/>
       <source>References graph (agr)</source>
-      <translation>Références graphique (agr)</translation>
+      <translation>Graphique des références (agr)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="28"/>
@@ -6764,12 +6764,12 @@ Souhaitez-vous les intégrer maintenant ?</translation>
     <message>
       <location filename="../dialogs/RizinTaskDialog.ui" line="14"/>
       <source>Rizin Task</source>
-      <translation>Rizin Task</translation>
+      <translation>Tâche Rizin</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinTaskDialog.ui" line="20"/>
       <source>Rizin task in progress..</source>
-      <translation>La tâche de Rizin en cours ...</translation>
+      <translation>Tâche Rizin en cours...</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinTaskDialog.ui" line="27"/>
@@ -6796,7 +6796,7 @@ Souhaitez-vous les intégrer maintenant ?</translation>
       <comment>%n minutes</comment>
       <translation>
         <numerusform>%n minute</numerusform>
-        <numerusform>%n minute</numerusform>
+        <numerusform>%n minutes</numerusform>
       </translation>
     </message>
     <message numerus="yes">
@@ -7390,12 +7390,12 @@ Souhaitez-vous les intégrer maintenant ?</translation>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="62"/>
       <source>To update, please check the link:&lt;br/&gt;</source>
-      <translation>Pour mettre à jour, veuillez consulter le lien:&lt;br/&amp;gt ;</translation>
+      <translation>Pour mettre à jour, veuillez consulter le lien:&lt;br/&gt;</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="68"/>
       <source>Don&apos;t check for updates automatically</source>
-      <translation>Ne vérifiez pas automatiquement les mises à jour</translation>
+      <translation>Ne pas vérifier automatiquement les mises à jour</translation>
     </message>
   </context>
   <context>
@@ -7489,7 +7489,7 @@ Souhaitez-vous les intégrer maintenant ?</translation>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="213"/>
       <source>Midnight Theme</source>
-      <translation>Thème de minuit</translation>
+      <translation>Thème Minuit</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="218"/>
@@ -7513,16 +7513,16 @@ Souhaitez-vous les intégrer maintenant ?</translation>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;Join thousands of reverse engineers in our community:&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Twitter:&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;	&lt;/span&gt;&lt;a href=&quot;https://twitter.com/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Telegram:	&lt;/span&gt;&lt;a href=&quot;https://t.me/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re &lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;IRC:	&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;#cutter on &lt;/span&gt;&lt;a href=&quot;https://web.libera.chat/&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;https://web.libera.chat/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&amp;quot ; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&amp;gt ;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&amp;quot ; content=&quot;1&amp;quot ; /&gt;&lt;style type=&quot;text/css&quot;&amp;gt ;
-p, li { white-space : pre-wrap ; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&amp;quot ; font-family : 'Cantarell' ; font-size:9pt ; font-weight:400 ; font-style:normal;&quot;&amp;gt ;
-&lt;p style=&amp;quot ; margin-top:12px ; margin-bottom:12px ; margin-left:0px ; margin-right:0px ; -qt-block-indent:0 ; text-indent:0px;&quot;&gt;&lt;span style=&amp;quot ; font-family : 'Noto Sans' ; font-size:10pt;&quot;&gt;Rejoignez des milliers d'ingénieurs inversés dans notre communauté :&lt;br /&gt;&lt;/span&gt;&lt;span style=&amp;quot ; font-family : 'Noto Sans' ; font-size:10pt ; font-weight:600;&quot;&gt;Twitter:&lt;/span&gt;&lt;span style=&amp;quot ; font-family : 'Noto Sans' ; font-size:10pt;&quot;&amp;gt ; &lt;/span&gt;&lt;a href&quot;https://twitter.com/cutter_re&quot;&gt;&lt;span style=&amp;quot ; font-family : 'Noto Sans' ; font-size:10pt ; text-decoration : underline ; color:#2980b9;&quot;&gt;@cutter_re&lt;/span&gt;&lt;/a&gt;&lt;span style=&amp;quot ; font-family :'Noto Sans' ; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&amp;quot ; font-family : 'Noto Sans' ; font-size:10pt ; font-weight:600;&quot;&gt;Telegram : &lt;/span&gt;&lt;a href=&quot;https://t.me/cutter_re&quot;&gt;&lt;span style=&amp;quot ; font-family : 'Noto Sans' ; font-size:10pt ; text-decoration : underline ; color:#2980b9;&quot;&gt;@cutter_re &lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&amp;quot ; font-family :'Noto Sans' ; font-size:10pt ; font-weight:600;&quot;&gt;IRC : &lt;/span&gt;&lt;span style=&amp;quot ; font-family : 'Noto Sans' ; font-size:10pt;&quot;&gt;#cutter on &lt;/span&gt;&lt;a href=&quot;https://web.libera.chat/&quot;&gt;&lt;span style=&amp;quot ; font-family : 'Noto Sans' ; font-size:10pt ; text-decoration : underline ; color:#2980b9;&quot;&gt;https://web.libera.chat/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&amp;gt ;</translation>
+      <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;Rejoingnez des milliers de reverse engineers dans notre communauté :&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Twitter :&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;	&lt;/span&gt;&lt;a href=&quot;https://twitter.com/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Telegram :	&lt;/span&gt;&lt;a href=&quot;https://t.me/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re &lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;IRC :	&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;#cutter sur &lt;/span&gt;&lt;a href=&quot;https://web.libera.chat/&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;https://web.libera.chat/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="355"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;Want to help us make Cutter even better?&lt;br/&gt;Visit our &lt;/span&gt;&lt;a href=&quot;https://github.com/rizinorg/cutter&quot;&gt;&lt;span style=&quot; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;Github page&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt; and report bugs or contribute code.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation>&lt;html&gt;&lt;head/&gt;&lt;body style=&amp;quot ; font-family : 'Cantarell' ; font-size:9pt ; font-weight:400 ; font-style:normal;&quot;&gt;&lt;p&gt;&lt;span style=&amp;quot ; font-size:10pt;&quot;&gt;Vous voulez nous aider à rendre Cutter encore meilleur ?&lt;br/&gt;Visitez notre &lt;/span&gt;&lt;a href=&quot;https://github.com/rizinorg/cutter&quot;&gt;&lt;span style=&amp;quot ; font-size:10pt ; text-decoration : underline ; color:#2980b9;&quot;&gt;page Github&lt;/span&gt;&lt;/a&gt;&lt;span style=&amp;quot ; font-size:10pt;&quot;&amp;gt ; et rapportez des bugs ou contribuez au code.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&amp;gt ;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;Vous voulez nous aider à améliorer Cutter ?&lt;br/&gt;Visitez notre &lt;/span&gt;&lt;a href=&quot;https://github.com/rizinorg/cutter&quot;&gt;&lt;span style=&quot; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;page GitHub&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt; et signalez des bugs ou contribuez du code.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="394"/>
@@ -7573,12 +7573,12 @@ p, li { white-space : pre-wrap ; }
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="155"/>
       <source>X-Refs to %1 (%2 results):</source>
-      <translation>X-Refs to %1 (%2 results) :</translation>
+      <translation>Références croisées à %1 (%2 résultats) :</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="157"/>
       <source>X-Refs from %1 (%2 results):</source>
-      <translation>X-Refs de %1 (%2 résultats) :</translation>
+      <translation>Références croisées de %1 (%2 résultats) :</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="162"/>
