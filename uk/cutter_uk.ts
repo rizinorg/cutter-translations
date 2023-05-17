@@ -3895,7 +3895,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="98"/>
       <source>Power of 2</source>
-      <translation type="unfinished">Power of 2</translation>
+      <translation>Степінь двійки</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="105"/>
@@ -5449,19 +5449,19 @@ Save your project before closing!</translation>
     <message>
       <location filename="../core/MainWindow.cpp" line="1696"/>
       <source>%1 loaded.</source>
-      <translation type="unfinished">%1 loaded.</translation>
+      <translation>%1 завантажено.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1789"/>
       <location filename="../core/MainWindow.cpp" line="1811"/>
       <source>Signature File (*.sig)</source>
-      <translation type="unfinished">Signature File (*.sig)</translation>
+      <translation>Файл сигнатур (*.sig)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1790"/>
       <location filename="../core/MainWindow.cpp" line="1812"/>
       <source>Pattern File (*.pat)</source>
-      <translation type="unfinished">Pattern File (*.pat)</translation>
+      <translation>Файл шаблону (*.pat)</translation>
     </message>
   </context>
   <context>
@@ -5523,7 +5523,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="64"/>
       <source>Permissions</source>
-      <translation type="unfinished">Permissions</translation>
+      <translation>Права доступу</translation>
     </message>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="66"/>
@@ -5536,7 +5536,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="123"/>
       <source>Memory Map</source>
-      <translation type="unfinished">Memory Map</translation>
+      <translation>Мапа пам'яті</translation>
     </message>
   </context>
   <context>
@@ -5549,7 +5549,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/MultitypeFileSaveDialog.cpp" line="63"/>
       <source>File save error</source>
-      <translation type="unfinished">File save error</translation>
+      <translation>Помилка збереження файлу</translation>
     </message>
     <message>
       <location filename="../dialogs/MultitypeFileSaveDialog.cpp" line="64"/>
@@ -6129,7 +6129,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="429"/>
       <source>Text</source>
-      <translation type="unfinished">Text</translation>
+      <translation>Текст</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="430"/>
@@ -6209,7 +6209,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="445"/>
       <source>Register</source>
-      <translation type="unfinished">Register</translation>
+      <translation>Регістр</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="448"/>
@@ -6219,7 +6219,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="448"/>
       <source>Constants</source>
-      <translation type="unfinished">Constants</translation>
+      <translation>Константи</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="450"/>
