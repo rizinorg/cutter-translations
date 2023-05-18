@@ -61,7 +61,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="30"/>
       <source>Optional Features:</source>
-      <translation type="unfinished">Optional Features:</translation>
+      <translation>Додаткові можливості:</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="47"/>
@@ -401,7 +401,7 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="137"/>
       <source> - copy</source>
-      <translation type="unfinished"> - copy</translation>
+      <translation> - копіювати</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="143"/>
@@ -533,7 +533,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="112"/>
       <source>Flags (asm.reloff.flags)</source>
-      <translation type="unfinished">Flags (asm.reloff.flags)</translation>
+      <translation>Прапори (asm.reloff.flags)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="120"/>
@@ -847,22 +847,22 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="123"/>
       <source>method</source>
-      <translation type="unfinished">method</translation>
+      <translation>метод</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="147"/>
       <source>field</source>
-      <translation type="unfinished">field</translation>
+      <translation>поле</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="169"/>
       <source>base class</source>
-      <translation type="unfinished">base class</translation>
+      <translation>базовий клас</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="189"/>
       <source>class</source>
-      <translation type="unfinished">class</translation>
+      <translation>клас</translation>
     </message>
   </context>
   <context>
@@ -989,12 +989,12 @@
       <location filename="../widgets/BreakpointWidget.ui" line="65"/>
       <location filename="../widgets/BreakpointWidget.cpp" line="196"/>
       <source>Delete breakpoint</source>
-      <translation type="unfinished">Delete breakpoint</translation>
+      <translation>Видалити точку зупину</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="72"/>
       <source>Delete all breakpoints</source>
-      <translation type="unfinished">Delete all breakpoints</translation>
+      <translation>Видалити всі точки зупину</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="202"/>
@@ -2343,7 +2343,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="33"/>
       <source>Delete &lt;name&gt;</source>
-      <translation type="unfinished">Delete &lt;name&gt;</translation>
+      <translation>Видалити &lt;name&gt;</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="34"/>
@@ -2947,7 +2947,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/DisassemblyWidget.cpp" line="658"/>
       <source>Disassembly</source>
-      <translation type="unfinished">Disassembly</translation>
+      <translation>Дизасембльований код</translation>
     </message>
   </context>
   <context>
@@ -3001,7 +3001,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/EditInstructionDialog.ui" line="14"/>
       <source>Edit Instruction</source>
-      <translation type="unfinished">Edit Instruction</translation>
+      <translation>Редагувати інструкцію</translation>
     </message>
     <message>
       <location filename="../dialogs/EditInstructionDialog.ui" line="88"/>
@@ -3024,7 +3024,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="32"/>
       <source>Unique Identifier (name):</source>
-      <translation type="unfinished">Unique Identifier (name):</translation>
+      <translation>Унікальний ідентифікатор (ім'я):</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="44"/>
@@ -3034,7 +3034,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="56"/>
       <source>Display Name (realname):</source>
-      <translation type="unfinished">Display Name (realname):</translation>
+      <translation>Відображуване ім'я (реальне ім'я):</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="66"/>
