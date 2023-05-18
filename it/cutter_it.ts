@@ -188,37 +188,37 @@
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="68"/>
       <source>Analyze push+ret as jmp (analysis.pushret)</source>
-      <translation type="unfinished">Analyze push+ret as jmp (analysis.pushret)</translation>
+      <translation>Analizza push+ret come jmp (analysis.pushret)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="81"/>
       <source>Verbose output from type analysis (analysis.types.verbose)</source>
-      <translation type="unfinished">Verbose output from type analysis (analysis.types.verbose)</translation>
+      <translation>Mostra i messaggi verbosi dell'analisi dei tipi delle variabili (analysis.types.verbose)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="94"/>
       <source>Speculatively set a name for the functions (analysis.autoname)</source>
-      <translation type="unfinished">Speculatively set a name for the functions (analysis.autoname)</translation>
+      <translation>Rinomina automaticamente le funzioni (analysis.autoname)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="107"/>
       <source>Search for new functions following already defined functions (analysis.hasnext)</source>
-      <translation type="unfinished">Search for new functions following already defined functions (analysis.hasnext)</translation>
+      <translation>Cerca nuove funzioni partendo da quelle già definite (analysis.hasnext)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="120"/>
       <source>Create references for unconditional jumps (analysis.jmp.ref)</source>
-      <translation type="unfinished">Create references for unconditional jumps (analysis.jmp.ref)</translation>
+      <translation>Crea riferimenti per salti incondizionati (analysis.jmp.ref)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="133"/>
       <source>Analyze jump tables in switch statements (analysis.jmp.tbl)</source>
-      <translation type="unfinished">Analyze jump tables in switch statements (analysis.jmp.tbl)</translation>
+      <translation>Analizza le jump table nei costrutti switch (analysis.jmp.tbl)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="161"/>
       <source>Search boundaries for analysis (analysis.in): </source>
-      <translation type="unfinished">Search boundaries for analysis (analysis.in): </translation>
+      <translation>Specifica i limiti di ricerca durante l'analisi (analysis.in): </translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="195"/>
