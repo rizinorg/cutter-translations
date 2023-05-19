@@ -584,7 +584,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="198"/>
       <source>Uppercase (asm.ucase)</source>
-      <translation type="unfinished">Uppercase (asm.ucase)</translation>
+      <translation>Верхній регістр (asm.ucase)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="203"/>
@@ -674,7 +674,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="426"/>
       <source>Slow Analysis (asm.slow)</source>
-      <translation type="unfinished">Slow Analysis (asm.slow)</translation>
+      <translation>Повільний аналіз (asm.slow)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="433"/>
@@ -1155,13 +1155,13 @@
     <message>
       <location filename="../widgets/CallGraph.cpp" line="23"/>
       <source>Global Callgraph</source>
-      <translation type="unfinished">Global Callgraph</translation>
+      <translation>Глобальний граф викликів</translation>
     </message>
     <message>
       <location filename="../widgets/CallGraph.cpp" line="23"/>
       <location filename="../widgets/CallGraph.cpp" line="28"/>
       <source>Callgraph</source>
-      <translation type="unfinished">Callgraph</translation>
+      <translation>Граф викликів</translation>
     </message>
     <message>
       <location filename="../widgets/CallGraph.cpp" line="28"/>
@@ -1317,7 +1317,7 @@
     <message>
       <location filename="../widgets/ColorPicker.ui" line="281"/>
       <source>Hex:</source>
-      <translation type="unfinished">Hex:</translation>
+      <translation>Шістнадцятковий код:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="288"/>
@@ -1391,12 +1391,12 @@
       <location filename="../common/ColorThemeWorker.cpp" line="75"/>
       <location filename="../common/ColorThemeWorker.cpp" line="169"/>
       <source>Theme &lt;b&gt;%1&lt;/b&gt; does not exist.</source>
-      <translation type="unfinished">Theme &lt;b&gt;%1&lt;/b&gt; does not exist.</translation>
+      <translation>Тема &lt;b&gt;%1&lt;/b&gt; не існує.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="85"/>
       <source>The file &lt;b&gt;%1&lt;/b&gt; cannot be opened.</source>
-      <translation type="unfinished">The file &lt;b&gt;%1&lt;/b&gt; cannot be opened.</translation>
+      <translation>Файл &lt;b&gt;%1&lt;/b&gt; не може бути відкритий.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="166"/>
@@ -2647,7 +2647,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="94"/>
       <source>Edit function</source>
-      <translation type="unfinished">Edit function</translation>
+      <translation>Редагувати функцію</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="98"/>
@@ -4397,12 +4397,12 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="518"/>
       <source>Load in write mode (-w)</source>
-      <translation type="unfinished">Load in write mode (-w)</translation>
+      <translation>Завантажити в режимі запису (-w)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="528"/>
       <source>Do not load bin information (-n)</source>
-      <translation type="unfinished">Do not load bin information (-n)</translation>
+      <translation>Не завантажувати інформацію про бінарний файл (-n)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="541"/>
@@ -5362,7 +5362,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.cpp" line="557"/>
       <source>Could not open the file! Make sure the file exists and that you have the correct permissions.</source>
-      <translation type="unfinished">Could not open the file! Make sure the file exists and that you have the correct permissions.</translation>
+      <translation>Не вдалося відкрити файл! Переконайтеся, що файл існує і у вас є правильні дозволи.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="620"/>
@@ -5383,8 +5383,8 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <location filename="../core/MainWindow.cpp" line="775"/>
       <source>Do you really want to exit?
 Save your project before closing!</source>
-      <translation type="unfinished">Do you really want to exit?
-Save your project before closing!</translation>
+      <translation>Ви дійсно бажаєте вийти?
+Збережіть свій проект перед закриттям!</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1050"/>
@@ -5554,7 +5554,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/MultitypeFileSaveDialog.cpp" line="64"/>
       <source>Unrecognized extension &apos;%1&apos;</source>
-      <translation type="unfinished">Unrecognized extension &apos;%1&apos;</translation>
+      <translation>Нерозпізнане розширення &apos;%1&apos;</translation>
     </message>
   </context>
   <context>
@@ -6089,17 +6089,17 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="417"/>
       <source>0x00 opcode color</source>
-      <translation type="unfinished">0x00 opcode color</translation>
+      <translation>колір 0x00 опкоду</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="418"/>
       <source>0x7f opcode color</source>
-      <translation type="unfinished">0x7f opcode color</translation>
+      <translation>колір 0x7f опкоду</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="419"/>
       <source>0xff opcode color</source>
-      <translation type="unfinished">0xff opcode color</translation>
+      <translation>колір 0xff опкоду</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="421"/>
@@ -6134,12 +6134,12 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="430"/>
       <source>push opcode color</source>
-      <translation type="unfinished">push opcode color</translation>
+      <translation>колір push опкоду</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="431"/>
       <source>pop opcode color</source>
-      <translation type="unfinished">pop opcode color</translation>
+      <translation>колір pop опкоду</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="432"/>
@@ -6169,12 +6169,12 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="438"/>
       <source>nop opcode color</source>
-      <translation type="unfinished">nop opcode color</translation>
+      <translation>колір nop опкоду</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="439"/>
       <source>ret opcode color</source>
-      <translation type="unfinished">ret opcode color</translation>
+      <translation>колір ret опкоду</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="440"/>
@@ -6189,7 +6189,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="441"/>
       <source>swi opcode color</source>
-      <translation type="unfinished">swi opcode color</translation>
+      <translation>колір swi опкоду</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="443"/>
@@ -6499,7 +6499,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/RelocsWidget.cpp" line="56"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>Тип</translation>
     </message>
     <message>
       <location filename="../widgets/RelocsWidget.cpp" line="58"/>
@@ -6780,7 +6780,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/RizinTaskDialog.ui" line="27"/>
       <source>Time</source>
-      <translation type="unfinished">Time</translation>
+      <translation>Час</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinTaskDialog.cpp" line="32"/>
@@ -6973,7 +6973,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="103"/>
       <source>Permissions</source>
-      <translation type="unfinished">Permissions</translation>
+      <translation>Права доступу</translation>
     </message>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="105"/>
@@ -7011,7 +7011,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="89"/>
       <source>Permissions</source>
-      <translation type="unfinished">Permissions</translation>
+      <translation>Права доступу</translation>
     </message>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="91"/>
@@ -7095,7 +7095,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="33"/>
       <source>Edit stack value...</source>
-      <translation type="unfinished">Edit stack value...</translation>
+      <translation>Редагувати значення стеку...</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="109"/>
@@ -7251,7 +7251,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.ui" line="50"/>
       <source>Enter Types Manually</source>
-      <translation type="unfinished">Enter Types Manually</translation>
+      <translation>Ввести типи вручну</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.cpp" line="37"/>
@@ -7534,7 +7534,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="355"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;Want to help us make Cutter even better?&lt;br/&gt;Visit our &lt;/span&gt;&lt;a href=&quot;https://github.com/rizinorg/cutter&quot;&gt;&lt;span style=&quot; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;Github page&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt; and report bugs or contribute code.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;Want to help us make Cutter even better?&lt;br/&gt;Visit our &lt;/span&gt;&lt;a href=&quot;https://github.com/rizinorg/cutter&quot;&gt;&lt;span style=&quot; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;Github page&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt; and report bugs or contribute code.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;Бажаєте допомогти нам зробити Cutter ще кращим?&lt;br/&gt;Відвідайте нашу &lt;/span&gt;&lt;a href=&quot;https://github.com/rizinorg/cutter&quot;&gt;&lt;span style=&quot; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;сторінку на Github&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt; і повідомляйте про помилки або робіть свій внесок у код.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="394"/>
@@ -7549,7 +7549,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/WelcomeDialog.cpp" line="70"/>
       <source>Language settings</source>
-      <translation type="unfinished">Language settings</translation>
+      <translation>Налаштування мови</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.cpp" line="71"/>
