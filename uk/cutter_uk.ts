@@ -21,7 +21,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="80"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter is a free and open-source reverse engineering platform powered by Rizin&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter is a free and open-source reverse engineering platform powered by Rizin&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter - це безкоштовна та відкрита платформа для реверс-інжинірингу, що працює на основі Rizin&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Детальніше читайте на &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="87"/>
@@ -46,7 +46,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="144"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="28"/>
@@ -81,7 +81,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="50"/>
       <source>Cutter is developed by the community and maintained by its core and development teams.&lt;br/&gt;</source>
-      <translation type="unfinished">Cutter is developed by the community and maintained by its core and development teams.&lt;br/&gt;</translation>
+      <translation>Cutter розробляється спільнотою та підтримується її основною командою та командою розробників.&lt;br/&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="52"/>
@@ -241,7 +241,7 @@
     <message>
       <location filename="../common/AnalysisTask.cpp" line="25"/>
       <source>Initial Analysis</source>
-      <translation type="unfinished">Initial Analysis</translation>
+      <translation>Початковий аналіз</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="27"/>
@@ -271,7 +271,7 @@
     <message>
       <location filename="../common/AnalysisTask.cpp" line="101"/>
       <source>Executing analysis...</source>
-      <translation type="unfinished">Executing analysis...</translation>
+      <translation>Виконання аналізу...</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="110"/>
@@ -390,13 +390,13 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="136"/>
       <source>Enter theme name</source>
-      <translation>Введіть назву теми</translation>
+      <translation>Введіть ім'я теми</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="136"/>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="221"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>Ім'я:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="137"/>
@@ -714,7 +714,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="482"/>
       <source>Substitute variables (asm.sub.var)</source>
-      <translation type="unfinished">Substitute variables (asm.sub.var)</translation>
+      <translation>Заміняти змінні (asm.sub.var)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="489"/>
@@ -1259,7 +1259,7 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="751"/>
       <source>Class Name:</source>
-      <translation type="unfinished">Class Name:</translation>
+      <translation>Ім'я класу:</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="768"/>
@@ -1274,7 +1274,7 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="786"/>
       <source>Class name:</source>
-      <translation type="unfinished">Class name:</translation>
+      <translation>Ім'я класу:</translation>
     </message>
   </context>
   <context>
@@ -2424,7 +2424,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="221"/>
       <source>Add name to %1</source>
-      <translation type="unfinished">Add name to %1</translation>
+      <translation>Додати ім'я до %1</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="226"/>
@@ -2471,7 +2471,7 @@ Please check the console for more details.</translation>
       <location filename="../menus/DecompilerContextMenu.cpp" line="414"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="421"/>
       <source>Function name:</source>
-      <translation type="unfinished">Function name:</translation>
+      <translation>Ім'я функції:</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="420"/>
@@ -2489,17 +2489,17 @@ Please check the console for more details.</translation>
       <location filename="../menus/DecompilerContextMenu.cpp" line="439"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="456"/>
       <source>Enter name</source>
-      <translation type="unfinished">Enter name</translation>
+      <translation>Введіть ім'я</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="438"/>
       <source>Add name to %2</source>
-      <translation type="unfinished">Add name to %2</translation>
+      <translation>Додати ім'я до %2</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="449"/>
       <source>Rename local variable %1</source>
-      <translation type="unfinished">Rename local variable %1</translation>
+      <translation>Перейменувати локальну змінну %1</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="450"/>
@@ -2914,12 +2914,12 @@ Please check the console for more details.</translation>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="817"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="831"/>
       <source>Function name:</source>
-      <translation type="unfinished">Function name:</translation>
+      <translation>Ім'я функції:</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="830"/>
       <source>Rename function %2</source>
-      <translation type="unfinished">Rename function %2</translation>
+      <translation>Перейменувати функцію %2</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="866"/>
@@ -2978,7 +2978,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="43"/>
       <source>Name of function</source>
-      <translation type="unfinished">Name of function</translation>
+      <translation>Ім'я функції</translation>
     </message>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="53"/>
@@ -3138,7 +3138,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="66"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Ім'я</translation>
     </message>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="68"/>
@@ -3212,7 +3212,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="70"/>
       <source>Real Name</source>
-      <translation type="unfinished">Real Name</translation>
+      <translation>Справжнє ім'я</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="72"/>
@@ -3255,12 +3255,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="214"/>
       <source>Rename flag %1</source>
-      <translation type="unfinished">Rename flag %1</translation>
+      <translation>Перейменувати прапор %1</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="215"/>
       <source>Flag name:</source>
-      <translation type="unfinished">Flag name:</translation>
+      <translation>Ім'я прапора:</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="244"/>
@@ -3306,7 +3306,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="73"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Ім'я</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="75"/>
@@ -3392,7 +3392,7 @@ Please check the console for more details.</translation>
       <location filename="../widgets/FunctionsWidget.cpp" line="306"/>
       <location filename="../widgets/FunctionsWidget.cpp" line="310"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Ім'я</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="312"/>
@@ -3488,7 +3488,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="614"/>
       <source>Function name:</source>
-      <translation type="unfinished">Function name:</translation>
+      <translation>Ім'я функції:</translation>
     </message>
   </context>
   <context>
@@ -3812,7 +3812,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="57"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Ім'я</translation>
     </message>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="59"/>
@@ -4280,7 +4280,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="79"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Ім'я</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="81"/>
@@ -4386,7 +4386,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="326"/>
       <source>Auto Exp</source>
-      <translation type="unfinished">Auto Exp</translation>
+      <translation>Автоматичний експериментальний аналіз</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="364"/>
@@ -5419,7 +5419,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="1237"/>
       <source>Enter name</source>
-      <translation type="unfinished">Enter name</translation>
+      <translation>Введіть ім'я</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1548"/>
@@ -5518,7 +5518,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="62"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Ім'я</translation>
     </message>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="64"/>
@@ -5672,7 +5672,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/Omnibar.cpp" line="15"/>
       <source>Type flag name or address here</source>
-      <translation type="unfinished">Type flag name or address here</translation>
+      <translation>Введіть ім'я прапорця або адресу тут</translation>
     </message>
   </context>
   <context>
@@ -5685,7 +5685,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="34"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Ім'я</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="34"/>
@@ -5888,7 +5888,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="319"/>
       <source>name</source>
-      <translation type="unfinished">name</translation>
+      <translation>ім'я</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="323"/>
@@ -5988,7 +5988,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="400"/>
       <source>Function name</source>
-      <translation type="unfinished">Function name</translation>
+      <translation>Ім'я функції</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="401"/>
@@ -6504,7 +6504,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/RelocsWidget.cpp" line="58"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Ім'я</translation>
     </message>
     <message>
       <location filename="../widgets/RelocsWidget.cpp" line="60"/>
@@ -6574,7 +6574,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="76"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Ім'я</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="78"/>
@@ -6686,7 +6686,7 @@ Do you want to commit them now?</translation>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="123"/>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="159"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Ім'я</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="46"/>
@@ -6948,7 +6948,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="93"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Ім'я</translation>
     </message>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="95"/>
@@ -6991,7 +6991,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="81"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Ім'я</translation>
     </message>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="83"/>
@@ -7197,7 +7197,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SymbolsWidget.cpp" line="62"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Ім'я</translation>
     </message>
     <message>
       <location filename="../widgets/SymbolsWidget.cpp" line="64"/>
@@ -7275,7 +7275,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="61"/>
       <source>Type / Name</source>
-      <translation>Тип / назва</translation>
+      <translation>Тип / ім'я</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="63"/>
@@ -7420,7 +7420,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/VTablesWidget.cpp" line="84"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Ім'я</translation>
     </message>
     <message>
       <location filename="../widgets/VTablesWidget.cpp" line="86"/>
@@ -7525,11 +7525,11 @@ Do you want to commit them now?</translation>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;Join thousands of reverse engineers in our community:&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Twitter:&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;	&lt;/span&gt;&lt;a href=&quot;https://twitter.com/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Telegram:	&lt;/span&gt;&lt;a href=&quot;https://t.me/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re &lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;IRC:	&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;#cutter on &lt;/span&gt;&lt;a href=&quot;https://web.libera.chat/&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;https://web.libera.chat/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+      <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;Join thousands of reverse engineers in our community:&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Twitter:&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;	&lt;/span&gt;&lt;a href=&quot;https://twitter.com/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Telegram:	&lt;/span&gt;&lt;a href=&quot;https://t.me/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re &lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;IRC:	&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;#cutter on &lt;/span&gt;&lt;a href=&quot;https://web.libera.chat/&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;https://web.libera.chat/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;Приєднуйтесь до тисячі реверс-інженерів у нашій спільноті:&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Twitter:&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;	&lt;/span&gt;&lt;a href=&quot;https://twitter.com/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Telegram:	&lt;/span&gt;&lt;a href=&quot;https://t.me/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re &lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;IRC:	&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;#cutter на &lt;/span&gt;&lt;a href=&quot;https://web.libera.chat/&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;https://web.libera.chat/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="355"/>
