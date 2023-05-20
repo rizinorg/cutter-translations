@@ -6486,7 +6486,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="138"/>
       <source>Copy register reference</source>
-      <translation type="unfinished">Copy register reference</translation>
+      <translation>Копіювати посилання на регістр</translation>
     </message>
   </context>
   <context>
