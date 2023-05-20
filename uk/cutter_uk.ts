@@ -1930,7 +1930,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/Dashboard.ui" line="426"/>
       <source>FD:</source>
-      <translation>Дескриптор файлу:</translation>
+      <translation>FD:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="455"/>
@@ -1945,32 +1945,32 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/Dashboard.ui" line="513"/>
       <source>Canary:</source>
-      <translation type="unfinished">Canary:</translation>
+      <translation>Canary:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="542"/>
       <source>Crypto:</source>
-      <translation>Криптографія:</translation>
+      <translation>Crypto:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="571"/>
       <source>NX bit:</source>
-      <translation type="unfinished">NX bit:</translation>
+      <translation>NX bit:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="600"/>
       <source>PIC:</source>
-      <translation type="unfinished">PIC:</translation>
+      <translation>PIC:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="629"/>
       <source>Static:</source>
-      <translation type="unfinished">Static:</translation>
+      <translation>Static:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="645"/>
       <source>Relro:</source>
-      <translation type="unfinished">Relro:</translation>
+      <translation>Relro:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="700"/>
@@ -2269,7 +2269,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="54"/>
       <source>Break esil execution when instruction is invalid (esil.breakoninvalid)</source>
-      <translation type="unfinished">Break esil execution when instruction is invalid (esil.breakoninvalid)</translation>
+      <translation>Перервати виконання ESIL, коли інструкція буде недійсною (esil.breakoninvalid)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="69"/>
@@ -2294,7 +2294,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="109"/>
       <source>Trace each step during continue in a trace session (dbg.trace_continue)</source>
-      <translation type="unfinished">Trace each step during continue in a trace session (dbg.trace_continue)</translation>
+      <translation>Прасувати кожний крок під час продовження в сеансі трасування (dbg.trace_continue)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="112"/>
@@ -2312,7 +2312,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="27"/>
       <source>Copy instruction address (&lt;address&gt;)</source>
-      <translation type="unfinished">Copy instruction address (&lt;address&gt;)</translation>
+      <translation>Копіювати адресу інструкції (&lt;address&gt;)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="28"/>
@@ -2559,7 +2559,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="33"/>
       <source>Choose an offset and refresh to get decompiled code</source>
-      <translation type="unfinished">Choose an offset and refresh to get decompiled code</translation>
+      <translation>Виберіть зсув і оновіть, щоб отримати декомпільований код</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="69"/>
@@ -2737,7 +2737,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="203"/>
       <source>Set current bits to...</source>
-      <translation type="unfinished">Set current bits to...</translation>
+      <translation>Встановити розрядність інструкцій...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="220"/>
@@ -2757,7 +2757,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="228"/>
       <source>Auto-detect</source>
-      <translation type="unfinished">Auto-detect</translation>
+      <translation>Автоматичне визначення</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="230"/>
@@ -2817,7 +2817,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="286"/>
       <source>Reverse Jump</source>
-      <translation type="unfinished">Reverse Jump</translation>
+      <translation>Зворотний стрибок</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="292"/>
@@ -3273,7 +3273,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/FlirtContextMenu.cpp" line="14"/>
       <source>Copy Line</source>
-      <translation type="unfinished">Copy Line</translation>
+      <translation>Копіювати рядок</translation>
     </message>
     <message>
       <location filename="../menus/FlirtContextMenu.cpp" line="15"/>
@@ -3723,7 +3723,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="31"/>
       <source>The offset of the first instruction of a graph block is shown in the header of the respective graph block</source>
-      <translation type="unfinished">The offset of the first instruction of a graph block is shown in the header of the respective graph block</translation>
+      <translation>Зсув першої інструкції блоку графа відображається в заголовку відповідного блоку графа</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="34"/>
@@ -3857,7 +3857,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/HeapDockWidget.ui" line="14"/>
       <source>Heap</source>
-      <translation type="unfinished">Heap</translation>
+      <translation>Купа</translation>
     </message>
   </context>
   <context>
@@ -3910,12 +3910,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="114"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>Копіювати</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="120"/>
       <source>Copy address</source>
-      <translation type="unfinished">Copy address</translation>
+      <translation>Копіювати адресу</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="127"/>
@@ -4360,7 +4360,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="167"/>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="363"/>
       <source>Analysis: Enabled</source>
-      <translation type="unfinished">Analysis: Enabled</translation>
+      <translation>Аналіз: увімкнено</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="183"/>
@@ -4467,12 +4467,12 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="768"/>
       <source>Little</source>
-      <translation type="unfinished">Little</translation>
+      <translation>Little</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="773"/>
       <source>Big</source>
-      <translation type="unfinished">Big</translation>
+      <translation>Big</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="794"/>
@@ -4487,7 +4487,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="876"/>
       <source>Load bin offset (-B)</source>
-      <translation type="unfinished">Load bin offset (-B)</translation>
+      <translation>Завантажити двійковий файл за зсувом (-B)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="895"/>
@@ -4507,7 +4507,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="937"/>
       <source>Load PDB</source>
-      <translation type="unfinished">Load PDB</translation>
+      <translation>Завантажити PDB</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="962"/>
@@ -4548,27 +4548,27 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="56"/>
       <source>Analyze instructions for references</source>
-      <translation type="unfinished">Analyze instructions for references</translation>
+      <translation>Аналіз інструкції для посилань</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="57"/>
       <source>Analyze function calls</source>
-      <translation type="unfinished">Analyze function calls</translation>
+      <translation>Аналіз викликів функцій</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="58"/>
       <source>Analyze all basic blocks</source>
-      <translation type="unfinished">Analyze all basic blocks</translation>
+      <translation>Аналіз всіх основних блоків</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="59"/>
       <source>Analyze all objc references</source>
-      <translation type="unfinished">Analyze all objc references</translation>
+      <translation>Аналіз всіх посилань на objc</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="60"/>
       <source>Recover class information from RTTI</source>
-      <translation type="unfinished">Recover class information from RTTI</translation>
+      <translation>Відновити інформацію про класи з RTTI</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="61"/>
@@ -4578,12 +4578,12 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="62"/>
       <source>Emulate code to find computed references</source>
-      <translation type="unfinished">Emulate code to find computed references</translation>
+      <translation>Емулювання коду для пошуку обчислюваних посилань</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="63"/>
       <source>Analyze all consecutive functions</source>
-      <translation type="unfinished">Analyze all consecutive functions</translation>
+      <translation>Аналіз всіх послідовних функцій</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="64"/>
@@ -4608,7 +4608,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="70"/>
       <source>Analyze PUSH+RET as JMP</source>
-      <translation type="unfinished">Analyze PUSH+RET as JMP</translation>
+      <translation>Аналізувати PUSH+RET як JMP</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="71"/>
@@ -4643,7 +4643,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="360"/>
       <source>Analysis: Disabled</source>
-      <translation type="unfinished">Analysis: Disabled</translation>
+      <translation>Аналіз: вимкнено</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="406"/>
@@ -4724,7 +4724,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="43"/>
       <source>&apos;%1&apos; is already used.</source>
-      <translation type="unfinished">&apos;%1&apos; is already used.</translation>
+      <translation>&apos;%1&apos; вже використовується.</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="45"/>
@@ -5205,7 +5205,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="715"/>
       <source>Preferences</source>
-      <translation type="unfinished">Preferences</translation>
+      <translation>Налаштування</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="720"/>
@@ -5713,7 +5713,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.ui" line="6"/>
       <source>Preferences</source>
-      <translation type="unfinished">Preferences</translation>
+      <translation>Налаштування</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="28"/>
@@ -6905,7 +6905,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="255"/>
       <source>asm code</source>
-      <translation type="unfinished">asm code</translation>
+      <translation>асемблерний код</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="256"/>
@@ -7064,7 +7064,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SimpleTextGraphView.cpp" line="29"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>Копіювати</translation>
     </message>
   </context>
   <context>
