@@ -385,7 +385,7 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="125"/>
       <source>Theme Editor - &lt;%1&gt;</source>
-      <translation type="unfinished">Theme Editor - &lt;%1&gt;</translation>
+      <translation>Редактор тем - &lt;%1&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="136"/>
@@ -406,7 +406,7 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="143"/>
       <source>Theme Copy</source>
-      <translation type="unfinished">Theme Copy</translation>
+      <translation>Копіювати тему</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="144"/>
@@ -1721,32 +1721,32 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="63"/>
       <source>Graphviz polyline</source>
-      <translation type="unfinished">Graphviz polyline</translation>
+      <translation>Graphviz polyline</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="64"/>
       <source>Graphviz ortho</source>
-      <translation type="unfinished">Graphviz ortho</translation>
+      <translation>Graphviz ortho</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="65"/>
       <source>Graphviz sfdp</source>
-      <translation type="unfinished">Graphviz sfdp</translation>
+      <translation>Graphviz sfdp</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="66"/>
       <source>Graphviz neato</source>
-      <translation type="unfinished">Graphviz neato</translation>
+      <translation>Graphviz neato</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="67"/>
       <source>Graphviz twopi</source>
-      <translation type="unfinished">Graphviz twopi</translation>
+      <translation>Graphviz twopi</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="68"/>
       <source>Graphviz circo</source>
-      <translation type="unfinished">Graphviz circo</translation>
+      <translation>Graphviz circo</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="409"/>
@@ -2322,7 +2322,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="29"/>
       <source>Show in</source>
-      <translation type="unfinished">Show in</translation>
+      <translation>Показати у</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="30"/>
@@ -2620,12 +2620,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="73"/>
       <source>Copy address</source>
-      <translation type="unfinished">Copy address</translation>
+      <translation>Копіювати адресу</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="77"/>
       <source>Show in</source>
-      <translation type="unfinished">Show in</translation>
+      <translation>Показати у</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="82"/>
@@ -4197,7 +4197,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="145"/>
       <source>Assembler</source>
-      <translation type="unfinished">Assembler</translation>
+      <translation>Асемблер</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="146"/>
