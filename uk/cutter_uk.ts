@@ -2225,7 +2225,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="268"/>
       <source>If you encounter any problems or have suggestions, please submit an issue to https://github.com/rizinorg/cutter/issues</source>
-      <translation type="unfinished">If you encounter any problems or have suggestions, please submit an issue to https://github.com/rizinorg/cutter/issues</translation>
+      <translation>Якщо ви зіткнулися з будь-якими проблемами або маєте пропозиції, будь ласка, створіть issue на https://github.com/rizinorg/cutter/issues</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="289"/>
@@ -2246,7 +2246,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="388"/>
       <source>File &apos;%1&apos; does not have executable permissions.</source>
-      <translation type="unfinished">File &apos;%1&apos; does not have executable permissions.</translation>
+      <translation>Файл &apos;%1&apos; не має прав на виконання.</translation>
     </message>
   </context>
   <context>
@@ -2582,32 +2582,32 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="97"/>
       <source>Highlight block</source>
-      <translation type="unfinished">Highlight block</translation>
+      <translation>Підсвітити блок</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="115"/>
       <source>Unhighlight block</source>
-      <translation type="unfinished">Unhighlight block</translation>
+      <translation>Скасувати підсвітку блоку</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="125"/>
       <source>Highlight instruction</source>
-      <translation type="unfinished">Highlight instruction</translation>
+      <translation>Підсвітити інструкцію</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="129"/>
       <source>Unhighlight instruction</source>
-      <translation type="unfinished">Unhighlight instruction</translation>
+      <translation>Скасувати підсвітку інструкції</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="195"/>
       <source>Graph</source>
-      <translation type="unfinished">Graph</translation>
+      <translation>Граф</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="209"/>
       <source>No function detected. Cannot display graph.</source>
-      <translation type="unfinished">No function detected. Cannot display graph.</translation>
+      <translation>Функція не виявлена. Неможливо відображати граф.</translation>
     </message>
   </context>
   <context>
@@ -3574,7 +3574,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="100"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Fd-nextsize&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Fd-nextsize&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Fd-nextsize&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="107"/>
@@ -4573,7 +4573,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="61"/>
       <source>Autoname functions based on context</source>
-      <translation type="unfinished">Autoname functions based on context</translation>
+      <translation>Автоматичне іменування функцій на основі контексту</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="62"/>
@@ -4588,7 +4588,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="64"/>
       <source>Type and Argument matching analysis</source>
-      <translation type="unfinished">Type and Argument matching analysis</translation>
+      <translation>Аналіз відповідності типів і аргументів</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="65"/>
