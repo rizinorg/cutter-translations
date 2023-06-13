@@ -228,7 +228,7 @@
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="236"/>
       <source>Functions Prelude (analysis.prelude):</source>
-      <translation type="unfinished">Functions Prelude (analysis.prelude):</translation>
+      <translation>Prelude функції (analysis.prelude):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="269"/>
@@ -246,7 +246,7 @@
     <message>
       <location filename="../common/AnalysisTask.cpp" line="27"/>
       <source>Analyzing Program</source>
-      <translation type="unfinished">Analyzing Program</translation>
+      <translation>Аналізуємо програму</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="45"/>
@@ -281,7 +281,7 @@
     <message>
       <location filename="../common/AnalysisTask.cpp" line="112"/>
       <source>Skipping Analysis.</source>
-      <translation type="unfinished">Skipping Analysis.</translation>
+      <translation>Пропускаємо аналіз.</translation>
     </message>
   </context>
   <context>
@@ -370,12 +370,12 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="289"/>
       <source>Use information provided by decompiler when highlighting code.</source>
-      <translation type="unfinished">Use information provided by decompiler when highlighting code.</translation>
+      <translation>Використовувати інформацію, надану декомпілятором, при підсвітці коду.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="292"/>
       <source>Decompiler based highlighting</source>
-      <translation type="unfinished">Decompiler based highlighting</translation>
+      <translation>Підсвітка на основі інформації від декомпілятора</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="312"/>
@@ -411,7 +411,7 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="144"/>
       <source>Theme named %1 already exists.</source>
-      <translation type="unfinished">Theme named %1 already exists.</translation>
+      <translation>Тема з назвою %1 вже існує.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="159"/>
@@ -425,7 +425,7 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="163"/>
       <source>Are you sure you want to delete &lt;b&gt;%1&lt;/b&gt;?</source>
-      <translation type="unfinished">Are you sure you want to delete &lt;b&gt;%1&lt;/b&gt;?</translation>
+      <translation>Ви впевнені, що хочете вилучити &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="185"/>
@@ -436,12 +436,12 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="186"/>
       <source>Color theme &lt;b&gt;%1&lt;/b&gt; was successfully imported.</source>
-      <translation type="unfinished">Color theme &lt;b&gt;%1&lt;/b&gt; was successfully imported.</translation>
+      <translation>Колірна тема &lt;b&gt;%1&lt;/b&gt; була успішно імпортована.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="212"/>
       <source>Color theme &lt;b&gt;%1&lt;/b&gt; was successfully exported.</source>
-      <translation type="unfinished">Color theme &lt;b&gt;%1&lt;/b&gt; was successfully exported.</translation>
+      <translation>Колірна тема &lt;b&gt;%1&lt;/b&gt; була успішно експортована.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="221"/>
@@ -461,7 +461,7 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="245"/>
       <source>Cannot set language, not found in available ones</source>
-      <translation type="unfinished">Cannot set language, not found in available ones</translation>
+      <translation>Ця мова ще недоступна</translation>
     </message>
   </context>
   <context>
@@ -484,7 +484,7 @@
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="36"/>
       <source>Next free</source>
-      <translation type="unfinished">Next free</translation>
+      <translation>Наступна вільна арена</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="43"/>
@@ -589,12 +589,12 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="203"/>
       <source>Capitalize (asm.capitalize)</source>
-      <translation type="unfinished">Capitalize (asm.capitalize)</translation>
+      <translation>Велика літера (asm.capitalize)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="211"/>
       <source>Show empty line after every basic block (asm.bb.line)</source>
-      <translation type="unfinished">Show empty line after every basic block (asm.bb.line)</translation>
+      <translation>Показувати пустий рядок після кожного основного блоку (asm.bb.line)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="220"/>
@@ -609,12 +609,12 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="255"/>
       <source>Show Disassembly as:</source>
-      <translation type="unfinished">Show Disassembly as:</translation>
+      <translation>Показувати лістинг як:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="265"/>
       <source>Tabs in assembly (asm.tabs):</source>
-      <translation type="unfinished">Tabs in assembly (asm.tabs):</translation>
+      <translation>Відступи після інструкцій (asm.tabs):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="275"/>
