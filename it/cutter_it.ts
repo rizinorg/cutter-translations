@@ -3790,82 +3790,82 @@ Per maggiori dettagli, controllare l'output sulla console.</translation>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="107"/>
       <source>Bk-nextsize</source>
-      <translation type="unfinished">Bk-nextsize</translation>
+      <translation>Bk-nextsize</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="114"/>
       <source>Link to next smaller free chunk (for large chunks)</source>
-      <translation type="unfinished">Link to next smaller free chunk (for large chunks)</translation>
+      <translation>Link al prossimo più piccolo chunk libero (per chunks di grandi dimensioni)</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="124"/>
       <source>Size of previous chunk (if free)</source>
-      <translation type="unfinished">Size of previous chunk (if free)</translation>
+      <translation>Dimensione del chunk precedente (se libero)</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="134"/>
       <source>PrevSize</source>
-      <translation type="unfinished">PrevSize</translation>
+      <translation>PrevSize</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="145"/>
       <source>If the chunk was obtained from a non-main arena</source>
-      <translation type="unfinished">If the chunk was obtained from a non-main arena</translation>
+      <translation>Se il chunk è stato ottenuto dall'arena non principale</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="148"/>
       <source>NON_MAIN_ARENA</source>
-      <translation type="unfinished">NON_MAIN_ARENA</translation>
+      <translation>NON_MAIN_ARENA</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="161"/>
       <source>The chunk was obtained with mmap()</source>
-      <translation type="unfinished">The chunk was obtained with mmap()</translation>
+      <translation>Il chunk è stato ottenuto utilizzando mmap()</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="164"/>
       <source>IS_MMAPED</source>
-      <translation type="unfinished">IS_MMAPED</translation>
+      <translation>IS_MMAPED</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="177"/>
       <source>Previous adjacent chunk is in use</source>
-      <translation type="unfinished">Previous adjacent chunk is in use</translation>
+      <translation>Il precedente adiacente chunk è in uso</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="180"/>
       <source>PREV_INUSE</source>
-      <translation type="unfinished">PREV_INUSE</translation>
+      <translation>PREV_INUSE</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="195"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>Salva</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="12"/>
       <source>Chunk @ </source>
-      <translation type="unfinished">Chunk @ </translation>
+      <translation>Chunk @ </translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="100"/>
       <source>Chunk saved</source>
-      <translation type="unfinished">Chunk saved</translation>
+      <translation>Chunk salvato</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="101"/>
       <source>Chunk header successfully overwritten</source>
-      <translation type="unfinished">Chunk header successfully overwritten</translation>
+      <translation>Il chunk header e' stato sovrascritto con successo</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="103"/>
       <source>Chunk not saved</source>
-      <translation type="unfinished">Chunk not saved</translation>
+      <translation>Il chunk non è stato salvato</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="104"/>
       <source>Chunk header not successfully overwritten</source>
-      <translation type="unfinished">Chunk header not successfully overwritten</translation>
+      <translation>Il chunk header non e' stato sovrascritto</translation>
     </message>
   </context>
   <context>
@@ -3873,17 +3873,17 @@ Per maggiori dettagli, controllare l'output sulla console.</translation>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="161"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>Offset</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="163"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>Dimensione</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="165"/>
       <source>Status</source>
-      <translation type="unfinished">Status</translation>
+      <translation>Stato</translation>
     </message>
   </context>
   <context>
@@ -3891,32 +3891,32 @@ Per maggiori dettagli, controllare l'output sulla console.</translation>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Forma</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="34"/>
       <source>Arena</source>
-      <translation type="unfinished">Arena</translation>
+      <translation>Arena</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="47"/>
       <source>View bins info for an arena</source>
-      <translation type="unfinished">View bins info for an arena</translation>
+      <translation>Guarda le informazioni dei bins di un'arena</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="50"/>
       <source>Bins</source>
-      <translation type="unfinished">Bins</translation>
+      <translation>Bins</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="27"/>
       <source>Detailed Chunk Info</source>
-      <translation type="unfinished">Detailed Chunk Info</translation>
+      <translation>Informazioni Dettagliate del Chunk</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="28"/>
       <source>Bins Info</source>
-      <translation type="unfinished">Bins Info</translation>
+      <translation>Informazioni dei Bins</translation>
     </message>
   </context>
   <context>
@@ -3924,37 +3924,37 @@ Per maggiori dettagli, controllare l'output sulla console.</translation>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="14"/>
       <source>Add Global Variable</source>
-      <translation type="unfinished">Add Global Variable</translation>
+      <translation>Aggiungi Variabile Globale</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="20"/>
       <source>Add global variable at</source>
-      <translation type="unfinished">Add global variable at</translation>
+      <translation>Aggiungi variabile globale a</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="38"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>Nome:</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="61"/>
       <source>int</source>
-      <translation type="unfinished">int</translation>
+      <translation>int</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="80"/>
       <source>Type:</source>
-      <translation type="unfinished">Type:</translation>
+      <translation>Tipo:</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.cpp" line="28"/>
       <source>Edit global variable at %1</source>
-      <translation type="unfinished">Edit global variable at %1</translation>
+      <translation>Modifica variabile globale %1</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.cpp" line="30"/>
       <source>Add global variable at %1</source>
-      <translation type="unfinished">Add global variable at %1</translation>
+      <translation>Aggiungi variabile globale a %1</translation>
     </message>
   </context>
   <context>
@@ -3962,22 +3962,22 @@ Per maggiori dettagli, controllare l'output sulla console.</translation>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="60"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>Indirizzo</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="62"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>Tipo</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="64"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Nome</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="66"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Commento</translation>
     </message>
   </context>
   <context>
@@ -3987,24 +3987,24 @@ Per maggiori dettagli, controllare l'output sulla console.</translation>
       <location filename="../widgets/GlobalsWidget.ui" line="79"/>
       <location filename="../widgets/GlobalsWidget.cpp" line="206"/>
       <source>Edit Global Variable</source>
-      <translation type="unfinished">Edit Global Variable</translation>
+      <translation>Modifica la variabile globale</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.ui" line="84"/>
       <location filename="../widgets/GlobalsWidget.ui" line="87"/>
       <location filename="../widgets/GlobalsWidget.cpp" line="207"/>
       <source>Delete Global Variable</source>
-      <translation type="unfinished">Delete Global Variable</translation>
+      <translation>Elimina la variabile globale</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="167"/>
       <source>Category</source>
-      <translation type="unfinished">Category</translation>
+      <translation>Categoria</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="169"/>
       <source>Globals</source>
-      <translation type="unfinished">Globals</translation>
+      <translation>Variabili Globali</translation>
     </message>
   </context>
   <context>
@@ -4017,27 +4017,27 @@ Per maggiori dettagli, controllare l'output sulla console.</translation>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="22"/>
       <source>Graph Block Options </source>
-      <translation type="unfinished">Graph Block Options </translation>
+      <translation>Opzioni Blocco Grafo </translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="31"/>
       <source>The offset of the first instruction of a graph block is shown in the header of the respective graph block</source>
-      <translation type="unfinished">The offset of the first instruction of a graph block is shown in the header of the respective graph block</translation>
+      <translation>L'offset della prima istruzione di un blocco è mostrato nell'intestazione del rispettivo blocco del grafo</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="34"/>
       <source>Show offset of the first instruction in each graph block</source>
-      <translation type="unfinished">Show offset of the first instruction in each graph block</translation>
+      <translation>Mostra l'offset della prima istruzione in ogni blocco del grafo</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="41"/>
       <source>Show offset for each instruction (graph.offset)</source>
-      <translation type="unfinished">Show offset for each instruction (graph.offset)</translation>
+      <translation>Mostra l'offset per ogni istruzione (graph.offset)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="48"/>
       <source>Show preview when hovering (graph.preview)</source>
-      <translation type="unfinished">Show preview when hovering (graph.preview)</translation>
+      <translation>Mostra anteprima all'hover del puntatore (graph.preview)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="57"/>
@@ -4048,17 +4048,17 @@ Per maggiori dettagli, controllare l'output sulla console.</translation>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="77"/>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="87"/>
       <source>Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</source>
-      <translation type="unfinished">Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</translation>
+      <translation>Nascondi il testo quando si rimpicciolisce ed è più piccolo del valore dato. Valori più alti possono aumentare le prestazioni.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="80"/>
       <source>Minimum Font Size</source>
-      <translation type="unfinished">Minimum Font Size</translation>
+      <translation>Dimensione minima del carattere</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="105"/>
       <source>Graph Layout Options</source>
-      <translation type="unfinished">Graph Layout Options</translation>
+      <translation>Opzioni del Layout Grafico</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="124"/>
@@ -4073,12 +4073,12 @@ Per maggiori dettagli, controllare l'output sulla console.</translation>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="183"/>
       <source>Block spacing:</source>
-      <translation type="unfinished">Block spacing:</translation>
+      <translation>Spaziatura blocco:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="190"/>
       <source>Edge spacing</source>
-      <translation type="unfinished">Edge spacing</translation>
+      <translation>Spaziatura bordo</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="200"/>
