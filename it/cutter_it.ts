@@ -5977,7 +5977,7 @@ Salva il tuo progetto prima di chiuderlo!</translation>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="534"/>
       <source>Clear all projects</source>
-      <translation type="unfinished">Clear all projects</translation>
+      <translation>Cancella progetti</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="95"/>
@@ -5987,7 +5987,7 @@ Salva il tuo progetto prima di chiuderlo!</translation>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="107"/>
       <source>Open Project</source>
-      <translation type="unfinished">Open Project</translation>
+      <translation>Apri progetto</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="290"/>
@@ -6042,7 +6042,7 @@ Salva il tuo progetto prima di chiuderlo!</translation>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="48"/>
       <source>Show Rizin plugin information</source>
-      <translation type="unfinished">Show Rizin plugin information</translation>
+      <translation>Mostra informazioni plugin</translation>
     </message>
   </context>
   <context>
@@ -6167,12 +6167,12 @@ WARNING: In Write mode, any changes will be committed to the file on disk. For s
     <message>
       <location filename="../common/IOModesController.cpp" line="62"/>
       <source>Reopen in Write mode</source>
-      <translation type="unfinished">Reopen in Write mode</translation>
+      <translation>Riapri in modalità scrittura</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="64"/>
       <source>Enable Cache mode</source>
-      <translation type="unfinished">Enable Cache mode</translation>
+      <translation>Abilita cache</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="94"/>
@@ -6223,7 +6223,7 @@ Vuoi aggiungerle ora?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="401"/>
       <source>Sets a specific architecture name</source>
-      <translation type="unfinished">Sets a specific architecture name</translation>
+      <translation>Imposta un nome specifico per l'architettura</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="402"/>
@@ -6233,7 +6233,7 @@ Vuoi aggiungerle ora?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="405"/>
       <source>Sets a specific architecture bits</source>
-      <translation type="unfinished">Sets a specific architecture bits</translation>
+      <translation>Imposta i bit per l'architettura</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="406"/>
@@ -6243,7 +6243,7 @@ Vuoi aggiungerle ora?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="409"/>
       <source>Sets a specific CPU</source>
-      <translation type="unfinished">Sets a specific CPU</translation>
+      <translation>Imposta una CPU specifica</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="410"/>
