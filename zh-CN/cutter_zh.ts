@@ -915,19 +915,19 @@
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="84"/>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="110"/>
       <source>Copy %1</source>
-      <translation type="unfinished">Copy %1</translation>
+      <translation>复制 %1</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="85"/>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="111"/>
       <source>Reopen Cutter with base address as %1</source>
-      <translation type="unfinished">Reopen Cutter with base address as %1</translation>
+      <translation>以基址 %1 重新打开Cutter</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="86"/>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="112"/>
       <source>Reopen Cutter with map address as %1</source>
-      <translation type="unfinished">Reopen Cutter with map address as %1</translation>
+      <translation>以映射地址 %1 重新打开Cutter</translation>
     </message>
   </context>
   <context>
@@ -940,7 +940,7 @@
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="60"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>地址</translation>
     </message>
   </context>
   <context>
@@ -962,7 +962,7 @@
     <message>
       <location filename="../core/Basefind.cpp" line="41"/>
       <source>Start address is &gt;= end address</source>
-      <translation type="unfinished">Start address is &gt;= end address</translation>
+      <translation>起始地址 &gt;= 结束地址</translation>
     </message>
     <message>
       <location filename="../core/Basefind.cpp" line="44"/>
@@ -977,7 +977,7 @@
     <message>
       <location filename="../core/Basefind.cpp" line="51"/>
       <source>Min string length must be at least 1</source>
-      <translation type="unfinished">Min string length must be at least 1</translation>
+      <translation>最小字符串长度至少为 1</translation>
     </message>
   </context>
   <context>
@@ -1700,12 +1700,12 @@
     <message>
       <location filename="../common/Configuration.cpp" line="146"/>
       <source>Critical Error!</source>
-      <translation type="unfinished">Critical Error!</translation>
+      <translation>严重错误！</translation>
     </message>
     <message>
       <location filename="../common/Configuration.cpp" line="147"/>
       <source>Settings are not writable! Make sure you have a write access to &quot;%1&quot;.</source>
-      <translation type="unfinished">Settings are not writable! Make sure you have a write access to &quot;%1&quot;.</translation>
+      <translation>设置不可写！ 请确保您对 &quot;%1&quot; 具有写入权限。</translation>
     </message>
   </context>
   <context>
@@ -1757,7 +1757,7 @@
       <location filename="../core/Cutter.cpp" line="274"/>
       <location filename="../core/Cutter.cpp" line="287"/>
       <source>Loading initialization file from </source>
-      <translation type="unfinished">Loading initialization file from </translation>
+      <translation>加载初始化文件从 </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1057"/>
@@ -1844,12 +1844,12 @@ Please check the console for more details.</source>
       <location filename="../core/Cutter.cpp" line="4059"/>
       <location filename="../core/Cutter.cpp" line="4088"/>
       <source>Error parsing type: &quot;%1&quot; message: </source>
-      <translation type="unfinished">Error parsing type: &quot;%1&quot; message: </translation>
+      <translation>解析类型时出错： &quot;%1&quot; 消息： </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4065"/>
       <source>Error creating global variable: &quot;%1&quot;</source>
-      <translation type="unfinished">Error creating global variable: &quot;%1&quot;</translation>
+      <translation>创建全局变量时出错： &quot;%1&quot;</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4658"/>
@@ -2890,7 +2890,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="177"/>
       <source>Modify or add global variable</source>
-      <translation type="unfinished">Modify or add global variable</translation>
+      <translation>修改或添加全局变量</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="184"/>
@@ -3071,7 +3071,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="497"/>
       <source>Add or change global variable at %1 (used here)</source>
-      <translation type="unfinished">Add or change global variable at %1 (used here)</translation>
+      <translation>在 %1 添加或更改全局变量 (在此使用)</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="573"/>
@@ -3921,17 +3921,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="14"/>
       <source>Add Global Variable</source>
-      <translation type="unfinished">Add Global Variable</translation>
+      <translation>添加全局变量</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="20"/>
       <source>Add global variable at</source>
-      <translation type="unfinished">Add global variable at</translation>
+      <translation>添加全局变量于</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="38"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>名称：</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="61"/>
@@ -3941,17 +3941,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="80"/>
       <source>Type:</source>
-      <translation type="unfinished">Type:</translation>
+      <translation>类型：</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.cpp" line="28"/>
       <source>Edit global variable at %1</source>
-      <translation type="unfinished">Edit global variable at %1</translation>
+      <translation>编辑全局变量于 %1</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.cpp" line="30"/>
       <source>Add global variable at %1</source>
-      <translation type="unfinished">Add global variable at %1</translation>
+      <translation>添加全局变量于 %1</translation>
     </message>
   </context>
   <context>
@@ -3959,22 +3959,22 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="60"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>地址</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="62"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>类型</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="64"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名称</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="66"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>注释</translation>
     </message>
   </context>
   <context>
@@ -3984,14 +3984,14 @@ Please check the console for more details.</source>
       <location filename="../widgets/GlobalsWidget.ui" line="79"/>
       <location filename="../widgets/GlobalsWidget.cpp" line="206"/>
       <source>Edit Global Variable</source>
-      <translation type="unfinished">Edit Global Variable</translation>
+      <translation>编辑全局变量</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.ui" line="84"/>
       <location filename="../widgets/GlobalsWidget.ui" line="87"/>
       <location filename="../widgets/GlobalsWidget.cpp" line="207"/>
       <source>Delete Global Variable</source>
-      <translation type="unfinished">Delete Global Variable</translation>
+      <translation>删除全局变量</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="167"/>
