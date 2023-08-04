@@ -1999,7 +1999,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="436"/>
       <source>Graphviz pdf (*.pdf)</source>
-      <translation type="unfinished">Graphviz pdf (*.pdf)</translation>
+      <translation>Graphviz pdf (*.pdf)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="458"/>
@@ -3936,7 +3936,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="61"/>
       <source>int</source>
-      <translation type="unfinished">int</translation>
+      <translation>int</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="80"/>
@@ -6225,7 +6225,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="402"/>
       <source>arch</source>
-      <translation type="unfinished">arch</translation>
+      <translation>arch</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="405"/>
@@ -6235,7 +6235,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="406"/>
       <source>bits</source>
-      <translation type="unfinished">bits</translation>
+      <translation>bits</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="409"/>
@@ -6245,7 +6245,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="410"/>
       <source>cpu</source>
-      <translation type="unfinished">cpu</translation>
+      <translation>cpu</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="413"/>
@@ -6255,7 +6255,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="414"/>
       <source>os</source>
-      <translation type="unfinished">os</translation>
+      <translation>os</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="418"/>
@@ -7031,7 +7031,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RizinGraphWidget.ui" line="57"/>
       <source>ag...</source>
-      <translation type="unfinished">ag...</translation>
+      <translation>ag...</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="21"/>
@@ -7089,7 +7089,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="24"/>
       <source>RzBin</source>
-      <translation type="unfinished">RzBin</translation>
+      <translation>RzBin</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="30"/>
@@ -7128,7 +7128,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="65"/>
       <source>RzIO</source>
-      <translation type="unfinished">RzIO</translation>
+      <translation>RzIO</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="71"/>
@@ -7143,7 +7143,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="106"/>
       <source>RzCore</source>
-      <translation type="unfinished">RzCore</translation>
+      <translation>RzCore</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="112"/>
@@ -7153,7 +7153,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="142"/>
       <source>RzAsm</source>
-      <translation type="unfinished">RzAsm</translation>
+      <translation>RzAsm</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="148"/>
