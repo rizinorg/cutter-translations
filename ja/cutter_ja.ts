@@ -153,22 +153,22 @@
   <context>
     <name>AnalysisClassesModel</name>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="407"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="420"/>
       <source>class</source>
       <translation>クラス</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="431"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="444"/>
       <source>base</source>
       <translation>基底</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="464"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="477"/>
       <source>method</source>
       <translation>メソッド</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="502"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="515"/>
       <source>vtable</source>
       <translation>仮想関数テーブル</translation>
     </message>
@@ -516,213 +516,230 @@
       <translation>スタイル</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="88"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="255"/>
       <source>Align bytes to the left (asm.lbytes)</source>
       <translation>バイトを左に配置 (asm.lbytes）</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="95"/>
       <source>Show preview when hovering:</source>
       <translation>マウスを合わせている時にプレビューを表示:</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="102"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="215"/>
       <source>Syntax (asm.syntax):</source>
       <translation>シンタックス (asm.syntax):</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="112"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="272"/>
       <source>Flags (asm.reloff.flags)</source>
       <translation>フラグ (asm.reloff.flags)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="120"/>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="314"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="183"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="321"/>
       <source>Normal</source>
       <translation>標準</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="125"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="188"/>
       <source>ESIL (asm.esil)</source>
       <translation>ESIL (asm.esil)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="130"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="193"/>
       <source>Pseudocode (asm.pseudo)</source>
       <translation>擬似コード (asm.pseudo)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="138"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="175"/>
       <source>Show offsets (asm.offset)</source>
       <translation>オフセットを表示 (asm.offset)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="145"/>
       <source>Tabs before assembly (asm.tabs.off):</source>
       <translation>オフセットの後のタブ数 (asm.tabs.off):</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="158"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="245"/>
       <source>Number of bytes to display (asm.nbytes):</source>
       <translation>表示するバイト数(asm.nbytes):</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="168"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="225"/>
       <source>Separate bytes with whitespace (asm.bytes.space)</source>
       <translation>スペースをデリミタとして使用 (asm.bytes.space)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="185"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="100"/>
       <source>Display the bytes of each instruction (asm.bytes)</source>
       <translation>各命令のバイト列を表示 (asm.bytes)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="193"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="72"/>
       <source>Lowercase</source>
       <translation>小文字</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="198"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="77"/>
       <source>Uppercase (asm.ucase)</source>
       <translation>大文字 (asm.ucase)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="203"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="82"/>
       <source>Capitalize (asm.capitalize)</source>
       <translation>大文字化 (asm.capitalize)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="211"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="201"/>
       <source>Show empty line after every basic block (asm.bb.line)</source>
       <translation>ベーシックブロックごとに空白行を表示 (asm.bb.line)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="220"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="142"/>
       <source>Show offsets relative to:</source>
       <translation>次に相対的なオフセットを表示:</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="227"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="149"/>
       <source>Functions (asm.reloff)</source>
       <translation>関数 (asm.reloff)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="255"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="107"/>
       <source>Show Disassembly as:</source>
       <translation>逆アセンブリを表示:</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="265"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="90"/>
       <source>Tabs in assembly (asm.tabs):</source>
       <translation>アセンブリ内のタブ (asm.tabs):</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="275"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="168"/>
       <source>Indent disassembly based on reflines depth (asm.indent)</source>
       <translation>リファレンスラインの深度に基づいて逆アセンブリ結果をインデント (asm.indent)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="282"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="133"/>
       <source>Display flags&apos; real name (asm.flags.real)</source>
       <translation>フラグの実名を表示 (asm.flags.real)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="298"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="158"/>
+      <source>The number of tabulate spaces after the offset (asm.tabs.off):</source>
+      <translation type="unfinished">The number of tabulate spaces after the offset (asm.tabs.off):</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="208"/>
+      <source>Show preview when hovering</source>
+      <translation type="unfinished">Show preview when hovering</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="289"/>
+      <source>Show known variable values when hovering</source>
+      <translation type="unfinished">Show known variable values when hovering</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="305"/>
       <source>Comments</source>
       <translation>コメント</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="306"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="313"/>
       <source>Show opcode description (asm.describe)</source>
       <translation>オペコードの説明を表示 (asm.describe)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="319"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="326"/>
       <source>Above instructions</source>
       <translation>上記の説明</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="324"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="331"/>
       <source>Off</source>
       <translation>オフ</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="332"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="339"/>
       <source>Show comments:</source>
       <translation>コメントの表示:</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="352"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="359"/>
       <source>Column to align comments (asm.cmt.col):</source>
       <translation>コメントを整列する列 (asm.cmt.col):</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="362"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="369"/>
       <source>Show x-refs (asm.xrefs)</source>
       <translation>x-refsを表示 (asm.xrefs)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="369"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="376"/>
       <source>Show refpointer information (asm.refptr)</source>
       <translation>参照ポインタ情報を表示 (asm.refptr)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="402"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="409"/>
       <source>Metadata</source>
       <translation>メタデータ</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="426"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="433"/>
       <source>Slow Analysis (asm.slow)</source>
       <translation>低速分析 (asm.slow)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="433"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="440"/>
       <source>Show jump lines (asm.lines)</source>
       <translation>ジャンプ行を表示 (asm.lines)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="440"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="447"/>
       <source>Show function boundary lines (asm.lines.fcn)</source>
       <translation>関数境界線を表示 (asm.lines.fcn)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="447"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="454"/>
       <source>Show offset before flags (asm.flags.off)</source>
       <translation>フラグの前にオフセットを表示 (asm.flags.off)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="454"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="461"/>
       <source>Run ESIL emulation analysis (asm.emu)</source>
       <translation>ESIL エミュレーション解析を実行 (asm.emu)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="461"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="468"/>
       <source>Show only strings if any in the asm.emu output (emu.str)</source>
       <translation>asm.emu の出力に含まれる文字列のみを表示する (emu.str)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="468"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="475"/>
       <source>Show size of opcodes in disassembly (asm.size)</source>
       <translation>disassembly にオペコードのサイズを表示する (asm.size) </translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="475"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="482"/>
       <source>Show variables summary instead of full list (asm.var.summary)</source>
       <translation>完全なリストの代わりに変数サマリーを表示します (asm.var.summary)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="482"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="489"/>
+      <source>Substitute variables in disassembly (asm.sub.var)</source>
+      <translation type="unfinished">Substitute variables in disassembly (asm.sub.var)</translation>
+    </message>
+    <message>
       <source>Substitute variables (asm.sub.var)</source>
       <translation>変数を代替 (asm.sub.var)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="489"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="496"/>
       <source>Substitute entire variable expressions with names (asm.sub.varonly)</source>
       <translation>変数式全体を名前で置き換えます (asm.sub.varonly)</translation>
     </message>
     <message>
-      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="545"/>
+      <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="552"/>
       <source>Save as Default</source>
       <translation>デフォルトとして保存</translation>
     </message>
@@ -834,24 +851,154 @@
     </message>
   </context>
   <context>
+    <name>BaseFindDialog</name>
+    <message>
+      <location filename="../tools/basefind/BaseFindDialog.ui" line="43"/>
+      <source>Cores:</source>
+      <translation type="unfinished">Cores:</translation>
+    </message>
+    <message>
+      <location filename="../tools/basefind/BaseFindDialog.ui" line="59"/>
+      <source>Pointer Size:</source>
+      <translation type="unfinished">Pointer Size:</translation>
+    </message>
+    <message>
+      <location filename="../tools/basefind/BaseFindDialog.ui" line="67"/>
+      <source>32</source>
+      <translation type="unfinished">32</translation>
+    </message>
+    <message>
+      <location filename="../tools/basefind/BaseFindDialog.ui" line="72"/>
+      <source>64</source>
+      <translation type="unfinished">64</translation>
+    </message>
+    <message>
+      <location filename="../tools/basefind/BaseFindDialog.ui" line="80"/>
+      <source>Start Address:</source>
+      <translation type="unfinished">Start Address:</translation>
+    </message>
+    <message>
+      <location filename="../tools/basefind/BaseFindDialog.ui" line="100"/>
+      <source>End Address:</source>
+      <translation type="unfinished">End Address:</translation>
+    </message>
+    <message>
+      <location filename="../tools/basefind/BaseFindDialog.ui" line="117"/>
+      <source>Alignment:</source>
+      <translation type="unfinished">Alignment:</translation>
+    </message>
+    <message>
+      <location filename="../tools/basefind/BaseFindDialog.ui" line="134"/>
+      <source>Min String Length:</source>
+      <translation type="unfinished">Min String Length:</translation>
+    </message>
+    <message>
+      <location filename="../tools/basefind/BaseFindDialog.ui" line="157"/>
+      <source>Min Score:</source>
+      <translation type="unfinished">Min Score:</translation>
+    </message>
+    <message>
+      <location filename="../tools/basefind/BaseFindDialog.ui" line="199"/>
+      <source>Remove item</source>
+      <translation type="unfinished">Remove item</translation>
+    </message>
+    <message>
+      <location filename="../tools/basefind/BaseFindDialog.ui" line="204"/>
+      <location filename="../tools/basefind/BaseFindDialog.ui" line="207"/>
+      <source>Remove all</source>
+      <translation type="unfinished">Remove all</translation>
+    </message>
+  </context>
+  <context>
+    <name>BaseFindResultsDialog</name>
+    <message>
+      <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="84"/>
+      <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="110"/>
+      <source>Copy %1</source>
+      <translation type="unfinished">Copy %1</translation>
+    </message>
+    <message>
+      <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="85"/>
+      <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="111"/>
+      <source>Reopen Cutter with base address as %1</source>
+      <translation type="unfinished">Reopen Cutter with base address as %1</translation>
+    </message>
+    <message>
+      <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="86"/>
+      <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="112"/>
+      <source>Reopen Cutter with map address as %1</source>
+      <translation type="unfinished">Reopen Cutter with map address as %1</translation>
+    </message>
+  </context>
+  <context>
+    <name>BaseFindResultsModel</name>
+    <message>
+      <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="58"/>
+      <source>Score</source>
+      <translation type="unfinished">Score</translation>
+    </message>
+    <message>
+      <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="60"/>
+      <source>Address</source>
+      <translation type="unfinished">Address</translation>
+    </message>
+  </context>
+  <context>
+    <name>BaseFindSearchDialog</name>
+    <message>
+      <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="81"/>
+      <source>Remove item</source>
+      <translation type="unfinished">Remove item</translation>
+    </message>
+    <message>
+      <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="86"/>
+      <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="89"/>
+      <source>Remove all</source>
+      <translation type="unfinished">Remove all</translation>
+    </message>
+  </context>
+  <context>
+    <name>Basefind</name>
+    <message>
+      <location filename="../core/Basefind.cpp" line="41"/>
+      <source>Start address is &gt;= end address</source>
+      <translation type="unfinished">Start address is &gt;= end address</translation>
+    </message>
+    <message>
+      <location filename="../core/Basefind.cpp" line="44"/>
+      <source>Alignment must be at least </source>
+      <translation type="unfinished">Alignment must be at least </translation>
+    </message>
+    <message>
+      <location filename="../core/Basefind.cpp" line="48"/>
+      <source>Min score must be at least 1</source>
+      <translation type="unfinished">Min score must be at least 1</translation>
+    </message>
+    <message>
+      <location filename="../core/Basefind.cpp" line="51"/>
+      <source>Min string length must be at least 1</source>
+      <translation type="unfinished">Min string length must be at least 1</translation>
+    </message>
+  </context>
+  <context>
     <name>BinClassesModel</name>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="123"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="136"/>
       <source>method</source>
       <translation>メソッド</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="147"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="160"/>
       <source>field</source>
       <translation>フィールド</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="169"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="182"/>
       <source>base class</source>
       <translation>基底クラス</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="189"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="202"/>
       <source>class</source>
       <translation>クラス</translation>
     </message>
@@ -859,69 +1006,69 @@
   <context>
     <name>BinsModel</name>
     <message>
-      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="130"/>
-      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="132"/>
-      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="138"/>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="129"/>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="131"/>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="137"/>
       <source>N/A</source>
       <translation>N/A</translation>
     </message>
     <message>
-      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="154"/>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="153"/>
       <source>#</source>
       <translation>#</translation>
     </message>
     <message>
-      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="156"/>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="155"/>
       <source>Fd</source>
       <translation>Fd</translation>
     </message>
     <message>
-      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="158"/>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="157"/>
       <source>Bk</source>
       <translation>Bk</translation>
     </message>
     <message>
-      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="160"/>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="159"/>
       <source>Type</source>
       <translation>種類</translation>
     </message>
     <message>
-      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="162"/>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="161"/>
       <source>Chunks count</source>
       <translation>チャンク数</translation>
     </message>
     <message>
-      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="164"/>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="163"/>
       <source>Chunks size</source>
       <translation>チャンクのサイズ</translation>
     </message>
     <message>
-      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="172"/>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="171"/>
       <source>Bin number in NBINS or fastbinsY array</source>
       <translation>NBINS または fastbinSY 配列内の Bin 番号</translation>
     </message>
     <message>
-      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="174"/>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="173"/>
       <source>Pointer to first chunk of the bin</source>
       <translation>bin の最初のチャンクへのポインタ</translation>
     </message>
     <message>
-      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="176"/>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="175"/>
       <source>Pointer to last chunk of the bin</source>
       <translation>bin の最後のチャンクへのポインタ</translation>
     </message>
     <message>
-      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="178"/>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="177"/>
       <source>Type of bin</source>
       <translation>bin の種類</translation>
     </message>
     <message>
-      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="180"/>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="179"/>
       <source>Number of chunks in the bin</source>
       <translation>bin 内のチャンクの数</translation>
     </message>
     <message>
-      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="182"/>
+      <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="181"/>
       <source>Size of all chunks in the bin</source>
       <translation>bin 内のすべてのチャンクのサイズ</translation>
     </message>
@@ -1144,18 +1291,18 @@
   <context>
     <name>CallGraphWidget</name>
     <message>
-      <location filename="../widgets/CallGraph.cpp" line="23"/>
+      <location filename="../widgets/CallGraph.cpp" line="25"/>
       <source>Global Callgraph</source>
       <translation>グローバルコールグラフ</translation>
     </message>
     <message>
-      <location filename="../widgets/CallGraph.cpp" line="23"/>
-      <location filename="../widgets/CallGraph.cpp" line="28"/>
+      <location filename="../widgets/CallGraph.cpp" line="25"/>
+      <location filename="../widgets/CallGraph.cpp" line="30"/>
       <source>Callgraph</source>
       <translation>コールグラフ</translation>
     </message>
     <message>
-      <location filename="../widgets/CallGraph.cpp" line="28"/>
+      <location filename="../widgets/CallGraph.cpp" line="30"/>
       <source>GlobalCallgraph</source>
       <translation>グローバルコールグラフ</translation>
     </message>
@@ -1163,27 +1310,27 @@
   <context>
     <name>ClassesModel</name>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="19"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="21"/>
       <source>Name</source>
       <translation>名前</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="21"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="23"/>
       <source>Real Name</source>
       <translation>実名</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="23"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="25"/>
       <source>Type</source>
       <translation>型</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="25"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="27"/>
       <source>Offset</source>
       <translation>オフセット</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="27"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="29"/>
       <source>VTable</source>
       <translation>VTable</translation>
     </message>
@@ -1191,79 +1338,83 @@
   <context>
     <name>ClassesWidget</name>
     <message>
-      <location filename="../widgets/ClassesWidget.ui" line="79"/>
       <source>Source:</source>
       <translation>ソース:</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.ui" line="93"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="621"/>
       <source>Binary Info (Fixed)</source>
       <translation>バイナリ情報 (固定)</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.ui" line="98"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="622"/>
       <source>Analysis (Editable)</source>
       <translation>分析 (編集可能)</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.ui" line="109"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="599"/>
       <source>Seek to VTable</source>
       <translation>仮想関数テーブルにシークする</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.ui" line="114"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="600"/>
       <source>Edit Method</source>
       <translation>メソッドを編集</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.ui" line="119"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="601"/>
       <source>Add Method</source>
       <translation>メソッドを追加</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.ui" line="124"/>
-      <location filename="../widgets/ClassesWidget.cpp" line="751"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="602"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="789"/>
       <source>Create new Class</source>
       <translation>新しいクラスを作成</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.ui" line="129"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="603"/>
       <source>Rename Class</source>
       <translation>クラス名の変更</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.ui" line="134"/>
-      <location filename="../widgets/ClassesWidget.cpp" line="767"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="604"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="805"/>
       <source>Delete Class</source>
       <translation>クラスを削除</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="703"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="606"/>
+      <source>Classes</source>
+      <translation type="unfinished">Classes</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ClassesWidget.cpp" line="741"/>
       <source>Missing VTable in class</source>
       <translation>クラス内にVTableがありません</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="704"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="742"/>
       <source>The class %1 does not have any VTable!</source>
       <translation>クラス %1 にはVTableがありません！</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="751"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="789"/>
       <source>Class Name:</source>
       <translation>クラス名:</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="768"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="806"/>
       <source>Are you sure you want to delete the class %1?</source>
       <translation>クラス %1 を削除してもよろしいですか？</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="785"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="823"/>
       <source>Rename Class %1</source>
       <translation>クラス %1 の名前を変更</translation>
     </message>
     <message>
-      <location filename="../widgets/ClassesWidget.cpp" line="786"/>
+      <location filename="../widgets/ClassesWidget.cpp" line="824"/>
       <source>Class name:</source>
       <translation>クラス名:</translation>
     </message>
@@ -1484,12 +1635,12 @@
       <translation>コメント</translation>
     </message>
     <message>
-      <location filename="../dialogs/CommentsDialog.cpp" line="41"/>
+      <location filename="../dialogs/CommentsDialog.cpp" line="43"/>
       <source>Add Comment at %1</source>
       <translation>%1 にコメントを追加</translation>
     </message>
     <message>
-      <location filename="../dialogs/CommentsDialog.cpp" line="43"/>
+      <location filename="../dialogs/CommentsDialog.cpp" line="45"/>
       <source>Edit Comment at %1</source>
       <translation>%1 のコメントを編集</translation>
     </message>
@@ -1539,14 +1690,22 @@
   <context>
     <name>Configuration</name>
     <message>
-      <location filename="../common/Configuration.cpp" line="146"/>
       <source>Critical!</source>
       <translation>クリティカルエラー</translation>
     </message>
     <message>
-      <location filename="../common/Configuration.cpp" line="147"/>
       <source>!!! Settings are not writable! Make sure you have a write access to &quot;%1&quot;</source>
       <translation>!!! 書き込み可能な設定ではありません! &quot;%1&quot; への書き込み権限があることを確認してください</translation>
+    </message>
+    <message>
+      <location filename="../common/Configuration.cpp" line="146"/>
+      <source>Critical Error!</source>
+      <translation type="unfinished">Critical Error!</translation>
+    </message>
+    <message>
+      <location filename="../common/Configuration.cpp" line="147"/>
+      <source>Settings are not writable! Make sure you have a write access to &quot;%1&quot;.</source>
+      <translation type="unfinished">Settings are not writable! Make sure you have a write access to &quot;%1&quot;.</translation>
     </message>
   </context>
   <context>
@@ -1595,6 +1754,12 @@
   <context>
     <name>CutterCore</name>
     <message>
+      <location filename="../core/Cutter.cpp" line="274"/>
+      <location filename="../core/Cutter.cpp" line="287"/>
+      <source>Loading initialization file from </source>
+      <translation type="unfinished">Loading initialization file from </translation>
+    </message>
+    <message>
       <location filename="../core/Cutter.cpp" line="1057"/>
       <location filename="../core/Cutter.cpp" line="1066"/>
       <location filename="../core/Cutter.cpp" line="1071"/>
@@ -1631,56 +1796,84 @@ Please check the console for more details.</source>
       <translation>%1 署名を %2 に書き込みました。</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="1955"/>
+      <location filename="../core/Cutter.cpp" line="1987"/>
       <source>Starting native debug...</source>
       <translation>ネイティブデバッグを開始...</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2003"/>
+      <location filename="../core/Cutter.cpp" line="2035"/>
       <source>Starting emulation...</source>
       <translation>エミュレーションを開始...</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2066"/>
+      <location filename="../core/Cutter.cpp" line="2098"/>
       <source>Connecting to: </source>
       <translation>接続中:</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2111"/>
+      <location filename="../core/Cutter.cpp" line="2150"/>
       <source>Attaching to process (</source>
       <translation>プロセスにアタッチ (</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2565"/>
+      <location filename="../core/Cutter.cpp" line="2607"/>
       <source>Creating debug tracepoint...</source>
       <translation>デバッグトレースポイントを作成しています…</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2610"/>
+      <location filename="../core/Cutter.cpp" line="2652"/>
       <source>Stopping debug session...</source>
       <translation>デバッグセッションを停止しています…</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2645"/>
+      <location filename="../core/Cutter.cpp" line="2687"/>
       <source>Breakpoint error</source>
       <translation>ブレークポイントエラー</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2645"/>
+      <location filename="../core/Cutter.cpp" line="2687"/>
       <source>Failed to create breakpoint</source>
       <translation>ブレークポイントの作成に失敗しました</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="3596"/>
+      <location filename="../core/Cutter.cpp" line="3627"/>
       <source>Unknown (%1)</source>
       <translation>不明 (%1)</translation>
+    </message>
+    <message>
+      <location filename="../core/Cutter.cpp" line="4059"/>
+      <location filename="../core/Cutter.cpp" line="4088"/>
+      <source>Error parsing type: &quot;%1&quot; message: </source>
+      <translation type="unfinished">Error parsing type: &quot;%1&quot; message: </translation>
+    </message>
+    <message>
+      <location filename="../core/Cutter.cpp" line="4065"/>
+      <source>Error creating global variable: &quot;%1&quot;</source>
+      <translation type="unfinished">Error creating global variable: &quot;%1&quot;</translation>
+    </message>
+    <message>
+      <location filename="../core/Cutter.cpp" line="4658"/>
+      <location filename="../core/Cutter.cpp" line="4709"/>
+      <source>Cannot get global graph</source>
+      <translation type="unfinished">Cannot get global graph</translation>
+    </message>
+    <message>
+      <location filename="../core/Cutter.cpp" line="4660"/>
+      <location filename="../core/Cutter.cpp" line="4711"/>
+      <source>Cannot get graph at </source>
+      <translation type="unfinished">Cannot get graph at </translation>
+    </message>
+    <message>
+      <location filename="../core/Cutter.cpp" line="4691"/>
+      <source>Failed to generate graph</source>
+      <translation type="unfinished">Failed to generate graph</translation>
     </message>
   </context>
   <context>
     <name>CutterGraphView</name>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="30"/>
-      <location filename="../widgets/CutterGraphView.cpp" line="442"/>
+      <location filename="../widgets/CutterGraphView.cpp" line="440"/>
       <source>Export Graph</source>
       <translation>グラフをエクスポート</translation>
     </message>
@@ -1755,62 +1948,66 @@ Please check the console for more details.</source>
       <translation>SVG (*.svg)</translation>
     </message>
     <message>
-      <location filename="../widgets/CutterGraphView.cpp" line="417"/>
+      <location filename="../widgets/CutterGraphView.cpp" line="415"/>
       <source>Graphviz dot (*.dot)</source>
       <translation>Graphviz dot (*.dot)</translation>
     </message>
     <message>
-      <location filename="../widgets/CutterGraphView.cpp" line="418"/>
+      <location filename="../widgets/CutterGraphView.cpp" line="416"/>
       <source>Graph Modelling Language (*.gml)</source>
       <translation>グラフモデリング言語 (*.gml)</translation>
     </message>
     <message>
-      <location filename="../widgets/CutterGraphView.cpp" line="420"/>
+      <location filename="../widgets/CutterGraphView.cpp" line="418"/>
       <source>RZ JSON (*.json)</source>
       <translation>RZ JSON (*.json)</translation>
     </message>
     <message>
-      <location filename="../widgets/CutterGraphView.cpp" line="421"/>
       <source>SDB key-value (*.txt)</source>
       <translation>SDB キー - 値 (*.txt)</translation>
     </message>
     <message>
-      <location filename="../widgets/CutterGraphView.cpp" line="427"/>
+      <location filename="../widgets/CutterGraphView.cpp" line="424"/>
       <source>Graphviz json (*.json)</source>
       <translation>Graphviz json (*.json)</translation>
     </message>
     <message>
-      <location filename="../widgets/CutterGraphView.cpp" line="429"/>
+      <location filename="../widgets/CutterGraphView.cpp" line="426"/>
       <source>Graphviz gif (*.gif)</source>
       <translation>Graphviz gif (*.gif)</translation>
     </message>
     <message>
-      <location filename="../widgets/CutterGraphView.cpp" line="431"/>
+      <location filename="../widgets/CutterGraphView.cpp" line="428"/>
       <source>Graphviz png (*.png)</source>
       <translation>Graphviz png (*.png)</translation>
     </message>
     <message>
-      <location filename="../widgets/CutterGraphView.cpp" line="433"/>
+      <location filename="../widgets/CutterGraphView.cpp" line="430"/>
       <source>Graphviz jpg (*.jpg)</source>
       <translation>Graphviz jpg (*.jpg)</translation>
     </message>
     <message>
-      <location filename="../widgets/CutterGraphView.cpp" line="435"/>
+      <location filename="../widgets/CutterGraphView.cpp" line="432"/>
       <source>Graphviz PostScript (*.ps)</source>
       <translation>Graphviz PostScript (*.ps)</translation>
     </message>
     <message>
-      <location filename="../widgets/CutterGraphView.cpp" line="437"/>
+      <location filename="../widgets/CutterGraphView.cpp" line="434"/>
       <source>Graphviz svg (*.svg)</source>
       <translation>Graphviz svg (*.svg)</translation>
     </message>
     <message>
-      <location filename="../widgets/CutterGraphView.cpp" line="460"/>
+      <location filename="../widgets/CutterGraphView.cpp" line="436"/>
+      <source>Graphviz pdf (*.pdf)</source>
+      <translation type="unfinished">Graphviz pdf (*.pdf)</translation>
+    </message>
+    <message>
+      <location filename="../widgets/CutterGraphView.cpp" line="458"/>
       <source>Graph Export</source>
       <translation>グラフのエクスポート</translation>
     </message>
     <message>
-      <location filename="../widgets/CutterGraphView.cpp" line="461"/>
+      <location filename="../widgets/CutterGraphView.cpp" line="459"/>
       <source>Do you really want to export %1 x %2 = %3 pixel bitmap image? Consider using different format.</source>
       <translation>%1 x %2 = %3 ピクセルビットマップ画像をエクスポートしますか？別のフォーマットをお勧めします。</translation>
     </message>
@@ -2010,6 +2207,7 @@ Please check the console for more details.</source>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="993"/>
+      <location filename="../widgets/Dashboard.cpp" line="176"/>
       <source>Certificates</source>
       <translation>証明書</translation>
     </message>
@@ -2533,7 +2731,7 @@ Please check the console for more details.</source>
     <name>DecompilerWidget</name>
     <message>
       <location filename="../widgets/DecompilerWidget.ui" line="14"/>
-      <location filename="../widgets/DecompilerWidget.cpp" line="475"/>
+      <location filename="../widgets/DecompilerWidget.cpp" line="483"/>
       <source>Decompiler</source>
       <translation>デコンパイラ</translation>
     </message>
@@ -2548,12 +2746,12 @@ Please check the console for more details.</source>
       <translation>デコンパイラ:</translation>
     </message>
     <message>
-      <location filename="../widgets/DecompilerWidget.cpp" line="33"/>
+      <location filename="../widgets/DecompilerWidget.cpp" line="32"/>
       <source>Choose an offset and refresh to get decompiled code</source>
       <translation>オフセットを選択して更新し、逆コンパイルされたコードを取得します</translation>
     </message>
     <message>
-      <location filename="../widgets/DecompilerWidget.cpp" line="69"/>
+      <location filename="../widgets/DecompilerWidget.cpp" line="68"/>
       <source>No Decompiler available.</source>
       <translation>デコンパイラは利用できません。</translation>
     </message>
@@ -2563,7 +2761,7 @@ Please check the console for more details.</source>
       <translation>このオフセットには関数が見つかりませんでした。関数にシークするか、逆コンパイルするための関数を定義してください。</translation>
     </message>
     <message>
-      <location filename="../widgets/DecompilerWidget.cpp" line="332"/>
+      <location filename="../widgets/DecompilerWidget.cpp" line="325"/>
       <source>Cannot decompile at this address (Not a function?)</source>
       <translation>このアドレスをデコンパイルできません。(関数ではない？)</translation>
     </message>
@@ -2571,32 +2769,32 @@ Please check the console for more details.</source>
   <context>
     <name>DisassemblerGraphView</name>
     <message>
-      <location filename="../widgets/DisassemblerGraphView.cpp" line="97"/>
+      <location filename="../widgets/DisassemblerGraphView.cpp" line="98"/>
       <source>Highlight block</source>
       <translation>ブロックをハイライト</translation>
     </message>
     <message>
-      <location filename="../widgets/DisassemblerGraphView.cpp" line="115"/>
+      <location filename="../widgets/DisassemblerGraphView.cpp" line="116"/>
       <source>Unhighlight block</source>
       <translation>ブロックのハイライトを解除</translation>
     </message>
     <message>
-      <location filename="../widgets/DisassemblerGraphView.cpp" line="125"/>
+      <location filename="../widgets/DisassemblerGraphView.cpp" line="126"/>
       <source>Highlight instruction</source>
       <translation>命令をハイライト</translation>
     </message>
     <message>
-      <location filename="../widgets/DisassemblerGraphView.cpp" line="129"/>
+      <location filename="../widgets/DisassemblerGraphView.cpp" line="130"/>
       <source>Unhighlight instruction</source>
       <translation>命令のハイライトを解除</translation>
     </message>
     <message>
-      <location filename="../widgets/DisassemblerGraphView.cpp" line="195"/>
+      <location filename="../widgets/DisassemblerGraphView.cpp" line="196"/>
       <source>Graph</source>
       <translation>グラフ</translation>
     </message>
     <message>
-      <location filename="../widgets/DisassemblerGraphView.cpp" line="209"/>
+      <location filename="../widgets/DisassemblerGraphView.cpp" line="211"/>
       <source>No function detected. Cannot display graph.</source>
       <translation>関数が見つかりません。グラフを表示できません。</translation>
     </message>
@@ -2604,59 +2802,64 @@ Please check the console for more details.</source>
   <context>
     <name>DisassemblyContextMenu</name>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="70"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="72"/>
       <source>Copy</source>
       <translation>コピー</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="73"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="75"/>
       <source>Copy address</source>
       <translation>アドレスをコピー</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="77"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="79"/>
       <source>Show in</source>
       <translation>次に表示する</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="82"/>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="548"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="84"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="570"/>
       <source>Add Comment</source>
       <translation>コメントを追加</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="86"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="171"/>
+      <source>Add at...</source>
+      <translation type="unfinished">Add at...</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="173"/>
       <source>Rename or add flag</source>
       <translation>フラグ名を変更またはフラグを追加</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="90"/>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="865"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="88"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="911"/>
       <source>Re-type Local Variables</source>
       <translation>ローカル変数の型を変更</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="94"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="92"/>
       <source>Edit function</source>
       <translation>関数の編集</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="98"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="96"/>
       <source>Delete comment</source>
       <translation>コメントを削除</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="102"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="100"/>
       <source>Delete flag</source>
       <translation>フラグを削除</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="105"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="103"/>
       <source>Undefine function</source>
       <translation>関数の定義を解除</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="109"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="107"/>
       <source>Define function here</source>
       <translation>ここで関数を定義</translation>
     </message>
@@ -2681,254 +2884,268 @@ Please check the console for more details.</source>
       <translation>オプションを表示</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="166"/>
       <source>Set Immediate Base to...</source>
       <translation>即値の基数を次に設定...</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="168"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="177"/>
+      <source>Modify or add global variable</source>
+      <translation type="unfinished">Modify or add global variable</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="184"/>
+      <source>Set base of immediate value to..</source>
+      <translation type="unfinished">Set base of immediate value to..</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="186"/>
       <source>Binary</source>
       <translation>バイナリ</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="172"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="190"/>
       <source>Octal</source>
       <translation>オクタル</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="176"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="194"/>
       <source>Decimal</source>
       <translation>デシマル</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="180"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="198"/>
       <source>Hexadecimal</source>
       <translation>16進</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="184"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="202"/>
       <source>Network Port</source>
       <translation>ネットワークポート</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="188"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="206"/>
       <source>IP Address</source>
       <translation>IPアドレス</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="192"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="210"/>
       <source>Syscall</source>
       <translation>システムコール</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="196"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="214"/>
       <source>String</source>
       <translation>文字列</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="203"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="221"/>
       <source>Set current bits to...</source>
       <translation>現在のビットを次に設定…</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="220"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="238"/>
       <source>Set as...</source>
       <translation>次として設定...</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="222"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="240"/>
       <source>Code</source>
       <translation>コード</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="226"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="244"/>
       <source>String...</source>
       <translation>文字列...</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="228"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="246"/>
       <source>Auto-detect</source>
       <translation>自動検出</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="230"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="248"/>
       <source>Remove</source>
       <translation>削除</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="232"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="250"/>
       <source>Advanced</source>
       <translation>高度なメニュー</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="244"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="262"/>
       <source>Data...</source>
       <translation>データ...</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="246"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="264"/>
       <source>Byte</source>
       <translation>バイト</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="250"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="268"/>
       <source>Word</source>
       <translation>ワード</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="254"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="272"/>
       <source>Dword</source>
       <translation>Dword</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="258"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="276"/>
       <source>Qword</source>
       <translation>Qword</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="273"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="291"/>
       <source>Edit</source>
       <translation>編集</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="275"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="293"/>
       <source>Instruction</source>
       <translation>命令</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="279"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="297"/>
       <source>Nop Instruction</source>
       <translation>nop命令</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="283"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="301"/>
       <source>Bytes</source>
       <translation>バイト列</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="286"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="304"/>
       <source>Reverse Jump</source>
       <translation>逆ジャンプ</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="292"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="310"/>
       <source>Breakpoint</source>
       <translation>ブレークポイント</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="294"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="312"/>
       <source>Add/remove breakpoint</source>
       <translation>ブレークポイントの追加/削除</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="297"/>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="586"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="315"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="608"/>
       <source>Advanced breakpoint</source>
       <translation>高度なブレークポイント</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="304"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="322"/>
       <source>Debug</source>
       <translation>デバッグ</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="306"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="324"/>
       <source>Continue until line</source>
       <translation>行まで続ける</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="407"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="424"/>
       <source>Add flag at %1 (used here)</source>
       <translation>%1 にフラグを追加 (ここで使用)</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="412"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="429"/>
       <source>Rename &quot;%1&quot;</source>
       <translation>名前を変更 &quot;%1&quot;</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="417"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="434"/>
       <source>Rename local &quot;%1&quot;</source>
       <translation>ローカル &quot;%1&quot; の名前を変更</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="422"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="439"/>
       <source>Rename flag &quot;%1&quot; (used here)</source>
       <translation>フラグ &quot;%1&quot; の名前を変更 (ここで使用)</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="551"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="497"/>
+      <source>Add or change global variable at %1 (used here)</source>
+      <translation type="unfinished">Add or change global variable at %1 (used here)</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="573"/>
       <source>Edit Comment</source>
       <translation>コメントを編集</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="567"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="589"/>
       <source>Edit function &quot;%1&quot;</source>
       <translation>関数を編集 &quot;%1&quot;</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="584"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="606"/>
       <source>Remove breakpoint</source>
       <translation>ブレークポイントを削除</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="584"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="606"/>
       <source>Add breakpoint</source>
       <translation>ブレークポイントを追加</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="585"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="607"/>
       <source>Edit breakpoint</source>
       <translation>ブレークポイントを編集</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="600"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="622"/>
       <source>X-Refs for %1</source>
       <translation>%1 の相互参照</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="695"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="722"/>
       <source>Edit Instruction at %1</source>
       <translation>%1の命令を編集</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="745"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="772"/>
       <source>Edit Bytes at %1</source>
       <translation>%1 のバイト列を編集</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="816"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="843"/>
       <source>New function at %1</source>
       <translation>%1 に新規関数を作成</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="817"/>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="831"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="844"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="865"/>
       <source>Function name:</source>
       <translation>関数名:</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="830"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="864"/>
       <source>Rename function %2</source>
       <translation>%2 関数の名前を変更</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="866"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="912"/>
       <source>You must be in a function to define variable types.</source>
       <translation>変数型を定義するには関数内である必要があります。</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="928"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="974"/>
       <source>Wrong address</source>
       <translation>アドレスが間違っています</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="929"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="975"/>
       <source>Can&apos;t edit string at this address</source>
       <translation>このアドレスでは文字列を編集できません。</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="1001"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="1047"/>
       <source>Edit function %1</source>
       <translation>関数 %1 を編集</translation>
     </message>
@@ -2936,7 +3153,7 @@ Please check the console for more details.</source>
   <context>
     <name>DisassemblyWidget</name>
     <message>
-      <location filename="../widgets/DisassemblyWidget.cpp" line="658"/>
+      <location filename="../widgets/DisassemblyWidget.cpp" line="674"/>
       <source>Disassembly</source>
       <translation>逆アセンブリ</translation>
     </message>
@@ -3370,68 +3587,68 @@ Please check the console for more details.</source>
       <translation>コメント: %1</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="266"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="265"/>
       <source>&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;Disassembly preview&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</source>
       <translation>&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;逆アセンブルプレビュー&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="271"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="270"/>
       <source>&lt;div&gt;&lt;strong&gt;Highlights&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</source>
       <translation>&lt;div&gt;&lt;strong&gt;ハイライト&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="306"/>
-      <location filename="../widgets/FunctionsWidget.cpp" line="310"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="305"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="309"/>
       <source>Name</source>
       <translation>名前</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="312"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="311"/>
       <source>Size</source>
       <translation>サイズ</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="314"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="313"/>
       <source>Imp.</source>
       <translation>Imp.</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="316"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="315"/>
       <source>Offset</source>
       <translation>オフセット</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="318"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="317"/>
       <source>Nargs</source>
       <translation>Nargs</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="320"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="319"/>
       <source>Nlocals</source>
       <translation>Nlocals</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="322"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="321"/>
       <source>Nbbs</source>
       <translation>Nbbs</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="324"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="323"/>
       <source>Call type</source>
       <translation>関数コールタイプ</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="326"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="325"/>
       <source>Edges</source>
       <translation>エッジ</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="328"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="327"/>
       <source>StackFrame</source>
       <translation>スタックフレーム</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="330"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="329"/>
       <source>Comment</source>
       <translation>コメント</translation>
     </message>
@@ -3447,27 +3664,27 @@ Please check the console for more details.</source>
   <context>
     <name>FunctionsWidget</name>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="491"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="490"/>
       <source>Rename</source>
       <translation>名前の変更</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="492"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="491"/>
       <source>Undefine</source>
       <translation>定義を解除</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="493"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="492"/>
       <source>Horizontal</source>
       <translation>横表示</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="494"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="493"/>
       <source>Vertical</source>
       <translation>縦表示</translation>
     </message>
     <message>
-      <location filename="../widgets/FunctionsWidget.cpp" line="496"/>
+      <location filename="../widgets/FunctionsWidget.cpp" line="495"/>
       <source>Functions</source>
       <translation>関数</translation>
     </message>
@@ -3700,6 +3917,94 @@ Please check the console for more details.</source>
     </message>
   </context>
   <context>
+    <name>GlobalVariableDialog</name>
+    <message>
+      <location filename="../dialogs/GlobalVariableDialog.ui" line="14"/>
+      <source>Add Global Variable</source>
+      <translation type="unfinished">Add Global Variable</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlobalVariableDialog.ui" line="20"/>
+      <source>Add global variable at</source>
+      <translation type="unfinished">Add global variable at</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlobalVariableDialog.ui" line="38"/>
+      <source>Name:</source>
+      <translation type="unfinished">Name:</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlobalVariableDialog.ui" line="61"/>
+      <source>int</source>
+      <translation type="unfinished">int</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlobalVariableDialog.ui" line="80"/>
+      <source>Type:</source>
+      <translation type="unfinished">Type:</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlobalVariableDialog.cpp" line="28"/>
+      <source>Edit global variable at %1</source>
+      <translation type="unfinished">Edit global variable at %1</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/GlobalVariableDialog.cpp" line="30"/>
+      <source>Add global variable at %1</source>
+      <translation type="unfinished">Add global variable at %1</translation>
+    </message>
+  </context>
+  <context>
+    <name>GlobalsModel</name>
+    <message>
+      <location filename="../widgets/GlobalsWidget.cpp" line="60"/>
+      <source>Address</source>
+      <translation type="unfinished">Address</translation>
+    </message>
+    <message>
+      <location filename="../widgets/GlobalsWidget.cpp" line="62"/>
+      <source>Type</source>
+      <translation type="unfinished">Type</translation>
+    </message>
+    <message>
+      <location filename="../widgets/GlobalsWidget.cpp" line="64"/>
+      <source>Name</source>
+      <translation type="unfinished">Name</translation>
+    </message>
+    <message>
+      <location filename="../widgets/GlobalsWidget.cpp" line="66"/>
+      <source>Comment</source>
+      <translation type="unfinished">Comment</translation>
+    </message>
+  </context>
+  <context>
+    <name>GlobalsWidget</name>
+    <message>
+      <location filename="../widgets/GlobalsWidget.ui" line="76"/>
+      <location filename="../widgets/GlobalsWidget.ui" line="79"/>
+      <location filename="../widgets/GlobalsWidget.cpp" line="206"/>
+      <source>Edit Global Variable</source>
+      <translation type="unfinished">Edit Global Variable</translation>
+    </message>
+    <message>
+      <location filename="../widgets/GlobalsWidget.ui" line="84"/>
+      <location filename="../widgets/GlobalsWidget.ui" line="87"/>
+      <location filename="../widgets/GlobalsWidget.cpp" line="207"/>
+      <source>Delete Global Variable</source>
+      <translation type="unfinished">Delete Global Variable</translation>
+    </message>
+    <message>
+      <location filename="../widgets/GlobalsWidget.cpp" line="167"/>
+      <source>Category</source>
+      <translation type="unfinished">Category</translation>
+    </message>
+    <message>
+      <location filename="../widgets/GlobalsWidget.cpp" line="169"/>
+      <source>Globals</source>
+      <translation type="unfinished">Globals</translation>
+    </message>
+  </context>
+  <context>
     <name>GraphOptionsWidget</name>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="14"/>
@@ -3794,6 +4099,14 @@ Please check the console for more details.</source>
     </message>
   </context>
   <context>
+    <name>GraphView</name>
+    <message>
+      <location filename="../widgets/GraphView.cpp" line="441"/>
+      <source>Cutter graph export</source>
+      <translation type="unfinished">Cutter graph export</translation>
+    </message>
+  </context>
+  <context>
     <name>HeadersModel</name>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="55"/>
@@ -3832,13 +4145,13 @@ Please check the console for more details.</source>
       <translation>詳細なチャンク情報</translation>
     </message>
     <message>
-      <location filename="../widgets/HeapBinsGraphView.cpp" line="80"/>
-      <location filename="../widgets/HeapBinsGraphView.cpp" line="122"/>
+      <location filename="../widgets/HeapBinsGraphView.cpp" line="79"/>
+      <location filename="../widgets/HeapBinsGraphView.cpp" line="121"/>
       <source>bin </source>
       <translation>bin</translation>
     </message>
     <message>
-      <location filename="../widgets/HeapBinsGraphView.cpp" line="122"/>
+      <location filename="../widgets/HeapBinsGraphView.cpp" line="121"/>
       <source> @ </source>
       <translation> @ </translation>
     </message>
@@ -3948,6 +4261,10 @@ Please check the console for more details.</source>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="163"/>
+      <source>Write a decoded or encoded Base64 string</source>
+      <translation type="unfinished">Write a decoded or encoded Base64 string</translation>
+    </message>
+    <message>
       <source>Write De\Encoded Base64 string</source>
       <translation>デコードまたはエンコードされた Base64 文字列の書き込み</translation>
     </message>
@@ -3965,6 +4282,7 @@ Please check the console for more details.</source>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="176"/>
+      <location filename="../widgets/HexWidget.cpp" line="1410"/>
       <source>Write random bytes</source>
       <translation>ランダムバイトの書き込み</translation>
     </message>
@@ -4034,7 +4352,6 @@ Please, make sure, that it is a valid base64 string and try again.</source>
 有効な base64 文字列であることを確認して、もう一度やり直してください。</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1410"/>
       <source>Write random</source>
       <translation>ランダムなバイトの書き込み</translation>
     </message>
@@ -4196,47 +4513,46 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <translation>C バイト</translation>
     </message>
     <message>
-      <location filename="../widgets/HexdumpWidget.cpp" line="147"/>
       <source>C bytes with instructions</source>
       <translation>命令付きの C バイト</translation>
     </message>
     <message>
-      <location filename="../widgets/HexdumpWidget.cpp" line="148"/>
+      <location filename="../widgets/HexdumpWidget.cpp" line="147"/>
       <source>C half-words (2 byte)</source>
       <translation>C half-words (2 byte)</translation>
     </message>
     <message>
-      <location filename="../widgets/HexdumpWidget.cpp" line="149"/>
+      <location filename="../widgets/HexdumpWidget.cpp" line="148"/>
       <source>C words (4 byte)</source>
       <translation>C words (4 byte)</translation>
     </message>
     <message>
-      <location filename="../widgets/HexdumpWidget.cpp" line="150"/>
+      <location filename="../widgets/HexdumpWidget.cpp" line="149"/>
       <source>C dwords (8 byte)</source>
       <translation>C dwords (8 byte)</translation>
     </message>
     <message>
-      <location filename="../widgets/HexdumpWidget.cpp" line="151"/>
+      <location filename="../widgets/HexdumpWidget.cpp" line="150"/>
       <source>Python</source>
       <translation>Python</translation>
     </message>
     <message>
-      <location filename="../widgets/HexdumpWidget.cpp" line="152"/>
+      <location filename="../widgets/HexdumpWidget.cpp" line="151"/>
       <source>JSON</source>
       <translation>JSON</translation>
     </message>
     <message>
-      <location filename="../widgets/HexdumpWidget.cpp" line="153"/>
+      <location filename="../widgets/HexdumpWidget.cpp" line="152"/>
       <source>JavaScript</source>
       <translation>JavaScript</translation>
     </message>
     <message>
-      <location filename="../widgets/HexdumpWidget.cpp" line="154"/>
+      <location filename="../widgets/HexdumpWidget.cpp" line="153"/>
       <source>Yara</source>
       <translation>Yara</translation>
     </message>
     <message>
-      <location filename="../widgets/HexdumpWidget.cpp" line="219"/>
+      <location filename="../widgets/HexdumpWidget.cpp" line="218"/>
       <source>Hexdump</source>
       <translation>16進ダンプ</translation>
     </message>
@@ -4349,7 +4665,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="167"/>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="363"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="413"/>
       <source>Analysis: Enabled</source>
       <translation>分析: 有効</translation>
     </message>
@@ -4370,18 +4686,22 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="763"/>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="808"/>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="833"/>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="37"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="38"/>
       <source>Auto</source>
       <translation>自動</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.ui" line="326"/>
       <source>Auto Exp</source>
       <translation>実験的</translation>
     </message>
     <message>
+      <location filename="../dialogs/InitialOptionsDialog.ui" line="326"/>
+      <source>Experimental</source>
+      <translation type="unfinished">Experimental</translation>
+    </message>
+    <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="364"/>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="349"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="399"/>
       <source>Advanced</source>
       <translation>詳細</translation>
     </message>
@@ -4532,133 +4852,133 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <translation>  OK  </translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="55"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="56"/>
       <source>Analyze all symbols</source>
       <translation>全てのシンボルを解析する</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="56"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="57"/>
       <source>Analyze instructions for references</source>
       <translation>参照のために命令を解析する</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="57"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="58"/>
       <source>Analyze function calls</source>
       <translation>関数コールを解析</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="58"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="59"/>
       <source>Analyze all basic blocks</source>
       <translation>すべてのベーシックブロックを解析する</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="59"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="60"/>
       <source>Analyze all objc references</source>
       <translation>すべての objc 参照を分析</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="60"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="61"/>
       <source>Recover class information from RTTI</source>
       <translation>RTTIからクラス情報を復元する</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="61"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="62"/>
       <source>Autoname functions based on context</source>
       <translation>コンテキストに基づき関数名を自動で設定</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="62"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="63"/>
       <source>Emulate code to find computed references</source>
       <translation>計算された参照を見つけるためにコードをエミュレート</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="63"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="64"/>
       <source>Analyze all consecutive functions</source>
       <translation>連続関数をすべて分析</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="64"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="65"/>
       <source>Type and Argument matching analysis</source>
       <translation>型と引数のマッチング解析</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="65"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="66"/>
       <source>Analyze code after trap-sleds</source>
       <translation>trap-sleds の後のコードを分析</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="66"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="67"/>
       <source>Analyze function preludes</source>
       <translation>関数のプレリュードを分析</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="67"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="68"/>
       <source>Analyze jump tables in switch statements</source>
       <translation>switch 文でジャンプテーブルを分析</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="70"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="71"/>
       <source>Analyze PUSH+RET as JMP</source>
       <translation>PUSH+RET を JMP として分析</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="71"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="72"/>
       <source>Continue analysis after each function</source>
       <translation>各関数の後に解析を続行</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="343"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="393"/>
       <source>No analysis</source>
       <translation>分析なし</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="345"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="395"/>
       <source>Auto-Analysis (aaa)</source>
       <translation>自動分析 (aaa)</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="347"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="397"/>
       <source>Auto-Analysis Experimental (aaaa)</source>
       <translation>自動分析実験的 (aaaaa)</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="351"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="401"/>
       <source>Unknown</source>
       <translation>不明</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="357"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="407"/>
       <source>Level</source>
       <translation>レベル</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="360"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="410"/>
       <source>Analysis: Disabled</source>
       <translation>分析: 無効</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="406"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="456"/>
       <source>Select PDB file</source>
       <translation>PDBファイルを選択</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="407"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="457"/>
       <source>PDB file (*.pdb)</source>
       <translation>PDB ファイル (*.pdb)</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="407"/>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="429"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="457"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="479"/>
       <source>All files (*)</source>
       <translation>すべてのファイル (*)</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="428"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="478"/>
       <source>Select Rizin script file</source>
       <translation>Rizin スクリプトファイルを選択</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="429"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="479"/>
       <source>Script file (*.rz)</source>
       <translation>スクリプトファイル (*.rz)</translation>
     </message>
@@ -4752,7 +5072,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="97"/>
-      <location filename="../core/MainWindow.cpp" line="289"/>
+      <location filename="../core/MainWindow.cpp" line="293"/>
       <source>View</source>
       <translation>表示</translation>
     </message>
@@ -4768,689 +5088,704 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="133"/>
+      <source>Tools</source>
+      <translation type="unfinished">Tools</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.ui" line="139"/>
       <source>Help</source>
       <translation>ヘルプ</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="141"/>
-      <location filename="../core/MainWindow.ui" line="501"/>
+      <location filename="../core/MainWindow.ui" line="147"/>
+      <location filename="../core/MainWindow.ui" line="513"/>
       <source>Edit</source>
       <translation>編集</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="150"/>
+      <location filename="../core/MainWindow.ui" line="156"/>
       <source>Windows</source>
       <translation>ウィンドウ</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="154"/>
-      <location filename="../core/MainWindow.cpp" line="143"/>
-      <location filename="../core/MainWindow.cpp" line="144"/>
+      <location filename="../core/MainWindow.ui" line="160"/>
+      <location filename="../core/MainWindow.cpp" line="147"/>
+      <location filename="../core/MainWindow.cpp" line="148"/>
       <source>Plugins</source>
       <translation>プラグイン</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="159"/>
+      <location filename="../core/MainWindow.ui" line="165"/>
       <source>Info...</source>
       <translation>情報...</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="164"/>
+      <location filename="../core/MainWindow.ui" line="170"/>
       <source>Debug...</source>
       <translation>デバッグ...</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="179"/>
+      <location filename="../core/MainWindow.ui" line="185"/>
       <source>Debug</source>
       <translation>デバッグ</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="225"/>
+      <location filename="../core/MainWindow.ui" line="232"/>
       <source>Reset to default layout</source>
       <translation>デフォルトのレイアウトに戻す</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="230"/>
+      <location filename="../core/MainWindow.ui" line="237"/>
       <source>Zen Mode</source>
       <translation>Zenモード</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="233"/>
+      <location filename="../core/MainWindow.ui" line="240"/>
       <source>Zen mode</source>
       <translation>Zenモード</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="238"/>
+      <location filename="../core/MainWindow.ui" line="245"/>
+      <source>BaseFind</source>
+      <translation type="unfinished">BaseFind</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.ui" line="250"/>
       <source>About</source>
       <translation>アプリについて</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="243"/>
+      <location filename="../core/MainWindow.ui" line="255"/>
       <source>Report an issue</source>
       <translation>問題を報告</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="248"/>
+      <location filename="../core/MainWindow.ui" line="260"/>
       <source>New Window</source>
       <translation>新しいウィンドウ</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="251"/>
+      <location filename="../core/MainWindow.ui" line="263"/>
       <source>Ctrl+N</source>
       <translation>Ctrl+N</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="256"/>
+      <location filename="../core/MainWindow.ui" line="268"/>
       <source>Close</source>
       <translation>終了</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="261"/>
-      <location filename="../core/MainWindow.ui" line="264"/>
-      <location filename="../core/MainWindow.ui" line="860"/>
-      <location filename="../core/MainWindow.cpp" line="1237"/>
+      <location filename="../core/MainWindow.ui" line="273"/>
+      <location filename="../core/MainWindow.ui" line="276"/>
+      <location filename="../core/MainWindow.ui" line="872"/>
+      <location filename="../core/MainWindow.cpp" line="1243"/>
       <source>Save layout</source>
       <translation>レイアウトを保存</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="269"/>
+      <location filename="../core/MainWindow.ui" line="281"/>
       <source>Documentation</source>
       <translation>ドキュメント</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="274"/>
+      <location filename="../core/MainWindow.ui" line="286"/>
       <source>Map File</source>
       <translation>マップファイル</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="277"/>
+      <location filename="../core/MainWindow.ui" line="289"/>
       <source>Ctrl+M</source>
       <translation>Ctrl+M</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="282"/>
-      <location filename="../core/MainWindow.cpp" line="723"/>
-      <location filename="../core/MainWindow.cpp" line="746"/>
+      <location filename="../core/MainWindow.ui" line="294"/>
+      <location filename="../core/MainWindow.cpp" line="728"/>
+      <location filename="../core/MainWindow.cpp" line="751"/>
       <source>Save Project</source>
       <translation>プロジェクトを保存</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="285"/>
+      <location filename="../core/MainWindow.ui" line="297"/>
       <source>Ctrl+S</source>
       <translation>Ctrl+S</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="290"/>
+      <location filename="../core/MainWindow.ui" line="302"/>
       <source>Cut</source>
       <translation>切り取る</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="295"/>
+      <location filename="../core/MainWindow.ui" line="307"/>
       <source>Copy</source>
       <translation>コピー</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="300"/>
-      <location filename="../core/MainWindow.ui" line="506"/>
+      <location filename="../core/MainWindow.ui" line="312"/>
+      <location filename="../core/MainWindow.ui" line="518"/>
       <source>Paste</source>
       <translation>ペースト</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="305"/>
+      <location filename="../core/MainWindow.ui" line="317"/>
       <source>Delete</source>
       <translation>削除</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="310"/>
-      <location filename="../core/MainWindow.ui" line="313"/>
+      <location filename="../core/MainWindow.ui" line="322"/>
+      <location filename="../core/MainWindow.ui" line="325"/>
       <source>Select all</source>
       <translation>すべて選択</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="318"/>
+      <location filename="../core/MainWindow.ui" line="330"/>
       <source>Find</source>
       <translation>検索</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="323"/>
-      <location filename="../core/MainWindow.ui" line="326"/>
+      <location filename="../core/MainWindow.ui" line="335"/>
+      <location filename="../core/MainWindow.ui" line="338"/>
       <source>Find next</source>
       <translation>次を検索</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="331"/>
-      <location filename="../core/MainWindow.ui" line="334"/>
+      <location filename="../core/MainWindow.ui" line="343"/>
+      <location filename="../core/MainWindow.ui" line="346"/>
       <source>Find previous</source>
       <translation>前を検索</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="343"/>
+      <location filename="../core/MainWindow.ui" line="355"/>
       <source>Undo Seek</source>
       <translation>シークを元に戻す</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="346"/>
+      <location filename="../core/MainWindow.ui" line="358"/>
       <source>Go back</source>
       <translation>戻る</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="355"/>
+      <location filename="../core/MainWindow.ui" line="367"/>
       <source>Redo Seek</source>
       <translation>シークをリドゥーする</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="366"/>
+      <location filename="../core/MainWindow.ui" line="378"/>
       <source>Unlock Panels</source>
       <translation>パネルをアンロック</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="369"/>
+      <location filename="../core/MainWindow.ui" line="381"/>
       <source>Toggle panel locks</source>
       <translation>パネルロックの切り替え</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="388"/>
+      <location filename="../core/MainWindow.ui" line="400"/>
       <source>Theme</source>
       <translation>テーマ</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="403"/>
-      <location filename="../core/MainWindow.ui" line="406"/>
+      <location filename="../core/MainWindow.ui" line="415"/>
+      <location filename="../core/MainWindow.ui" line="418"/>
       <source>Tabs up/down</source>
       <translation>タブの上下移動</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="415"/>
+      <location filename="../core/MainWindow.ui" line="427"/>
       <source>Refresh</source>
       <translation>更新</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="423"/>
+      <location filename="../core/MainWindow.ui" line="435"/>
       <source>Show Tabs at the Top</source>
       <translation>上部にタブを表示</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="426"/>
+      <location filename="../core/MainWindow.ui" line="438"/>
       <source>Toggle tab position</source>
       <translation>タブの位置を切り替える</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="431"/>
+      <location filename="../core/MainWindow.ui" line="443"/>
       <source>Dark Theme</source>
       <translation>ダークテーマ</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="436"/>
-      <location filename="../core/MainWindow.ui" line="439"/>
+      <location filename="../core/MainWindow.ui" line="448"/>
+      <location filename="../core/MainWindow.ui" line="451"/>
       <source>Load layout</source>
       <translation>レイアウトをロード</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="444"/>
+      <location filename="../core/MainWindow.ui" line="456"/>
       <source>Default Theme</source>
       <translation>デフォルトテーマ</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="449"/>
+      <location filename="../core/MainWindow.ui" line="461"/>
       <source>Bindiff</source>
       <translation>Bindiff</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="454"/>
+      <location filename="../core/MainWindow.ui" line="466"/>
       <source>Analysis</source>
       <translation>解析</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="459"/>
+      <location filename="../core/MainWindow.ui" line="471"/>
       <source>Test menu</source>
       <translation>テストメニュー</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="464"/>
-      <location filename="../core/MainWindow.ui" line="467"/>
+      <location filename="../core/MainWindow.ui" line="476"/>
+      <location filename="../core/MainWindow.ui" line="479"/>
       <source>Copy hexpair</source>
       <translation>hexpairをコピー</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="472"/>
-      <location filename="../core/MainWindow.ui" line="475"/>
+      <location filename="../core/MainWindow.ui" line="484"/>
+      <location filename="../core/MainWindow.ui" line="487"/>
       <source>Copy text</source>
       <translation>テキストをコピー</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="480"/>
+      <location filename="../core/MainWindow.ui" line="492"/>
       <source>Copy ASCII</source>
       <translation>ASCII文字をコピー</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="485"/>
-      <location filename="../core/MainWindow.ui" line="488"/>
+      <location filename="../core/MainWindow.ui" line="497"/>
+      <location filename="../core/MainWindow.ui" line="500"/>
       <source>Insert string</source>
       <translation>文字列を挿入</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="493"/>
-      <location filename="../core/MainWindow.ui" line="496"/>
+      <location filename="../core/MainWindow.ui" line="505"/>
+      <location filename="../core/MainWindow.ui" line="508"/>
       <source>Insert hex</source>
       <translation>16 進数を挿入</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="511"/>
+      <location filename="../core/MainWindow.ui" line="523"/>
       <source>Show/Hide bytes</source>
       <translation>バイトの表示/非表示</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="516"/>
+      <location filename="../core/MainWindow.ui" line="528"/>
       <source>Switch case</source>
       <translation>Switch case</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="521"/>
-      <location filename="../core/MainWindow.ui" line="524"/>
+      <location filename="../core/MainWindow.ui" line="533"/>
+      <location filename="../core/MainWindow.ui" line="536"/>
       <source>Copy all</source>
       <translation>すべてコピー</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="529"/>
-      <location filename="../core/MainWindow.ui" line="532"/>
+      <location filename="../core/MainWindow.ui" line="541"/>
+      <location filename="../core/MainWindow.ui" line="544"/>
       <source>Copy bytes</source>
       <translation>バイト列をコピー</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="537"/>
-      <location filename="../core/MainWindow.ui" line="540"/>
-      <location filename="../core/MainWindow.ui" line="545"/>
-      <location filename="../core/MainWindow.ui" line="548"/>
+      <location filename="../core/MainWindow.ui" line="549"/>
+      <location filename="../core/MainWindow.ui" line="552"/>
+      <location filename="../core/MainWindow.ui" line="557"/>
+      <location filename="../core/MainWindow.ui" line="560"/>
       <source>Copy disasm</source>
       <translation>disasmをコピー</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="560"/>
-      <location filename="../core/MainWindow.ui" line="563"/>
+      <location filename="../core/MainWindow.ui" line="572"/>
+      <location filename="../core/MainWindow.ui" line="575"/>
       <source>Start web server</source>
       <translation>Webサーバーを起動</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="568"/>
+      <location filename="../core/MainWindow.ui" line="580"/>
       <source>1</source>
       <translation>1</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="573"/>
+      <location filename="../core/MainWindow.ui" line="585"/>
       <source>2</source>
       <translation>2</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="578"/>
+      <location filename="../core/MainWindow.ui" line="590"/>
       <source>4</source>
       <translation>4</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="583"/>
+      <location filename="../core/MainWindow.ui" line="595"/>
       <source>8</source>
       <translation>8</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="588"/>
+      <location filename="../core/MainWindow.ui" line="600"/>
       <source>16</source>
       <translation>16</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="593"/>
+      <location filename="../core/MainWindow.ui" line="605"/>
       <source>32</source>
       <translation>32</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="598"/>
+      <location filename="../core/MainWindow.ui" line="610"/>
       <source>64</source>
       <translation>64</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="603"/>
+      <location filename="../core/MainWindow.ui" line="615"/>
       <source>Syntax AT&amp;T/Intel</source>
       <translation>AT&amp;T/Intel構文</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="608"/>
-      <location filename="../core/MainWindow.ui" line="618"/>
+      <location filename="../core/MainWindow.ui" line="620"/>
+      <location filename="../core/MainWindow.ui" line="630"/>
       <source>Rename</source>
       <translation>名前の変更</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="613"/>
-      <location filename="../core/MainWindow.ui" line="623"/>
+      <location filename="../core/MainWindow.ui" line="625"/>
+      <location filename="../core/MainWindow.ui" line="635"/>
       <source>Undefine</source>
       <translation>定義を解除</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="628"/>
+      <location filename="../core/MainWindow.ui" line="640"/>
       <source>Add comment</source>
       <translation>コメントを追加</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="640"/>
-      <location filename="../core/MainWindow.ui" line="643"/>
+      <location filename="../core/MainWindow.ui" line="652"/>
+      <location filename="../core/MainWindow.ui" line="655"/>
       <source>Show/Hide bottom pannel</source>
       <translation>下部のパネルを表示/非表示にする</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="648"/>
+      <location filename="../core/MainWindow.ui" line="660"/>
       <source>Run Rizin script</source>
       <translation>Rizin スクリプトを実行</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="653"/>
+      <location filename="../core/MainWindow.ui" line="665"/>
       <source>Reset Settings</source>
       <translation>設定をリセット</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="656"/>
+      <location filename="../core/MainWindow.ui" line="668"/>
       <source>Reset settings</source>
       <translation>設定をリセット</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="661"/>
+      <location filename="../core/MainWindow.ui" line="673"/>
       <source>Quit</source>
       <translation>終了</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="664"/>
+      <location filename="../core/MainWindow.ui" line="676"/>
       <source>Ctrl+Q</source>
       <translation>Ctrl+Q</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="672"/>
+      <location filename="../core/MainWindow.ui" line="684"/>
       <source>Exports</source>
       <translation>エクスポート</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="675"/>
+      <location filename="../core/MainWindow.ui" line="687"/>
       <source>Show/Hide Exports panel</source>
       <translation>エクスポートパネルの表示/非表示</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="680"/>
+      <location filename="../core/MainWindow.ui" line="692"/>
       <source>Refresh Contents</source>
       <translation>コンテンツを更新</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="683"/>
+      <location filename="../core/MainWindow.ui" line="695"/>
       <source>Refresh contents</source>
       <translation>コンテンツを更新</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="691"/>
+      <location filename="../core/MainWindow.ui" line="703"/>
       <source>Show ESIL rather than assembly</source>
       <translation>アセンブリの代わりに ESIL を表示</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="699"/>
+      <location filename="../core/MainWindow.ui" line="711"/>
       <source>Show pseudocode rather than assembly</source>
       <translation>アセンブリの代わりに疑似コードを表示</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="710"/>
+      <location filename="../core/MainWindow.ui" line="722"/>
       <source>Display offsets</source>
       <translation>オフセットを表示</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="715"/>
+      <location filename="../core/MainWindow.ui" line="727"/>
       <source>Preferences</source>
       <translation>設定</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="720"/>
+      <location filename="../core/MainWindow.ui" line="732"/>
       <source>Save Project As...</source>
       <translation>プロジェクトに名前を付けて保存...</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="728"/>
+      <location filename="../core/MainWindow.ui" line="740"/>
       <source>Graph</source>
       <translation>グラフ</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="733"/>
+      <location filename="../core/MainWindow.ui" line="745"/>
       <source>Import PDB</source>
       <translation>PDB をインポート</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="738"/>
+      <location filename="../core/MainWindow.ui" line="750"/>
       <source>Analyze Program</source>
       <translation>プログラムを分析</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="743"/>
+      <location filename="../core/MainWindow.ui" line="755"/>
       <source>Export as code</source>
       <translation>コードとしてエクスポート</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="748"/>
-      <location filename="../core/MainWindow.cpp" line="1793"/>
+      <location filename="../core/MainWindow.ui" line="760"/>
+      <location filename="../core/MainWindow.cpp" line="1803"/>
       <source>Apply Signature From File</source>
       <translation>ファイルから署名を適用</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="753"/>
-      <location filename="../core/MainWindow.cpp" line="1814"/>
+      <location filename="../core/MainWindow.ui" line="765"/>
+      <location filename="../core/MainWindow.cpp" line="1824"/>
       <source>Create New Signature File</source>
       <translation>新しい署名ファイルを作成</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="758"/>
+      <location filename="../core/MainWindow.ui" line="770"/>
       <source>Add Hexdump</source>
       <translation>16 進ダンプを追加</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="763"/>
+      <location filename="../core/MainWindow.ui" line="775"/>
       <source>Add Decompiler</source>
       <translation>逆コンパイラを追加</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="768"/>
+      <location filename="../core/MainWindow.ui" line="780"/>
       <source>Add Disassembly</source>
       <translation>逆アセンブリを追加</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="773"/>
+      <location filename="../core/MainWindow.ui" line="785"/>
       <source>Add Graph</source>
       <translation>グラフを追加</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="784"/>
+      <location filename="../core/MainWindow.ui" line="796"/>
       <source>Grouped dock dragging</source>
       <translation>ドックドラッグのグループ化</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="789"/>
+      <location filename="../core/MainWindow.ui" line="801"/>
       <source>Zoom In</source>
       <translation>ズームイン</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="792"/>
+      <location filename="../core/MainWindow.ui" line="804"/>
       <source>Ctrl++</source>
       <translation>Ctrl++</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="800"/>
+      <location filename="../core/MainWindow.ui" line="812"/>
       <source>Zoom Out</source>
       <translation>ズームアウト</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="803"/>
+      <location filename="../core/MainWindow.ui" line="815"/>
       <source>Ctrl+-</source>
       <translation>Ctrl+-</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="811"/>
+      <location filename="../core/MainWindow.ui" line="823"/>
       <source>Reset</source>
       <translation>リセット</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="814"/>
+      <location filename="../core/MainWindow.ui" line="826"/>
       <source>Ctrl+=</source>
       <translation>Ctrl+=</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="822"/>
+      <location filename="../core/MainWindow.ui" line="834"/>
       <source>Commit changes</source>
       <translation>変更をコミット</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="830"/>
+      <location filename="../core/MainWindow.ui" line="842"/>
       <source>Write mode</source>
       <translation>書き込みモード</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="833"/>
+      <location filename="../core/MainWindow.ui" line="845"/>
       <source>Open the file in write mode. Every change to the file will change the original file on disk.</source>
       <translation>書き込みモードでファイルを開きます。ファイルを変更するたびに、ディスク上の元のファイルが変更されます。</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="841"/>
+      <location filename="../core/MainWindow.ui" line="853"/>
       <source>Cache mode</source>
       <translation>キャッシュモード</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="844"/>
+      <location filename="../core/MainWindow.ui" line="856"/>
       <source>Enable cache mode. Changes to the file would not be applied to disk unless you specifically commit them. This is a safer option.</source>
       <translation>キャッシュモードを有効にする。ファイルへの変更をコミットしない限り、変更はディスクに保存されません。これはより安全なオプションです。</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="855"/>
+      <location filename="../core/MainWindow.ui" line="867"/>
       <source>Read-Only mode</source>
       <translation>読み取り専用モード</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.ui" line="865"/>
+      <location filename="../core/MainWindow.ui" line="877"/>
       <source>Manage layouts</source>
       <translation>レイアウトの管理</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="252"/>
+      <location filename="../core/MainWindow.cpp" line="256"/>
       <source>No plugins are installed. Check the plugins section on Cutter documentation to learn more.</source>
       <translation>プラグインがインストールされていません。詳細については、Cutter ドキュメントの「plugins」セクションを確認してください。</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="257"/>
+      <location filename="../core/MainWindow.cpp" line="261"/>
       <source>The installed plugins didn&apos;t add entries to this menu.</source>
       <translation>インストールされているプラグインは、このメニューに項目を追加しませんでした。</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="537"/>
+      <location filename="../core/MainWindow.cpp" line="275"/>
+      <source>Analyze the program using Rizin&apos;s &quot;aaa&quot; command</source>
+      <translation type="unfinished">Analyze the program using Rizin&apos;s &quot;aaa&quot; command</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.cpp" line="542"/>
       <source>Script loading</source>
       <translation>スクリプトの読み込み</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="538"/>
+      <location filename="../core/MainWindow.cpp" line="543"/>
       <source>Do you want to load the &apos;%1&apos; script?</source>
       <translation>&apos;%1&apos; スクリプトを読み込みますか？</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="556"/>
+      <location filename="../core/MainWindow.cpp" line="561"/>
       <source>Cannot open file!</source>
       <translation>ファイルが開けません。</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="557"/>
+      <location filename="../core/MainWindow.cpp" line="562"/>
       <source>Could not open the file! Make sure the file exists and that you have the correct permissions.</source>
       <translation>ファイルを開けませんでした。ファイルが存在し、正しい権限があることを確認してください。</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="620"/>
+      <location filename="../core/MainWindow.cpp" line="625"/>
       <source>Failed to open project: %1</source>
       <translation>プロジェクトを開けませんでした: %1</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="625"/>
+      <location filename="../core/MainWindow.cpp" line="630"/>
       <source>Open Project</source>
       <translation>プロジェクトを開く</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="747"/>
+      <location filename="../core/MainWindow.cpp" line="752"/>
       <source>Failed to save project: %1</source>
       <translation>プロジェクトを保存できませんでした: %1</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="775"/>
+      <location filename="../core/MainWindow.cpp" line="780"/>
       <source>Do you really want to exit?
 Save your project before closing!</source>
       <translation>終了しますか？
 閉じる前にプロジェクトを保存してください！</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1050"/>
+      <location filename="../core/MainWindow.cpp" line="1056"/>
       <source>New disassembly</source>
       <translation>新規逆アセンブリ</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1052"/>
+      <location filename="../core/MainWindow.cpp" line="1058"/>
       <source>New graph</source>
       <translation>新規グラフ</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1054"/>
+      <location filename="../core/MainWindow.cpp" line="1060"/>
       <source>New hexdump</source>
       <translation>新規 16 進数ダンプ</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1055"/>
+      <location filename="../core/MainWindow.cpp" line="1061"/>
       <source>New Decompiler</source>
       <translation>新規逆コンパイラ</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1234"/>
+      <location filename="../core/MainWindow.cpp" line="1240"/>
       <source>Save layout error</source>
       <translation>レイアウトの保存エラー</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1235"/>
+      <location filename="../core/MainWindow.cpp" line="1241"/>
       <source>&apos;%1&apos; is not a valid name.</source>
       <translation>&apos;%1&apos; は有効な名前ではありません。</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1237"/>
+      <location filename="../core/MainWindow.cpp" line="1243"/>
       <source>Enter name</source>
       <translation>名前を入力</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1548"/>
+      <location filename="../core/MainWindow.cpp" line="1554"/>
       <source>Select Rizin script</source>
       <translation>Rizin スクリプトを選択</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1591"/>
+      <location filename="../core/MainWindow.cpp" line="1597"/>
       <source>Do you really want to clear all settings?</source>
       <translation>すべての設定をクリアしますか？</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1685"/>
+      <location filename="../core/MainWindow.cpp" line="1697"/>
       <source>Select PDB file</source>
       <translation>PDB ファイルを選択</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1686"/>
+      <location filename="../core/MainWindow.cpp" line="1698"/>
       <source>PDB file (*.pdb)</source>
       <translation>PDB ファイル (*.pdb)</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1686"/>
+      <location filename="../core/MainWindow.cpp" line="1698"/>
       <source>All files (*)</source>
       <translation>すべてのファイル (*)</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1696"/>
+      <location filename="../core/MainWindow.cpp" line="1708"/>
       <source>%1 loaded.</source>
       <translation>%1 を読み込みました。</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1789"/>
-      <location filename="../core/MainWindow.cpp" line="1811"/>
+      <location filename="../core/MainWindow.cpp" line="1799"/>
+      <location filename="../core/MainWindow.cpp" line="1821"/>
       <source>Signature File (*.sig)</source>
       <translation>署名ファイル (*.sig)</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1790"/>
-      <location filename="../core/MainWindow.cpp" line="1812"/>
+      <location filename="../core/MainWindow.cpp" line="1800"/>
+      <location filename="../core/MainWindow.cpp" line="1822"/>
       <source>Pattern File (*.pat)</source>
       <translation>パターンファイル (*.pat)</translation>
     </message>
@@ -5484,7 +5819,6 @@ Save your project before closing!</source>
       <translation>0x40000</translation>
     </message>
     <message>
-      <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
       <source>Map new file file</source>
       <translation>新しいファイルをマッピングする</translation>
     </message>
@@ -5492,6 +5826,11 @@ Save your project before closing!</source>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
       <source>Failed to map a new file</source>
       <translation>新しいファイルのマッピングに失敗しました</translation>
+    </message>
+    <message>
+      <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
+      <source>Map new file</source>
+      <translation type="unfinished">Map new file</translation>
     </message>
   </context>
   <context>
@@ -5649,11 +5988,15 @@ Save your project before closing!</source>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="290"/>
+      <source>Open a file without additional options/settings.</source>
+      <translation type="unfinished">Open a file without additional options/settings.</translation>
+    </message>
+    <message>
       <source>Open a file with no extra treatment.</source>
       <translation>追加オプション/設定なしでファイルを開く</translation>
     </message>
     <message>
-      <location filename="../dialogs/NewFileDialog.cpp" line="322"/>
+      <location filename="../dialogs/NewFileDialog.cpp" line="323"/>
       <source>Select a new program or a previous one before continuing.</source>
       <translation>続行するには新しいプログラムまたは以前のプログラムを選択してください。</translation>
     </message>
@@ -5796,7 +6139,6 @@ Save your project before closing!</source>
       <translation>ここには複数の参照 (%1) があります。予期しない動作が期待されています。</translation>
     </message>
     <message>
-      <location filename="../common/DisassemblyPreview.cpp" line="49"/>
       <source>offsetFrom (%1) differs from refs.at(0).from (%(2))</source>
       <translation>offsetFrom (%1) が refs.at(0).from (%(2) ) と異なります</translation>
     </message>
@@ -5831,6 +6173,10 @@ WARNING: In Write mode, any changes will be committed to the file on disk. For s
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="94"/>
+      <source>Uncommitted changes</source>
+      <translation type="unfinished">Uncommitted changes</translation>
+    </message>
+    <message>
       <source>Uncomitted changes</source>
       <translation>未保存の変更</translation>
     </message>
@@ -5852,104 +6198,174 @@ Do you want to commit them now?</source>
       <translation>Cutter (%1) のコンパイルに使用されたバージョンが、rizin の実行ファイルのバージョン (%2) と一致しません。これにより予期しない動作につながる可能性があります。続行しますか？</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="304"/>
+      <location filename="../CutterApplication.cpp" line="388"/>
       <source>A Qt and C++ GUI for rizin reverse engineering framework</source>
       <translation>rizin リバースエンジニアリングフレームワーク用の Qt と C++ GUI</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="307"/>
+      <location filename="../CutterApplication.cpp" line="391"/>
       <source>Filename to open.</source>
       <translation>開くファイル名。</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="311"/>
+      <location filename="../CutterApplication.cpp" line="395"/>
       <source>Automatically open file and optionally start analysis. Needs filename to be specified. May be a value between 0 and 2: 0 = no analysis, 1 = aaa, 2 = aaaa (experimental)</source>
       <translation>ファイルを自動的に開き、オプションで分析を開始します。ファイル名を指定する必要があります。 0 ～ 2 の値に設定できます。0 = 分析なし、 1 = aaa、2 = aaaa (実験的)</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="314"/>
+      <location filename="../CutterApplication.cpp" line="398"/>
       <source>level</source>
       <translation>レベル</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="318"/>
+      <location filename="../CutterApplication.cpp" line="401"/>
+      <source>Sets a specific architecture name</source>
+      <translation type="unfinished">Sets a specific architecture name</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="402"/>
+      <source>arch</source>
+      <translation type="unfinished">arch</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="405"/>
+      <source>Sets a specific architecture bits</source>
+      <translation type="unfinished">Sets a specific architecture bits</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="406"/>
+      <source>bits</source>
+      <translation type="unfinished">bits</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="409"/>
+      <source>Sets a specific CPU</source>
+      <translation type="unfinished">Sets a specific CPU</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="410"/>
+      <source>cpu</source>
+      <translation type="unfinished">cpu</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="413"/>
+      <source>Sets a specific operating system</source>
+      <translation type="unfinished">Sets a specific operating system</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="414"/>
+      <source>os</source>
+      <translation type="unfinished">os</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="418"/>
+      <source>Sets the endianness (big or little)</source>
+      <translation type="unfinished">Sets the endianness (big or little)</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="419"/>
+      <source>big|little</source>
+      <translation type="unfinished">big|little</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="423"/>
       <source>Force using a specific file format (bin plugin)</source>
       <translation>特定のファイル形式を強制する (bin プラグイン）</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="319"/>
+      <location filename="../CutterApplication.cpp" line="424"/>
       <source>name</source>
       <translation>名前</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="323"/>
+      <location filename="../CutterApplication.cpp" line="428"/>
       <source>Load binary at a specific base address</source>
       <translation>バイナリを特定のベースアドレスに読み込む</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="324"/>
+      <location filename="../CutterApplication.cpp" line="429"/>
       <source>base address</source>
       <translation>ベースアドレス</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="327"/>
+      <location filename="../CutterApplication.cpp" line="433"/>
+      <source>Map the binary at a specific address</source>
+      <translation type="unfinished">Map the binary at a specific address</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="434"/>
+      <source>map address</source>
+      <translation type="unfinished">map address</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="437"/>
       <source>Run script file</source>
       <translation>スクリプトファイルを実行</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="327"/>
+      <location filename="../CutterApplication.cpp" line="437"/>
       <source>file</source>
       <translation>ファイル</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="330"/>
+      <location filename="../CutterApplication.cpp" line="440"/>
       <source>Load project file</source>
       <translation>プロジェクトファイルを読み込む</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="331"/>
+      <location filename="../CutterApplication.cpp" line="441"/>
       <source>project file</source>
       <translation>プロジェクトファイル</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="335"/>
+      <location filename="../CutterApplication.cpp" line="445"/>
       <source>Open file in write mode</source>
       <translation>ファイルを書き込みモードで開く</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="339"/>
+      <location filename="../CutterApplication.cpp" line="449"/>
+      <source>Disables virtual addressing</source>
+      <translation type="unfinished">Disables virtual addressing</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="453"/>
       <source>PYTHONHOME to use for embedded python interpreter</source>
       <translation>埋め込み Python インタプリタに使用する PYTHONHOME</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="345"/>
+      <location filename="../CutterApplication.cpp" line="459"/>
       <source>Disable output redirection. Some of the output in console widget will not be visible. Use this option when debuging a crash or freeze and output  redirection is causing some messages to be lost.</source>
       <translation>出力のリダイレクトを無効にします。コンソールウィジェットの出力の一部が表示されなくなります。 クラッシュまたはフリーズのデバッグ中に出力のリダイレクトにより一部のメッセージが表示されなくなる場合に使用します。</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="351"/>
+      <location filename="../CutterApplication.cpp" line="465"/>
       <source>Do not load plugins</source>
       <translation>プラグインを読み込まない</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="355"/>
+      <location filename="../CutterApplication.cpp" line="469"/>
       <source>Do not load Cutter plugins</source>
       <translation>Cutter プラグインを読み込まない</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="359"/>
+      <location filename="../CutterApplication.cpp" line="473"/>
       <source>Do not load rizin plugins</source>
       <translation>rizin プラグインを読み込まない</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="373"/>
+      <location filename="../CutterApplication.cpp" line="487"/>
       <source>Invalid Analysis Level. May be a value between 0 and 2.</source>
       <translation>分析レベルが無効です。0 ～ 2 の値に設定してください。</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="393"/>
+      <location filename="../CutterApplication.cpp" line="507"/>
       <source>Filename must be specified to start analysis automatically.</source>
       <translation>自動的に分析を開始するにはファイル名を指定する必要があります。</translation>
+    </message>
+    <message>
+      <location filename="../CutterApplication.cpp" line="563"/>
+      <source>Invalid Endianness. You can only set it to `big` or `little`.</source>
+      <translation type="unfinished">Invalid Endianness. You can only set it to `big` or `little`.</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="397"/>
@@ -5992,428 +6408,432 @@ Do you want to commit them now?</source>
       <translation>関数の位置</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="403"/>
       <source>Color of ascii line in left side that shows what opcodes are belong to function</source>
       <translation>どのオペコードが関数に属しているかを示す行の色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="405"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="403"/>
+      <source>Color of the line which shows which opcodes belongs to a function</source>
+      <translation type="unfinished">Color of the line which shows which opcodes belongs to a function</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorThemeListView.cpp" line="404"/>
       <source>Function line</source>
       <translation>関数行</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="407"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="406"/>
       <source>Color of flags (similar to bookmarks for offset)</source>
       <translation>フラグの色 (オフセットのブックマークに似ています)</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="407"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="406"/>
       <source>Flag</source>
       <translation>フラグ</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="408"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="407"/>
       <source>Label</source>
       <translation>ラベル</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="409"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="408"/>
       <source>Help</source>
       <translation>ヘルプ</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="410"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="409"/>
       <source>Color of lines showing jump destination</source>
       <translation>ジャンプ先を示す行の色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="410"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="409"/>
       <source>Flow</source>
       <translation>フロー</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="411"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="410"/>
       <source>flow2</source>
       <translation>フロー 2</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="412"/>
-      <location filename="../widgets/ColorThemeListView.cpp" line="414"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="411"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="413"/>
       <source>Info</source>
       <translation>情報</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="412"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="411"/>
       <source>prompt</source>
       <translation>プロンプト</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="413"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="412"/>
       <source>Color of offsets</source>
       <translation>オフセットの色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="413"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="412"/>
       <source>Offset</source>
       <translation>オフセット</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="414"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="413"/>
       <source>input</source>
       <translation>入力</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="415"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="414"/>
       <source>Invalid opcode color</source>
       <translation>無効なオペコードの色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="415"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="414"/>
       <source>invalid</source>
       <translation>無効</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="416"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="415"/>
       <source>other</source>
       <translation>その他</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="417"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="416"/>
       <source>0x00 opcode color</source>
       <translation>0x00 オペコードの色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="418"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="417"/>
       <source>0x7f opcode color</source>
       <translation>0x7f オペコードの色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="419"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="418"/>
       <source>0xff opcode color</source>
       <translation>0xff オペコードの色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="421"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="420"/>
       <source>Color of arithmetic opcodes (add, div, mul etc)</source>
       <translation>算術演算オペコードの色 (add、div、mul など)</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="422"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="421"/>
       <source>Arithmetic</source>
       <translation>算術演算</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="424"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="423"/>
       <source>Color of binary operations (and, or, xor etc).</source>
       <translation>2進算術演算の色 (and、or、xor など)。</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="424"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="423"/>
       <source>Binary</source>
       <translation>2進</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="426"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="425"/>
       <source>Color of object names, commas between operators, squared brackets and operators inside them.</source>
       <translation>オブジェクト名、演算子間のコンマ、角括弧とその中の演算子の色。</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="429"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="428"/>
       <source>Text</source>
       <translation>テキスト</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="430"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="429"/>
       <source>push opcode color</source>
       <translation>push オペコードの色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="431"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="430"/>
       <source>pop opcode color</source>
       <translation>pop オペコードの色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="432"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="431"/>
       <source>Cryptographic color</source>
       <translation>暗号化の色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="433"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="432"/>
       <source>jmp instructions color</source>
       <translation>jmp 命令の色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="435"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="434"/>
       <source>Color of conditional jump opcodes such as je, jg, jne etc</source>
       <translation>je、jg、jne などの条件付きジャンプコードの色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="436"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="435"/>
       <source>Conditional jump</source>
       <translation>条件付きジャンプ</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="437"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="436"/>
       <source>call instructions color (ccall, rcall, call etc)</source>
       <translation>呼び出し命令の色 (ccall、rcall、call など)</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="438"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="437"/>
       <source>nop opcode color</source>
       <translation>nop オペコードの色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="439"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="438"/>
       <source>ret opcode color</source>
       <translation>ret オペコードの色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="440"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="439"/>
       <source>Color of interrupts</source>
       <translation>割り込みの色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="440"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="439"/>
       <source>Interrupts</source>
       <translation>割り込み</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="441"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="440"/>
       <source>swi opcode color</source>
       <translation>swi オペコードの色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="443"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="442"/>
       <source>Color of compare instructions such as test and cmp</source>
       <translation>test や cmp などの比較命令の色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="444"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="443"/>
       <source>Compare instructions</source>
       <translation>比較命令</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="445"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="444"/>
       <source>Registers color</source>
       <translation>レジスタの色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="445"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="444"/>
       <source>Register</source>
       <translation>レジスタ</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="448"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="447"/>
       <source>Color of numeric constants and object pointers</source>
       <translation>数値定数とオブジェクトポインタの色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="448"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="447"/>
       <source>Constants</source>
       <translation>定数</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="450"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="449"/>
       <source>Color of move instructions such as mov, movd, lea etc</source>
       <translation>mov、movd、lea などの移動命令の色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="451"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="450"/>
       <source>Move instructions</source>
       <translation>移動命令</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="452"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="451"/>
       <source>Function variable color</source>
       <translation>関数変数の色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="452"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="451"/>
       <source>Function variable</source>
       <translation>関数変数</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="454"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="453"/>
       <source>Function variable (local or argument) type color</source>
       <translation>関数変数 (ローカルまたは引数) 型の色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="455"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="454"/>
       <source>Variable type</source>
       <translation>変数型</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="457"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="456"/>
       <source>Function variable address color</source>
       <translation>関数変数アドレスの色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="457"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="456"/>
       <source>Variable address</source>
       <translation>変数のアドレス</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="469"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="468"/>
       <source>In graph view jump arrow true</source>
       <translation>グラフ表示のジャンプ矢印 true</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="469"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="468"/>
       <source>Arrow true</source>
       <translation>矢印 true</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="471"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="470"/>
       <source>In graph view jump arrow false</source>
       <translation>グラフ表示のジャンプ矢印 false</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="471"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="470"/>
       <source>Arrow false</source>
       <translation>矢印 false</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="473"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="472"/>
       <source>In graph view jump arrow (no condition)</source>
       <translation>グラフ表示のジャンプ矢印 (条件なし）</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="473"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="472"/>
       <source>Arrow</source>
       <translation>矢印</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="477"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="476"/>
       <source>Background color of Graph Overview&apos;s node</source>
       <translation>グラフ概要ノードの背景色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="478"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="477"/>
       <source>Graph Overview node</source>
       <translation>グラフ概要ノード</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="480"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="479"/>
       <source>Fill color of Graph Overview&apos;s selection</source>
       <translation>グラフ概要の選択範囲の塗りつぶし色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="481"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="480"/>
       <source>Graph Overview fill</source>
       <translation>グラフ概要の塗りつぶし</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="483"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="482"/>
       <source>Border color of Graph Overview&apos;s selection</source>
       <translation>グラフ概要の選択範囲の枠線の色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="484"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="483"/>
       <source>Graph Overview border</source>
       <translation>グラフの概要の枠線</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="487"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="486"/>
       <source>General background color</source>
       <translation>一般背景色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="487"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="486"/>
       <source>Background</source>
       <translation>背景</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="489"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="488"/>
       <source>Background color of non-focused graph node</source>
       <translation>非フォーカスグラフノードの背景の色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="490"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="489"/>
       <source>Node background</source>
       <translation>ノードの背景</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="492"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="491"/>
       <source>Background of current graph node</source>
       <translation>現在のグラフノードの背景</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="492"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="491"/>
       <source>Current graph node</source>
       <translation>現在のグラフノード</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="494"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="493"/>
       <source>Color of node border in graph view</source>
       <translation>グラフ表示でのノード枠線の色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="494"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="493"/>
       <source>Node border</source>
       <translation>ノード枠線</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="496"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="495"/>
       <source>Selected line background color</source>
       <translation>選択した行の背景の色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="496"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="495"/>
       <source>Line highlight</source>
       <translation>行の強調表示</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="498"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="497"/>
       <source>Background color of selected word</source>
       <translation>選択した単語の背景色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="498"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="497"/>
       <source>Word higlight</source>
       <translation>単語の強調表示</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="499"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="498"/>
       <source>Main function color</source>
       <translation>main 関数の色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="499"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="498"/>
       <source>Main</source>
       <translation>Main</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="508"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="507"/>
       <source>Code section color in navigation bar</source>
       <translation>ナビゲーションバーのコードセクションの色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="508"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="507"/>
       <source>Navbar code</source>
       <translation>ナビゲーションバーのコード</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="510"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="509"/>
       <source>Empty section color in navigation bar</source>
       <translation>ナビゲーションバーの空きセクションの色</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="510"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="509"/>
       <source>Navbar empty</source>
       <translation>空きのナビゲーションバー</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="511"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="510"/>
       <source>ucall</source>
       <translation>ucall</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="512"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="511"/>
       <source>ujmp</source>
       <translation>ujmp</translation>
     </message>
     <message>
-      <location filename="../widgets/ColorThemeListView.cpp" line="513"/>
+      <location filename="../widgets/ColorThemeListView.cpp" line="512"/>
       <source>Breakpoint background</source>
       <translation>ブレークポイントの背景</translation>
     </message>
@@ -6645,11 +7065,16 @@ Do you want to commit them now?</source>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="30"/>
+      <source>RzIL statement graph (agI)</source>
+      <translation type="unfinished">RzIL statement graph (agI)</translation>
+    </message>
+    <message>
+      <location filename="../widgets/RizinGraphWidget.cpp" line="31"/>
       <source>Custom graph (agg)</source>
       <translation>カスタムグラフ (agg)</translation>
     </message>
     <message>
-      <location filename="../widgets/RizinGraphWidget.cpp" line="31"/>
+      <location filename="../widgets/RizinGraphWidget.cpp" line="32"/>
       <source>User command</source>
       <translation>ユーザーコマンド</translation>
     </message>
@@ -6871,6 +7296,7 @@ Do you want to commit them now?</source>
     <name>SearchWidget</name>
     <message>
       <location filename="../widgets/SearchWidget.ui" line="83"/>
+      <location filename="../widgets/SearchWidget.cpp" line="332"/>
       <source>Search</source>
       <translation>検索</translation>
     </message>
@@ -6924,6 +7350,11 @@ Do you want to commit them now?</source>
       <source>No Results Found</source>
       <translation>一致する検索結果は見つかりませんでした</translation>
     </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="325"/>
+      <source>Searching...</source>
+      <translation type="unfinished">Searching...</translation>
+    </message>
   </context>
   <context>
     <name>SectionsModel</name>
@@ -6966,6 +7397,14 @@ Do you want to commit them now?</source>
       <location filename="../widgets/SectionsWidget.cpp" line="107"/>
       <source>Comment</source>
       <translation>コメント</translation>
+    </message>
+  </context>
+  <context>
+    <name>SectionsWidget</name>
+    <message>
+      <location filename="../widgets/SectionsWidget.cpp" line="167"/>
+      <source>Sections</source>
+      <translation type="unfinished">Sections</translation>
     </message>
   </context>
   <context>
@@ -7242,12 +7681,12 @@ Do you want to commit them now?</source>
     </message>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.cpp" line="45"/>
-      <location filename="../dialogs/TypesInteractionDialog.cpp" line="87"/>
+      <location filename="../dialogs/TypesInteractionDialog.cpp" line="89"/>
       <source>Error</source>
       <translation>エラー</translation>
     </message>
     <message>
-      <location filename="../dialogs/TypesInteractionDialog.cpp" line="88"/>
+      <location filename="../dialogs/TypesInteractionDialog.cpp" line="90"/>
       <source>There was some error while loading new types</source>
       <translation>新しい型の読み込み中にエラーが発生しました</translation>
     </message>
@@ -7255,22 +7694,22 @@ Do you want to commit them now?</source>
   <context>
     <name>TypesModel</name>
     <message>
-      <location filename="../widgets/TypesWidget.cpp" line="61"/>
+      <location filename="../widgets/TypesWidget.cpp" line="74"/>
       <source>Type / Name</source>
       <translation>型 / 名前</translation>
     </message>
     <message>
-      <location filename="../widgets/TypesWidget.cpp" line="63"/>
+      <location filename="../widgets/TypesWidget.cpp" line="76"/>
       <source>Size</source>
       <translation>サイズ</translation>
     </message>
     <message>
-      <location filename="../widgets/TypesWidget.cpp" line="65"/>
+      <location filename="../widgets/TypesWidget.cpp" line="78"/>
       <source>Format</source>
       <translation>フォーマット</translation>
     </message>
     <message>
-      <location filename="../widgets/TypesWidget.cpp" line="67"/>
+      <location filename="../widgets/TypesWidget.cpp" line="80"/>
       <source>Category</source>
       <translation>カテゴリ</translation>
     </message>
@@ -7286,7 +7725,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/TypesWidget.ui" line="84"/>
       <location filename="../widgets/TypesWidget.ui" line="87"/>
-      <location filename="../widgets/TypesWidget.cpp" line="295"/>
+      <location filename="../widgets/TypesWidget.cpp" line="308"/>
       <source>Load New Types</source>
       <translation>新しい型を読み込む</translation>
     </message>
@@ -7297,59 +7736,59 @@ Do you want to commit them now?</source>
       <translation>型を削除</translation>
     </message>
     <message>
-      <location filename="../widgets/TypesWidget.cpp" line="140"/>
+      <location filename="../widgets/TypesWidget.cpp" line="153"/>
       <source>Category</source>
       <translation>カテゴリ</translation>
     </message>
     <message>
-      <location filename="../widgets/TypesWidget.cpp" line="185"/>
+      <location filename="../widgets/TypesWidget.cpp" line="198"/>
       <source>View Type</source>
       <translation>型を表示</translation>
     </message>
     <message>
-      <location filename="../widgets/TypesWidget.cpp" line="186"/>
+      <location filename="../widgets/TypesWidget.cpp" line="199"/>
       <source>Edit Type</source>
       <translation>型を編集</translation>
     </message>
     <message>
-      <location filename="../widgets/TypesWidget.cpp" line="217"/>
+      <location filename="../widgets/TypesWidget.cpp" line="230"/>
       <source>(All)</source>
       <translation>(すべて)</translation>
     </message>
     <message>
-      <location filename="../widgets/TypesWidget.cpp" line="267"/>
+      <location filename="../widgets/TypesWidget.cpp" line="280"/>
       <source>Save File</source>
       <translation>ファイルを保存</translation>
     </message>
     <message>
-      <location filename="../widgets/TypesWidget.cpp" line="274"/>
+      <location filename="../widgets/TypesWidget.cpp" line="287"/>
       <source>Error</source>
       <translation>エラー</translation>
     </message>
     <message>
-      <location filename="../widgets/TypesWidget.cpp" line="311"/>
+      <location filename="../widgets/TypesWidget.cpp" line="324"/>
       <source>Edit Type: </source>
       <translation>型を編集: </translation>
     </message>
     <message>
-      <location filename="../widgets/TypesWidget.cpp" line="314"/>
-      <location filename="../widgets/TypesWidget.cpp" line="352"/>
+      <location filename="../widgets/TypesWidget.cpp" line="327"/>
+      <location filename="../widgets/TypesWidget.cpp" line="365"/>
       <source>View Type: </source>
       <translation>型を表示: </translation>
     </message>
     <message>
-      <location filename="../widgets/TypesWidget.cpp" line="314"/>
-      <location filename="../widgets/TypesWidget.cpp" line="352"/>
+      <location filename="../widgets/TypesWidget.cpp" line="327"/>
+      <location filename="../widgets/TypesWidget.cpp" line="365"/>
       <source> (Read Only)</source>
       <translation> (読み取り専用)</translation>
     </message>
     <message>
-      <location filename="../widgets/TypesWidget.cpp" line="334"/>
+      <location filename="../widgets/TypesWidget.cpp" line="347"/>
       <source>Cutter</source>
       <translation>Cutter</translation>
     </message>
     <message>
-      <location filename="../widgets/TypesWidget.cpp" line="334"/>
+      <location filename="../widgets/TypesWidget.cpp" line="347"/>
       <source>Are you sure you want to delete &quot;%1&quot;?</source>
       <translation>&quot;%1&quot; を削除しますか？</translation>
     </message>
