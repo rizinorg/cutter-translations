@@ -4859,7 +4859,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="57"/>
       <source>Analyze instructions for references</source>
-      <translation>分析指令的参考文献</translation>
+      <translation>分析指令引用</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="58"/>
@@ -6879,7 +6879,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="71"/>
       <source>Reference</source>
-      <translation>参考文献</translation>
+      <translation>引用</translation>
     </message>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="73"/>
@@ -7051,7 +7051,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="27"/>
       <source>References graph (agr)</source>
-      <translation>参考文献图 (agr)</translation>
+      <translation>引用图 (agr)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="28"/>
@@ -7503,7 +7503,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="222"/>
       <source>Reference</source>
-      <translation>参考文献</translation>
+      <translation>引用</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="224"/>
