@@ -6230,7 +6230,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="405"/>
       <source>Sets a specific architecture bits</source>
-      <translation>设置一个指定的架构比特</translation>
+      <translation>设置一个指定的架构位数</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="406"/>
