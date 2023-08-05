@@ -627,17 +627,17 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="158"/>
       <source>The number of tabulate spaces after the offset (asm.tabs.off):</source>
-      <translation type="unfinished">The number of tabulate spaces after the offset (asm.tabs.off):</translation>
+      <translation>オフセットの後の表形式空白の数 (asm.tabs.off)：</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="208"/>
       <source>Show preview when hovering</source>
-      <translation type="unfinished">Show preview when hovering</translation>
+      <translation>マウスを合わせている時にプレビューを表示</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="289"/>
       <source>Show known variable values when hovering</source>
-      <translation type="unfinished">Show known variable values when hovering</translation>
+      <translation>マウスを合わせている時に既知の変数の値を表示</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="305"/>
@@ -727,7 +727,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="489"/>
       <source>Substitute variables in disassembly (asm.sub.var)</source>
-      <translation type="unfinished">Substitute variables in disassembly (asm.sub.var)</translation>
+      <translation>逆アセンブリで変数を代替 (asm.sub.var)</translation>
     </message>
     <message>
       <source>Substitute variables (asm.sub.var)</source>
@@ -855,58 +855,58 @@
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="43"/>
       <source>Cores:</source>
-      <translation type="unfinished">Cores:</translation>
+      <translation>コア：</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="59"/>
       <source>Pointer Size:</source>
-      <translation type="unfinished">Pointer Size:</translation>
+      <translation>ポインタのサイズ：</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="67"/>
       <source>32</source>
-      <translation type="unfinished">32</translation>
+      <translation>32</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="72"/>
       <source>64</source>
-      <translation type="unfinished">64</translation>
+      <translation>64</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="80"/>
       <source>Start Address:</source>
-      <translation type="unfinished">Start Address:</translation>
+      <translation>開始アドレス：</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="100"/>
       <source>End Address:</source>
-      <translation type="unfinished">End Address:</translation>
+      <translation>終了アドレス：</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="117"/>
       <source>Alignment:</source>
-      <translation type="unfinished">Alignment:</translation>
+      <translation>配置：</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="134"/>
       <source>Min String Length:</source>
-      <translation type="unfinished">Min String Length:</translation>
+      <translation>最小文字列長:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="157"/>
       <source>Min Score:</source>
-      <translation type="unfinished">Min Score:</translation>
+      <translation>最小スコア:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="199"/>
       <source>Remove item</source>
-      <translation type="unfinished">Remove item</translation>
+      <translation>項目を削除</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="204"/>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="207"/>
       <source>Remove all</source>
-      <translation type="unfinished">Remove all</translation>
+      <translation>すべて削除</translation>
     </message>
   </context>
   <context>
@@ -915,19 +915,19 @@
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="84"/>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="110"/>
       <source>Copy %1</source>
-      <translation type="unfinished">Copy %1</translation>
+      <translation>%1 をコピー</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="85"/>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="111"/>
       <source>Reopen Cutter with base address as %1</source>
-      <translation type="unfinished">Reopen Cutter with base address as %1</translation>
+      <translation>ベースアドレスを %1 として Cutter を再起動する</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="86"/>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="112"/>
       <source>Reopen Cutter with map address as %1</source>
-      <translation type="unfinished">Reopen Cutter with map address as %1</translation>
+      <translation>マップアドレスを %1 として Cutter を再起動する</translation>
     </message>
   </context>
   <context>
@@ -935,12 +935,12 @@
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="58"/>
       <source>Score</source>
-      <translation type="unfinished">Score</translation>
+      <translation>スコア</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="60"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>アドレス</translation>
     </message>
   </context>
   <context>
@@ -948,13 +948,13 @@
     <message>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="81"/>
       <source>Remove item</source>
-      <translation type="unfinished">Remove item</translation>
+      <translation>項目を削除</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="86"/>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="89"/>
       <source>Remove all</source>
-      <translation type="unfinished">Remove all</translation>
+      <translation>すべて削除</translation>
     </message>
   </context>
   <context>
@@ -962,7 +962,7 @@
     <message>
       <location filename="../core/Basefind.cpp" line="41"/>
       <source>Start address is &gt;= end address</source>
-      <translation type="unfinished">Start address is &gt;= end address</translation>
+      <translation>開始アドレス &gt;= 終了アドレス</translation>
     </message>
     <message>
       <location filename="../core/Basefind.cpp" line="44"/>
@@ -972,12 +972,12 @@
     <message>
       <location filename="../core/Basefind.cpp" line="48"/>
       <source>Min score must be at least 1</source>
-      <translation type="unfinished">Min score must be at least 1</translation>
+      <translation>最小スコアは少なくとも 1 でなければなりません</translation>
     </message>
     <message>
       <location filename="../core/Basefind.cpp" line="51"/>
       <source>Min string length must be at least 1</source>
-      <translation type="unfinished">Min string length must be at least 1</translation>
+      <translation>最小文字列長さは少なくとも 1 でなければなりません</translation>
     </message>
   </context>
   <context>
@@ -1386,7 +1386,7 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="606"/>
       <source>Classes</source>
-      <translation type="unfinished">Classes</translation>
+      <translation>クラス</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="741"/>
@@ -1700,12 +1700,12 @@
     <message>
       <location filename="../common/Configuration.cpp" line="146"/>
       <source>Critical Error!</source>
-      <translation type="unfinished">Critical Error!</translation>
+      <translation>クリティカルエラー！</translation>
     </message>
     <message>
       <location filename="../common/Configuration.cpp" line="147"/>
       <source>Settings are not writable! Make sure you have a write access to &quot;%1&quot;.</source>
-      <translation type="unfinished">Settings are not writable! Make sure you have a write access to &quot;%1&quot;.</translation>
+      <translation>書き込み可能な設定ではありません！&quot;%1&quot; への書き込み権限があることを確認してください</translation>
     </message>
   </context>
   <context>
@@ -1757,7 +1757,7 @@
       <location filename="../core/Cutter.cpp" line="274"/>
       <location filename="../core/Cutter.cpp" line="287"/>
       <source>Loading initialization file from </source>
-      <translation type="unfinished">Loading initialization file from </translation>
+      <translation>次から初期化ファイルを読み込み中: </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1057"/>
@@ -1844,29 +1844,29 @@ Please check the console for more details.</source>
       <location filename="../core/Cutter.cpp" line="4059"/>
       <location filename="../core/Cutter.cpp" line="4088"/>
       <source>Error parsing type: &quot;%1&quot; message: </source>
-      <translation type="unfinished">Error parsing type: &quot;%1&quot; message: </translation>
+      <translation>&quot;%1&quot; 種類のメッセージを解析する際にエラーが発生しました: </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4065"/>
       <source>Error creating global variable: &quot;%1&quot;</source>
-      <translation type="unfinished">Error creating global variable: &quot;%1&quot;</translation>
+      <translation>グローバル変数の作成中にエラーが発生しました: &quot;%1&quot;</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4658"/>
       <location filename="../core/Cutter.cpp" line="4709"/>
       <source>Cannot get global graph</source>
-      <translation type="unfinished">Cannot get global graph</translation>
+      <translation>グローバルグラフを取得できません</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4660"/>
       <location filename="../core/Cutter.cpp" line="4711"/>
       <source>Cannot get graph at </source>
-      <translation type="unfinished">Cannot get graph at </translation>
+      <translation>次のアドレスにあるグローバルグラフを取得できません: </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4691"/>
       <source>Failed to generate graph</source>
-      <translation type="unfinished">Failed to generate graph</translation>
+      <translation>グラフの生成に失敗しました</translation>
     </message>
   </context>
   <context>
@@ -1999,7 +1999,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="436"/>
       <source>Graphviz pdf (*.pdf)</source>
-      <translation type="unfinished">Graphviz pdf (*.pdf)</translation>
+      <translation>Graphviz pdf (*.pdf)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="458"/>
@@ -2825,7 +2825,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="171"/>
       <source>Add at...</source>
-      <translation type="unfinished">Add at...</translation>
+      <translation>…に追加</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="173"/>
@@ -2890,12 +2890,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="177"/>
       <source>Modify or add global variable</source>
-      <translation type="unfinished">Modify or add global variable</translation>
+      <translation>グローバル変数を変更または追加</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="184"/>
       <source>Set base of immediate value to..</source>
-      <translation type="unfinished">Set base of immediate value to..</translation>
+      <translation>即値の基数を次に設定…</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="186"/>
