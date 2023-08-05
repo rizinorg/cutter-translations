@@ -627,17 +627,17 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="158"/>
       <source>The number of tabulate spaces after the offset (asm.tabs.off):</source>
-      <translation type="unfinished">The number of tabulate spaces after the offset (asm.tabs.off):</translation>
+      <translation>Nombre d'espaces de tabulation après l'offset (asm.tabs.off):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="208"/>
       <source>Show preview when hovering</source>
-      <translation type="unfinished">Show preview when hovering</translation>
+      <translation>Afficher un aperçu au survol</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="289"/>
       <source>Show known variable values when hovering</source>
-      <translation type="unfinished">Show known variable values when hovering</translation>
+      <translation>Afficher les valeurs des variables connues au survol</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="305"/>
@@ -727,7 +727,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="489"/>
       <source>Substitute variables in disassembly (asm.sub.var)</source>
-      <translation type="unfinished">Substitute variables in disassembly (asm.sub.var)</translation>
+      <translation>Substituer les variables dans le désassembler (asm.sub.var)</translation>
     </message>
     <message>
       <source>Substitute variables (asm.sub.var)</source>
@@ -858,58 +858,58 @@
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="43"/>
       <source>Cores:</source>
-      <translation type="unfinished">Cores:</translation>
+      <translation>Cœurs:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="59"/>
       <source>Pointer Size:</source>
-      <translation type="unfinished">Pointer Size:</translation>
+      <translation>Taille du Pointeur:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="67"/>
       <source>32</source>
-      <translation type="unfinished">32</translation>
+      <translation>32</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="72"/>
       <source>64</source>
-      <translation type="unfinished">64</translation>
+      <translation>64</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="80"/>
       <source>Start Address:</source>
-      <translation type="unfinished">Start Address:</translation>
+      <translation>Adresse de début:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="100"/>
       <source>End Address:</source>
-      <translation type="unfinished">End Address:</translation>
+      <translation>Adresse de fin:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="117"/>
       <source>Alignment:</source>
-      <translation type="unfinished">Alignment:</translation>
+      <translation>Alignement:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="134"/>
       <source>Min String Length:</source>
-      <translation type="unfinished">Min String Length:</translation>
+      <translation>Longueur minimale de la chaîne de caractère:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="157"/>
       <source>Min Score:</source>
-      <translation type="unfinished">Min Score:</translation>
+      <translation>Score Minimal:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="199"/>
       <source>Remove item</source>
-      <translation type="unfinished">Remove item</translation>
+      <translation>Supprimer l'élément</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="204"/>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="207"/>
       <source>Remove all</source>
-      <translation type="unfinished">Remove all</translation>
+      <translation>Tout supprimer</translation>
     </message>
   </context>
   <context>
@@ -918,19 +918,19 @@
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="84"/>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="110"/>
       <source>Copy %1</source>
-      <translation type="unfinished">Copy %1</translation>
+      <translation>Copier %1</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="85"/>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="111"/>
       <source>Reopen Cutter with base address as %1</source>
-      <translation type="unfinished">Reopen Cutter with base address as %1</translation>
+      <translation>Réouvrir Cutter avec l'adresse de base à %1</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="86"/>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="112"/>
       <source>Reopen Cutter with map address as %1</source>
-      <translation type="unfinished">Reopen Cutter with map address as %1</translation>
+      <translation>Réouvrir Cutter avec l'adresse de mappage à %1</translation>
     </message>
   </context>
   <context>
@@ -938,12 +938,12 @@
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="58"/>
       <source>Score</source>
-      <translation type="unfinished">Score</translation>
+      <translation>Score</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="60"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>Adresse</translation>
     </message>
   </context>
   <context>
@@ -951,13 +951,13 @@
     <message>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="81"/>
       <source>Remove item</source>
-      <translation type="unfinished">Remove item</translation>
+      <translation>Supprimer l'élément</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="86"/>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="89"/>
       <source>Remove all</source>
-      <translation type="unfinished">Remove all</translation>
+      <translation>Tout supprimer</translation>
     </message>
   </context>
   <context>
@@ -965,22 +965,22 @@
     <message>
       <location filename="../core/Basefind.cpp" line="41"/>
       <source>Start address is &gt;= end address</source>
-      <translation type="unfinished">Start address is &gt;= end address</translation>
+      <translation>L'adresse de départ est &gt;= l'adresse de fin</translation>
     </message>
     <message>
       <location filename="../core/Basefind.cpp" line="44"/>
       <source>Alignment must be at least </source>
-      <translation type="unfinished">Alignment must be at least </translation>
+      <translation>L'alignement doit être d'au moins </translation>
     </message>
     <message>
       <location filename="../core/Basefind.cpp" line="48"/>
       <source>Min score must be at least 1</source>
-      <translation type="unfinished">Min score must be at least 1</translation>
+      <translation>Le score minimum doit être d'au moins 1</translation>
     </message>
     <message>
       <location filename="../core/Basefind.cpp" line="51"/>
       <source>Min string length must be at least 1</source>
-      <translation type="unfinished">Min string length must be at least 1</translation>
+      <translation>La longueur minimale de la chaîne de charactère doit être d'au moins 1</translation>
     </message>
   </context>
   <context>
@@ -1389,7 +1389,7 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="606"/>
       <source>Classes</source>
-      <translation type="unfinished">Classes</translation>
+      <translation>Classes</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="741"/>
@@ -1703,12 +1703,12 @@
     <message>
       <location filename="../common/Configuration.cpp" line="146"/>
       <source>Critical Error!</source>
-      <translation type="unfinished">Critical Error!</translation>
+      <translation>Erreur critique!</translation>
     </message>
     <message>
       <location filename="../common/Configuration.cpp" line="147"/>
       <source>Settings are not writable! Make sure you have a write access to &quot;%1&quot;.</source>
-      <translation type="unfinished">Settings are not writable! Make sure you have a write access to &quot;%1&quot;.</translation>
+      <translation>Les paramètres ne sont pas accessibles en écriture ! Assurez-vous d'avoir un accès en écriture à &quot;%1&quot;.</translation>
     </message>
   </context>
   <context>
@@ -1760,7 +1760,7 @@
       <location filename="../core/Cutter.cpp" line="274"/>
       <location filename="../core/Cutter.cpp" line="287"/>
       <source>Loading initialization file from </source>
-      <translation type="unfinished">Loading initialization file from </translation>
+      <translation>Chargement du fichier d'initialisation à partir de </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1057"/>
@@ -1847,29 +1847,29 @@ Veuillez consulter la console pour plus de détails.</translation>
       <location filename="../core/Cutter.cpp" line="4059"/>
       <location filename="../core/Cutter.cpp" line="4088"/>
       <source>Error parsing type: &quot;%1&quot; message: </source>
-      <translation type="unfinished">Error parsing type: &quot;%1&quot; message: </translation>
+      <translation>Erreur d'analyse du type : &quot;%1&quot; message : </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4065"/>
       <source>Error creating global variable: &quot;%1&quot;</source>
-      <translation type="unfinished">Error creating global variable: &quot;%1&quot;</translation>
+      <translation>Erreur lors de la création de la variable globale : &quot;%1&quot;</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4658"/>
       <location filename="../core/Cutter.cpp" line="4709"/>
       <source>Cannot get global graph</source>
-      <translation type="unfinished">Cannot get global graph</translation>
+      <translation>Impossible d'obtenir le graphe global</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4660"/>
       <location filename="../core/Cutter.cpp" line="4711"/>
       <source>Cannot get graph at </source>
-      <translation type="unfinished">Cannot get graph at </translation>
+      <translation>Impossible d'obtenir le graphique à </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4691"/>
       <source>Failed to generate graph</source>
-      <translation type="unfinished">Failed to generate graph</translation>
+      <translation>Échec de la génération du graphique</translation>
     </message>
   </context>
   <context>
@@ -2002,7 +2002,7 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="436"/>
       <source>Graphviz pdf (*.pdf)</source>
-      <translation type="unfinished">Graphviz pdf (*.pdf)</translation>
+      <translation>Graphviz pdf (*.pdf)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="458"/>
@@ -2828,7 +2828,7 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="171"/>
       <source>Add at...</source>
-      <translation type="unfinished">Add at...</translation>
+      <translation>Ajouter à...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="173"/>
@@ -2893,12 +2893,12 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="177"/>
       <source>Modify or add global variable</source>
-      <translation type="unfinished">Modify or add global variable</translation>
+      <translation>Modifier ou Supprimer les variables globales</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="184"/>
       <source>Set base of immediate value to..</source>
-      <translation type="unfinished">Set base of immediate value to..</translation>
+      <translation>Fixer la base de la valeur immédiate à...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="186"/>
@@ -3074,7 +3074,7 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="497"/>
       <source>Add or change global variable at %1 (used here)</source>
-      <translation type="unfinished">Add or change global variable at %1 (used here)</translation>
+      <translation>Ajouter ou modifier une variable globale à %1 (utilisé ici)</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="573"/>
@@ -3924,37 +3924,37 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="14"/>
       <source>Add Global Variable</source>
-      <translation type="unfinished">Add Global Variable</translation>
+      <translation>Ajouter une variable globale</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="20"/>
       <source>Add global variable at</source>
-      <translation type="unfinished">Add global variable at</translation>
+      <translation>Ajouter une variable globale à l'offset</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="38"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>Nom:</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="61"/>
       <source>int</source>
-      <translation type="unfinished">int</translation>
+      <translation>int</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="80"/>
       <source>Type:</source>
-      <translation type="unfinished">Type:</translation>
+      <translation>Type:</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.cpp" line="28"/>
       <source>Edit global variable at %1</source>
-      <translation type="unfinished">Edit global variable at %1</translation>
+      <translation>Modifier la variable locale %1</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.cpp" line="30"/>
       <source>Add global variable at %1</source>
-      <translation type="unfinished">Add global variable at %1</translation>
+      <translation>Ajouter la variable locale %1</translation>
     </message>
   </context>
   <context>
@@ -3962,22 +3962,22 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="60"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>Adresse</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="62"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>Type</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="64"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Nom</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="66"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Commentaire</translation>
     </message>
   </context>
   <context>
@@ -3987,24 +3987,24 @@ Veuillez consulter la console pour plus de détails.</translation>
       <location filename="../widgets/GlobalsWidget.ui" line="79"/>
       <location filename="../widgets/GlobalsWidget.cpp" line="206"/>
       <source>Edit Global Variable</source>
-      <translation type="unfinished">Edit Global Variable</translation>
+      <translation>Éditer la variable globale</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.ui" line="84"/>
       <location filename="../widgets/GlobalsWidget.ui" line="87"/>
       <location filename="../widgets/GlobalsWidget.cpp" line="207"/>
       <source>Delete Global Variable</source>
-      <translation type="unfinished">Delete Global Variable</translation>
+      <translation>Supprimer la variable globale</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="167"/>
       <source>Category</source>
-      <translation type="unfinished">Category</translation>
+      <translation>Catégorie</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="169"/>
       <source>Globals</source>
-      <translation type="unfinished">Globals</translation>
+      <translation>Globales</translation>
     </message>
   </context>
   <context>
@@ -4106,7 +4106,7 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../widgets/GraphView.cpp" line="441"/>
       <source>Cutter graph export</source>
-      <translation type="unfinished">Cutter graph export</translation>
+      <translation>Cutter export de graphe</translation>
     </message>
   </context>
   <context>
@@ -4265,7 +4265,7 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="163"/>
       <source>Write a decoded or encoded Base64 string</source>
-      <translation type="unfinished">Write a decoded or encoded Base64 string</translation>
+      <translation>Écrire une chaîne de caractère encodée/décodée en Base64</translation>
     </message>
     <message>
       <source>Write De\Encoded Base64 string</source>
@@ -4700,7 +4700,7 @@ Veuillez vous assurer qu'il s'agit d'une chaîne base64 valide et réessayez.</t
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="326"/>
       <source>Experimental</source>
-      <translation type="unfinished">Experimental</translation>
+      <translation>Expérimental</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="364"/>
@@ -5092,7 +5092,7 @@ Veuillez vous assurer qu'il s'agit d'une chaîne base64 valide et réessayez.</t
     <message>
       <location filename="../core/MainWindow.ui" line="133"/>
       <source>Tools</source>
-      <translation type="unfinished">Tools</translation>
+      <translation>Outils</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="139"/>
@@ -5150,7 +5150,7 @@ Veuillez vous assurer qu'il s'agit d'une chaîne base64 valide et réessayez.</t
     <message>
       <location filename="../core/MainWindow.ui" line="245"/>
       <source>BaseFind</source>
-      <translation type="unfinished">BaseFind</translation>
+      <translation>RechercheDeLaddresseDeBase</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="250"/>
@@ -5671,7 +5671,7 @@ Veuillez vous assurer qu'il s'agit d'une chaîne base64 valide et réessayez.</t
     <message>
       <location filename="../core/MainWindow.cpp" line="275"/>
       <source>Analyze the program using Rizin&apos;s &quot;aaa&quot; command</source>
-      <translation type="unfinished">Analyze the program using Rizin&apos;s &quot;aaa&quot; command</translation>
+      <translation>Analyser le programme en utilisant la commande Rizin &quot;aaa&quot;</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="542"/>
@@ -5833,7 +5833,7 @@ Enregistrez votre projet avant de le fermer!</translation>
     <message>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
       <source>Map new file</source>
-      <translation type="unfinished">Map new file</translation>
+      <translation>Mapper un nouveau fichier</translation>
     </message>
   </context>
   <context>
@@ -5992,7 +5992,7 @@ Enregistrez votre projet avant de le fermer!</translation>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="290"/>
       <source>Open a file without additional options/settings.</source>
-      <translation type="unfinished">Open a file without additional options/settings.</translation>
+      <translation>Ouvrir un fichier sans options/paramètres supplémentaires.</translation>
     </message>
     <message>
       <source>Open a file with no extra treatment.</source>
@@ -6177,7 +6177,7 @@ AVERTISSEMENT : en mode écriture, toute modification sera validée dans le fich
     <message>
       <location filename="../common/IOModesController.cpp" line="94"/>
       <source>Uncommitted changes</source>
-      <translation type="unfinished">Uncommitted changes</translation>
+      <translation>Changements non validés</translation>
     </message>
     <message>
       <source>Uncomitted changes</source>
@@ -6223,52 +6223,52 @@ Souhaitez-vous les intégrer maintenant ?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="401"/>
       <source>Sets a specific architecture name</source>
-      <translation type="unfinished">Sets a specific architecture name</translation>
+      <translation>Sélectionner un nom d'architecture spécifique</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="402"/>
       <source>arch</source>
-      <translation type="unfinished">arch</translation>
+      <translation>arch</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="405"/>
       <source>Sets a specific architecture bits</source>
-      <translation type="unfinished">Sets a specific architecture bits</translation>
+      <translation>Sélectionner un nombre de bits d'architecture</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="406"/>
       <source>bits</source>
-      <translation type="unfinished">bits</translation>
+      <translation>bits</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="409"/>
       <source>Sets a specific CPU</source>
-      <translation type="unfinished">Sets a specific CPU</translation>
+      <translation>Sélectionner un Processeur spécifique</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="410"/>
       <source>cpu</source>
-      <translation type="unfinished">cpu</translation>
+      <translation>cpu</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="413"/>
       <source>Sets a specific operating system</source>
-      <translation type="unfinished">Sets a specific operating system</translation>
+      <translation>Sélectionner un système d'exploitation</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="414"/>
       <source>os</source>
-      <translation type="unfinished">os</translation>
+      <translation>os</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="418"/>
       <source>Sets the endianness (big or little)</source>
-      <translation type="unfinished">Sets the endianness (big or little)</translation>
+      <translation>Définit le boutisme/endianness (grand ou petit)</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="419"/>
       <source>big|little</source>
-      <translation type="unfinished">big|little</translation>
+      <translation>grand|petit</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="423"/>
@@ -6293,12 +6293,12 @@ Souhaitez-vous les intégrer maintenant ?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="433"/>
       <source>Map the binary at a specific address</source>
-      <translation type="unfinished">Map the binary at a specific address</translation>
+      <translation>Chargement d'un binaire à une adresse spécifique</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="434"/>
       <source>map address</source>
-      <translation type="unfinished">map address</translation>
+      <translation>adresse de mappage</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="437"/>
@@ -6328,7 +6328,7 @@ Souhaitez-vous les intégrer maintenant ?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="449"/>
       <source>Disables virtual addressing</source>
-      <translation type="unfinished">Disables virtual addressing</translation>
+      <translation>Désactiver l&apos;adressage virtuelle</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="453"/>
@@ -6368,7 +6368,7 @@ Souhaitez-vous les intégrer maintenant ?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="563"/>
       <source>Invalid Endianness. You can only set it to `big` or `little`.</source>
-      <translation type="unfinished">Invalid Endianness. You can only set it to `big` or `little`.</translation>
+      <translation>Boutisme invalide. Vous ne pouvez le définir qu'à `grand` ou `petit`.</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="397"/>
@@ -6417,7 +6417,7 @@ Souhaitez-vous les intégrer maintenant ?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="403"/>
       <source>Color of the line which shows which opcodes belongs to a function</source>
-      <translation type="unfinished">Color of the line which shows which opcodes belongs to a function</translation>
+      <translation>Couleur de la ligne qui indique quels opcodes appartiennent à une fonction</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="404"/>
@@ -7359,7 +7359,7 @@ Souhaitez-vous les intégrer maintenant ?</translation>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="325"/>
       <source>Searching...</source>
-      <translation type="unfinished">Searching...</translation>
+      <translation>Rechercher...</translation>
     </message>
   </context>
   <context>
@@ -7410,7 +7410,7 @@ Souhaitez-vous les intégrer maintenant ?</translation>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="167"/>
       <source>Sections</source>
-      <translation type="unfinished">Sections</translation>
+      <translation>Sections</translation>
     </message>
   </context>
   <context>
