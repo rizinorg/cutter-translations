@@ -3996,7 +3996,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="167"/>
       <source>Category</source>
-      <translation type="unfinished">Category</translation>
+      <translation>类别</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="169"/>
@@ -4262,7 +4262,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="163"/>
       <source>Write a decoded or encoded Base64 string</source>
-      <translation type="unfinished">Write a decoded or encoded Base64 string</translation>
+      <translation>写一个解码或编码的 Base64 字符串</translation>
     </message>
     <message>
       <source>Write De\Encoded Base64 string</source>
@@ -4697,7 +4697,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="326"/>
       <source>Experimental</source>
-      <translation type="unfinished">Experimental</translation>
+      <translation>实验性功能</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="364"/>
@@ -5089,7 +5089,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="133"/>
       <source>Tools</source>
-      <translation type="unfinished">Tools</translation>
+      <translation>工具</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="139"/>
@@ -5668,7 +5668,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="275"/>
       <source>Analyze the program using Rizin&apos;s &quot;aaa&quot; command</source>
-      <translation type="unfinished">Analyze the program using Rizin&apos;s &quot;aaa&quot; command</translation>
+      <translation>使用 Rizin&apos;s &quot;aa&quot; 命令分析程序</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="542"/>
@@ -5830,7 +5830,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
       <source>Map new file</source>
-      <translation type="unfinished">Map new file</translation>
+      <translation>映射新文件</translation>
     </message>
   </context>
   <context>
@@ -5989,7 +5989,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="290"/>
       <source>Open a file without additional options/settings.</source>
-      <translation type="unfinished">Open a file without additional options/settings.</translation>
+      <translation>打开一个文件，不使用额外选项/设置。</translation>
     </message>
     <message>
       <source>Open a file with no extra treatment.</source>
@@ -6174,7 +6174,7 @@ WARNING: In Write mode, any changes will be committed to the file on disk. For s
     <message>
       <location filename="../common/IOModesController.cpp" line="94"/>
       <source>Uncommitted changes</source>
-      <translation type="unfinished">Uncommitted changes</translation>
+      <translation>未提交的更改</translation>
     </message>
     <message>
       <source>Uncomitted changes</source>
@@ -6220,7 +6220,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="401"/>
       <source>Sets a specific architecture name</source>
-      <translation type="unfinished">Sets a specific architecture name</translation>
+      <translation>设置一个指定的架构名称</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="402"/>
@@ -6230,7 +6230,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="405"/>
       <source>Sets a specific architecture bits</source>
-      <translation type="unfinished">Sets a specific architecture bits</translation>
+      <translation>设置一个指定的架构比特</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="406"/>
@@ -6240,7 +6240,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="409"/>
       <source>Sets a specific CPU</source>
-      <translation type="unfinished">Sets a specific CPU</translation>
+      <translation>设置一个指定的 CPU</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="410"/>
@@ -6250,7 +6250,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="413"/>
       <source>Sets a specific operating system</source>
-      <translation type="unfinished">Sets a specific operating system</translation>
+      <translation>设置一个指定的操作系统</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="414"/>
@@ -6260,12 +6260,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="418"/>
       <source>Sets the endianness (big or little)</source>
-      <translation type="unfinished">Sets the endianness (big or little)</translation>
+      <translation>设置字节序(大端或小端)</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="419"/>
       <source>big|little</source>
-      <translation type="unfinished">big|little</translation>
+      <translation>大|小</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="423"/>
@@ -6290,12 +6290,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="433"/>
       <source>Map the binary at a specific address</source>
-      <translation type="unfinished">Map the binary at a specific address</translation>
+      <translation>在指定地址映射二进制文件</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="434"/>
       <source>map address</source>
-      <translation type="unfinished">map address</translation>
+      <translation>映射地址</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="437"/>
@@ -6325,7 +6325,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="449"/>
       <source>Disables virtual addressing</source>
-      <translation type="unfinished">Disables virtual addressing</translation>
+      <translation>禁用虚拟地址</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="453"/>
@@ -6365,7 +6365,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="563"/>
       <source>Invalid Endianness. You can only set it to `big` or `little`.</source>
-      <translation type="unfinished">Invalid Endianness. You can only set it to `big` or `little`.</translation>
+      <translation>无效的字节序。您只能将其设置为 `big` 或 `little` 。</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="397"/>
@@ -6414,7 +6414,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="403"/>
       <source>Color of the line which shows which opcodes belongs to a function</source>
-      <translation type="unfinished">Color of the line which shows which opcodes belongs to a function</translation>
+      <translation>行颜色会显示哪些指令属于一个函数</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="404"/>
@@ -7353,7 +7353,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="325"/>
       <source>Searching...</source>
-      <translation type="unfinished">Searching...</translation>
+      <translation>搜索中...</translation>
     </message>
   </context>
   <context>
@@ -7404,7 +7404,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="167"/>
       <source>Sections</source>
-      <translation type="unfinished">Sections</translation>
+      <translation>节区</translation>
     </message>
   </context>
   <context>
