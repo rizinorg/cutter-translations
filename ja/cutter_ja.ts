@@ -627,7 +627,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="158"/>
       <source>The number of tabulate spaces after the offset (asm.tabs.off):</source>
-      <translation>オフセットの後の表形式空白の数 (asm.tabs.off)：</translation>
+      <translation>オフセットの後のタブ数 (asm.tabs.off)：</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="208"/>
@@ -855,12 +855,12 @@
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="43"/>
       <source>Cores:</source>
-      <translation>コア：</translation>
+      <translation>コア:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="59"/>
       <source>Pointer Size:</source>
-      <translation>ポインタのサイズ：</translation>
+      <translation>ポインタのサイズ:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="67"/>
@@ -875,22 +875,22 @@
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="80"/>
       <source>Start Address:</source>
-      <translation>開始アドレス：</translation>
+      <translation>開始アドレス:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="100"/>
       <source>End Address:</source>
-      <translation>終了アドレス：</translation>
+      <translation>終了アドレス:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="117"/>
       <source>Alignment:</source>
-      <translation>配置：</translation>
+      <translation>配置:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="134"/>
       <source>Min String Length:</source>
-      <translation>最小文字列長:</translation>
+      <translation>文字列の最小長:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="157"/>
@@ -967,17 +967,17 @@
     <message>
       <location filename="../core/Basefind.cpp" line="44"/>
       <source>Alignment must be at least </source>
-      <translation type="unfinished">Alignment must be at least </translation>
+      <translation>配置は次の値以上である必要があります: </translation>
     </message>
     <message>
       <location filename="../core/Basefind.cpp" line="48"/>
       <source>Min score must be at least 1</source>
-      <translation>最小スコアは少なくとも 1 でなければなりません</translation>
+      <translation>最小スコアは 1 以上である必要があります</translation>
     </message>
     <message>
       <location filename="../core/Basefind.cpp" line="51"/>
       <source>Min string length must be at least 1</source>
-      <translation>最小文字列長さは少なくとも 1 でなければなりません</translation>
+      <translation>文字列の最小長は 1 以上である必要があります</translation>
     </message>
   </context>
   <context>
@@ -1861,7 +1861,7 @@ Please check the console for more details.</source>
       <location filename="../core/Cutter.cpp" line="4660"/>
       <location filename="../core/Cutter.cpp" line="4711"/>
       <source>Cannot get graph at </source>
-      <translation>次のアドレスにあるグローバルグラフを取得できません: </translation>
+      <translation>次のアドレスのグローバルグラフを取得できません: </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4691"/>
@@ -3071,7 +3071,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="497"/>
       <source>Add or change global variable at %1 (used here)</source>
-      <translation type="unfinished">Add or change global variable at %1 (used here)</translation>
+      <translation>%1 のグローバル変数を追加または変更します (ここで使用されます)</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="573"/>
@@ -3921,37 +3921,37 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="14"/>
       <source>Add Global Variable</source>
-      <translation type="unfinished">Add Global Variable</translation>
+      <translation>グローバル変数を追加</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="20"/>
       <source>Add global variable at</source>
-      <translation type="unfinished">Add global variable at</translation>
+      <translation>次にあるグローバル変数を追加</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="38"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>名前:</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="61"/>
       <source>int</source>
-      <translation type="unfinished">int</translation>
+      <translation>int</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="80"/>
       <source>Type:</source>
-      <translation type="unfinished">Type:</translation>
+      <translation>型:</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.cpp" line="28"/>
       <source>Edit global variable at %1</source>
-      <translation type="unfinished">Edit global variable at %1</translation>
+      <translation>%1 のグローバル変数を編集</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.cpp" line="30"/>
       <source>Add global variable at %1</source>
-      <translation type="unfinished">Add global variable at %1</translation>
+      <translation>%1 のグローバル変数を追加</translation>
     </message>
   </context>
   <context>
@@ -3959,22 +3959,22 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="60"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>アドレス</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="62"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>型</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="64"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>名前</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="66"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>コメント</translation>
     </message>
   </context>
   <context>
@@ -3984,24 +3984,24 @@ Please check the console for more details.</source>
       <location filename="../widgets/GlobalsWidget.ui" line="79"/>
       <location filename="../widgets/GlobalsWidget.cpp" line="206"/>
       <source>Edit Global Variable</source>
-      <translation type="unfinished">Edit Global Variable</translation>
+      <translation>グローバル変数を編集</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.ui" line="84"/>
       <location filename="../widgets/GlobalsWidget.ui" line="87"/>
       <location filename="../widgets/GlobalsWidget.cpp" line="207"/>
       <source>Delete Global Variable</source>
-      <translation type="unfinished">Delete Global Variable</translation>
+      <translation>グローバル変数を削除</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="167"/>
       <source>Category</source>
-      <translation type="unfinished">Category</translation>
+      <translation>カテゴリ</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="169"/>
       <source>Globals</source>
-      <translation type="unfinished">Globals</translation>
+      <translation>グローバル</translation>
     </message>
   </context>
   <context>
@@ -4103,7 +4103,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/GraphView.cpp" line="441"/>
       <source>Cutter graph export</source>
-      <translation type="unfinished">Cutter graph export</translation>
+      <translation>Cutter グラフのエクスポート</translation>
     </message>
   </context>
   <context>
@@ -4262,7 +4262,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="163"/>
       <source>Write a decoded or encoded Base64 string</source>
-      <translation type="unfinished">Write a decoded or encoded Base64 string</translation>
+      <translation>デコードまたはエンコードされた Base64 文字列の書き込み</translation>
     </message>
     <message>
       <source>Write De\Encoded Base64 string</source>
@@ -4697,7 +4697,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="326"/>
       <source>Experimental</source>
-      <translation type="unfinished">Experimental</translation>
+      <translation>実験的</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="364"/>
@@ -5089,7 +5089,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="133"/>
       <source>Tools</source>
-      <translation type="unfinished">Tools</translation>
+      <translation>ツール</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="139"/>
@@ -5147,7 +5147,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="245"/>
       <source>BaseFind</source>
-      <translation type="unfinished">BaseFind</translation>
+      <translation>バイナリのベースアドレスを検索</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="250"/>
@@ -5668,7 +5668,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="275"/>
       <source>Analyze the program using Rizin&apos;s &quot;aaa&quot; command</source>
-      <translation type="unfinished">Analyze the program using Rizin&apos;s &quot;aaa&quot; command</translation>
+      <translation>Rizin の &quot;aaa&quot; コマンドを使用してプログラムを分析</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="542"/>
@@ -5830,7 +5830,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
       <source>Map new file</source>
-      <translation type="unfinished">Map new file</translation>
+      <translation>新しいファイルをマッピングする</translation>
     </message>
   </context>
   <context>
@@ -5989,7 +5989,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="290"/>
       <source>Open a file without additional options/settings.</source>
-      <translation type="unfinished">Open a file without additional options/settings.</translation>
+      <translation>追加のオプション/設定なしでファイルを開きます。</translation>
     </message>
     <message>
       <source>Open a file with no extra treatment.</source>
@@ -6174,7 +6174,7 @@ WARNING: In Write mode, any changes will be committed to the file on disk. For s
     <message>
       <location filename="../common/IOModesController.cpp" line="94"/>
       <source>Uncommitted changes</source>
-      <translation type="unfinished">Uncommitted changes</translation>
+      <translation>未保存の変更</translation>
     </message>
     <message>
       <source>Uncomitted changes</source>
@@ -6220,52 +6220,52 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="401"/>
       <source>Sets a specific architecture name</source>
-      <translation type="unfinished">Sets a specific architecture name</translation>
+      <translation>特定のアーキテクチャ名を設定します</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="402"/>
       <source>arch</source>
-      <translation type="unfinished">arch</translation>
+      <translation>arch</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="405"/>
       <source>Sets a specific architecture bits</source>
-      <translation type="unfinished">Sets a specific architecture bits</translation>
+      <translation>特定のアーキテクチャビットを設定します</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="406"/>
       <source>bits</source>
-      <translation type="unfinished">bits</translation>
+      <translation>bits</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="409"/>
       <source>Sets a specific CPU</source>
-      <translation type="unfinished">Sets a specific CPU</translation>
+      <translation>特定の CPU を設定します</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="410"/>
       <source>cpu</source>
-      <translation type="unfinished">cpu</translation>
+      <translation>cpu</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="413"/>
       <source>Sets a specific operating system</source>
-      <translation type="unfinished">Sets a specific operating system</translation>
+      <translation>特定のオペレーティングシステムを設定します</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="414"/>
       <source>os</source>
-      <translation type="unfinished">os</translation>
+      <translation>os</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="418"/>
       <source>Sets the endianness (big or little)</source>
-      <translation type="unfinished">Sets the endianness (big or little)</translation>
+      <translation>エンディアンを設定します（ビッグエンディアンかリトルエンディアンか）</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="419"/>
       <source>big|little</source>
-      <translation type="unfinished">big|little</translation>
+      <translation>big|little</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="423"/>
@@ -6290,12 +6290,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="433"/>
       <source>Map the binary at a specific address</source>
-      <translation type="unfinished">Map the binary at a specific address</translation>
+      <translation>特定のアドレスにバイナリをマッピングします</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="434"/>
       <source>map address</source>
-      <translation type="unfinished">map address</translation>
+      <translation>アドレスをマッピング</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="437"/>
@@ -6325,7 +6325,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="449"/>
       <source>Disables virtual addressing</source>
-      <translation type="unfinished">Disables virtual addressing</translation>
+      <translation>仮想アドレスを無効にします</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="453"/>
@@ -6365,7 +6365,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="563"/>
       <source>Invalid Endianness. You can only set it to `big` or `little`.</source>
-      <translation type="unfinished">Invalid Endianness. You can only set it to `big` or `little`.</translation>
+      <translation>無効なエンディアンです。`big` または `little` にのみ設定できます。</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="397"/>
@@ -6414,7 +6414,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="403"/>
       <source>Color of the line which shows which opcodes belongs to a function</source>
-      <translation type="unfinished">Color of the line which shows which opcodes belongs to a function</translation>
+      <translation>どのオペコードが関数に属しているかを示す行の色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="404"/>
@@ -7066,7 +7066,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="30"/>
       <source>RzIL statement graph (agI)</source>
-      <translation type="unfinished">RzIL statement graph (agI)</translation>
+      <translation>RzIL ステートメントグラフ (agI)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="31"/>
@@ -7353,7 +7353,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="325"/>
       <source>Searching...</source>
-      <translation type="unfinished">Searching...</translation>
+      <translation>検索中です…</translation>
     </message>
   </context>
   <context>
@@ -7404,7 +7404,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="167"/>
       <source>Sections</source>
-      <translation type="unfinished">Sections</translation>
+      <translation>セクション</translation>
     </message>
   </context>
   <context>
