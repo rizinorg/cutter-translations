@@ -567,7 +567,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="225"/>
       <source>Separate bytes with whitespace (asm.bytes.space)</source>
-      <translation type="unfinished">Separate bytes with whitespace (asm.bytes.space)</translation>
+      <translation>فصل وحدات البايت بمسافة بيضاء (asm.bytes.space)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="100"/>
