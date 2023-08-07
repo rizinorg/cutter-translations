@@ -627,7 +627,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="158"/>
       <source>The number of tabulate spaces after the offset (asm.tabs.off):</source>
-      <translation>عدد أحرف الجدولة بعد الإزاحة (asm.tabs.off):</translation>
+      <translation>عدد مسافات الجدولة بعد الإزاحة (asm.tabs.off):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="208"/>
@@ -637,7 +637,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="289"/>
       <source>Show known variable values when hovering</source>
-      <translation type="unfinished">Show known variable values when hovering</translation>
+      <translation>عرض قيم المتغيرات المعروفة عند التمرير فوق العنصر</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="305"/>
@@ -727,16 +727,16 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="489"/>
       <source>Substitute variables in disassembly (asm.sub.var)</source>
-      <translation type="unfinished">Substitute variables in disassembly (asm.sub.var)</translation>
+      <translation>استبدال المتغيرات في عملية فك التجميع (asm.sub.var)</translation>
     </message>
     <message>
       <source>Substitute variables (asm.sub.var)</source>
-      <translation type="unfinished">Substitute variables (asm.sub.var)</translation>
+      <translation>استبدال المتغيرات (asm.sub.var)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="496"/>
       <source>Substitute entire variable expressions with names (asm.sub.varonly)</source>
-      <translation type="unfinished">Substitute entire variable expressions with names (asm.sub.varonly)</translation>
+      <translation>استبدال التعبيرات المتغيرة بأكملها بأسماء (asm.sub.varonly)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="552"/>
@@ -847,22 +847,22 @@
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="14"/>
       <source>Base64 Encode/Decode</source>
-      <translation type="unfinished">Base64 Encode/Decode</translation>
+      <translation>الترميز/فك الترميز بالأساس 64</translation>
     </message>
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="24"/>
       <source>String:</source>
-      <translation type="unfinished">String:</translation>
+      <translation>السلسلة:</translation>
     </message>
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="38"/>
       <source>Decode</source>
-      <translation type="unfinished">Decode</translation>
+      <translation>ترميز</translation>
     </message>
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="48"/>
       <source>Encode</source>
-      <translation type="unfinished">Encode</translation>
+      <translation>فك ترميز</translation>
     </message>
   </context>
   <context>
@@ -870,58 +870,58 @@
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="43"/>
       <source>Cores:</source>
-      <translation type="unfinished">Cores:</translation>
+      <translation>الأنوية:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="59"/>
       <source>Pointer Size:</source>
-      <translation type="unfinished">Pointer Size:</translation>
+      <translation>حجم المؤشر:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="67"/>
       <source>32</source>
-      <translation type="unfinished">32</translation>
+      <translation>32</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="72"/>
       <source>64</source>
-      <translation type="unfinished">64</translation>
+      <translation>64</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="80"/>
       <source>Start Address:</source>
-      <translation type="unfinished">Start Address:</translation>
+      <translation>عنوان البدأية:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="100"/>
       <source>End Address:</source>
-      <translation type="unfinished">End Address:</translation>
+      <translation>عنوان النهاية:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="117"/>
       <source>Alignment:</source>
-      <translation type="unfinished">Alignment:</translation>
+      <translation>المحاذاة:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="134"/>
       <source>Min String Length:</source>
-      <translation type="unfinished">Min String Length:</translation>
+      <translation>الحد الأدنى لطول للسلسلة:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="157"/>
       <source>Min Score:</source>
-      <translation type="unfinished">Min Score:</translation>
+      <translation>الحد الأدنى لعدد النقاط:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="199"/>
       <source>Remove item</source>
-      <translation type="unfinished">Remove item</translation>
+      <translation>إزالة العنصر</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="204"/>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="207"/>
       <source>Remove all</source>
-      <translation type="unfinished">Remove all</translation>
+      <translation>إزالة الكل</translation>
     </message>
   </context>
   <context>
@@ -930,19 +930,19 @@
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="84"/>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="110"/>
       <source>Copy %1</source>
-      <translation type="unfinished">Copy %1</translation>
+      <translation>نسخ %1</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="85"/>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="111"/>
       <source>Reopen Cutter with base address as %1</source>
-      <translation type="unfinished">Reopen Cutter with base address as %1</translation>
+      <translation>إعادة فتح Cutter باستخدام عنوان الأساس %1</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="86"/>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="112"/>
       <source>Reopen Cutter with map address as %1</source>
-      <translation type="unfinished">Reopen Cutter with map address as %1</translation>
+      <translation>إعادة فتح Cutter باستخدام عنوان المخطط %1</translation>
     </message>
   </context>
   <context>
@@ -950,12 +950,12 @@
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="58"/>
       <source>Score</source>
-      <translation type="unfinished">Score</translation>
+      <translation>عدد النقاط</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="60"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>العنوان</translation>
     </message>
   </context>
   <context>
@@ -963,13 +963,13 @@
     <message>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="81"/>
       <source>Remove item</source>
-      <translation type="unfinished">Remove item</translation>
+      <translation>إزالة العنصر</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="86"/>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="89"/>
       <source>Remove all</source>
-      <translation type="unfinished">Remove all</translation>
+      <translation>إزالة الكل</translation>
     </message>
   </context>
   <context>
@@ -977,22 +977,22 @@
     <message>
       <location filename="../core/Basefind.cpp" line="41"/>
       <source>Start address is &gt;= end address</source>
-      <translation type="unfinished">Start address is &gt;= end address</translation>
+      <translation>عنوان البداية هو &gt;= عنوان النهاية</translation>
     </message>
     <message>
       <location filename="../core/Basefind.cpp" line="44"/>
       <source>Alignment must be at least </source>
-      <translation type="unfinished">Alignment must be at least </translation>
+      <translation>يجب أن تكون المحاذاة على الأقل </translation>
     </message>
     <message>
       <location filename="../core/Basefind.cpp" line="48"/>
       <source>Min score must be at least 1</source>
-      <translation type="unfinished">Min score must be at least 1</translation>
+      <translation>يجب أن يكون الحد الأدنى لعدد النقاط هو 1 على الأقل</translation>
     </message>
     <message>
       <location filename="../core/Basefind.cpp" line="51"/>
       <source>Min string length must be at least 1</source>
-      <translation type="unfinished">Min string length must be at least 1</translation>
+      <translation>يجب أن يكون الحد الأدنى لطول السلسلة هو 1 على الأقل</translation>
     </message>
   </context>
   <context>
@@ -1025,67 +1025,67 @@
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="131"/>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="137"/>
       <source>N/A</source>
-      <translation type="unfinished">N/A</translation>
+      <translation>N/A</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="153"/>
       <source>#</source>
-      <translation type="unfinished">#</translation>
+      <translation>#</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="155"/>
       <source>Fd</source>
-      <translation type="unfinished">Fd</translation>
+      <translation>Fd</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="157"/>
       <source>Bk</source>
-      <translation type="unfinished">Bk</translation>
+      <translation>Bk</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="159"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>النوع</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="161"/>
       <source>Chunks count</source>
-      <translation type="unfinished">Chunks count</translation>
+      <translation>عدد المجموعات</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="163"/>
       <source>Chunks size</source>
-      <translation type="unfinished">Chunks size</translation>
+      <translation>حجم المجموعات</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="171"/>
       <source>Bin number in NBINS or fastbinsY array</source>
-      <translation type="unfinished">Bin number in NBINS or fastbinsY array</translation>
+      <translation>رقم الحاوية في مصفوفة NBINS أو fastbinsY</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="173"/>
       <source>Pointer to first chunk of the bin</source>
-      <translation type="unfinished">Pointer to first chunk of the bin</translation>
+      <translation>مؤشر إلى المجموعة الأولى في الحاوية</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="175"/>
       <source>Pointer to last chunk of the bin</source>
-      <translation type="unfinished">Pointer to last chunk of the bin</translation>
+      <translation>مؤشر إلى المجموعة الأخيرة في الحاوية</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="177"/>
       <source>Type of bin</source>
-      <translation type="unfinished">Type of bin</translation>
+      <translation>نوع الحاوية</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="179"/>
       <source>Number of chunks in the bin</source>
-      <translation type="unfinished">Number of chunks in the bin</translation>
+      <translation>عدد المجموعات في الحاوية</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="181"/>
       <source>Size of all chunks in the bin</source>
-      <translation type="unfinished">Size of all chunks in the bin</translation>
+      <translation>حجم كل المجموعات في الحاوية</translation>
     </message>
   </context>
   <context>
@@ -1128,7 +1128,7 @@
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="111"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>تعليق</translation>
     </message>
   </context>
   <context>
@@ -1290,17 +1290,17 @@
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="34"/>
       <source>Expression - stored as expression</source>
-      <translation type="unfinished">Expression - stored as expression</translation>
+      <translation>التعبير - مخزَّن كتعبير</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="35"/>
       <source>Module offset</source>
-      <translation type="unfinished">Module offset</translation>
+      <translation>إزاحة الوحدة النمطية</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="35"/>
       <source>Offset relative to module</source>
-      <translation type="unfinished">Offset relative to module</translation>
+      <translation>الإزاحة بالنسبة إلى الوحدة النمطية</translation>
     </message>
   </context>
   <context>
@@ -1308,18 +1308,18 @@
     <message>
       <location filename="../widgets/CallGraph.cpp" line="25"/>
       <source>Global Callgraph</source>
-      <translation type="unfinished">Global Callgraph</translation>
+      <translation>الرسم البياني العام للاستدعاء</translation>
     </message>
     <message>
       <location filename="../widgets/CallGraph.cpp" line="25"/>
       <location filename="../widgets/CallGraph.cpp" line="30"/>
       <source>Callgraph</source>
-      <translation type="unfinished">Callgraph</translation>
+      <translation>الرسم البياني للاستدعاء</translation>
     </message>
     <message>
       <location filename="../widgets/CallGraph.cpp" line="30"/>
       <source>GlobalCallgraph</source>
-      <translation type="unfinished">GlobalCallgraph</translation>
+      <translation>GlobalCallgraph</translation>
     </message>
   </context>
   <context>
@@ -1327,111 +1327,111 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="21"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>الاسم</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="23"/>
       <source>Real Name</source>
-      <translation type="unfinished">Real Name</translation>
+      <translation>الاسم الحقيقي</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="25"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>النوع</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="27"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>الإزاحة</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="29"/>
       <source>VTable</source>
-      <translation type="unfinished">VTable</translation>
+      <translation>VTable</translation>
     </message>
   </context>
   <context>
     <name>ClassesWidget</name>
     <message>
       <source>Source:</source>
-      <translation type="unfinished">Source:</translation>
+      <translation>المصدر:</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="621"/>
       <source>Binary Info (Fixed)</source>
-      <translation type="unfinished">Binary Info (Fixed)</translation>
+      <translation>معلومات الملف الثنائي (ثابتة)</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="622"/>
       <source>Analysis (Editable)</source>
-      <translation type="unfinished">Analysis (Editable)</translation>
+      <translation>التحليل (قابل للتعديل)</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="599"/>
       <source>Seek to VTable</source>
-      <translation type="unfinished">Seek to VTable</translation>
+      <translation>المحاولة في VTable</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="600"/>
       <source>Edit Method</source>
-      <translation type="unfinished">Edit Method</translation>
+      <translation>تعديل الأسلوب</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="601"/>
       <source>Add Method</source>
-      <translation type="unfinished">Add Method</translation>
+      <translation>إضافة أسلوب</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="602"/>
       <location filename="../widgets/ClassesWidget.cpp" line="789"/>
       <source>Create new Class</source>
-      <translation type="unfinished">Create new Class</translation>
+      <translation>إنشاء فئة جديدة</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="603"/>
       <source>Rename Class</source>
-      <translation type="unfinished">Rename Class</translation>
+      <translation>إعادة تسمية الفئة</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="604"/>
       <location filename="../widgets/ClassesWidget.cpp" line="805"/>
       <source>Delete Class</source>
-      <translation type="unfinished">Delete Class</translation>
+      <translation>حذف الفئة</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="606"/>
       <source>Classes</source>
-      <translation type="unfinished">Classes</translation>
+      <translation>الفئات</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="741"/>
       <source>Missing VTable in class</source>
-      <translation type="unfinished">Missing VTable in class</translation>
+      <translation>VTable مفقود في الفئة</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="742"/>
       <source>The class %1 does not have any VTable!</source>
-      <translation type="unfinished">The class %1 does not have any VTable!</translation>
+      <translation>لا تحتوي الفئة %1 على أي VTable!</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="789"/>
       <source>Class Name:</source>
-      <translation type="unfinished">Class Name:</translation>
+      <translation>اسم الفئة:</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="806"/>
       <source>Are you sure you want to delete the class %1?</source>
-      <translation type="unfinished">Are you sure you want to delete the class %1?</translation>
+      <translation>هل تريد بالتأكيد حذف الفئة %1؟</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="823"/>
       <source>Rename Class %1</source>
-      <translation type="unfinished">Rename Class %1</translation>
+      <translation>إعادة تسمية الفئة %1</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="824"/>
       <source>Class name:</source>
-      <translation type="unfinished">Class name:</translation>
+      <translation>اسم الفئة:</translation>
     </message>
   </context>
   <context>
@@ -1439,52 +1439,52 @@
     <message>
       <location filename="../widgets/ColorPicker.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>التنسيق</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="87"/>
       <source>Val:</source>
-      <translation type="unfinished">Val:</translation>
+      <translation>القيمة:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="118"/>
       <source>Sat:</source>
-      <translation type="unfinished">Sat:</translation>
+      <translation>التشبع:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="149"/>
       <source>Hue:</source>
-      <translation type="unfinished">Hue:</translation>
+      <translation>التدرج:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="184"/>
       <source>Red:</source>
-      <translation type="unfinished">Red:</translation>
+      <translation>أحمر:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="215"/>
       <source>Green:</source>
-      <translation type="unfinished">Green:</translation>
+      <translation>أخضر:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="246"/>
       <source>Blue:</source>
-      <translation type="unfinished">Blue:</translation>
+      <translation>أزرق:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="281"/>
       <source>Hex:</source>
-      <translation type="unfinished">Hex:</translation>
+      <translation>الرمز السداسي العشري:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="288"/>
       <source>\#HHHHHH</source>
-      <translation type="unfinished">\#HHHHHH</translation>
+      <translation>\#HHHHHH</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="312"/>
       <source>Pick color from screen</source>
-      <translation type="unfinished">Pick color from screen</translation>
+      <translation>اختر لونًا من الشاشة</translation>
     </message>
   </context>
   <context>
@@ -1492,44 +1492,44 @@
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation type="unfinished">Dialog</translation>
+      <translation>مربع الحوار</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.ui" line="26"/>
       <source>Color Theme:</source>
-      <translation type="unfinished">Color Theme:</translation>
+      <translation>سمة اللون:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.ui" line="55"/>
       <source>Search</source>
-      <translation type="unfinished">Search</translation>
+      <translation>البحث</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="35"/>
       <source>Disassembly Preview</source>
-      <translation type="unfinished">Disassembly Preview</translation>
+      <translation>معاينة فك التجميع</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="79"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>خطأ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="93"/>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="144"/>
       <source>Unsaved changes</source>
-      <translation type="unfinished">Unsaved changes</translation>
+      <translation>تغييرات غير محفوظة</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="94"/>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="145"/>
       <source>Are you sure you want to exit without saving? All changes will be lost.</source>
-      <translation type="unfinished">Are you sure you want to exit without saving? All changes will be lost.</translation>
+      <translation>هل تريد بالتأكيد الخروج قبل الحفظ؟ ستفقد كل التغييرات.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="159"/>
       <source>Theme Editor - &lt;%1&gt;</source>
-      <translation type="unfinished">Theme Editor - &lt;%1&gt;</translation>
+      <translation>محرر السمة - &lt;%1&gt;</translation>
     </message>
   </context>
   <context>
@@ -1537,7 +1537,7 @@
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="45"/>
       <source>Standard themes not found</source>
-      <translation type="unfinished">Standard themes not found</translation>
+      <translation>لم يتم العثور على سمات قياسية</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="46"/>
@@ -2915,7 +2915,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="186"/>
       <source>Binary</source>
-      <translation type="unfinished">Binary</translation>
+      <translation>الملف الثنائي</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="190"/>
