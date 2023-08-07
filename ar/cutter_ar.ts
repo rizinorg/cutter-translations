@@ -1689,38 +1689,38 @@
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="235"/>
       <source>Horizontal</source>
-      <translation>أفقي</translation>
+      <translation>أفقية</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="236"/>
       <source>Vertical</source>
-      <translation>رأسي</translation>
+      <translation>رأسية</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="238"/>
       <source>Comments</source>
-      <translation type="unfinished">Comments</translation>
+      <translation>التعليقات</translation>
     </message>
   </context>
   <context>
     <name>Configuration</name>
     <message>
       <source>Critical!</source>
-      <translation type="unfinished">Critical!</translation>
+      <translation>خطأ فادح!</translation>
     </message>
     <message>
       <source>!!! Settings are not writable! Make sure you have a write access to &quot;%1&quot;</source>
-      <translation type="unfinished">!!! Settings are not writable! Make sure you have a write access to &quot;%1&quot;</translation>
+      <translation>!!! الإعدادات ليست قابلة للكتابة! تأكَّد أن لديك إذن الوصول للكتابة إلى &quot;%1&quot;</translation>
     </message>
     <message>
       <location filename="../common/Configuration.cpp" line="146"/>
       <source>Critical Error!</source>
-      <translation type="unfinished">Critical Error!</translation>
+      <translation>خطأ فادح!</translation>
     </message>
     <message>
       <location filename="../common/Configuration.cpp" line="147"/>
       <source>Settings are not writable! Make sure you have a write access to &quot;%1&quot;.</source>
-      <translation type="unfinished">Settings are not writable! Make sure you have a write access to &quot;%1&quot;.</translation>
+      <translation>الإعدادات ليست قابلة للكتابة! تأكَّد أن لديك إذن الوصول للكتابة إلى &quot;%1&quot;.</translation>
     </message>
   </context>
   <context>
@@ -1728,42 +1728,42 @@
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="93"/>
       <source>Rizin Console</source>
-      <translation type="unfinished">Rizin Console</translation>
+      <translation>وحدة تحكم Rizin</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="98"/>
       <source>Debugee Input</source>
-      <translation type="unfinished">Debugee Input</translation>
+      <translation>مدخلات وحدة التحكم الجاري تصحيح أخطائها</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="115"/>
       <source> Type &quot;?&quot; for help</source>
-      <translation type="unfinished"> Type &quot;?&quot; for help</translation>
+      <translation> اكتب &quot;?&quot; للمساعدة</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="137"/>
       <source> Enter input for the debugee</source>
-      <translation type="unfinished"> Enter input for the debugee</translation>
+      <translation> أدخل المدخلات هنا لوحدة التحكم الجاري تصحيح أخطائها</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="153"/>
       <source>Execute command</source>
-      <translation type="unfinished">Execute command</translation>
+      <translation>تنفيذ الأمر</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="159"/>
       <source>...</source>
-      <translation type="unfinished">...</translation>
+      <translation>...</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.cpp" line="76"/>
       <source>Clear Output</source>
-      <translation type="unfinished">Clear Output</translation>
+      <translation>مسح الإخراج</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.cpp" line="85"/>
       <source>Wrap Lines</source>
-      <translation type="unfinished">Wrap Lines</translation>
+      <translation>التفاف الأسطر</translation>
     </message>
   </context>
   <context>
@@ -1772,7 +1772,7 @@
       <location filename="../core/Cutter.cpp" line="274"/>
       <location filename="../core/Cutter.cpp" line="287"/>
       <source>Loading initialization file from </source>
-      <translation type="unfinished">Loading initialization file from </translation>
+      <translation>جارٍ تحميل ملف التهيئة من </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1057"/>
@@ -1781,44 +1781,44 @@
       <location filename="../core/Cutter.cpp" line="1081"/>
       <location filename="../core/Cutter.cpp" line="1085"/>
       <source>Signatures</source>
-      <translation type="unfinished">Signatures</translation>
+      <translation>التوقيعات</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1058"/>
       <source>Cannot apply signature file because the requested arch is not supported by .sig files</source>
-      <translation type="unfinished">Cannot apply signature file because the requested arch is not supported by .sig files</translation>
+      <translation>هل يمكن تطبيق ملف التوقيع لأن المعمارية المطلوبة غير مدعومة من ملفات .sig</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1067"/>
       <source>Found %1 matching signatures!</source>
-      <translation type="unfinished">Found %1 matching signatures!</translation>
+      <translation>تم العثور على %1 من التوقيعات المطابقة!</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1072"/>
       <source>Failed to apply signature file!
 Please check the console for more details.</source>
-      <translation type="unfinished">Failed to apply signature file!
-Please check the console for more details.</translation>
+      <translation>فشل تطبيق ملف التوقيع!
+يُرجى التحقق من وحدة التحكم للمزيد من التفاصيل.</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1082"/>
       <source>Cannot create signature file (check the console for more details).</source>
-      <translation type="unfinished">Cannot create signature file (check the console for more details).</translation>
+      <translation>لا يمكن إنشاء التوقيع (تحقَّق من وحدة التحكم للمزيد من التفاصيل).</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1086"/>
       <source>Written %1 signatures to %2.</source>
-      <translation type="unfinished">Written %1 signatures to %2.</translation>
+      <translation>تمت كتابة %1 من التوقيعات إلى %2.</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1987"/>
       <source>Starting native debug...</source>
-      <translation type="unfinished">Starting native debug...</translation>
+      <translation>جارٍ بدء العملية الأصلية لتصحيح الأخطاء...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2035"/>
       <source>Starting emulation...</source>
-      <translation type="unfinished">Starting emulation...</translation>
+      <translation>جارٍ بدء المحاكاة...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2098"/>
@@ -2138,7 +2138,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/Dashboard.ui" line="455"/>
       <source>Base addr:</source>
-      <translation type="unfinished">Base addr:</translation>
+      <translation>العنوان الأساسي:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="484"/>
@@ -2900,7 +2900,7 @@ Please check the console for more details.</translation>
     </message>
     <message>
       <source>Set Immediate Base to...</source>
-      <translation type="unfinished">Set Immediate Base to...</translation>
+      <translation>تعيين الأساس المباشر إلى...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="177"/>
@@ -2910,7 +2910,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="184"/>
       <source>Set base of immediate value to..</source>
-      <translation type="unfinished">Set base of immediate value to..</translation>
+      <translation>تعيين أساس القيمة المباشرة إلى..</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="186"/>
@@ -3734,7 +3734,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="48"/>
       <source>Enter chunk base address and press enter</source>
-      <translation type="unfinished">Enter chunk base address and press enter</translation>
+      <translation>أدخل العنوان الأساسي للمجموعة واضغط على "إدخال"</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="28"/>
@@ -3752,12 +3752,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="22"/>
       <source>Base</source>
-      <translation type="unfinished">Base</translation>
+      <translation>الأساس</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="29"/>
       <source>Base address of the chunk</source>
-      <translation type="unfinished">Base address of the chunk</translation>
+      <translation>العنوان الأساسي للمجموعة</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="39"/>
@@ -4277,11 +4277,11 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="163"/>
       <source>Write a decoded or encoded Base64 string</source>
-      <translation type="unfinished">Write a decoded or encoded Base64 string</translation>
+      <translation>اكتب سلسلة تم ترميزها/فك ترميزها بالأساس 64</translation>
     </message>
     <message>
       <source>Write De\Encoded Base64 string</source>
-      <translation type="unfinished">Write De\Encoded Base64 string</translation>
+      <translation>كتابة سلسلة تم ترميزها/فك ترميزها بالأساس 64</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="168"/>
@@ -4363,8 +4363,8 @@ Please check the console for more details.</translation>
       <location filename="../widgets/HexWidget.cpp" line="1382"/>
       <source>Error occured during decoding your input.
 Please, make sure, that it is a valid base64 string and try again.</source>
-      <translation type="unfinished">Error occured during decoding your input.
-Please, make sure, that it is a valid base64 string and try again.</translation>
+      <translation>حدث خطأ في أثناء فك ترميز مدخلاتك.
+يُرجى التأكد من أنها سلسلة صالحة تم ترميزها بالأساس 64 وإعادة المحاولة.</translation>
     </message>
     <message>
       <source>Write random</source>
@@ -4899,7 +4899,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="62"/>
       <source>Autoname functions based on context</source>
-      <translation type="unfinished">Autoname functions based on context</translation>
+      <translation>تسمية الدوال تلقائيًا حسب السياق</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="63"/>
@@ -5162,7 +5162,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="245"/>
       <source>BaseFind</source>
-      <translation type="unfinished">BaseFind</translation>
+      <translation>البحث عن الأساس</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="250"/>
@@ -6295,12 +6295,12 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="428"/>
       <source>Load binary at a specific base address</source>
-      <translation type="unfinished">Load binary at a specific base address</translation>
+      <translation>تحميل الملف الثنائي على عنوان أساسي محدَّد</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="429"/>
       <source>base address</source>
-      <translation type="unfinished">base address</translation>
+      <translation>العنوان الأساسي</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="433"/>
