@@ -474,17 +474,17 @@
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="22"/>
       <source>Top</source>
-      <translation type="unfinished">Top</translation>
+      <translation>أعلى عنوان</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="29"/>
       <source>Next</source>
-      <translation type="unfinished">Next</translation>
+      <translation>العنوان التالي</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="36"/>
       <source>Next free</source>
-      <translation type="unfinished">Next free</translation>
+      <translation>العنوان الخالي التالي</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="43"/>
@@ -499,7 +499,7 @@
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="92"/>
       <source>Last Remainder</source>
-      <translation type="unfinished">Last Remainder</translation>
+      <translation>آخر عنوان متبقي</translation>
     </message>
   </context>
   <context>
@@ -587,7 +587,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="82"/>
       <source>Capitalize (asm.capitalize)</source>
-      <translation type="unfinished">Capitalize (asm.capitalize)</translation>
+      <translation>الكتابة بأحرف كبيرة (asm.capitalize)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="201"/>
@@ -597,12 +597,12 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="142"/>
       <source>Show offsets relative to:</source>
-      <translation type="unfinished">Show offsets relative to:</translation>
+      <translation>عرض الإزاحات بالنسبة إلى:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="149"/>
       <source>Functions (asm.reloff)</source>
-      <translation type="unfinished">Functions (asm.reloff)</translation>
+      <translation>الدوال (asm.reloff)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="107"/>
@@ -622,17 +622,17 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="133"/>
       <source>Display flags&apos; real name (asm.flags.real)</source>
-      <translation type="unfinished">Display flags&apos; real name (asm.flags.real)</translation>
+      <translation>عرض الاسم الحقيقي للرايات (asm.flags.real)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="158"/>
       <source>The number of tabulate spaces after the offset (asm.tabs.off):</source>
-      <translation type="unfinished">The number of tabulate spaces after the offset (asm.tabs.off):</translation>
+      <translation>عدد أحرف الجدولة بعد الإزاحة (asm.tabs.off):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="208"/>
       <source>Show preview when hovering</source>
-      <translation type="unfinished">Show preview when hovering</translation>
+      <translation>إظهار معاينة عند التمرير فوق العنصر</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="289"/>
@@ -6360,7 +6360,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="469"/>
       <source>Do not load Cutter plugins</source>
-      <translation>عدم تحميل المكوِّنات الإضافية لـ Cutter</translation>
+      <translation>عدم تحميل المكوِّنات الإضافية لمنصة Cutter</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="473"/>
