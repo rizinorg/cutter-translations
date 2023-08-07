@@ -370,12 +370,12 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="289"/>
       <source>Use information provided by decompiler when highlighting code.</source>
-      <translation>استخدام المعلومات المقدَّمة من برنامج فك التشفير عند تمييز الرمز البرمجي.</translation>
+      <translation>استخدام المعلومات المقدَّمة من برنامج فك التجميع عند تمييز الرمز البرمجي.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="292"/>
       <source>Decompiler based highlighting</source>
-      <translation>التمييز المستند إلى برنامج فك تشفير</translation>
+      <translation>التمييز المستند إلى محوِّل برمجي عكسي</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="312"/>
@@ -532,7 +532,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="272"/>
       <source>Flags (asm.reloff.flags)</source>
-      <translation type="unfinished">Flags (asm.reloff.flags)</translation>
+      <translation>الرايات (asm.reloff.flags)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="183"/>
@@ -6360,7 +6360,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="469"/>
       <source>Do not load Cutter plugins</source>
-      <translation type="unfinished">Do not load Cutter plugins</translation>
+      <translation>عدم تحميل المكوِّنات الإضافية لـ Cutter</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="473"/>
