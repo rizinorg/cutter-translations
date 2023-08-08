@@ -188,7 +188,7 @@
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="68"/>
       <source>Analyze push+ret as jmp (analysis.pushret)</source>
-      <translation>تحليل push+ret باستخدام jmp (analysis.pushret)</translation>
+      <translation>تحليل push+ret كـ jmp (analysis.pushret)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="81"/>
@@ -213,7 +213,7 @@
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="133"/>
       <source>Analyze jump tables in switch statements (analysis.jmp.tbl)</source>
-      <translation>تحليل جداول القفز في عبارات التبديل (analysis.jmp.tbl)</translation>
+      <translation>تحليل جداول الانتقال في عبارات التبديل (analysis.jmp.tbl)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="161"/>
@@ -2284,7 +2284,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1289"/>
       <source>Code size:</source>
-      <translation>حجم الرمز:</translation>
+      <translation>حجم الرمز البرمجي:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1315"/>
@@ -2964,7 +2964,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="240"/>
       <source>Code</source>
-      <translation>الرمز</translation>
+      <translation>الرمز البرمجي</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="244"/>
@@ -4868,32 +4868,32 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="56"/>
       <source>Analyze all symbols</source>
-      <translation type="unfinished">Analyze all symbols</translation>
+      <translation>تحليل كل الرموز</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="57"/>
       <source>Analyze instructions for references</source>
-      <translation type="unfinished">Analyze instructions for references</translation>
+      <translation>تحليل التعليمات للمراجع</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="58"/>
       <source>Analyze function calls</source>
-      <translation type="unfinished">Analyze function calls</translation>
+      <translation>تحليل استدعاءات الدوال</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="59"/>
       <source>Analyze all basic blocks</source>
-      <translation type="unfinished">Analyze all basic blocks</translation>
+      <translation>تحليل كل الكتل الأساسية</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="60"/>
       <source>Analyze all objc references</source>
-      <translation type="unfinished">Analyze all objc references</translation>
+      <translation>تحليل كل مراجع الكائنات</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="61"/>
       <source>Recover class information from RTTI</source>
-      <translation type="unfinished">Recover class information from RTTI</translation>
+      <translation>استعادة معلومات الفئة من RTTI</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="62"/>
@@ -4903,88 +4903,88 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="63"/>
       <source>Emulate code to find computed references</source>
-      <translation type="unfinished">Emulate code to find computed references</translation>
+      <translation>محاكاة الرمز البرمجي للعثور على مراجع حوسبية</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="64"/>
       <source>Analyze all consecutive functions</source>
-      <translation type="unfinished">Analyze all consecutive functions</translation>
+      <translation>تحليل كل الدوال المتتابعة</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="65"/>
       <source>Type and Argument matching analysis</source>
-      <translation type="unfinished">Type and Argument matching analysis</translation>
+      <translation>تحليل تطابق الأنواع والوسيطات</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="66"/>
       <source>Analyze code after trap-sleds</source>
-      <translation type="unfinished">Analyze code after trap-sleds</translation>
+      <translation>تحليل الرمز البرمجي بعد تخطي الأخطاء</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="67"/>
       <source>Analyze function preludes</source>
-      <translation type="unfinished">Analyze function preludes</translation>
+      <translation>تحليل مقدمات الدوال</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="68"/>
       <source>Analyze jump tables in switch statements</source>
-      <translation type="unfinished">Analyze jump tables in switch statements</translation>
+      <translation>تحليل جداول الانتقال في عبارات التبديل</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="71"/>
       <source>Analyze PUSH+RET as JMP</source>
-      <translation type="unfinished">Analyze PUSH+RET as JMP</translation>
+      <translation>تحليل PUSH+RET كـ JMP</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="72"/>
       <source>Continue analysis after each function</source>
-      <translation type="unfinished">Continue analysis after each function</translation>
+      <translation>متابعة التحليل بعد كل دالة</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="393"/>
       <source>No analysis</source>
-      <translation type="unfinished">No analysis</translation>
+      <translation>لا يوجد تحليل</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="395"/>
       <source>Auto-Analysis (aaa)</source>
-      <translation type="unfinished">Auto-Analysis (aaa)</translation>
+      <translation>التحليل التلقائي (aaa)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="397"/>
       <source>Auto-Analysis Experimental (aaaa)</source>
-      <translation type="unfinished">Auto-Analysis Experimental (aaaa)</translation>
+      <translation>التحليل التلقائي التجريبي (aaaa)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="401"/>
       <source>Unknown</source>
-      <translation type="unfinished">Unknown</translation>
+      <translation>غير معروف</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="407"/>
       <source>Level</source>
-      <translation type="unfinished">Level</translation>
+      <translation>المستوى</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="410"/>
       <source>Analysis: Disabled</source>
-      <translation type="unfinished">Analysis: Disabled</translation>
+      <translation>التحليل: متوقف</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="456"/>
       <source>Select PDB file</source>
-      <translation type="unfinished">Select PDB file</translation>
+      <translation>تحديد ملف PDB</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="457"/>
       <source>PDB file (*.pdb)</source>
-      <translation type="unfinished">PDB file (*.pdb)</translation>
+      <translation>ملف PDB (*.pdb)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="457"/>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="479"/>
       <source>All files (*)</source>
-      <translation type="unfinished">All files (*)</translation>
+      <translation>كل الملفات (*)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="478"/>
@@ -4994,7 +4994,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="479"/>
       <source>Script file (*.rz)</source>
-      <translation type="unfinished">Script file (*.rz)</translation>
+      <translation>ملف البرنامج النصي (*.rz)</translation>
     </message>
   </context>
   <context>
@@ -5002,17 +5002,17 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/preferences/InitializationFileEditor.ui" line="14"/>
       <source>CutterRC Editor</source>
-      <translation type="unfinished">CutterRC Editor</translation>
+      <translation>محرر CutterRC</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/InitializationFileEditor.ui" line="20"/>
       <source>TextLabel</source>
-      <translation type="unfinished">TextLabel</translation>
+      <translation>TextLabel</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/InitializationFileEditor.cpp" line="35"/>
       <source>Script is loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
-      <translation type="unfinished">Script is loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
+      <translation>يتم تحميل النص البرمجي من &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
     </message>
   </context>
   <context>
@@ -5020,7 +5020,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../common/Decompiler.cpp" line="109"/>
       <source>Failed to parse JSON from jsdec</source>
-      <translation type="unfinished">Failed to parse JSON from jsdec</translation>
+      <translation>فشل تحليل JSON من jsdec</translation>
     </message>
   </context>
   <context>
@@ -5028,43 +5028,43 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/LayoutManager.ui" line="14"/>
       <source>Layout</source>
-      <translation type="unfinished">Layout</translation>
+      <translation>التخطيط</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.ui" line="25"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>إعادة التسمية</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.ui" line="32"/>
       <location filename="../dialogs/LayoutManager.cpp" line="60"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>حذف</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="42"/>
       <source>Rename layout error</source>
-      <translation type="unfinished">Rename layout error</translation>
+      <translation>إعادة تسمية خطأ التخطيط</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="43"/>
       <source>&apos;%1&apos; is already used.</source>
-      <translation type="unfinished">&apos;%1&apos; is already used.</translation>
+      <translation>&apos;%1&apos; iمستخدم بالفعل.</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="45"/>
       <source>Save layout</source>
-      <translation type="unfinished">Save layout</translation>
+      <translation>حفظ التخطيط</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="45"/>
       <source>Enter name</source>
-      <translation type="unfinished">Enter name</translation>
+      <translation>أدخل الاسم</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="61"/>
       <source>Do you want to delete &apos;%1&apos;</source>
-      <translation type="unfinished">Do you want to delete &apos;%1&apos;</translation>
+      <translation>هل تريد حذف &apos;%1&apos;</translation>
     </message>
   </context>
   <context>
@@ -5072,91 +5072,91 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="33"/>
       <source>Add extra...</source>
-      <translation type="unfinished">Add extra...</translation>
+      <translation>إضافة...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="61"/>
       <source>File</source>
-      <translation type="unfinished">File</translation>
+      <translation>الملف</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="68"/>
       <source>Set mode</source>
-      <translation type="unfinished">Set mode</translation>
+      <translation>تعيين الوضع</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="97"/>
       <location filename="../core/MainWindow.cpp" line="293"/>
       <source>View</source>
-      <translation type="unfinished">View</translation>
+      <translation>عرض</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="104"/>
       <source>Zoom</source>
-      <translation type="unfinished">Zoom</translation>
+      <translation>تكبير/تصغير</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="113"/>
       <source>Layouts</source>
-      <translation type="unfinished">Layouts</translation>
+      <translation>التخطيطات</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="133"/>
       <source>Tools</source>
-      <translation type="unfinished">Tools</translation>
+      <translation>الأدوات</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="139"/>
       <source>Help</source>
-      <translation type="unfinished">Help</translation>
+      <translation>المساعدة</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="147"/>
       <location filename="../core/MainWindow.ui" line="513"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>تعديل</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="156"/>
       <source>Windows</source>
-      <translation type="unfinished">Windows</translation>
+      <translation>النوافذ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="160"/>
       <location filename="../core/MainWindow.cpp" line="147"/>
       <location filename="../core/MainWindow.cpp" line="148"/>
       <source>Plugins</source>
-      <translation type="unfinished">Plugins</translation>
+      <translation>المكوِّنات الإضافية</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="165"/>
       <source>Info...</source>
-      <translation type="unfinished">Info...</translation>
+      <translation>المعلومات...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="170"/>
       <source>Debug...</source>
-      <translation type="unfinished">Debug...</translation>
+      <translation>تصحيح الأخطاء...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="185"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>تصحيح الأخطاء</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="232"/>
       <source>Reset to default layout</source>
-      <translation type="unfinished">Reset to default layout</translation>
+      <translation>إعادة التعيين إلى التخطيط الافتراضي</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="237"/>
       <source>Zen Mode</source>
-      <translation type="unfinished">Zen Mode</translation>
+      <translation>وضع Zen</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="240"/>
       <source>Zen mode</source>
-      <translation type="unfinished">Zen mode</translation>
+      <translation>وضع Zen</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="245"/>
@@ -5166,27 +5166,27 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="250"/>
       <source>About</source>
-      <translation type="unfinished">About</translation>
+      <translation>نبذة</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="255"/>
       <source>Report an issue</source>
-      <translation type="unfinished">Report an issue</translation>
+      <translation>الإبلاغ عن مشكلة</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="260"/>
       <source>New Window</source>
-      <translation type="unfinished">New Window</translation>
+      <translation>نافذة جديدة</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="263"/>
       <source>Ctrl+N</source>
-      <translation type="unfinished">Ctrl+N</translation>
+      <translation>Ctrl+N</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="268"/>
       <source>Close</source>
-      <translation type="unfinished">Close</translation>
+      <translation>إغلاق</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="273"/>
@@ -5194,211 +5194,211 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="872"/>
       <location filename="../core/MainWindow.cpp" line="1243"/>
       <source>Save layout</source>
-      <translation type="unfinished">Save layout</translation>
+      <translation>حفظ التخطيط</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="281"/>
       <source>Documentation</source>
-      <translation type="unfinished">Documentation</translation>
+      <translation>الوثائق</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="286"/>
       <source>Map File</source>
-      <translation type="unfinished">Map File</translation>
+      <translation>ملف المخطط</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="289"/>
       <source>Ctrl+M</source>
-      <translation type="unfinished">Ctrl+M</translation>
+      <translation>Ctrl+M</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="294"/>
       <location filename="../core/MainWindow.cpp" line="728"/>
       <location filename="../core/MainWindow.cpp" line="751"/>
       <source>Save Project</source>
-      <translation type="unfinished">Save Project</translation>
+      <translation>حفظ المشروع</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="297"/>
       <source>Ctrl+S</source>
-      <translation type="unfinished">Ctrl+S</translation>
+      <translation>Ctrl+S</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="302"/>
       <source>Cut</source>
-      <translation type="unfinished">Cut</translation>
+      <translation>قص</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="307"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>نسخ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="312"/>
       <location filename="../core/MainWindow.ui" line="518"/>
       <source>Paste</source>
-      <translation type="unfinished">Paste</translation>
+      <translation>لصق</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="317"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>حذف</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="322"/>
       <location filename="../core/MainWindow.ui" line="325"/>
       <source>Select all</source>
-      <translation type="unfinished">Select all</translation>
+      <translation>تحديد الكل</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="330"/>
       <source>Find</source>
-      <translation type="unfinished">Find</translation>
+      <translation>البحث</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="335"/>
       <location filename="../core/MainWindow.ui" line="338"/>
       <source>Find next</source>
-      <translation type="unfinished">Find next</translation>
+      <translation>البحث عن التالي</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="343"/>
       <location filename="../core/MainWindow.ui" line="346"/>
       <source>Find previous</source>
-      <translation type="unfinished">Find previous</translation>
+      <translation>البحث عن السابق</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="355"/>
       <source>Undo Seek</source>
-      <translation type="unfinished">Undo Seek</translation>
+      <translation>التراجع عن البحث</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="358"/>
       <source>Go back</source>
-      <translation type="unfinished">Go back</translation>
+      <translation>العودة</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="367"/>
       <source>Redo Seek</source>
-      <translation type="unfinished">Redo Seek</translation>
+      <translation>إعادة البحث</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="378"/>
       <source>Unlock Panels</source>
-      <translation type="unfinished">Unlock Panels</translation>
+      <translation>فتح اللوحات</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="381"/>
       <source>Toggle panel locks</source>
-      <translation type="unfinished">Toggle panel locks</translation>
+      <translation>تبديل تأمين اللوحات</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="400"/>
       <source>Theme</source>
-      <translation type="unfinished">Theme</translation>
+      <translation>السمة</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="415"/>
       <location filename="../core/MainWindow.ui" line="418"/>
       <source>Tabs up/down</source>
-      <translation type="unfinished">Tabs up/down</translation>
+      <translation>تحريك علامات التبويب لأعلى/لأسفل</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="427"/>
       <source>Refresh</source>
-      <translation type="unfinished">Refresh</translation>
+      <translation>التحديث</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="435"/>
       <source>Show Tabs at the Top</source>
-      <translation type="unfinished">Show Tabs at the Top</translation>
+      <translation>عرض علامات التبويب في الأعلى</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="438"/>
       <source>Toggle tab position</source>
-      <translation type="unfinished">Toggle tab position</translation>
+      <translation>تبديل موضع علامات التبويب</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="443"/>
       <source>Dark Theme</source>
-      <translation type="unfinished">Dark Theme</translation>
+      <translation>السمة الداكنة</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="448"/>
       <location filename="../core/MainWindow.ui" line="451"/>
       <source>Load layout</source>
-      <translation type="unfinished">Load layout</translation>
+      <translation>تحميل التخطيط</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="456"/>
       <source>Default Theme</source>
-      <translation type="unfinished">Default Theme</translation>
+      <translation>السمة الافتراضية</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="461"/>
       <source>Bindiff</source>
-      <translation type="unfinished">Bindiff</translation>
+      <translation>Bindiff</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="466"/>
       <source>Analysis</source>
-      <translation type="unfinished">Analysis</translation>
+      <translation>التحليل</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="471"/>
       <source>Test menu</source>
-      <translation type="unfinished">Test menu</translation>
+      <translation>قائمة الاختبار</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="476"/>
       <location filename="../core/MainWindow.ui" line="479"/>
       <source>Copy hexpair</source>
-      <translation type="unfinished">Copy hexpair</translation>
+      <translation>نسخ الزوج السداسي العشري</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="484"/>
       <location filename="../core/MainWindow.ui" line="487"/>
       <source>Copy text</source>
-      <translation type="unfinished">Copy text</translation>
+      <translation>نسخ النص</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="492"/>
       <source>Copy ASCII</source>
-      <translation type="unfinished">Copy ASCII</translation>
+      <translation>نسخ ASCII</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="497"/>
       <location filename="../core/MainWindow.ui" line="500"/>
       <source>Insert string</source>
-      <translation type="unfinished">Insert string</translation>
+      <translation>إدراج السلسلة</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="505"/>
       <location filename="../core/MainWindow.ui" line="508"/>
       <source>Insert hex</source>
-      <translation type="unfinished">Insert hex</translation>
+      <translation>إدراج العدد السداسي</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="523"/>
       <source>Show/Hide bytes</source>
-      <translation type="unfinished">Show/Hide bytes</translation>
+      <translation>إظهار/إخفاء وحدات بايت</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="528"/>
       <source>Switch case</source>
-      <translation type="unfinished">Switch case</translation>
+      <translation>تبديل حالة الأحرف</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="533"/>
       <location filename="../core/MainWindow.ui" line="536"/>
       <source>Copy all</source>
-      <translation type="unfinished">Copy all</translation>
+      <translation>نسخ الكل</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="541"/>
       <location filename="../core/MainWindow.ui" line="544"/>
       <source>Copy bytes</source>
-      <translation type="unfinished">Copy bytes</translation>
+      <translation>نسخ وحدات بايت</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="549"/>
@@ -5406,76 +5406,76 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="557"/>
       <location filename="../core/MainWindow.ui" line="560"/>
       <source>Copy disasm</source>
-      <translation type="unfinished">Copy disasm</translation>
+      <translation>نسخ التفكيك</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="572"/>
       <location filename="../core/MainWindow.ui" line="575"/>
       <source>Start web server</source>
-      <translation type="unfinished">Start web server</translation>
+      <translation>تشغيل خادم الويب</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="580"/>
       <source>1</source>
-      <translation type="unfinished">1</translation>
+      <translation>1</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="585"/>
       <source>2</source>
-      <translation type="unfinished">2</translation>
+      <translation>2</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="590"/>
       <source>4</source>
-      <translation type="unfinished">4</translation>
+      <translation>4</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="595"/>
       <source>8</source>
-      <translation type="unfinished">8</translation>
+      <translation>8</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="600"/>
       <source>16</source>
-      <translation type="unfinished">16</translation>
+      <translation>16</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="605"/>
       <source>32</source>
-      <translation type="unfinished">32</translation>
+      <translation>32</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="610"/>
       <source>64</source>
-      <translation type="unfinished">64</translation>
+      <translation>64</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="615"/>
       <source>Syntax AT&amp;T/Intel</source>
-      <translation type="unfinished">Syntax AT&amp;T/Intel</translation>
+      <translation>بناء الجمل لشركة AT&amp;T/Intel</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="620"/>
       <location filename="../core/MainWindow.ui" line="630"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>إعادة التسمية</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="625"/>
       <location filename="../core/MainWindow.ui" line="635"/>
       <source>Undefine</source>
-      <translation type="unfinished">Undefine</translation>
+      <translation>إلغاء التحديد</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="640"/>
       <source>Add comment</source>
-      <translation type="unfinished">Add comment</translation>
+      <translation>إضافة تعليق</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="652"/>
       <location filename="../core/MainWindow.ui" line="655"/>
       <source>Show/Hide bottom pannel</source>
-      <translation type="unfinished">Show/Hide bottom pannel</translation>
+      <translation>إظهار/إخفاء اللوحة السفلية</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="660"/>
@@ -5485,164 +5485,164 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="665"/>
       <source>Reset Settings</source>
-      <translation type="unfinished">Reset Settings</translation>
+      <translation>إعادة تعيين الإعدادات</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="668"/>
       <source>Reset settings</source>
-      <translation type="unfinished">Reset settings</translation>
+      <translation>إعادة تعيين الإعدادات</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="673"/>
       <source>Quit</source>
-      <translation type="unfinished">Quit</translation>
+      <translation>خروج</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="676"/>
       <source>Ctrl+Q</source>
-      <translation type="unfinished">Ctrl+Q</translation>
+      <translation>Ctrl+Q</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="684"/>
       <source>Exports</source>
-      <translation type="unfinished">Exports</translation>
+      <translation>عمليات التصدير</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="687"/>
       <source>Show/Hide Exports panel</source>
-      <translation type="unfinished">Show/Hide Exports panel</translation>
+      <translation>إظهار/إخفاء لوحة عمليات التصدير</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="692"/>
       <source>Refresh Contents</source>
-      <translation type="unfinished">Refresh Contents</translation>
+      <translation>تحديث المحتويات</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="695"/>
       <source>Refresh contents</source>
-      <translation type="unfinished">Refresh contents</translation>
+      <translation>تحديث المحتويات</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="703"/>
       <source>Show ESIL rather than assembly</source>
-      <translation type="unfinished">Show ESIL rather than assembly</translation>
+      <translation>عرض ESIL بدلًا من التجميع</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="711"/>
       <source>Show pseudocode rather than assembly</source>
-      <translation type="unfinished">Show pseudocode rather than assembly</translation>
+      <translation>عرض رمز برمجي زائف بدلًا من التجميع</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="722"/>
       <source>Display offsets</source>
-      <translation type="unfinished">Display offsets</translation>
+      <translation>عرض الإزاحات</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="727"/>
       <source>Preferences</source>
-      <translation type="unfinished">Preferences</translation>
+      <translation>التفضيلات</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="732"/>
       <source>Save Project As...</source>
-      <translation type="unfinished">Save Project As...</translation>
+      <translation>حفظ المشروع كـ...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="740"/>
       <source>Graph</source>
-      <translation type="unfinished">Graph</translation>
+      <translation>رسم بياني</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="745"/>
       <source>Import PDB</source>
-      <translation type="unfinished">Import PDB</translation>
+      <translation>استيراد PDB</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="750"/>
       <source>Analyze Program</source>
-      <translation type="unfinished">Analyze Program</translation>
+      <translation>تحليل البرنامج</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="755"/>
       <source>Export as code</source>
-      <translation type="unfinished">Export as code</translation>
+      <translation>التصدير كرمز برمجي</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="760"/>
       <location filename="../core/MainWindow.cpp" line="1803"/>
       <source>Apply Signature From File</source>
-      <translation type="unfinished">Apply Signature From File</translation>
+      <translation>تطبيق التوقيع من الملف</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="765"/>
       <location filename="../core/MainWindow.cpp" line="1824"/>
       <source>Create New Signature File</source>
-      <translation type="unfinished">Create New Signature File</translation>
+      <translation>إنشاء ملف توقيع جديد</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="770"/>
       <source>Add Hexdump</source>
-      <translation type="unfinished">Add Hexdump</translation>
+      <translation>إضافة تفريغ سداسي</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="775"/>
       <source>Add Decompiler</source>
-      <translation type="unfinished">Add Decompiler</translation>
+      <translation>إضافة محوِّل برمجي عكسي</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="780"/>
       <source>Add Disassembly</source>
-      <translation type="unfinished">Add Disassembly</translation>
+      <translation>إضافة تفكيك</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="785"/>
       <source>Add Graph</source>
-      <translation type="unfinished">Add Graph</translation>
+      <translation>إضافة رسم بياني</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="796"/>
       <source>Grouped dock dragging</source>
-      <translation type="unfinished">Grouped dock dragging</translation>
+      <translation>سحب مساحة إرساء مجمَّعة</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="801"/>
       <source>Zoom In</source>
-      <translation type="unfinished">Zoom In</translation>
+      <translation>التكبير</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="804"/>
       <source>Ctrl++</source>
-      <translation type="unfinished">Ctrl++</translation>
+      <translation>Ctrl++</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="812"/>
       <source>Zoom Out</source>
-      <translation type="unfinished">Zoom Out</translation>
+      <translation>التصغير</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="815"/>
       <source>Ctrl+-</source>
-      <translation type="unfinished">Ctrl+-</translation>
+      <translation>Ctrl+-</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="823"/>
       <source>Reset</source>
-      <translation type="unfinished">Reset</translation>
+      <translation>إعادة التعيين</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="826"/>
       <source>Ctrl+=</source>
-      <translation type="unfinished">Ctrl+=</translation>
+      <translation>Ctrl+=</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="834"/>
       <source>Commit changes</source>
-      <translation type="unfinished">Commit changes</translation>
+      <translation>تنفيذ التغييرات</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="842"/>
       <source>Write mode</source>
-      <translation type="unfinished">Write mode</translation>
+      <translation>وضع الكتابة</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="845"/>
