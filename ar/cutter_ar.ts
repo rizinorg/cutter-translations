@@ -5126,7 +5126,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.cpp" line="147"/>
       <location filename="../core/MainWindow.cpp" line="148"/>
       <source>Plugins</source>
-      <translation>المكوِّنات الإضافية</translation>
+      <translation>المكونات الإضافية</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="165"/>
@@ -5637,7 +5637,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="834"/>
       <source>Commit changes</source>
-      <translation>تنفيذ التغييرات</translation>
+      <translation>إجراء التغييرات</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="842"/>
@@ -5647,37 +5647,37 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="845"/>
       <source>Open the file in write mode. Every change to the file will change the original file on disk.</source>
-      <translation type="unfinished">Open the file in write mode. Every change to the file will change the original file on disk.</translation>
+      <translation>فتح الملف في وضع الكتابة. سيؤدي كل تغيير في الملف إلى تغيير الملف الأصلي على القرص.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="853"/>
       <source>Cache mode</source>
-      <translation type="unfinished">Cache mode</translation>
+      <translation>وضع ذاكرة التخزين المؤقت</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="856"/>
       <source>Enable cache mode. Changes to the file would not be applied to disk unless you specifically commit them. This is a safer option.</source>
-      <translation type="unfinished">Enable cache mode. Changes to the file would not be applied to disk unless you specifically commit them. This is a safer option.</translation>
+      <translation>تفعيل وضع ذاكرة التخزين المؤقت. لن يتم تطبيق التغييرات في الملف على القرص إلا إذا أجريتها بشكلٍ محدَّد. هذا خيار أكثر أمانًا.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="867"/>
       <source>Read-Only mode</source>
-      <translation type="unfinished">Read-Only mode</translation>
+      <translation>وضع القراءة فقط</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="877"/>
       <source>Manage layouts</source>
-      <translation type="unfinished">Manage layouts</translation>
+      <translation>إدارة التخطيطات</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="256"/>
       <source>No plugins are installed. Check the plugins section on Cutter documentation to learn more.</source>
-      <translation type="unfinished">No plugins are installed. Check the plugins section on Cutter documentation to learn more.</translation>
+      <translation>لم يتم تثبيت أي مكونات إضافية. تحقَّق من قسم المكونات الإضافية في وثائق Cutter لمعرفة المزيد.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="261"/>
       <source>The installed plugins didn&apos;t add entries to this menu.</source>
-      <translation type="unfinished">The installed plugins didn&apos;t add entries to this menu.</translation>
+      <translation>لم تُضِف المكونات الإضافية المثبَّتة أي مدخلات إلى هذه القائمة.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="275"/>
@@ -5687,79 +5687,79 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="542"/>
       <source>Script loading</source>
-      <translation type="unfinished">Script loading</translation>
+      <translation>جارٍ تحميل البرنامج النصي</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="543"/>
       <source>Do you want to load the &apos;%1&apos; script?</source>
-      <translation type="unfinished">Do you want to load the &apos;%1&apos; script?</translation>
+      <translation>هل تريد تحميل البرنامج النصي &apos;%1&apos;؟</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="561"/>
       <source>Cannot open file!</source>
-      <translation type="unfinished">Cannot open file!</translation>
+      <translation>تعذَّر فتح الملف!</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="562"/>
       <source>Could not open the file! Make sure the file exists and that you have the correct permissions.</source>
-      <translation type="unfinished">Could not open the file! Make sure the file exists and that you have the correct permissions.</translation>
+      <translation>تعذَّر فتح الملف! تأكَّد أن الملف موجود وأن لديك الأذونات الصحيحة.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="625"/>
       <source>Failed to open project: %1</source>
-      <translation type="unfinished">Failed to open project: %1</translation>
+      <translation>فشل فتح المشروع: %1</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="630"/>
       <source>Open Project</source>
-      <translation type="unfinished">Open Project</translation>
+      <translation>فتح المشروع</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="752"/>
       <source>Failed to save project: %1</source>
-      <translation type="unfinished">Failed to save project: %1</translation>
+      <translation>فشل حفظ المشروع: %1</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="780"/>
       <source>Do you really want to exit?
 Save your project before closing!</source>
-      <translation type="unfinished">Do you really want to exit?
-Save your project before closing!</translation>
+      <translation>هل تريد حقًا الخروج؟
+احفظ مشروعك قبل الإغلاق!</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1056"/>
       <source>New disassembly</source>
-      <translation type="unfinished">New disassembly</translation>
+      <translation>تفكيك جديد</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1058"/>
       <source>New graph</source>
-      <translation type="unfinished">New graph</translation>
+      <translation>رسم بياني جديد</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1060"/>
       <source>New hexdump</source>
-      <translation type="unfinished">New hexdump</translation>
+      <translation>تفريغ سداسي جديد</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1061"/>
       <source>New Decompiler</source>
-      <translation type="unfinished">New Decompiler</translation>
+      <translation>محوِّل برمجي عكسي جديد</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1240"/>
       <source>Save layout error</source>
-      <translation type="unfinished">Save layout error</translation>
+      <translation>خطأ في حفظ التخطيط</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1241"/>
       <source>&apos;%1&apos; is not a valid name.</source>
-      <translation type="unfinished">&apos;%1&apos; is not a valid name.</translation>
+      <translation>&apos;%1&apos; ليس اسمًا صالحًا.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1243"/>
       <source>Enter name</source>
-      <translation type="unfinished">Enter name</translation>
+      <translation>أدخل الاسم</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1554"/>
@@ -5769,39 +5769,39 @@ Save your project before closing!</translation>
     <message>
       <location filename="../core/MainWindow.cpp" line="1597"/>
       <source>Do you really want to clear all settings?</source>
-      <translation type="unfinished">Do you really want to clear all settings?</translation>
+      <translation>هل تريد حقًا مسح كل الإعدادات؟</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1697"/>
       <source>Select PDB file</source>
-      <translation type="unfinished">Select PDB file</translation>
+      <translation>تحديد ملف PDB</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1698"/>
       <source>PDB file (*.pdb)</source>
-      <translation type="unfinished">PDB file (*.pdb)</translation>
+      <translation>ملف PDB (*.pdb)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1698"/>
       <source>All files (*)</source>
-      <translation type="unfinished">All files (*)</translation>
+      <translation>كل الملفات (*)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1708"/>
       <source>%1 loaded.</source>
-      <translation type="unfinished">%1 loaded.</translation>
+      <translation>تم تحميل %1.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1799"/>
       <location filename="../core/MainWindow.cpp" line="1821"/>
       <source>Signature File (*.sig)</source>
-      <translation type="unfinished">Signature File (*.sig)</translation>
+      <translation>ملف التوقيع (*.sig)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1800"/>
       <location filename="../core/MainWindow.cpp" line="1822"/>
       <source>Pattern File (*.pat)</source>
-      <translation type="unfinished">Pattern File (*.pat)</translation>
+      <translation>ملف النمط (*.pdb)</translation>
     </message>
   </context>
   <context>
@@ -5809,42 +5809,42 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="14"/>
       <source>Map New File</source>
-      <translation type="unfinished">Map New File</translation>
+      <translation>تخطيط ملف جديد</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="26"/>
       <source>File:</source>
-      <translation type="unfinished">File:</translation>
+      <translation>الملف:</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="52"/>
       <location filename="../dialogs/MapFileDialog.cpp" line="18"/>
       <source>Select file</source>
-      <translation type="unfinished">Select file</translation>
+      <translation>تحديد الملف</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="59"/>
       <source>Map address:</source>
-      <translation type="unfinished">Map address:</translation>
+      <translation>عنوان المخطط:</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="72"/>
       <source>0x40000</source>
-      <translation type="unfinished">0x40000</translation>
+      <translation>0x40000</translation>
     </message>
     <message>
       <source>Map new file file</source>
-      <translation type="unfinished">Map new file file</translation>
+      <translation>تخطيط ملف جديد</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
       <source>Failed to map a new file</source>
-      <translation type="unfinished">Failed to map a new file</translation>
+      <translation>فشل تخطيط ملف جديد</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
       <source>Map new file</source>
-      <translation type="unfinished">Map new file</translation>
+      <translation>تخطيط ملف جديد</translation>
     </message>
   </context>
   <context>
@@ -5852,27 +5852,27 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="58"/>
       <source>Offset start</source>
-      <translation type="unfinished">Offset start</translation>
+      <translation>بدء الإزاحة</translation>
     </message>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="60"/>
       <source>Offset end</source>
-      <translation type="unfinished">Offset end</translation>
+      <translation>نهاية الإزاحة</translation>
     </message>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="62"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>الاسم</translation>
     </message>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="64"/>
       <source>Permissions</source>
-      <translation type="unfinished">Permissions</translation>
+      <translation>الأذونات</translation>
     </message>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="66"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>التعليق</translation>
     </message>
   </context>
   <context>
@@ -5880,7 +5880,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="123"/>
       <source>Memory Map</source>
-      <translation type="unfinished">Memory Map</translation>
+      <translation>مخطط الذاكرة</translation>
     </message>
   </context>
   <context>
@@ -5888,17 +5888,17 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/MultitypeFileSaveDialog.cpp" line="24"/>
       <source>Detect type (*)</source>
-      <translation type="unfinished">Detect type (*)</translation>
+      <translation>اكتشاف النوع (*)</translation>
     </message>
     <message>
       <location filename="../dialogs/MultitypeFileSaveDialog.cpp" line="63"/>
       <source>File save error</source>
-      <translation type="unfinished">File save error</translation>
+      <translation>خطأ في حفظ الملف</translation>
     </message>
     <message>
       <location filename="../dialogs/MultitypeFileSaveDialog.cpp" line="64"/>
       <source>Unrecognized extension &apos;%1&apos;</source>
-      <translation type="unfinished">Unrecognized extension &apos;%1&apos;</translation>
+      <translation>إضافة غير معروفة &apos;%1&apos;</translation>
     </message>
   </context>
   <context>
@@ -5906,7 +5906,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/NativeDebugDialog.ui" line="35"/>
       <source>Command line arguments:</source>
-      <translation type="unfinished">Command line arguments:</translation>
+      <translation>وسيطات سطر الأوامر:</translation>
     </message>
   </context>
   <context>
@@ -5915,104 +5915,104 @@ Save your project before closing!</translation>
       <location filename="../dialogs/NewFileDialog.ui" line="20"/>
       <location filename="../dialogs/NewFileDialog.ui" line="149"/>
       <source>Open File</source>
-      <translation type="unfinished">Open File</translation>
+      <translation>فتح الملف</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="79"/>
       <source>About</source>
-      <translation type="unfinished">About</translation>
+      <translation>نبذة</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="169"/>
       <source>&lt;b&gt;Select new file&lt;b&gt;</source>
-      <translation type="unfinished">&lt;b&gt;Select new file&lt;b&gt;</translation>
+      <translation>&lt;b&gt;تحديد ملف جديد&lt;b&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="182"/>
       <location filename="../dialogs/NewFileDialog.ui" line="390"/>
       <source>Select</source>
-      <translation type="unfinished">Select</translation>
+      <translation>تحديد</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="202"/>
       <source>&lt;b&gt;IO&lt;/b&gt;</source>
-      <translation type="unfinished">&lt;b&gt;IO&lt;/b&gt;</translation>
+      <translation>&lt;b&gt;IO&lt;/b&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="296"/>
       <source>Don&apos;t open any file</source>
-      <translation type="unfinished">Don&apos;t open any file</translation>
+      <translation>عدم فتح أي ملف</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="303"/>
       <location filename="../dialogs/NewFileDialog.ui" line="360"/>
       <location filename="../dialogs/NewFileDialog.ui" line="501"/>
       <source>Open</source>
-      <translation type="unfinished">Open</translation>
+      <translation>فتح</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="316"/>
       <source>Open Shellcode</source>
-      <translation type="unfinished">Open Shellcode</translation>
+      <translation>فتح Shellcode</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="328"/>
       <source>&lt;b&gt;Paste Shellcode&lt;b&gt;</source>
-      <translation type="unfinished">&lt;b&gt;Paste Shellcode&lt;b&gt;</translation>
+      <translation>&lt;b&gt;لصق Shellcode&lt;b&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="370"/>
       <source>Projects</source>
-      <translation type="unfinished">Projects</translation>
+      <translation>المشاريع</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="410"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Open Project&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Open Project&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;فتح مشروع&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="519"/>
       <source>Remove item</source>
-      <translation type="unfinished">Remove item</translation>
+      <translation>إزالة العنصر</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="524"/>
       <source>Clear all</source>
-      <translation type="unfinished">Clear all</translation>
+      <translation>مسح الكل</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="529"/>
       <source>Delete project</source>
-      <translation type="unfinished">Delete project</translation>
+      <translation>حذف المشروع</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="534"/>
       <source>Clear all projects</source>
-      <translation type="unfinished">Clear all projects</translation>
+      <translation>مسح كل المشاريع</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="95"/>
       <source>Select file</source>
-      <translation type="unfinished">Select file</translation>
+      <translation>تحديد الملف</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="107"/>
       <source>Open Project</source>
-      <translation type="unfinished">Open Project</translation>
+      <translation>فتح المشروع</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="290"/>
       <source>Open a file without additional options/settings.</source>
-      <translation type="unfinished">Open a file without additional options/settings.</translation>
+      <translation>افتح ملفًا دون خيارات/إعدادات إضافية.</translation>
     </message>
     <message>
       <source>Open a file with no extra treatment.</source>
-      <translation type="unfinished">Open a file with no extra treatment.</translation>
+      <translation>افتح ملفًا دون معالجة إضافية.</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="323"/>
       <source>Select a new program or a previous one before continuing.</source>
-      <translation type="unfinished">Select a new program or a previous one before continuing.</translation>
+      <translation>حدِّد برنامجًا جديدًا أو برنامجًا سابقًا قبل المتابعة.</translation>
     </message>
   </context>
   <context>
@@ -6020,7 +6020,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/Omnibar.cpp" line="15"/>
       <source>Type flag name or address here</source>
-      <translation type="unfinished">Type flag name or address here</translation>
+      <translation>اكتب اسم الراية أو عنوانها هنا</translation>
     </message>
   </context>
   <context>
@@ -6028,27 +6028,27 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="28"/>
       <source>Plugins are loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
-      <translation type="unfinished">Plugins are loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
+      <translation>يتم تحميل المكونات الإضافية من &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="34"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>الاسم</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="34"/>
       <source>Description</source>
-      <translation type="unfinished">Description</translation>
+      <translation>الوصف</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="34"/>
       <source>Version</source>
-      <translation type="unfinished">Version</translation>
+      <translation>الإصدار</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="34"/>
       <source>Author</source>
-      <translation type="unfinished">Author</translation>
+      <translation>المؤلف</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="48"/>
@@ -6061,37 +6061,37 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.ui" line="6"/>
       <source>Preferences</source>
-      <translation type="unfinished">Preferences</translation>
+      <translation>التفضيلات</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="28"/>
       <source>Disassembly</source>
-      <translation type="unfinished">Disassembly</translation>
+      <translation>التفكيك</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="34"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>تصحيح الأخطاء</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="35"/>
       <source>Appearance</source>
-      <translation type="unfinished">Appearance</translation>
+      <translation>المظهر</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="36"/>
       <source>Plugins</source>
-      <translation type="unfinished">Plugins</translation>
+      <translation>المكونات الإضافية</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="37"/>
       <source>Initialization Script</source>
-      <translation type="unfinished">Initialization Script</translation>
+      <translation>البرنامج النصي للتهيئة</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="39"/>
       <source>Analysis</source>
-      <translation type="unfinished">Analysis</translation>
+      <translation>التحليل</translation>
     </message>
   </context>
   <context>
@@ -6099,22 +6099,22 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/AttachProcDialog.cpp" line="71"/>
       <source>PID</source>
-      <translation type="unfinished">PID</translation>
+      <translation>PID</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.cpp" line="73"/>
       <source>UID</source>
-      <translation type="unfinished">UID</translation>
+      <translation>UID</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.cpp" line="75"/>
       <source>Status</source>
-      <translation type="unfinished">Status</translation>
+      <translation>الحالة</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.cpp" line="77"/>
       <source>Path</source>
-      <translation type="unfinished">Path</translation>
+      <translation>المسار</translation>
     </message>
   </context>
   <context>
@@ -6122,27 +6122,27 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/ProcessesWidget.cpp" line="26"/>
       <source>PID</source>
-      <translation type="unfinished">PID</translation>
+      <translation>PID</translation>
     </message>
     <message>
       <location filename="../widgets/ProcessesWidget.cpp" line="27"/>
       <source>UID</source>
-      <translation type="unfinished">UID</translation>
+      <translation>UID</translation>
     </message>
     <message>
       <location filename="../widgets/ProcessesWidget.cpp" line="28"/>
       <source>Status</source>
-      <translation type="unfinished">Status</translation>
+      <translation>الحالة</translation>
     </message>
     <message>
       <location filename="../widgets/ProcessesWidget.cpp" line="29"/>
       <source>Path</source>
-      <translation type="unfinished">Path</translation>
+      <translation>المسار</translation>
     </message>
     <message>
       <location filename="../widgets/ProcessesWidget.cpp" line="167"/>
       <source>Unable to switch to the requested process.</source>
-      <translation type="unfinished">Unable to switch to the requested process.</translation>
+      <translation>يتعذَّر تبديل العملية المطلوبة.</translation>
     </message>
   </context>
   <context>
@@ -6150,61 +6150,61 @@ Save your project before closing!</translation>
     <message>
       <location filename="../common/DisassemblyPreview.cpp" line="41"/>
       <source>More than one (%1) references here. Weird behaviour expected.</source>
-      <translation type="unfinished">More than one (%1) references here. Weird behaviour expected.</translation>
+      <translation>يوجد أكثر من مرجع واحد (%1) هنا. كان السلوك الغريب متوقعًا.</translation>
     </message>
     <message>
       <source>offsetFrom (%1) differs from refs.at(0).from (%(2))</source>
-      <translation type="unfinished">offsetFrom (%1) differs from refs.at(0).from (%(2))</translation>
+      <translation>يختلف offsetFrom (%1) عن refs.at(0).from (%(2))</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="53"/>
       <source>Write error</source>
-      <translation type="unfinished">Write error</translation>
+      <translation>خطأ في الكتابة</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="54"/>
       <source>Your file is opened in read-only mode. Editing is only available when the file is opened in either Write or Cache modes.
 
 WARNING: In Write mode, any changes will be committed to the file on disk. For safety, please consider using Cache mode and then commit the changes manually via File -&gt; Commit modifications to disk.</source>
-      <translation type="unfinished">Your file is opened in read-only mode. Editing is only available when the file is opened in either Write or Cache modes.
+      <translation>ملفك مفتوح في وضع القراءة فقط. لا يتوفَّر التعديل إلا عند فتح الملف في وضع الكتابة أو التخزين المؤقت.
 
-WARNING: In Write mode, any changes will be committed to the file on disk. For safety, please consider using Cache mode and then commit the changes manually via File -&gt; Commit modifications to disk.</translation>
+تحذير: سيتم إجراء أي تغييرات في وضع الكتابة على الملف الموجود على القرص. للأمان، يُرجى التفكير في استخدام وضع ذاكرة التخزين المؤقت ثم إجراء التغييرات يدويًا عبر الملف -&gt; إجراء التعديلات على القرص.</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="60"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>إلغاء</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="62"/>
       <source>Reopen in Write mode</source>
-      <translation type="unfinished">Reopen in Write mode</translation>
+      <translation>إعادة الفتح في وضع الكتابة</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="64"/>
       <source>Enable Cache mode</source>
-      <translation type="unfinished">Enable Cache mode</translation>
+      <translation>تفعيل وضع ذاكرة التخزين المؤقت</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="94"/>
       <source>Uncommitted changes</source>
-      <translation type="unfinished">Uncommitted changes</translation>
+      <translation>تغييرات لم يتم إجراؤها</translation>
     </message>
     <message>
       <source>Uncomitted changes</source>
-      <translation type="unfinished">Uncomitted changes</translation>
+      <translation>تغييرات لم يتم إجراؤها</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="95"/>
       <source>It seems that you have changes or patches that are not committed to the file.
 Do you want to commit them now?</source>
-      <translation type="unfinished">It seems that you have changes or patches that are not committed to the file.
-Do you want to commit them now?</translation>
+      <translation>يبدو أن لديك تغييرات أو برامج تصحيح لم يتم إجراؤها على الملف.
+هل تريد إجراءها الآن؟</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="98"/>
       <source>Version mismatch!</source>
-      <translation type="unfinished">Version mismatch!</translation>
+      <translation>الإصدار غير متطابق!</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="99"/>
@@ -6359,7 +6359,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="469"/>
       <source>Do not load Cutter plugins</source>
-      <translation>عدم تحميل المكوِّنات الإضافية لمنصة Cutter</translation>
+      <translation>عدم تحميل المكونات الإضافية لمنصة Cutter</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="473"/>
