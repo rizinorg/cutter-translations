@@ -905,7 +905,7 @@
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="134"/>
       <source>Min String Length:</source>
-      <translation>الحد الأدنى لطول للسلسلة:</translation>
+      <translation>الحد الأدنى لطول السلسلة:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="157"/>
@@ -4489,7 +4489,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="434"/>
       <source>Entropy:</source>
-      <translation>Entropy:</translation>
+      <translation>الاعتلاج:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="466"/>
@@ -5316,7 +5316,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="438"/>
       <source>Toggle tab position</source>
-      <translation>تبديل موضع علامات التبويب</translation>
+      <translation>تبديل موضع علامة التبويب</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="443"/>
@@ -7075,12 +7075,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="29"/>
       <source>Cross references graph (agx)</source>
-      <translation type="unfinished">Cross references graph (agx)</translation>
+      <translation>رسم بياني للمراجع التبادلية (agx)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="30"/>
       <source>RzIL statement graph (agI)</source>
-      <translation type="unfinished">RzIL statement graph (agI)</translation>
+      <translation>الرسم البياني لعبارة RzIL (agl)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="31"/>
@@ -7098,17 +7098,17 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="14"/>
       <source>Rizin plugin information</source>
-      <translation type="unfinished">Rizin plugin information</translation>
+      <translation>معلومات إضافة Rizin</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="24"/>
       <source>RzBin</source>
-      <translation type="unfinished">RzBin</translation>
+      <translation>RzBin</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="30"/>
       <source>RzBin plugins</source>
-      <translation type="unfinished">RzBin plugins</translation>
+      <translation>إضافات RzBin</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="41"/>
@@ -7116,7 +7116,7 @@ Do you want to commit them now?</source>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="123"/>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="159"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>الاسم</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="46"/>
@@ -7124,7 +7124,7 @@ Do you want to commit them now?</source>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="128"/>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="179"/>
       <source>Description</source>
-      <translation type="unfinished">Description</translation>
+      <translation>الوصف</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="51"/>
@@ -7132,67 +7132,67 @@ Do you want to commit them now?</source>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="133"/>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="184"/>
       <source>License</source>
-      <translation type="unfinished">License</translation>
+      <translation>الترخيص</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="56"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>النوع</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="65"/>
       <source>RzIO</source>
-      <translation type="unfinished">RzIO</translation>
+      <translation>RzIO</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="71"/>
       <source>RzIO plugins</source>
-      <translation type="unfinished">RzIO plugins</translation>
+      <translation>إضافات RzIO</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="97"/>
       <source>Permissions</source>
-      <translation type="unfinished">Permissions</translation>
+      <translation>الأذونات</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="106"/>
       <source>RzCore</source>
-      <translation type="unfinished">RzCore</translation>
+      <translation>RzCore</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="112"/>
       <source>RzCore plugins</source>
-      <translation type="unfinished">RzCore plugins</translation>
+      <translation>إضافات RzCore</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="142"/>
       <source>RzAsm</source>
-      <translation type="unfinished">RzAsm</translation>
+      <translation>RzAsm</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="148"/>
       <source>RzAsm plugins</source>
-      <translation type="unfinished">RzAsm plugins</translation>
+      <translation>إضافات RzAsm</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="164"/>
       <source>Architecture</source>
-      <translation type="unfinished">Architecture</translation>
+      <translation>المعمارية</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="169"/>
       <source>CPU&apos;s</source>
-      <translation type="unfinished">CPU&apos;s</translation>
+      <translation>وحدة المعالجة المركزية</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="174"/>
       <source>Version</source>
-      <translation type="unfinished">Version</translation>
+      <translation>الإصدار</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="189"/>
       <source>Author</source>
-      <translation type="unfinished">Author</translation>
+      <translation>المؤلف</translation>
     </message>
   </context>
   <context>
@@ -7200,60 +7200,60 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RizinTaskDialog.ui" line="14"/>
       <source>Rizin Task</source>
-      <translation type="unfinished">Rizin Task</translation>
+      <translation>مهمة Rizin</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinTaskDialog.ui" line="20"/>
       <source>Rizin task in progress..</source>
-      <translation type="unfinished">Rizin task in progress..</translation>
+      <translation>مهمة Rizin قيد التقدم..</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinTaskDialog.ui" line="27"/>
       <source>Time</source>
-      <translation type="unfinished">Time</translation>
+      <translation>الوقت</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinTaskDialog.cpp" line="32"/>
       <source>Running for</source>
-      <translation type="unfinished">Running for</translation>
+      <translation>قيد التشغيل لمدة</translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/RizinTaskDialog.cpp" line="34"/>
       <source>%n hour</source>
       <comment>%n hours</comment>
-      <translation type="unfinished">
-        <numerusform>%n hour</numerusform>
-        <numerusform>%n hour</numerusform>
-        <numerusform>%n hour</numerusform>
-        <numerusform>%n hour</numerusform>
-        <numerusform>%n hour</numerusform>
-        <numerusform>%n hour</numerusform>
+      <translation>
+        <numerusform>%n ساعة</numerusform>
+        <numerusform>ساعة واحدة (%n)</numerusform>
+        <numerusform>ساعتين (%n)</numerusform>
+        <numerusform>%n ساعات</numerusform>
+        <numerusform>%n ساعة</numerusform>
+        <numerusform>%n ساعة</numerusform>
       </translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/RizinTaskDialog.cpp" line="38"/>
       <source>%n minute</source>
       <comment>%n minutes</comment>
-      <translation type="unfinished">
-        <numerusform>%n minute</numerusform>
-        <numerusform>%n minute</numerusform>
-        <numerusform>%n minute</numerusform>
-        <numerusform>%n minute</numerusform>
-        <numerusform>%n minute</numerusform>
-        <numerusform>%n minute</numerusform>
+      <translation>
+        <numerusform>%n دقيقة</numerusform>
+        <numerusform>دقيقة واحدة (%n)</numerusform>
+        <numerusform>دقيقتين (%n)</numerusform>
+        <numerusform>%n دقائق</numerusform>
+        <numerusform>%n دقيقة</numerusform>
+        <numerusform>%n دقيقة</numerusform>
       </translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/RizinTaskDialog.cpp" line="41"/>
       <source>%n seconds</source>
       <comment>%n second</comment>
-      <translation type="unfinished">
-        <numerusform>%n seconds</numerusform>
-        <numerusform>%n seconds</numerusform>
-        <numerusform>%n seconds</numerusform>
-        <numerusform>%n seconds</numerusform>
-        <numerusform>%n seconds</numerusform>
-        <numerusform>%n seconds</numerusform>
+      <translation>
+        <numerusform>%n ثانية</numerusform>
+        <numerusform>ثانية واحدة (%n)</numerusform>
+        <numerusform>ثانيتين (%n)</numerusform>
+        <numerusform>%n ثوانٍ</numerusform>
+        <numerusform>%n ثانية</numerusform>
+        <numerusform>%n ثانية</numerusform>
       </translation>
     </message>
   </context>
@@ -7262,12 +7262,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../common/RunScriptTask.cpp" line="18"/>
       <source>Executing script...</source>
-      <translation type="unfinished">Executing script...</translation>
+      <translation>جارٍ تنفيذ البرنامج النصي...</translation>
     </message>
     <message>
       <location filename="../common/RunScriptTask.h" line="15"/>
       <source>Run Script</source>
-      <translation type="unfinished">Run Script</translation>
+      <translation>تشغيل البرنامج النصي</translation>
     </message>
   </context>
   <context>
@@ -7275,17 +7275,17 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SdbWidget.ui" line="17"/>
       <source>SDB Browser</source>
-      <translation type="unfinished">SDB Browser</translation>
+      <translation>متصفح SDB</translation>
     </message>
     <message>
       <location filename="../widgets/SdbWidget.ui" line="120"/>
       <source>Key</source>
-      <translation type="unfinished">Key</translation>
+      <translation>المفتاح</translation>
     </message>
     <message>
       <location filename="../widgets/SdbWidget.ui" line="125"/>
       <source>Value</source>
-      <translation type="unfinished">Value</translation>
+      <translation>القيمة</translation>
     </message>
   </context>
   <context>
@@ -7293,32 +7293,32 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="96"/>
       <source>&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;Preview&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</source>
-      <translation type="unfinished">&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;Preview&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
+      <translation>&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;معاينة&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="115"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>الحجم</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="117"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>الإزاحة</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="119"/>
       <source>Code</source>
-      <translation type="unfinished">Code</translation>
+      <translation>الرمز البرمجي</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="121"/>
       <source>Data</source>
-      <translation type="unfinished">Data</translation>
+      <translation>البيانات</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="123"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>التعليق</translation>
     </message>
   </context>
   <context>
@@ -7327,62 +7327,62 @@ Do you want to commit them now?</source>
       <location filename="../widgets/SearchWidget.ui" line="83"/>
       <location filename="../widgets/SearchWidget.cpp" line="332"/>
       <source>Search</source>
-      <translation type="unfinished">Search</translation>
+      <translation>البحث</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.ui" line="90"/>
       <source>Search for:</source>
-      <translation type="unfinished">Search for:</translation>
+      <translation>البحث عن:</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.ui" line="100"/>
       <source>Search in:</source>
-      <translation type="unfinished">Search in:</translation>
+      <translation>البحث في:</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="255"/>
       <source>asm code</source>
-      <translation type="unfinished">asm code</translation>
+      <translation>رمز asm</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="256"/>
       <source>string</source>
-      <translation type="unfinished">string</translation>
+      <translation>السلسلة</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="257"/>
       <source>string (case insensitive)</source>
-      <translation type="unfinished">string (case insensitive)</translation>
+      <translation>السلسلة (غير حساسة لحالة الأحرف)</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="258"/>
       <source>hex string</source>
-      <translation type="unfinished">hex string</translation>
+      <translation>سلسلة سداسية</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="259"/>
       <source>ROP gadgets</source>
-      <translation type="unfinished">ROP gadgets</translation>
+      <translation>أدوات ROP</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="260"/>
       <source>32bit value</source>
-      <translation type="unfinished">32bit value</translation>
+      <translation>قيمة 32bit</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="287"/>
       <source>No results found for:</source>
-      <translation type="unfinished">No results found for:</translation>
+      <translation>لم يتم العثور على نتائج لـ:</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="290"/>
       <source>No Results Found</source>
-      <translation type="unfinished">No Results Found</translation>
+      <translation>لم يتم العثور على نتائج</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="325"/>
       <source>Searching...</source>
-      <translation type="unfinished">Searching...</translation>
+      <translation>جارٍ البحث...</translation>
     </message>
   </context>
   <context>
@@ -7390,42 +7390,42 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="93"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>الاسم</translation>
     </message>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="95"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>الحجم</translation>
     </message>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="97"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>العنوان</translation>
     </message>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="99"/>
       <source>End Address</source>
-      <translation type="unfinished">End Address</translation>
+      <translation>عنوان النهاية</translation>
     </message>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="101"/>
       <source>Virtual Size</source>
-      <translation type="unfinished">Virtual Size</translation>
+      <translation>الحجم الافتراضي</translation>
     </message>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="103"/>
       <source>Permissions</source>
-      <translation type="unfinished">Permissions</translation>
+      <translation>الأذونات</translation>
     </message>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="105"/>
       <source>Entropy</source>
-      <translation type="unfinished">Entropy</translation>
+      <translation>الاعتلاج</translation>
     </message>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="107"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>التعليق</translation>
     </message>
   </context>
   <context>
@@ -7433,7 +7433,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="167"/>
       <source>Sections</source>
-      <translation type="unfinished">Sections</translation>
+      <translation>الأقسام</translation>
     </message>
   </context>
   <context>
@@ -7441,32 +7441,32 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="81"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>الاسم</translation>
     </message>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="83"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>الحجم</translation>
     </message>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="85"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>العنوان</translation>
     </message>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="87"/>
       <source>End Address</source>
-      <translation type="unfinished">End Address</translation>
+      <translation>عنوان النهاية</translation>
     </message>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="89"/>
       <source>Permissions</source>
-      <translation type="unfinished">Permissions</translation>
+      <translation>الأذونات</translation>
     </message>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="91"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>التعليق</translation>
     </message>
   </context>
   <context>
@@ -7474,39 +7474,39 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="14"/>
       <source>Set to Data</source>
-      <translation type="unfinished">Set to Data</translation>
+      <translation>التعيين إلى البيانات</translation>
     </message>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="20"/>
       <location filename="../dialogs/SetToDataDialog.ui" line="34"/>
       <source>???</source>
-      <translation type="unfinished">???</translation>
+      <translation>؟؟؟</translation>
     </message>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="27"/>
       <source>Start address</source>
-      <translation type="unfinished">Start address</translation>
+      <translation>عنوان البداية</translation>
     </message>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="41"/>
       <source>End address</source>
-      <translation type="unfinished">End address</translation>
+      <translation>عنوان النهاية</translation>
     </message>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="48"/>
       <source>Item size</source>
-      <translation type="unfinished">Item size</translation>
+      <translation>حجم العنصر</translation>
     </message>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="55"/>
       <source>Number of items</source>
-      <translation type="unfinished">Number of items</translation>
+      <translation>عدد العناصر</translation>
     </message>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="62"/>
       <location filename="../dialogs/SetToDataDialog.ui" line="69"/>
       <source>1</source>
-      <translation type="unfinished">1</translation>
+      <translation>1</translation>
     </message>
   </context>
   <context>
@@ -7514,7 +7514,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SimpleTextGraphView.cpp" line="29"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>نسخ</translation>
     </message>
   </context>
   <context>
@@ -7522,22 +7522,22 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="218"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>الإزاحة</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="220"/>
       <source>Value</source>
-      <translation type="unfinished">Value</translation>
+      <translation>القيمة</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="222"/>
       <source>Reference</source>
-      <translation type="unfinished">Reference</translation>
+      <translation>المرجع</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="224"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>التعليق</translation>
     </message>
   </context>
   <context>
@@ -7545,22 +7545,22 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="33"/>
       <source>Edit stack value...</source>
-      <translation type="unfinished">Edit stack value...</translation>
+      <translation>تعديل قيمة المكدس...</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="109"/>
       <source>Edit stack at %1</source>
-      <translation type="unfinished">Edit stack at %1</translation>
+      <translation>تعديل المكدس في %1</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="138"/>
       <source>Stack position</source>
-      <translation type="unfinished">Stack position</translation>
+      <translation>موقع المكدس</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="140"/>
       <source>Pointed memory</source>
-      <translation type="unfinished">Pointed memory</translation>
+      <translation>الذاكرة المُشار إليها</translation>
     </message>
   </context>
   <context>
@@ -7568,17 +7568,17 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="67"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>العنوان</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="69"/>
       <source>String</source>
-      <translation type="unfinished">String</translation>
+      <translation>السلسلة</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="71"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>النوع</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="73"/>
@@ -7598,7 +7598,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="79"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>التعليق</translation>
     </message>
   </context>
   <context>
@@ -7652,7 +7652,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SymbolsWidget.cpp" line="64"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>التعليق</translation>
     </message>
   </context>
   <context>
@@ -7777,49 +7777,49 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="199"/>
       <source>Edit Type</source>
-      <translation type="unfinished">Edit Type</translation>
+      <translation>نوع التعديل</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="230"/>
       <source>(All)</source>
-      <translation type="unfinished">(All)</translation>
+      <translation>(الكل)</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="280"/>
       <source>Save File</source>
-      <translation type="unfinished">Save File</translation>
+      <translation>حفظ الملف</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="287"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>خطأ</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="324"/>
       <source>Edit Type: </source>
-      <translation type="unfinished">Edit Type: </translation>
+      <translation>تعديل النوع: </translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="327"/>
       <location filename="../widgets/TypesWidget.cpp" line="365"/>
       <source>View Type: </source>
-      <translation type="unfinished">View Type: </translation>
+      <translation>نوع العرض: </translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="327"/>
       <location filename="../widgets/TypesWidget.cpp" line="365"/>
       <source> (Read Only)</source>
-      <translation type="unfinished"> (Read Only)</translation>
+      <translation> (للقراءة فقط)</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="347"/>
       <source>Cutter</source>
-      <translation type="unfinished">Cutter</translation>
+      <translation>Cutter</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="347"/>
       <source>Are you sure you want to delete &quot;%1&quot;?</source>
-      <translation type="unfinished">Are you sure you want to delete &quot;%1&quot;?</translation>
+      <translation>هل تريد بالتأكيد حذف &quot;%1&quot;؟</translation>
     </message>
   </context>
   <context>
@@ -7827,12 +7827,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="34"/>
       <source>Time limit exceeded during version check. Please check your internet connection and try again.</source>
-      <translation type="unfinished">Time limit exceeded during version check. Please check your internet connection and try again.</translation>
+      <translation>تم تجاوز الحد الزمني خلال التحقق من الإصدار. يُرجى التحقق من اتصالك بالإنترنت وإعادة المحاولة.</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="58"/>
       <source>Version control</source>
-      <translation type="unfinished">Version control</translation>
+      <translation>التحكم في الإصدار</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="59"/>
@@ -7975,11 +7975,11 @@ Do you want to commit them now?</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;Join thousands of reverse engineers in our community:&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Twitter:&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;	&lt;/span&gt;&lt;a href=&quot;https://twitter.com/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Telegram:	&lt;/span&gt;&lt;a href=&quot;https://t.me/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re &lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;IRC:	&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;#cutter on &lt;/span&gt;&lt;a href=&quot;https://web.libera.chat/&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;https://web.libera.chat/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+      <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;Join thousands of reverse engineers in our community:&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Twitter:&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;	&lt;/span&gt;&lt;a href=&quot;https://twitter.com/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Telegram:	&lt;/span&gt;&lt;a href=&quot;https://t.me/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re &lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;IRC:	&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;#cutter on &lt;/span&gt;&lt;a href=&quot;https://web.libera.chat/&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;https://web.libera.chat/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;انضم إلى آلاف المهندسين العكسيين في مجتمعنا:&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Twitter:&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;	&lt;/span&gt;&lt;a href=&quot;https://twitter.com/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Telegram:	&lt;/span&gt;&lt;a href=&quot;https://t.me/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re &lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;IRC:	&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;#cutter on &lt;/span&gt;&lt;a href=&quot;https://web.libera.chat/&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;https://web.libera.chat/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="355"/>
@@ -8027,7 +8027,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="303"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>تعليق</translation>
     </message>
   </context>
   <context>
@@ -8035,7 +8035,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="155"/>
       <source>X-Refs to %1 (%2 results):</source>
-      <translation type="unfinished">X-Refs to %1 (%2 results):</translation>
+      <translation>المراجع الخارجية إلى %1 (%2 من النتائج):</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="157"/>
