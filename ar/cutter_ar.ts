@@ -36,7 +36,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="113"/>
       <source>Show Rizin plugin information</source>
-      <translation>عرض معلومات المكوِّن الإضافي لـ Rizin</translation>
+      <translation>عرض معلومات المكوِّن الإضافي لإطار عمل الهندسة العكسية Rizin</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="126"/>
@@ -6209,12 +6209,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="99"/>
       <source>The version used to compile Cutter (%1) does not match the binary version of rizin (%2). This could result in unexpected behaviour. Are you sure you want to continue?</source>
-      <translation type="unfinished">The version used to compile Cutter (%1) does not match the binary version of rizin (%2). This could result in unexpected behaviour. Are you sure you want to continue?</translation>
+      <translation>الإصدار المستخدم لتجميع Cutter (%1) لا يطابق إصدار الملف الثنائي من rizin (%2). قد يؤدي ذلك إلى سلوك غير متوقَّع. هل تريد بالتأكيد المتابعة؟</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="388"/>
       <source>A Qt and C++ GUI for rizin reverse engineering framework</source>
-      <translation type="unfinished">A Qt and C++ GUI for rizin reverse engineering framework</translation>
+      <translation>في واجهة المستخدم الرسومية بلغة Qt و++C لإطار الهندسة العكسية rizin</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="391"/>
