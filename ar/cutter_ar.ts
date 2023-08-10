@@ -1876,7 +1876,7 @@ Please check the console for more details.</source>
       <location filename="../core/Cutter.cpp" line="4660"/>
       <location filename="../core/Cutter.cpp" line="4711"/>
       <source>Cannot get graph at </source>
-      <translation>لا يمكن الحصول على رسم بياني على </translation>
+      <translation>لا يمكن الحصول على رسم بياني في </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4691"/>
@@ -7797,7 +7797,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="324"/>
       <source>Edit Type: </source>
-      <translation>تعديل النوع: </translation>
+      <translation>نوع التعديل: </translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="327"/>
