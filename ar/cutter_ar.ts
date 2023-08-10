@@ -2173,7 +2173,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/Dashboard.ui" line="645"/>
       <source>Relro:</source>
-      <translation>Relro:</translation>
+      <translation>عمليات إعادة تحديد موقع البرنامج للقراءة فقط:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="700"/>
@@ -2203,7 +2203,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/Dashboard.ui" line="845"/>
       <source>Relocs:</source>
-      <translation>عمليات النقل:</translation>
+      <translation>عمليات إعادة تحديد الموقع:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="874"/>
@@ -6942,7 +6942,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RelocsWidget.cpp" line="131"/>
       <source>Relocs</source>
-      <translation>عمليات النقل</translation>
+      <translation>عمليات إعادة تحديد الموقع</translation>
     </message>
   </context>
   <context>
