@@ -56,7 +56,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="28"/>
       <source>Using rizin </source>
-      <translation>Utilise Rizin version </translation>
+      <translation>Utiliser Rizin </translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="30"/>
@@ -294,7 +294,7 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="28"/>
       <source>Font:</source>
-      <translation>Police:</translation>
+      <translation>Police :</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="56"/>
@@ -396,7 +396,7 @@
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="136"/>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="221"/>
       <source>Name:</source>
-      <translation>Nom:</translation>
+      <translation>Nom :</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="137"/>
@@ -425,7 +425,7 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="163"/>
       <source>Are you sure you want to delete &lt;b&gt;%1&lt;/b&gt;?</source>
-      <translation>Êtes-vous sûr de vouloir supprimer &lt;b&gt;%1&lt;/b&gt;?</translation>
+      <translation>Êtes-vous sûr de vouloir supprimer &lt;b&gt;%1&lt;/b&gt; ?</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="185"/>
@@ -562,7 +562,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="245"/>
       <source>Number of bytes to display (asm.nbytes):</source>
-      <translation>Nombre d’octets à afficher (asm.nbytes)&#xa0;:</translation>
+      <translation>Nombre d’octets à afficher (asm.nbytes) :</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="225"/>
@@ -627,7 +627,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="158"/>
       <source>The number of tabulate spaces after the offset (asm.tabs.off):</source>
-      <translation>Nombre d'espaces de tabulation après l'offset (asm.tabs.off):</translation>
+      <translation>Nombre d'espaces de tabulation après l'offset (asm.tabs.off) :</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="208"/>
