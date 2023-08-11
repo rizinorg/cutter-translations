@@ -864,12 +864,12 @@
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="43"/>
       <source>Cores:</source>
-      <translation type="unfinished">Cores:</translation>
+      <translation>Ядра:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="59"/>
       <source>Pointer Size:</source>
-      <translation type="unfinished">Pointer Size:</translation>
+      <translation>Розмір вказівника:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="67"/>
@@ -884,12 +884,12 @@
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="80"/>
       <source>Start Address:</source>
-      <translation type="unfinished">Start Address:</translation>
+      <translation>Початкова адреса:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="100"/>
       <source>End Address:</source>
-      <translation type="unfinished">End Address:</translation>
+      <translation>Кінцева адреса:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="117"/>
@@ -2979,7 +2979,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="250"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>Розширений</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="262"/>
@@ -4706,13 +4706,13 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="326"/>
       <source>Experimental</source>
-      <translation type="unfinished">Experimental</translation>
+      <translation>Експериментальний</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="364"/>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="399"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>Розширений</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="518"/>
@@ -4742,7 +4742,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="599"/>
       <source>Advanced options</source>
-      <translation type="unfinished">Advanced options</translation>
+      <translation>Додаткові параметри</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="629"/>
@@ -5098,7 +5098,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="133"/>
       <source>Tools</source>
-      <translation type="unfinished">Tools</translation>
+      <translation>Інструменти</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="139"/>
@@ -6857,7 +6857,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/QuickFilterView.ui" line="41"/>
       <source>Quick Filter</source>
-      <translation type="unfinished">Quick Filter</translation>
+      <translation>Швидкий фільтр</translation>
     </message>
     <message>
       <location filename="../widgets/QuickFilterView.ui" line="61"/>
