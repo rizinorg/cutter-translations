@@ -56,7 +56,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="28"/>
       <source>Using rizin </source>
-      <translation type="unfinished">Using rizin </translation>
+      <translation>Utilizar o rizin </translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="30"/>
@@ -91,7 +91,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="76"/>
       <source>Rizin version information</source>
-      <translation>Informações da versão do Rizin</translation>
+      <translation>Informações da versão do rizin</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="103"/>
