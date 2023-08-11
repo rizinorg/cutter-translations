@@ -2355,12 +2355,12 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="47"/>
       <source>Step</source>
-      <translation>Étape</translation>
+      <translation>Exécuter</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="48"/>
       <source>Step over</source>
-      <translation>Sauter</translation>
+      <translation>Avancer</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="49"/>
