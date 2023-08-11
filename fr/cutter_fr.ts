@@ -2405,7 +2405,7 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="147"/>
       <source>Debugged process exited (</source>
-      <translation>Processus débogué quitté (</translation>
+      <translation>Le processus débogué a quitté (</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="267"/>
@@ -2433,7 +2433,7 @@ Veuillez consulter la console pour plus de détails.</translation>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="359"/>
       <source>Error attaching. No process selected!</source>
-      <translation>Erreur lors de l&apos;attachement. Aucun processus sélectionné!</translation>
+      <translation>Erreur lors de l&apos;attachement. Aucun processus sélectionné !</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="388"/>
@@ -4400,7 +4400,7 @@ Veuillez vous assurer qu'il s'agit d'une chaîne base64 valide et réessayez.</t
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="99"/>
       <source>Length:</source>
-      <translation>Longueur:</translation>
+      <translation>Longueur :</translation>
     </message>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="115"/>
@@ -7069,7 +7069,7 @@ Souhaitez-vous les intégrer maintenant ?</translation>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="30"/>
       <source>RzIL statement graph (agI)</source>
-      <translation>Graphe RzIL (agl)</translation>
+      <translation>Graphe RzIL (agI)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="31"/>
