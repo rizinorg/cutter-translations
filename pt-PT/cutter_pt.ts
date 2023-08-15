@@ -1698,7 +1698,7 @@
     </message>
     <message>
       <source>!!! Settings are not writable! Make sure you have a write access to &quot;%1&quot;</source>
-      <translation type="unfinished">!!! Settings are not writable! Make sure you have a write access to &quot;%1&quot;</translation>
+      <translation>!!! As definições não são passíveis de escrita! Certifique-se de que tem acesso de escrita a &quot;%1&quot;</translation>
     </message>
     <message>
       <location filename="../common/Configuration.cpp" line="146"/>
@@ -1708,7 +1708,7 @@
     <message>
       <location filename="../common/Configuration.cpp" line="147"/>
       <source>Settings are not writable! Make sure you have a write access to &quot;%1&quot;.</source>
-      <translation type="unfinished">Settings are not writable! Make sure you have a write access to &quot;%1&quot;.</translation>
+      <translation>As definições não são passíveis de escrita! Certifique-se de que tem acesso de escrita a &quot;%1&quot;.</translation>
     </message>
   </context>
   <context>
@@ -1721,7 +1721,7 @@
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="98"/>
       <source>Debugee Input</source>
-      <translation type="unfinished">Debugee Input</translation>
+      <translation>Entrada do depurador</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="115"/>
@@ -1731,7 +1731,7 @@
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="137"/>
       <source> Enter input for the debugee</source>
-      <translation type="unfinished"> Enter input for the debugee</translation>
+      <translation> Introduzir entrada para o depurador</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="153"/>
