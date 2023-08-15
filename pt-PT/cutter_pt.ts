@@ -1774,7 +1774,7 @@
     <message>
       <location filename="../core/Cutter.cpp" line="1058"/>
       <source>Cannot apply signature file because the requested arch is not supported by .sig files</source>
-      <translation type="unfinished">Cannot apply signature file because the requested arch is not supported by .sig files</translation>
+      <translation>Não é possível aplicar o ficheiro de assinatura porque o arco solicitado não é suportado por ficheiros .sig</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1067"/>
@@ -1796,7 +1796,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../core/Cutter.cpp" line="1086"/>
       <source>Written %1 signatures to %2.</source>
-      <translation type="unfinished">Written %1 signatures to %2.</translation>
+      <translation>%1 assinaturas escritas para %2.</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1987"/>
@@ -6257,7 +6257,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="414"/>
       <source>os</source>
-      <translation>so</translation>
+      <translation>os</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="418"/>
