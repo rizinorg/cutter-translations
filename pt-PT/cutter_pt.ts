@@ -6707,32 +6707,32 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="476"/>
       <source>Background color of Graph Overview&apos;s node</source>
-      <translation type="unfinished">Background color of Graph Overview&apos;s node</translation>
+      <translation>Cor de fundo do nó da visão geral de grafo</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="477"/>
       <source>Graph Overview node</source>
-      <translation type="unfinished">Graph Overview node</translation>
+      <translation>Nó da visão geral de grafo</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="479"/>
       <source>Fill color of Graph Overview&apos;s selection</source>
-      <translation type="unfinished">Fill color of Graph Overview&apos;s selection</translation>
+      <translation>Cor de preenchimento da seleção da visão geral de grafo</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="480"/>
       <source>Graph Overview fill</source>
-      <translation type="unfinished">Graph Overview fill</translation>
+      <translation>Preenchimento da visão geral de grafo</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="482"/>
       <source>Border color of Graph Overview&apos;s selection</source>
-      <translation type="unfinished">Border color of Graph Overview&apos;s selection</translation>
+      <translation>Cor de contorno da seleção da visão geral de grafo</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="483"/>
       <source>Graph Overview border</source>
-      <translation type="unfinished">Graph Overview border</translation>
+      <translation>Contorno da visão geral de grafo</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="486"/>
@@ -6747,37 +6747,37 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="488"/>
       <source>Background color of non-focused graph node</source>
-      <translation type="unfinished">Background color of non-focused graph node</translation>
+      <translation>Cor de fundo do nó de grafo não focado</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="489"/>
       <source>Node background</source>
-      <translation type="unfinished">Node background</translation>
+      <translation>Fundo do nó</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="491"/>
       <source>Background of current graph node</source>
-      <translation type="unfinished">Background of current graph node</translation>
+      <translation>Fundo do nó de grafo atual</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="491"/>
       <source>Current graph node</source>
-      <translation type="unfinished">Current graph node</translation>
+      <translation>Nó de grafo atual</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="493"/>
       <source>Color of node border in graph view</source>
-      <translation type="unfinished">Color of node border in graph view</translation>
+      <translation>Cor de contorno do nó na vista de grafo</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="493"/>
       <source>Node border</source>
-      <translation type="unfinished">Node border</translation>
+      <translation>Contorno do nó</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="495"/>
       <source>Selected line background color</source>
-      <translation type="unfinished">Selected line background color</translation>
+      <translation>Cor de fundo da linha selecionada</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="495"/>
@@ -6787,7 +6787,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="497"/>
       <source>Background color of selected word</source>
-      <translation type="unfinished">Background color of selected word</translation>
+      <translation>Cor de fundo da palavra selecionada</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="497"/>
@@ -6807,22 +6807,22 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="507"/>
       <source>Code section color in navigation bar</source>
-      <translation type="unfinished">Code section color in navigation bar</translation>
+      <translation>Cor da secção de código na barra de navegação</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="507"/>
       <source>Navbar code</source>
-      <translation type="unfinished">Navbar code</translation>
+      <translation>Código da barra de navegação</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="509"/>
       <source>Empty section color in navigation bar</source>
-      <translation type="unfinished">Empty section color in navigation bar</translation>
+      <translation>Cor da secção vazia na barra de navegação</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="509"/>
       <source>Navbar empty</source>
-      <translation type="unfinished">Navbar empty</translation>
+      <translation>Barra de navegação vazia</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="510"/>
@@ -6837,7 +6837,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="512"/>
       <source>Breakpoint background</source>
-      <translation type="unfinished">Breakpoint background</translation>
+      <translation>Fundo do breakpoint</translation>
     </message>
   </context>
   <context>
@@ -6850,7 +6850,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/QuickFilterView.ui" line="41"/>
       <source>Quick Filter</source>
-      <translation type="unfinished">Quick Filter</translation>
+      <translation>Filtro rápido</translation>
     </message>
     <message>
       <location filename="../widgets/QuickFilterView.ui" line="61"/>
@@ -6863,7 +6863,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="500"/>
       <source>Raw</source>
-      <translation type="unfinished">Raw</translation>
+      <translation>Bruto</translation>
     </message>
   </context>
   <context>
@@ -6894,12 +6894,12 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="137"/>
       <source>Copy register value</source>
-      <translation type="unfinished">Copy register value</translation>
+      <translation>Copiar valor do registo</translation>
     </message>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="138"/>
       <source>Copy register reference</source>
-      <translation type="unfinished">Copy register reference</translation>
+      <translation>Copiar referência do registo</translation>
     </message>
   </context>
   <context>
