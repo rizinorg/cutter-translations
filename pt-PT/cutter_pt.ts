@@ -1785,13 +1785,13 @@
       <location filename="../core/Cutter.cpp" line="1072"/>
       <source>Failed to apply signature file!
 Please check the console for more details.</source>
-      <translation type="unfinished">Failed to apply signature file!
-Please check the console for more details.</translation>
+      <translation>Falha ao aplicar o ficheiro de assinatura!
+Consulte a consola para mais detalhes.</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1082"/>
       <source>Cannot create signature file (check the console for more details).</source>
-      <translation type="unfinished">Cannot create signature file (check the console for more details).</translation>
+      <translation>Não foi possível criar o ficheiro de assinatura (consulte a consola para mais detalhes).</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1086"/>
