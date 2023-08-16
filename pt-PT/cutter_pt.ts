@@ -4351,27 +4351,27 @@ Consulte a consola para mais detalhes.</translation>
       <location filename="../widgets/HexWidget.cpp" line="1382"/>
       <source>Error occured during decoding your input.
 Please, make sure, that it is a valid base64 string and try again.</source>
-      <translation type="unfinished">Error occured during decoding your input.
-Please, make sure, that it is a valid base64 string and try again.</translation>
+      <translation>Ocorreu um erro durante a descodificação da sua entrada.
+Certifique-se de que é uma string em base64 válida e tente novamente.</translation>
     </message>
     <message>
       <source>Write random</source>
-      <translation type="unfinished">Write random</translation>
+      <translation>Escrever bytes aleatórios</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1410"/>
       <source>Number of bytes:</source>
-      <translation type="unfinished">Number of bytes:</translation>
+      <translation>Número de bytes:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1448"/>
       <source>Write Pascal string</source>
-      <translation type="unfinished">Write Pascal string</translation>
+      <translation>Escrever string Pascal</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1484"/>
       <source>Write zero-terminated string</source>
-      <translation type="unfinished">Write zero-terminated string</translation>
+      <translation>Escrever string terminada em zero</translation>
     </message>
   </context>
   <context>
@@ -4385,7 +4385,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="47"/>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="79"/>
       <source>Exclusive end address</source>
-      <translation type="unfinished">Exclusive end address</translation>
+      <translation>Endereço final exclusivo</translation>
     </message>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="50"/>
@@ -4405,7 +4405,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="115"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff8585;&quot;&gt;Big selection might cause a delay&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff8585;&quot;&gt;Big selection might cause a delay&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff8585;&quot;&gt;Uma grande seleção pode provocar atraso&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
   </context>
   <context>
@@ -4433,7 +4433,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="191"/>
       <source>Arch</source>
-      <translation type="unfinished">Arch</translation>
+      <translation>Arch</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="220"/>
@@ -4463,47 +4463,47 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="350"/>
       <source>SHA1:</source>
-      <translation type="unfinished">SHA1:</translation>
+      <translation>SHA1:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="357"/>
       <source>Copy SHA256</source>
-      <translation type="unfinished">Copy SHA256</translation>
+      <translation>Copiar SHA256</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="396"/>
       <source>Copy CRC32</source>
-      <translation type="unfinished">Copy CRC32</translation>
+      <translation>Copiar CRC32</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="434"/>
       <source>Entropy:</source>
-      <translation type="unfinished">Entropy:</translation>
+      <translation>Entropia:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="466"/>
       <source>MD5:</source>
-      <translation type="unfinished">MD5:</translation>
+      <translation>MD5:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="479"/>
       <source>CRC32:</source>
-      <translation type="unfinished">CRC32:</translation>
+      <translation>CRC32:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="50"/>
       <source>Select bytes to display information</source>
-      <translation type="unfinished">Select bytes to display information</translation>
+      <translation>Selecionar bytes para mostrar informações</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="143"/>
       <source>Disassembly</source>
-      <translation type="unfinished">Disassembly</translation>
+      <translation>Disassembly</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="144"/>
       <source>String</source>
-      <translation type="unfinished">String</translation>
+      <translation>String</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="145"/>
@@ -4513,26 +4513,26 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="146"/>
       <source>C bytes</source>
-      <translation type="unfinished">C bytes</translation>
+      <translation>C bytes</translation>
     </message>
     <message>
       <source>C bytes with instructions</source>
-      <translation type="unfinished">C bytes with instructions</translation>
+      <translation>C bytes com instruções</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="147"/>
       <source>C half-words (2 byte)</source>
-      <translation type="unfinished">C half-words (2 byte)</translation>
+      <translation>C half-words (2 byte)</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="148"/>
       <source>C words (4 byte)</source>
-      <translation type="unfinished">C words (4 byte)</translation>
+      <translation>C words (4 byte)</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="149"/>
       <source>C dwords (8 byte)</source>
-      <translation type="unfinished">C dwords (8 byte)</translation>
+      <translation>C dwords (8 byte)</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="150"/>
@@ -4552,12 +4552,12 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="153"/>
       <source>Yara</source>
-      <translation type="unfinished">Yara</translation>
+      <translation>Yara</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="218"/>
       <source>Hexdump</source>
-      <translation type="unfinished">Hexdump</translation>
+      <translation>Hexdump</translation>
     </message>
   </context>
   <context>
@@ -4570,12 +4570,12 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="71"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>Endereço</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="73"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>Tipo</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="75"/>
@@ -4585,17 +4585,17 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="77"/>
       <source>Library</source>
-      <translation type="unfinished">Library</translation>
+      <translation>Biblioteca</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="79"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Nome</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="81"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Comentário</translation>
     </message>
   </context>
   <context>
@@ -4603,7 +4603,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="172"/>
       <source>Imports</source>
-      <translation type="unfinished">Imports</translation>
+      <translation>Importações</translation>
     </message>
   </context>
   <context>
@@ -4611,47 +4611,47 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="14"/>
       <source>Increment/Decrement</source>
-      <translation type="unfinished">Increment/Decrement</translation>
+      <translation>Incremento/decremento</translation>
     </message>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="24"/>
       <source>Interpret as</source>
-      <translation type="unfinished">Interpret as</translation>
+      <translation>Interpretar como</translation>
     </message>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="38"/>
       <source>Value:</source>
-      <translation type="unfinished">Value:</translation>
+      <translation>Valor:</translation>
     </message>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="54"/>
       <source>Increment</source>
-      <translation type="unfinished">Increment</translation>
+      <translation>Incremento</translation>
     </message>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="64"/>
       <source>Decrement</source>
-      <translation type="unfinished">Decrement</translation>
+      <translation>Decremento</translation>
     </message>
     <message>
       <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
       <source>Byte</source>
-      <translation type="unfinished">Byte</translation>
+      <translation>Byte</translation>
     </message>
     <message>
       <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
       <source>Word</source>
-      <translation type="unfinished">Word</translation>
+      <translation>Word</translation>
     </message>
     <message>
       <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
       <source>Dword</source>
-      <translation type="unfinished">Dword</translation>
+      <translation>Dword</translation>
     </message>
     <message>
       <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
       <source>Qword</source>
-      <translation type="unfinished">Qword</translation>
+      <translation>Qword</translation>
     </message>
   </context>
   <context>
@@ -4659,7 +4659,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="26"/>
       <source>Load Options</source>
-      <translation type="unfinished">Load Options</translation>
+      <translation>Opções de carregamento</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="84"/>
@@ -4680,7 +4680,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="224"/>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>Nenhuma</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="259"/>
@@ -4695,18 +4695,18 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     </message>
     <message>
       <source>Auto Exp</source>
-      <translation type="unfinished">Auto Exp</translation>
+      <translation>Experimental</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="326"/>
       <source>Experimental</source>
-      <translation type="unfinished">Experimental</translation>
+      <translation>Experimental</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="364"/>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="399"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>Avançada</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="518"/>
@@ -4731,7 +4731,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="568"/>
       <source>...</source>
-      <translation type="unfinished">...</translation>
+      <translation>...</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="599"/>
@@ -4746,7 +4746,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="644"/>
       <source>Architecture:</source>
-      <translation type="unfinished">Architecture:</translation>
+      <translation>Arquitetura:</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="669"/>
@@ -4781,12 +4781,12 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="768"/>
       <source>Little</source>
-      <translation type="unfinished">Little</translation>
+      <translation>Little</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="773"/>
       <source>Big</source>
-      <translation type="unfinished">Big</translation>
+      <translation>Big</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="794"/>
@@ -4796,7 +4796,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="822"/>
       <source>Format:</source>
-      <translation type="unfinished">Format:</translation>
+      <translation>Formato:</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="876"/>
@@ -4816,7 +4816,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="930"/>
       <source>0x40000</source>
-      <translation type="unfinished">0x40000</translation>
+      <translation>0x40000</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="937"/>
@@ -4837,7 +4837,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="979"/>
       <source>Load script file</source>
-      <translation type="unfinished">Load script file</translation>
+      <translation>Carregar ficheiro de script</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="1004"/>
@@ -4967,13 +4967,13 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="457"/>
       <source>PDB file (*.pdb)</source>
-      <translation type="unfinished">PDB file (*.pdb)</translation>
+      <translation>Ficheiro PDB (*.pdb)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="457"/>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="479"/>
       <source>All files (*)</source>
-      <translation type="unfinished">All files (*)</translation>
+      <translation>Todos os ficheiros (*)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="478"/>
@@ -4983,7 +4983,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="479"/>
       <source>Script file (*.rz)</source>
-      <translation type="unfinished">Script file (*.rz)</translation>
+      <translation>Ficheiro de script (*.rz)</translation>
     </message>
   </context>
   <context>
@@ -4996,7 +4996,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/preferences/InitializationFileEditor.ui" line="20"/>
       <source>TextLabel</source>
-      <translation type="unfinished">TextLabel</translation>
+      <translation>TextLabel</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/InitializationFileEditor.cpp" line="35"/>
@@ -5017,18 +5017,18 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/LayoutManager.ui" line="14"/>
       <source>Layout</source>
-      <translation type="unfinished">Layout</translation>
+      <translation>Esquema</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.ui" line="25"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>Renomear</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.ui" line="32"/>
       <location filename="../dialogs/LayoutManager.cpp" line="60"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>Eliminar</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="42"/>
@@ -5048,7 +5048,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="45"/>
       <source>Enter name</source>
-      <translation type="unfinished">Enter name</translation>
+      <translation>Introduzir nome</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="61"/>
@@ -5071,7 +5071,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="68"/>
       <source>Set mode</source>
-      <translation type="unfinished">Set mode</translation>
+      <translation>Definir modo</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="97"/>
@@ -5082,17 +5082,17 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="104"/>
       <source>Zoom</source>
-      <translation type="unfinished">Zoom</translation>
+      <translation>Zoom</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="113"/>
       <source>Layouts</source>
-      <translation type="unfinished">Layouts</translation>
+      <translation>Esquemas</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="133"/>
       <source>Tools</source>
-      <translation type="unfinished">Tools</translation>
+      <translation>Ferramentas</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="139"/>
@@ -5103,7 +5103,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <location filename="../core/MainWindow.ui" line="147"/>
       <location filename="../core/MainWindow.ui" line="513"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>Editar</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="156"/>
@@ -5115,7 +5115,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <location filename="../core/MainWindow.cpp" line="147"/>
       <location filename="../core/MainWindow.cpp" line="148"/>
       <source>Plugins</source>
-      <translation type="unfinished">Plugins</translation>
+      <translation>Plugins</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="165"/>
@@ -5125,17 +5125,17 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="170"/>
       <source>Debug...</source>
-      <translation type="unfinished">Debug...</translation>
+      <translation>Depurar...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="185"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>Depurar</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="232"/>
       <source>Reset to default layout</source>
-      <translation type="unfinished">Reset to default layout</translation>
+      <translation>Repor o esquema padrão</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="237"/>
@@ -5160,12 +5160,12 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="255"/>
       <source>Report an issue</source>
-      <translation type="unfinished">Report an issue</translation>
+      <translation>Reportar um problema</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="260"/>
       <source>New Window</source>
-      <translation type="unfinished">New Window</translation>
+      <translation>Nova janela</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="263"/>
@@ -5183,7 +5183,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <location filename="../core/MainWindow.ui" line="872"/>
       <location filename="../core/MainWindow.cpp" line="1243"/>
       <source>Save layout</source>
-      <translation type="unfinished">Save layout</translation>
+      <translation>Guardar esquema</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="281"/>
@@ -5198,7 +5198,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="289"/>
       <source>Ctrl+M</source>
-      <translation type="unfinished">Ctrl+M</translation>
+      <translation>Ctrl+M</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="294"/>
@@ -5220,18 +5220,18 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="307"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>Copiar</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="312"/>
       <location filename="../core/MainWindow.ui" line="518"/>
       <source>Paste</source>
-      <translation type="unfinished">Paste</translation>
+      <translation>Colar</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="317"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>Eliminar</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="322"/>
@@ -5259,7 +5259,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="355"/>
       <source>Undo Seek</source>
-      <translation type="unfinished">Undo Seek</translation>
+      <translation>Desfazer procura</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="358"/>
@@ -5269,7 +5269,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="367"/>
       <source>Redo Seek</source>
-      <translation type="unfinished">Redo Seek</translation>
+      <translation>Refazer procura</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="378"/>
@@ -5279,7 +5279,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="381"/>
       <source>Toggle panel locks</source>
-      <translation type="unfinished">Toggle panel locks</translation>
+      <translation>Alternar bloqueio de painéis</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="400"/>
@@ -5290,7 +5290,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <location filename="../core/MainWindow.ui" line="415"/>
       <location filename="../core/MainWindow.ui" line="418"/>
       <source>Tabs up/down</source>
-      <translation type="unfinished">Tabs up/down</translation>
+      <translation>Subir/baixar separadores</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="427"/>
@@ -5305,7 +5305,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="438"/>
       <source>Toggle tab position</source>
-      <translation type="unfinished">Toggle tab position</translation>
+      <translation>Alternar posição dos separadores</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="443"/>
@@ -5316,7 +5316,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <location filename="../core/MainWindow.ui" line="448"/>
       <location filename="../core/MainWindow.ui" line="451"/>
       <source>Load layout</source>
-      <translation type="unfinished">Load layout</translation>
+      <translation>Carregar esquema</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="456"/>
@@ -5353,7 +5353,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="492"/>
       <source>Copy ASCII</source>
-      <translation type="unfinished">Copy ASCII</translation>
+      <translation>Copiar ASCII</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="497"/>
@@ -5375,19 +5375,19 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="528"/>
       <source>Switch case</source>
-      <translation type="unfinished">Switch case</translation>
+      <translation>Switch case</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="533"/>
       <location filename="../core/MainWindow.ui" line="536"/>
       <source>Copy all</source>
-      <translation type="unfinished">Copy all</translation>
+      <translation>Copiar tudo</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="541"/>
       <location filename="../core/MainWindow.ui" line="544"/>
       <source>Copy bytes</source>
-      <translation type="unfinished">Copy bytes</translation>
+      <translation>Copiar bytes</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="549"/>
@@ -5395,7 +5395,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <location filename="../core/MainWindow.ui" line="557"/>
       <location filename="../core/MainWindow.ui" line="560"/>
       <source>Copy disasm</source>
-      <translation type="unfinished">Copy disasm</translation>
+      <translation>Copiar disasm</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="572"/>
@@ -5447,7 +5447,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <location filename="../core/MainWindow.ui" line="620"/>
       <location filename="../core/MainWindow.ui" line="630"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>Renomear</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="625"/>
@@ -5464,12 +5464,12 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <location filename="../core/MainWindow.ui" line="652"/>
       <location filename="../core/MainWindow.ui" line="655"/>
       <source>Show/Hide bottom pannel</source>
-      <translation type="unfinished">Show/Hide bottom pannel</translation>
+      <translation>Mostrar/ocultar painel inferior</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="660"/>
       <source>Run Rizin script</source>
-      <translation type="unfinished">Run Rizin script</translation>
+      <translation>Executar script do Rizin</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="665"/>
@@ -5524,7 +5524,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="722"/>
       <source>Display offsets</source>
-      <translation type="unfinished">Display offsets</translation>
+      <translation>Mostrar deslocamentos</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="727"/>
@@ -5534,12 +5534,12 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="732"/>
       <source>Save Project As...</source>
-      <translation type="unfinished">Save Project As...</translation>
+      <translation>Guardar projeto como...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="740"/>
       <source>Graph</source>
-      <translation type="unfinished">Graph</translation>
+      <translation>Grafo</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="745"/>
@@ -5549,7 +5549,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="750"/>
       <source>Analyze Program</source>
-      <translation type="unfinished">Analyze Program</translation>
+      <translation>Analisar programa</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="755"/>
@@ -5560,33 +5560,33 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <location filename="../core/MainWindow.ui" line="760"/>
       <location filename="../core/MainWindow.cpp" line="1803"/>
       <source>Apply Signature From File</source>
-      <translation type="unfinished">Apply Signature From File</translation>
+      <translation>Aplicar ficheiro de assinatura a partir de ficheiro</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="765"/>
       <location filename="../core/MainWindow.cpp" line="1824"/>
       <source>Create New Signature File</source>
-      <translation type="unfinished">Create New Signature File</translation>
+      <translation>Criar novo ficheiro de assinatura</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="770"/>
       <source>Add Hexdump</source>
-      <translation type="unfinished">Add Hexdump</translation>
+      <translation>Adicionar hexdump</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="775"/>
       <source>Add Decompiler</source>
-      <translation type="unfinished">Add Decompiler</translation>
+      <translation>Adicionar descompilador</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="780"/>
       <source>Add Disassembly</source>
-      <translation type="unfinished">Add Disassembly</translation>
+      <translation>Adicionar disassembly</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="785"/>
       <source>Add Graph</source>
-      <translation type="unfinished">Add Graph</translation>
+      <translation>Adicionar grafo</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="796"/>
@@ -5596,7 +5596,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="801"/>
       <source>Zoom In</source>
-      <translation type="unfinished">Zoom In</translation>
+      <translation>Ampliar</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="804"/>
@@ -5606,7 +5606,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="812"/>
       <source>Zoom Out</source>
-      <translation type="unfinished">Zoom Out</translation>
+      <translation>Reduzir</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="815"/>
@@ -5626,57 +5626,57 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="834"/>
       <source>Commit changes</source>
-      <translation type="unfinished">Commit changes</translation>
+      <translation>Fazer commit das alterações</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="842"/>
       <source>Write mode</source>
-      <translation type="unfinished">Write mode</translation>
+      <translation>Modo de escrita</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="845"/>
       <source>Open the file in write mode. Every change to the file will change the original file on disk.</source>
-      <translation type="unfinished">Open the file in write mode. Every change to the file will change the original file on disk.</translation>
+      <translation>Abra o ficheiro no modo de escrita. Cada alteração ao ficheiro irá alterar o ficheiro original no disco.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="853"/>
       <source>Cache mode</source>
-      <translation type="unfinished">Cache mode</translation>
+      <translation>Modo de cache</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="856"/>
       <source>Enable cache mode. Changes to the file would not be applied to disk unless you specifically commit them. This is a safer option.</source>
-      <translation type="unfinished">Enable cache mode. Changes to the file would not be applied to disk unless you specifically commit them. This is a safer option.</translation>
+      <translation>Ativa o modo de cache. Alterações ao ficheiro não seriam aplicadas ao disco, a menos que faça commit nas mesmas especificamente. Esta é uma opção mais segura.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="867"/>
       <source>Read-Only mode</source>
-      <translation type="unfinished">Read-Only mode</translation>
+      <translation>Modo apenas de leitura</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="877"/>
       <source>Manage layouts</source>
-      <translation type="unfinished">Manage layouts</translation>
+      <translation>Gerir esquemas</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="256"/>
       <source>No plugins are installed. Check the plugins section on Cutter documentation to learn more.</source>
-      <translation type="unfinished">No plugins are installed. Check the plugins section on Cutter documentation to learn more.</translation>
+      <translation>Nenhum plugin instalado. Consulte a secção de plugins na documentação do Cutter para saber mais.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="261"/>
       <source>The installed plugins didn&apos;t add entries to this menu.</source>
-      <translation type="unfinished">The installed plugins didn&apos;t add entries to this menu.</translation>
+      <translation>Os plugins instalados não adicionaram entradas a este menu.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="275"/>
       <source>Analyze the program using Rizin&apos;s &quot;aaa&quot; command</source>
-      <translation type="unfinished">Analyze the program using Rizin&apos;s &quot;aaa&quot; command</translation>
+      <translation>Analisar o programa utilizando o comando &quot;aaa&quot; do Rizin</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="542"/>
       <source>Script loading</source>
-      <translation type="unfinished">Script loading</translation>
+      <translation>Carregamento de script</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="543"/>
@@ -5696,12 +5696,12 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.cpp" line="625"/>
       <source>Failed to open project: %1</source>
-      <translation type="unfinished">Failed to open project: %1</translation>
+      <translation>Falha ao abrir o projeto: %1</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="630"/>
       <source>Open Project</source>
-      <translation type="unfinished">Open Project</translation>
+      <translation>Abrir projeto</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="752"/>
@@ -5717,22 +5717,22 @@ Save your project before closing!</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="1056"/>
       <source>New disassembly</source>
-      <translation type="unfinished">New disassembly</translation>
+      <translation>Novo disassembly</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1058"/>
       <source>New graph</source>
-      <translation type="unfinished">New graph</translation>
+      <translation>Novo grafo</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1060"/>
       <source>New hexdump</source>
-      <translation type="unfinished">New hexdump</translation>
+      <translation>Novo hexdump</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1061"/>
       <source>New Decompiler</source>
-      <translation type="unfinished">New Decompiler</translation>
+      <translation>Novo descompilador</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1240"/>
@@ -5742,17 +5742,17 @@ Save your project before closing!</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="1241"/>
       <source>&apos;%1&apos; is not a valid name.</source>
-      <translation type="unfinished">&apos;%1&apos; is not a valid name.</translation>
+      <translation>&apos;%1&apos; não é um nome válido.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1243"/>
       <source>Enter name</source>
-      <translation type="unfinished">Enter name</translation>
+      <translation>Introduzir nome</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1554"/>
       <source>Select Rizin script</source>
-      <translation type="unfinished">Select Rizin script</translation>
+      <translation>Selecionar script do Rizin</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1597"/>
@@ -5783,7 +5783,7 @@ Save your project before closing!</source>
       <location filename="../core/MainWindow.cpp" line="1799"/>
       <location filename="../core/MainWindow.cpp" line="1821"/>
       <source>Signature File (*.sig)</source>
-      <translation type="unfinished">Signature File (*.sig)</translation>
+      <translation>Ficheiro de assinatura (*.sig)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1800"/>
@@ -5797,7 +5797,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="14"/>
       <source>Map New File</source>
-      <translation type="unfinished">Map New File</translation>
+      <translation>Mapear novo ficheiro</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="26"/>
@@ -5808,7 +5808,7 @@ Save your project before closing!</source>
       <location filename="../dialogs/MapFileDialog.ui" line="52"/>
       <location filename="../dialogs/MapFileDialog.cpp" line="18"/>
       <source>Select file</source>
-      <translation type="unfinished">Select file</translation>
+      <translation>Selecionar ficheiro</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="59"/>
@@ -5822,17 +5822,17 @@ Save your project before closing!</source>
     </message>
     <message>
       <source>Map new file file</source>
-      <translation type="unfinished">Map new file file</translation>
+      <translation>Mapear novo ficheiro</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
       <source>Failed to map a new file</source>
-      <translation type="unfinished">Failed to map a new file</translation>
+      <translation>Falha ao mapear um novo ficheiro</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
       <source>Map new file</source>
-      <translation type="unfinished">Map new file</translation>
+      <translation>Mapear novo ficheiro</translation>
     </message>
   </context>
   <context>
@@ -5855,12 +5855,12 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="64"/>
       <source>Permissions</source>
-      <translation type="unfinished">Permissions</translation>
+      <translation>Permissões</translation>
     </message>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="66"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Comentário</translation>
     </message>
   </context>
   <context>
@@ -5868,7 +5868,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="123"/>
       <source>Memory Map</source>
-      <translation type="unfinished">Memory Map</translation>
+      <translation>Mapa de memória</translation>
     </message>
   </context>
   <context>
@@ -5876,17 +5876,17 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/MultitypeFileSaveDialog.cpp" line="24"/>
       <source>Detect type (*)</source>
-      <translation type="unfinished">Detect type (*)</translation>
+      <translation>Detetar tipo (*)</translation>
     </message>
     <message>
       <location filename="../dialogs/MultitypeFileSaveDialog.cpp" line="63"/>
       <source>File save error</source>
-      <translation type="unfinished">File save error</translation>
+      <translation>Erro ao guardar o ficheiro</translation>
     </message>
     <message>
       <location filename="../dialogs/MultitypeFileSaveDialog.cpp" line="64"/>
       <source>Unrecognized extension &apos;%1&apos;</source>
-      <translation type="unfinished">Unrecognized extension &apos;%1&apos;</translation>
+      <translation>Extensão &apos;%1&apos; não reconhecida</translation>
     </message>
   </context>
   <context>
@@ -5894,7 +5894,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NativeDebugDialog.ui" line="35"/>
       <source>Command line arguments:</source>
-      <translation type="unfinished">Command line arguments:</translation>
+      <translation>Argumentos da linha de comandos:</translation>
     </message>
   </context>
   <context>
@@ -5908,12 +5908,12 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="79"/>
       <source>About</source>
-      <translation type="unfinished">About</translation>
+      <translation>Sobre</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="169"/>
       <source>&lt;b&gt;Select new file&lt;b&gt;</source>
-      <translation type="unfinished">&lt;b&gt;Select new file&lt;b&gt;</translation>
+      <translation>&lt;b&gt;Selecionar novo ficheiro&lt;b&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="182"/>
@@ -5924,7 +5924,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="202"/>
       <source>&lt;b&gt;IO&lt;/b&gt;</source>
-      <translation type="unfinished">&lt;b&gt;IO&lt;/b&gt;</translation>
+      <translation>&lt;b&gt;IO&lt;/b&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="296"/>
@@ -5946,7 +5946,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="328"/>
       <source>&lt;b&gt;Paste Shellcode&lt;b&gt;</source>
-      <translation type="unfinished">&lt;b&gt;Paste Shellcode&lt;b&gt;</translation>
+      <translation>&lt;b&gt;Colar shellcode&lt;b&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="370"/>
@@ -5956,7 +5956,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="410"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Open Project&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Open Project&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Abrir projeto&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="519"/>
@@ -5976,7 +5976,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="534"/>
       <source>Clear all projects</source>
-      <translation type="unfinished">Clear all projects</translation>
+      <translation>Limpar todos os projetos</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="95"/>
@@ -5986,12 +5986,12 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="107"/>
       <source>Open Project</source>
-      <translation type="unfinished">Open Project</translation>
+      <translation>Abrir projeto</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="290"/>
       <source>Open a file without additional options/settings.</source>
-      <translation type="unfinished">Open a file without additional options/settings.</translation>
+      <translation>Abrir um ficheiro sem opções/definições adicionais.</translation>
     </message>
     <message>
       <source>Open a file with no extra treatment.</source>
@@ -6016,7 +6016,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="28"/>
       <source>Plugins are loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
-      <translation type="unfinished">Plugins are loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
+      <translation>Os plugins são carregados a partir de &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="34"/>
@@ -6041,7 +6041,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="48"/>
       <source>Show Rizin plugin information</source>
-      <translation type="unfinished">Show Rizin plugin information</translation>
+      <translation>Mostrar informações dos plugins do Rizin</translation>
     </message>
   </context>
   <context>
@@ -6059,7 +6059,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="34"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>Depurar</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="35"/>
@@ -6074,7 +6074,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="37"/>
       <source>Initialization Script</source>
-      <translation type="unfinished">Initialization Script</translation>
+      <translation>Script de inicialização</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="39"/>
@@ -6130,7 +6130,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ProcessesWidget.cpp" line="167"/>
       <source>Unable to switch to the requested process.</source>
-      <translation type="unfinished">Unable to switch to the requested process.</translation>
+      <translation>Não é possível mudar para o processo solicitado.</translation>
     </message>
   </context>
   <context>
@@ -6138,11 +6138,11 @@ Save your project before closing!</source>
     <message>
       <location filename="../common/DisassemblyPreview.cpp" line="41"/>
       <source>More than one (%1) references here. Weird behaviour expected.</source>
-      <translation type="unfinished">More than one (%1) references here. Weird behaviour expected.</translation>
+      <translation>Mais de uma (%1) referência aqui. Comportamento estranho esperado.</translation>
     </message>
     <message>
       <source>offsetFrom (%1) differs from refs.at(0).from (%(2))</source>
-      <translation type="unfinished">offsetFrom (%1) differs from refs.at(0).from (%(2))</translation>
+      <translation>offsetFrom (%1) difere de refs.at(0).from (%(2))</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="53"/>
@@ -6166,12 +6166,12 @@ WARNING: In Write mode, any changes will be committed to the file on disk. For s
     <message>
       <location filename="../common/IOModesController.cpp" line="62"/>
       <source>Reopen in Write mode</source>
-      <translation type="unfinished">Reopen in Write mode</translation>
+      <translation>Reabrir no modo de escrita</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="64"/>
       <source>Enable Cache mode</source>
-      <translation type="unfinished">Enable Cache mode</translation>
+      <translation>Ativar modo de cache</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="94"/>
@@ -6222,7 +6222,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="401"/>
       <source>Sets a specific architecture name</source>
-      <translation type="unfinished">Sets a specific architecture name</translation>
+      <translation>Define um nome de arquitetura específico</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="402"/>
@@ -6232,7 +6232,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="405"/>
       <source>Sets a specific architecture bits</source>
-      <translation type="unfinished">Sets a specific architecture bits</translation>
+      <translation>Define bits de arquitetura específicos</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="406"/>
@@ -6242,7 +6242,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="409"/>
       <source>Sets a specific CPU</source>
-      <translation type="unfinished">Sets a specific CPU</translation>
+      <translation>Define uma CPU específica</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="410"/>
@@ -6252,7 +6252,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="413"/>
       <source>Sets a specific operating system</source>
-      <translation type="unfinished">Sets a specific operating system</translation>
+      <translation>Define um sistema operativo específico</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="414"/>
@@ -6262,7 +6262,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="418"/>
       <source>Sets the endianness (big or little)</source>
-      <translation type="unfinished">Sets the endianness (big or little)</translation>
+      <translation>Define o endianness (big ou little)</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="419"/>
@@ -6272,7 +6272,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="423"/>
       <source>Force using a specific file format (bin plugin)</source>
-      <translation type="unfinished">Force using a specific file format (bin plugin)</translation>
+      <translation>Força a utilização de um formato de ficheiro específico (bin plugin)</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="424"/>
@@ -6282,7 +6282,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="428"/>
       <source>Load binary at a specific base address</source>
-      <translation type="unfinished">Load binary at a specific base address</translation>
+      <translation>Carregar binário num endereço de base específico</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="429"/>
@@ -6312,27 +6312,27 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="440"/>
       <source>Load project file</source>
-      <translation type="unfinished">Load project file</translation>
+      <translation>Carregar ficheiro de projeto</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="441"/>
       <source>project file</source>
-      <translation type="unfinished">project file</translation>
+      <translation>ficheiro de projeto</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="445"/>
       <source>Open file in write mode</source>
-      <translation type="unfinished">Open file in write mode</translation>
+      <translation>Abrir ficheiro no modo de escrita</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="449"/>
       <source>Disables virtual addressing</source>
-      <translation type="unfinished">Disables virtual addressing</translation>
+      <translation>Desativa endereços virtuais</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="453"/>
       <source>PYTHONHOME to use for embedded python interpreter</source>
-      <translation type="unfinished">PYTHONHOME to use for embedded python interpreter</translation>
+      <translation>PYTHONHOME para utilizar no interpretador de python incorporado</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="459"/>
@@ -6342,17 +6342,17 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="465"/>
       <source>Do not load plugins</source>
-      <translation type="unfinished">Do not load plugins</translation>
+      <translation>Não carregar plugins</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="469"/>
       <source>Do not load Cutter plugins</source>
-      <translation type="unfinished">Do not load Cutter plugins</translation>
+      <translation>Não carregar plugins do Cutter</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="473"/>
       <source>Do not load rizin plugins</source>
-      <translation type="unfinished">Do not load rizin plugins</translation>
+      <translation>Não carregar plugins do rizin</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="487"/>
@@ -6367,7 +6367,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="563"/>
       <source>Invalid Endianness. You can only set it to `big` or `little`.</source>
-      <translation type="unfinished">Invalid Endianness. You can only set it to `big` or `little`.</translation>
+      <translation>Endianness inválida. Apenas pode defini-la para `big` ou `little`.</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="397"/>
@@ -6411,12 +6411,12 @@ Do you want to commit them now?</translation>
     </message>
     <message>
       <source>Color of ascii line in left side that shows what opcodes are belong to function</source>
-      <translation type="unfinished">Color of ascii line in left side that shows what opcodes are belong to function</translation>
+      <translation>Cor da linha ascii no lado esquerdo que mostra que opcodes pertencem à função</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="403"/>
       <source>Color of the line which shows which opcodes belongs to a function</source>
-      <translation type="unfinished">Color of the line which shows which opcodes belongs to a function</translation>
+      <translation>Cor da linha que mostra que opcodes pertencem a uma função</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="404"/>
@@ -6446,7 +6446,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="409"/>
       <source>Color of lines showing jump destination</source>
-      <translation type="unfinished">Color of lines showing jump destination</translation>
+      <translation>Cor das linhas que mostram o destino do salto</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="409"/>
@@ -6502,42 +6502,42 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="416"/>
       <source>0x00 opcode color</source>
-      <translation type="unfinished">0x00 opcode color</translation>
+      <translation>cor do opcode 0x00</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="417"/>
       <source>0x7f opcode color</source>
-      <translation type="unfinished">0x7f opcode color</translation>
+      <translation>cor do opcode 0x7f</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="418"/>
       <source>0xff opcode color</source>
-      <translation type="unfinished">0xff opcode color</translation>
+      <translation>cor do opcode 0xff</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="420"/>
       <source>Color of arithmetic opcodes (add, div, mul etc)</source>
-      <translation type="unfinished">Color of arithmetic opcodes (add, div, mul etc)</translation>
+      <translation>Cor dos códigos aritméticos (add, div, mul, etc.)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="421"/>
       <source>Arithmetic</source>
-      <translation type="unfinished">Arithmetic</translation>
+      <translation>Aritmético</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="423"/>
       <source>Color of binary operations (and, or, xor etc).</source>
-      <translation type="unfinished">Color of binary operations (and, or, xor etc).</translation>
+      <translation>Cor das operações binárias (and, or, xor, etc.).</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="423"/>
       <source>Binary</source>
-      <translation type="unfinished">Binary</translation>
+      <translation>Binário</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="425"/>
       <source>Color of object names, commas between operators, squared brackets and operators inside them.</source>
-      <translation type="unfinished">Color of object names, commas between operators, squared brackets and operators inside them.</translation>
+      <translation>Cor dos nomes dos objetos, vírgulas entre operadores, parênteses quadrados e operadores dentro deles.</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="428"/>
@@ -6547,22 +6547,22 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="429"/>
       <source>push opcode color</source>
-      <translation type="unfinished">push opcode color</translation>
+      <translation>cor do opcode push</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="430"/>
       <source>pop opcode color</source>
-      <translation type="unfinished">pop opcode color</translation>
+      <translation>cor do opcode pop</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="431"/>
       <source>Cryptographic color</source>
-      <translation type="unfinished">Cryptographic color</translation>
+      <translation>Cor criptográfica</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="432"/>
       <source>jmp instructions color</source>
-      <translation type="unfinished">jmp instructions color</translation>
+      <translation>cor das instruções jmp</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="434"/>
@@ -6572,7 +6572,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="435"/>
       <source>Conditional jump</source>
-      <translation type="unfinished">Conditional jump</translation>
+      <translation>Salto condicional</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="436"/>
@@ -6582,17 +6582,17 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="437"/>
       <source>nop opcode color</source>
-      <translation type="unfinished">nop opcode color</translation>
+      <translation>cor do opcode nop</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="438"/>
       <source>ret opcode color</source>
-      <translation type="unfinished">ret opcode color</translation>
+      <translation>cor do opcode ret</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="439"/>
       <source>Color of interrupts</source>
-      <translation type="unfinished">Color of interrupts</translation>
+      <translation>Cor das interrupções</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="439"/>
@@ -6602,32 +6602,32 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="440"/>
       <source>swi opcode color</source>
-      <translation type="unfinished">swi opcode color</translation>
+      <translation>cor do opcode swi</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="442"/>
       <source>Color of compare instructions such as test and cmp</source>
-      <translation type="unfinished">Color of compare instructions such as test and cmp</translation>
+      <translation>Cor das instruções de comparação como test e cmp</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="443"/>
       <source>Compare instructions</source>
-      <translation type="unfinished">Compare instructions</translation>
+      <translation>Instruções de comparação</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="444"/>
       <source>Registers color</source>
-      <translation type="unfinished">Registers color</translation>
+      <translation>Cor dos registos</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="444"/>
       <source>Register</source>
-      <translation type="unfinished">Register</translation>
+      <translation>Registo</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="447"/>
       <source>Color of numeric constants and object pointers</source>
-      <translation type="unfinished">Color of numeric constants and object pointers</translation>
+      <translation>Cor das constantes numéricas e ponteiros de objetos</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="447"/>
@@ -6637,12 +6637,12 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="449"/>
       <source>Color of move instructions such as mov, movd, lea etc</source>
-      <translation type="unfinished">Color of move instructions such as mov, movd, lea etc</translation>
+      <translation>Cor das instruções de movimento como mov, movd, lea, etc.</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="450"/>
       <source>Move instructions</source>
-      <translation type="unfinished">Move instructions</translation>
+      <translation>Instruções de movimento</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="451"/>
@@ -6959,7 +6959,7 @@ Do you want to commit them now?</translation>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="164"/>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="167"/>
       <source>Remove all</source>
-      <translation type="unfinished">Remove all</translation>
+      <translation>Remover tudo</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.cpp" line="57"/>
