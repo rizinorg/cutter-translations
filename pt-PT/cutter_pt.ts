@@ -5626,7 +5626,7 @@ Certifique-se de que é uma string em base64 válida e tente novamente.</transla
     <message>
       <location filename="../core/MainWindow.ui" line="834"/>
       <source>Commit changes</source>
-      <translation>Fazer commit das alterações</translation>
+      <translation>Consolidar alterações</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="842"/>
@@ -5646,7 +5646,7 @@ Certifique-se de que é uma string em base64 válida e tente novamente.</transla
     <message>
       <location filename="../core/MainWindow.ui" line="856"/>
       <source>Enable cache mode. Changes to the file would not be applied to disk unless you specifically commit them. This is a safer option.</source>
-      <translation>Ativa o modo de cache. Alterações ao ficheiro não seriam aplicadas ao disco, a menos que faça commit nas mesmas especificamente. Esta é uma opção mais segura.</translation>
+      <translation>Ativa o modo de cache. As alterações ao ficheiro não seriam aplicadas ao disco, a menos que as consolide especificamente. Esta é uma opção mais segura.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="867"/>
@@ -6008,7 +6008,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/Omnibar.cpp" line="15"/>
       <source>Type flag name or address here</source>
-      <translation type="unfinished">Type flag name or address here</translation>
+      <translation>Digite o nome da flag ou endereço aqui</translation>
     </message>
   </context>
   <context>
@@ -6154,9 +6154,9 @@ Save your project before closing!</source>
       <source>Your file is opened in read-only mode. Editing is only available when the file is opened in either Write or Cache modes.
 
 WARNING: In Write mode, any changes will be committed to the file on disk. For safety, please consider using Cache mode and then commit the changes manually via File -&gt; Commit modifications to disk.</source>
-      <translation type="unfinished">Your file is opened in read-only mode. Editing is only available when the file is opened in either Write or Cache modes.
+      <translation>O seu ficheiro está aberto no modo apenas de leitura. A edição apenas está disponível quando o ficheiro está aberto nos modos de escrita ou de cache.
 
-WARNING: In Write mode, any changes will be committed to the file on disk. For safety, please consider using Cache mode and then commit the changes manually via File -&gt; Commit modifications to disk.</translation>
+AVISO: no modo de escrita, todas as alterações serão consolidades no ficheiro no disco. Por motivos de segurança, considere a utilização do modo de cache e, de seguida, consolide as alterações manualmente através de Ficheiro -&gt; Consolidar modificações no disco.</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="60"/>
@@ -6176,7 +6176,7 @@ WARNING: In Write mode, any changes will be committed to the file on disk. For s
     <message>
       <location filename="../common/IOModesController.cpp" line="94"/>
       <source>Uncommitted changes</source>
-      <translation type="unfinished">Uncommitted changes</translation>
+      <translation>Alterações por consolidar</translation>
     </message>
     <message>
       <source>Uncomitted changes</source>
@@ -6186,8 +6186,8 @@ WARNING: In Write mode, any changes will be committed to the file on disk. For s
       <location filename="../common/IOModesController.cpp" line="95"/>
       <source>It seems that you have changes or patches that are not committed to the file.
 Do you want to commit them now?</source>
-      <translation type="unfinished">It seems that you have changes or patches that are not committed to the file.
-Do you want to commit them now?</translation>
+      <translation>Parece que tem alterações ou correções que não foram consolidadas no ficheiro.
+Deseja consolidá-las agora?</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="98"/>
@@ -6197,7 +6197,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="99"/>
       <source>The version used to compile Cutter (%1) does not match the binary version of rizin (%2). This could result in unexpected behaviour. Are you sure you want to continue?</source>
-      <translation type="unfinished">The version used to compile Cutter (%1) does not match the binary version of rizin (%2). This could result in unexpected behaviour. Are you sure you want to continue?</translation>
+      <translation>A versão utilizada para compilar o Cutter (%1) não corresponde à versão binária do rizin (%2). Isto pode originar um comportamento inesperado. Tem a certeza de que deseja continuar?</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="388"/>
