@@ -6180,7 +6180,7 @@ AVISO: no modo de escrita, todas as alterações serão consolidades no ficheiro
     </message>
     <message>
       <source>Uncomitted changes</source>
-      <translation type="unfinished">Uncomitted changes</translation>
+      <translation>Alterações por consolidar</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="95"/>
