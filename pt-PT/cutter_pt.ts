@@ -2355,22 +2355,22 @@ Consulte a consola para mais detalhes.</translation>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="47"/>
       <source>Step</source>
-      <translation type="unfinished">Step</translation>
+      <translation>Passar</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="48"/>
       <source>Step over</source>
-      <translation type="unfinished">Step over</translation>
+      <translation>Passar sobre</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="49"/>
       <source>Step out</source>
-      <translation type="unfinished">Step out</translation>
+      <translation>Passar para fora</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="50"/>
       <source>Step backwards</source>
-      <translation type="unfinished">Step backwards</translation>
+      <translation>Passar para trás</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="51"/>
@@ -2486,12 +2486,12 @@ Consulte a consola para mais detalhes.</translation>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="109"/>
       <source>Trace each step during continue in a trace session (dbg.trace_continue)</source>
-      <translation type="unfinished">Trace each step during continue in a trace session (dbg.trace_continue)</translation>
+      <translation>Rastrear cada passo durante "continuar" numa sessão de rastreio (dbg.trace_continue)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="112"/>
       <source>Disabling this option means that stepping back after continue will return to the previous PC. Significantly improves performance.</source>
-      <translation type="unfinished">Disabling this option means that stepping back after continue will return to the previous PC. Significantly improves performance.</translation>
+      <translation>Desativar esta opção significa que passar para atrás após continuar regressará ao PC anterior. Melhora significativamente o desempenho.</translation>
     </message>
   </context>
   <context>
@@ -2779,7 +2779,7 @@ Consulte a consola para mais detalhes.</translation>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="116"/>
       <source>Unhighlight block</source>
-      <translation type="unfinished">Unhighlight block</translation>
+      <translation>Remover destaque do bloco</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="126"/>
@@ -2789,7 +2789,7 @@ Consulte a consola para mais detalhes.</translation>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="130"/>
       <source>Unhighlight instruction</source>
-      <translation type="unfinished">Unhighlight instruction</translation>
+      <translation>Remover destaque da instrução</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="196"/>
@@ -2839,7 +2839,7 @@ Consulte a consola para mais detalhes.</translation>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="88"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="911"/>
       <source>Re-type Local Variables</source>
-      <translation type="unfinished">Re-type Local Variables</translation>
+      <translation>Modificar o tipo das variáveis locais</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="92"/>
@@ -3222,7 +3222,7 @@ Consulte a consola para mais detalhes.</translation>
     <message>
       <location filename="../dialogs/EditInstructionDialog.ui" line="100"/>
       <source>Fill all remaining bytes with NOP opcodes</source>
-      <translation type="unfinished">Fill all remaining bytes with NOP opcodes</translation>
+      <translation>Preencher todos os bytes restantes com opcodes NOP</translation>
     </message>
   </context>
   <context>
@@ -3502,7 +3502,7 @@ Consulte a consola para mais detalhes.</translation>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="67"/>
       <source>Arch</source>
-      <translation>Arch</translation>
+      <translation>Arquitetura</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="69"/>
@@ -3512,7 +3512,7 @@ Consulte a consola para mais detalhes.</translation>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="71"/>
       <source># Funcs</source>
-      <translation type="unfinished"># Funcs</translation>
+      <translation>N.º de funções</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="73"/>
@@ -3661,7 +3661,7 @@ Consulte a consola para mais detalhes.</translation>
     <message>
       <location filename="../common/FunctionsTask.h" line="13"/>
       <source>Fetching Functions</source>
-      <translation type="unfinished">Fetching Functions</translation>
+      <translation>A obter funções</translation>
     </message>
   </context>
   <context>
@@ -3674,7 +3674,7 @@ Consulte a consola para mais detalhes.</translation>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="491"/>
       <source>Undefine</source>
-      <translation type="unfinished">Undefine</translation>
+      <translation>Indefinir</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="492"/>
@@ -3712,22 +3712,22 @@ Consulte a consola para mais detalhes.</translation>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="25"/>
       <source>Chain info:</source>
-      <translation type="unfinished">Chain info:</translation>
+      <translation>Informações da cadeia:</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="41"/>
       <source>Detailed chunk info:</source>
-      <translation type="unfinished">Detailed chunk info:</translation>
+      <translation>Informações detalhadas do segmento:</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="48"/>
       <source>Enter chunk base address and press enter</source>
-      <translation type="unfinished">Enter chunk base address and press enter</translation>
+      <translation>Introduzir o endereço de base do segmento e pressionar enter</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="28"/>
       <source>Bins info for arena @ </source>
-      <translation type="unfinished">Bins info for arena @ </translation>
+      <translation>Informações dos bins para a arena @ </translation>
     </message>
   </context>
   <context>
@@ -3745,7 +3745,7 @@ Consulte a consola para mais detalhes.</translation>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="29"/>
       <source>Base address of the chunk</source>
-      <translation type="unfinished">Base address of the chunk</translation>
+      <translation>Endereço de base do segmento</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="39"/>
@@ -3755,7 +3755,7 @@ Consulte a consola para mais detalhes.</translation>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="46"/>
       <source>Size of the heap chunk including metadata</source>
-      <translation type="unfinished">Size of the heap chunk including metadata</translation>
+      <translation>Tamanho do segmento de heap incluindo metadados</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="56"/>
@@ -3765,7 +3765,7 @@ Consulte a consola para mais detalhes.</translation>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="63"/>
       <source>Link to next free chunk in bin&apos;s linked list</source>
-      <translation type="unfinished">Link to next free chunk in bin&apos;s linked list</translation>
+      <translation>Vincular ao segmento livre seguinte na lista vinculada do bin</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="73"/>
@@ -3775,12 +3775,12 @@ Consulte a consola para mais detalhes.</translation>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="80"/>
       <source>Link to previous free chunk in bin&apos;s linked list</source>
-      <translation type="unfinished">Link to previous free chunk in bin&apos;s linked list</translation>
+      <translation>Vincular ao segmento livre anterior na lista vinculada do bin</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="90"/>
       <source>Link to next larger free chunk (only for large chunks)</source>
-      <translation type="unfinished">Link to next larger free chunk (only for large chunks)</translation>
+      <translation>Vincular ao maior segmento livre seguinte (apenas para segmentos grandes)</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="100"/>
@@ -3795,7 +3795,7 @@ Consulte a consola para mais detalhes.</translation>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="114"/>
       <source>Link to next smaller free chunk (for large chunks)</source>
-      <translation type="unfinished">Link to next smaller free chunk (for large chunks)</translation>
+      <translation>Vincular ao menor segmento livre seguinte (para segmentos grandes)</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="124"/>
@@ -3855,7 +3855,7 @@ Consulte a consola para mais detalhes.</translation>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="101"/>
       <source>Chunk header successfully overwritten</source>
-      <translation type="unfinished">Chunk header successfully overwritten</translation>
+      <translation>Cabeçalho de segmento substituído com sucesso</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="103"/>
@@ -3865,7 +3865,7 @@ Consulte a consola para mais detalhes.</translation>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="104"/>
       <source>Chunk header not successfully overwritten</source>
-      <translation type="unfinished">Chunk header not successfully overwritten</translation>
+      <translation>Cabeçalho de segmento não substituído com sucesso</translation>
     </message>
   </context>
   <context>
@@ -3901,7 +3901,7 @@ Consulte a consola para mais detalhes.</translation>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="47"/>
       <source>View bins info for an arena</source>
-      <translation type="unfinished">View bins info for an arena</translation>
+      <translation>Ver informações dos bins para uma arena</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="50"/>
@@ -3911,12 +3911,12 @@ Consulte a consola para mais detalhes.</translation>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="27"/>
       <source>Detailed Chunk Info</source>
-      <translation>Informação detalhada do segmento</translation>
+      <translation>Informações detalhadas do segmento</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="28"/>
       <source>Bins Info</source>
-      <translation>Informação dos bins</translation>
+      <translation>Informações dos bins</translation>
     </message>
   </context>
   <context>
@@ -4145,7 +4145,7 @@ Consulte a consola para mais detalhes.</translation>
     <message>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="8"/>
       <source>Detailed Chunk Info</source>
-      <translation>Informação detalhada do segmento</translation>
+      <translation>Informações detalhadas do segmento</translation>
     </message>
     <message>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="79"/>
@@ -4164,7 +4164,7 @@ Consulte a consola para mais detalhes.</translation>
     <message>
       <location filename="../widgets/HeapDockWidget.ui" line="14"/>
       <source>Heap</source>
-      <translation type="unfinished">Heap</translation>
+      <translation>Heap</translation>
     </message>
   </context>
   <context>
@@ -4187,12 +4187,12 @@ Consulte a consola para mais detalhes.</translation>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="73"/>
       <source>Signed decimal</source>
-      <translation type="unfinished">Signed decimal</translation>
+      <translation>Decimal com sinal</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="74"/>
       <source>Float</source>
-      <translation type="unfinished">Float</translation>
+      <translation>Virgula flutuante</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="88"/>
@@ -4275,7 +4275,7 @@ Consulte a consola para mais detalhes.</translation>
       <location filename="../widgets/HexWidget.cpp" line="168"/>
       <location filename="../widgets/HexWidget.cpp" line="1318"/>
       <source>Write hex bytes</source>
-      <translation type="unfinished">Write hex bytes</translation>
+      <translation>Escrever bytes hexadecimais</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="172"/>
@@ -4335,7 +4335,7 @@ Consulte a consola para mais detalhes.</translation>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1318"/>
       <source>Hex byte string:</source>
-      <translation>String hex byte:</translation>
+      <translation>String de bytes hexadecimais:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1354"/>
@@ -4413,7 +4413,7 @@ Certifique-se de que é uma string em base64 válida e tente novamente.</transla
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="70"/>
       <source>Parsing</source>
-      <translation type="unfinished">Parsing</translation>
+      <translation>Análise</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="120"/>
@@ -4433,7 +4433,7 @@ Certifique-se de que é uma string em base64 válida e tente novamente.</transla
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="191"/>
       <source>Arch</source>
-      <translation>Arch</translation>
+      <translation>Arquitetura</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="220"/>
@@ -4565,7 +4565,7 @@ Certifique-se de que é uma string em base64 válida e tente novamente.</transla
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="45"/>
       <source>Unsafe</source>
-      <translation type="unfinished">Unsafe</translation>
+      <translation>Inseguro</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="71"/>
@@ -4726,7 +4726,7 @@ Certifique-se de que é uma string em base64 válida e tente novamente.</transla
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="551"/>
       <source>Import demangled symbols</source>
-      <translation type="unfinished">Import demangled symbols</translation>
+      <translation>Importar símbolos demangled</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="568"/>
@@ -4776,7 +4776,7 @@ Certifique-se de que é uma string em base64 válida e tente novamente.</transla
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="749"/>
       <source>Endianness: </source>
-      <translation type="unfinished">Endianness: </translation>
+      <translation>Endianness: </translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="768"/>
@@ -4801,7 +4801,7 @@ Certifique-se de que é uma string em base64 válida e tente novamente.</transla
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="876"/>
       <source>Load bin offset (-B)</source>
-      <translation type="unfinished">Load bin offset (-B)</translation>
+      <translation>Carregar deslocamento de bin (-B)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="895"/>
@@ -4811,7 +4811,7 @@ Certifique-se de que é uma string em base64 válida e tente novamente.</transla
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="914"/>
       <source>Map offset (-m)</source>
-      <translation type="unfinished">Map offset (-m)</translation>
+      <translation>Mapear deslocamento (-m)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="930"/>
@@ -4842,7 +4842,7 @@ Certifique-se de que é uma string em base64 válida e tente novamente.</transla
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="1004"/>
       <source>Path to Rizin script file</source>
-      <translation type="unfinished">Path to Rizin script file</translation>
+      <translation>Caminho para o ficheiro de script do Rizin</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="1067"/>
@@ -4887,32 +4887,32 @@ Certifique-se de que é uma string em base64 válida e tente novamente.</transla
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="62"/>
       <source>Autoname functions based on context</source>
-      <translation type="unfinished">Autoname functions based on context</translation>
+      <translation>Renomear funções automaticamente com base no contexto</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="63"/>
       <source>Emulate code to find computed references</source>
-      <translation type="unfinished">Emulate code to find computed references</translation>
+      <translation>Emular código para encontrar referências computadas</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="64"/>
       <source>Analyze all consecutive functions</source>
-      <translation type="unfinished">Analyze all consecutive functions</translation>
+      <translation>Analisar todas as funções consecutivas</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="65"/>
       <source>Type and Argument matching analysis</source>
-      <translation type="unfinished">Type and Argument matching analysis</translation>
+      <translation>Análise de correspondência de argumentos e tipos</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="66"/>
       <source>Analyze code after trap-sleds</source>
-      <translation type="unfinished">Analyze code after trap-sleds</translation>
+      <translation>Analisar código após trap-sleds</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="67"/>
       <source>Analyze function preludes</source>
-      <translation type="unfinished">Analyze function preludes</translation>
+      <translation>Analisar prelúdios de funções</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="68"/>
@@ -4922,7 +4922,7 @@ Certifique-se de que é uma string em base64 válida e tente novamente.</transla
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="71"/>
       <source>Analyze PUSH+RET as JMP</source>
-      <translation type="unfinished">Analyze PUSH+RET as JMP</translation>
+      <translation>Analisar PUSH+RET como JMP</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="72"/>
@@ -5033,7 +5033,7 @@ Certifique-se de que é uma string em base64 válida e tente novamente.</transla
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="42"/>
       <source>Rename layout error</source>
-      <translation type="unfinished">Rename layout error</translation>
+      <translation>Erro ao renomear esquema</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="43"/>
@@ -5150,7 +5150,7 @@ Certifique-se de que é uma string em base64 válida e tente novamente.</transla
     <message>
       <location filename="../core/MainWindow.ui" line="245"/>
       <source>BaseFind</source>
-      <translation type="unfinished">BaseFind</translation>
+      <translation>Procurar o endereço de base</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="250"/>
@@ -5453,7 +5453,7 @@ Certifique-se de que é uma string em base64 válida e tente novamente.</transla
       <location filename="../core/MainWindow.ui" line="625"/>
       <location filename="../core/MainWindow.ui" line="635"/>
       <source>Undefine</source>
-      <translation type="unfinished">Undefine</translation>
+      <translation>Indefinir</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="640"/>
@@ -5591,7 +5591,7 @@ Certifique-se de que é uma string em base64 válida e tente novamente.</transla
     <message>
       <location filename="../core/MainWindow.ui" line="796"/>
       <source>Grouped dock dragging</source>
-      <translation type="unfinished">Grouped dock dragging</translation>
+      <translation>Arrastamento de docas agrupadas</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="801"/>
@@ -5737,7 +5737,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="1240"/>
       <source>Save layout error</source>
-      <translation type="unfinished">Save layout error</translation>
+      <translation>Erro ao guardar esquema</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1241"/>
@@ -6212,7 +6212,7 @@ Deseja consolidá-las agora?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="395"/>
       <source>Automatically open file and optionally start analysis. Needs filename to be specified. May be a value between 0 and 2: 0 = no analysis, 1 = aaa, 2 = aaaa (experimental)</source>
-      <translation type="unfinished">Automatically open file and optionally start analysis. Needs filename to be specified. May be a value between 0 and 2: 0 = no analysis, 1 = aaa, 2 = aaaa (experimental)</translation>
+      <translation>Abrir o ficheiro automaticamente e iniciar análise opcionalmente. Precisa de um nome de ficheiro especificado. Pode ser um valor entre 0 e 2: 0 = sem análise, 1 = aaa, 2 = aaaa (experimental)</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="398"/>
@@ -6337,7 +6337,7 @@ Deseja consolidá-las agora?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="459"/>
       <source>Disable output redirection. Some of the output in console widget will not be visible. Use this option when debuging a crash or freeze and output  redirection is causing some messages to be lost.</source>
-      <translation type="unfinished">Disable output redirection. Some of the output in console widget will not be visible. Use this option when debuging a crash or freeze and output  redirection is causing some messages to be lost.</translation>
+      <translation>Desativar o redirecionamento da saída. Algumas das saídas no widget da consola não serão visíveis. Utilize esta opção quando estiver a depurar uma falha ou bloqueio e o redirecionamento de saída estiver a causar a perda de algumas mensagens.</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="465"/>
@@ -6462,12 +6462,12 @@ Deseja consolidá-las agora?</translation>
       <location filename="../widgets/ColorThemeListView.cpp" line="411"/>
       <location filename="../widgets/ColorThemeListView.cpp" line="413"/>
       <source>Info</source>
-      <translation>Informação</translation>
+      <translation>Informações</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="411"/>
       <source>prompt</source>
-      <translation type="unfinished">prompt</translation>
+      <translation>prompt</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="412"/>
@@ -6657,7 +6657,7 @@ Deseja consolidá-las agora?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="453"/>
       <source>Function variable (local or argument) type color</source>
-      <translation type="unfinished">Function variable (local or argument) type color</translation>
+      <translation>Cor do tipo de variável de função (local ou argumento)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="454"/>
@@ -6677,27 +6677,27 @@ Deseja consolidá-las agora?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="468"/>
       <source>In graph view jump arrow true</source>
-      <translation type="unfinished">In graph view jump arrow true</translation>
+      <translation>Na vista de grafo, saltar seta verdadeira</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="468"/>
       <source>Arrow true</source>
-      <translation type="unfinished">Arrow true</translation>
+      <translation>Seta verdadeira</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="470"/>
       <source>In graph view jump arrow false</source>
-      <translation type="unfinished">In graph view jump arrow false</translation>
+      <translation>Na vista de grafo, saltar seta falsa</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="470"/>
       <source>Arrow false</source>
-      <translation type="unfinished">Arrow false</translation>
+      <translation>Seta falsa</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="472"/>
       <source>In graph view jump arrow (no condition)</source>
-      <translation type="unfinished">In graph view jump arrow (no condition)</translation>
+      <translation>Na vista de grafo, saltar seta (sem condição)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="472"/>
@@ -7450,7 +7450,7 @@ Deseja consolidá-las agora?</translation>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="14"/>
       <source>Set to Data</source>
-      <translation type="unfinished">Set to Data</translation>
+      <translation>Definir para dados</translation>
     </message>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="20"/>
@@ -7536,7 +7536,7 @@ Deseja consolidá-las agora?</translation>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="140"/>
       <source>Pointed memory</source>
-      <translation type="unfinished">Pointed memory</translation>
+      <translation>Memória apontada</translation>
     </message>
   </context>
   <context>
@@ -7748,12 +7748,12 @@ Deseja consolidá-las agora?</translation>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="198"/>
       <source>View Type</source>
-      <translation type="unfinished">View Type</translation>
+      <translation>Ver tipo</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="199"/>
       <source>Edit Type</source>
-      <translation type="unfinished">Edit Type</translation>
+      <translation>Editar tipo</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="230"/>
@@ -7773,13 +7773,13 @@ Deseja consolidá-las agora?</translation>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="324"/>
       <source>Edit Type: </source>
-      <translation type="unfinished">Edit Type: </translation>
+      <translation>Editar tipo: </translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="327"/>
       <location filename="../widgets/TypesWidget.cpp" line="365"/>
       <source>View Type: </source>
-      <translation type="unfinished">View Type: </translation>
+      <translation>Ver tipo: </translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="327"/>
