@@ -1876,7 +1876,7 @@ Please check the console for more details.</source>
       <location filename="../core/Cutter.cpp" line="4660"/>
       <location filename="../core/Cutter.cpp" line="4711"/>
       <source>Cannot get graph at </source>
-      <translation>لا يمكن الحصول على رسم بياني على </translation>
+      <translation>لا يمكن الحصول على رسم بياني في </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4691"/>
@@ -2173,7 +2173,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/Dashboard.ui" line="645"/>
       <source>Relro:</source>
-      <translation>Relro:</translation>
+      <translation>عمليات إعادة تحديد موقع البرنامج للقراءة فقط:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="700"/>
@@ -2203,7 +2203,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/Dashboard.ui" line="845"/>
       <source>Relocs:</source>
-      <translation>عمليات النقل:</translation>
+      <translation>عمليات إعادة تحديد الموقع:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="874"/>
@@ -6942,7 +6942,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RelocsWidget.cpp" line="131"/>
       <source>Relocs</source>
-      <translation>عمليات النقل</translation>
+      <translation>عمليات إعادة تحديد الموقع</translation>
     </message>
   </context>
   <context>
@@ -7797,7 +7797,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="324"/>
       <source>Edit Type: </source>
-      <translation>تعديل النوع: </translation>
+      <translation>نوع التعديل: </translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="327"/>
