@@ -142,7 +142,7 @@
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="18"/>
       <source>Show X-Refs</source>
-      <translation>Mostrar referências cruzadas (X-Refs)</translation>
+      <translation>Mostrar X-Refs</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="19"/>
@@ -5596,7 +5596,7 @@ Certifique-se de que é uma string em base64 válida e tente novamente.</transla
     <message>
       <location filename="../core/MainWindow.ui" line="801"/>
       <source>Zoom In</source>
-      <translation>Ampliar</translation>
+      <translation>Ampliar zoom</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="804"/>
@@ -5606,7 +5606,7 @@ Certifique-se de que é uma string em base64 válida e tente novamente.</transla
     <message>
       <location filename="../core/MainWindow.ui" line="812"/>
       <source>Zoom Out</source>
-      <translation>Reduzir</translation>
+      <translation>Reduzir zoom</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="815"/>
@@ -5636,7 +5636,7 @@ Certifique-se de que é uma string em base64 válida e tente novamente.</transla
     <message>
       <location filename="../core/MainWindow.ui" line="845"/>
       <source>Open the file in write mode. Every change to the file will change the original file on disk.</source>
-      <translation>Abra o ficheiro no modo de escrita. Cada alteração ao ficheiro irá alterar o ficheiro original no disco.</translation>
+      <translation>Abre o ficheiro no modo de escrita. Cada alteração ao ficheiro irá alterar o ficheiro original no disco.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="853"/>
@@ -6156,7 +6156,7 @@ Save your project before closing!</source>
 WARNING: In Write mode, any changes will be committed to the file on disk. For safety, please consider using Cache mode and then commit the changes manually via File -&gt; Commit modifications to disk.</source>
       <translation>O seu ficheiro está aberto no modo apenas de leitura. A edição apenas está disponível quando o ficheiro está aberto nos modos de escrita ou de cache.
 
-AVISO: no modo de escrita, todas as alterações serão consolidades no ficheiro no disco. Por motivos de segurança, considere a utilização do modo de cache e, de seguida, consolide as alterações manualmente através de Ficheiro -&gt; Consolidar modificações no disco.</translation>
+AVISO: no modo de escrita, todas as alterações serão consolidadas no ficheiro no disco. Por motivos de segurança, considere a utilização do modo de cache e, de seguida, consolide as alterações manualmente através de Ficheiro -&gt; Consolidar modificações no disco.</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="60"/>
@@ -7333,7 +7333,7 @@ Deseja consolidá-las agora?</translation>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="258"/>
       <source>hex string</source>
-      <translation>hex string</translation>
+      <translation>string hexadecimal</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="259"/>
@@ -7667,7 +7667,7 @@ Deseja consolidá-las agora?</translation>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.ui" line="23"/>
       <source>Load From File:</source>
-      <translation>Carregar do ficheiro:</translation>
+      <translation>Carregar a partir do ficheiro:</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.ui" line="37"/>
