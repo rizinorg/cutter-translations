@@ -4857,32 +4857,32 @@ Certifique-se de que é uma string em base64 válida e tente novamente.</transla
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="56"/>
       <source>Analyze all symbols</source>
-      <translation type="unfinished">Analyze all symbols</translation>
+      <translation>Analisar todos os símbolos</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="57"/>
       <source>Analyze instructions for references</source>
-      <translation type="unfinished">Analyze instructions for references</translation>
+      <translation>Analisar instruções para encontrar referências</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="58"/>
       <source>Analyze function calls</source>
-      <translation type="unfinished">Analyze function calls</translation>
+      <translation>Analisar chamadas de funções</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="59"/>
       <source>Analyze all basic blocks</source>
-      <translation type="unfinished">Analyze all basic blocks</translation>
+      <translation>Analisar todos os basic blocks</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="60"/>
       <source>Analyze all objc references</source>
-      <translation type="unfinished">Analyze all objc references</translation>
+      <translation>Analisar todas as referências objc</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="61"/>
       <source>Recover class information from RTTI</source>
-      <translation type="unfinished">Recover class information from RTTI</translation>
+      <translation>Recuperar informações de classe a partir das RTTI</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="62"/>
