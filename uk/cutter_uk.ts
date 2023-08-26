@@ -1130,7 +1130,7 @@
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="58"/>
       <source>Add new breakpoint</source>
-      <translation type="unfinished">Add new breakpoint</translation>
+      <translation>Додати нову точку зупину</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="65"/>
@@ -1159,7 +1159,7 @@
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="14"/>
       <source>Add/Edit breakpoint</source>
-      <translation type="unfinished">Add/Edit breakpoint</translation>
+      <translation>Додати/Редагувати точку зупину</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="22"/>
@@ -2870,7 +2870,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="107"/>
       <source>Define function here</source>
-      <translation>Визначте функцію тут</translation>
+      <translation>Визначити функцію тут</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="119"/>
@@ -2989,12 +2989,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="264"/>
       <source>Byte</source>
-      <translation>Байт</translation>
+      <translation>Byte</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="268"/>
       <source>Word</source>
-      <translation>Слово</translation>
+      <translation>Word</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="272"/>
@@ -3100,7 +3100,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="606"/>
       <source>Add breakpoint</source>
-      <translation type="unfinished">Add breakpoint</translation>
+      <translation>Додати точку зупину</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="607"/>
