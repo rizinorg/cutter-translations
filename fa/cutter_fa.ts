@@ -1958,7 +1958,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="416"/>
       <source>Graph Modelling Language (*.gml)</source>
-      <translation type="unfinished">Graph Modelling Language (*.gml)</translation>
+      <translation>زبان مدلسازی نمودار (gml.*)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="418"/>
@@ -1967,7 +1967,7 @@ Please check the console for more details.</source>
     </message>
     <message>
       <source>SDB key-value (*.txt)</source>
-      <translation type="unfinished">SDB key-value (*.txt)</translation>
+      <translation>SDB key-value (*.txt)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="424"/>
@@ -2007,12 +2007,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="458"/>
       <source>Graph Export</source>
-      <translation type="unfinished">Graph Export</translation>
+      <translation>صادر کردن نمودار</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="459"/>
       <source>Do you really want to export %1 x %2 = %3 pixel bitmap image? Consider using different format.</source>
-      <translation type="unfinished">Do you really want to export %1 x %2 = %3 pixel bitmap image? Consider using different format.</translation>
+      <translation>آیا واقعاً می‌خواهید t %1 x %2 = %3 تصویر بیت مپ پیکسل را صادر کنید؟ استفاده از فرمت های مختلف را در نظر بگیرید.</translation>
     </message>
   </context>
   <context>
@@ -2020,7 +2020,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../common/CutterSeekable.cpp" line="73"/>
       <source>More than one (%1) references here. Weird behaviour expected.</source>
-      <translation type="unfinished">More than one (%1) references here. Weird behaviour expected.</translation>
+      <translation>بیش از یک (%1) مرجع در اینجا. رفتار عجیب و غریب مورد انتظار است.</translation>
     </message>
     <message>
       <location filename="../widgets/AddressableDockWidget.cpp" line="45"/>
@@ -2350,7 +2350,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="46"/>
       <source>Continue backwards</source>
-      <translation type="unfinished">Continue backwards</translation>
+      <translation>به عقب ادامه دهید</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="47"/>
@@ -2370,17 +2370,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="50"/>
       <source>Step backwards</source>
-      <translation type="unfinished">Step backwards</translation>
+      <translation>به عقب برگرد</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="51"/>
       <source>Start trace session</source>
-      <translation type="unfinished">Start trace session</translation>
+      <translation>شروع جلسه ردیابی</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="52"/>
       <source>Stop trace session</source>
-      <translation type="unfinished">Stop trace session</translation>
+      <translation>توقف جلسه ردیابی</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="53"/>
@@ -2417,7 +2417,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="268"/>
       <source>If you encounter any problems or have suggestions, please submit an issue to https://github.com/rizinorg/cutter/issues</source>
-      <translation type="unfinished">If you encounter any problems or have suggestions, please submit an issue to https://github.com/rizinorg/cutter/issues</translation>
+      <translation>اگر با مشکلی مواجه شدید یا پیشنهادی دارید، لطفاً مشکل را به https://github.com/rizinorg/cutter/issues ارسال کنید</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="289"/>
@@ -2451,12 +2451,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="30"/>
       <source>Debug plugin:</source>
-      <translation type="unfinished">Debug plugin:</translation>
+      <translation>پلاگین اشکال زدایی:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="42"/>
       <source>ESIL options</source>
-      <translation type="unfinished">ESIL options</translation>
+      <translation>گزینه های ESIL</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="54"/>
@@ -2471,7 +2471,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="79"/>
       <source>Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</source>
-      <translation type="unfinished">Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</translation>
+      <translation>متن را هنگام بزرگنمایی مخفی کنید و از مقدار داده شده کوچکتر باشد. مقادیر بالاتر می تواند عملکرد را افزایش دهد.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="82"/>
@@ -2481,17 +2481,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="100"/>
       <source>Trace options</source>
-      <translation type="unfinished">Trace options</translation>
+      <translation>گزینه های ردیابی</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="109"/>
       <source>Trace each step during continue in a trace session (dbg.trace_continue)</source>
-      <translation type="unfinished">Trace each step during continue in a trace session (dbg.trace_continue)</translation>
+      <translation>ردیابی هر مرحله در طول ادامه یک جلسه ردیابی (dbg.trace_continue)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="112"/>
       <source>Disabling this option means that stepping back after continue will return to the previous PC. Significantly improves performance.</source>
-      <translation type="unfinished">Disabling this option means that stepping back after continue will return to the previous PC. Significantly improves performance.</translation>
+      <translation>غیرفعال کردن این گزینه به این معنی است که پس از ادامه، به PC قبلی بازمی‌گردید. به طور قابل توجهی عملکرد را بهبود می بخشد.</translation>
     </message>
   </context>
   <context>
@@ -2504,12 +2504,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="27"/>
       <source>Copy instruction address (&lt;address&gt;)</source>
-      <translation type="unfinished">Copy instruction address (&lt;address&gt;)</translation>
+      <translation>کپی آدرس دستورالعمل (&lt;address&gt;)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="28"/>
       <source>Copy address of [flag] (&lt;address&gt;)</source>
-      <translation type="unfinished">Copy address of [flag] (&lt;address&gt;)</translation>
+      <translation>کپی آدرس [flag] (&lt;address&gt;)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="29"/>
@@ -2530,7 +2530,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="32"/>
       <source>Rename function at cursor</source>
-      <translation type="unfinished">Rename function at cursor</translation>
+      <translation>تغییر نام تابع در مکان نما</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="33"/>
@@ -2540,7 +2540,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="34"/>
       <source>Edit variable &lt;name of variable&gt;</source>
-      <translation type="unfinished">Edit variable &lt;name of variable&gt;</translation>
+      <translation>ویرایش متغیر &lt;name of variable&gt;</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="35"/>
@@ -2586,12 +2586,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="189"/>
       <source>Remove all breakpoints in line</source>
-      <translation type="unfinished">Remove all breakpoints in line</translation>
+      <translation>تمام نقاط توقف در خط را حذف کنید</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="196"/>
       <source>Edit breakpoint</source>
-      <translation type="unfinished">Edit breakpoint</translation>
+      <translation>ویرایش نقطه ی توقف</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="200"/>
