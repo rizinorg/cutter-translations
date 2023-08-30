@@ -2727,7 +2727,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="589"/>
       <source>%1 (%2)</source>
-      <translation type="unfinished">%1 (%2)</translation>
+      <translation>%1 (%2)</translation>
     </message>
   </context>
   <context>
@@ -3230,7 +3230,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="25"/>
       <source>Class:</source>
-      <translation type="unfinished">Class:</translation>
+      <translation>کلاس:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="32"/>
@@ -3283,12 +3283,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="52"/>
       <source>Size:</source>
-      <translation type="unfinished">Size:</translation>
+      <translation>اندازه‌:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="59"/>
       <source>Type:</source>
-      <translation type="unfinished">Type:</translation>
+      <translation>نوع:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="66"/>
@@ -3321,7 +3321,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/EditVariablesDialog.ui" line="42"/>
       <source>Type:</source>
-      <translation type="unfinished">Type:</translation>
+      <translation>نوع:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditVariablesDialog.cpp" line="20"/>
@@ -3344,17 +3344,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="64"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>نوع</translation>
     </message>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="66"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>نام</translation>
     </message>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="68"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>نظرات</translation>
     </message>
   </context>
   <context>
@@ -3370,12 +3370,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="14"/>
       <source>Add Flag</source>
-      <translation type="unfinished">Add Flag</translation>
+      <translation>افزودن پرچم</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="20"/>
       <source>Add flag at</source>
-      <translation type="unfinished">Add flag at</translation>
+      <translation>افزودن پرچم در</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="38"/>
@@ -3390,7 +3390,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="80"/>
       <source>Size:</source>
-      <translation type="unfinished">Size:</translation>
+      <translation>اندازه‌:</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.cpp" line="24"/>
@@ -3408,27 +3408,27 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="64"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>اندازه</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="66"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>آف‌ست</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="68"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>نام</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="70"/>
       <source>Real Name</source>
-      <translation type="unfinished">Real Name</translation>
+      <translation>اسم واقعی</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="72"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>نظرات</translation>
     </message>
   </context>
   <context>
@@ -3436,7 +3436,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="79"/>
       <source>Quick Filter</source>
-      <translation type="unfinished">Quick Filter</translation>
+      <translation>فیلتر سریع</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="86"/>
@@ -3471,7 +3471,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="215"/>
       <source>Flag name:</source>
-      <translation type="unfinished">Flag name:</translation>
+      <translation>نام پرچم:</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="244"/>
@@ -3484,7 +3484,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/FlirtContextMenu.cpp" line="14"/>
       <source>Copy Line</source>
-      <translation type="unfinished">Copy Line</translation>
+      <translation>نسخه‌برداری از خط</translation>
     </message>
     <message>
       <location filename="../menus/FlirtContextMenu.cpp" line="15"/>
@@ -3497,7 +3497,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="65"/>
       <source>Bin</source>
-      <translation type="unfinished">Bin</translation>
+      <translation>سطل زباله</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="67"/>
@@ -3507,7 +3507,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="69"/>
       <source>Bits</source>
-      <translation type="unfinished">Bits</translation>
+      <translation>بیت‌ها</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="71"/>
@@ -3517,12 +3517,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="73"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>نام</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="75"/>
       <source>Details</source>
-      <translation type="unfinished">Details</translation>
+      <translation>جزئیات</translation>
     </message>
   </context>
   <context>
@@ -3587,7 +3587,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="153"/>
       <source>Comment: %1</source>
-      <translation type="unfinished">Comment: %1</translation>
+      <translation>نظرات: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="265"/>
@@ -3613,12 +3613,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="313"/>
       <source>Imp.</source>
-      <translation type="unfinished">Imp.</translation>
+      <translation>Imp.</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="315"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>آف‌ست</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="317"/>
@@ -3653,7 +3653,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="329"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>نظرات</translation>
     </message>
   </context>
   <context>
@@ -3707,7 +3707,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation type="unfinished">Dialog</translation>
+      <translation>دیالوگ</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="25"/>
@@ -3735,12 +3735,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation type="unfinished">Dialog</translation>
+      <translation>دیالوگ</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="22"/>
       <source>Base</source>
-      <translation type="unfinished">Base</translation>
+      <translation>پایه</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="29"/>
@@ -3750,7 +3750,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="39"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>اندازه</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="46"/>
@@ -3760,7 +3760,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="56"/>
       <source>Fd</source>
-      <translation type="unfinished">Fd</translation>
+      <translation>Fd</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="63"/>
@@ -3770,7 +3770,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="73"/>
       <source>Bk</source>
-      <translation type="unfinished">Bk</translation>
+      <translation>Bk</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="80"/>
@@ -3873,17 +3873,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="161"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>آف‌ست</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="163"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>اندازه</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="165"/>
       <source>Status</source>
-      <translation type="unfinished">Status</translation>
+      <translation>وضعیت</translation>
     </message>
   </context>
   <context>
@@ -3891,7 +3891,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>فرم</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="34"/>
