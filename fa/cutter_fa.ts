@@ -2611,7 +2611,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="218"/>
       <source>Remove %1</source>
-      <translation type="unfinished">Remove %1</translation>
+      <translation>حذف %1</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="221"/>
@@ -2663,7 +2663,7 @@ Please check the console for more details.</source>
       <location filename="../menus/DecompilerContextMenu.cpp" line="414"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="421"/>
       <source>Function name:</source>
-      <translation type="unfinished">Function name:</translation>
+      <translation>نام تابع:</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="420"/>
@@ -2681,7 +2681,7 @@ Please check the console for more details.</source>
       <location filename="../menus/DecompilerContextMenu.cpp" line="439"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="456"/>
       <source>Enter name</source>
-      <translation type="unfinished">Enter name</translation>
+      <translation>نام را وارد کنید</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="438"/>
@@ -2711,12 +2711,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="542"/>
       <source>Breakpoint</source>
-      <translation type="unfinished">Breakpoint</translation>
+      <translation>نقطه‌ی توقف</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="552"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>اشکال زدایی</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="582"/>
@@ -2973,7 +2973,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="250"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>پیشرفته</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="262"/>
@@ -2993,12 +2993,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="272"/>
       <source>Dword</source>
-      <translation type="unfinished">Dword</translation>
+      <translation>Dword</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="276"/>
       <source>Qword</source>
-      <translation type="unfinished">Qword</translation>
+      <translation>Qword</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="291"/>
@@ -3171,7 +3171,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/DuplicateFromOffsetDialog.ui" line="28"/>
       <source>Offset:</source>
-      <translation type="unfinished">Offset:</translation>
+      <translation>آفست:</translation>
     </message>
     <message>
       <location filename="../dialogs/DuplicateFromOffsetDialog.ui" line="49"/>
@@ -3934,17 +3934,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="38"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>نام:</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="61"/>
       <source>int</source>
-      <translation type="unfinished">int</translation>
+      <translation>int</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="80"/>
       <source>Type:</source>
-      <translation type="unfinished">Type:</translation>
+      <translation>نوع:</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.cpp" line="28"/>
@@ -3962,22 +3962,22 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="60"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>آدرس</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="62"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>نوع</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="64"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>نام</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="66"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>نظرات</translation>
     </message>
   </context>
   <context>
@@ -3999,12 +3999,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="167"/>
       <source>Category</source>
-      <translation type="unfinished">Category</translation>
+      <translation>دسته‌بندی</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="169"/>
       <source>Globals</source>
-      <translation type="unfinished">Globals</translation>
+      <translation>سراسری</translation>
     </message>
   </context>
   <context>
@@ -4063,12 +4063,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="124"/>
       <source>Vertical</source>
-      <translation type="unfinished">Vertical</translation>
+      <translation>عمودی</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="147"/>
       <source>Horizontal</source>
-      <translation type="unfinished">Horizontal</translation>
+      <translation>افقی</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="183"/>
@@ -4098,7 +4098,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="225"/>
       <source>%</source>
-      <translation type="unfinished">%</translation>
+      <translation>%</translation>
     </message>
   </context>
   <context>
@@ -4114,22 +4114,22 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="55"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>آفست</translation>
     </message>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="57"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>نام</translation>
     </message>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="59"/>
       <source>Value</source>
-      <translation type="unfinished">Value</translation>
+      <translation>مقادیر</translation>
     </message>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="61"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>نظرات</translation>
     </message>
   </context>
   <context>
@@ -4137,7 +4137,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="120"/>
       <source>Headers</source>
-      <translation type="unfinished">Headers</translation>
+      <translation>عناوین</translation>
     </message>
   </context>
   <context>
@@ -4145,7 +4145,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="8"/>
       <source>Detailed Chunk Info</source>
-      <translation type="unfinished">Detailed Chunk Info</translation>
+      <translation>اطلاعات مفصل اجزا</translation>
     </message>
     <message>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="79"/>
@@ -4307,22 +4307,22 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1160"/>
       <source>Edit Comment</source>
-      <translation type="unfinished">Edit Comment</translation>
+      <translation>ویرایش توضیح</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1168"/>
       <source>Item size:</source>
-      <translation type="unfinished">Item size:</translation>
+      <translation>اندازه آیتم‌ها:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1170"/>
       <source>Item format:</source>
-      <translation type="unfinished">Item format:</translation>
+      <translation>فرمت آیتم‌ها:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1175"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>ویرایش</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1272"/>
@@ -4330,7 +4330,7 @@ Please check the console for more details.</source>
       <location filename="../widgets/HexWidget.cpp" line="1466"/>
       <location filename="../widgets/HexWidget.cpp" line="1484"/>
       <source>String:</source>
-      <translation type="unfinished">String:</translation>
+      <translation>رشته:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1318"/>
@@ -4345,7 +4345,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1381"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>خطا</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1382"/>
@@ -4463,7 +4463,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="350"/>
       <source>SHA1:</source>
-      <translation type="unfinished">SHA1:</translation>
+      <translation>SHA1:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="357"/>
@@ -4478,17 +4478,17 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="434"/>
       <source>Entropy:</source>
-      <translation type="unfinished">Entropy:</translation>
+      <translation>آنتروپی:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="466"/>
       <source>MD5:</source>
-      <translation type="unfinished">MD5:</translation>
+      <translation>MD5:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="479"/>
       <source>CRC32:</source>
-      <translation type="unfinished">CRC32:</translation>
+      <translation>CRC32:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="50"/>
@@ -4595,7 +4595,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="81"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>نظرات</translation>
     </message>
   </context>
   <context>
@@ -4621,7 +4621,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="38"/>
       <source>Value:</source>
-      <translation type="unfinished">Value:</translation>
+      <translation>مقادیر:</translation>
     </message>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="54"/>
@@ -4641,17 +4641,17 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
       <source>Word</source>
-      <translation type="unfinished">Word</translation>
+      <translation>کلمه</translation>
     </message>
     <message>
       <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
       <source>Dword</source>
-      <translation type="unfinished">Dword</translation>
+      <translation>Dword</translation>
     </message>
     <message>
       <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
       <source>Qword</source>
-      <translation type="unfinished">Qword</translation>
+      <translation>Qword</translation>
     </message>
   </context>
   <context>
@@ -4680,7 +4680,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="224"/>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>هیچ‌کدام</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="259"/>
@@ -4700,13 +4700,13 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="326"/>
       <source>Experimental</source>
-      <translation type="unfinished">Experimental</translation>
+      <translation>تجربی</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="364"/>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="399"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>پیشرفته</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="518"/>
@@ -4731,7 +4731,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="568"/>
       <source>...</source>
-      <translation type="unfinished">...</translation>
+      <translation>...</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="599"/>
@@ -4746,7 +4746,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="644"/>
       <source>Architecture:</source>
-      <translation type="unfinished">Architecture:</translation>
+      <translation>معماری:</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="669"/>
@@ -4952,7 +4952,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="407"/>
       <source>Level</source>
-      <translation type="unfinished">Level</translation>
+      <translation>سطح</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="410"/>
@@ -5028,7 +5028,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <location filename="../dialogs/LayoutManager.ui" line="32"/>
       <location filename="../dialogs/LayoutManager.cpp" line="60"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>حذف</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="42"/>
@@ -5066,7 +5066,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="61"/>
       <source>File</source>
-      <translation type="unfinished">File</translation>
+      <translation>فایل</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="68"/>
@@ -5077,12 +5077,12 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <location filename="../core/MainWindow.ui" line="97"/>
       <location filename="../core/MainWindow.cpp" line="293"/>
       <source>View</source>
-      <translation type="unfinished">View</translation>
+      <translation>مشاهده</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="104"/>
       <source>Zoom</source>
-      <translation type="unfinished">Zoom</translation>
+      <translation>بزرگنمايی</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="113"/>
@@ -5092,30 +5092,30 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="133"/>
       <source>Tools</source>
-      <translation type="unfinished">Tools</translation>
+      <translation>ابزارها</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="139"/>
       <source>Help</source>
-      <translation type="unfinished">Help</translation>
+      <translation>راهنما</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="147"/>
       <location filename="../core/MainWindow.ui" line="513"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>ویرایش</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="156"/>
       <source>Windows</source>
-      <translation type="unfinished">Windows</translation>
+      <translation>ویندوز</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="160"/>
       <location filename="../core/MainWindow.cpp" line="147"/>
       <location filename="../core/MainWindow.cpp" line="148"/>
       <source>Plugins</source>
-      <translation type="unfinished">Plugins</translation>
+      <translation>پلاگین‌ها</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="165"/>
@@ -5125,27 +5125,27 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="170"/>
       <source>Debug...</source>
-      <translation type="unfinished">Debug...</translation>
+      <translation>اشکال زدایی...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="185"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>اشکال زدایی</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="232"/>
       <source>Reset to default layout</source>
-      <translation type="unfinished">Reset to default layout</translation>
+      <translation>تنظیم دوباره به طرح پیش‌فرض</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="237"/>
       <source>Zen Mode</source>
-      <translation type="unfinished">Zen Mode</translation>
+      <translation>حالت Zen</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="240"/>
       <source>Zen mode</source>
-      <translation type="unfinished">Zen mode</translation>
+      <translation>حالت Zen</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="245"/>
@@ -5198,7 +5198,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="289"/>
       <source>Ctrl+M</source>
-      <translation type="unfinished">Ctrl+M</translation>
+      <translation>Ctrl+M</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="294"/>
@@ -5210,45 +5210,45 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="297"/>
       <source>Ctrl+S</source>
-      <translation type="unfinished">Ctrl+S</translation>
+      <translation>Ctrl + S</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="302"/>
       <source>Cut</source>
-      <translation type="unfinished">Cut</translation>
+      <translation>بریدن</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="307"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>کپی</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="312"/>
       <location filename="../core/MainWindow.ui" line="518"/>
       <source>Paste</source>
-      <translation type="unfinished">Paste</translation>
+      <translation>چسباندن</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="317"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>حذف</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="322"/>
       <location filename="../core/MainWindow.ui" line="325"/>
       <source>Select all</source>
-      <translation type="unfinished">Select all</translation>
+      <translation>انتخاب همه</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="330"/>
       <source>Find</source>
-      <translation type="unfinished">Find</translation>
+      <translation>پیدا کردن</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="335"/>
       <location filename="../core/MainWindow.ui" line="338"/>
       <source>Find next</source>
-      <translation type="unfinished">Find next</translation>
+      <translation>یافتن بعدی</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="343"/>
@@ -5331,7 +5331,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="466"/>
       <source>Analysis</source>
-      <translation type="unfinished">Analysis</translation>
+      <translation>تجزیه و تحلیل</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="471"/>
@@ -5381,7 +5381,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <location filename="../core/MainWindow.ui" line="533"/>
       <location filename="../core/MainWindow.ui" line="536"/>
       <source>Copy all</source>
-      <translation type="unfinished">Copy all</translation>
+      <translation>کپی همه</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="541"/>
@@ -5416,12 +5416,12 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="590"/>
       <source>4</source>
-      <translation type="unfinished">4</translation>
+      <translation>4</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="595"/>
       <source>8</source>
-      <translation type="unfinished">8</translation>
+      <translation>8</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="600"/>
@@ -5484,17 +5484,17 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="673"/>
       <source>Quit</source>
-      <translation type="unfinished">Quit</translation>
+      <translation>خارج شدن</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="676"/>
       <source>Ctrl+Q</source>
-      <translation type="unfinished">Ctrl+Q</translation>
+      <translation>Ctrl+Q</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="684"/>
       <source>Exports</source>
-      <translation type="unfinished">Exports</translation>
+      <translation>صادرات</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="687"/>
@@ -5539,7 +5539,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="740"/>
       <source>Graph</source>
-      <translation type="unfinished">Graph</translation>
+      <translation>نمودار</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="745"/>
@@ -5596,32 +5596,32 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="801"/>
       <source>Zoom In</source>
-      <translation type="unfinished">Zoom In</translation>
+      <translation>بزرگنمایی</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="804"/>
       <source>Ctrl++</source>
-      <translation type="unfinished">Ctrl++</translation>
+      <translation>Ctrl++</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="812"/>
       <source>Zoom Out</source>
-      <translation type="unfinished">Zoom Out</translation>
+      <translation>کوچک‌نمایی</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="815"/>
       <source>Ctrl+-</source>
-      <translation type="unfinished">Ctrl+-</translation>
+      <translation>Ctrl+-</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="823"/>
       <source>Reset</source>
-      <translation type="unfinished">Reset</translation>
+      <translation>تنظیم مجدد</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="826"/>
       <source>Ctrl+=</source>
-      <translation type="unfinished">Ctrl+=</translation>
+      <translation>Ctrl+=</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="834"/>
@@ -5701,7 +5701,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.cpp" line="630"/>
       <source>Open Project</source>
-      <translation type="unfinished">Open Project</translation>
+      <translation>باز کردن پروژه</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="752"/>
@@ -5748,7 +5748,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../core/MainWindow.cpp" line="1243"/>
       <source>Enter name</source>
-      <translation type="unfinished">Enter name</translation>
+      <translation>نام را وارد کنید</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1554"/>
@@ -5803,23 +5803,23 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="26"/>
       <source>File:</source>
-      <translation type="unfinished">File:</translation>
+      <translation>فایل:</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="52"/>
       <location filename="../dialogs/MapFileDialog.cpp" line="18"/>
       <source>Select file</source>
-      <translation type="unfinished">Select file</translation>
+      <translation>فایل را انتخاب کنید</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="59"/>
       <source>Map address:</source>
-      <translation type="unfinished">Map address:</translation>
+      <translation>آدرس نقشه:</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="72"/>
       <source>0x40000</source>
-      <translation type="unfinished">0x40000</translation>
+      <translation>0x40000</translation>
     </message>
     <message>
       <source>Map new file file</source>
@@ -5856,12 +5856,12 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="64"/>
       <source>Permissions</source>
-      <translation type="unfinished">Permissions</translation>
+      <translation>دسترسی‌‌‌‌‌‌ها</translation>
     </message>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="66"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>نظرات</translation>
     </message>
   </context>
   <context>
@@ -5904,7 +5904,7 @@ Save your project before closing!</translation>
       <location filename="../dialogs/NewFileDialog.ui" line="20"/>
       <location filename="../dialogs/NewFileDialog.ui" line="149"/>
       <source>Open File</source>
-      <translation type="unfinished">Open File</translation>
+      <translation>باز کردن فایل</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="79"/>
@@ -5920,12 +5920,12 @@ Save your project before closing!</translation>
       <location filename="../dialogs/NewFileDialog.ui" line="182"/>
       <location filename="../dialogs/NewFileDialog.ui" line="390"/>
       <source>Select</source>
-      <translation type="unfinished">Select</translation>
+      <translation>انتخاب</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="202"/>
       <source>&lt;b&gt;IO&lt;/b&gt;</source>
-      <translation type="unfinished">&lt;b&gt;IO&lt;/b&gt;</translation>
+      <translation>&lt;b&gt;IO&lt;/b&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="296"/>
@@ -5937,7 +5937,7 @@ Save your project before closing!</translation>
       <location filename="../dialogs/NewFileDialog.ui" line="360"/>
       <location filename="../dialogs/NewFileDialog.ui" line="501"/>
       <source>Open</source>
-      <translation type="unfinished">Open</translation>
+      <translation>باز</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="316"/>
@@ -5952,7 +5952,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="370"/>
       <source>Projects</source>
-      <translation type="unfinished">Projects</translation>
+      <translation>پروژه ها</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="410"/>
@@ -5967,12 +5967,12 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="524"/>
       <source>Clear all</source>
-      <translation type="unfinished">Clear all</translation>
+      <translation>پاک کردن همه</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="529"/>
       <source>Delete project</source>
-      <translation type="unfinished">Delete project</translation>
+      <translation>حذف پروژه</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="534"/>
@@ -5982,12 +5982,12 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="95"/>
       <source>Select file</source>
-      <translation type="unfinished">Select file</translation>
+      <translation>انتخاب فایل</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="107"/>
       <source>Open Project</source>
-      <translation type="unfinished">Open Project</translation>
+      <translation>باز کردن پروژه</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="290"/>
@@ -6022,27 +6022,27 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="34"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>نام</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="34"/>
       <source>Description</source>
-      <translation type="unfinished">Description</translation>
+      <translation>توضیحات</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="34"/>
       <source>Version</source>
-      <translation type="unfinished">Version</translation>
+      <translation>نسخه</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="34"/>
       <source>Author</source>
-      <translation type="unfinished">Author</translation>
+      <translation>مولف</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="48"/>
       <source>Show Rizin plugin information</source>
-      <translation type="unfinished">Show Rizin plugin information</translation>
+      <translation>نمایش اطلاعات پلاگین Rizin</translation>
     </message>
   </context>
   <context>
@@ -6050,7 +6050,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.ui" line="6"/>
       <source>Preferences</source>
-      <translation type="unfinished">Preferences</translation>
+      <translation>اولویت‌ها</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="28"/>
@@ -6060,17 +6060,17 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="34"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>اشکال زدايي</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="35"/>
       <source>Appearance</source>
-      <translation type="unfinished">Appearance</translation>
+      <translation>ظاهر</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="36"/>
       <source>Plugins</source>
-      <translation type="unfinished">Plugins</translation>
+      <translation>پلاگین‌ها</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="37"/>
@@ -6080,7 +6080,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="39"/>
       <source>Analysis</source>
-      <translation type="unfinished">Analysis</translation>
+      <translation>تجزیه و تحلیل</translation>
     </message>
   </context>
   <context>
@@ -6088,17 +6088,17 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/AttachProcDialog.cpp" line="71"/>
       <source>PID</source>
-      <translation type="unfinished">PID</translation>
+      <translation>PID</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.cpp" line="73"/>
       <source>UID</source>
-      <translation type="unfinished">UID</translation>
+      <translation>UID</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.cpp" line="75"/>
       <source>Status</source>
-      <translation type="unfinished">Status</translation>
+      <translation>وضعیت</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.cpp" line="77"/>
@@ -6432,17 +6432,17 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="406"/>
       <source>Flag</source>
-      <translation type="unfinished">Flag</translation>
+      <translation>پرچم</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="407"/>
       <source>Label</source>
-      <translation type="unfinished">Label</translation>
+      <translation>برچسب</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="408"/>
       <source>Help</source>
-      <translation type="unfinished">Help</translation>
+      <translation>راهنما</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="409"/>
@@ -6463,7 +6463,7 @@ Do you want to commit them now?</translation>
       <location filename="../widgets/ColorThemeListView.cpp" line="411"/>
       <location filename="../widgets/ColorThemeListView.cpp" line="413"/>
       <source>Info</source>
-      <translation type="unfinished">Info</translation>
+      <translation>اطلاعات</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="411"/>
@@ -6478,12 +6478,12 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="412"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>آفست</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="413"/>
       <source>input</source>
-      <translation type="unfinished">input</translation>
+      <translation>ورودی</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="414"/>
@@ -6493,12 +6493,12 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="414"/>
       <source>invalid</source>
-      <translation type="unfinished">invalid</translation>
+      <translation>نامعتبر</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="415"/>
       <source>other</source>
-      <translation type="unfinished">other</translation>
+      <translation>دیگر</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="416"/>
@@ -6533,7 +6533,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="423"/>
       <source>Binary</source>
-      <translation type="unfinished">Binary</translation>
+      <translation>باینری</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="425"/>
@@ -6543,7 +6543,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="428"/>
       <source>Text</source>
-      <translation type="unfinished">Text</translation>
+      <translation>متن</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="429"/>
@@ -6828,12 +6828,12 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="510"/>
       <source>ucall</source>
-      <translation type="unfinished">ucall</translation>
+      <translation>ucall</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="511"/>
       <source>ujmp</source>
-      <translation type="unfinished">ujmp</translation>
+      <translation>ujmp</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="512"/>
@@ -6846,17 +6846,17 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/QuickFilterView.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>فرم</translation>
     </message>
     <message>
       <location filename="../widgets/QuickFilterView.ui" line="41"/>
       <source>Quick Filter</source>
-      <translation type="unfinished">Quick Filter</translation>
+      <translation>فیلتر سریع</translation>
     </message>
     <message>
       <location filename="../widgets/QuickFilterView.ui" line="61"/>
       <source>X</source>
-      <translation type="unfinished">X</translation>
+      <translation>X</translation>
     </message>
   </context>
   <context>
@@ -6872,12 +6872,12 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="67"/>
       <source>Register</source>
-      <translation type="unfinished">Register</translation>
+      <translation>ثبت نام</translation>
     </message>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="69"/>
       <source>Value</source>
-      <translation type="unfinished">Value</translation>
+      <translation>مقدار</translation>
     </message>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="71"/>
@@ -6887,7 +6887,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="73"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>نظرات</translation>
     </message>
   </context>
   <context>
@@ -6908,22 +6908,22 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/RelocsWidget.cpp" line="54"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>آدرس</translation>
     </message>
     <message>
       <location filename="../widgets/RelocsWidget.cpp" line="56"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>نوع</translation>
     </message>
     <message>
       <location filename="../widgets/RelocsWidget.cpp" line="58"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>نام</translation>
     </message>
     <message>
       <location filename="../widgets/RelocsWidget.cpp" line="60"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>نظرات</translation>
     </message>
   </context>
   <context>
@@ -6944,7 +6944,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="75"/>
       <source>Port:</source>
-      <translation type="unfinished">Port:</translation>
+      <translation>درگاه:</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="82"/>
@@ -6954,13 +6954,13 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="159"/>
       <source>Remove item</source>
-      <translation type="unfinished">Remove item</translation>
+      <translation>حذف آیتم</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="164"/>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="167"/>
       <source>Remove all</source>
-      <translation type="unfinished">Remove all</translation>
+      <translation>حذف همه</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.cpp" line="57"/>
@@ -6970,17 +6970,17 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.cpp" line="68"/>
       <source>Invalid IP address</source>
-      <translation type="unfinished">Invalid IP address</translation>
+      <translation>نشانی IP نامعتبر</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.cpp" line="81"/>
       <source>Path does not exist</source>
-      <translation type="unfinished">Path does not exist</translation>
+      <translation>مسیر وجود ندارد</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.cpp" line="94"/>
       <source>Invalid port</source>
-      <translation type="unfinished">Invalid port</translation>
+      <translation>پورت نامعتبر</translation>
     </message>
   </context>
   <context>
@@ -6988,7 +6988,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="76"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>نام</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="78"/>
@@ -6998,17 +6998,17 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="80"/>
       <source>Index</source>
-      <translation type="unfinished">Index</translation>
+      <translation>فهرست</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="82"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>نوع</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="84"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>اندازه</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="86"/>
@@ -7018,7 +7018,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="88"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>نظرات</translation>
     </message>
   </context>
   <context>
@@ -7156,7 +7156,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="142"/>
       <source>RzAsm</source>
-      <translation type="unfinished">RzAsm</translation>
+      <translation>RzAsm</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="148"/>
@@ -7166,7 +7166,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="164"/>
       <source>Architecture</source>
-      <translation type="unfinished">Architecture</translation>
+      <translation>معماری</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="169"/>
@@ -7176,12 +7176,12 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="174"/>
       <source>Version</source>
-      <translation type="unfinished">Version</translation>
+      <translation>نسخه</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="189"/>
       <source>Author</source>
-      <translation type="unfinished">Author</translation>
+      <translation>مولف</translation>
     </message>
   </context>
   <context>
@@ -7199,20 +7199,20 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/RizinTaskDialog.ui" line="27"/>
       <source>Time</source>
-      <translation type="unfinished">Time</translation>
+      <translation>زمان</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinTaskDialog.cpp" line="32"/>
       <source>Running for</source>
-      <translation type="unfinished">Running for</translation>
+      <translation>در حال اجرا برای</translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/RizinTaskDialog.cpp" line="34"/>
       <source>%n hour</source>
       <comment>%n hours</comment>
-      <translation type="unfinished">
-        <numerusform>%n hour</numerusform>
-        <numerusform>%n hour</numerusform>
+      <translation>
+        <numerusform>%n ساعت</numerusform>
+        <numerusform>%n ساعت</numerusform>
       </translation>
     </message>
     <message numerus="yes">
@@ -7220,7 +7220,7 @@ Do you want to commit them now?</translation>
       <source>%n minute</source>
       <comment>%n minutes</comment>
       <translation type="unfinished">
-        <numerusform>%n minute</numerusform>
+        <numerusform>%n دقیقه</numerusform>
         <numerusform>%n minute</numerusform>
       </translation>
     </message>
