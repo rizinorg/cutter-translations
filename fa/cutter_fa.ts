@@ -888,28 +888,28 @@
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="117"/>
       <source>Alignment:</source>
-      <translation type="unfinished">Alignment:</translation>
+      <translation>ترازکردن:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="134"/>
       <source>Min String Length:</source>
-      <translation type="unfinished">Min String Length:</translation>
+      <translation>حداقل طول رشته:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="157"/>
       <source>Min Score:</source>
-      <translation type="unfinished">Min Score:</translation>
+      <translation>حداقل امتیاز:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="199"/>
       <source>Remove item</source>
-      <translation type="unfinished">Remove item</translation>
+      <translation>برداشتن آیتم</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="204"/>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="207"/>
       <source>Remove all</source>
-      <translation type="unfinished">Remove all</translation>
+      <translation>حذف همه</translation>
     </message>
   </context>
   <context>
@@ -918,19 +918,19 @@
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="84"/>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="110"/>
       <source>Copy %1</source>
-      <translation type="unfinished">Copy %1</translation>
+      <translation>کپی %1</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="85"/>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="111"/>
       <source>Reopen Cutter with base address as %1</source>
-      <translation type="unfinished">Reopen Cutter with base address as %1</translation>
+      <translation>کاتر Cutter را با آدرس پایه %1 دوباره باز کنید</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="86"/>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="112"/>
       <source>Reopen Cutter with map address as %1</source>
-      <translation type="unfinished">Reopen Cutter with map address as %1</translation>
+      <translation>کاتر Cutter را با آدرس نقشه %1 دوباره باز کنید</translation>
     </message>
   </context>
   <context>
@@ -938,7 +938,7 @@
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="58"/>
       <source>Score</source>
-      <translation type="unfinished">Score</translation>
+      <translation>امتیاز</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="60"/>
@@ -965,22 +965,22 @@
     <message>
       <location filename="../core/Basefind.cpp" line="41"/>
       <source>Start address is &gt;= end address</source>
-      <translation type="unfinished">Start address is &gt;= end address</translation>
+      <translation>آدرس شروع &gt;= آدرس پایان است</translation>
     </message>
     <message>
       <location filename="../core/Basefind.cpp" line="44"/>
       <source>Alignment must be at least </source>
-      <translation type="unfinished">Alignment must be at least </translation>
+      <translation>تراز باید حداقل باشد </translation>
     </message>
     <message>
       <location filename="../core/Basefind.cpp" line="48"/>
       <source>Min score must be at least 1</source>
-      <translation type="unfinished">Min score must be at least 1</translation>
+      <translation>پایین ترین امتیاز باید حداقل 1 باشد</translation>
     </message>
     <message>
       <location filename="../core/Basefind.cpp" line="51"/>
       <source>Min string length must be at least 1</source>
-      <translation type="unfinished">Min string length must be at least 1</translation>
+      <translation>کمترین طول رشته باید حداقل 1 باشد</translation>
     </message>
   </context>
   <context>
@@ -1013,7 +1013,7 @@
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="131"/>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="137"/>
       <source>N/A</source>
-      <translation type="unfinished">N/A</translation>
+      <translation>N/A</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="153"/>
@@ -1038,27 +1038,27 @@
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="161"/>
       <source>Chunks count</source>
-      <translation type="unfinished">Chunks count</translation>
+      <translation>تعداد تکه ها</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="163"/>
       <source>Chunks size</source>
-      <translation type="unfinished">Chunks size</translation>
+      <translation>اندازه تکه ها</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="171"/>
       <source>Bin number in NBINS or fastbinsY array</source>
-      <translation type="unfinished">Bin number in NBINS or fastbinsY array</translation>
+      <translation>شماره bin در آچیدمان NBINS یا fastbinsY</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="173"/>
       <source>Pointer to first chunk of the bin</source>
-      <translation type="unfinished">Pointer to first chunk of the bin</translation>
+      <translation>به اولین تکه سطل اشاره کنید</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="175"/>
       <source>Pointer to last chunk of the bin</source>
-      <translation type="unfinished">Pointer to last chunk of the bin</translation>
+      <translation>به آخرین تکه سطل اشاره کنید</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="177"/>
