@@ -4037,28 +4037,28 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="48"/>
       <source>Show preview when hovering (graph.preview)</source>
-      <translation type="unfinished">Show preview when hovering (graph.preview)</translation>
+      <translation>نشان دادن پیش‌نمایش هنگام معلق بودن (graph.preview)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="57"/>
       <source>Maximum Line Length:</source>
-      <translation type="unfinished">Maximum Line Length:</translation>
+      <translation>حداکثر طول خط:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="77"/>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="87"/>
       <source>Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</source>
-      <translation type="unfinished">Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</translation>
+      <translation>متن را هنگام بزرگنمایی مخفی کنید و از مقدار داده شده کوچکتر باشد. مقادیر بالاتر می تواند عملکرد را افزایش دهد.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="80"/>
       <source>Minimum Font Size</source>
-      <translation type="unfinished">Minimum Font Size</translation>
+      <translation>حداقل اندازه قلم</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="105"/>
       <source>Graph Layout Options</source>
-      <translation type="unfinished">Graph Layout Options</translation>
+      <translation>گزینه های چیدمان نمودار</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="124"/>
@@ -4073,27 +4073,27 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="183"/>
       <source>Block spacing:</source>
-      <translation type="unfinished">Block spacing:</translation>
+      <translation>فاصله بلوک:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="190"/>
       <source>Edge spacing</source>
-      <translation type="unfinished">Edge spacing</translation>
+      <translation>فاصله لبه ها</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="200"/>
       <source>Bitmap Export Options</source>
-      <translation type="unfinished">Bitmap Export Options</translation>
+      <translation>گزینه های صادرکردن بیت مپ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="209"/>
       <source>Export Transparent Bitmap Graphs</source>
-      <translation type="unfinished">Export Transparent Bitmap Graphs</translation>
+      <translation>صادر کردن نمودارهای بیت مپ شفاف</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="218"/>
       <source>Graph Bitmap Export Scale: </source>
-      <translation type="unfinished">Graph Bitmap Export Scale: </translation>
+      <translation>مقیاس صادرکردن بیت مپ نمودار: </translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="225"/>
@@ -4106,7 +4106,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/GraphView.cpp" line="441"/>
       <source>Cutter graph export</source>
-      <translation type="unfinished">Cutter graph export</translation>
+      <translation>صادرکردن نمودار Cutter</translation>
     </message>
   </context>
   <context>
@@ -4151,7 +4151,7 @@ Please check the console for more details.</source>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="79"/>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="121"/>
       <source>bin </source>
-      <translation type="unfinished">bin </translation>
+      <translation>سطل </translation>
     </message>
     <message>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="121"/>
@@ -4164,7 +4164,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HeapDockWidget.ui" line="14"/>
       <source>Heap</source>
-      <translation type="unfinished">Heap</translation>
+      <translation>توده</translation>
     </message>
   </context>
   <context>
@@ -4172,22 +4172,22 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="70"/>
       <source>Hexadecimal</source>
-      <translation type="unfinished">Hexadecimal</translation>
+      <translation>هگزادسیمال</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="71"/>
       <source>Octal</source>
-      <translation type="unfinished">Octal</translation>
+      <translation>مبنای هشت</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="72"/>
       <source>Decimal</source>
-      <translation type="unfinished">Decimal</translation>
+      <translation>اعشار</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="73"/>
       <source>Signed decimal</source>
-      <translation type="unfinished">Signed decimal</translation>
+      <translation>عدد اعشاری امضا شده</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="74"/>
@@ -4197,7 +4197,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="88"/>
       <source>Bytes per row</source>
-      <translation type="unfinished">Bytes per row</translation>
+      <translation>بایت های هر ردیف</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="98"/>
@@ -4207,12 +4207,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="105"/>
       <source>Big Endian</source>
-      <translation type="unfinished">Big Endian</translation>
+      <translation>Big Endian</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="110"/>
       <source>Bytes as pairs</source>
-      <translation type="unfinished">Bytes as pairs</translation>
+      <translation>بایت ها بصورت جفت</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="114"/>
@@ -4222,40 +4222,40 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="120"/>
       <source>Copy address</source>
-      <translation type="unfinished">Copy address</translation>
+      <translation>کپی آدرس</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="127"/>
       <location filename="../widgets/HexWidget.cpp" line="1157"/>
       <source>Add Comment</source>
-      <translation type="unfinished">Add Comment</translation>
+      <translation>افزودن نظر</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="134"/>
       <source>Delete Comment</source>
-      <translation type="unfinished">Delete Comment</translation>
+      <translation>حذف کامنت</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="140"/>
       <source>Select range</source>
-      <translation type="unfinished">Select range</translation>
+      <translation>انتخاب محدوده</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="147"/>
       <location filename="../widgets/HexWidget.cpp" line="1272"/>
       <source>Write string</source>
-      <translation type="unfinished">Write string</translation>
+      <translation>نوشتن رشته</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="151"/>
       <source>Write length and string</source>
-      <translation type="unfinished">Write length and string</translation>
+      <translation>نوشتن طول و رشته</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="155"/>
       <location filename="../widgets/HexWidget.cpp" line="1466"/>
       <source>Write wide string</source>
-      <translation type="unfinished">Write wide string</translation>
+      <translation>نوشتن رشته عریض</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="159"/>
@@ -4585,7 +4585,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="77"/>
       <source>Library</source>
-      <translation type="unfinished">Library</translation>
+      <translation>کتابخانه</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="79"/>
