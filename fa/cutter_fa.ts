@@ -3790,7 +3790,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="107"/>
       <source>Bk-nextsize</source>
-      <translation type="unfinished">Bk-nextsize</translation>
+      <translation>Bk-nextsize</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="114"/>
@@ -4156,7 +4156,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="121"/>
       <source> @ </source>
-      <translation type="unfinished"> @ </translation>
+      <translation> @ </translation>
     </message>
   </context>
   <context>
@@ -7842,17 +7842,17 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/VTablesWidget.cpp" line="63"/>
       <source>VTable</source>
-      <translation type="unfinished">VTable</translation>
+      <translation>VTable</translation>
     </message>
     <message>
       <location filename="../widgets/VTablesWidget.cpp" line="84"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>نام</translation>
     </message>
     <message>
       <location filename="../widgets/VTablesWidget.cpp" line="86"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>آدرس</translation>
     </message>
   </context>
   <context>
@@ -7861,19 +7861,19 @@ Do you want to commit them now?</translation>
       <location filename="../dialogs/VersionInfoDialog.ui" line="50"/>
       <location filename="../dialogs/VersionInfoDialog.ui" line="64"/>
       <source>TextLabel</source>
-      <translation type="unfinished">TextLabel</translation>
+      <translation>برچسب متن</translation>
     </message>
     <message>
       <location filename="../dialogs/VersionInfoDialog.ui" line="94"/>
       <location filename="../dialogs/VersionInfoDialog.ui" line="126"/>
       <source>Key</source>
-      <translation type="unfinished">Key</translation>
+      <translation>کلید</translation>
     </message>
     <message>
       <location filename="../dialogs/VersionInfoDialog.ui" line="99"/>
       <location filename="../dialogs/VersionInfoDialog.ui" line="131"/>
       <source>Value</source>
-      <translation type="unfinished">Value</translation>
+      <translation>مقدار</translation>
     </message>
   </context>
   <context>
@@ -7881,7 +7881,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="508"/>
       <source>Virtual</source>
-      <translation type="unfinished">Virtual</translation>
+      <translation>مجازی</translation>
     </message>
   </context>
   <context>
@@ -7902,18 +7902,18 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="83"/>
       <source>Cutter</source>
-      <translation type="unfinished">Cutter</translation>
+      <translation>Cutter</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="104"/>
       <location filename="../dialogs/WelcomeDialog.cpp" line="19"/>
       <source>Version </source>
-      <translation type="unfinished">Version </translation>
+      <translation>نسخه </translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="168"/>
       <source>About</source>
-      <translation type="unfinished">About</translation>
+      <translation>درباره</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="203"/>
@@ -7923,7 +7923,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="208"/>
       <source>Dark Theme</source>
-      <translation type="unfinished">Dark Theme</translation>
+      <translation>تم تیره</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="213"/>
@@ -7933,17 +7933,17 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="218"/>
       <source>Light Theme</source>
-      <translation type="unfinished">Light Theme</translation>
+      <translation>تم روشن</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="229"/>
       <source>Check for updates on start</source>
-      <translation type="unfinished">Check for updates on start</translation>
+      <translation>بررسی به روز رسانی ها هنگام شروع</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="298"/>
       <source>Community</source>
-      <translation type="unfinished">Community</translation>
+      <translation>جامعه</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="320"/>
@@ -7971,17 +7971,17 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="417"/>
       <source>Continue</source>
-      <translation type="unfinished">Continue</translation>
+      <translation>ادامه</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.cpp" line="70"/>
       <source>Language settings</source>
-      <translation type="unfinished">Language settings</translation>
+      <translation>تنظیمات زبان</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.cpp" line="71"/>
       <source>Language will be changed after next application start.</source>
-      <translation type="unfinished">Language will be changed after next application start.</translation>
+      <translation>زبان پس از شروع مجدد برنامه تغییر خواهد کرد.</translation>
     </message>
   </context>
   <context>
@@ -7989,22 +7989,22 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="297"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>آدرس</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="299"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>نوع</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="301"/>
       <source>Code</source>
-      <translation type="unfinished">Code</translation>
+      <translation>کد</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="303"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>نظرات</translation>
     </message>
   </context>
   <context>
