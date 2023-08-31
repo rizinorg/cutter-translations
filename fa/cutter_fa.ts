@@ -5071,7 +5071,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="68"/>
       <source>Set mode</source>
-      <translation type="unfinished">Set mode</translation>
+      <translation>تعیین حالت</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="97"/>
@@ -5087,7 +5087,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="113"/>
       <source>Layouts</source>
-      <translation type="unfinished">Layouts</translation>
+      <translation>چیدمان</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="133"/>
@@ -5150,7 +5150,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="245"/>
       <source>BaseFind</source>
-      <translation type="unfinished">BaseFind</translation>
+      <translation>پیدا کردن پایه</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="250"/>
@@ -5160,17 +5160,17 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="255"/>
       <source>Report an issue</source>
-      <translation type="unfinished">Report an issue</translation>
+      <translation>یک مشکل را گزارش کنید</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="260"/>
       <source>New Window</source>
-      <translation type="unfinished">New Window</translation>
+      <translation>پنجره جدید</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="263"/>
       <source>Ctrl+N</source>
-      <translation type="unfinished">Ctrl+N</translation>
+      <translation>Ctrl+N</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="268"/>
@@ -5183,17 +5183,17 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="872"/>
       <location filename="../core/MainWindow.cpp" line="1243"/>
       <source>Save layout</source>
-      <translation type="unfinished">Save layout</translation>
+      <translation>ذخیره چیدمان</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="281"/>
       <source>Documentation</source>
-      <translation type="unfinished">Documentation</translation>
+      <translation>مستندات</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="286"/>
       <source>Map File</source>
-      <translation type="unfinished">Map File</translation>
+      <translation>فایل نقشه</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="289"/>
@@ -5205,7 +5205,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.cpp" line="728"/>
       <location filename="../core/MainWindow.cpp" line="751"/>
       <source>Save Project</source>
-      <translation type="unfinished">Save Project</translation>
+      <translation>ذخیره پروژه</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="297"/>
@@ -5254,22 +5254,22 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="343"/>
       <location filename="../core/MainWindow.ui" line="346"/>
       <source>Find previous</source>
-      <translation type="unfinished">Find previous</translation>
+      <translation>یافتن قبلی</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="355"/>
       <source>Undo Seek</source>
-      <translation type="unfinished">Undo Seek</translation>
+      <translation>لغو جستجو</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="358"/>
       <source>Go back</source>
-      <translation type="unfinished">Go back</translation>
+      <translation>بازگشت</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="367"/>
       <source>Redo Seek</source>
-      <translation type="unfinished">Redo Seek</translation>
+      <translation>جستجو مجدد</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="378"/>
@@ -5712,38 +5712,38 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.cpp" line="780"/>
       <source>Do you really want to exit?
 Save your project before closing!</source>
-      <translation type="unfinished">Do you really want to exit?
-Save your project before closing!</translation>
+      <translation>آیا واقعاً می خواهید خارج شوید؟
+پروژه خود را قبل از بسته شدن ذخیره کنید!</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1056"/>
       <source>New disassembly</source>
-      <translation type="unfinished">New disassembly</translation>
+      <translation>جداسازی جدید</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1058"/>
       <source>New graph</source>
-      <translation type="unfinished">New graph</translation>
+      <translation>نمودار جدید</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1060"/>
       <source>New hexdump</source>
-      <translation type="unfinished">New hexdump</translation>
+      <translation>Hexdump جدید</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1061"/>
       <source>New Decompiler</source>
-      <translation type="unfinished">New Decompiler</translation>
+      <translation>دیکامپایلر جدید</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1240"/>
       <source>Save layout error</source>
-      <translation type="unfinished">Save layout error</translation>
+      <translation>ذخیره خطای چیدمان</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1241"/>
       <source>&apos;%1&apos; is not a valid name.</source>
-      <translation type="unfinished">&apos;%1&apos; is not a valid name.</translation>
+      <translation>&apos;%1&apos; یک نام معتبر نیست.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1243"/>
