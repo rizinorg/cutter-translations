@@ -5305,7 +5305,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="438"/>
       <source>Toggle tab position</source>
-      <translation type="unfinished">Toggle tab position</translation>
+      <translation>تغییر موقعیت tab</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="443"/>
