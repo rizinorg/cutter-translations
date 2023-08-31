@@ -4842,7 +4842,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="1004"/>
       <source>Path to Rizin script file</source>
-      <translation type="unfinished">Path to Rizin script file</translation>
+      <translation>مسیر فایل اسکریپت Rizin</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="1067"/>
@@ -4852,37 +4852,37 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="1080"/>
       <source>  Ok  </source>
-      <translation type="unfinished">  Ok  </translation>
+      <translation>  بسیار خوب  </translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="56"/>
       <source>Analyze all symbols</source>
-      <translation type="unfinished">Analyze all symbols</translation>
+      <translation>آنالیز همه سمبولها</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="57"/>
       <source>Analyze instructions for references</source>
-      <translation type="unfinished">Analyze instructions for references</translation>
+      <translation>آنالیز دستورالعمل ها برای مرجع ها</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="58"/>
       <source>Analyze function calls</source>
-      <translation type="unfinished">Analyze function calls</translation>
+      <translation>فراخوانی تابع را تجزیه و تحلیل کنید</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="59"/>
       <source>Analyze all basic blocks</source>
-      <translation type="unfinished">Analyze all basic blocks</translation>
+      <translation>تمام بلوک های اساسی را تجزیه و تحلیل کنید</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="60"/>
       <source>Analyze all objc references</source>
-      <translation type="unfinished">Analyze all objc references</translation>
+      <translation>همه مراجع objc را تجزیه و تحلیل کنید</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="61"/>
       <source>Recover class information from RTTI</source>
-      <translation type="unfinished">Recover class information from RTTI</translation>
+      <translation>بازیابی اطلاعات کلاس از RTTI</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="62"/>
