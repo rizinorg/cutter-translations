@@ -5464,22 +5464,22 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="652"/>
       <location filename="../core/MainWindow.ui" line="655"/>
       <source>Show/Hide bottom pannel</source>
-      <translation type="unfinished">Show/Hide bottom pannel</translation>
+      <translation>نمایش/مخفی کردن دکمه پانل</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="660"/>
       <source>Run Rizin script</source>
-      <translation type="unfinished">Run Rizin script</translation>
+      <translation>اجرای اسکریپت Rizin</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="665"/>
       <source>Reset Settings</source>
-      <translation type="unfinished">Reset Settings</translation>
+      <translation>تنظیم مجدد تنظیمات</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="668"/>
       <source>Reset settings</source>
-      <translation type="unfinished">Reset settings</translation>
+      <translation>تنظیم مجدد تنظیمات</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="673"/>
@@ -5499,42 +5499,42 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="687"/>
       <source>Show/Hide Exports panel</source>
-      <translation type="unfinished">Show/Hide Exports panel</translation>
+      <translation>نمایش/پنهان کردن پانل صادره ها</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="692"/>
       <source>Refresh Contents</source>
-      <translation type="unfinished">Refresh Contents</translation>
+      <translation>تازه سازی مطالب</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="695"/>
       <source>Refresh contents</source>
-      <translation type="unfinished">Refresh contents</translation>
+      <translation>تازه سازی مطالب</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="703"/>
       <source>Show ESIL rather than assembly</source>
-      <translation type="unfinished">Show ESIL rather than assembly</translation>
+      <translation>نمایش ESIL به جای اسمبلی</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="711"/>
       <source>Show pseudocode rather than assembly</source>
-      <translation type="unfinished">Show pseudocode rather than assembly</translation>
+      <translation>نمایش شبه کد به جای اسمبلی</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="722"/>
       <source>Display offsets</source>
-      <translation type="unfinished">Display offsets</translation>
+      <translation>نمایش آفست ها</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="727"/>
       <source>Preferences</source>
-      <translation type="unfinished">Preferences</translation>
+      <translation>اولویت‌ها</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="732"/>
       <source>Save Project As...</source>
-      <translation type="unfinished">Save Project As...</translation>
+      <translation>ذخیره پروژه به نام...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="740"/>
@@ -5544,54 +5544,54 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="745"/>
       <source>Import PDB</source>
-      <translation type="unfinished">Import PDB</translation>
+      <translation>وارد کردن PDB</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="750"/>
       <source>Analyze Program</source>
-      <translation type="unfinished">Analyze Program</translation>
+      <translation>تجزیه و تحلیل برنامه</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="755"/>
       <source>Export as code</source>
-      <translation type="unfinished">Export as code</translation>
+      <translation>صادر کردن بعنوان کد</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="760"/>
       <location filename="../core/MainWindow.cpp" line="1803"/>
       <source>Apply Signature From File</source>
-      <translation type="unfinished">Apply Signature From File</translation>
+      <translation>اجرای فایل فرم امضا</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="765"/>
       <location filename="../core/MainWindow.cpp" line="1824"/>
       <source>Create New Signature File</source>
-      <translation type="unfinished">Create New Signature File</translation>
+      <translation>ایجاد فایل امضای جدید</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="770"/>
       <source>Add Hexdump</source>
-      <translation type="unfinished">Add Hexdump</translation>
+      <translation>اضافه کردن Hexdump</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="775"/>
       <source>Add Decompiler</source>
-      <translation type="unfinished">Add Decompiler</translation>
+      <translation>اضافه کردن دیکامپایلر</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="780"/>
       <source>Add Disassembly</source>
-      <translation type="unfinished">Add Disassembly</translation>
+      <translation>اضافه کردن دیس‌اسمبلی</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="785"/>
       <source>Add Graph</source>
-      <translation type="unfinished">Add Graph</translation>
+      <translation>اضافه کردن نمودار</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="796"/>
       <source>Grouped dock dragging</source>
-      <translation type="unfinished">Grouped dock dragging</translation>
+      <translation>کشیدن اسکله گروهی</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="801"/>
@@ -5626,77 +5626,77 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="834"/>
       <source>Commit changes</source>
-      <translation type="unfinished">Commit changes</translation>
+      <translation>اعمال تغییرات</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="842"/>
       <source>Write mode</source>
-      <translation type="unfinished">Write mode</translation>
+      <translation>حالت نوشتن</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="845"/>
       <source>Open the file in write mode. Every change to the file will change the original file on disk.</source>
-      <translation type="unfinished">Open the file in write mode. Every change to the file will change the original file on disk.</translation>
+      <translation>فایل را در حالت نوشتن باز کنید. هر تغییری در فایل باعث تغییر فایل اصلی روی دیسک می شود.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="853"/>
       <source>Cache mode</source>
-      <translation type="unfinished">Cache mode</translation>
+      <translation>حالت Cache</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="856"/>
       <source>Enable cache mode. Changes to the file would not be applied to disk unless you specifically commit them. This is a safer option.</source>
-      <translation type="unfinished">Enable cache mode. Changes to the file would not be applied to disk unless you specifically commit them. This is a safer option.</translation>
+      <translation>حالت کش را فعال کنید. تغییرات در فایل روی دیسک اعمال نمی شود مگر اینکه به طور خاص آنها را انجام دهید. این گزینه مطمئن تری است.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="867"/>
       <source>Read-Only mode</source>
-      <translation type="unfinished">Read-Only mode</translation>
+      <translation>حالت فقط-نوشتن</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="877"/>
       <source>Manage layouts</source>
-      <translation type="unfinished">Manage layouts</translation>
+      <translation>مدیریت چیدمان</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="256"/>
       <source>No plugins are installed. Check the plugins section on Cutter documentation to learn more.</source>
-      <translation type="unfinished">No plugins are installed. Check the plugins section on Cutter documentation to learn more.</translation>
+      <translation>هیچ پلاگینی نصب نشده است. برای کسب اطلاعات بیشتر، بخش پلاگین ها را در اسناد Cutter بررسی کنید.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="261"/>
       <source>The installed plugins didn&apos;t add entries to this menu.</source>
-      <translation type="unfinished">The installed plugins didn&apos;t add entries to this menu.</translation>
+      <translation>پلاگین های نصب شده &apos; ورودی ها را به این منو اضافه نکرده اند.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="275"/>
       <source>Analyze the program using Rizin&apos;s &quot;aaa&quot; command</source>
-      <translation type="unfinished">Analyze the program using Rizin&apos;s &quot;aaa&quot; command</translation>
+      <translation>برنامه را با استفاده از &apos;s &quot;aaa&quot; دستور Rizin آنالیز کنید</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="542"/>
       <source>Script loading</source>
-      <translation type="unfinished">Script loading</translation>
+      <translation>بارگذاری اسکریپت</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="543"/>
       <source>Do you want to load the &apos;%1&apos; script?</source>
-      <translation type="unfinished">Do you want to load the &apos;%1&apos; script?</translation>
+      <translation>آیا می خواهید &apos;%1&apos; اسکریپت بارگذاری شود؟</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="561"/>
       <source>Cannot open file!</source>
-      <translation type="unfinished">Cannot open file!</translation>
+      <translation>نمی‌توان فایل را باز کرد!</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="562"/>
       <source>Could not open the file! Make sure the file exists and that you have the correct permissions.</source>
-      <translation type="unfinished">Could not open the file! Make sure the file exists and that you have the correct permissions.</translation>
+      <translation>فایل باز نشد! مطمئن شوید که فایل موجود است و مجوزهای صحیح را دارید.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="625"/>
       <source>Failed to open project: %1</source>
-      <translation type="unfinished">Failed to open project: %1</translation>
+      <translation>بازکردن فایل ناموفق بود: %1</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="630"/>
@@ -5706,7 +5706,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="752"/>
       <source>Failed to save project: %1</source>
-      <translation type="unfinished">Failed to save project: %1</translation>
+      <translation>ذخیره‌سازی فایل ناموفق بود: %1</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="780"/>
@@ -6163,58 +6163,58 @@ WARNING: In Write mode, any changes will be committed to the file on disk. For s
     <message>
       <location filename="../common/IOModesController.cpp" line="60"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>لغو</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="62"/>
       <source>Reopen in Write mode</source>
-      <translation type="unfinished">Reopen in Write mode</translation>
+      <translation>در حالت Write دوباره باز کنید</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="64"/>
       <source>Enable Cache mode</source>
-      <translation type="unfinished">Enable Cache mode</translation>
+      <translation>حالت Cache را فعال کنید</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="94"/>
       <source>Uncommitted changes</source>
-      <translation type="unfinished">Uncommitted changes</translation>
+      <translation>تغییرات تعهد نشده</translation>
     </message>
     <message>
       <source>Uncomitted changes</source>
-      <translation type="unfinished">Uncomitted changes</translation>
+      <translation>تغییرات تعهد نشده</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="95"/>
       <source>It seems that you have changes or patches that are not committed to the file.
 Do you want to commit them now?</source>
-      <translation type="unfinished">It seems that you have changes or patches that are not committed to the file.
-Do you want to commit them now?</translation>
+      <translation>به نظر می رسد که شما تغییرات یا وصله هایی دارید که به فایل متعهد نیستند.
+آیا اکنون می خواهید آنها را متعهد کنید؟</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="98"/>
       <source>Version mismatch!</source>
-      <translation type="unfinished">Version mismatch!</translation>
+      <translation>عدم تطابق نسخه ها!</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="99"/>
       <source>The version used to compile Cutter (%1) does not match the binary version of rizin (%2). This could result in unexpected behaviour. Are you sure you want to continue?</source>
-      <translation type="unfinished">The version used to compile Cutter (%1) does not match the binary version of rizin (%2). This could result in unexpected behaviour. Are you sure you want to continue?</translation>
+      <translation>نسخه مورد استفاده برای کامپایل Cutter (%1) با نسخه باینری rizin (%2) مطابقت ندارد. این می تواند منجر به رفتار غیرمنتظره شود. آیا مطمئن هستید که میخواهید ادامه دهید؟</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="388"/>
       <source>A Qt and C++ GUI for rizin reverse engineering framework</source>
-      <translation type="unfinished">A Qt and C++ GUI for rizin reverse engineering framework</translation>
+      <translation>رابط کاربری گرافیکی Qt و C++ برای چارچوب مهندسی معکوس rizin</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="391"/>
       <source>Filename to open.</source>
-      <translation type="unfinished">Filename to open.</translation>
+      <translation>نام فایل برای باز کردن.</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="395"/>
       <source>Automatically open file and optionally start analysis. Needs filename to be specified. May be a value between 0 and 2: 0 = no analysis, 1 = aaa, 2 = aaaa (experimental)</source>
-      <translation type="unfinished">Automatically open file and optionally start analysis. Needs filename to be specified. May be a value between 0 and 2: 0 = no analysis, 1 = aaa, 2 = aaaa (experimental)</translation>
+      <translation>باز کردن خودکار فایل و شروع تجزیه و تحلیل به صورت اختیاری. باید نام فایل مشخص شود. ممکن است مقداری بین 0 و 2 باشد: 0 = بدون تجزیه و تحلیل، 1 = aaaa = 2 ،aaa (تجربی)</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="398"/>
@@ -6224,17 +6224,17 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="401"/>
       <source>Sets a specific architecture name</source>
-      <translation type="unfinished">Sets a specific architecture name</translation>
+      <translation>یک نام معماری خاص را تنظیم می کند</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="402"/>
       <source>arch</source>
-      <translation type="unfinished">arch</translation>
+      <translation>معماری</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="405"/>
       <source>Sets a specific architecture bits</source>
-      <translation type="unfinished">Sets a specific architecture bits</translation>
+      <translation>یک بیت خاص را تنظیم می کند</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="406"/>
@@ -6244,7 +6244,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="409"/>
       <source>Sets a specific CPU</source>
-      <translation type="unfinished">Sets a specific CPU</translation>
+      <translation>یک CPU خاص را تنظیم می کند</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="410"/>
