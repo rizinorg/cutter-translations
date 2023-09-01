@@ -5370,12 +5370,12 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="523"/>
       <source>Show/Hide bytes</source>
-      <translation type="unfinished">Show/Hide bytes</translation>
+      <translation>نمایش/مخفی کردن بایتها</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="528"/>
       <source>Switch case</source>
-      <translation type="unfinished">Switch case</translation>
+      <translation>سوییچ کیس</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="533"/>
@@ -5387,7 +5387,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="541"/>
       <location filename="../core/MainWindow.ui" line="544"/>
       <source>Copy bytes</source>
-      <translation type="unfinished">Copy bytes</translation>
+      <translation>کپی بایتها</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="549"/>
@@ -5395,13 +5395,13 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="557"/>
       <location filename="../core/MainWindow.ui" line="560"/>
       <source>Copy disasm</source>
-      <translation type="unfinished">Copy disasm</translation>
+      <translation>کپی disasm</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="572"/>
       <location filename="../core/MainWindow.ui" line="575"/>
       <source>Start web server</source>
-      <translation type="unfinished">Start web server</translation>
+      <translation>راه اندازی سرور وب</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="580"/>
@@ -5441,7 +5441,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="615"/>
       <source>Syntax AT&amp;T/Intel</source>
-      <translation type="unfinished">Syntax AT&amp;T/Intel</translation>
+      <translation>روش AT&amp;T/Intel</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="620"/>
@@ -5453,12 +5453,12 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="625"/>
       <location filename="../core/MainWindow.ui" line="635"/>
       <source>Undefine</source>
-      <translation type="unfinished">Undefine</translation>
+      <translation>تعریف نشده</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="640"/>
       <source>Add comment</source>
-      <translation type="unfinished">Add comment</translation>
+      <translation>افزودن نظرات</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="652"/>
