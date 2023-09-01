@@ -2417,7 +2417,7 @@ Bitte überprüfen Sie die Konsole für weitere Details.</translation>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="268"/>
       <source>If you encounter any problems or have suggestions, please submit an issue to https://github.com/rizinorg/cutter/issues</source>
-      <translation>Falls Probleme auftreten oder Sie Vorschläge haben, öffnen Sie bitte ein Issue auf https://github.com/radareorg/cutter/issues</translation>
+      <translation>Falls Probleme auftreten oder Sie Vorschläge haben, öffnen Sie bitte ein Issue auf https://github.com/rizinorg/cutter/issues</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="289"/>
