@@ -6674,157 +6674,157 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="456"/>
       <source>Variable address</source>
-      <translation type="unfinished">Variable address</translation>
+      <translation>آدرس متغییر</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="468"/>
       <source>In graph view jump arrow true</source>
-      <translation type="unfinished">In graph view jump arrow true</translation>
+      <translation>در نمای نمودار فلش پرش true</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="468"/>
       <source>Arrow true</source>
-      <translation type="unfinished">Arrow true</translation>
+      <translation>پیکان true</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="470"/>
       <source>In graph view jump arrow false</source>
-      <translation type="unfinished">In graph view jump arrow false</translation>
+      <translation>در نمای نمودار فلش پرش false</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="470"/>
       <source>Arrow false</source>
-      <translation type="unfinished">Arrow false</translation>
+      <translation>فلش false</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="472"/>
       <source>In graph view jump arrow (no condition)</source>
-      <translation type="unfinished">In graph view jump arrow (no condition)</translation>
+      <translation>فلش پرش در نمای نمودار (بدون شرط)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="472"/>
       <source>Arrow</source>
-      <translation type="unfinished">Arrow</translation>
+      <translation>فلِش</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="476"/>
       <source>Background color of Graph Overview&apos;s node</source>
-      <translation type="unfinished">Background color of Graph Overview&apos;s node</translation>
+      <translation>رنگ پس زمینه گره نمای کلی&apos; نمودار</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="477"/>
       <source>Graph Overview node</source>
-      <translation type="unfinished">Graph Overview node</translation>
+      <translation>گره نمای کلی نمودار</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="479"/>
       <source>Fill color of Graph Overview&apos;s selection</source>
-      <translation type="unfinished">Fill color of Graph Overview&apos;s selection</translation>
+      <translation>رنگ انتخاب نمای کلی&apos; نمودار را پر کنید</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="480"/>
       <source>Graph Overview fill</source>
-      <translation type="unfinished">Graph Overview fill</translation>
+      <translation>پر کردن نمای کلی نمودار</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="482"/>
       <source>Border color of Graph Overview&apos;s selection</source>
-      <translation type="unfinished">Border color of Graph Overview&apos;s selection</translation>
+      <translation>رنگ حاشیه انتخابی نمای کلی&apos; نمودار</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="483"/>
       <source>Graph Overview border</source>
-      <translation type="unfinished">Graph Overview border</translation>
+      <translation>حاشیه نمای کلی نمودار</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="486"/>
       <source>General background color</source>
-      <translation type="unfinished">General background color</translation>
+      <translation>رنگ پس زمینه عمومی</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="486"/>
       <source>Background</source>
-      <translation type="unfinished">Background</translation>
+      <translation>پس‌زمینه</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="488"/>
       <source>Background color of non-focused graph node</source>
-      <translation type="unfinished">Background color of non-focused graph node</translation>
+      <translation>رنگ پس زمینه گره گراف غیر متمرکز</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="489"/>
       <source>Node background</source>
-      <translation type="unfinished">Node background</translation>
+      <translation>پس زمینه گره</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="491"/>
       <source>Background of current graph node</source>
-      <translation type="unfinished">Background of current graph node</translation>
+      <translation>پس زمینه گره نمودار فعلی</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="491"/>
       <source>Current graph node</source>
-      <translation type="unfinished">Current graph node</translation>
+      <translation>گره نمودار فعلی</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="493"/>
       <source>Color of node border in graph view</source>
-      <translation type="unfinished">Color of node border in graph view</translation>
+      <translation>رنگ حاشیه گره در نمای نمودار</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="493"/>
       <source>Node border</source>
-      <translation type="unfinished">Node border</translation>
+      <translation>مرز گره</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="495"/>
       <source>Selected line background color</source>
-      <translation type="unfinished">Selected line background color</translation>
+      <translation>رنگ پس زمینه خط انتخاب شده</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="495"/>
       <source>Line highlight</source>
-      <translation type="unfinished">Line highlight</translation>
+      <translation>برجسته کردن خط</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="497"/>
       <source>Background color of selected word</source>
-      <translation type="unfinished">Background color of selected word</translation>
+      <translation>رنگ پس زمینه کلمه انتخاب شده</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="497"/>
       <source>Word higlight</source>
-      <translation type="unfinished">Word higlight</translation>
+      <translation>برجسته کردن کلمه</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="498"/>
       <source>Main function color</source>
-      <translation type="unfinished">Main function color</translation>
+      <translation>رنگ تابع اصلی</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="498"/>
       <source>Main</source>
-      <translation type="unfinished">Main</translation>
+      <translation>اصلی</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="507"/>
       <source>Code section color in navigation bar</source>
-      <translation type="unfinished">Code section color in navigation bar</translation>
+      <translation>رنگ بخش کد در نوار پیمایش</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="507"/>
       <source>Navbar code</source>
-      <translation type="unfinished">Navbar code</translation>
+      <translation>کد پیمایش</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="509"/>
       <source>Empty section color in navigation bar</source>
-      <translation type="unfinished">Empty section color in navigation bar</translation>
+      <translation>رنگ بخش خالی در نوار پیمایش</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="509"/>
       <source>Navbar empty</source>
-      <translation type="unfinished">Navbar empty</translation>
+      <translation>خالی کردن پیمایش</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="510"/>
@@ -6839,7 +6839,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="512"/>
       <source>Breakpoint background</source>
-      <translation type="unfinished">Breakpoint background</translation>
+      <translation>پس زمینه نقطه شکست</translation>
     </message>
   </context>
   <context>
@@ -6865,7 +6865,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="500"/>
       <source>Raw</source>
-      <translation type="unfinished">Raw</translation>
+      <translation>خام</translation>
     </message>
   </context>
   <context>
@@ -6883,7 +6883,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="71"/>
       <source>Reference</source>
-      <translation type="unfinished">Reference</translation>
+      <translation>مرجع</translation>
     </message>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="73"/>
@@ -6896,12 +6896,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="137"/>
       <source>Copy register value</source>
-      <translation type="unfinished">Copy register value</translation>
+      <translation>کپی کردن مقدار ثبت</translation>
     </message>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="138"/>
       <source>Copy register reference</source>
-      <translation type="unfinished">Copy register reference</translation>
+      <translation>کپی مرجع ثبت</translation>
     </message>
   </context>
   <context>
@@ -7810,32 +7810,32 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="58"/>
       <source>Version control</source>
-      <translation type="unfinished">Version control</translation>
+      <translation>کنترل نسخه</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="59"/>
       <source>There is an update available for Cutter.&lt;br/&gt;</source>
-      <translation type="unfinished">There is an update available for Cutter.&lt;br/&gt;</translation>
+      <translation>یک به‌روزرسانی برای Cutter در دسترس است.&lt;br/&gt;</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="59"/>
       <source>Current version:</source>
-      <translation type="unfinished">Current version:</translation>
+      <translation>نسخه جاری:</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="60"/>
       <source>Latest version:</source>
-      <translation type="unfinished">Latest version:</translation>
+      <translation>آخرین نسخه:</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="62"/>
       <source>To update, please check the link:&lt;br/&gt;</source>
-      <translation type="unfinished">To update, please check the link:&lt;br/&gt;</translation>
+      <translation>لطفا برای به روز رسانی این لینک را بررسی کنید:&lt;br/&gt;</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="68"/>
       <source>Don&apos;t check for updates automatically</source>
-      <translation type="unfinished">Don&apos;t check for updates automatically</translation>
+      <translation>به‌روزرسانی‌ها را به‌طور خودکار بررسی &apos;نکنید</translation>
     </message>
   </context>
   <context>
@@ -7890,7 +7890,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/VisualNavbar.cpp" line="31"/>
       <source>Visual navigation bar</source>
-      <translation type="unfinished">Visual navigation bar</translation>
+      <translation>نوار پیمایش بصری</translation>
     </message>
   </context>
   <context>
@@ -7898,7 +7898,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="20"/>
       <source>Welcome to Cutter</source>
-      <translation type="unfinished">Welcome to Cutter</translation>
+      <translation>به Cutter خوش آمدید</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="83"/>
@@ -7919,7 +7919,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="203"/>
       <source>Native Theme</source>
-      <translation type="unfinished">Native Theme</translation>
+      <translation>تم بومی</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="208"/>
@@ -7929,7 +7929,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="213"/>
       <source>Midnight Theme</source>
-      <translation type="unfinished">Midnight Theme</translation>
+      <translation>تم نیمه شب</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="218"/>
