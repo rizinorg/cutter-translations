@@ -6254,7 +6254,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="413"/>
       <source>Sets a specific operating system</source>
-      <translation type="unfinished">Sets a specific operating system</translation>
+      <translation>یک سیستم عامل خاص را تنظیم می کند</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="414"/>
@@ -6264,7 +6264,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="418"/>
       <source>Sets the endianness (big or little)</source>
-      <translation type="unfinished">Sets the endianness (big or little)</translation>
+      <translation>Endianness را تنظیم می کند (بزرگ یا کم)</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="419"/>
