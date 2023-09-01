@@ -6284,7 +6284,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="428"/>
       <source>Load binary at a specific base address</source>
-      <translation type="unfinished">Load binary at a specific base address</translation>
+      <translation>باینری را در یک آدرس پایه خاص بارگیری نمایید</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="429"/>
@@ -6294,7 +6294,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="433"/>
       <source>Map the binary at a specific address</source>
-      <translation type="unfinished">Map the binary at a specific address</translation>
+      <translation>باینری را در یک آدرس خاص ترسیم کنید</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="434"/>
@@ -6304,7 +6304,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="437"/>
       <source>Run script file</source>
-      <translation type="unfinished">Run script file</translation>
+      <translation>راه اندازی فایل اسکریپت</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="437"/>
