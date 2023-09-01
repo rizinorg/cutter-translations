@@ -6274,7 +6274,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="423"/>
       <source>Force using a specific file format (bin plugin)</source>
-      <translation type="unfinished">Force using a specific file format (bin plugin)</translation>
+      <translation>استفاده اجباری از یک فرمت فایل خاص (پلاگین bin)</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="424"/>
