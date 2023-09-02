@@ -142,7 +142,7 @@
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="18"/>
       <source>Show X-Refs</source>
-      <translation>نمایش ارجاعات (X-Refs)</translation>
+      <translation>نمایش X-Refs</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="19"/>
@@ -246,7 +246,7 @@
     <message>
       <location filename="../common/AnalysisTask.cpp" line="27"/>
       <source>Analyzing Program</source>
-      <translation>تجزیه و تحلیل برنامه</translation>
+      <translation>در حال تجزیه و تحلیل برنامه</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="45"/>
@@ -261,7 +261,7 @@
     <message>
       <location filename="../common/AnalysisTask.cpp" line="81"/>
       <source>Loading shellcode...</source>
-      <translation>در حال بارگذاری شِل کد...</translation>
+      <translation>در حال بارگذاری shellcode...</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="92"/>
@@ -617,7 +617,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="168"/>
       <source>Indent disassembly based on reflines depth (asm.indent)</source>
-      <translation>تنظیم تورفتگی اسمبلی بر اساس عمق خطوط ارجاع (asm.indent)</translation>
+      <translation>جداسازی تورفتگی بر اساس عمق خطوط ارجاع (asm.indent)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="133"/>
@@ -632,12 +632,12 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="208"/>
       <source>Show preview when hovering</source>
-      <translation>نمایش پیش‌نمایش هنگام شناوربودن</translation>
+      <translation>نمایش پیش‌نمایش هنگام نگه داشتن ماوس</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="289"/>
       <source>Show known variable values when hovering</source>
-      <translation>نمایش مقادیر متغیر شناخته شده هنگام شناوربودن</translation>
+      <translation>نمایش مقادیر متغیر شناخته شده هنگام نگه داشتن ماوس</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="305"/>
@@ -647,7 +647,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="313"/>
       <source>Show opcode description (asm.describe)</source>
-      <translation>نمایش شرح آپ‌کد (asm.describe)</translation>
+      <translation>نمایش شرح opcode آپ‌کد (asm.describe)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="326"/>
@@ -702,7 +702,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="454"/>
       <source>Show offset before flags (asm.flags.off)</source>
-      <translation>آف‌ست را قبل از فلگ ها نشان بده (asm.flags.off)</translation>
+      <translation>آف‌ست را قبل از پرجم ها نشان بده (asm.flags.off)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="461"/>
@@ -794,7 +794,7 @@
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="14"/>
       <source>Select process to attach...</source>
-      <translation>پردازش را برای اتصال انتخاب کنید...</translation>
+      <translation>انتخاب پردازش برای پیوست...</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="46"/>
