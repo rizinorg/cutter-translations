@@ -7703,7 +7703,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="74"/>
       <source>Type / Name</source>
-      <translation type="unfinished">Type / Name</translation>
+      <translation>نام/ نوع</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="76"/>
@@ -7734,13 +7734,13 @@ Do you want to commit them now?</source>
       <location filename="../widgets/TypesWidget.ui" line="87"/>
       <location filename="../widgets/TypesWidget.cpp" line="308"/>
       <source>Load New Types</source>
-      <translation type="unfinished">Load New Types</translation>
+      <translation>بارگیری انواع جدید</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.ui" line="92"/>
       <location filename="../widgets/TypesWidget.ui" line="95"/>
       <source>Delete Type</source>
-      <translation type="unfinished">Delete Type</translation>
+      <translation>حذف نوع</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="153"/>
@@ -7787,7 +7787,7 @@ Do you want to commit them now?</source>
       <location filename="../widgets/TypesWidget.cpp" line="327"/>
       <location filename="../widgets/TypesWidget.cpp" line="365"/>
       <source> (Read Only)</source>
-      <translation type="unfinished"> (Read Only)</translation>
+      <translation> (فقط خواندنی)</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="347"/>
@@ -7797,7 +7797,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="347"/>
       <source>Are you sure you want to delete &quot;%1&quot;?</source>
-      <translation type="unfinished">Are you sure you want to delete &quot;%1&quot;?</translation>
+      <translation>آیا از حذف &quot;%1&quot; اطمینان دارید؟</translation>
     </message>
   </context>
   <context>
@@ -7805,7 +7805,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="34"/>
       <source>Time limit exceeded during version check. Please check your internet connection and try again.</source>
-      <translation type="unfinished">Time limit exceeded during version check. Please check your internet connection and try again.</translation>
+      <translation>در طول بررسی نسخه از محدودیت زمانی فراتر رفت. لطفاً اتصال اینترنت خود را بررسی کنید و دوباره امتحان کنید.</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="58"/>
