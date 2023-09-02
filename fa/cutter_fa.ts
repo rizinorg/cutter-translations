@@ -6,7 +6,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="14"/>
       <source>About Cutter</source>
-      <translation>درباره ی کاتر</translation>
+      <translation>درباره ی کاتر Cutter</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="54"/>
@@ -21,17 +21,17 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="80"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter is a free and open-source reverse engineering platform powered by Rizin&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter کاتر یک پلت فرم مهندسی معکوس منبع باز و رایگان است که طراحی شده است توسط Rizin&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;اطلاعات بیشتر در &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;کاتر Cutter یک پلت فرم مهندسی معکوس منبع باز و رایگان است که توسط Rizin طراحی شده است &lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;اطلاعات بیشتر در &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="87"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;Cutter&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;کاتر&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;Cutter&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="100"/>
       <source>Report an issue</source>
-      <translation>یک مشکل را گزارش کنید</translation>
+      <translation>گزارش یک مشکل</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="113"/>
