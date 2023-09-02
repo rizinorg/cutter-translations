@@ -2350,7 +2350,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="46"/>
       <source>Continue backwards</source>
-      <translation>به عقب ادامه دهید</translation>
+      <translation>ادامه تا backwards</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="47"/>
@@ -2395,7 +2395,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="55"/>
       <source>Restart program</source>
-      <translation>بازنشانی برنامه</translation>
+      <translation>اجرای مجدد برنامه</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="56"/>
@@ -2751,7 +2751,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="32"/>
       <source>Choose an offset and refresh to get decompiled code</source>
-      <translation>برای دریافت کد دیکامپایل شده، یک آفست را انتخاب کنید و آن را به روز کنید</translation>
+      <translation>برای دریافت کد دیکامپایل شده، یک آفست را انتخاب کنید و آن را ریفرش کنید</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="68"/>
