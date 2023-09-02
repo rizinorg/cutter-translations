@@ -1168,7 +1168,7 @@
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="91"/>
       <source>?v $.rax-0x6  # break when rax is 6</source>
-      <translation>?v $.rax-0x6  # زمانی که rax برابر ۶ است بریک کن</translation>
+      <translation>?v $.rax-0x6 # وقتی rax راکس 6 است شکسته می شود</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="99"/>
@@ -1659,7 +1659,7 @@
       <location filename="../widgets/CommentsWidget.cpp" line="159"/>
       <location filename="../widgets/CommentsWidget.cpp" line="170"/>
       <source>Comment</source>
-      <translation>توضیح</translation>
+      <translation>نظر</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="166"/>
@@ -1687,7 +1687,7 @@
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="238"/>
       <source>Comments</source>
-      <translation>توضیحات</translation>
+      <translation>نظرات</translation>
     </message>
   </context>
   <context>
@@ -1821,12 +1821,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../core/Cutter.cpp" line="2607"/>
       <source>Creating debug tracepoint...</source>
-      <translation>ایجاد نقطه ردیابی اشکال زدایی...</translation>
+      <translation>در حال ایجاد نقطه ردیابی اشکال زدایی...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2652"/>
       <source>Stopping debug session...</source>
-      <translation>توقف جلسه اشکال زدایی...</translation>
+      <translation>در حال توقف جلسه اشکال زدایی...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2687"/>
@@ -1841,7 +1841,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../core/Cutter.cpp" line="3627"/>
       <source>Unknown (%1)</source>
-      <translation>نا مشخص (%1)</translation>
+      <translation>ناشناخته (%1)</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4059"/>
@@ -1852,13 +1852,13 @@ Please check the console for more details.</source>
     <message>
       <location filename="../core/Cutter.cpp" line="4065"/>
       <source>Error creating global variable: &quot;%1&quot;</source>
-      <translation>خطا در ایجاد متغیر سراسری: &quot;%1&quot;</translation>
+      <translation>خطا در ایجاد متغیر جهانی: &quot;%1&quot;</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4658"/>
       <location filename="../core/Cutter.cpp" line="4709"/>
       <source>Cannot get global graph</source>
-      <translation>نمی توان نمودار سراسری را دریافت کرد</translation>
+      <translation>نمی توان نمودار جهانی را دریافت کرد</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4660"/>
@@ -2222,7 +2222,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1034"/>
       <source>Hashes</source>
-      <translation>هش ها</translation>
+      <translation>Hashes</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1051"/>
@@ -2247,7 +2247,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1159"/>
       <source>Calls:</source>
-      <translation>صدا زدن ها:</translation>
+      <translation>تماس‌ها:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1185"/>
@@ -2297,7 +2297,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="204"/>
       <source>N/A</source>
-      <translation>ناموجود</translation>
+      <translation>N/A</translation>
     </message>
   </context>
   <context>
@@ -2310,7 +2310,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="38"/>
       <source>Attach to process</source>
-      <translation>چسبیدن به فرایند</translation>
+      <translation>اتصال به پردازش</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="39"/>
