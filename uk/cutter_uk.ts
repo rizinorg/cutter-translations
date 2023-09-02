@@ -632,7 +632,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="208"/>
       <source>Show preview when hovering</source>
-      <translation type="unfinished">Show preview when hovering</translation>
+      <translation>Показувати попередній перегляд при наведенні</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="289"/>
@@ -1130,7 +1130,7 @@
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="58"/>
       <source>Add new breakpoint</source>
-      <translation type="unfinished">Add new breakpoint</translation>
+      <translation>Додати нову точку зупину</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="65"/>
@@ -1159,7 +1159,7 @@
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="14"/>
       <source>Add/Edit breakpoint</source>
-      <translation type="unfinished">Add/Edit breakpoint</translation>
+      <translation>Додати/Редагувати точку зупину</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="22"/>
@@ -2122,7 +2122,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/Dashboard.ui" line="368"/>
       <source>Bits:</source>
-      <translation>Біти:</translation>
+      <translation>Розрядність:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="426"/>
@@ -2311,7 +2311,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="37"/>
       <source>Start emulation</source>
-      <translation>Почати емуляцію</translation>
+      <translation>Розпочати емуляцію</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="38"/>
@@ -2870,7 +2870,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="107"/>
       <source>Define function here</source>
-      <translation>Визначте функцію тут</translation>
+      <translation>Визначити тут функцію</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="119"/>
@@ -2904,7 +2904,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="184"/>
       <source>Set base of immediate value to..</source>
-      <translation type="unfinished">Set base of immediate value to..</translation>
+      <translation>Встановити базу для значення операнда..</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="186"/>
@@ -2989,12 +2989,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="264"/>
       <source>Byte</source>
-      <translation>Байт</translation>
+      <translation>Byte</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="268"/>
       <source>Word</source>
-      <translation>Слово</translation>
+      <translation>Word</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="272"/>
@@ -3080,7 +3080,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="497"/>
       <source>Add or change global variable at %1 (used here)</source>
-      <translation type="unfinished">Add or change global variable at %1 (used here)</translation>
+      <translation>Додати або змінити глобальну змінну за адресою %1 (використовується тут)</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="573"/>
@@ -3100,12 +3100,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="606"/>
       <source>Add breakpoint</source>
-      <translation type="unfinished">Add breakpoint</translation>
+      <translation>Додати точку зупину</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="607"/>
       <source>Edit breakpoint</source>
-      <translation type="unfinished">Edit breakpoint</translation>
+      <translation>Редагувати точку зупину</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="622"/>
@@ -3115,12 +3115,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="722"/>
       <source>Edit Instruction at %1</source>
-      <translation type="unfinished">Edit Instruction at %1</translation>
+      <translation>Редагувати інструкцію за адресою %1</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="772"/>
       <source>Edit Bytes at %1</source>
-      <translation type="unfinished">Edit Bytes at %1</translation>
+      <translation>Редагувати байти за адресою: %1</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="843"/>
@@ -3151,7 +3151,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="975"/>
       <source>Can&apos;t edit string at this address</source>
-      <translation type="unfinished">Can&apos;t edit string at this address</translation>
+      <translation>Неможливо відредагувати рядок за цією адресою</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="1047"/>
@@ -3210,7 +3210,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="73"/>
       <source>Calling convention</source>
-      <translation type="unfinished">Calling convention</translation>
+      <translation>Погодження викликів</translation>
     </message>
   </context>
   <context>
@@ -3266,7 +3266,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="90"/>
       <source>Offset in VTable:</source>
-      <translation type="unfinished">Offset in VTable:</translation>
+      <translation>Зсув у таблиці віртуальних методів:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.cpp" line="191"/>
@@ -3304,7 +3304,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="99"/>
       <source>Auto</source>
-      <translation>Авто</translation>
+      <translation>Автоматично</translation>
     </message>
   </context>
   <context>
@@ -3368,7 +3368,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="138"/>
       <source>Exports</source>
-      <translation type="unfinished">Exports</translation>
+      <translation>Експорт</translation>
     </message>
   </context>
   <context>
@@ -3376,12 +3376,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="14"/>
       <source>Add Flag</source>
-      <translation type="unfinished">Add Flag</translation>
+      <translation>Додати прапорець</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="20"/>
       <source>Add flag at</source>
-      <translation type="unfinished">Add flag at</translation>
+      <translation>Додати прапорець за адресою</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="38"/>
@@ -3401,12 +3401,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/FlagDialog.cpp" line="24"/>
       <source>Edit flag at %1</source>
-      <translation type="unfinished">Edit flag at %1</translation>
+      <translation>Редагувати прапорець за адресою %1</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.cpp" line="26"/>
       <source>Add flag at %1</source>
-      <translation type="unfinished">Add flag at %1</translation>
+      <translation>Додати прапорець за адресою %1</translation>
     </message>
   </context>
   <context>
@@ -3447,7 +3447,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="86"/>
       <source>Flagspace:</source>
-      <translation type="unfinished">Flagspace:</translation>
+      <translation>Flagspace:</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="99"/>
@@ -3467,7 +3467,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="113"/>
       <source>Del</source>
-      <translation type="unfinished">Del</translation>
+      <translation>Del</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="214"/>
@@ -3583,7 +3583,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="149"/>
       <source>Edges: %1</source>
-      <translation type="unfinished">Edges: %1</translation>
+      <translation>Краї: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="151"/>
@@ -3619,7 +3619,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="313"/>
       <source>Imp.</source>
-      <translation type="unfinished">Imp.</translation>
+      <translation>Imp.</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="315"/>
@@ -4043,7 +4043,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="48"/>
       <source>Show preview when hovering (graph.preview)</source>
-      <translation type="unfinished">Show preview when hovering (graph.preview)</translation>
+      <translation>Показувати попередній перегляд при наведенні (graph.preview)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="57"/>
@@ -4099,7 +4099,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="218"/>
       <source>Graph Bitmap Export Scale: </source>
-      <translation type="unfinished">Graph Bitmap Export Scale: </translation>
+      <translation>Масштаб експорту растрового графічного зображення: </translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="225"/>
@@ -4609,7 +4609,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="172"/>
       <source>Imports</source>
-      <translation>Імпорти</translation>
+      <translation>Імпорт</translation>
     </message>
   </context>
   <context>
@@ -4665,7 +4665,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="26"/>
       <source>Load Options</source>
-      <translation type="unfinished">Load Options</translation>
+      <translation>Параметри завантаження</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="84"/>
@@ -4686,7 +4686,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="224"/>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>Відсутній</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="259"/>
@@ -4697,7 +4697,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="833"/>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="38"/>
       <source>Auto</source>
-      <translation>Авто</translation>
+      <translation>Автоматичний</translation>
     </message>
     <message>
       <source>Auto Exp</source>
@@ -5500,7 +5500,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="684"/>
       <source>Exports</source>
-      <translation type="unfinished">Exports</translation>
+      <translation>Експорт</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="687"/>
@@ -5744,7 +5744,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="1240"/>
       <source>Save layout error</source>
-      <translation type="unfinished">Save layout error</translation>
+      <translation>Помилка збереження розташування</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1241"/>
@@ -5764,7 +5764,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="1597"/>
       <source>Do you really want to clear all settings?</source>
-      <translation type="unfinished">Do you really want to clear all settings?</translation>
+      <translation>Ви дійсно хочете скинути всі налаштування?</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1697"/>
@@ -6048,7 +6048,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="48"/>
       <source>Show Rizin plugin information</source>
-      <translation type="unfinished">Show Rizin plugin information</translation>
+      <translation>Показати інформацію про плагіни Rizin</translation>
     </message>
   </context>
   <context>
@@ -6304,7 +6304,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="434"/>
       <source>map address</source>
-      <translation type="unfinished">map address</translation>
+      <translation>адреса відображення</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="437"/>
@@ -6334,7 +6334,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="449"/>
       <source>Disables virtual addressing</source>
-      <translation type="unfinished">Disables virtual addressing</translation>
+      <translation>Вимикає віртуальну адресацію</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="453"/>
@@ -6489,7 +6489,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="413"/>
       <source>input</source>
-      <translation type="unfinished">input</translation>
+      <translation>введення</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="414"/>
@@ -6504,7 +6504,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="415"/>
       <source>other</source>
-      <translation type="unfinished">other</translation>
+      <translation>інше</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="416"/>
@@ -7210,7 +7210,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/RizinTaskDialog.cpp" line="32"/>
       <source>Running for</source>
-      <translation type="unfinished">Running for</translation>
+      <translation>Виконується</translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/RizinTaskDialog.cpp" line="34"/>
@@ -7808,7 +7808,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="347"/>
       <source>Are you sure you want to delete &quot;%1&quot;?</source>
-      <translation type="unfinished">Are you sure you want to delete &quot;%1&quot;?</translation>
+      <translation>Ви впевнені, що хочете видалити &quot;%1&quot;?</translation>
     </message>
   </context>
   <context>
