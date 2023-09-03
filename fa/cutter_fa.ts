@@ -6,7 +6,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="14"/>
       <source>About Cutter</source>
-      <translation>درباره ی کاتر</translation>
+      <translation>درباره ی کاتر Cutter</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="54"/>
@@ -21,17 +21,17 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="80"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter is a free and open-source reverse engineering platform powered by Rizin&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter کاتر یک پلت فرم مهندسی معکوس منبع باز و رایگان است که طراحی شده است توسط Rizin&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;اطلاعات بیشتر در &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;کاتر Cutter یک پلت فرم مهندسی معکوس منبع باز و رایگان است که توسط Rizin طراحی شده است &lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;اطلاعات بیشتر در &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="87"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;Cutter&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;کاتر&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;Cutter&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="100"/>
       <source>Report an issue</source>
-      <translation>یک مشکل را گزارش کنید</translation>
+      <translation>گزارش یک مشکل</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="113"/>
@@ -142,7 +142,7 @@
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="18"/>
       <source>Show X-Refs</source>
-      <translation>نمایش ارجاعات (X-Refs)</translation>
+      <translation>نمایش X-Refs</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="19"/>
@@ -246,7 +246,7 @@
     <message>
       <location filename="../common/AnalysisTask.cpp" line="27"/>
       <source>Analyzing Program</source>
-      <translation>تجزیه و تحلیل برنامه</translation>
+      <translation>در حال تجزیه و تحلیل برنامه</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="45"/>
@@ -261,7 +261,7 @@
     <message>
       <location filename="../common/AnalysisTask.cpp" line="81"/>
       <source>Loading shellcode...</source>
-      <translation>در حال بارگذاری شِل کد...</translation>
+      <translation>در حال بارگذاری shellcode...</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="92"/>
@@ -456,7 +456,7 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="241"/>
       <source>Language will be changed after next application start.</source>
-      <translation>زبان پس از شروع مجدد برنامه تغییر خواهد کرد.</translation>
+      <translation>زبان پس از شروع بعدی برنامه تغییر خواهد کرد.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="245"/>
@@ -522,7 +522,7 @@
     </message>
     <message>
       <source>Show preview when hovering:</source>
-      <translation>نمایش پیش‌نمایش هنگام شناوربودن:</translation>
+      <translation>نمایش پیش‌نمایش هنگام نگه‌داشتن ماوس:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="215"/>
@@ -617,7 +617,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="168"/>
       <source>Indent disassembly based on reflines depth (asm.indent)</source>
-      <translation>تنظیم تورفتگی اسمبلی بر اساس عمق خطوط ارجاع (asm.indent)</translation>
+      <translation>جداسازی تورفتگی بر اساس عمق خطوط ارجاع (asm.indent)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="133"/>
@@ -632,12 +632,12 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="208"/>
       <source>Show preview when hovering</source>
-      <translation>نمایش پیش‌نمایش هنگام شناوربودن</translation>
+      <translation>نمایش پیش‌نمایش هنگام نگه داشتن ماوس</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="289"/>
       <source>Show known variable values when hovering</source>
-      <translation>نمایش مقادیر متغیر شناخته شده هنگام شناوربودن</translation>
+      <translation>نمایش مقادیر متغیر شناخته شده هنگام نگه داشتن ماوس</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="305"/>
@@ -647,7 +647,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="313"/>
       <source>Show opcode description (asm.describe)</source>
-      <translation>نمایش شرح آپ‌کد (asm.describe)</translation>
+      <translation>نمایش شرح opcode آپ‌کد (asm.describe)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="326"/>
@@ -702,7 +702,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="454"/>
       <source>Show offset before flags (asm.flags.off)</source>
-      <translation>آف‌ست را قبل از فلگ ها نشان بده (asm.flags.off)</translation>
+      <translation>آف‌ست را قبل از پرجم ها نشان بده (asm.flags.off)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="461"/>
@@ -794,7 +794,7 @@
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="14"/>
       <source>Select process to attach...</source>
-      <translation>پردازش را برای اتصال انتخاب کنید...</translation>
+      <translation>انتخاب پردازش برای پیوست...</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="46"/>
@@ -909,7 +909,7 @@
       <location filename="../tools/basefind/BaseFindDialog.ui" line="204"/>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="207"/>
       <source>Remove all</source>
-      <translation>حذف همه</translation>
+      <translation>برداشتن همه</translation>
     </message>
   </context>
   <context>
@@ -951,13 +951,13 @@
     <message>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="81"/>
       <source>Remove item</source>
-      <translation>حذف آیتم</translation>
+      <translation>برداشتن آیتم</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="86"/>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="89"/>
       <source>Remove all</source>
-      <translation>حذف همه</translation>
+      <translation>برداشتن همه</translation>
     </message>
   </context>
   <context>
@@ -1048,7 +1048,7 @@
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="171"/>
       <source>Bin number in NBINS or fastbinsY array</source>
-      <translation>شماره bin در آچیدمان NBINS یا fastbinsY</translation>
+      <translation>شماره bin در آرایه NBINS یا fastbinsY</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="173"/>
@@ -1101,7 +1101,7 @@
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="105"/>
       <source>Type</source>
-      <translation>گونه</translation>
+      <translation>نوع</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="107"/>
@@ -1168,7 +1168,7 @@
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="91"/>
       <source>?v $.rax-0x6  # break when rax is 6</source>
-      <translation>?v $.rax-0x6  # زمانی که rax برابر ۶ است بریک کن</translation>
+      <translation>?v $.rax-0x6  # زمانی که rax برابر ۶ است بریک break کن</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="99"/>
@@ -1480,12 +1480,12 @@
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation>پنجره</translation>
+      <translation>دیالوگ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.ui" line="26"/>
       <source>Color Theme:</source>
-      <translation>رنگ زمینه:</translation>
+      <translation>رنگ تم:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.ui" line="55"/>
@@ -1546,7 +1546,7 @@
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="166"/>
       <source>You can not delete standard Rizin color themes.</source>
-      <translation>نمی‌توان تم های رنگی استاندارد Rizin را حذف کرد.</translation>
+      <translation>نمی‌توانید تم های رنگی استاندارد Rizin را حذف کنید.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="174"/>
@@ -1596,7 +1596,7 @@
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="224"/>
       <source>You can not rename standard Rizin themes.</source>
-      <translation>نمی‌توان نام تم های استاندارد Rizin را تغییر داد.</translation>
+      <translation>نمی‌توانید نام تم های استاندارد Rizin را تغییر دهید.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="230"/>
@@ -1635,7 +1635,7 @@
     <message>
       <location filename="../dialogs/CommentsDialog.ui" line="14"/>
       <source>Comment</source>
-      <translation>توضیح</translation>
+      <translation>نظر</translation>
     </message>
     <message>
       <location filename="../dialogs/CommentsDialog.cpp" line="43"/>
@@ -1659,7 +1659,7 @@
       <location filename="../widgets/CommentsWidget.cpp" line="159"/>
       <location filename="../widgets/CommentsWidget.cpp" line="170"/>
       <source>Comment</source>
-      <translation>توضیح</translation>
+      <translation>نظر</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="166"/>
@@ -1687,7 +1687,7 @@
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="238"/>
       <source>Comments</source>
-      <translation>توضیحات</translation>
+      <translation>نظرات</translation>
     </message>
   </context>
   <context>
@@ -1821,12 +1821,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../core/Cutter.cpp" line="2607"/>
       <source>Creating debug tracepoint...</source>
-      <translation>ایجاد نقطه ردیابی اشکال زدایی...</translation>
+      <translation>در حال ایجاد نقطه ردیابی اشکال زدایی...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2652"/>
       <source>Stopping debug session...</source>
-      <translation>توقف جلسه اشکال زدایی...</translation>
+      <translation>در حال توقف جلسه اشکال زدایی...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2687"/>
@@ -1841,7 +1841,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../core/Cutter.cpp" line="3627"/>
       <source>Unknown (%1)</source>
-      <translation>نا مشخص (%1)</translation>
+      <translation>ناشناخته (%1)</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4059"/>
@@ -1852,13 +1852,13 @@ Please check the console for more details.</source>
     <message>
       <location filename="../core/Cutter.cpp" line="4065"/>
       <source>Error creating global variable: &quot;%1&quot;</source>
-      <translation>خطا در ایجاد متغیر سراسری: &quot;%1&quot;</translation>
+      <translation>خطا در ایجاد متغیر جهانی: &quot;%1&quot;</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4658"/>
       <location filename="../core/Cutter.cpp" line="4709"/>
       <source>Cannot get global graph</source>
-      <translation>نمی توان نمودار سراسری را دریافت کرد</translation>
+      <translation>نمی توان نمودار جهانی را دریافت کرد</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4660"/>
@@ -2161,7 +2161,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/Dashboard.ui" line="645"/>
       <source>Relro:</source>
-      <translation>جابجایی فقط خواندنی (Relro):</translation>
+      <translation>Relro:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="700"/>
@@ -2222,7 +2222,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1034"/>
       <source>Hashes</source>
-      <translation>هش ها</translation>
+      <translation>Hashes</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1051"/>
@@ -2247,7 +2247,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1159"/>
       <source>Calls:</source>
-      <translation>صدا زدن ها:</translation>
+      <translation>تماس‌ها:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1185"/>
@@ -2297,7 +2297,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="204"/>
       <source>N/A</source>
-      <translation>ناموجود</translation>
+      <translation>N/A</translation>
     </message>
   </context>
   <context>
@@ -2310,7 +2310,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="38"/>
       <source>Attach to process</source>
-      <translation>چسبیدن به فرایند</translation>
+      <translation>اتصال به پردازش</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="39"/>
@@ -2350,7 +2350,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="46"/>
       <source>Continue backwards</source>
-      <translation>به عقب ادامه دهید</translation>
+      <translation>ادامه تا backwards</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="47"/>
@@ -2395,7 +2395,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="55"/>
       <source>Restart program</source>
-      <translation>بازنشانی برنامه</translation>
+      <translation>اجرای مجدد برنامه</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="56"/>
@@ -2486,7 +2486,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="109"/>
       <source>Trace each step during continue in a trace session (dbg.trace_continue)</source>
-      <translation>ردیابی هر مرحله در طول ادامه یک جلسه ردیابی (dbg.trace_continue)</translation>
+      <translation>ردیابی هر مرحله در طول ادامه جلسه ردیابی (dbg.trace_continue)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="112"/>
@@ -2520,12 +2520,12 @@ Please check the console for more details.</source>
       <location filename="../menus/DecompilerContextMenu.cpp" line="30"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="166"/>
       <source>Add Comment</source>
-      <translation>افزودن توضیح</translation>
+      <translation>افزودن نظر</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="31"/>
       <source>Delete comment</source>
-      <translation>حذف توضیحات</translation>
+      <translation>حذف نظر</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="32"/>
@@ -2545,18 +2545,18 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="35"/>
       <source>Show X-Refs</source>
-      <translation>نمایش ارجاعات (X-Refs)</translation>
+      <translation>نمایش X-Refs</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="36"/>
       <source>Add/remove breakpoint</source>
-      <translation>اضافه/حذف کردن نقطه شکست</translation>
+      <translation>اضافه/حذف کردن نقطه توقف</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="37"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="197"/>
       <source>Advanced breakpoint</source>
-      <translation>نقطه شکست پیشرفته</translation>
+      <translation>نقطه توقف پیشرفته</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="39"/>
@@ -2571,17 +2571,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="169"/>
       <source>Edit Comment</source>
-      <translation>ویرایش توضیح</translation>
+      <translation>ویرایش نظر</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="185"/>
       <source>Add breakpoint</source>
-      <translation>افزودن نقطه‌شکست</translation>
+      <translation>افزودن نقطه‌توقف</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="187"/>
       <source>Remove breakpoint</source>
-      <translation>حذف نقطه‌شکست</translation>
+      <translation>حذف نقطه‌توقف</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="189"/>
@@ -2591,7 +2591,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="196"/>
       <source>Edit breakpoint</source>
-      <translation>ویرایش نقطه ی توقف</translation>
+      <translation>ویرایش نقطه‌توقف</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="200"/>
@@ -2616,7 +2616,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="221"/>
       <source>Add name to %1</source>
-      <translation>نام به %1 اضافه کنید</translation>
+      <translation>نام را به %1 اضافه کنید</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="226"/>
@@ -2647,17 +2647,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="321"/>
       <source>Can&apos;t rename this variable.&lt;br&gt;Only local variables defined in disassembly can be renamed.</source>
-      <translation>نمی‌توان&apos; نام این متغیر را تغییر داد.&lt;br&gt;فقط متغیرهای محلی تعریف شده در جداسازی می‌توانند تغییر نام یابند.</translation>
+      <translation>نمی‌توان&apos; نام این متغیر را تغییر داد.&lt;br&gt;فقط متغیرهای محلی تعریف شده در دیس اسمبلی می‌توانند تغییر نام یابند.</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="340"/>
       <source>Can&apos;t edit this variable.&lt;br&gt;Only local variables defined in disassembly can be edited.</source>
-      <translation>نمی توان&apos; این متغیر را ویرایش کرد.&lt;br&gt;فقط متغیرهای محلی تعریف شده در جداسازی قابل ویرایش هستند.</translation>
+      <translation>نمی توان&apos; این متغیر را ویرایش کرد.&lt;br&gt;فقط متغیرهای محلی تعریف شده در دیس اسمبلی قابل ویرایش هستند.</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="413"/>
       <source>Define this function at %2</source>
-      <translation>این عملکرد را در %2 تعریف کنید</translation>
+      <translation>این تابع را در %2 تعریف کنید</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="414"/>
@@ -2696,7 +2696,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="450"/>
       <source>Can&apos;t rename this variable. Only local variables defined in disassembly can be renamed.</source>
-      <translation>نمی‌توان&apos; نام این متغیر را تغییر داد.فقط متغیرهای محلی تعریف شده در جداسازی می‌توانند تغییر نام یابند.</translation>
+      <translation>نمی‌توان&apos; نام این متغیر را تغییر داد.فقط متغیرهای محلی تعریف شده در دیس اسمبلی می‌توانند تغییر نام یابند.</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="475"/>
@@ -2706,7 +2706,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="476"/>
       <source>Can&apos;t edit this variable. Only local variables defined in disassembly can be edited.</source>
-      <translation>نمی توان&apos; این متغیر را ویرایش کرد.فقط متغیرهای محلی تعریف شده در جداسازی قابل ویرایش هستند.</translation>
+      <translation>نمی توان&apos; این متغیر را ویرایش کرد.فقط متغیرهای محلی تعریف شده در دیس اسمبلی قابل ویرایش هستند.</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="542"/>
@@ -2751,7 +2751,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="32"/>
       <source>Choose an offset and refresh to get decompiled code</source>
-      <translation>برای دریافت کد دیکامپایل شده، یک آفست را انتخاب کنید و آن را به روز کنید</translation>
+      <translation>برای دریافت کد دیکامپایل شده، یک آفست را انتخاب کنید و آن را ریفرش کنید</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="68"/>
@@ -3033,13 +3033,13 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="312"/>
       <source>Add/remove breakpoint</source>
-      <translation>اضافه/حذف کردن نقطه شکست</translation>
+      <translation>اضافه/حذف کردن نقطه توقف</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="315"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="608"/>
       <source>Advanced breakpoint</source>
-      <translation>نقطه شکست پیشرفته</translation>
+      <translation>نقطه توقف پیشرفته</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="322"/>
@@ -3054,7 +3054,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="424"/>
       <source>Add flag at %1 (used here)</source>
-      <translation>اضافه کردن پرچم در %1 (اینجا استفاده می شود)</translation>
+      <translation>اضافه کردن پرچم در %1 (اینجا استفاده شود)</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="429"/>
@@ -3074,12 +3074,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="497"/>
       <source>Add or change global variable at %1 (used here)</source>
-      <translation>افزودن یا تغییر متغیر سراسری در %1 (اینجا استفاده شود)</translation>
+      <translation>افزودن یا تغییر متغیر جهانی در %1 (اینجا استفاده شود)</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="573"/>
       <source>Edit Comment</source>
-      <translation>ویرایش توضیح</translation>
+      <translation>ویرایش نظر</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="589"/>
@@ -3089,17 +3089,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="606"/>
       <source>Remove breakpoint</source>
-      <translation>حذف نقطه‌شکست</translation>
+      <translation>حذف نقطه‌توقف</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="606"/>
       <source>Add breakpoint</source>
-      <translation>افزودن نقطه‌شکست</translation>
+      <translation>افزودن نقطه‌توقف</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="607"/>
       <source>Edit breakpoint</source>
-      <translation>ویرایش نقطه‌شکست</translation>
+      <translation>ویرایش نقطه‌توقف</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="622"/>
@@ -3135,7 +3135,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="912"/>
       <source>You must be in a function to define variable types.</source>
-      <translation>باید درون یک تابع باشید تا بتوانید نوع متغیر‌ها را تعریف کنید.</translation>
+      <translation>باید در یک تابع باشید تا بتوانید نوع متغیر‌ها را تعریف کنید.</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="974"/>
@@ -3204,7 +3204,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="73"/>
       <source>Calling convention</source>
-      <translation>قرارداد صدا زدن</translation>
+      <translation>قرارداد تماس گرفتن</translation>
     </message>
   </context>
   <context>
