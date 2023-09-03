@@ -2888,12 +2888,12 @@ Please check the console for more details.</source>
     </message>
     <message>
       <source>Set Immediate Base to...</source>
-      <translation>تنظیم مقدار پایه فوری روی...</translation>
+      <translation>تنظیم مقدار پایه فوری برای...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="177"/>
       <source>Modify or add global variable</source>
-      <translation>تغییر یا اضافه کردن متغیر سراسری</translation>
+      <translation>تغییر یا اضافه کردن متغیر جهانی</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="184"/>
@@ -2903,7 +2903,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="186"/>
       <source>Binary</source>
-      <translation>دودویی</translation>
+      <translation>باینری</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="190"/>
@@ -4137,7 +4137,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="120"/>
       <source>Headers</source>
-      <translation>عناوین</translation>
+      <translation>سربرگ</translation>
     </message>
   </context>
   <context>
@@ -4330,7 +4330,7 @@ Please check the console for more details.</source>
       <location filename="../widgets/HexWidget.cpp" line="1466"/>
       <location filename="../widgets/HexWidget.cpp" line="1484"/>
       <source>String:</source>
-      <translation>Chaîne de caractères :</translation>
+      <translation>رشته:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1318"/>
@@ -4423,12 +4423,12 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="131"/>
       <source>Little</source>
-      <translation>Little</translation>
+      <translation>کوچک</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="136"/>
       <source>Big</source>
-      <translation>Big</translation>
+      <translation>بزرگ</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="191"/>
@@ -4458,7 +4458,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="318"/>
       <source>SHA256:</source>
-      <translation>SHA1: {256:?}</translation>
+      <translation>SHA256:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="350"/>
