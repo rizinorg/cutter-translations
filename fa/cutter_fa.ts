@@ -5053,7 +5053,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="61"/>
       <source>Do you want to delete &apos;%1&apos;</source>
-      <translation>آیا می خواهید حذف کنید &apos;%1&apos;</translation>
+      <translation>آیا می خواهید &apos;%1&apos; را حذف کنید</translation>
     </message>
   </context>
   <context>
@@ -5061,7 +5061,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="33"/>
       <source>Add extra...</source>
-      <translation>اضافه کردن...</translation>
+      <translation>اضافه کردن بیشتر...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="61"/>
@@ -5087,7 +5087,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="113"/>
       <source>Layouts</source>
-      <translation>چیدمان</translation>
+      <translation>چیدمان ها</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="133"/>
