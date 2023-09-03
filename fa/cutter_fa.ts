@@ -522,7 +522,7 @@
     </message>
     <message>
       <source>Show preview when hovering:</source>
-      <translation>نمایش پیش‌نمایش هنگام شناوربودن:</translation>
+      <translation>نمایش پیش‌نمایش هنگام نگه‌داشتن ماوس:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="215"/>
@@ -1168,7 +1168,7 @@
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="91"/>
       <source>?v $.rax-0x6  # break when rax is 6</source>
-      <translation>?v $.rax-0x6 # وقتی rax راکس 6 است شکسته می شود</translation>
+      <translation>?v $.rax-0x6  # زمانی که rax برابر ۶ است بریک break کن</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="99"/>
@@ -1480,12 +1480,12 @@
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation>پنجره</translation>
+      <translation>دیالوگ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.ui" line="26"/>
       <source>Color Theme:</source>
-      <translation>رنگ زمینه:</translation>
+      <translation>رنگ تم:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.ui" line="55"/>
@@ -1546,7 +1546,7 @@
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="166"/>
       <source>You can not delete standard Rizin color themes.</source>
-      <translation>نمی‌توان تم های رنگی استاندارد Rizin را حذف کرد.</translation>
+      <translation>نمی‌توانید تم های رنگی استاندارد Rizin را حذف کنید.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="174"/>
@@ -1596,7 +1596,7 @@
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="224"/>
       <source>You can not rename standard Rizin themes.</source>
-      <translation>نمی‌توان نام تم های استاندارد Rizin را تغییر داد.</translation>
+      <translation>نمی‌توانید نام تم های استاندارد Rizin را تغییر دهید.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="230"/>
@@ -1635,7 +1635,7 @@
     <message>
       <location filename="../dialogs/CommentsDialog.ui" line="14"/>
       <source>Comment</source>
-      <translation>توضیح</translation>
+      <translation>نظر</translation>
     </message>
     <message>
       <location filename="../dialogs/CommentsDialog.cpp" line="43"/>
@@ -2486,7 +2486,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="109"/>
       <source>Trace each step during continue in a trace session (dbg.trace_continue)</source>
-      <translation>ردیابی هر مرحله در طول ادامه یک جلسه ردیابی (dbg.trace_continue)</translation>
+      <translation>ردیابی هر مرحله در طول ادامه جلسه ردیابی (dbg.trace_continue)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="112"/>
@@ -2520,12 +2520,12 @@ Please check the console for more details.</source>
       <location filename="../menus/DecompilerContextMenu.cpp" line="30"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="166"/>
       <source>Add Comment</source>
-      <translation>افزودن توضیح</translation>
+      <translation>افزودن نظر</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="31"/>
       <source>Delete comment</source>
-      <translation>حذف توضیحات</translation>
+      <translation>حذف نظر</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="32"/>
@@ -2545,18 +2545,18 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="35"/>
       <source>Show X-Refs</source>
-      <translation>نمایش ارجاعات (X-Refs)</translation>
+      <translation>نمایش X-Refs</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="36"/>
       <source>Add/remove breakpoint</source>
-      <translation>اضافه/حذف کردن نقطه شکست</translation>
+      <translation>اضافه/حذف کردن نقطه توقف</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="37"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="197"/>
       <source>Advanced breakpoint</source>
-      <translation>نقطه شکست پیشرفته</translation>
+      <translation>نقطه توقف پیشرفته</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="39"/>
@@ -2571,17 +2571,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="169"/>
       <source>Edit Comment</source>
-      <translation>ویرایش توضیح</translation>
+      <translation>ویرایش نظر</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="185"/>
       <source>Add breakpoint</source>
-      <translation>افزودن نقطه‌شکست</translation>
+      <translation>افزودن نقطه‌توقف</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="187"/>
       <source>Remove breakpoint</source>
-      <translation>حذف نقطه‌شکست</translation>
+      <translation>حذف نقطه‌توقف</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="189"/>
@@ -2591,7 +2591,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="196"/>
       <source>Edit breakpoint</source>
-      <translation>ویرایش نقطه ی توقف</translation>
+      <translation>ویرایش نقطه‌توقف</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="200"/>
@@ -2616,7 +2616,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="221"/>
       <source>Add name to %1</source>
-      <translation>نام به %1 اضافه کنید</translation>
+      <translation>نام را به %1 اضافه کنید</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="226"/>
@@ -2647,17 +2647,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="321"/>
       <source>Can&apos;t rename this variable.&lt;br&gt;Only local variables defined in disassembly can be renamed.</source>
-      <translation>نمی‌توان&apos; نام این متغیر را تغییر داد.&lt;br&gt;فقط متغیرهای محلی تعریف شده در جداسازی می‌توانند تغییر نام یابند.</translation>
+      <translation>نمی‌توان&apos; نام این متغیر را تغییر داد.&lt;br&gt;فقط متغیرهای محلی تعریف شده در دیس اسمبلی می‌توانند تغییر نام یابند.</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="340"/>
       <source>Can&apos;t edit this variable.&lt;br&gt;Only local variables defined in disassembly can be edited.</source>
-      <translation>نمی توان&apos; این متغیر را ویرایش کرد.&lt;br&gt;فقط متغیرهای محلی تعریف شده در جداسازی قابل ویرایش هستند.</translation>
+      <translation>نمی توان&apos; این متغیر را ویرایش کرد.&lt;br&gt;فقط متغیرهای محلی تعریف شده در دیس اسمبلی قابل ویرایش هستند.</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="413"/>
       <source>Define this function at %2</source>
-      <translation>این عملکرد را در %2 تعریف کنید</translation>
+      <translation>این تابع را در %2 تعریف کنید</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="414"/>
@@ -2696,7 +2696,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="450"/>
       <source>Can&apos;t rename this variable. Only local variables defined in disassembly can be renamed.</source>
-      <translation>نمی‌توان&apos; نام این متغیر را تغییر داد.فقط متغیرهای محلی تعریف شده در جداسازی می‌توانند تغییر نام یابند.</translation>
+      <translation>نمی‌توان&apos; نام این متغیر را تغییر داد.فقط متغیرهای محلی تعریف شده در دیس اسمبلی می‌توانند تغییر نام یابند.</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="475"/>
@@ -2706,7 +2706,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="476"/>
       <source>Can&apos;t edit this variable. Only local variables defined in disassembly can be edited.</source>
-      <translation>نمی توان&apos; این متغیر را ویرایش کرد.فقط متغیرهای محلی تعریف شده در جداسازی قابل ویرایش هستند.</translation>
+      <translation>نمی توان&apos; این متغیر را ویرایش کرد.فقط متغیرهای محلی تعریف شده در دیس اسمبلی قابل ویرایش هستند.</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="542"/>
@@ -3033,13 +3033,13 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="312"/>
       <source>Add/remove breakpoint</source>
-      <translation>اضافه/حذف کردن نقطه شکست</translation>
+      <translation>اضافه/حذف کردن نقطه توقف</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="315"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="608"/>
       <source>Advanced breakpoint</source>
-      <translation>نقطه شکست پیشرفته</translation>
+      <translation>نقطه توقف پیشرفته</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="322"/>
