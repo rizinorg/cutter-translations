@@ -3306,7 +3306,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/EditVariablesDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation>پنجره</translation>
+      <translation>دیالوگ</translation>
     </message>
     <message>
       <location filename="../dialogs/EditVariablesDialog.ui" line="22"/>
@@ -3354,7 +3354,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="68"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -3428,7 +3428,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="72"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -3977,7 +3977,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="66"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -3987,7 +3987,7 @@ Please check the console for more details.</source>
       <location filename="../widgets/GlobalsWidget.ui" line="79"/>
       <location filename="../widgets/GlobalsWidget.cpp" line="206"/>
       <source>Edit Global Variable</source>
-      <translation>تغییر متغیر جهانی</translation>
+      <translation>ویرایش متغیر جهانی</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.ui" line="84"/>
@@ -4004,7 +4004,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="169"/>
       <source>Globals</source>
-      <translation>سراسری</translation>
+      <translation>جهانی</translation>
     </message>
   </context>
   <context>
@@ -4217,7 +4217,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="114"/>
       <source>Copy</source>
-      <translation>رونوشت</translation>
+      <translation>کپی</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="120"/>
