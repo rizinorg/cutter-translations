@@ -2823,7 +2823,7 @@ Please check the console for more details.</source>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="84"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="570"/>
       <source>Add Comment</source>
-      <translation>افزودن توضیح</translation>
+      <translation>افزودن نظر</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="171"/>
