@@ -909,7 +909,7 @@
       <location filename="../tools/basefind/BaseFindDialog.ui" line="204"/>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="207"/>
       <source>Remove all</source>
-      <translation>حذف همه</translation>
+      <translation>برداشتن همه</translation>
     </message>
   </context>
   <context>
@@ -951,13 +951,13 @@
     <message>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="81"/>
       <source>Remove item</source>
-      <translation>حذف آیتم</translation>
+      <translation>برداشتن آیتم</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="86"/>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="89"/>
       <source>Remove all</source>
-      <translation>حذف همه</translation>
+      <translation>برداشتن همه</translation>
     </message>
   </context>
   <context>
@@ -1048,7 +1048,7 @@
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="171"/>
       <source>Bin number in NBINS or fastbinsY array</source>
-      <translation>شماره bin در آچیدمان NBINS یا fastbinsY</translation>
+      <translation>شماره bin در آرایه NBINS یا fastbinsY</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="173"/>
@@ -1101,7 +1101,7 @@
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="105"/>
       <source>Type</source>
-      <translation>گونه</translation>
+      <translation>نوع</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="107"/>
@@ -3054,7 +3054,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="424"/>
       <source>Add flag at %1 (used here)</source>
-      <translation>اضافه کردن پرچم در %1 (اینجا استفاده می شود)</translation>
+      <translation>اضافه کردن پرچم در %1 (اینجا استفاده شود)</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="429"/>
@@ -3074,12 +3074,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="497"/>
       <source>Add or change global variable at %1 (used here)</source>
-      <translation>افزودن یا تغییر متغیر سراسری در %1 (اینجا استفاده شود)</translation>
+      <translation>افزودن یا تغییر متغیر جهانی در %1 (اینجا استفاده شود)</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="573"/>
       <source>Edit Comment</source>
-      <translation>ویرایش توضیح</translation>
+      <translation>ویرایش نظر</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="589"/>
@@ -3089,17 +3089,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="606"/>
       <source>Remove breakpoint</source>
-      <translation>حذف نقطه‌شکست</translation>
+      <translation>حذف نقطه‌توقف</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="606"/>
       <source>Add breakpoint</source>
-      <translation>افزودن نقطه‌شکست</translation>
+      <translation>افزودن نقطه‌توقف</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="607"/>
       <source>Edit breakpoint</source>
-      <translation>ویرایش نقطه‌شکست</translation>
+      <translation>ویرایش نقطه‌توقف</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="622"/>
@@ -3135,7 +3135,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="912"/>
       <source>You must be in a function to define variable types.</source>
-      <translation>باید درون یک تابع باشید تا بتوانید نوع متغیر‌ها را تعریف کنید.</translation>
+      <translation>باید در یک تابع باشید تا بتوانید نوع متغیر‌ها را تعریف کنید.</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="974"/>
@@ -3204,7 +3204,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="73"/>
       <source>Calling convention</source>
-      <translation>قرارداد صدا زدن</translation>
+      <translation>قرارداد تماس گرفتن</translation>
     </message>
   </context>
   <context>
