@@ -2849,7 +2849,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="96"/>
       <source>Delete comment</source>
-      <translation>حذف توضیحات</translation>
+      <translation>حذف کامنت</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="100"/>
@@ -2874,7 +2874,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="127"/>
       <source>Show X-Refs</source>
-      <translation>نمایش ارجاعات (X-Refs)</translation>
+      <translation>نمایش X-Refs</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="131"/>
@@ -4302,7 +4302,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="188"/>
       <source>Edit with keyboard</source>
-      <translation>صفحه کلید را ویرایش کنید</translation>
+      <translation>ویرایش با صفحه کلید</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1160"/>
@@ -4330,7 +4330,7 @@ Please check the console for more details.</source>
       <location filename="../widgets/HexWidget.cpp" line="1466"/>
       <location filename="../widgets/HexWidget.cpp" line="1484"/>
       <source>String:</source>
-      <translation>رشته:</translation>
+      <translation>Chaîne de caractères :</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1318"/>
