@@ -456,7 +456,7 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="241"/>
       <source>Language will be changed after next application start.</source>
-      <translation>زبان پس از شروع مجدد برنامه تغییر خواهد کرد.</translation>
+      <translation>زبان پس از شروع بعدی برنامه تغییر خواهد کرد.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="245"/>
