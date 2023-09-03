@@ -2161,7 +2161,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/Dashboard.ui" line="645"/>
       <source>Relro:</source>
-      <translation>جابجایی فقط خواندنی (Relro):</translation>
+      <translation>Relro:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="700"/>
