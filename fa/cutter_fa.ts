@@ -2823,7 +2823,7 @@ Please check the console for more details.</source>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="84"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="570"/>
       <source>Add Comment</source>
-      <translation>افزودن توضیح</translation>
+      <translation>افزودن نظر</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="171"/>
@@ -2849,7 +2849,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="96"/>
       <source>Delete comment</source>
-      <translation>حذف توضیحات</translation>
+      <translation>حذف کامنت</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="100"/>
@@ -2874,7 +2874,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="127"/>
       <source>Show X-Refs</source>
-      <translation>نمایش ارجاعات (X-Refs)</translation>
+      <translation>نمایش X-Refs</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="131"/>
@@ -2888,12 +2888,12 @@ Please check the console for more details.</source>
     </message>
     <message>
       <source>Set Immediate Base to...</source>
-      <translation>تنظیم مقدار پایه فوری روی...</translation>
+      <translation>تنظیم مقدار پایه فوری برای...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="177"/>
       <source>Modify or add global variable</source>
-      <translation>تغییر یا اضافه کردن متغیر سراسری</translation>
+      <translation>تغییر یا اضافه کردن متغیر جهانی</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="184"/>
@@ -2903,7 +2903,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="186"/>
       <source>Binary</source>
-      <translation>دودویی</translation>
+      <translation>باینری</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="190"/>
@@ -3306,7 +3306,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/EditVariablesDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation>پنجره</translation>
+      <translation>دیالوگ</translation>
     </message>
     <message>
       <location filename="../dialogs/EditVariablesDialog.ui" line="22"/>
@@ -3354,7 +3354,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="68"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -3428,7 +3428,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="72"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -3949,7 +3949,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.cpp" line="28"/>
       <source>Edit global variable at %1</source>
-      <translation>تغییر متغیر جهانی در %1</translation>
+      <translation>ویرایش متغیر جهانی در %1</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.cpp" line="30"/>
@@ -3977,7 +3977,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="66"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -3987,7 +3987,7 @@ Please check the console for more details.</source>
       <location filename="../widgets/GlobalsWidget.ui" line="79"/>
       <location filename="../widgets/GlobalsWidget.cpp" line="206"/>
       <source>Edit Global Variable</source>
-      <translation>تغییر متغیر جهانی</translation>
+      <translation>ویرایش متغیر جهانی</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.ui" line="84"/>
@@ -4004,7 +4004,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="169"/>
       <source>Globals</source>
-      <translation>سراسری</translation>
+      <translation>جهانی</translation>
     </message>
   </context>
   <context>
@@ -4053,7 +4053,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="80"/>
       <source>Minimum Font Size</source>
-      <translation>حداقل اندازه قلم</translation>
+      <translation>حداقل اندازه فونت</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="105"/>
@@ -4073,7 +4073,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="183"/>
       <source>Block spacing:</source>
-      <translation>فاصله بلوک:</translation>
+      <translation>فاصله گذازی بلوک:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="190"/>
@@ -4083,17 +4083,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="200"/>
       <source>Bitmap Export Options</source>
-      <translation>گزینه های صادرکردن بیت مپ</translation>
+      <translation>گزینه های صدور بیت مپ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="209"/>
       <source>Export Transparent Bitmap Graphs</source>
-      <translation>صادر کردن نمودارهای بیت مپ شفاف</translation>
+      <translation>صدور نمودارهای بیت مپ شفاف</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="218"/>
       <source>Graph Bitmap Export Scale: </source>
-      <translation>مقیاس صادرکردن بیت مپ نمودار: </translation>
+      <translation>مقیاس صدور بیت مپ نمودار: </translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="225"/>
@@ -4106,7 +4106,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/GraphView.cpp" line="441"/>
       <source>Cutter graph export</source>
-      <translation>صادرکردن نمودار Cutter</translation>
+      <translation>صدور نمودار Cutter</translation>
     </message>
   </context>
   <context>
@@ -4137,7 +4137,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="120"/>
       <source>Headers</source>
-      <translation>عناوین</translation>
+      <translation>سربرگ</translation>
     </message>
   </context>
   <context>
@@ -4212,12 +4212,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="110"/>
       <source>Bytes as pairs</source>
-      <translation>بایت ها بصورت جفت</translation>
+      <translation>بایت ها به‌صورت جفت</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="114"/>
       <source>Copy</source>
-      <translation>رونوشت</translation>
+      <translation>کپی</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="120"/>
@@ -4302,7 +4302,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="188"/>
       <source>Edit with keyboard</source>
-      <translation>صفحه کلید را ویرایش کنید</translation>
+      <translation>ویرایش با صفحه کلید</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1160"/>
@@ -4423,17 +4423,17 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="131"/>
       <source>Little</source>
-      <translation>Little</translation>
+      <translation>کوچک</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="136"/>
       <source>Big</source>
-      <translation>Big</translation>
+      <translation>بزرگ</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="191"/>
       <source>Arch</source>
-      <translation>معماری</translation>
+      <translation>قوس</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="220"/>
@@ -4458,7 +4458,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="318"/>
       <source>SHA256:</source>
-      <translation>SHA1: {256:?}</translation>
+      <translation>SHA256:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="350"/>
@@ -4575,7 +4575,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="73"/>
       <source>Type</source>
-      <translation>گونه</translation>
+      <translation>نوع</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="75"/>
@@ -4595,7 +4595,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="81"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -4756,22 +4756,22 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="720"/>
       <source>8</source>
-      <translation>۸</translation>
+      <translation>8</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="725"/>
       <source>16</source>
-      <translation>۱۶</translation>
+      <translation>16</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="730"/>
       <source>32</source>
-      <translation>۳۲</translation>
+      <translation>32</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="735"/>
       <source>64</source>
-      <translation>۶۴</translation>
+      <translation>64</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="749"/>
@@ -4796,7 +4796,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="822"/>
       <source>Format:</source>
-      <translation>الگو:</translation>
+      <translation>فرمت:</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="876"/>
@@ -5053,7 +5053,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="61"/>
       <source>Do you want to delete &apos;%1&apos;</source>
-      <translation>آیا می خواهید حذف کنید &apos;%1&apos;</translation>
+      <translation>آیا می خواهید &apos;%1&apos; را حذف کنید</translation>
     </message>
   </context>
   <context>
@@ -5061,7 +5061,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="33"/>
       <source>Add extra...</source>
-      <translation>اضافه کردن...</translation>
+      <translation>اضافه کردن بیشتر...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="61"/>
@@ -5087,7 +5087,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="113"/>
       <source>Layouts</source>
-      <translation>چیدمان</translation>
+      <translation>چیدمان ها</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="133"/>
@@ -5210,7 +5210,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="297"/>
       <source>Ctrl+S</source>
-      <translation>Ctrl + S</translation>
+      <translation>Ctrl+S</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="302"/>
@@ -5406,12 +5406,12 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="580"/>
       <source>1</source>
-      <translation>۱</translation>
+      <translation>1</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="585"/>
       <source>2</source>
-      <translation>۲</translation>
+      <translation>2</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="590"/>
@@ -5426,17 +5426,17 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="600"/>
       <source>16</source>
-      <translation>۱۶</translation>
+      <translation>16</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="605"/>
       <source>32</source>
-      <translation>۳۲</translation>
+      <translation>32</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="610"/>
       <source>64</source>
-      <translation>۶۴</translation>
+      <translation>64</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="615"/>
