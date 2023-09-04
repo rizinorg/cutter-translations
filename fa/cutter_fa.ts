@@ -1091,7 +1091,7 @@
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="101"/>
       <source>Offset</source>
-      <translation>آف‌ست</translation>
+      <translation>آفست</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="103"/>
@@ -2701,7 +2701,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="475"/>
       <source>Edit local variable %1</source>
-      <translation>تغییرنام متغیر محلی %1</translation>
+      <translation>ویرایش متغیر محلی %1</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="476"/>
@@ -3395,7 +3395,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/FlagDialog.cpp" line="24"/>
       <source>Edit flag at %1</source>
-      <translation>تغییر پرچم در %1</translation>
+      <translation>ویرایش پرچم در %1</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.cpp" line="26"/>
@@ -3530,7 +3530,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="134"/>
       <source>Offset: %1</source>
-      <translation>آف‌ست: %1</translation>
+      <translation>آفست: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="136"/>
@@ -3587,7 +3587,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="153"/>
       <source>Comment: %1</source>
-      <translation>نظرات: %1</translation>
+      <translation>نظر: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="265"/>
@@ -3618,7 +3618,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="315"/>
       <source>Offset</source>
-      <translation>آف‌ست</translation>
+      <translation>آفست</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="317"/>
@@ -3653,7 +3653,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="329"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -4129,7 +4129,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="61"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -4307,7 +4307,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1160"/>
       <source>Edit Comment</source>
-      <translation>ویرایش توضیح</translation>
+      <translation>ویرایش نظر</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1168"/>
@@ -5861,7 +5861,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="66"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -6379,7 +6379,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="397"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="398"/>
@@ -6888,7 +6888,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="73"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -6924,7 +6924,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RelocsWidget.cpp" line="60"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -7019,7 +7019,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="88"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -7296,7 +7296,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="123"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -7403,7 +7403,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="107"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -7444,7 +7444,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="91"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -7515,7 +7515,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="224"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -7576,7 +7576,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="79"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -7630,7 +7630,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SymbolsWidget.cpp" line="64"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -8005,7 +8005,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="303"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
