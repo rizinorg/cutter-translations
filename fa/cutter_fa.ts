@@ -5718,7 +5718,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="1056"/>
       <source>New disassembly</source>
-      <translation>جداسازی جدید</translation>
+      <translation>دیس‌اسمبلی جدید</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1058"/>
@@ -5748,7 +5748,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="1243"/>
       <source>Enter name</source>
-      <translation>نام را وارد کنید</translation>
+      <translation>واردکردن نام</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1554"/>
@@ -5809,7 +5809,7 @@ Save your project before closing!</source>
       <location filename="../dialogs/MapFileDialog.ui" line="52"/>
       <location filename="../dialogs/MapFileDialog.cpp" line="18"/>
       <source>Select file</source>
-      <translation>فایل را انتخاب کنید</translation>
+      <translation>انتخاب فایل</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="59"/>
@@ -6413,12 +6413,12 @@ Do you want to commit them now?</source>
     </message>
     <message>
       <source>Color of ascii line in left side that shows what opcodes are belong to function</source>
-      <translation>رنگ خط ascii در سمت چپ که نشان می دهد کدهای عملیاتی متعلق به تابع هستند</translation>
+      <translation>رنگ خط ascii در سمت چپ که نشان می دهد آپکدها متعلق به تابع هستند</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="403"/>
       <source>Color of the line which shows which opcodes belongs to a function</source>
-      <translation>رنگ خطی که نشان می دهد کدهای عملیاتی متعلق به یک تابع است</translation>
+      <translation>رنگ خطی که نشان می دهد آپکدها متعلق به یک تابع است</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="404"/>
