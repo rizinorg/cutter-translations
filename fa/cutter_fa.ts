@@ -6469,7 +6469,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="411"/>
       <source>prompt</source>
-      <translation>فوری</translation>
+      <translation>prompt</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="412"/>
@@ -6504,22 +6504,22 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="416"/>
       <source>0x00 opcode color</source>
-      <translation>رنگ اپکد 0x00</translation>
+      <translation>رنگ آپکد 0x00</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="417"/>
       <source>0x7f opcode color</source>
-      <translation>رنگ اپکد 0x7f</translation>
+      <translation>رنگ آپکد 0x7f</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="418"/>
       <source>0xff opcode color</source>
-      <translation>رنگ اپکد 0xff</translation>
+      <translation>رنگ آپکد 0xff</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="420"/>
       <source>Color of arithmetic opcodes (add, div, mul etc)</source>
-      <translation>رنگ اپکدهای حسابی (add, div, mul و غیره)</translation>
+      <translation>رنگ آپکدهای حسابی (add, div, mul و غیره)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="421"/>
@@ -6554,12 +6554,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="430"/>
       <source>pop opcode color</source>
-      <translation>رنگ اپکد پاپ</translation>
+      <translation>رنگ آپکد pop</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="431"/>
       <source>Cryptographic color</source>
-      <translation>رنگ رمزنگاری</translation>
+      <translation>رنگ رمزنگاری شده</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="432"/>
@@ -6569,7 +6569,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="434"/>
       <source>Color of conditional jump opcodes such as je, jg, jne etc</source>
-      <translation>رنگ اپکدهای پرش شرطی مانند je، jg، jne و غیره</translation>
+      <translation>رنگ آپکدهای جهش شرطی مانند je، jg، jne و غیره</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="435"/>
@@ -6579,32 +6579,32 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="436"/>
       <source>call instructions color (ccall, rcall, call etc)</source>
-      <translation>رنگ دستورالعمل تماس (ccall, rcall, cal و غیره)</translation>
+      <translation>رنگ دستورالعمل call (ccall, rcall, cal و غیره)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="437"/>
       <source>nop opcode color</source>
-      <translation>رنگ اپکد nop</translation>
+      <translation>رنگ آپکد nop</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="438"/>
       <source>ret opcode color</source>
-      <translation>رنگ اپکد ret</translation>
+      <translation>رنگ آپکد ret</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="439"/>
       <source>Color of interrupts</source>
-      <translation>رنگ وقفه ها</translation>
+      <translation>رنگ قطع کردن ها</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="439"/>
       <source>Interrupts</source>
-      <translation>قطع می کند</translation>
+      <translation>قطع کردن ها</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="440"/>
       <source>swi opcode color</source>
-      <translation>رنگ اپکد swi</translation>
+      <translation>رنگ آپکد swi</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="442"/>
@@ -6629,7 +6629,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="447"/>
       <source>Color of numeric constants and object pointers</source>
-      <translation>رنگ ثابت های عددی و اشاره گرهای اشیا</translation>
+      <translation>رنگ مقادیر ثابت عددی و اشاره‌گرهای اشیا</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="447"/>
@@ -6639,7 +6639,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="449"/>
       <source>Color of move instructions such as mov, movd, lea etc</source>
-      <translation>رنگ دستورالعمل های حرکت مانند mov، movd، lea و غیره</translation>
+      <translation>رنگ دستورالعمل های move مانند mov، movd، lea و غیره</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="450"/>
