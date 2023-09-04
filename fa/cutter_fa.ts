@@ -5549,7 +5549,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="750"/>
       <source>Analyze Program</source>
-      <translation>تجزیه و تحلیل برنامه</translation>
+      <translation>تحلیل برنامه</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="755"/>
@@ -5601,7 +5601,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="804"/>
       <source>Ctrl++</source>
-      <translation>Ctrl++</translation>
+      <translation>++Ctrl</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="812"/>
@@ -5611,7 +5611,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="815"/>
       <source>Ctrl+-</source>
-      <translation>Ctrl+-</translation>
+      <translation>-+Ctrl</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="823"/>
@@ -5621,7 +5621,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="826"/>
       <source>Ctrl+=</source>
-      <translation>Ctrl+=</translation>
+      <translation>=+Ctrl</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="834"/>
@@ -5718,7 +5718,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="1056"/>
       <source>New disassembly</source>
-      <translation>جداسازی جدید</translation>
+      <translation>دیس‌اسمبلی جدید</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1058"/>
@@ -5748,7 +5748,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="1243"/>
       <source>Enter name</source>
-      <translation>نام را وارد کنید</translation>
+      <translation>واردکردن نام</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1554"/>
@@ -5809,7 +5809,7 @@ Save your project before closing!</source>
       <location filename="../dialogs/MapFileDialog.ui" line="52"/>
       <location filename="../dialogs/MapFileDialog.cpp" line="18"/>
       <source>Select file</source>
-      <translation>فایل را انتخاب کنید</translation>
+      <translation>انتخاب فایل</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="59"/>
@@ -5992,7 +5992,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="290"/>
       <source>Open a file without additional options/settings.</source>
-      <translation>فایلی را بدون گزینه/تنظیمات اضافی باز کنید.</translation>
+      <translation>فایلی را بدون گزینه ها/تنظیمات اضافی باز کنید.</translation>
     </message>
     <message>
       <source>Open a file with no extra treatment.</source>
@@ -6413,12 +6413,12 @@ Do you want to commit them now?</source>
     </message>
     <message>
       <source>Color of ascii line in left side that shows what opcodes are belong to function</source>
-      <translation>رنگ خط ascii در سمت چپ که نشان می دهد کدهای عملیاتی متعلق به تابع هستند</translation>
+      <translation>رنگ خط ascii در سمت چپ که نشان می دهد آپکدها متعلق به تابع هستند</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="403"/>
       <source>Color of the line which shows which opcodes belongs to a function</source>
-      <translation>رنگ خطی که نشان می دهد کدهای عملیاتی متعلق به یک تابع است</translation>
+      <translation>رنگ خطی که نشان می دهد آپکدها متعلق به یک تابع است</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="404"/>
@@ -6469,7 +6469,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="411"/>
       <source>prompt</source>
-      <translation>فوری</translation>
+      <translation>prompt</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="412"/>
@@ -6504,22 +6504,22 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="416"/>
       <source>0x00 opcode color</source>
-      <translation>رنگ اپکد 0x00</translation>
+      <translation>رنگ آپکد 0x00</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="417"/>
       <source>0x7f opcode color</source>
-      <translation>رنگ اپکد 0x7f</translation>
+      <translation>رنگ آپکد 0x7f</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="418"/>
       <source>0xff opcode color</source>
-      <translation>رنگ اپکد 0xff</translation>
+      <translation>رنگ آپکد 0xff</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="420"/>
       <source>Color of arithmetic opcodes (add, div, mul etc)</source>
-      <translation>رنگ اپکدهای حسابی (add, div, mul و غیره)</translation>
+      <translation>رنگ آپکدهای حسابی (add, div, mul و غیره)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="421"/>
@@ -6549,17 +6549,17 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="429"/>
       <source>push opcode color</source>
-      <translation>رنگ Opcode را فشار دهید</translation>
+      <translation>رنگ opcode را فشار دهید</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="430"/>
       <source>pop opcode color</source>
-      <translation>رنگ اپکد پاپ</translation>
+      <translation>رنگ آپکد pop</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="431"/>
       <source>Cryptographic color</source>
-      <translation>رنگ رمزنگاری</translation>
+      <translation>رنگ رمزنگاری شده</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="432"/>
@@ -6569,7 +6569,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="434"/>
       <source>Color of conditional jump opcodes such as je, jg, jne etc</source>
-      <translation>رنگ اپکدهای پرش شرطی مانند je، jg، jne و غیره</translation>
+      <translation>رنگ آپکدهای جهش شرطی مانند je، jg، jne و غیره</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="435"/>
@@ -6579,32 +6579,32 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="436"/>
       <source>call instructions color (ccall, rcall, call etc)</source>
-      <translation>رنگ دستورالعمل تماس (ccall, rcall, cal و غیره)</translation>
+      <translation>رنگ دستورالعمل call (ccall, rcall, cal و غیره)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="437"/>
       <source>nop opcode color</source>
-      <translation>رنگ اپکد nop</translation>
+      <translation>رنگ آپکد nop</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="438"/>
       <source>ret opcode color</source>
-      <translation>رنگ اپکد ret</translation>
+      <translation>رنگ آپکد ret</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="439"/>
       <source>Color of interrupts</source>
-      <translation>رنگ وقفه ها</translation>
+      <translation>رنگ قطع کردن ها</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="439"/>
       <source>Interrupts</source>
-      <translation>قطع می کند</translation>
+      <translation>قطع کردن ها</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="440"/>
       <source>swi opcode color</source>
-      <translation>رنگ اپکد swi</translation>
+      <translation>رنگ آپکد swi</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="442"/>
@@ -6629,7 +6629,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="447"/>
       <source>Color of numeric constants and object pointers</source>
-      <translation>رنگ ثابت های عددی و اشاره گرهای اشیا</translation>
+      <translation>رنگ مقادیر ثابت عددی و اشاره‌گرهای اشیا</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="447"/>
@@ -6639,7 +6639,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="449"/>
       <source>Color of move instructions such as mov, movd, lea etc</source>
-      <translation>رنگ دستورالعمل های حرکت مانند mov، movd، lea و غیره</translation>
+      <translation>رنگ دستورالعمل های move مانند mov، movd، lea و غیره</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="450"/>
@@ -6896,7 +6896,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="137"/>
       <source>Copy register value</source>
-      <translation>کپی کردن مقدار ثبت</translation>
+      <translation>کپی مقدار ثبت</translation>
     </message>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="138"/>
@@ -7195,7 +7195,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RizinTaskDialog.ui" line="20"/>
       <source>Rizin task in progress..</source>
-      <translation>کار Rizin در حال انجام است..</translation>
+      <translation>وظیفه Rizin در حال انجام است..</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinTaskDialog.ui" line="27"/>
@@ -7330,7 +7330,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="257"/>
       <source>string (case insensitive)</source>
-      <translation>رشته (بدون حساس به حروف کوچک و بزرگ)</translation>
+      <translation>رشته (بدون حساسیت به حروف کوچک و بزرگ)</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="258"/>
@@ -7835,7 +7835,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="68"/>
       <source>Don&apos;t check for updates automatically</source>
-      <translation>به‌روزرسانی‌ها را به‌طور خودکار بررسی &apos;نکنید</translation>
+      <translation>به‌روزرسانی‌ها را به‌صورت خودکار بررسی &apos;نکنید</translation>
     </message>
   </context>
   <context>
@@ -7982,7 +7982,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/WelcomeDialog.cpp" line="71"/>
       <source>Language will be changed after next application start.</source>
-      <translation>زبان پس از شروع مجدد برنامه تغییر خواهد کرد.</translation>
+      <translation>زبان پس از شروع بعدی برنامه تغییر خواهد کرد.</translation>
     </message>
   </context>
   <context>
