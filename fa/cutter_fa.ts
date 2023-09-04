@@ -6549,7 +6549,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="429"/>
       <source>push opcode color</source>
-      <translation>رنگ Opcode را فشار دهید</translation>
+      <translation>رنگ opcode را فشار دهید</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="430"/>
@@ -6896,7 +6896,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="137"/>
       <source>Copy register value</source>
-      <translation>کپی کردن مقدار ثبت</translation>
+      <translation>کپی مقدار ثبت</translation>
     </message>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="138"/>
@@ -7195,7 +7195,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RizinTaskDialog.ui" line="20"/>
       <source>Rizin task in progress..</source>
-      <translation>کار Rizin در حال انجام است..</translation>
+      <translation>وظیفه Rizin در حال انجام است..</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinTaskDialog.ui" line="27"/>
@@ -7330,7 +7330,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="257"/>
       <source>string (case insensitive)</source>
-      <translation>رشته (بدون حساس به حروف کوچک و بزرگ)</translation>
+      <translation>رشته (بدون حساسیت به حروف کوچک و بزرگ)</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="258"/>
@@ -7835,7 +7835,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="68"/>
       <source>Don&apos;t check for updates automatically</source>
-      <translation>به‌روزرسانی‌ها را به‌طور خودکار بررسی &apos;نکنید</translation>
+      <translation>به‌روزرسانی‌ها را به‌صورت خودکار بررسی &apos;نکنید</translation>
     </message>
   </context>
   <context>
@@ -7982,7 +7982,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/WelcomeDialog.cpp" line="71"/>
       <source>Language will be changed after next application start.</source>
-      <translation>زبان پس از شروع مجدد برنامه تغییر خواهد کرد.</translation>
+      <translation>زبان پس از شروع بعدی برنامه تغییر خواهد کرد.</translation>
     </message>
   </context>
   <context>
