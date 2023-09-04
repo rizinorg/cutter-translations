@@ -5646,12 +5646,12 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="856"/>
       <source>Enable cache mode. Changes to the file would not be applied to disk unless you specifically commit them. This is a safer option.</source>
-      <translation>حالت کش را فعال کنید. تغییرات در فایل روی دیسک اعمال نمی شود مگر اینکه به طور خاص آنها را انجام دهید. این گزینه مطمئن تری است.</translation>
+      <translation>حالت کش cache را فعال کنید. تغییرات در فایل روی دیسک اعمال نمی شود مگر اینکه به طور خاص آنها را انجام دهید. این گزینه مطمئن تری است.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="867"/>
       <source>Read-Only mode</source>
-      <translation>حالت فقط-نوشتن</translation>
+      <translation>حالت فقط-خواندنی</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="877"/>
@@ -5823,17 +5823,17 @@ Save your project before closing!</source>
     </message>
     <message>
       <source>Map new file file</source>
-      <translation>نقشه فایل جدید</translation>
+      <translation>ترسیم فایل جدید</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
       <source>Failed to map a new file</source>
-      <translation>نقشه فایل جدید ناموفق بود</translation>
+      <translation>ترسیم فایل جدید ناموفق بود</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
       <source>Map new file</source>
-      <translation>نقشه فایل جدید</translation>
+      <translation>ترسیم فایل جدید</translation>
     </message>
   </context>
   <context>
@@ -5869,7 +5869,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="123"/>
       <source>Memory Map</source>
-      <translation>نگاشت حافظه</translation>
+      <translation>ترسیم حافظه</translation>
     </message>
   </context>
   <context>
@@ -5996,7 +5996,7 @@ Save your project before closing!</source>
     </message>
     <message>
       <source>Open a file with no extra treatment.</source>
-      <translation>یک فایل را بدون پردازش اضافی باز کنید.</translation>
+      <translation>یک فایل را بدون اصلاح اضافی باز کنید.</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="323"/>
@@ -6188,7 +6188,7 @@ WARNING: In Write mode, any changes will be committed to the file on disk. For s
       <location filename="../common/IOModesController.cpp" line="95"/>
       <source>It seems that you have changes or patches that are not committed to the file.
 Do you want to commit them now?</source>
-      <translation>به نظر می رسد که شما تغییرات یا وصله هایی دارید که به فایل متعهد نیستند.
+      <translation>به نظر می رسد که شما تغییرات یا پچ هایی patches دارید که به فایل متعهد نیستند.
 آیا اکنون می خواهید آنها را متعهد کنید؟</translation>
     </message>
     <message>
@@ -6229,12 +6229,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="402"/>
       <source>arch</source>
-      <translation>معماری</translation>
+      <translation>قوس</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="405"/>
       <source>Sets a specific architecture bits</source>
-      <translation>یک بیت خاص را تنظیم می کند</translation>
+      <translation>یک بیت معماری خاص را تنظیم می کند</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="406"/>
@@ -6264,7 +6264,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="418"/>
       <source>Sets the endianness (big or little)</source>
-      <translation>Endianness را تنظیم می کند (بزرگ یا کم)</translation>
+      <translation>Endianness را تنظیم می کند (بزرگ یا کوچک)</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="419"/>
@@ -6639,7 +6639,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="449"/>
       <source>Color of move instructions such as mov, movd, lea etc</source>
-      <translation>رنگ دستورالعمل های move مانند mov، movd، lea و غیره</translation>
+      <translation>رنگ دستورالعمل های حرکت مانند mov، movd، lea و غیره</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="450"/>
@@ -6649,12 +6649,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="451"/>
       <source>Function variable color</source>
-      <translation>تابع رنگ متغیر</translation>
+      <translation>رنگ متغیر تابع</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="451"/>
       <source>Function variable</source>
-      <translation>تابع متغیر</translation>
+      <translation>متغیر تابع</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="453"/>
@@ -6674,7 +6674,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="456"/>
       <source>Variable address</source>
-      <translation>آدرس متغییر</translation>
+      <translation>آدرس متغیر</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="468"/>
@@ -6684,7 +6684,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="468"/>
       <source>Arrow true</source>
-      <translation>پیکان true</translation>
+      <translation>فلش true</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="470"/>
@@ -6699,7 +6699,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="472"/>
       <source>In graph view jump arrow (no condition)</source>
-      <translation>فلش پرش در نمای نمودار (بدون شرط)</translation>
+      <translation>فلش پرش نمای نمودار (بدون شرط)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="472"/>
@@ -7137,7 +7137,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="71"/>
       <source>RzIO plugins</source>
-      <translation>پلاگین RzIO</translation>
+      <translation>پلاگین های RzIO</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="97"/>
@@ -7152,7 +7152,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="112"/>
       <source>RzCore plugins</source>
-      <translation>پلاگین RzCore</translation>
+      <translation>پلاگین های RzCore</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="142"/>
@@ -8028,13 +8028,13 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="163"/>
       <source>Reads from %1</source>
-      <translation>به %1 می خواند</translation>
+      <translation>از %1 می خواند</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="174"/>
       <location filename="../dialogs/XrefsDialog.cpp" line="193"/>
       <source>X-Refs for %1</source>
-      <translation>X رجوع می کند برای %1</translation>
+      <translation>X برای %1 رجوع می کند</translation>
     </message>
   </context>
 </TS>
