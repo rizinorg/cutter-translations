@@ -5549,7 +5549,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="750"/>
       <source>Analyze Program</source>
-      <translation>تجزیه و تحلیل برنامه</translation>
+      <translation>تحلیل برنامه</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="755"/>
@@ -5601,7 +5601,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="804"/>
       <source>Ctrl++</source>
-      <translation>Ctrl++</translation>
+      <translation>++Ctrl</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="812"/>
@@ -5611,7 +5611,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="815"/>
       <source>Ctrl+-</source>
-      <translation>Ctrl+-</translation>
+      <translation>-+Ctrl</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="823"/>
@@ -5621,7 +5621,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="826"/>
       <source>Ctrl+=</source>
-      <translation>Ctrl+=</translation>
+      <translation>=+Ctrl</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="834"/>
@@ -5992,7 +5992,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="290"/>
       <source>Open a file without additional options/settings.</source>
-      <translation>فایلی را بدون گزینه/تنظیمات اضافی باز کنید.</translation>
+      <translation>فایلی را بدون گزینه ها/تنظیمات اضافی باز کنید.</translation>
     </message>
     <message>
       <source>Open a file with no extra treatment.</source>
