@@ -3717,17 +3717,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="41"/>
       <source>Detailed chunk info:</source>
-      <translation>اطلاعات مفصل اجزا:</translation>
+      <translation>اطلاعات مجموعه داده تفصیلی:</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="48"/>
       <source>Enter chunk base address and press enter</source>
-      <translation>نشانی اساسی اجزا را وارد نمایید و اینتر رو بزنید</translation>
+      <translation>آدرس اساسی مجموعه داده را وارد نمایید و اینتر رو بزنید</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="28"/>
       <source>Bins info for arena @ </source>
-      <translation>اطلاعات سطل برای عرصه @ </translation>
+      <translation>اطلاعات Bins برای عرصه @ </translation>
     </message>
   </context>
   <context>
@@ -3745,7 +3745,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="29"/>
       <source>Base address of the chunk</source>
-      <translation>آدرس پایه اجزا</translation>
+      <translation>آدرس پایه مجموعه داده</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="39"/>
@@ -3755,7 +3755,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="46"/>
       <source>Size of the heap chunk including metadata</source>
-      <translation>اندازه تکه توده شامل ابرداده</translation>
+      <translation>اندازه توده مجموعه داده شامل ابرداده</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="56"/>
@@ -3765,7 +3765,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="63"/>
       <source>Link to next free chunk in bin&apos;s linked list</source>
-      <translation>لینک به بخش رایگان بعدی در &apos;لیست پیوندی bin</translation>
+      <translation>لینک به مجموعه داده رایگان بعدی در &apos;لیست لینک شده bin</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="73"/>
@@ -3775,12 +3775,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="80"/>
       <source>Link to previous free chunk in bin&apos;s linked list</source>
-      <translation>پیوند به بخش رایگان قبلی در لیست &apos;پیوندی bin</translation>
+      <translation>پیوند به مجموعه داده رایگان قبلی در لیست &apos;لینک شده bin</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="90"/>
       <source>Link to next larger free chunk (only for large chunks)</source>
-      <translation>لینک به بخش رایگان بعدی بزرگتر (فقط برای بخش های بزرگ)</translation>
+      <translation>لینک به مجموعه داده رایگان بزرگتر بعدی (فقط برای مجموعه داده های بزرگ)</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="100"/>
@@ -3795,12 +3795,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="114"/>
       <source>Link to next smaller free chunk (for large chunks)</source>
-      <translation>لینک به بخش رایگان بعدی کوچکتر (فقط برای بخش های بزرگ)</translation>
+      <translation>لینک به بخش رایگان کوچکتر بعدی(فقط برای بخش های بزرگ)</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="124"/>
       <source>Size of previous chunk (if free)</source>
-      <translation>اندازه بخش قبلی (اگر رایگان است)</translation>
+      <translation>اندازه مجموعه داده قبلی (اگر رایگان است)</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="134"/>
@@ -3810,7 +3810,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="145"/>
       <source>If the chunk was obtained from a non-main arena</source>
-      <translation>اگر این بخش از یک عرصه غیر اصلی به دست آمده باشد</translation>
+      <translation>اگر این مجموعه داده از یک عرصه غیر اصلی به دست آمده باشد</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="148"/>
@@ -3820,7 +3820,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="161"/>
       <source>The chunk was obtained with mmap()</source>
-      <translation>تکه با mmap() به دست آمد</translation>
+      <translation>مجموعه داده با mmap() به دست آمد</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="164"/>
@@ -3830,7 +3830,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="177"/>
       <source>Previous adjacent chunk is in use</source>
-      <translation>تکه مجاور قبلی در حال استفاده است</translation>
+      <translation>مجموعه داده مجاور قبلی در حال استفاده است</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="180"/>
@@ -3845,27 +3845,27 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="12"/>
       <source>Chunk @ </source>
-      <translation>تکه @ </translation>
+      <translation>مجموعه داده @ </translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="100"/>
       <source>Chunk saved</source>
-      <translation>تکه ذخیره شده</translation>
+      <translation>مجموعه داده ذخیره شده</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="101"/>
       <source>Chunk header successfully overwritten</source>
-      <translation>سرصفحه تکه با موفقیت بازنویسی شد</translation>
+      <translation>سرتیتر مجموعه داده با موفقیت بازنویسی نشد</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="103"/>
       <source>Chunk not saved</source>
-      <translation>تکه ذخیره نشد</translation>
+      <translation>مجموعه داده ذخیره نشد</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="104"/>
       <source>Chunk header not successfully overwritten</source>
-      <translation>سرصفحه تکه با موفقیت بازنویسی نشد</translation>
+      <translation>سرتیتر مجموعه داده با موفقیت بازنویسی نشد</translation>
     </message>
   </context>
   <context>
@@ -3901,7 +3901,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="47"/>
       <source>View bins info for an arena</source>
-      <translation>مشاهده اطلاعات سطل ها برای یک عرصه</translation>
+      <translation>مشاهده اطلاعات Bins برای عرصه</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="50"/>
@@ -3911,7 +3911,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="27"/>
       <source>Detailed Chunk Info</source>
-      <translation>اطلاعات مفصل اجزا</translation>
+      <translation>اطلاعات مفصل مجموعه داده</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="28"/>
@@ -4037,7 +4037,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="48"/>
       <source>Show preview when hovering (graph.preview)</source>
-      <translation>نشان دادن پیش‌نمایش هنگام معلق بودن (graph.preview)</translation>
+      <translation>نشان دادن پیش‌نمایش هنگام قراردادن نشانگر ماوس (graph.preview)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="57"/>
@@ -4145,7 +4145,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="8"/>
       <source>Detailed Chunk Info</source>
-      <translation>اطلاعات مفصل اجزا</translation>
+      <translation>اطلاعات مفصل مجموعه داده</translation>
     </message>
     <message>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="79"/>
