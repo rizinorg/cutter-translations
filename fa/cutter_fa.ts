@@ -6204,7 +6204,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="388"/>
       <source>A Qt and C++ GUI for rizin reverse engineering framework</source>
-      <translation>رابط کاربری گرافیکی Qt و C++ برای چارچوب مهندسی معکوس rizin</translation>
+      <translation>رابط کاربری گرافیکی Qt و ++C برای چارچوب مهندسی معکوس rizin</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="391"/>
@@ -6214,7 +6214,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="395"/>
       <source>Automatically open file and optionally start analysis. Needs filename to be specified. May be a value between 0 and 2: 0 = no analysis, 1 = aaa, 2 = aaaa (experimental)</source>
-      <translation>باز کردن خودکار فایل و شروع تجزیه و تحلیل به صورت اختیاری. باید نام فایل مشخص شود. ممکن است مقداری بین 0 و 2 باشد: 0 = بدون تجزیه و تحلیل، 1 = aaaa = 2 ،aaa (تجربی)</translation>
+      <translation>باز کردن خودکار فایل و شروع آنالیز به صورت اختیاری. باید نام فایل مشخص شود. ممکن است مقداری بین 0 و 2 باشد: 0 = بدون آنالیز، 1 = aaaa = 2 ،aaa (تجربی)</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="398"/>
