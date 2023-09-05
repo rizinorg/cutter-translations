@@ -6,7 +6,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="14"/>
       <source>About Cutter</source>
-      <translation>درباره ی کاتر Cutter</translation>
+      <translation>درباره Cutter</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="54"/>
@@ -1058,22 +1058,22 @@
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="175"/>
       <source>Pointer to last chunk of the bin</source>
-      <translation>به آخرین تکه سطل اشاره کنید</translation>
+      <translation>به آخرین تکه bin اشاره کنید</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="177"/>
       <source>Type of bin</source>
-      <translation>نوع سطل</translation>
+      <translation>نوع bin</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="179"/>
       <source>Number of chunks in the bin</source>
-      <translation>تعداد تکه ها در سطل</translation>
+      <translation>تعداد تکه ها در bin</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="181"/>
       <source>Size of all chunks in the bin</source>
-      <translation>اندازه همه تکه های داخل سطل</translation>
+      <translation>اندازه همه تکه های داخل bin</translation>
     </message>
   </context>
   <context>
@@ -1091,7 +1091,7 @@
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="101"/>
       <source>Offset</source>
-      <translation>آف‌ست</translation>
+      <translation>آفست</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="103"/>
@@ -1168,7 +1168,7 @@
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="91"/>
       <source>?v $.rax-0x6  # break when rax is 6</source>
-      <translation>?v $.rax-0x6  # زمانی که rax برابر ۶ است بریک break کن</translation>
+      <translation>?v $.rax-0x6  # زمانی که rax برابر 6 است break کن</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="99"/>
@@ -2012,7 +2012,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="459"/>
       <source>Do you really want to export %1 x %2 = %3 pixel bitmap image? Consider using different format.</source>
-      <translation>آیا واقعاً می‌خواهید t %1 x %2 = %3 تصویر بیت مپ پیکسل را صادر کنید؟ استفاده از فرمت های مختلف را در نظر بگیرید.</translation>
+      <translation>آیا واقعاً می‌خواهید export %1 x %2 = %3 تصویر بیت مپ پیکسل را صادر کنید؟ استفاده از فرمت های مختلف را در نظر بگیرید.</translation>
     </message>
   </context>
   <context>
@@ -2701,7 +2701,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="475"/>
       <source>Edit local variable %1</source>
-      <translation>تغییرنام متغیر محلی %1</translation>
+      <translation>ویرایش متغیر محلی %1</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="476"/>
@@ -2908,12 +2908,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="190"/>
       <source>Octal</source>
-      <translation>هشت هشتی</translation>
+      <translation>مبنای هشت</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="194"/>
       <source>Decimal</source>
-      <translation>دهدهی</translation>
+      <translation>دسیمال</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="198"/>
@@ -3204,7 +3204,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="73"/>
       <source>Calling convention</source>
-      <translation>قرارداد تماس گرفتن</translation>
+      <translation>قرارداد فراخوانی</translation>
     </message>
   </context>
   <context>
@@ -3395,7 +3395,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/FlagDialog.cpp" line="24"/>
       <source>Edit flag at %1</source>
-      <translation>تغییر پرچم در %1</translation>
+      <translation>ویرایش پرچم در %1</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.cpp" line="26"/>
@@ -3497,7 +3497,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="65"/>
       <source>Bin</source>
-      <translation>سطل زباله</translation>
+      <translation>Bin</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="67"/>
@@ -3530,7 +3530,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="134"/>
       <source>Offset: %1</source>
-      <translation>آف‌ست: %1</translation>
+      <translation>آفست: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="136"/>
@@ -3557,22 +3557,22 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="141"/>
       <source>Nargs: %1</source>
-      <translation>تعداد آرگومان‌ها: %1</translation>
+      <translation>Nargs: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="143"/>
       <source>Nbbs: %1</source>
-      <translation>تعداد bbs: %1</translation>
+      <translation>Nbbs: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="145"/>
       <source>Nlocals: %1</source>
-      <translation>تعداد متغیر های محلی: %1</translation>
+      <translation>Nlocals: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="147"/>
       <source>Call type: %1</source>
-      <translation>نوع صدازنی: %1</translation>
+      <translation>نوع فراخوانی: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="149"/>
@@ -3582,12 +3582,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="151"/>
       <source>StackFrame: %1</source>
-      <translation>قاب استک: %1</translation>
+      <translation>StackFrame: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="153"/>
       <source>Comment: %1</source>
-      <translation>نظرات: %1</translation>
+      <translation>نظر: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="265"/>
@@ -3618,27 +3618,27 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="315"/>
       <source>Offset</source>
-      <translation>آف‌ست</translation>
+      <translation>آفست</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="317"/>
       <source>Nargs</source>
-      <translation>تعداد آرگومان‌ها</translation>
+      <translation>Nargs</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="319"/>
       <source>Nlocals</source>
-      <translation>تعداد متغیر های محلی</translation>
+      <translation>Nlocals</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="321"/>
       <source>Nbbs</source>
-      <translation>تعداد bbs</translation>
+      <translation>Nbbs</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="323"/>
       <source>Call type</source>
-      <translation>نوع صدازنی</translation>
+      <translation>نوع فراخوانی</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="325"/>
@@ -3648,12 +3648,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="327"/>
       <source>StackFrame</source>
-      <translation>قاب استک</translation>
+      <translation>StackFrame</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="329"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -3661,7 +3661,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../common/FunctionsTask.h" line="13"/>
       <source>Fetching Functions</source>
-      <translation>واکشی توابع</translation>
+      <translation>کشش توابع</translation>
     </message>
   </context>
   <context>
@@ -3717,17 +3717,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="41"/>
       <source>Detailed chunk info:</source>
-      <translation>اطلاعات مفصل اجزا:</translation>
+      <translation>اطلاعات مجموعه داده تفصیلی:</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="48"/>
       <source>Enter chunk base address and press enter</source>
-      <translation>نشانی اساسی اجزا را وارد نمایید و اینتر رو بزنید</translation>
+      <translation>آدرس اساسی مجموعه داده را وارد نمایید و اینتر رو بزنید</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="28"/>
       <source>Bins info for arena @ </source>
-      <translation>اطلاعات سطل برای عرصه @ </translation>
+      <translation>اطلاعات Bins برای عرصه @ </translation>
     </message>
   </context>
   <context>
@@ -3745,7 +3745,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="29"/>
       <source>Base address of the chunk</source>
-      <translation>آدرس پایه اجزا</translation>
+      <translation>آدرس پایه مجموعه داده</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="39"/>
@@ -3755,7 +3755,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="46"/>
       <source>Size of the heap chunk including metadata</source>
-      <translation>اندازه تکه توده شامل ابرداده</translation>
+      <translation>اندازه توده مجموعه داده شامل ابرداده</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="56"/>
@@ -3765,7 +3765,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="63"/>
       <source>Link to next free chunk in bin&apos;s linked list</source>
-      <translation>لینک به بخش رایگان بعدی در &apos;لیست پیوندی bin</translation>
+      <translation>لینک به مجموعه داده رایگان بعدی در &apos;لیست لینک شده bin</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="73"/>
@@ -3775,12 +3775,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="80"/>
       <source>Link to previous free chunk in bin&apos;s linked list</source>
-      <translation>پیوند به بخش رایگان قبلی در لیست &apos;پیوندی bin</translation>
+      <translation>پیوند به مجموعه داده رایگان قبلی در لیست &apos;لینک شده bin</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="90"/>
       <source>Link to next larger free chunk (only for large chunks)</source>
-      <translation>لینک به بخش رایگان بعدی بزرگتر (فقط برای بخش های بزرگ)</translation>
+      <translation>لینک به مجموعه داده رایگان بزرگتر بعدی (فقط برای مجموعه داده های بزرگ)</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="100"/>
@@ -3795,12 +3795,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="114"/>
       <source>Link to next smaller free chunk (for large chunks)</source>
-      <translation>لینک به بخش رایگان بعدی کوچکتر (فقط برای بخش های بزرگ)</translation>
+      <translation>لینک به بخش رایگان کوچکتر بعدی(فقط برای بخش های بزرگ)</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="124"/>
       <source>Size of previous chunk (if free)</source>
-      <translation>اندازه بخش قبلی (اگر رایگان است)</translation>
+      <translation>اندازه مجموعه داده قبلی (اگر رایگان است)</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="134"/>
@@ -3810,7 +3810,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="145"/>
       <source>If the chunk was obtained from a non-main arena</source>
-      <translation>اگر این بخش از یک عرصه غیر اصلی به دست آمده باشد</translation>
+      <translation>اگر این مجموعه داده از یک عرصه غیر اصلی به دست آمده باشد</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="148"/>
@@ -3820,7 +3820,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="161"/>
       <source>The chunk was obtained with mmap()</source>
-      <translation>تکه با mmap() به دست آمد</translation>
+      <translation>مجموعه داده با mmap() به دست آمد</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="164"/>
@@ -3830,7 +3830,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="177"/>
       <source>Previous adjacent chunk is in use</source>
-      <translation>تکه مجاور قبلی در حال استفاده است</translation>
+      <translation>مجموعه داده مجاور قبلی در حال استفاده است</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="180"/>
@@ -3845,27 +3845,27 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="12"/>
       <source>Chunk @ </source>
-      <translation>تکه @ </translation>
+      <translation>مجموعه داده @ </translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="100"/>
       <source>Chunk saved</source>
-      <translation>تکه ذخیره شده</translation>
+      <translation>مجموعه داده ذخیره شده</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="101"/>
       <source>Chunk header successfully overwritten</source>
-      <translation>سرصفحه تکه با موفقیت بازنویسی شد</translation>
+      <translation>سرتیتر مجموعه داده با موفقیت بازنویسی نشد</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="103"/>
       <source>Chunk not saved</source>
-      <translation>تکه ذخیره نشد</translation>
+      <translation>مجموعه داده ذخیره نشد</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="104"/>
       <source>Chunk header not successfully overwritten</source>
-      <translation>سرصفحه تکه با موفقیت بازنویسی نشد</translation>
+      <translation>سرتیتر مجموعه داده با موفقیت بازنویسی نشد</translation>
     </message>
   </context>
   <context>
@@ -3901,22 +3901,22 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="47"/>
       <source>View bins info for an arena</source>
-      <translation>مشاهده اطلاعات سطل ها برای یک عرصه</translation>
+      <translation>مشاهده اطلاعات Bins برای عرصه</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="50"/>
       <source>Bins</source>
-      <translation>سطل</translation>
+      <translation>Bins</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="27"/>
       <source>Detailed Chunk Info</source>
-      <translation>اطلاعات مفصل اجزا</translation>
+      <translation>اطلاعات مفصل مجموعه داده</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="28"/>
       <source>Bins Info</source>
-      <translation>اطلاعات سطل</translation>
+      <translation>اطلاعات Bins</translation>
     </message>
   </context>
   <context>
@@ -4037,7 +4037,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="48"/>
       <source>Show preview when hovering (graph.preview)</source>
-      <translation>نشان دادن پیش‌نمایش هنگام معلق بودن (graph.preview)</translation>
+      <translation>نشان دادن پیش‌نمایش هنگام قراردادن نشانگر ماوس (graph.preview)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="57"/>
@@ -4129,7 +4129,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="61"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -4145,13 +4145,13 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="8"/>
       <source>Detailed Chunk Info</source>
-      <translation>اطلاعات مفصل اجزا</translation>
+      <translation>اطلاعات مفصل مجموعه داده</translation>
     </message>
     <message>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="79"/>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="121"/>
       <source>bin </source>
-      <translation>سطل </translation>
+      <translation>bin </translation>
     </message>
     <message>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="121"/>
@@ -4182,12 +4182,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="72"/>
       <source>Decimal</source>
-      <translation>اعشار</translation>
+      <translation>دسیمال</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="73"/>
       <source>Signed decimal</source>
-      <translation>عدد اعشاری امضا شده</translation>
+      <translation>دسیمال امضا شده</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="74"/>
@@ -4307,7 +4307,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1160"/>
       <source>Edit Comment</source>
-      <translation>ویرایش توضیح</translation>
+      <translation>ویرایش نظر</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1168"/>
@@ -4532,12 +4532,12 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="149"/>
       <source>C dwords (8 byte)</source>
-      <translation>dword های زبان سی (۸ بایت)</translation>
+      <translation>C dwords (8 byte)</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="150"/>
       <source>Python</source>
-      <translation>پایتون</translation>
+      <translation>Python</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="151"/>
@@ -4547,7 +4547,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="152"/>
       <source>JavaScript</source>
-      <translation>جاوااسکریپت</translation>
+      <translation>JavaScript</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="153"/>
@@ -4716,7 +4716,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="528"/>
       <source>Do not load bin information (-n)</source>
-      <translation>اطلاعات باینری را بارگذاری نکن (-n)</translation>
+      <translation>اطلاعات bin را بارگذاری نکن (n-)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="541"/>
@@ -4726,7 +4726,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="551"/>
       <source>Import demangled symbols</source>
-      <translation>نماد های درهم ریخه نشده را وارد کن</translation>
+      <translation>وارد کردن نمادهای جداشده</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="568"/>
@@ -4801,7 +4801,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="876"/>
       <source>Load bin offset (-B)</source>
-      <translation>آف‌ست باینری را بارگذاری کن (-B)</translation>
+      <translation>آف‌ست bin را بارگذاری کن (B-)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="895"/>
@@ -4811,7 +4811,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="914"/>
       <source>Map offset (-m)</source>
-      <translation>آف‌ست را نگاشت کن (-m)</translation>
+      <translation>آف‌ست را ترسیم کن (m-)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="930"/>
@@ -4867,17 +4867,17 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="58"/>
       <source>Analyze function calls</source>
-      <translation>فراخوانی تابع را تجزیه و تحلیل کنید</translation>
+      <translation>فراخوانی تابع آنالیز</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="59"/>
       <source>Analyze all basic blocks</source>
-      <translation>تمام بلوک های اساسی را تجزیه و تحلیل کنید</translation>
+      <translation>آنالیز تمام بلوک های پایه</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="60"/>
       <source>Analyze all objc references</source>
-      <translation>همه مراجع objc را تجزیه و تحلیل کنید</translation>
+      <translation>آنالیز همه مراجع objc</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="61"/>
@@ -4892,17 +4892,17 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="63"/>
       <source>Emulate code to find computed references</source>
-      <translation>برای یافتن مراجع محاسبه شده کد را شبیه سازی کنید</translation>
+      <translation>شبیه سازی کد برای یافتن مراجع محاسبه شده</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="64"/>
       <source>Analyze all consecutive functions</source>
-      <translation>تمام توابع متوالی را آنالیز کنید</translation>
+      <translation>آنالیز تمام توابع متوالی</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="65"/>
       <source>Type and Argument matching analysis</source>
-      <translation>تحلیل تطبیق نوع و آرگیومنت</translation>
+      <translation>تحلیل تطبیق نوع و آرگومنت</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="66"/>
@@ -4927,7 +4927,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="72"/>
       <source>Continue analysis after each function</source>
-      <translation>تجزیه و تحلیل را بعد از هر تابع ادامه دهید</translation>
+      <translation>ادامه آنالیزها بعد از هر تابع</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="393"/>
@@ -5193,7 +5193,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="286"/>
       <source>Map File</source>
-      <translation>فایل نقشه</translation>
+      <translation>فایل ترسیم</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="289"/>
@@ -5279,7 +5279,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="381"/>
       <source>Toggle panel locks</source>
-      <translation>قفل پنل ها را تغییر دهید</translation>
+      <translation>تغییر قفل پنل ها</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="400"/>
@@ -5290,7 +5290,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="415"/>
       <location filename="../core/MainWindow.ui" line="418"/>
       <source>Tabs up/down</source>
-      <translation>بالا/پایین کردن تب ها Tabs</translation>
+      <translation>بالا/پایین کردن تب ها</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="427"/>
@@ -5359,13 +5359,13 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="497"/>
       <location filename="../core/MainWindow.ui" line="500"/>
       <source>Insert string</source>
-      <translation>رشته را وارد کنید</translation>
+      <translation>وارد کردن رشته</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="505"/>
       <location filename="../core/MainWindow.ui" line="508"/>
       <source>Insert hex</source>
-      <translation>هگز را وارد کنید</translation>
+      <translation>وارد کردن هگز</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="523"/>
@@ -5591,7 +5591,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="796"/>
       <source>Grouped dock dragging</source>
-      <translation>کشیدن اسکله گروهی</translation>
+      <translation>کشیدن dock گروهی</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="801"/>
@@ -5646,12 +5646,12 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="856"/>
       <source>Enable cache mode. Changes to the file would not be applied to disk unless you specifically commit them. This is a safer option.</source>
-      <translation>حالت کش را فعال کنید. تغییرات در فایل روی دیسک اعمال نمی شود مگر اینکه به طور خاص آنها را انجام دهید. این گزینه مطمئن تری است.</translation>
+      <translation>حالت کش cache را فعال کنید. تغییرات در فایل روی دیسک اعمال نمی شود مگر اینکه به طور خاص آنها را انجام دهید. این گزینه مطمئن تری است.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="867"/>
       <source>Read-Only mode</source>
-      <translation>حالت فقط-نوشتن</translation>
+      <translation>حالت فقط-خواندنی</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="877"/>
@@ -5823,17 +5823,17 @@ Save your project before closing!</source>
     </message>
     <message>
       <source>Map new file file</source>
-      <translation>نقشه فایل جدید</translation>
+      <translation>ترسیم فایل جدید</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
       <source>Failed to map a new file</source>
-      <translation>نقشه فایل جدید ناموفق بود</translation>
+      <translation>ترسیم فایل جدید ناموفق بود</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
       <source>Map new file</source>
-      <translation>نقشه فایل جدید</translation>
+      <translation>ترسیم فایل جدید</translation>
     </message>
   </context>
   <context>
@@ -5861,7 +5861,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="66"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -5869,7 +5869,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="123"/>
       <source>Memory Map</source>
-      <translation>نگاشت حافظه</translation>
+      <translation>ترسیم حافظه</translation>
     </message>
   </context>
   <context>
@@ -5996,7 +5996,7 @@ Save your project before closing!</source>
     </message>
     <message>
       <source>Open a file with no extra treatment.</source>
-      <translation>یک فایل را بدون پردازش اضافی باز کنید.</translation>
+      <translation>یک فایل را بدون اصلاح اضافی باز کنید.</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="323"/>
@@ -6188,7 +6188,7 @@ WARNING: In Write mode, any changes will be committed to the file on disk. For s
       <location filename="../common/IOModesController.cpp" line="95"/>
       <source>It seems that you have changes or patches that are not committed to the file.
 Do you want to commit them now?</source>
-      <translation>به نظر می رسد که شما تغییرات یا وصله هایی دارید که به فایل متعهد نیستند.
+      <translation>به نظر می رسد که شما تغییرات یا پچ هایی patches دارید که به فایل متعهد نیستند.
 آیا اکنون می خواهید آنها را متعهد کنید؟</translation>
     </message>
     <message>
@@ -6204,7 +6204,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="388"/>
       <source>A Qt and C++ GUI for rizin reverse engineering framework</source>
-      <translation>رابط کاربری گرافیکی Qt و C++ برای چارچوب مهندسی معکوس rizin</translation>
+      <translation>رابط کاربری گرافیکی Qt و ++C برای چارچوب مهندسی معکوس rizin</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="391"/>
@@ -6214,7 +6214,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="395"/>
       <source>Automatically open file and optionally start analysis. Needs filename to be specified. May be a value between 0 and 2: 0 = no analysis, 1 = aaa, 2 = aaaa (experimental)</source>
-      <translation>باز کردن خودکار فایل و شروع تجزیه و تحلیل به صورت اختیاری. باید نام فایل مشخص شود. ممکن است مقداری بین 0 و 2 باشد: 0 = بدون تجزیه و تحلیل، 1 = aaaa = 2 ،aaa (تجربی)</translation>
+      <translation>باز کردن خودکار فایل و شروع آنالیز به صورت اختیاری. باید نام فایل مشخص شود. ممکن است مقداری بین 0 و 2 باشد: 0 = بدون آنالیز، 1 = aaaa = 2 ،aaa (تجربی)</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="398"/>
@@ -6229,12 +6229,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="402"/>
       <source>arch</source>
-      <translation>معماری</translation>
+      <translation>قوس</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="405"/>
       <source>Sets a specific architecture bits</source>
-      <translation>یک بیت خاص را تنظیم می کند</translation>
+      <translation>یک بیت معماری خاص را تنظیم می کند</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="406"/>
@@ -6264,7 +6264,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="418"/>
       <source>Sets the endianness (big or little)</source>
-      <translation>Endianness را تنظیم می کند (بزرگ یا کم)</translation>
+      <translation>Endianness را تنظیم می کند (بزرگ یا کوچک)</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="419"/>
@@ -6379,7 +6379,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="397"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="398"/>
@@ -6639,7 +6639,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="449"/>
       <source>Color of move instructions such as mov, movd, lea etc</source>
-      <translation>رنگ دستورالعمل های move مانند mov، movd، lea و غیره</translation>
+      <translation>رنگ دستورالعمل های حرکت مانند mov، movd، lea و غیره</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="450"/>
@@ -6649,12 +6649,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="451"/>
       <source>Function variable color</source>
-      <translation>تابع رنگ متغیر</translation>
+      <translation>رنگ متغیر تابع</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="451"/>
       <source>Function variable</source>
-      <translation>تابع متغیر</translation>
+      <translation>متغیر تابع</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="453"/>
@@ -6674,7 +6674,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="456"/>
       <source>Variable address</source>
-      <translation>آدرس متغییر</translation>
+      <translation>آدرس متغیر</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="468"/>
@@ -6684,7 +6684,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="468"/>
       <source>Arrow true</source>
-      <translation>پیکان true</translation>
+      <translation>فلش true</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="470"/>
@@ -6699,7 +6699,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="472"/>
       <source>In graph view jump arrow (no condition)</source>
-      <translation>فلش پرش در نمای نمودار (بدون شرط)</translation>
+      <translation>فلش پرش نمای نمودار (بدون شرط)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="472"/>
@@ -6719,7 +6719,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="479"/>
       <source>Fill color of Graph Overview&apos;s selection</source>
-      <translation>رنگ انتخاب نمای کلی&apos; نمودار را پر کنید</translation>
+      <translation>پر کردن رنگ انتخابی نمای کلی&apos; نمودار</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="480"/>
@@ -6839,7 +6839,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="512"/>
       <source>Breakpoint background</source>
-      <translation>پس زمینه نقطه شکست</translation>
+      <translation>پس زمینه نقطه توقف</translation>
     </message>
   </context>
   <context>
@@ -6865,7 +6865,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="500"/>
       <source>Raw</source>
-      <translation>خام</translation>
+      <translation>Raw</translation>
     </message>
   </context>
   <context>
@@ -6888,7 +6888,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="73"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -6924,7 +6924,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RelocsWidget.cpp" line="60"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -7019,7 +7019,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="88"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -7137,7 +7137,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="71"/>
       <source>RzIO plugins</source>
-      <translation>پلاگین RzIO</translation>
+      <translation>پلاگین های RzIO</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="97"/>
@@ -7152,7 +7152,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="112"/>
       <source>RzCore plugins</source>
-      <translation>پلاگین RzCore</translation>
+      <translation>پلاگین های RzCore</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="142"/>
@@ -7296,7 +7296,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="123"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -7403,7 +7403,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="107"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -7444,7 +7444,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="91"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -7515,7 +7515,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="224"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -7576,7 +7576,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="79"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -7630,7 +7630,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SymbolsWidget.cpp" line="64"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -8005,7 +8005,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="303"/>
       <source>Comment</source>
-      <translation>نظرات</translation>
+      <translation>نظر</translation>
     </message>
   </context>
   <context>
@@ -8028,13 +8028,13 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="163"/>
       <source>Reads from %1</source>
-      <translation>به %1 می خواند</translation>
+      <translation>از %1 می خواند</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="174"/>
       <location filename="../dialogs/XrefsDialog.cpp" line="193"/>
       <source>X-Refs for %1</source>
-      <translation>X رجوع می کند برای %1</translation>
+      <translation>X برای %1 رجوع می کند</translation>
     </message>
   </context>
 </TS>
