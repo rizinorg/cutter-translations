@@ -880,7 +880,7 @@
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="100"/>
       <source>End Address:</source>
-      <translation>끝 주소:</translation>
+      <translation>마지막 주소:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="117"/>
@@ -962,7 +962,7 @@
     <message>
       <location filename="../core/Basefind.cpp" line="41"/>
       <source>Start address is &gt;= end address</source>
-      <translation>시작 주소가 &gt;= 끝 주소와 동일합니다.</translation>
+      <translation>시작 주소가 &gt;= 마지막 주소와 동일합니다.</translation>
     </message>
     <message>
       <location filename="../core/Basefind.cpp" line="44"/>
@@ -1771,7 +1771,7 @@
     <message>
       <location filename="../core/Cutter.cpp" line="1058"/>
       <source>Cannot apply signature file because the requested arch is not supported by .sig files</source>
-      <translation>요청된 아카이브가 .sig 파일에서 지원되지 않으므로 서명 파일을 적용할 수 없습니다.</translation>
+      <translation>요청된 Arch가 .sig 파일에서 지원되지 않으므로 서명 파일을 적용할 수 없습니다.</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1067"/>
@@ -2623,12 +2623,12 @@ Please check the console for more details.</source>
       <location filename="../menus/DecompilerContextMenu.cpp" line="232"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="237"/>
       <source>Copy address of %1 (%2)</source>
-      <translation type="unfinished">Copy address of %1 (%2)</translation>
+      <translation>%1 주소 복사(%2)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="241"/>
       <source>Copy address (%1)</source>
-      <translation type="unfinished">Copy address (%1)</translation>
+      <translation>주소 복사(%1)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="257"/>
@@ -2653,24 +2653,24 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="413"/>
       <source>Define this function at %2</source>
-      <translation type="unfinished">Define this function at %2</translation>
+      <translation>%2에서 이 함수 정의</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="414"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="421"/>
       <source>Function name:</source>
-      <translation type="unfinished">Function name:</translation>
+      <translation>함수 이름:</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="420"/>
       <source>Rename function %2</source>
-      <translation type="unfinished">Rename function %2</translation>
+      <translation>%2 함수 이름 변경</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="431"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="455"/>
       <source>Rename %2</source>
-      <translation type="unfinished">Rename %2</translation>
+      <translation>%2 이름 변경</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="431"/>
@@ -2682,12 +2682,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="438"/>
       <source>Add name to %2</source>
-      <translation type="unfinished">Add name to %2</translation>
+      <translation>%2에 이름 추가</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="449"/>
       <source>Rename local variable %1</source>
-      <translation type="unfinished">Rename local variable %1</translation>
+      <translation>%1 로컬 변수 이름 변경</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="450"/>
@@ -2697,7 +2697,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="475"/>
       <source>Edit local variable %1</source>
-      <translation type="unfinished">Edit local variable %1</translation>
+      <translation>%1 로컬 변수 편집</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="476"/>
@@ -2707,7 +2707,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="542"/>
       <source>Breakpoint</source>
-      <translation type="unfinished">Breakpoint</translation>
+      <translation>중단점</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="552"/>
@@ -2718,12 +2718,12 @@ Please check the console for more details.</source>
       <location filename="../menus/DecompilerContextMenu.cpp" line="582"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="584"/>
       <source>Show %1 in</source>
-      <translation type="unfinished">Show %1 in</translation>
+      <translation>다음으로 %1 보기</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="589"/>
       <source>%1 (%2)</source>
-      <translation type="unfinished">%1 (%2)</translation>
+      <translation>%1(%2)</translation>
     </message>
   </context>
   <context>
@@ -2747,7 +2747,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="32"/>
       <source>Choose an offset and refresh to get decompiled code</source>
-      <translation type="unfinished">Choose an offset and refresh to get decompiled code</translation>
+      <translation>오프셋을 선택하고 새로 고침하여 디컴파일된 코드를 가져옵니다.</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="68"/>
@@ -2757,7 +2757,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="285"/>
       <source>No function found at this offset. Seek to a function or define one in order to decompile it.</source>
-      <translation type="unfinished">No function found at this offset. Seek to a function or define one in order to decompile it.</translation>
+      <translation>이 오프셋에서 함수를 찾을 수 없습니다. 함수를 찾거나 함수를 정의하여 디컴파일하세요.</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="325"/>
@@ -2770,22 +2770,22 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="98"/>
       <source>Highlight block</source>
-      <translation type="unfinished">Highlight block</translation>
+      <translation>블록 강조 표시</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="116"/>
       <source>Unhighlight block</source>
-      <translation type="unfinished">Unhighlight block</translation>
+      <translation>블록 강조 표시 해제</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="126"/>
       <source>Highlight instruction</source>
-      <translation type="unfinished">Highlight instruction</translation>
+      <translation>명령어 강조 표시</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="130"/>
       <source>Unhighlight instruction</source>
-      <translation type="unfinished">Unhighlight instruction</translation>
+      <translation>명령어 강조 표시 해제</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="196"/>
@@ -2824,18 +2824,18 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="171"/>
       <source>Add at...</source>
-      <translation type="unfinished">Add at...</translation>
+      <translation>다음에 추가...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="173"/>
       <source>Rename or add flag</source>
-      <translation type="unfinished">Rename or add flag</translation>
+      <translation>플래그 이름 변경 또는 추가</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="88"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="911"/>
       <source>Re-type Local Variables</source>
-      <translation type="unfinished">Re-type Local Variables</translation>
+      <translation>로컬 변수 재입력</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="92"/>
@@ -2875,7 +2875,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="131"/>
       <source>X-Refs for local variables</source>
-      <translation type="unfinished">X-Refs for local variables</translation>
+      <translation>로컬 변수에 대한 X-Ref</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="135"/>
@@ -2884,17 +2884,17 @@ Please check the console for more details.</source>
     </message>
     <message>
       <source>Set Immediate Base to...</source>
-      <translation type="unfinished">Set Immediate Base to...</translation>
+      <translation>즉각적인 명령어 기준을 다음으로 설정...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="177"/>
       <source>Modify or add global variable</source>
-      <translation type="unfinished">Modify or add global variable</translation>
+      <translation>전역 변수 수정 또는 추가</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="184"/>
       <source>Set base of immediate value to..</source>
-      <translation type="unfinished">Set base of immediate value to..</translation>
+      <translation>즉각적인 명령어 값에 대한 기준을 다음으로 설정합니다...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="186"/>
@@ -2939,7 +2939,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="221"/>
       <source>Set current bits to...</source>
-      <translation type="unfinished">Set current bits to...</translation>
+      <translation>현재 비트를 다음으로 설정합니다...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="238"/>
@@ -2969,7 +2969,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="250"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>고급</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="262"/>
@@ -3019,12 +3019,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="304"/>
       <source>Reverse Jump</source>
-      <translation type="unfinished">Reverse Jump</translation>
+      <translation>리버스 점프</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="310"/>
       <source>Breakpoint</source>
-      <translation type="unfinished">Breakpoint</translation>
+      <translation>중단점</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="312"/>
@@ -3050,7 +3050,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="424"/>
       <source>Add flag at %1 (used here)</source>
-      <translation type="unfinished">Add flag at %1 (used here)</translation>
+      <translation> %1에서 플래그(여기에 사용됨) 추가</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="429"/>
@@ -3060,17 +3060,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="434"/>
       <source>Rename local &quot;%1&quot;</source>
-      <translation type="unfinished">Rename local &quot;%1&quot;</translation>
+      <translation>로컬 &quot;%1&quot; 이름 변경</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="439"/>
       <source>Rename flag &quot;%1&quot; (used here)</source>
-      <translation type="unfinished">Rename flag &quot;%1&quot; (used here)</translation>
+      <translation>플래그 &quot;%1&quot;(여기에 사용됨) 이름 변경</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="497"/>
       <source>Add or change global variable at %1 (used here)</source>
-      <translation type="unfinished">Add or change global variable at %1 (used here)</translation>
+      <translation>%1에서 전역 변수(여기에 사용됨) 추가 또는 변경</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="573"/>
@@ -3080,7 +3080,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="589"/>
       <source>Edit function &quot;%1&quot;</source>
-      <translation type="unfinished">Edit function &quot;%1&quot;</translation>
+      <translation>함수 &quot;%1&quot; 편집</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="606"/>
@@ -3100,38 +3100,38 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="622"/>
       <source>X-Refs for %1</source>
-      <translation type="unfinished">X-Refs for %1</translation>
+      <translation>%1에 대한 X-Ref</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="722"/>
       <source>Edit Instruction at %1</source>
-      <translation type="unfinished">Edit Instruction at %1</translation>
+      <translation>%1에서 명령어 편집</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="772"/>
       <source>Edit Bytes at %1</source>
-      <translation type="unfinished">Edit Bytes at %1</translation>
+      <translation>%1에서 바이트 편집</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="843"/>
       <source>New function at %1</source>
-      <translation type="unfinished">New function at %1</translation>
+      <translation>%1의 새로운 함수</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="844"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="865"/>
       <source>Function name:</source>
-      <translation type="unfinished">Function name:</translation>
+      <translation>함수 이름:</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="864"/>
       <source>Rename function %2</source>
-      <translation type="unfinished">Rename function %2</translation>
+      <translation>%2 함수 이름 변경</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="912"/>
       <source>You must be in a function to define variable types.</source>
-      <translation type="unfinished">You must be in a function to define variable types.</translation>
+      <translation>변수 유형을 정의하려면 함수 내에 있어야 합니다.</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="974"/>
@@ -3141,12 +3141,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="975"/>
       <source>Can&apos;t edit string at this address</source>
-      <translation type="unfinished">Can&apos;t edit string at this address</translation>
+      <translation>이 주소에서 문자열을 편집할 수 없습니다.</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="1047"/>
       <source>Edit function %1</source>
-      <translation type="unfinished">Edit function %1</translation>
+      <translation>함수 %1 편집</translation>
     </message>
   </context>
   <context>
@@ -3162,17 +3162,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/DuplicateFromOffsetDialog.ui" line="20"/>
       <source>Duplicate from offset</source>
-      <translation type="unfinished">Duplicate from offset</translation>
+      <translation>오프셋에서 복제</translation>
     </message>
     <message>
       <location filename="../dialogs/DuplicateFromOffsetDialog.ui" line="28"/>
       <source>Offset:</source>
-      <translation type="unfinished">Offset:</translation>
+      <translation>오프셋:</translation>
     </message>
     <message>
       <location filename="../dialogs/DuplicateFromOffsetDialog.ui" line="49"/>
       <source>N bytes:</source>
-      <translation type="unfinished">N bytes:</translation>
+      <translation>N 바이트:</translation>
     </message>
   </context>
   <context>
@@ -3218,7 +3218,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/EditInstructionDialog.ui" line="100"/>
       <source>Fill all remaining bytes with NOP opcodes</source>
-      <translation type="unfinished">Fill all remaining bytes with NOP opcodes</translation>
+      <translation>나머지 바이트는 모두 NOP 연산 코드로 채웁니다.</translation>
     </message>
   </context>
   <context>
@@ -3231,17 +3231,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="32"/>
       <source>Unique Identifier (name):</source>
-      <translation type="unfinished">Unique Identifier (name):</translation>
+      <translation>고유 식별자(이름):</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="44"/>
       <source>Auto-Rename</source>
-      <translation type="unfinished">Auto-Rename</translation>
+      <translation>자동 이름 변경</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="56"/>
       <source>Display Name (realname):</source>
-      <translation type="unfinished">Display Name (realname):</translation>
+      <translation>이름(실명) 표시:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="66"/>
@@ -3498,7 +3498,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="67"/>
       <source>Arch</source>
-      <translation>아카이브</translation>
+      <translation>Arch</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="69"/>
@@ -4079,22 +4079,22 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="200"/>
       <source>Bitmap Export Options</source>
-      <translation type="unfinished">Bitmap Export Options</translation>
+      <translation>비트맵 내보내기 옵션</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="209"/>
       <source>Export Transparent Bitmap Graphs</source>
-      <translation type="unfinished">Export Transparent Bitmap Graphs</translation>
+      <translation>투명 비트맵 그래프 내보내기</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="218"/>
       <source>Graph Bitmap Export Scale: </source>
-      <translation type="unfinished">Graph Bitmap Export Scale: </translation>
+      <translation>그래프 비트맵 내보내기 스케일: </translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="225"/>
       <source>%</source>
-      <translation type="unfinished">%</translation>
+      <translation>%</translation>
     </message>
   </context>
   <context>
@@ -4102,7 +4102,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/GraphView.cpp" line="441"/>
       <source>Cutter graph export</source>
-      <translation type="unfinished">Cutter graph export</translation>
+      <translation>Cutter 그래프 내보내기</translation>
     </message>
   </context>
   <context>
@@ -4133,7 +4133,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="120"/>
       <source>Headers</source>
-      <translation type="unfinished">Headers</translation>
+      <translation>헤더</translation>
     </message>
   </context>
   <context>
@@ -4141,18 +4141,18 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="8"/>
       <source>Detailed Chunk Info</source>
-      <translation type="unfinished">Detailed Chunk Info</translation>
+      <translation>세부 청크 정보</translation>
     </message>
     <message>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="79"/>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="121"/>
       <source>bin </source>
-      <translation type="unfinished">bin </translation>
+      <translation>빈 </translation>
     </message>
     <message>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="121"/>
       <source> @ </source>
-      <translation type="unfinished"> @ </translation>
+      <translation> @ </translation>
     </message>
   </context>
   <context>
@@ -4160,7 +4160,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HeapDockWidget.ui" line="14"/>
       <source>Heap</source>
-      <translation type="unfinished">Heap</translation>
+      <translation>힙</translation>
     </message>
   </context>
   <context>
@@ -4183,22 +4183,22 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="73"/>
       <source>Signed decimal</source>
-      <translation type="unfinished">Signed decimal</translation>
+      <translation>부호 있는 소수점</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="74"/>
       <source>Float</source>
-      <translation type="unfinished">Float</translation>
+      <translation>부동 소수점</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="88"/>
       <source>Bytes per row</source>
-      <translation type="unfinished">Bytes per row</translation>
+      <translation>행당 바이트 수</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="98"/>
       <source>Power of 2</source>
-      <translation type="unfinished">Power of 2</translation>
+      <translation>2의 제곱</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="105"/>
@@ -4208,7 +4208,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="110"/>
       <source>Bytes as pairs</source>
-      <translation type="unfinished">Bytes as pairs</translation>
+      <translation>바이트 쌍</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="114"/>
@@ -4224,96 +4224,96 @@ Please check the console for more details.</source>
       <location filename="../widgets/HexWidget.cpp" line="127"/>
       <location filename="../widgets/HexWidget.cpp" line="1157"/>
       <source>Add Comment</source>
-      <translation type="unfinished">Add Comment</translation>
+      <translation>주석 추가</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="134"/>
       <source>Delete Comment</source>
-      <translation type="unfinished">Delete Comment</translation>
+      <translation>주석 삭제</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="140"/>
       <source>Select range</source>
-      <translation type="unfinished">Select range</translation>
+      <translation>범위 선택</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="147"/>
       <location filename="../widgets/HexWidget.cpp" line="1272"/>
       <source>Write string</source>
-      <translation type="unfinished">Write string</translation>
+      <translation>문자열 쓰기</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="151"/>
       <source>Write length and string</source>
-      <translation type="unfinished">Write length and string</translation>
+      <translation>길이 및 문자열 쓰기</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="155"/>
       <location filename="../widgets/HexWidget.cpp" line="1466"/>
       <source>Write wide string</source>
-      <translation type="unfinished">Write wide string</translation>
+      <translation>넓은 문자열 쓰기</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="159"/>
       <source>Write zero terminated string</source>
-      <translation type="unfinished">Write zero terminated string</translation>
+      <translation>제로 종결 문자열 쓰기</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="163"/>
       <source>Write a decoded or encoded Base64 string</source>
-      <translation type="unfinished">Write a decoded or encoded Base64 string</translation>
+      <translation>해독 또는 부호화 Base64 문자열 쓰기</translation>
     </message>
     <message>
       <source>Write De\Encoded Base64 string</source>
-      <translation type="unfinished">Write De\Encoded Base64 string</translation>
+      <translation>해독/부호화 Base64 문자열 쓰기</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="168"/>
       <location filename="../widgets/HexWidget.cpp" line="1318"/>
       <source>Write hex bytes</source>
-      <translation type="unfinished">Write hex bytes</translation>
+      <translation>16진수 바이트 쓰기</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="172"/>
       <location filename="../widgets/HexWidget.cpp" line="1354"/>
       <source>Write zeros</source>
-      <translation type="unfinished">Write zeros</translation>
+      <translation>제로 쓰기</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="176"/>
       <location filename="../widgets/HexWidget.cpp" line="1410"/>
       <source>Write random bytes</source>
-      <translation type="unfinished">Write random bytes</translation>
+      <translation>무작위 바이트 쓰기</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="180"/>
       <source>Duplicate from offset</source>
-      <translation type="unfinished">Duplicate from offset</translation>
+      <translation>오프셋에서 복제</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="184"/>
       <source>Increment/Decrement</source>
-      <translation type="unfinished">Increment/Decrement</translation>
+      <translation>증가/감소</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="188"/>
       <source>Edit with keyboard</source>
-      <translation type="unfinished">Edit with keyboard</translation>
+      <translation>키보드로 편집</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1160"/>
       <source>Edit Comment</source>
-      <translation type="unfinished">Edit Comment</translation>
+      <translation>주석 편집</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1168"/>
       <source>Item size:</source>
-      <translation type="unfinished">Item size:</translation>
+      <translation>항목 크기:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1170"/>
       <source>Item format:</source>
-      <translation type="unfinished">Item format:</translation>
+      <translation>항목 양식:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1175"/>
@@ -4326,48 +4326,48 @@ Please check the console for more details.</source>
       <location filename="../widgets/HexWidget.cpp" line="1466"/>
       <location filename="../widgets/HexWidget.cpp" line="1484"/>
       <source>String:</source>
-      <translation type="unfinished">String:</translation>
+      <translation>문자열:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1318"/>
       <source>Hex byte string:</source>
-      <translation type="unfinished">Hex byte string:</translation>
+      <translation>16바이트 문자열:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1354"/>
       <source>Number of zeros:</source>
-      <translation type="unfinished">Number of zeros:</translation>
+      <translation>제로 수:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1381"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>오류</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1382"/>
       <source>Error occured during decoding your input.
 Please, make sure, that it is a valid base64 string and try again.</source>
-      <translation type="unfinished">Error occured during decoding your input.
-Please, make sure, that it is a valid base64 string and try again.</translation>
+      <translation>입력을 해독하는 동안 오류가 발생했습니다.
+유효한 Base64 문자열인지 확인한 후 다시 시도하세요.</translation>
     </message>
     <message>
       <source>Write random</source>
-      <translation type="unfinished">Write random</translation>
+      <translation>무작위 쓰기</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1410"/>
       <source>Number of bytes:</source>
-      <translation type="unfinished">Number of bytes:</translation>
+      <translation>바이트 수:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1448"/>
       <source>Write Pascal string</source>
-      <translation type="unfinished">Write Pascal string</translation>
+      <translation>파스칼 문자열 쓰기</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1484"/>
       <source>Write zero-terminated string</source>
-      <translation type="unfinished">Write zero-terminated string</translation>
+      <translation>제로 종결 문자열 쓰기</translation>
     </message>
   </context>
   <context>
@@ -4375,13 +4375,13 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="14"/>
       <source>Select Block</source>
-      <translation type="unfinished">Select Block</translation>
+      <translation>블록 선택</translation>
     </message>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="47"/>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="79"/>
       <source>Exclusive end address</source>
-      <translation type="unfinished">Exclusive end address</translation>
+      <translation>독점적인 마지막 주소</translation>
     </message>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="50"/>
@@ -4401,7 +4401,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="115"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff8585;&quot;&gt;Big selection might cause a delay&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff8585;&quot;&gt;Big selection might cause a delay&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff8585;&quot;&gt;선택 항목이 많으면 지연이 발생할 수 있습니다.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
   </context>
   <context>
@@ -4409,22 +4409,22 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="70"/>
       <source>Parsing</source>
-      <translation type="unfinished">Parsing</translation>
+      <translation>파싱</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="120"/>
       <source>Endian</source>
-      <translation type="unfinished">Endian</translation>
+      <translation>엔디안</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="131"/>
       <source>Little</source>
-      <translation type="unfinished">Little</translation>
+      <translation>작은</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="136"/>
       <source>Big</source>
-      <translation type="unfinished">Big</translation>
+      <translation>큰</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="191"/>
