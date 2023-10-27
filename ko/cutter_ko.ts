@@ -4419,17 +4419,17 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="131"/>
       <source>Little</source>
-      <translation>작은</translation>
+      <translation>작음</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="136"/>
       <source>Big</source>
-      <translation>큰</translation>
+      <translation>큼</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="191"/>
       <source>Arch</source>
-      <translation type="unfinished">Arch</translation>
+      <translation>Arch</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="220"/>
@@ -4464,12 +4464,12 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="357"/>
       <source>Copy SHA256</source>
-      <translation type="unfinished">Copy SHA256</translation>
+      <translation>SHA256 복사</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="396"/>
       <source>Copy CRC32</source>
-      <translation type="unfinished">Copy CRC32</translation>
+      <translation>CRC32 복사</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="434"/>
@@ -4484,12 +4484,12 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="479"/>
       <source>CRC32:</source>
-      <translation type="unfinished">CRC32:</translation>
+      <translation>CRC32:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="50"/>
       <source>Select bytes to display information</source>
-      <translation type="unfinished">Select bytes to display information</translation>
+      <translation>정보를 표시하려면 바이트를 선택하십시오.</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="143"/>
@@ -4513,7 +4513,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     </message>
     <message>
       <source>C bytes with instructions</source>
-      <translation type="unfinished">C bytes with instructions</translation>
+      <translation>C 바이트(명령어 포함)</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="147"/>
@@ -4561,7 +4561,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="45"/>
       <source>Unsafe</source>
-      <translation type="unfinished">Unsafe</translation>
+      <translation>안전하지 않음</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="71"/>
@@ -4576,12 +4576,12 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="75"/>
       <source>Safety</source>
-      <translation type="unfinished">Safety</translation>
+      <translation>안전</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="77"/>
       <source>Library</source>
-      <translation type="unfinished">Library</translation>
+      <translation>라이브러리</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="79"/>
@@ -4607,47 +4607,47 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="14"/>
       <source>Increment/Decrement</source>
-      <translation type="unfinished">Increment/Decrement</translation>
+      <translation>증가/감소</translation>
     </message>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="24"/>
       <source>Interpret as</source>
-      <translation type="unfinished">Interpret as</translation>
+      <translation>다음과 같이 해석</translation>
     </message>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="38"/>
       <source>Value:</source>
-      <translation type="unfinished">Value:</translation>
+      <translation>값:</translation>
     </message>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="54"/>
       <source>Increment</source>
-      <translation type="unfinished">Increment</translation>
+      <translation>증가</translation>
     </message>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="64"/>
       <source>Decrement</source>
-      <translation type="unfinished">Decrement</translation>
+      <translation>감소</translation>
     </message>
     <message>
       <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
       <source>Byte</source>
-      <translation type="unfinished">Byte</translation>
+      <translation>바이트</translation>
     </message>
     <message>
       <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
       <source>Word</source>
-      <translation type="unfinished">Word</translation>
+      <translation>단어</translation>
     </message>
     <message>
       <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
       <source>Dword</source>
-      <translation type="unfinished">Dword</translation>
+      <translation>Dword</translation>
     </message>
     <message>
       <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
       <source>Qword</source>
-      <translation type="unfinished">Qword</translation>
+      <translation>Qword</translation>
     </message>
   </context>
   <context>
@@ -4676,7 +4676,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="224"/>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>없음</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="259"/>
@@ -4691,23 +4691,23 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     </message>
     <message>
       <source>Auto Exp</source>
-      <translation type="unfinished">Auto Exp</translation>
+      <translation>자동 확장</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="326"/>
       <source>Experimental</source>
-      <translation type="unfinished">Experimental</translation>
+      <translation>실험</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="364"/>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="399"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>고급</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="518"/>
       <source>Load in write mode (-w)</source>
-      <translation type="unfinished">Load in write mode (-w)</translation>
+      <translation>쓰기 모드에서 로드(-w)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="528"/>
@@ -4717,12 +4717,12 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="541"/>
       <source>Use virtual addressing</source>
-      <translation type="unfinished">Use virtual addressing</translation>
+      <translation>가상 주소 사용</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="551"/>
       <source>Import demangled symbols</source>
-      <translation type="unfinished">Import demangled symbols</translation>
+      <translation>디맹글 기호 가져오기</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="568"/>
@@ -4772,27 +4772,27 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="749"/>
       <source>Endianness: </source>
-      <translation type="unfinished">Endianness: </translation>
+      <translation>엔디안 단위: </translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="768"/>
       <source>Little</source>
-      <translation type="unfinished">Little</translation>
+      <translation>작음</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="773"/>
       <source>Big</source>
-      <translation type="unfinished">Big</translation>
+      <translation>큼</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="794"/>
       <source>Kernel: </source>
-      <translation type="unfinished">Kernel: </translation>
+      <translation>커널: </translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="822"/>
       <source>Format:</source>
-      <translation type="unfinished">Format:</translation>
+      <translation>형식:</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="876"/>
@@ -4838,7 +4838,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="1004"/>
       <source>Path to Rizin script file</source>
-      <translation type="unfinished">Path to Rizin script file</translation>
+      <translation>Rizin 스크립트 파일 경로</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="1067"/>
@@ -4848,107 +4848,107 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="1080"/>
       <source>  Ok  </source>
-      <translation type="unfinished">  Ok  </translation>
+      <translation>  확인  </translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="56"/>
       <source>Analyze all symbols</source>
-      <translation type="unfinished">Analyze all symbols</translation>
+      <translation>모든 기호 분석</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="57"/>
       <source>Analyze instructions for references</source>
-      <translation type="unfinished">Analyze instructions for references</translation>
+      <translation>참조용 명령어 분석</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="58"/>
       <source>Analyze function calls</source>
-      <translation type="unfinished">Analyze function calls</translation>
+      <translation>함수 호출 분석</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="59"/>
       <source>Analyze all basic blocks</source>
-      <translation type="unfinished">Analyze all basic blocks</translation>
+      <translation>모든 기본 블록 분석</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="60"/>
       <source>Analyze all objc references</source>
-      <translation type="unfinished">Analyze all objc references</translation>
+      <translation>모든 객체 참조 분석</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="61"/>
       <source>Recover class information from RTTI</source>
-      <translation type="unfinished">Recover class information from RTTI</translation>
+      <translation>RTTI에서 클래스 정보 복구</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="62"/>
       <source>Autoname functions based on context</source>
-      <translation type="unfinished">Autoname functions based on context</translation>
+      <translation>컨텍스트에 기반하여 함수 이름 자동 지정</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="63"/>
       <source>Emulate code to find computed references</source>
-      <translation type="unfinished">Emulate code to find computed references</translation>
+      <translation>계산된 참조 정보를 검색하려면 코드를 에뮬레이트하십시오.</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="64"/>
       <source>Analyze all consecutive functions</source>
-      <translation type="unfinished">Analyze all consecutive functions</translation>
+      <translation>모든 연속 함수 분석</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="65"/>
       <source>Type and Argument matching analysis</source>
-      <translation type="unfinished">Type and Argument matching analysis</translation>
+      <translation>유형 및 인수 일치 분석</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="66"/>
       <source>Analyze code after trap-sleds</source>
-      <translation type="unfinished">Analyze code after trap-sleds</translation>
+      <translation>트랩 슬레드 후 코드 분석</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="67"/>
       <source>Analyze function preludes</source>
-      <translation type="unfinished">Analyze function preludes</translation>
+      <translation>함수 프렐류드 분석</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="68"/>
       <source>Analyze jump tables in switch statements</source>
-      <translation type="unfinished">Analyze jump tables in switch statements</translation>
+      <translation>전환 스위치 문에서 점프 테이블 분석</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="71"/>
       <source>Analyze PUSH+RET as JMP</source>
-      <translation type="unfinished">Analyze PUSH+RET as JMP</translation>
+      <translation>PUSH+RET을 JMP로 분석</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="72"/>
       <source>Continue analysis after each function</source>
-      <translation type="unfinished">Continue analysis after each function</translation>
+      <translation>각 함수 후 분석 계속</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="393"/>
       <source>No analysis</source>
-      <translation type="unfinished">No analysis</translation>
+      <translation>분석 없음</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="395"/>
       <source>Auto-Analysis (aaa)</source>
-      <translation type="unfinished">Auto-Analysis (aaa)</translation>
+      <translation>자동 분석(aaa)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="397"/>
       <source>Auto-Analysis Experimental (aaaa)</source>
-      <translation type="unfinished">Auto-Analysis Experimental (aaaa)</translation>
+      <translation>자동 분석 실험(aaaa)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="401"/>
       <source>Unknown</source>
-      <translation type="unfinished">Unknown</translation>
+      <translation>알 수 없음</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="407"/>
       <source>Level</source>
-      <translation type="unfinished">Level</translation>
+      <translation>레벨</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="410"/>
@@ -4974,12 +4974,12 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="478"/>
       <source>Select Rizin script file</source>
-      <translation type="unfinished">Select Rizin script file</translation>
+      <translation>Rizin 스크립트 파일 선택</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="479"/>
       <source>Script file (*.rz)</source>
-      <translation type="unfinished">Script file (*.rz)</translation>
+      <translation>스크립트 파일(*.rz)</translation>
     </message>
   </context>
   <context>
@@ -4987,17 +4987,17 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/preferences/InitializationFileEditor.ui" line="14"/>
       <source>CutterRC Editor</source>
-      <translation type="unfinished">CutterRC Editor</translation>
+      <translation>CutterRC 편집기</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/InitializationFileEditor.ui" line="20"/>
       <source>TextLabel</source>
-      <translation type="unfinished">TextLabel</translation>
+      <translation>TextLabel</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/InitializationFileEditor.cpp" line="35"/>
       <source>Script is loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
-      <translation type="unfinished">Script is loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
+      <translation>스크립트는 &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;에서 로드됩니다.</translation>
     </message>
   </context>
   <context>
@@ -5005,7 +5005,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../common/Decompiler.cpp" line="109"/>
       <source>Failed to parse JSON from jsdec</source>
-      <translation type="unfinished">Failed to parse JSON from jsdec</translation>
+      <translation>jsdec에서 JSON을 파싱하지 못했습니다.</translation>
     </message>
   </context>
   <context>
@@ -5013,7 +5013,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/LayoutManager.ui" line="14"/>
       <source>Layout</source>
-      <translation type="unfinished">Layout</translation>
+      <translation>레이아웃</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.ui" line="25"/>
@@ -5029,12 +5029,12 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="42"/>
       <source>Rename layout error</source>
-      <translation type="unfinished">Rename layout error</translation>
+      <translation>레이아웃 이름 변경 오류</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="43"/>
       <source>&apos;%1&apos; is already used.</source>
-      <translation type="unfinished">&apos;%1&apos; is already used.</translation>
+      <translation>&apos;%1&apos;이(가) 이미 사용되었습니다.</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="45"/>
@@ -5044,12 +5044,12 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="45"/>
       <source>Enter name</source>
-      <translation type="unfinished">Enter name</translation>
+      <translation>이름 입력</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="61"/>
       <source>Do you want to delete &apos;%1&apos;</source>
-      <translation type="unfinished">Do you want to delete &apos;%1&apos;</translation>
+      <translation>&apos;%1&apos;을(를) 삭제하시겠습니까?</translation>
     </message>
   </context>
   <context>
@@ -5057,7 +5057,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="33"/>
       <source>Add extra...</source>
-      <translation type="unfinished">Add extra...</translation>
+      <translation>추가 항목 추가...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="61"/>
@@ -5067,7 +5067,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="68"/>
       <source>Set mode</source>
-      <translation type="unfinished">Set mode</translation>
+      <translation>모드 설정</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="97"/>
@@ -5083,12 +5083,12 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="113"/>
       <source>Layouts</source>
-      <translation type="unfinished">Layouts</translation>
+      <translation>레이아웃</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="133"/>
       <source>Tools</source>
-      <translation type="unfinished">Tools</translation>
+      <translation>도구</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="139"/>
@@ -5131,22 +5131,22 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="232"/>
       <source>Reset to default layout</source>
-      <translation type="unfinished">Reset to default layout</translation>
+      <translation>기본 레이아웃으로 초기화</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="237"/>
       <source>Zen Mode</source>
-      <translation type="unfinished">Zen Mode</translation>
+      <translation>Zen 모드</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="240"/>
       <source>Zen mode</source>
-      <translation type="unfinished">Zen mode</translation>
+      <translation>Zen 모드</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="245"/>
       <source>BaseFind</source>
-      <translation type="unfinished">BaseFind</translation>
+      <translation>BaseFind</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="250"/>
@@ -5161,7 +5161,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="260"/>
       <source>New Window</source>
-      <translation type="unfinished">New Window</translation>
+      <translation>새 창</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="263"/>
@@ -5189,12 +5189,12 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="286"/>
       <source>Map File</source>
-      <translation type="unfinished">Map File</translation>
+      <translation>맵 파일</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="289"/>
       <source>Ctrl+M</source>
-      <translation type="unfinished">Ctrl+M</translation>
+      <translation>Ctrl+M</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="294"/>
@@ -5255,7 +5255,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="355"/>
       <source>Undo Seek</source>
-      <translation type="unfinished">Undo Seek</translation>
+      <translation>검색 실행 취소</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="358"/>
@@ -5265,17 +5265,17 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="367"/>
       <source>Redo Seek</source>
-      <translation type="unfinished">Redo Seek</translation>
+      <translation>검색 재실행</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="378"/>
       <source>Unlock Panels</source>
-      <translation type="unfinished">Unlock Panels</translation>
+      <translation>패널 잠금 해제</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="381"/>
       <source>Toggle panel locks</source>
-      <translation type="unfinished">Toggle panel locks</translation>
+      <translation>패널 잠금 토글</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="400"/>
@@ -5286,7 +5286,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="415"/>
       <location filename="../core/MainWindow.ui" line="418"/>
       <source>Tabs up/down</source>
-      <translation type="unfinished">Tabs up/down</translation>
+      <translation>탭 업/다운</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="427"/>
@@ -5296,12 +5296,12 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="435"/>
       <source>Show Tabs at the Top</source>
-      <translation type="unfinished">Show Tabs at the Top</translation>
+      <translation>맨 위에 탭 표시</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="438"/>
       <source>Toggle tab position</source>
-      <translation type="unfinished">Toggle tab position</translation>
+      <translation>탭 위치 토글</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="443"/>
@@ -5312,7 +5312,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="448"/>
       <location filename="../core/MainWindow.ui" line="451"/>
       <source>Load layout</source>
-      <translation type="unfinished">Load layout</translation>
+      <translation>레이아웃 불러오기</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="456"/>
@@ -5322,7 +5322,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="461"/>
       <source>Bindiff</source>
-      <translation type="unfinished">Bindiff</translation>
+      <translation>Bindiff</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="466"/>
@@ -5332,52 +5332,52 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="471"/>
       <source>Test menu</source>
-      <translation type="unfinished">Test menu</translation>
+      <translation>테스트 메뉴</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="476"/>
       <location filename="../core/MainWindow.ui" line="479"/>
       <source>Copy hexpair</source>
-      <translation type="unfinished">Copy hexpair</translation>
+      <translation>hexpair 복사</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="484"/>
       <location filename="../core/MainWindow.ui" line="487"/>
       <source>Copy text</source>
-      <translation type="unfinished">Copy text</translation>
+      <translation>텍스트 복사</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="492"/>
       <source>Copy ASCII</source>
-      <translation type="unfinished">Copy ASCII</translation>
+      <translation>ASCII 복사</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="497"/>
       <location filename="../core/MainWindow.ui" line="500"/>
       <source>Insert string</source>
-      <translation type="unfinished">Insert string</translation>
+      <translation>문자열 삽입</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="505"/>
       <location filename="../core/MainWindow.ui" line="508"/>
       <source>Insert hex</source>
-      <translation type="unfinished">Insert hex</translation>
+      <translation>16진수 삽입</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="523"/>
       <source>Show/Hide bytes</source>
-      <translation type="unfinished">Show/Hide bytes</translation>
+      <translation>바이트 표시/숨기기</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="528"/>
       <source>Switch case</source>
-      <translation type="unfinished">Switch case</translation>
+      <translation>스위치 케이스</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="533"/>
       <location filename="../core/MainWindow.ui" line="536"/>
       <source>Copy all</source>
-      <translation type="unfinished">Copy all</translation>
+      <translation>모두 복사</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="541"/>
@@ -5391,7 +5391,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="557"/>
       <location filename="../core/MainWindow.ui" line="560"/>
       <source>Copy disasm</source>
-      <translation type="unfinished">Copy disasm</translation>
+      <translation>disasm 복사</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="572"/>
@@ -5449,7 +5449,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="625"/>
       <location filename="../core/MainWindow.ui" line="635"/>
       <source>Undefine</source>
-      <translation type="unfinished">Undefine</translation>
+      <translation>정의 안됨</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="640"/>
@@ -5465,7 +5465,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="660"/>
       <source>Run Rizin script</source>
-      <translation type="unfinished">Run Rizin script</translation>
+      <translation>Rizin 스크립트 실행</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="665"/>
@@ -5495,27 +5495,27 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="687"/>
       <source>Show/Hide Exports panel</source>
-      <translation type="unfinished">Show/Hide Exports panel</translation>
+      <translation>내보내기 패널 표시/숨기기</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="692"/>
       <source>Refresh Contents</source>
-      <translation type="unfinished">Refresh Contents</translation>
+      <translation>콘텐츠 새로고침</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="695"/>
       <source>Refresh contents</source>
-      <translation type="unfinished">Refresh contents</translation>
+      <translation>콘텐츠 새로 고침</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="703"/>
       <source>Show ESIL rather than assembly</source>
-      <translation type="unfinished">Show ESIL rather than assembly</translation>
+      <translation>어셈블리 대신 ESIL 표시</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="711"/>
       <source>Show pseudocode rather than assembly</source>
-      <translation type="unfinished">Show pseudocode rather than assembly</translation>
+      <translation>어셈블리 대신 유사 코드 표시</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="722"/>
@@ -5530,7 +5530,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="732"/>
       <source>Save Project As...</source>
-      <translation type="unfinished">Save Project As...</translation>
+      <translation>다른 이름으로 프로젝트 저장...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="740"/>
@@ -5545,7 +5545,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="750"/>
       <source>Analyze Program</source>
-      <translation type="unfinished">Analyze Program</translation>
+      <translation>분석 프로그램</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="755"/>
@@ -5556,23 +5556,23 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="760"/>
       <location filename="../core/MainWindow.cpp" line="1803"/>
       <source>Apply Signature From File</source>
-      <translation type="unfinished">Apply Signature From File</translation>
+      <translation>파일 서명 적용</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="765"/>
       <location filename="../core/MainWindow.cpp" line="1824"/>
       <source>Create New Signature File</source>
-      <translation type="unfinished">Create New Signature File</translation>
+      <translation>새 서명 파일 생성</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="770"/>
       <source>Add Hexdump</source>
-      <translation type="unfinished">Add Hexdump</translation>
+      <translation>헥스덤프 추가</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="775"/>
       <source>Add Decompiler</source>
-      <translation type="unfinished">Add Decompiler</translation>
+      <translation>디컴파일러 추가</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="780"/>
@@ -5587,7 +5587,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="796"/>
       <source>Grouped dock dragging</source>
-      <translation type="unfinished">Grouped dock dragging</translation>
+      <translation>그룹화된 도크 드래그</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="801"/>
@@ -5622,42 +5622,42 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="834"/>
       <source>Commit changes</source>
-      <translation type="unfinished">Commit changes</translation>
+      <translation>변경사항 커밋</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="842"/>
       <source>Write mode</source>
-      <translation type="unfinished">Write mode</translation>
+      <translation>쓰기 모드</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="845"/>
       <source>Open the file in write mode. Every change to the file will change the original file on disk.</source>
-      <translation type="unfinished">Open the file in write mode. Every change to the file will change the original file on disk.</translation>
+      <translation>쓰기 모드에서 파일을 엽니다. 파일을 변경할 때마다 디스크에 있는 원본 파일이 변경됩니다.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="853"/>
       <source>Cache mode</source>
-      <translation type="unfinished">Cache mode</translation>
+      <translation>캐시 모드</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="856"/>
       <source>Enable cache mode. Changes to the file would not be applied to disk unless you specifically commit them. This is a safer option.</source>
-      <translation type="unfinished">Enable cache mode. Changes to the file would not be applied to disk unless you specifically commit them. This is a safer option.</translation>
+      <translation>캐시 모드를 활성화합니다. 파일에 대한 변경 사항은 특별히 커밋하지 않는 한 디스크에 적용되지 않습니다. 이 옵션이 더 안전합니다.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="867"/>
       <source>Read-Only mode</source>
-      <translation type="unfinished">Read-Only mode</translation>
+      <translation>읽기 전용 모드</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="877"/>
       <source>Manage layouts</source>
-      <translation type="unfinished">Manage layouts</translation>
+      <translation>레이아웃 관리</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="256"/>
       <source>No plugins are installed. Check the plugins section on Cutter documentation to learn more.</source>
-      <translation type="unfinished">No plugins are installed. Check the plugins section on Cutter documentation to learn more.</translation>
+      <translation>설치된 플러그인이 없습니다. 자세히 알아보려면 Cutter 문서의 플러그인 섹션을 확인하십시오.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="261"/>
@@ -5667,7 +5667,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="275"/>
       <source>Analyze the program using Rizin&apos;s &quot;aaa&quot; command</source>
-      <translation type="unfinished">Analyze the program using Rizin&apos;s &quot;aaa&quot; command</translation>
+      <translation>Rizin&apos;s &quot;aaa&quot; 명령어를 사용하여 프로그램을 분석합니다.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="542"/>
@@ -5677,7 +5677,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="543"/>
       <source>Do you want to load the &apos;%1&apos; script?</source>
-      <translation type="unfinished">Do you want to load the &apos;%1&apos; script?</translation>
+      <translation>&apos;%1&apos; 스크립트를 불러오시겠습니까?</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="561"/>
@@ -5692,17 +5692,17 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="625"/>
       <source>Failed to open project: %1</source>
-      <translation type="unfinished">Failed to open project: %1</translation>
+      <translation>프로젝트 열기 실패: %1</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="630"/>
       <source>Open Project</source>
-      <translation type="unfinished">Open Project</translation>
+      <translation>프로젝트 열기</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="752"/>
       <source>Failed to save project: %1</source>
-      <translation type="unfinished">Failed to save project: %1</translation>
+      <translation>프로젝트 저장 실패: %1</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="780"/>
@@ -5714,42 +5714,42 @@ Save your project before closing!</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="1056"/>
       <source>New disassembly</source>
-      <translation type="unfinished">New disassembly</translation>
+      <translation>새로운 분해</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1058"/>
       <source>New graph</source>
-      <translation type="unfinished">New graph</translation>
+      <translation>새로운 그래프</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1060"/>
       <source>New hexdump</source>
-      <translation type="unfinished">New hexdump</translation>
+      <translation>새로운 헥스덤프</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1061"/>
       <source>New Decompiler</source>
-      <translation type="unfinished">New Decompiler</translation>
+      <translation>새로운 디컴파일러</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1240"/>
       <source>Save layout error</source>
-      <translation type="unfinished">Save layout error</translation>
+      <translation>레이아웃 저장 오류</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1241"/>
       <source>&apos;%1&apos; is not a valid name.</source>
-      <translation type="unfinished">&apos;%1&apos; is not a valid name.</translation>
+      <translation>&apos;%1&apos;의 이름이 유효하지 않습니다.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1243"/>
       <source>Enter name</source>
-      <translation type="unfinished">Enter name</translation>
+      <translation>이름 입력</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1554"/>
       <source>Select Rizin script</source>
-      <translation type="unfinished">Select Rizin script</translation>
+      <translation>Rizin 스크립트 선택</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1597"/>
@@ -5774,19 +5774,19 @@ Save your project before closing!</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="1708"/>
       <source>%1 loaded.</source>
-      <translation type="unfinished">%1 loaded.</translation>
+      <translation>%1이(가) 로드되었습니다.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1799"/>
       <location filename="../core/MainWindow.cpp" line="1821"/>
       <source>Signature File (*.sig)</source>
-      <translation type="unfinished">Signature File (*.sig)</translation>
+      <translation>서명 파일(*.sig)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1800"/>
       <location filename="../core/MainWindow.cpp" line="1822"/>
       <source>Pattern File (*.pat)</source>
-      <translation type="unfinished">Pattern File (*.pat)</translation>
+      <translation>패턴 파일(*.pat)</translation>
     </message>
   </context>
   <context>
@@ -5794,7 +5794,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="14"/>
       <source>Map New File</source>
-      <translation type="unfinished">Map New File</translation>
+      <translation>새 파일 매핑</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="26"/>
@@ -5815,21 +5815,21 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="72"/>
       <source>0x40000</source>
-      <translation type="unfinished">0x40000</translation>
+      <translation>0x40000</translation>
     </message>
     <message>
       <source>Map new file file</source>
-      <translation type="unfinished">Map new file file</translation>
+      <translation>새 파일 매핑</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
       <source>Failed to map a new file</source>
-      <translation type="unfinished">Failed to map a new file</translation>
+      <translation>새 파일 매핑 실패</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
       <source>Map new file</source>
-      <translation type="unfinished">Map new file</translation>
+      <translation>새 파일 매핑</translation>
     </message>
   </context>
   <context>
@@ -5883,7 +5883,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/MultitypeFileSaveDialog.cpp" line="64"/>
       <source>Unrecognized extension &apos;%1&apos;</source>
-      <translation type="unfinished">Unrecognized extension &apos;%1&apos;</translation>
+      <translation>인식할 수 없는 확장자 &apos;%1&apos;</translation>
     </message>
   </context>
   <context>
@@ -5953,12 +5953,12 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="410"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Open Project&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Open Project&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;프로젝트 열기&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="519"/>
       <source>Remove item</source>
-      <translation type="unfinished">Remove item</translation>
+      <translation>항목 제거</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="524"/>
@@ -5973,7 +5973,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="534"/>
       <source>Clear all projects</source>
-      <translation type="unfinished">Clear all projects</translation>
+      <translation>모든 프로젝트 삭제</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="95"/>
@@ -5983,21 +5983,21 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="107"/>
       <source>Open Project</source>
-      <translation type="unfinished">Open Project</translation>
+      <translation>프로젝트 열기</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="290"/>
       <source>Open a file without additional options/settings.</source>
-      <translation type="unfinished">Open a file without additional options/settings.</translation>
+      <translation>추가 옵션/설정 없이 파일을 엽니다.</translation>
     </message>
     <message>
       <source>Open a file with no extra treatment.</source>
-      <translation type="unfinished">Open a file with no extra treatment.</translation>
+      <translation>별도의 처리 없이 파일을 엽니다.</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="323"/>
       <source>Select a new program or a previous one before continuing.</source>
-      <translation type="unfinished">Select a new program or a previous one before continuing.</translation>
+      <translation>계속 진행하기 전에 새 프로그램 또는 이전 프로그램을 선택합니다.</translation>
     </message>
   </context>
   <context>
@@ -6005,7 +6005,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/Omnibar.cpp" line="15"/>
       <source>Type flag name or address here</source>
-      <translation type="unfinished">Type flag name or address here</translation>
+      <translation>여기에 플래그 이름 또는 주소를 입력합니다.</translation>
     </message>
   </context>
   <context>
@@ -6013,7 +6013,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="28"/>
       <source>Plugins are loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
-      <translation type="unfinished">Plugins are loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
+      <translation>플러그인은 &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;에서 로드됩니다. </translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="34"/>
@@ -6038,7 +6038,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="48"/>
       <source>Show Rizin plugin information</source>
-      <translation type="unfinished">Show Rizin plugin information</translation>
+      <translation>Rizin 플러그인 정보 보기</translation>
     </message>
   </context>
   <context>
@@ -6071,7 +6071,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="37"/>
       <source>Initialization Script</source>
-      <translation type="unfinished">Initialization Script</translation>
+      <translation>초기화 스크립트</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="39"/>
@@ -6127,7 +6127,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ProcessesWidget.cpp" line="167"/>
       <source>Unable to switch to the requested process.</source>
-      <translation type="unfinished">Unable to switch to the requested process.</translation>
+      <translation>요청된 프로세스로 전환할 수 없습니다.</translation>
     </message>
   </context>
   <context>
@@ -6135,11 +6135,11 @@ Save your project before closing!</source>
     <message>
       <location filename="../common/DisassemblyPreview.cpp" line="41"/>
       <source>More than one (%1) references here. Weird behaviour expected.</source>
-      <translation type="unfinished">More than one (%1) references here. Weird behaviour expected.</translation>
+      <translation>여기에 1개(%1) 이상의 기준이 있습니다. 제대로 동작되지 않습니다.</translation>
     </message>
     <message>
       <source>offsetFrom (%1) differs from refs.at(0).from (%(2))</source>
-      <translation type="unfinished">offsetFrom (%1) differs from refs.at(0).from (%(2))</translation>
+      <translation>offsetFrom(%1)이 refs.at(0).from(%(2))과 다릅니다.</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="53"/>
@@ -6239,27 +6239,27 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../CutterApplication.cpp" line="409"/>
       <source>Sets a specific CPU</source>
-      <translation type="unfinished">Sets a specific CPU</translation>
+      <translation>특정 CPU 설정</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="410"/>
       <source>cpu</source>
-      <translation type="unfinished">cpu</translation>
+      <translation>cpu</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="413"/>
       <source>Sets a specific operating system</source>
-      <translation type="unfinished">Sets a specific operating system</translation>
+      <translation>특정 운영 체제 설정</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="414"/>
       <source>os</source>
-      <translation type="unfinished">os</translation>
+      <translation>os</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="418"/>
       <source>Sets the endianness (big or little)</source>
-      <translation type="unfinished">Sets the endianness (big or little)</translation>
+      <translation>엔디안 단위(크거나 작음) 설정</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="419"/>
