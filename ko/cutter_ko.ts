@@ -632,12 +632,12 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="208"/>
       <source>Show preview when hovering</source>
-      <translation type="unfinished">Show preview when hovering</translation>
+      <translation>마우스를 갖다 대면 미리 보기가 표시됩니다</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="289"/>
       <source>Show known variable values when hovering</source>
-      <translation type="unfinished">Show known variable values when hovering</translation>
+      <translation>마우스를 갖다 대면 알려진 변수 값이 표시됩니다.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="305"/>
@@ -677,7 +677,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="376"/>
       <source>Show refpointer information (asm.refptr)</source>
-      <translation type="unfinished">Show refpointer information (asm.refptr)</translation>
+      <translation>참조 포인터 정보 표시(asm.refptr)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="409"/>
@@ -687,17 +687,17 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="433"/>
       <source>Slow Analysis (asm.slow)</source>
-      <translation type="unfinished">Slow Analysis (asm.slow)</translation>
+      <translation>느린 분석(asm.slow)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="440"/>
       <source>Show jump lines (asm.lines)</source>
-      <translation type="unfinished">Show jump lines (asm.lines)</translation>
+      <translation>점프 라인 표시(asm.lines)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="447"/>
       <source>Show function boundary lines (asm.lines.fcn)</source>
-      <translation type="unfinished">Show function boundary lines (asm.lines.fcn)</translation>
+      <translation>함수 경계선 표시(asm.lines.fcn)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="454"/>
@@ -707,36 +707,36 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="461"/>
       <source>Run ESIL emulation analysis (asm.emu)</source>
-      <translation type="unfinished">Run ESIL emulation analysis (asm.emu)</translation>
+      <translation>ESIL 에뮬레이션 분석 실행(asm.emu)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="468"/>
       <source>Show only strings if any in the asm.emu output (emu.str)</source>
-      <translation type="unfinished">Show only strings if any in the asm.emu output (emu.str)</translation>
+      <translation>asm.emu 출력에 문자열이 있는 경우 문자열만 표시(emu.str)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="475"/>
       <source>Show size of opcodes in disassembly (asm.size)</source>
-      <translation type="unfinished">Show size of opcodes in disassembly (asm.size)</translation>
+      <translation>분해 시 광학 코드 크기 표시(asm.size)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="482"/>
       <source>Show variables summary instead of full list (asm.var.summary)</source>
-      <translation type="unfinished">Show variables summary instead of full list (asm.var.summary)</translation>
+      <translation>전체 목록 대신 변수 요약 표시(asm.var.summary)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="489"/>
       <source>Substitute variables in disassembly (asm.sub.var)</source>
-      <translation type="unfinished">Substitute variables in disassembly (asm.sub.var)</translation>
+      <translation>분해 시 변수 대체(asm.sub.var)</translation>
     </message>
     <message>
       <source>Substitute variables (asm.sub.var)</source>
-      <translation type="unfinished">Substitute variables (asm.sub.var)</translation>
+      <translation>변수 대체(asm.sub.var)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="496"/>
       <source>Substitute entire variable expressions with names (asm.sub.varonly)</source>
-      <translation type="unfinished">Substitute entire variable expressions with names (asm.sub.varonly)</translation>
+      <translation>여러 이름을 갖는 전체 변수 표현식 대체(asm.sub.varonly)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="552"/>
@@ -796,7 +796,7 @@
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="46"/>
       <source>Processes with same name as currently open file:</source>
-      <translation type="unfinished">Processes with same name as currently open file:</translation>
+      <translation>현재 열려 있는 파일과 이름이 같은 프로세스:</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="90"/>
@@ -832,22 +832,22 @@
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="14"/>
       <source>Base64 Encode/Decode</source>
-      <translation type="unfinished">Base64 Encode/Decode</translation>
+      <translation>Base64 부호화/해독</translation>
     </message>
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="24"/>
       <source>String:</source>
-      <translation type="unfinished">String:</translation>
+      <translation>문자열:</translation>
     </message>
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="38"/>
       <source>Decode</source>
-      <translation type="unfinished">Decode</translation>
+      <translation>해독</translation>
     </message>
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="48"/>
       <source>Encode</source>
-      <translation type="unfinished">Encode</translation>
+      <translation>부호화</translation>
     </message>
   </context>
   <context>
@@ -855,58 +855,58 @@
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="43"/>
       <source>Cores:</source>
-      <translation type="unfinished">Cores:</translation>
+      <translation>코어:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="59"/>
       <source>Pointer Size:</source>
-      <translation type="unfinished">Pointer Size:</translation>
+      <translation>포인터 크기:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="67"/>
       <source>32</source>
-      <translation type="unfinished">32</translation>
+      <translation>32</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="72"/>
       <source>64</source>
-      <translation type="unfinished">64</translation>
+      <translation>64</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="80"/>
       <source>Start Address:</source>
-      <translation type="unfinished">Start Address:</translation>
+      <translation>시작 주소:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="100"/>
       <source>End Address:</source>
-      <translation type="unfinished">End Address:</translation>
+      <translation>끝 주소:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="117"/>
       <source>Alignment:</source>
-      <translation type="unfinished">Alignment:</translation>
+      <translation>정렬:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="134"/>
       <source>Min String Length:</source>
-      <translation type="unfinished">Min String Length:</translation>
+      <translation>최소 문자열 길이:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="157"/>
       <source>Min Score:</source>
-      <translation type="unfinished">Min Score:</translation>
+      <translation>최소 점수:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="199"/>
       <source>Remove item</source>
-      <translation type="unfinished">Remove item</translation>
+      <translation>항목 제거</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="204"/>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="207"/>
       <source>Remove all</source>
-      <translation type="unfinished">Remove all</translation>
+      <translation>모두 제거</translation>
     </message>
   </context>
   <context>
@@ -915,19 +915,19 @@
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="84"/>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="110"/>
       <source>Copy %1</source>
-      <translation type="unfinished">Copy %1</translation>
+      <translation>%1 복사</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="85"/>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="111"/>
       <source>Reopen Cutter with base address as %1</source>
-      <translation type="unfinished">Reopen Cutter with base address as %1</translation>
+      <translation>기본 주소를 %1로 하여 Cutter를 다시 엽니다.</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="86"/>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="112"/>
       <source>Reopen Cutter with map address as %1</source>
-      <translation type="unfinished">Reopen Cutter with map address as %1</translation>
+      <translation>매핑 주소를 %1로 하여 Cutter를 다시 엽니다.</translation>
     </message>
   </context>
   <context>
@@ -935,12 +935,12 @@
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="58"/>
       <source>Score</source>
-      <translation type="unfinished">Score</translation>
+      <translation>점수</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="60"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>주소</translation>
     </message>
   </context>
   <context>
@@ -948,13 +948,13 @@
     <message>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="81"/>
       <source>Remove item</source>
-      <translation type="unfinished">Remove item</translation>
+      <translation>항목 제거</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="86"/>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="89"/>
       <source>Remove all</source>
-      <translation type="unfinished">Remove all</translation>
+      <translation>모두 제거</translation>
     </message>
   </context>
   <context>
@@ -962,22 +962,22 @@
     <message>
       <location filename="../core/Basefind.cpp" line="41"/>
       <source>Start address is &gt;= end address</source>
-      <translation type="unfinished">Start address is &gt;= end address</translation>
+      <translation>시작 주소가 &gt;= 끝 주소와 동일합니다.</translation>
     </message>
     <message>
       <location filename="../core/Basefind.cpp" line="44"/>
       <source>Alignment must be at least </source>
-      <translation type="unfinished">Alignment must be at least </translation>
+      <translation>정렬은 최소한 다음과 같아야 합니다. </translation>
     </message>
     <message>
       <location filename="../core/Basefind.cpp" line="48"/>
       <source>Min score must be at least 1</source>
-      <translation type="unfinished">Min score must be at least 1</translation>
+      <translation>최소 점수는 1점 이상이어야 합니다.</translation>
     </message>
     <message>
       <location filename="../core/Basefind.cpp" line="51"/>
       <source>Min string length must be at least 1</source>
-      <translation type="unfinished">Min string length must be at least 1</translation>
+      <translation>최소 문자열 길이는 1 이상이어야 합니다.</translation>
     </message>
   </context>
   <context>
@@ -1010,67 +1010,67 @@
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="131"/>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="137"/>
       <source>N/A</source>
-      <translation type="unfinished">N/A</translation>
+      <translation>해당 없음 </translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="153"/>
       <source>#</source>
-      <translation type="unfinished">#</translation>
+      <translation>#</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="155"/>
       <source>Fd</source>
-      <translation type="unfinished">Fd</translation>
+      <translation>Fd</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="157"/>
       <source>Bk</source>
-      <translation type="unfinished">Bk</translation>
+      <translation>Bk</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="159"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>유형</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="161"/>
       <source>Chunks count</source>
-      <translation type="unfinished">Chunks count</translation>
+      <translation>청크 수</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="163"/>
       <source>Chunks size</source>
-      <translation type="unfinished">Chunks size</translation>
+      <translation>청크 크기</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="171"/>
       <source>Bin number in NBINS or fastbinsY array</source>
-      <translation type="unfinished">Bin number in NBINS or fastbinsY array</translation>
+      <translation>NBINS 또는 fastbinsY 배열의 빈 수</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="173"/>
       <source>Pointer to first chunk of the bin</source>
-      <translation type="unfinished">Pointer to first chunk of the bin</translation>
+      <translation>빈의 첫 번째 청크에 대한 포인터</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="175"/>
       <source>Pointer to last chunk of the bin</source>
-      <translation type="unfinished">Pointer to last chunk of the bin</translation>
+      <translation>빈의 마지막 청크에 대한 포인터</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="177"/>
       <source>Type of bin</source>
-      <translation>휴지통 유형</translation>
+      <translation>빈 유형</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="179"/>
       <source>Number of chunks in the bin</source>
-      <translation>휴지통에 있는 청크 수</translation>
+      <translation>빈의 청크 수</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="181"/>
       <source>Size of all chunks in the bin</source>
-      <translation>휴지통에 있는 모든 청크 크기</translation>
+      <translation>빈의 모든 청크 크기</translation>
     </message>
   </context>
   <context>
@@ -1705,7 +1705,7 @@
     <message>
       <location filename="../common/Configuration.cpp" line="147"/>
       <source>Settings are not writable! Make sure you have a write access to &quot;%1&quot;.</source>
-      <translation type="unfinished">Settings are not writable! Make sure you have a write access to &quot;%1&quot;.</translation>
+      <translation>설정을 쓸 수 없습니다! &quot;%1&quot;에 쓰기 권한이 있는지 확인하십시오.</translation>
     </message>
   </context>
   <context>
@@ -1748,7 +1748,7 @@
     <message>
       <location filename="../widgets/ConsoleWidget.cpp" line="85"/>
       <source>Wrap Lines</source>
-      <translation type="unfinished">Wrap Lines</translation>
+      <translation>포장 라인</translation>
     </message>
   </context>
   <context>
@@ -1757,7 +1757,7 @@
       <location filename="../core/Cutter.cpp" line="274"/>
       <location filename="../core/Cutter.cpp" line="287"/>
       <source>Loading initialization file from </source>
-      <translation type="unfinished">Loading initialization file from </translation>
+      <translation>다음에서 초기화 파일 불러오는 중: </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1057"/>
@@ -1766,44 +1766,44 @@
       <location filename="../core/Cutter.cpp" line="1081"/>
       <location filename="../core/Cutter.cpp" line="1085"/>
       <source>Signatures</source>
-      <translation type="unfinished">Signatures</translation>
+      <translation>서명</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1058"/>
       <source>Cannot apply signature file because the requested arch is not supported by .sig files</source>
-      <translation type="unfinished">Cannot apply signature file because the requested arch is not supported by .sig files</translation>
+      <translation>요청된 아카이브가 .sig 파일에서 지원되지 않으므로 서명 파일을 적용할 수 없습니다.</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1067"/>
       <source>Found %1 matching signatures!</source>
-      <translation type="unfinished">Found %1 matching signatures!</translation>
+      <translation>%1 일치하는 서명을 찾았습니다!</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1072"/>
       <source>Failed to apply signature file!
 Please check the console for more details.</source>
-      <translation type="unfinished">Failed to apply signature file!
-Please check the console for more details.</translation>
+      <translation>서명 파일을 적용하지 못했습니다!
+자세한 내용은 콘솔에서 확인하세요.</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1082"/>
       <source>Cannot create signature file (check the console for more details).</source>
-      <translation type="unfinished">Cannot create signature file (check the console for more details).</translation>
+      <translation>서명 파일을 생성할 수 없습니다(자세한 내용은 콘솔에서 확인하세요).</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1086"/>
       <source>Written %1 signatures to %2.</source>
-      <translation type="unfinished">Written %1 signatures to %2.</translation>
+      <translation>%2에 %1 서며을 작성했습니다.</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1987"/>
       <source>Starting native debug...</source>
-      <translation type="unfinished">Starting native debug...</translation>
+      <translation>기본 디버그 시작 중...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2035"/>
       <source>Starting emulation...</source>
-      <translation type="unfinished">Starting emulation...</translation>
+      <translation>에뮬레이션 시작 중...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2098"/>
@@ -1813,17 +1813,17 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../core/Cutter.cpp" line="2150"/>
       <source>Attaching to process (</source>
-      <translation type="unfinished">Attaching to process (</translation>
+      <translation>프로세스에 연결 중(</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2607"/>
       <source>Creating debug tracepoint...</source>
-      <translation type="unfinished">Creating debug tracepoint...</translation>
+      <translation>디버그 트레이스포인트 생성 중...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2652"/>
       <source>Stopping debug session...</source>
-      <translation type="unfinished">Stopping debug session...</translation>
+      <translation>디버그 세션 중지 중...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2687"/>
@@ -1844,29 +1844,29 @@ Please check the console for more details.</translation>
       <location filename="../core/Cutter.cpp" line="4059"/>
       <location filename="../core/Cutter.cpp" line="4088"/>
       <source>Error parsing type: &quot;%1&quot; message: </source>
-      <translation type="unfinished">Error parsing type: &quot;%1&quot; message: </translation>
+      <translation>유형 구문 분석 중 오류 발생: &quot;%1&quot; 메시지: </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4065"/>
       <source>Error creating global variable: &quot;%1&quot;</source>
-      <translation type="unfinished">Error creating global variable: &quot;%1&quot;</translation>
+      <translation>전역 변수 생성 중 오류 발생: &quot;%1&quot;</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4658"/>
       <location filename="../core/Cutter.cpp" line="4709"/>
       <source>Cannot get global graph</source>
-      <translation type="unfinished">Cannot get global graph</translation>
+      <translation>전역 그래프를 가져올 수 없습니다.</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4660"/>
       <location filename="../core/Cutter.cpp" line="4711"/>
       <source>Cannot get graph at </source>
-      <translation type="unfinished">Cannot get graph at </translation>
+      <translation>다음에서 그래프를 가져올 수 없습니다: </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4691"/>
       <source>Failed to generate graph</source>
-      <translation type="unfinished">Failed to generate graph</translation>
+      <translation>그래프 생성에 실패했습니다.</translation>
     </message>
   </context>
   <context>
@@ -1880,12 +1880,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="42"/>
       <source>Layout</source>
-      <translation type="unfinished">Layout</translation>
+      <translation>레이아웃</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="43"/>
       <source>Horizontal</source>
-      <translation type="unfinished">Horizontal</translation>
+      <translation>가로</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="47"/>
@@ -1895,121 +1895,121 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="48"/>
       <source>Grid medium</source>
-      <translation type="unfinished">Grid medium</translation>
+      <translation>그리드 미디엄</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="49"/>
       <source>Grid wide</source>
-      <translation type="unfinished">Grid wide</translation>
+      <translation>그리드 와이드</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="63"/>
       <source>Graphviz polyline</source>
-      <translation type="unfinished">Graphviz polyline</translation>
+      <translation>Graphviz polyline</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="64"/>
       <source>Graphviz ortho</source>
-      <translation type="unfinished">Graphviz ortho</translation>
+      <translation>Graphviz ortho</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="65"/>
       <source>Graphviz sfdp</source>
-      <translation type="unfinished">Graphviz sfdp</translation>
+      <translation>Graphviz sfdp</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="66"/>
       <source>Graphviz neato</source>
-      <translation type="unfinished">Graphviz neato</translation>
+      <translation>Graphviz neato</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="67"/>
       <source>Graphviz twopi</source>
-      <translation type="unfinished">Graphviz twopi</translation>
+      <translation>Graphviz twopi</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="68"/>
       <source>Graphviz circo</source>
-      <translation type="unfinished">Graphviz circo</translation>
+      <translation>Graphviz circo</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="409"/>
       <source>PNG (*.png)</source>
-      <translation type="unfinished">PNG (*.png)</translation>
+      <translation>PNG(*.png)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="410"/>
       <source>JPEG (*.jpg)</source>
-      <translation type="unfinished">JPEG (*.jpg)</translation>
+      <translation>JPEG(*.jpg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="411"/>
       <source>SVG (*.svg)</source>
-      <translation type="unfinished">SVG (*.svg)</translation>
+      <translation>SVG(*.svg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="415"/>
       <source>Graphviz dot (*.dot)</source>
-      <translation type="unfinished">Graphviz dot (*.dot)</translation>
+      <translation>Graphviz dot(*.dot)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="416"/>
       <source>Graph Modelling Language (*.gml)</source>
-      <translation type="unfinished">Graph Modelling Language (*.gml)</translation>
+      <translation>그래프 모델링 언어(*.gml)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="418"/>
       <source>RZ JSON (*.json)</source>
-      <translation type="unfinished">RZ JSON (*.json)</translation>
+      <translation>RZ JSON(*.json)</translation>
     </message>
     <message>
       <source>SDB key-value (*.txt)</source>
-      <translation type="unfinished">SDB key-value (*.txt)</translation>
+      <translation>SDB 키 값(*.txt)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="424"/>
       <source>Graphviz json (*.json)</source>
-      <translation type="unfinished">Graphviz json (*.json)</translation>
+      <translation>Graphviz json(*.json)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="426"/>
       <source>Graphviz gif (*.gif)</source>
-      <translation type="unfinished">Graphviz gif (*.gif)</translation>
+      <translation>Graphviz gif(*.gif)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="428"/>
       <source>Graphviz png (*.png)</source>
-      <translation type="unfinished">Graphviz png (*.png)</translation>
+      <translation>Graphviz png(*.png)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="430"/>
       <source>Graphviz jpg (*.jpg)</source>
-      <translation type="unfinished">Graphviz jpg (*.jpg)</translation>
+      <translation>Graphviz jpg(*.jpg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="432"/>
       <source>Graphviz PostScript (*.ps)</source>
-      <translation type="unfinished">Graphviz PostScript (*.ps)</translation>
+      <translation>Graphviz PostScript(*.ps)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="434"/>
       <source>Graphviz svg (*.svg)</source>
-      <translation type="unfinished">Graphviz svg (*.svg)</translation>
+      <translation>Graphviz svg(*.svg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="436"/>
       <source>Graphviz pdf (*.pdf)</source>
-      <translation type="unfinished">Graphviz pdf (*.pdf)</translation>
+      <translation>Graphviz pdf(*.pdf)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="458"/>
       <source>Graph Export</source>
-      <translation type="unfinished">Graph Export</translation>
+      <translation>그래프 내보내기</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="459"/>
       <source>Do you really want to export %1 x %2 = %3 pixel bitmap image? Consider using different format.</source>
-      <translation type="unfinished">Do you really want to export %1 x %2 = %3 pixel bitmap image? Consider using different format.</translation>
+      <translation>%1 x %2 = %3 픽셀 비트맵 이미지를 내보내시겠습니까? 다른 형식을 사용하는 것을 고려하세요.</translation>
     </message>
   </context>
   <context>
@@ -2017,12 +2017,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../common/CutterSeekable.cpp" line="73"/>
       <source>More than one (%1) references here. Weird behaviour expected.</source>
-      <translation type="unfinished">More than one (%1) references here. Weird behaviour expected.</translation>
+      <translation>여기에 1개(%1) 이상의 기준이 있습니다. 제대로 동작되지 않습니다.</translation>
     </message>
     <message>
       <location filename="../widgets/AddressableDockWidget.cpp" line="45"/>
       <source> (unsynced)</source>
-      <translation type="unfinished"> (unsynced)</translation>
+      <translation> (비동기화됨)</translation>
     </message>
   </context>
   <context>
@@ -2279,17 +2279,17 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="162"/>
       <source>Key</source>
-      <translation type="unfinished">Key</translation>
+      <translation>키</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="162"/>
       <source>Value</source>
-      <translation type="unfinished">Value</translation>
+      <translation>값</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="163"/>
       <source>root</source>
-      <translation type="unfinished">root</translation>
+      <translation>루트</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="204"/>
@@ -2307,7 +2307,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="38"/>
       <source>Attach to process</source>
-      <translation type="unfinished">Attach to process</translation>
+      <translation>프로세스에 연결</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="39"/>
@@ -2347,7 +2347,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="46"/>
       <source>Continue backwards</source>
-      <translation type="unfinished">Continue backwards</translation>
+      <translation>뒤로 계속</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="47"/>
@@ -2367,17 +2367,17 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="50"/>
       <source>Step backwards</source>
-      <translation type="unfinished">Step backwards</translation>
+      <translation>뒤로 가기</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="51"/>
       <source>Start trace session</source>
-      <translation type="unfinished">Start trace session</translation>
+      <translation>추적 세션 시작하기</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="52"/>
       <source>Stop trace session</source>
-      <translation type="unfinished">Stop trace session</translation>
+      <translation>추적 세션 멈추기</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="53"/>
@@ -2402,7 +2402,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="147"/>
       <source>Debugged process exited (</source>
-      <translation type="unfinished">Debugged process exited (</translation>
+      <translation>디버깅된 프로세스 종료(</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="267"/>
@@ -2413,7 +2413,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="268"/>
       <source>If you encounter any problems or have suggestions, please submit an issue to https://github.com/rizinorg/cutter/issues</source>
-      <translation type="unfinished">If you encounter any problems or have suggestions, please submit an issue to https://github.com/rizinorg/cutter/issues</translation>
+      <translation>문제가 발생하거나 제안할 사항이 있다면, https://github.com/rizinorg/cutter/issues로 문제를 제출해주십시오.</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="289"/>
@@ -2429,7 +2429,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="359"/>
       <source>Error attaching. No process selected!</source>
-      <translation type="unfinished">Error attaching. No process selected!</translation>
+      <translation>연결 실패. 프로세스가 선택되지 않았습니다!</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="388"/>
@@ -2447,12 +2447,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="30"/>
       <source>Debug plugin:</source>
-      <translation type="unfinished">Debug plugin:</translation>
+      <translation>디버그 플러그인:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="42"/>
       <source>ESIL options</source>
-      <translation type="unfinished">ESIL options</translation>
+      <translation>ESIL 옵션</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="54"/>
@@ -2467,7 +2467,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="79"/>
       <source>Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</source>
-      <translation type="unfinished">Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</translation>
+      <translation>축소할 때 텍스트를 숨기면 지정된 값보다 작아집니다. 값이 높을수록 성능이 향상될 수 있습니다.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="82"/>
@@ -2477,17 +2477,17 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="100"/>
       <source>Trace options</source>
-      <translation type="unfinished">Trace options</translation>
+      <translation>추적 옵션</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="109"/>
       <source>Trace each step during continue in a trace session (dbg.trace_continue)</source>
-      <translation type="unfinished">Trace each step during continue in a trace session (dbg.trace_continue)</translation>
+      <translation>추적 세션에서 계속하는 동안 각 단계를 추적합니다(dbg.trace_continue).</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="112"/>
       <source>Disabling this option means that stepping back after continue will return to the previous PC. Significantly improves performance.</source>
-      <translation type="unfinished">Disabling this option means that stepping back after continue will return to the previous PC. Significantly improves performance.</translation>
+      <translation>이 옵션을 비활성화하면 계속 후 뒤로 물러나면 이전 PC(프로그램 카운터)로 돌아갑니다. 성능이 상당히 개선됩니다.</translation>
     </message>
   </context>
   <context>
@@ -2500,12 +2500,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="27"/>
       <source>Copy instruction address (&lt;address&gt;)</source>
-      <translation type="unfinished">Copy instruction address (&lt;address&gt;)</translation>
+      <translation>명령 주소 복사(&lt;address&gt;)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="28"/>
       <source>Copy address of [flag] (&lt;address&gt;)</source>
-      <translation type="unfinished">Copy address of [flag] (&lt;address&gt;)</translation>
+      <translation>[flag] 주소 복사(&lt;address&gt;)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="29"/>
@@ -2526,17 +2526,17 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="32"/>
       <source>Rename function at cursor</source>
-      <translation type="unfinished">Rename function at cursor</translation>
+      <translation>커서에서 함수 이름 변경</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="33"/>
       <source>Delete &lt;name&gt;</source>
-      <translation type="unfinished">Delete &lt;name&gt;</translation>
+      <translation>&lt;name&gt; 삭제</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="34"/>
       <source>Edit variable &lt;name of variable&gt;</source>
-      <translation type="unfinished">Edit variable &lt;name of variable&gt;</translation>
+      <translation>&lt;name of variable&gt; 변수 편집</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="35"/>
@@ -2562,7 +2562,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="40"/>
       <source>Set PC</source>
-      <translation type="unfinished">Set PC</translation>
+      <translation>PC(프로그램 카운터) 설정</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="169"/>
@@ -2582,7 +2582,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="189"/>
       <source>Remove all breakpoints in line</source>
-      <translation type="unfinished">Remove all breakpoints in line</translation>
+      <translation>줄의 모든 중단점 제거</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="196"/>
@@ -2592,32 +2592,32 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="200"/>
       <source>Set %1 here</source>
-      <translation type="unfinished">Set %1 here</translation>
+      <translation>여기에 %1 설정</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="212"/>
       <source>Rename function %1</source>
-      <translation type="unfinished">Rename function %1</translation>
+      <translation>%1 함수 이름 변경</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="217"/>
       <source>Rename %1</source>
-      <translation type="unfinished">Rename %1</translation>
+      <translation>%1 이름 변경</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="218"/>
       <source>Remove %1</source>
-      <translation type="unfinished">Remove %1</translation>
+      <translation>%1 제거</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="221"/>
       <source>Add name to %1</source>
-      <translation type="unfinished">Add name to %1</translation>
+      <translation>%1에 이름 추가</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="226"/>
       <source>Copy instruction address (%1)</source>
-      <translation type="unfinished">Copy instruction address (%1)</translation>
+      <translation>명령 주소 복사(%1)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="232"/>
@@ -2633,22 +2633,22 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="257"/>
       <source>Edit variable %1</source>
-      <translation type="unfinished">Edit variable %1</translation>
+      <translation>변수 %1 편집</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="259"/>
       <source>Rename variable %1</source>
-      <translation type="unfinished">Rename variable %1</translation>
+      <translation>변수 %1 이름 변경</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="321"/>
       <source>Can&apos;t rename this variable.&lt;br&gt;Only local variables defined in disassembly can be renamed.</source>
-      <translation type="unfinished">Can&apos;t rename this variable.&lt;br&gt;Only local variables defined in disassembly can be renamed.</translation>
+      <translation>이 변수 이름을 변경할 수 없습니다.&lt;br&gt;분해 시 정의한 로컬 변수만 이름을 변경할 수 있습니다.</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="340"/>
       <source>Can&apos;t edit this variable.&lt;br&gt;Only local variables defined in disassembly can be edited.</source>
-      <translation type="unfinished">Can&apos;t edit this variable.&lt;br&gt;Only local variables defined in disassembly can be edited.</translation>
+      <translation>이 변수 이름을 편집할 수 없습니다.&lt;br&gt;분해 시 정의한 로컬 변수만 이름을 편집할 수 있습니다.</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="413"/>
@@ -2692,7 +2692,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="450"/>
       <source>Can&apos;t rename this variable. Only local variables defined in disassembly can be renamed.</source>
-      <translation type="unfinished">Can&apos;t rename this variable. Only local variables defined in disassembly can be renamed.</translation>
+      <translation>이 변수 이름을 변경할 수 없습니다. 분해 시 정의한 로컬 변수만 이름을 변경할 수 있습니다.</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="475"/>
@@ -2702,7 +2702,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="476"/>
       <source>Can&apos;t edit this variable. Only local variables defined in disassembly can be edited.</source>
-      <translation type="unfinished">Can&apos;t edit this variable. Only local variables defined in disassembly can be edited.</translation>
+      <translation>이 변수 이름을 편집할 수 없습니다. 분해 시 정의한 로컬 변수만 이름을 편집할 수 있습니다.</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="542"/>
@@ -3322,7 +3322,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/EditVariablesDialog.cpp" line="20"/>
       <source>Edit Variables in Function: %1</source>
-      <translation type="unfinished">Edit Variables in Function: %1</translation>
+      <translation>함수에서 변수 편집: %1</translation>
     </message>
   </context>
   <context>
@@ -3371,7 +3371,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="20"/>
       <source>Add flag at</source>
-      <translation type="unfinished">Add flag at</translation>
+      <translation>다음에 플래그 추가:</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="38"/>
@@ -3391,12 +3391,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/FlagDialog.cpp" line="24"/>
       <source>Edit flag at %1</source>
-      <translation type="unfinished">Edit flag at %1</translation>
+      <translation>%1에서 플래그 편집</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.cpp" line="26"/>
       <source>Add flag at %1</source>
-      <translation type="unfinished">Add flag at %1</translation>
+      <translation>%1에서 플래그 추가</translation>
     </message>
   </context>
   <context>
@@ -3419,7 +3419,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="70"/>
       <source>Real Name</source>
-      <translation type="unfinished">Real Name</translation>
+      <translation>실명</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="72"/>
@@ -3462,12 +3462,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="214"/>
       <source>Rename flag %1</source>
-      <translation type="unfinished">Rename flag %1</translation>
+      <translation>%1 플래그 이름 변경</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="215"/>
       <source>Flag name:</source>
-      <translation type="unfinished">Flag name:</translation>
+      <translation>플래그 이름:</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="244"/>
@@ -3480,12 +3480,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/FlirtContextMenu.cpp" line="14"/>
       <source>Copy Line</source>
-      <translation type="unfinished">Copy Line</translation>
+      <translation>라인 복사</translation>
     </message>
     <message>
       <location filename="../menus/FlirtContextMenu.cpp" line="15"/>
       <source>Apply Signature File</source>
-      <translation type="unfinished">Apply Signature File</translation>
+      <translation>서명 파일 적용</translation>
     </message>
   </context>
   <context>
@@ -3493,32 +3493,32 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="65"/>
       <source>Bin</source>
-      <translation type="unfinished">Bin</translation>
+      <translation>빈</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="67"/>
       <source>Arch</source>
-      <translation type="unfinished">Arch</translation>
+      <translation>아카이브</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="69"/>
       <source>Bits</source>
-      <translation type="unfinished">Bits</translation>
+      <translation>비트</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="71"/>
       <source># Funcs</source>
-      <translation type="unfinished"># Funcs</translation>
+      <translation># 함수</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="73"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>이름</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="75"/>
       <source>Details</source>
-      <translation type="unfinished">Details</translation>
+      <translation>세부 사항</translation>
     </message>
   </context>
   <context>
@@ -3573,17 +3573,17 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="149"/>
       <source>Edges: %1</source>
-      <translation type="unfinished">Edges: %1</translation>
+      <translation>가장 자리: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="151"/>
       <source>StackFrame: %1</source>
-      <translation type="unfinished">StackFrame: %1</translation>
+      <translation>StackFrame: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="153"/>
       <source>Comment: %1</source>
-      <translation type="unfinished">Comment: %1</translation>
+      <translation>주석: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="265"/>
@@ -3593,7 +3593,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="270"/>
       <source>&lt;div&gt;&lt;strong&gt;Highlights&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</source>
-      <translation type="unfinished">&lt;div&gt;&lt;strong&gt;Highlights&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
+      <translation>&lt;div&gt;&lt;strong&gt;주안점&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="305"/>
@@ -3609,7 +3609,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="313"/>
       <source>Imp.</source>
-      <translation type="unfinished">Imp.</translation>
+      <translation>불러오기</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="315"/>
@@ -3634,17 +3634,17 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="323"/>
       <source>Call type</source>
-      <translation type="unfinished">Call type</translation>
+      <translation>콜 유형</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="325"/>
       <source>Edges</source>
-      <translation type="unfinished">Edges</translation>
+      <translation>가장 자리</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="327"/>
       <source>StackFrame</source>
-      <translation type="unfinished">StackFrame</translation>
+      <translation>StackFrame</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="329"/>
@@ -3657,7 +3657,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../common/FunctionsTask.h" line="13"/>
       <source>Fetching Functions</source>
-      <translation type="unfinished">Fetching Functions</translation>
+      <translation>함수 가져오기</translation>
     </message>
   </context>
   <context>
@@ -3670,17 +3670,17 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="491"/>
       <source>Undefine</source>
-      <translation type="unfinished">Undefine</translation>
+      <translation>정의 안됨</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="492"/>
       <source>Horizontal</source>
-      <translation type="unfinished">Horizontal</translation>
+      <translation>가로</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="493"/>
       <source>Vertical</source>
-      <translation type="unfinished">Vertical</translation>
+      <translation>세로</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="495"/>
@@ -3690,12 +3690,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="613"/>
       <source>Rename function %1</source>
-      <translation type="unfinished">Rename function %1</translation>
+      <translation>%1 함수 이름 변경</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="614"/>
       <source>Function name:</source>
-      <translation type="unfinished">Function name:</translation>
+      <translation>함수 이름:</translation>
     </message>
   </context>
   <context>
@@ -3703,27 +3703,27 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation type="unfinished">Dialog</translation>
+      <translation>대화상자</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="25"/>
       <source>Chain info:</source>
-      <translation type="unfinished">Chain info:</translation>
+      <translation>체인 정보:</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="41"/>
       <source>Detailed chunk info:</source>
-      <translation type="unfinished">Detailed chunk info:</translation>
+      <translation>세부 청크 정보:</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="48"/>
       <source>Enter chunk base address and press enter</source>
-      <translation type="unfinished">Enter chunk base address and press enter</translation>
+      <translation>청크 기본 주소를 입력하고 엔터 키를 누릅니다.</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="28"/>
       <source>Bins info for arena @ </source>
-      <translation type="unfinished">Bins info for arena @ </translation>
+      <translation>@의 아레나에 대한 빈 정보 </translation>
     </message>
   </context>
   <context>
@@ -3731,137 +3731,137 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation type="unfinished">Dialog</translation>
+      <translation>대화상자</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="22"/>
       <source>Base</source>
-      <translation type="unfinished">Base</translation>
+      <translation>기본</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="29"/>
       <source>Base address of the chunk</source>
-      <translation type="unfinished">Base address of the chunk</translation>
+      <translation>청크의 기본 주소</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="39"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>크기</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="46"/>
       <source>Size of the heap chunk including metadata</source>
-      <translation type="unfinished">Size of the heap chunk including metadata</translation>
+      <translation>메타데이터를 포함한 힙 청크의 크기</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="56"/>
       <source>Fd</source>
-      <translation type="unfinished">Fd</translation>
+      <translation>Fd</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="63"/>
       <source>Link to next free chunk in bin&apos;s linked list</source>
-      <translation type="unfinished">Link to next free chunk in bin&apos;s linked list</translation>
+      <translation>빈의 링크 목록에서 다음 무료 청크로의 링크</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="73"/>
       <source>Bk</source>
-      <translation type="unfinished">Bk</translation>
+      <translation>Bk</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="80"/>
       <source>Link to previous free chunk in bin&apos;s linked list</source>
-      <translation type="unfinished">Link to previous free chunk in bin&apos;s linked list</translation>
+      <translation>빈의 링크 목록에서 이전 무료 청크로의 링크</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="90"/>
       <source>Link to next larger free chunk (only for large chunks)</source>
-      <translation type="unfinished">Link to next larger free chunk (only for large chunks)</translation>
+      <translation>다음으로 더 큰 무료 청크로 연결되는 링크(큰 청크만 해당)</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="100"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Fd-nextsize&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Fd-nextsize&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Fd-nextsize&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="107"/>
       <source>Bk-nextsize</source>
-      <translation type="unfinished">Bk-nextsize</translation>
+      <translation>Bk-nextsize</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="114"/>
       <source>Link to next smaller free chunk (for large chunks)</source>
-      <translation type="unfinished">Link to next smaller free chunk (for large chunks)</translation>
+      <translation>다음으로 더 작은 무료 청크로 연결되는 링크(큰 청크만 해당)</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="124"/>
       <source>Size of previous chunk (if free)</source>
-      <translation type="unfinished">Size of previous chunk (if free)</translation>
+      <translation>이전 청크 크기(무료인 경우)</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="134"/>
       <source>PrevSize</source>
-      <translation type="unfinished">PrevSize</translation>
+      <translation>PrevSize</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="145"/>
       <source>If the chunk was obtained from a non-main arena</source>
-      <translation type="unfinished">If the chunk was obtained from a non-main arena</translation>
+      <translation>메인 아레나가 아닌 곳에서 청크를 획득한 경우</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="148"/>
       <source>NON_MAIN_ARENA</source>
-      <translation type="unfinished">NON_MAIN_ARENA</translation>
+      <translation>NON_MAIN_ARENA</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="161"/>
       <source>The chunk was obtained with mmap()</source>
-      <translation type="unfinished">The chunk was obtained with mmap()</translation>
+      <translation>청크는 mmap()을 사용하여 획득했습니다.</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="164"/>
       <source>IS_MMAPED</source>
-      <translation type="unfinished">IS_MMAPED</translation>
+      <translation>IS_MMAPED</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="177"/>
       <source>Previous adjacent chunk is in use</source>
-      <translation type="unfinished">Previous adjacent chunk is in use</translation>
+      <translation>이전 인접 청크가 사용 중입니다.</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="180"/>
       <source>PREV_INUSE</source>
-      <translation type="unfinished">PREV_INUSE</translation>
+      <translation>PREV_INUSE</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="195"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>저장</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="12"/>
       <source>Chunk @ </source>
-      <translation type="unfinished">Chunk @ </translation>
+      <translation>@의 청크 </translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="100"/>
       <source>Chunk saved</source>
-      <translation type="unfinished">Chunk saved</translation>
+      <translation>청크 저장</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="101"/>
       <source>Chunk header successfully overwritten</source>
-      <translation type="unfinished">Chunk header successfully overwritten</translation>
+      <translation>청크 헤더를 성공적으로 덮어썼습니다.</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="103"/>
       <source>Chunk not saved</source>
-      <translation type="unfinished">Chunk not saved</translation>
+      <translation>청크 저장되지 않음</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="104"/>
       <source>Chunk header not successfully overwritten</source>
-      <translation type="unfinished">Chunk header not successfully overwritten</translation>
+      <translation>청크 헤더를 성공적으로 덮어쓰지 못했습니다.</translation>
     </message>
   </context>
   <context>
@@ -3869,17 +3869,17 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="161"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>오프셋</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="163"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>크기</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="165"/>
       <source>Status</source>
-      <translation type="unfinished">Status</translation>
+      <translation>상태</translation>
     </message>
   </context>
   <context>
@@ -3887,32 +3887,32 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>양식</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="34"/>
       <source>Arena</source>
-      <translation type="unfinished">Arena</translation>
+      <translation>아레나</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="47"/>
       <source>View bins info for an arena</source>
-      <translation type="unfinished">View bins info for an arena</translation>
+      <translation>아레나의 빈 정보 보기</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="50"/>
       <source>Bins</source>
-      <translation type="unfinished">Bins</translation>
+      <translation>빈</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="27"/>
       <source>Detailed Chunk Info</source>
-      <translation type="unfinished">Detailed Chunk Info</translation>
+      <translation>세부 청크 정보</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="28"/>
       <source>Bins Info</source>
-      <translation type="unfinished">Bins Info</translation>
+      <translation>빈 정보</translation>
     </message>
   </context>
   <context>
@@ -3920,37 +3920,37 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="14"/>
       <source>Add Global Variable</source>
-      <translation type="unfinished">Add Global Variable</translation>
+      <translation>전역 변수 추가</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="20"/>
       <source>Add global variable at</source>
-      <translation type="unfinished">Add global variable at</translation>
+      <translation>다음에서 전역 변수 추가:</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="38"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>이름:</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="61"/>
       <source>int</source>
-      <translation type="unfinished">int</translation>
+      <translation>int</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="80"/>
       <source>Type:</source>
-      <translation type="unfinished">Type:</translation>
+      <translation>유형:</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.cpp" line="28"/>
       <source>Edit global variable at %1</source>
-      <translation type="unfinished">Edit global variable at %1</translation>
+      <translation>%1에서 전역 변수 편집</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.cpp" line="30"/>
       <source>Add global variable at %1</source>
-      <translation type="unfinished">Add global variable at %1</translation>
+      <translation>%1에서 전역 변수 추가</translation>
     </message>
   </context>
   <context>
@@ -3958,22 +3958,22 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="60"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>주소</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="62"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>유형</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="64"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>이름</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="66"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>주석</translation>
     </message>
   </context>
   <context>
@@ -3983,24 +3983,24 @@ Please check the console for more details.</translation>
       <location filename="../widgets/GlobalsWidget.ui" line="79"/>
       <location filename="../widgets/GlobalsWidget.cpp" line="206"/>
       <source>Edit Global Variable</source>
-      <translation type="unfinished">Edit Global Variable</translation>
+      <translation>전역 변수 편집</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.ui" line="84"/>
       <location filename="../widgets/GlobalsWidget.ui" line="87"/>
       <location filename="../widgets/GlobalsWidget.cpp" line="207"/>
       <source>Delete Global Variable</source>
-      <translation type="unfinished">Delete Global Variable</translation>
+      <translation>전역 변수 삭제</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="167"/>
       <source>Category</source>
-      <translation type="unfinished">Category</translation>
+      <translation>분류</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="169"/>
       <source>Globals</source>
-      <translation type="unfinished">Globals</translation>
+      <translation>전역</translation>
     </message>
   </context>
   <context>
@@ -4008,73 +4008,73 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="14"/>
       <source>Graph</source>
-      <translation type="unfinished">Graph</translation>
+      <translation>그래프</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="22"/>
       <source>Graph Block Options </source>
-      <translation type="unfinished">Graph Block Options </translation>
+      <translation>그래프 블록 옵션 </translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="31"/>
       <source>The offset of the first instruction of a graph block is shown in the header of the respective graph block</source>
-      <translation type="unfinished">The offset of the first instruction of a graph block is shown in the header of the respective graph block</translation>
+      <translation>그래프 블록의 첫 번째 명령어 오프셋은 각 그래프 블록의 헤더에 표시됩니다.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="34"/>
       <source>Show offset of the first instruction in each graph block</source>
-      <translation type="unfinished">Show offset of the first instruction in each graph block</translation>
+      <translation>각 그래프 블록의 첫 번째 명령어 오프셋 표시</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="41"/>
       <source>Show offset for each instruction (graph.offset)</source>
-      <translation type="unfinished">Show offset for each instruction (graph.offset)</translation>
+      <translation>각 명령어에 대한 오프셋 표시(graph.offset)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="48"/>
       <source>Show preview when hovering (graph.preview)</source>
-      <translation type="unfinished">Show preview when hovering (graph.preview)</translation>
+      <translation>마우스를 갖다 댈 때 미리보기 표시(graph.preview)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="57"/>
       <source>Maximum Line Length:</source>
-      <translation type="unfinished">Maximum Line Length:</translation>
+      <translation>최대 라인 길이:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="77"/>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="87"/>
       <source>Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</source>
-      <translation type="unfinished">Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</translation>
+      <translation>축소할 때 텍스트를 숨기면 지정된 값보다 작아집니다. 값이 높을수록 성능이 향상될 수 있습니다.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="80"/>
       <source>Minimum Font Size</source>
-      <translation type="unfinished">Minimum Font Size</translation>
+      <translation>최소 글꼴 크기</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="105"/>
       <source>Graph Layout Options</source>
-      <translation type="unfinished">Graph Layout Options</translation>
+      <translation>그래프 레이아웃 옵션</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="124"/>
       <source>Vertical</source>
-      <translation type="unfinished">Vertical</translation>
+      <translation>세로</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="147"/>
       <source>Horizontal</source>
-      <translation type="unfinished">Horizontal</translation>
+      <translation>가로</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="183"/>
       <source>Block spacing:</source>
-      <translation type="unfinished">Block spacing:</translation>
+      <translation>블록 간격:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="190"/>
       <source>Edge spacing</source>
-      <translation type="unfinished">Edge spacing</translation>
+      <translation>가장 자리 간격</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="200"/>
@@ -5662,7 +5662,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.cpp" line="261"/>
       <source>The installed plugins didn&apos;t add entries to this menu.</source>
-      <translation type="unfinished">The installed plugins didn&apos;t add entries to this menu.</translation>
+      <translation>설치된 플러그인이 이 메뉴에 입력 항목을 추가하지 않았습니다.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="275"/>
@@ -5926,7 +5926,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="296"/>
       <source>Don&apos;t open any file</source>
-      <translation type="unfinished">Don&apos;t open any file</translation>
+      <translation>파일을 열지 마십시오.</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="303"/>
@@ -7827,7 +7827,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="68"/>
       <source>Don&apos;t check for updates automatically</source>
-      <translation type="unfinished">Don&apos;t check for updates automatically</translation>
+      <translation>업데이트를 자동으로 확인하지 마십시오.</translation>
     </message>
   </context>
   <context>
