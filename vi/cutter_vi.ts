@@ -21,7 +21,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="80"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter is a free and open-source reverse engineering platform powered by Rizin&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter là một nền tảng kỹ nghệ đảo ngược mã nguồn mở miễn phí được cung cấp bởi Rizin&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Tìm hiểu thêm trên &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter là một nền tảng đảo ngược công nghệ mã nguồn mở miễn phí được cung cấp bởi Rizin&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Tìm hiểu thêm trên &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="87"/>
@@ -147,7 +147,7 @@
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="19"/>
       <source>Add comment</source>
-      <translation>Thêm ghi chú</translation>
+      <translation>Thêm bình luận</translation>
     </message>
   </context>
   <context>
@@ -370,12 +370,12 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="289"/>
       <source>Use information provided by decompiler when highlighting code.</source>
-      <translation>Sử dụng thông tin được cung cấp bởi trình biên dịch ngược khi nêu bật mã.</translation>
+      <translation>Sử dụng thông tin được cung cấp bởi trình biên dịch ngược khi bôi đậm mã.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="292"/>
       <source>Decompiler based highlighting</source>
-      <translation>Nêu bật theo trình biên dịch ngược</translation>
+      <translation>Bôi đậm theo trình biên dịch ngược</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="312"/>
@@ -508,7 +508,7 @@
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="14"/>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="65"/>
       <source>Disassembly</source>
-      <translation>Phân dịch</translation>
+      <translation>Dịch assembly</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="35"/>
@@ -557,7 +557,7 @@
     </message>
     <message>
       <source>Tabs before assembly (asm.tabs.off):</source>
-      <translation>Số tab trước khi hợp nhất (asm.tabs.off):</translation>
+      <translation>Số tab trước mã assembly (asm.tabs.off):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="245"/>
@@ -607,17 +607,17 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="107"/>
       <source>Show Disassembly as:</source>
-      <translation>Hiển thị bản phân dịch dưới dạng:</translation>
+      <translation>Hiển thị bản dịch assembly dưới dạng:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="90"/>
       <source>Tabs in assembly (asm.tabs):</source>
-      <translation>Số tab trong bản hợp nhất (asm.tabs):</translation>
+      <translation>Số tab trong bản assembly (asm.tabs):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="168"/>
       <source>Indent disassembly based on reflines depth (asm.indent)</source>
-      <translation>Cách lề bản phân dịch dựa trên chiều sâu đường tham chiếu (asm.indent)</translation>
+      <translation>Cách lề bản dịch assembly dựa trên chiều sâu đường tham chiếu (asm.indent)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="133"/>
@@ -692,12 +692,12 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="440"/>
       <source>Show jump lines (asm.lines)</source>
-      <translation>Hiển thị đường nhảy (asm.lines)</translation>
+      <translation>Hiển thị dòng nhảy (asm.lines)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="447"/>
       <source>Show function boundary lines (asm.lines.fcn)</source>
-      <translation>Hiển thị đường ranh giới hàm (asm.lines.fcn)</translation>
+      <translation>Hiển thị dòng ranh giới hàm (asm.lines.fcn)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="454"/>
@@ -717,7 +717,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="475"/>
       <source>Show size of opcodes in disassembly (asm.size)</source>
-      <translation>Hiển thị kích cỡ của opcode trong bản phân dịch (asm.size)</translation>
+      <translation>Hiển thị kích cỡ của opcode trong bản dịch assembly (asm.size)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="482"/>
@@ -727,7 +727,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="489"/>
       <source>Substitute variables in disassembly (asm.sub.var)</source>
-      <translation>Thay thế các biến số trong bản phân dịch (asm.sub.var)</translation>
+      <translation>Thay thế các biến số trong bản dịch assembly (asm.sub.var)</translation>
     </message>
     <message>
       <source>Substitute variables (asm.sub.var)</source>
@@ -948,7 +948,7 @@
     <message>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="81"/>
       <source>Remove item</source>
-      <translation>Xóa sản phẩm</translation>
+      <translation>Xóa mục</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="86"/>
@@ -1121,23 +1121,23 @@
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="58"/>
       <source>Add new breakpoint</source>
-      <translation>Thêm điểm vỡ mới</translation>
+      <translation>Thêm điểm gãy mới</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="65"/>
       <location filename="../widgets/BreakpointWidget.cpp" line="196"/>
       <source>Delete breakpoint</source>
-      <translation>Xóa điểm vỡ</translation>
+      <translation>Xóa điểm gãy</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="72"/>
       <source>Delete all breakpoints</source>
-      <translation>Xóa tất cả điểm vỡ</translation>
+      <translation>Xóa tất cả điểm gãy</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="202"/>
       <source>Toggle breakpoint</source>
-      <translation>Bật/tắt điểm vỡ</translation>
+      <translation>Bật/tắt điểm gãy</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="208"/>
@@ -1150,7 +1150,7 @@
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="14"/>
       <source>Add/Edit breakpoint</source>
-      <translation>Thêm/sửa điểm vỡ</translation>
+      <translation>Thêm/sửa điểm gãy</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="22"/>
@@ -1250,12 +1250,12 @@
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="21"/>
       <source>Edit breakpoint</source>
-      <translation>Sửa điểm vỡ</translation>
+      <translation>Sửa điểm gãy</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="23"/>
       <source>New breakpoint</source>
-      <translation>Điểm vỡ mới</translation>
+      <translation>Điểm gãy mới</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="32"/>
@@ -1265,7 +1265,7 @@
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="32"/>
       <source>Address or expression calculated when creating breakpoint</source>
-      <translation>Địa chỉ hoặc biểu thức được tính khi tạo điểm vỡ</translation>
+      <translation>Địa chỉ hoặc biểu thức được tính khi tạo điểm gãy</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="34"/>
@@ -1354,7 +1354,7 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="599"/>
       <source>Seek to VTable</source>
-      <translation>Tìm đến VTable</translation>
+      <translation>Tua đến VTable</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="600"/>
@@ -1411,12 +1411,12 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="823"/>
       <source>Rename Class %1</source>
-      <translation type="unfinished">Rename Class %1</translation>
+      <translation>Đổi tên lớp %1</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="824"/>
       <source>Class name:</source>
-      <translation type="unfinished">Class name:</translation>
+      <translation>Tên lớp:</translation>
     </message>
   </context>
   <context>
@@ -1424,47 +1424,47 @@
     <message>
       <location filename="../widgets/ColorPicker.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Trình chọn màu</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="87"/>
       <source>Val:</source>
-      <translation type="unfinished">Val:</translation>
+      <translation>Giá trị:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="118"/>
       <source>Sat:</source>
-      <translation type="unfinished">Sat:</translation>
+      <translation>Bão hòa:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="149"/>
       <source>Hue:</source>
-      <translation type="unfinished">Hue:</translation>
+      <translation>Sắc độ:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="184"/>
       <source>Red:</source>
-      <translation type="unfinished">Red:</translation>
+      <translation>Đỏ:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="215"/>
       <source>Green:</source>
-      <translation type="unfinished">Green:</translation>
+      <translation>Xanh lục:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="246"/>
       <source>Blue:</source>
-      <translation type="unfinished">Blue:</translation>
+      <translation>Xanh dương:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="281"/>
       <source>Hex:</source>
-      <translation type="unfinished">Hex:</translation>
+      <translation>Hex:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="288"/>
       <source>\#HHHHHH</source>
-      <translation type="unfinished">\#HHHHHH</translation>
+      <translation>\#HHHHHH</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="312"/>
@@ -1492,7 +1492,7 @@
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="35"/>
       <source>Disassembly Preview</source>
-      <translation>Xem trước bản phân dịch</translation>
+      <translation>Xem trước bản dịch assembly</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="79"/>
@@ -1503,18 +1503,18 @@
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="93"/>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="144"/>
       <source>Unsaved changes</source>
-      <translation type="unfinished">Unsaved changes</translation>
+      <translation>Các thay đổi chưa được lưu</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="94"/>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="145"/>
       <source>Are you sure you want to exit without saving? All changes will be lost.</source>
-      <translation type="unfinished">Are you sure you want to exit without saving? All changes will be lost.</translation>
+      <translation>Bạn có chắc bạn muốn thoát mà không lưu? Mọi thay đổi đều sẽ bị mất.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="159"/>
       <source>Theme Editor - &lt;%1&gt;</source>
-      <translation type="unfinished">Theme Editor - &lt;%1&gt;</translation>
+      <translation>Trình chỉnh sửa chủ đề - &lt;%1&gt;</translation>
     </message>
   </context>
   <context>
@@ -1522,83 +1522,83 @@
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="45"/>
       <source>Standard themes not found</source>
-      <translation type="unfinished">Standard themes not found</translation>
+      <translation>Không tìm thấy chủ đề tiêu chuẩn</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="46"/>
       <source>The Rizin standard themes could not be found in &apos;%1&apos;. Most likely, Rizin is not properly installed.</source>
-      <translation type="unfinished">The Rizin standard themes could not be found in &apos;%1&apos;. Most likely, Rizin is not properly installed.</translation>
+      <translation>Hầu hết các chủ đề Rizin tiêu chuẩn đều không thể được tìm thấy trong &apos;%1&apos;. Nhiều khả năng, Rizin không được cài đặt đúng cách.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="75"/>
       <location filename="../common/ColorThemeWorker.cpp" line="169"/>
       <source>Theme &lt;b&gt;%1&lt;/b&gt; does not exist.</source>
-      <translation type="unfinished">Theme &lt;b&gt;%1&lt;/b&gt; does not exist.</translation>
+      <translation>Chủ đề &lt;b&gt;%1&lt;/b&gt; không tồn tại.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="85"/>
       <source>The file &lt;b&gt;%1&lt;/b&gt; cannot be opened.</source>
-      <translation type="unfinished">The file &lt;b&gt;%1&lt;/b&gt; cannot be opened.</translation>
+      <translation>Không thể mở tập tin &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="166"/>
       <source>You can not delete standard Rizin color themes.</source>
-      <translation type="unfinished">You can not delete standard Rizin color themes.</translation>
+      <translation>Bạn không thể xóa chủ đề màu Rizin tiêu chuẩn.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="174"/>
       <source>You have no permission to write to &lt;b&gt;%1&lt;/b&gt;</source>
-      <translation type="unfinished">You have no permission to write to &lt;b&gt;%1&lt;/b&gt;</translation>
+      <translation>Bạn không có quyền ghi vào &lt;b&gt;%1&lt;/b&gt;</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="177"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; can not be opened.</source>
-      <translation type="unfinished">File &lt;b&gt;%1&lt;/b&gt; can not be opened.</translation>
+      <translation>Không thể mở tập tin &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="180"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; can not be removed.</source>
-      <translation type="unfinished">File &lt;b&gt;%1&lt;/b&gt; can not be removed.</translation>
+      <translation>Không thể xóa tập tin &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="189"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; does not exist.</source>
-      <translation type="unfinished">File &lt;b&gt;%1&lt;/b&gt; does not exist.</translation>
+      <translation>Tập tin &lt;b&gt;%1&lt;/b&gt; không tồn tại.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="195"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; could not be opened. Please make sure you have access to it and try again.</source>
-      <translation type="unfinished">File &lt;b&gt;%1&lt;/b&gt; could not be opened. Please make sure you have access to it and try again.</translation>
+      <translation>Không thể mở tập tin &lt;b&gt;%1&lt;/b&gt;. Vui lòng đảm bảo bạn có quyền truy cập nó và thử lại.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="199"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; is not a Cutter color theme</source>
-      <translation type="unfinished">File &lt;b&gt;%1&lt;/b&gt; is not a Cutter color theme</translation>
+      <translation>Tập tin &lt;b&gt;%1&lt;/b&gt; không phải là một chủ đề màu của Cutter</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="204"/>
       <source>A color theme named &lt;b&gt;%1&lt;/b&gt; already exists.</source>
-      <translation type="unfinished">A color theme named &lt;b&gt;%1&lt;/b&gt; already exists.</translation>
+      <translation>Một chủ đề màu tên là &lt;b&gt;%1&lt;/b&gt; đã tồn tại rồi.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="210"/>
       <source>Error occurred during importing. Please make sure you have an access to the directory &lt;b&gt;%1&lt;/b&gt; and try again.</source>
-      <translation type="unfinished">Error occurred during importing. Please make sure you have an access to the directory &lt;b&gt;%1&lt;/b&gt; and try again.</translation>
+      <translation>Đã xảy ra lỗi trong quá trình nhập. Vui lòng đảm bảo bạn có quyền truy cập thư mục &lt;b&gt;%1&lt;/b&gt; và thử lại.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="220"/>
       <source>A color theme named &lt;b&gt;&quot;%1&quot;&lt;/b&gt; already exists.</source>
-      <translation type="unfinished">A color theme named &lt;b&gt;&quot;%1&quot;&lt;/b&gt; already exists.</translation>
+      <translation>Một chủ đề màu tên là &lt;b&gt;&quot;%1&quot;&lt;/b&gt; đã tồn tại rồi.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="224"/>
       <source>You can not rename standard Rizin themes.</source>
-      <translation type="unfinished">You can not rename standard Rizin themes.</translation>
+      <translation>Bạn không thể đổi tên các chủ đề Rizin tiêu chuẩn.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="230"/>
       <source>Something went wrong during renaming. Please make sure you have access to the directory &lt;b&gt;&quot;%1&quot;&lt;/b&gt;.</source>
-      <translation type="unfinished">Something went wrong during renaming. Please make sure you have access to the directory &lt;b&gt;&quot;%1&quot;&lt;/b&gt;.</translation>
+      <translation>Đã xảy ra lỗi trong quá trình đổi tên. Vui lòng đảm bảo bạn có quyền truy cập thư mục &lt;b&gt;&quot;%1&quot;&lt;/b&gt;.</translation>
     </message>
   </context>
   <context>
@@ -1606,17 +1606,17 @@
     <message>
       <location filename="../widgets/ComboQuickFilterView.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Trình chọn màu</translation>
     </message>
     <message>
       <location filename="../widgets/ComboQuickFilterView.ui" line="32"/>
       <source>Quick Filter</source>
-      <translation type="unfinished">Quick Filter</translation>
+      <translation>Lọc nhanh</translation>
     </message>
     <message>
       <location filename="../widgets/ComboQuickFilterView.ui" line="39"/>
       <source>TextLabel</source>
-      <translation type="unfinished">TextLabel</translation>
+      <translation>TextLabel</translation>
     </message>
   </context>
   <context>
@@ -1624,7 +1624,7 @@
     <message>
       <location filename="../common/CommandTask.h" line="23"/>
       <source>Running Command</source>
-      <translation type="unfinished">Running Command</translation>
+      <translation>Thực thi lệnh</translation>
     </message>
   </context>
   <context>
@@ -1632,17 +1632,17 @@
     <message>
       <location filename="../dialogs/CommentsDialog.ui" line="14"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Bình luận</translation>
     </message>
     <message>
       <location filename="../dialogs/CommentsDialog.cpp" line="43"/>
       <source>Add Comment at %1</source>
-      <translation type="unfinished">Add Comment at %1</translation>
+      <translation>Thêm lệnh tại %1</translation>
     </message>
     <message>
       <location filename="../dialogs/CommentsDialog.cpp" line="45"/>
       <source>Edit Comment at %1</source>
-      <translation type="unfinished">Edit Comment at %1</translation>
+      <translation>Sửa lệnh tại %1</translation>
     </message>
   </context>
   <context>
@@ -1650,23 +1650,23 @@
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="157"/>
       <source>Function/Offset</source>
-      <translation type="unfinished">Function/Offset</translation>
+      <translation>Hàm/Bù</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="159"/>
       <location filename="../widgets/CommentsWidget.cpp" line="170"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Bình luận</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="166"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>Bù</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="168"/>
       <source>Function</source>
-      <translation type="unfinished">Function</translation>
+      <translation>Hàm</translation>
     </message>
   </context>
   <context>
@@ -1674,38 +1674,38 @@
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="235"/>
       <source>Horizontal</source>
-      <translation type="unfinished">Horizontal</translation>
+      <translation>Chiều ngang</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="236"/>
       <source>Vertical</source>
-      <translation type="unfinished">Vertical</translation>
+      <translation>Chiều dọc</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="238"/>
       <source>Comments</source>
-      <translation type="unfinished">Comments</translation>
+      <translation>Bình luận</translation>
     </message>
   </context>
   <context>
     <name>Configuration</name>
     <message>
       <source>Critical!</source>
-      <translation type="unfinished">Critical!</translation>
+      <translation>Nghiêm trọng!</translation>
     </message>
     <message>
       <source>!!! Settings are not writable! Make sure you have a write access to &quot;%1&quot;</source>
-      <translation type="unfinished">!!! Settings are not writable! Make sure you have a write access to &quot;%1&quot;</translation>
+      <translation>!!! Không thể ghi các cài đặt! Hãy đảm bảo bạn có quyền truy cập &quot;%1&quot;</translation>
     </message>
     <message>
       <location filename="../common/Configuration.cpp" line="146"/>
       <source>Critical Error!</source>
-      <translation type="unfinished">Critical Error!</translation>
+      <translation>Lỗi nghiêm trọng!</translation>
     </message>
     <message>
       <location filename="../common/Configuration.cpp" line="147"/>
       <source>Settings are not writable! Make sure you have a write access to &quot;%1&quot;.</source>
-      <translation type="unfinished">Settings are not writable! Make sure you have a write access to &quot;%1&quot;.</translation>
+      <translation>Không thể ghi các cài đặt! Hãy đảm bảo bạn có quyền truy cập &quot;%1&quot;.</translation>
     </message>
   </context>
   <context>
@@ -1713,42 +1713,42 @@
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="93"/>
       <source>Rizin Console</source>
-      <translation type="unfinished">Rizin Console</translation>
+      <translation>Bảng điều khiển Rizin</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="98"/>
       <source>Debugee Input</source>
-      <translation type="unfinished">Debugee Input</translation>
+      <translation>Đầu vào bảng điều khiển</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="115"/>
       <source> Type &quot;?&quot; for help</source>
-      <translation type="unfinished"> Type &quot;?&quot; for help</translation>
+      <translation> Điền &quot;?&quot; để được trợ giúp</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="137"/>
       <source> Enter input for the debugee</source>
-      <translation type="unfinished"> Enter input for the debugee</translation>
+      <translation> Điền đầu vào cho bảng điều khiển</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="153"/>
       <source>Execute command</source>
-      <translation type="unfinished">Execute command</translation>
+      <translation>Thực thi lệnh</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="159"/>
       <source>...</source>
-      <translation type="unfinished">...</translation>
+      <translation>...</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.cpp" line="76"/>
       <source>Clear Output</source>
-      <translation type="unfinished">Clear Output</translation>
+      <translation>Xóa hết đầu ra</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.cpp" line="85"/>
       <source>Wrap Lines</source>
-      <translation type="unfinished">Wrap Lines</translation>
+      <translation>Xuống dòng</translation>
     </message>
   </context>
   <context>
@@ -1757,7 +1757,7 @@
       <location filename="../core/Cutter.cpp" line="274"/>
       <location filename="../core/Cutter.cpp" line="287"/>
       <source>Loading initialization file from </source>
-      <translation type="unfinished">Loading initialization file from </translation>
+      <translation>Đang tải tập tin bắt đầu từ </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1057"/>
@@ -1766,107 +1766,107 @@
       <location filename="../core/Cutter.cpp" line="1081"/>
       <location filename="../core/Cutter.cpp" line="1085"/>
       <source>Signatures</source>
-      <translation type="unfinished">Signatures</translation>
+      <translation>Chữ ký</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1058"/>
       <source>Cannot apply signature file because the requested arch is not supported by .sig files</source>
-      <translation type="unfinished">Cannot apply signature file because the requested arch is not supported by .sig files</translation>
+      <translation>Không thể áp dụng tập tin chữ ký bởi arch được yêu cầu không được hỗ trợ bởi các tập tin .sig</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1067"/>
       <source>Found %1 matching signatures!</source>
-      <translation type="unfinished">Found %1 matching signatures!</translation>
+      <translation>Đã tìm thấy %1 chữ ký khớp!</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1072"/>
       <source>Failed to apply signature file!
 Please check the console for more details.</source>
-      <translation type="unfinished">Failed to apply signature file!
-Please check the console for more details.</translation>
+      <translation>Không thể áp dụng tập tin chữ ký!
+Vui lòng kiểm tra bảng điều khiển để biết thêm chi tiết.</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1082"/>
       <source>Cannot create signature file (check the console for more details).</source>
-      <translation type="unfinished">Cannot create signature file (check the console for more details).</translation>
+      <translation>Không thể tạo tập tin chữ ký (vui lòng kiểm tra bảng điều khiển để biết thêm chi tiết).</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1086"/>
       <source>Written %1 signatures to %2.</source>
-      <translation type="unfinished">Written %1 signatures to %2.</translation>
+      <translation>Đã ghi %1 chữ ký vào %2.</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1987"/>
       <source>Starting native debug...</source>
-      <translation type="unfinished">Starting native debug...</translation>
+      <translation>Đang bắt đầu gỡ lỗi tự nhiên...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2035"/>
       <source>Starting emulation...</source>
-      <translation type="unfinished">Starting emulation...</translation>
+      <translation>Đang bắt đầu giả lập...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2098"/>
       <source>Connecting to: </source>
-      <translation type="unfinished">Connecting to: </translation>
+      <translation>Đang kết nối với: </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2150"/>
       <source>Attaching to process (</source>
-      <translation type="unfinished">Attaching to process (</translation>
+      <translation>Đang đính kèm vào tiến trình (</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2607"/>
       <source>Creating debug tracepoint...</source>
-      <translation type="unfinished">Creating debug tracepoint...</translation>
+      <translation>Đang tạo điểm truy vết gỡ lỗi...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2652"/>
       <source>Stopping debug session...</source>
-      <translation type="unfinished">Stopping debug session...</translation>
+      <translation>Đang dừng phiên gỡ lỗi...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2687"/>
       <source>Breakpoint error</source>
-      <translation type="unfinished">Breakpoint error</translation>
+      <translation>Lỗi điểm gãy</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2687"/>
       <source>Failed to create breakpoint</source>
-      <translation type="unfinished">Failed to create breakpoint</translation>
+      <translation>Không thể tạo điểm gãy</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="3627"/>
       <source>Unknown (%1)</source>
-      <translation type="unfinished">Unknown (%1)</translation>
+      <translation>Không xác định (%1)</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4059"/>
       <location filename="../core/Cutter.cpp" line="4088"/>
       <source>Error parsing type: &quot;%1&quot; message: </source>
-      <translation type="unfinished">Error parsing type: &quot;%1&quot; message: </translation>
+      <translation>Lỗi khi phân tích loại: &quot;%1&quot; thông điệp: </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4065"/>
       <source>Error creating global variable: &quot;%1&quot;</source>
-      <translation type="unfinished">Error creating global variable: &quot;%1&quot;</translation>
+      <translation>Lỗi khi tạo biến số toàn cục: &quot;%1&quot;</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4658"/>
       <location filename="../core/Cutter.cpp" line="4709"/>
       <source>Cannot get global graph</source>
-      <translation type="unfinished">Cannot get global graph</translation>
+      <translation>Không thể tải biểu đồ toàn cục</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4660"/>
       <location filename="../core/Cutter.cpp" line="4711"/>
       <source>Cannot get graph at </source>
-      <translation type="unfinished">Cannot get graph at </translation>
+      <translation>Không thể tải biểu đồ tại </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4691"/>
       <source>Failed to generate graph</source>
-      <translation type="unfinished">Failed to generate graph</translation>
+      <translation>Không thể tạo biểu đồ</translation>
     </message>
   </context>
   <context>
@@ -1875,141 +1875,141 @@ Please check the console for more details.</translation>
       <location filename="../widgets/CutterGraphView.cpp" line="30"/>
       <location filename="../widgets/CutterGraphView.cpp" line="440"/>
       <source>Export Graph</source>
-      <translation type="unfinished">Export Graph</translation>
+      <translation>Xuất biểu đồ</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="42"/>
       <source>Layout</source>
-      <translation type="unfinished">Layout</translation>
+      <translation>Bố cục</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="43"/>
       <source>Horizontal</source>
-      <translation type="unfinished">Horizontal</translation>
+      <translation>Chiều ngang</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="47"/>
       <source>Grid narrow</source>
-      <translation type="unfinished">Grid narrow</translation>
+      <translation>Lưới hẹp</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="48"/>
       <source>Grid medium</source>
-      <translation type="unfinished">Grid medium</translation>
+      <translation>Lưới trung bình</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="49"/>
       <source>Grid wide</source>
-      <translation type="unfinished">Grid wide</translation>
+      <translation>Lưới rộng</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="63"/>
       <source>Graphviz polyline</source>
-      <translation type="unfinished">Graphviz polyline</translation>
+      <translation>Graphviz polyline</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="64"/>
       <source>Graphviz ortho</source>
-      <translation type="unfinished">Graphviz ortho</translation>
+      <translation>Graphviz ortho</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="65"/>
       <source>Graphviz sfdp</source>
-      <translation type="unfinished">Graphviz sfdp</translation>
+      <translation>Graphviz sfdp</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="66"/>
       <source>Graphviz neato</source>
-      <translation type="unfinished">Graphviz neato</translation>
+      <translation>Graphviz neato</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="67"/>
       <source>Graphviz twopi</source>
-      <translation type="unfinished">Graphviz twopi</translation>
+      <translation>Graphviz twopi</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="68"/>
       <source>Graphviz circo</source>
-      <translation type="unfinished">Graphviz circo</translation>
+      <translation>Graphviz circo</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="409"/>
       <source>PNG (*.png)</source>
-      <translation type="unfinished">PNG (*.png)</translation>
+      <translation>PNG (*.png)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="410"/>
       <source>JPEG (*.jpg)</source>
-      <translation type="unfinished">JPEG (*.jpg)</translation>
+      <translation>JPEG (*.jpg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="411"/>
       <source>SVG (*.svg)</source>
-      <translation type="unfinished">SVG (*.svg)</translation>
+      <translation>SVG (*.svg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="415"/>
       <source>Graphviz dot (*.dot)</source>
-      <translation type="unfinished">Graphviz dot (*.dot)</translation>
+      <translation>Graphviz dot (*.dot)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="416"/>
       <source>Graph Modelling Language (*.gml)</source>
-      <translation type="unfinished">Graph Modelling Language (*.gml)</translation>
+      <translation>Ngôn ngữ mô hình biểu đồ (*.gml)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="418"/>
       <source>RZ JSON (*.json)</source>
-      <translation type="unfinished">RZ JSON (*.json)</translation>
+      <translation>RZ JSON (*.json)</translation>
     </message>
     <message>
       <source>SDB key-value (*.txt)</source>
-      <translation type="unfinished">SDB key-value (*.txt)</translation>
+      <translation>Giá trị chìa khóa SDB (*.txt)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="424"/>
       <source>Graphviz json (*.json)</source>
-      <translation type="unfinished">Graphviz json (*.json)</translation>
+      <translation>Graphviz json (*.json)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="426"/>
       <source>Graphviz gif (*.gif)</source>
-      <translation type="unfinished">Graphviz gif (*.gif)</translation>
+      <translation>Graphviz gif (*.gif)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="428"/>
       <source>Graphviz png (*.png)</source>
-      <translation type="unfinished">Graphviz png (*.png)</translation>
+      <translation>Graphviz png (*.png)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="430"/>
       <source>Graphviz jpg (*.jpg)</source>
-      <translation type="unfinished">Graphviz jpg (*.jpg)</translation>
+      <translation>Graphviz jpg (*.jpg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="432"/>
       <source>Graphviz PostScript (*.ps)</source>
-      <translation type="unfinished">Graphviz PostScript (*.ps)</translation>
+      <translation>Graphviz PostScript (*.ps)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="434"/>
       <source>Graphviz svg (*.svg)</source>
-      <translation type="unfinished">Graphviz svg (*.svg)</translation>
+      <translation>Graphviz svg (*.svg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="436"/>
       <source>Graphviz pdf (*.pdf)</source>
-      <translation type="unfinished">Graphviz pdf (*.pdf)</translation>
+      <translation>Graphviz pdf (*.pdf)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="458"/>
       <source>Graph Export</source>
-      <translation type="unfinished">Graph Export</translation>
+      <translation>Xuất biểu đồ</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="459"/>
       <source>Do you really want to export %1 x %2 = %3 pixel bitmap image? Consider using different format.</source>
-      <translation type="unfinished">Do you really want to export %1 x %2 = %3 pixel bitmap image? Consider using different format.</translation>
+      <translation>Bạn có thật sự muốn xuất %1 x %2 = ảnh bitmap pixel %3? Hãy cân nhắc việc sử dụng một định dạng khác.</translation>
     </message>
   </context>
   <context>
@@ -2017,12 +2017,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../common/CutterSeekable.cpp" line="73"/>
       <source>More than one (%1) references here. Weird behaviour expected.</source>
-      <translation type="unfinished">More than one (%1) references here. Weird behaviour expected.</translation>
+      <translation>Có nhiều hơn một (%1) tham chiếu ở đây. Có thể xảy ra hành vi ngoài dự kiến.</translation>
     </message>
     <message>
       <location filename="../widgets/AddressableDockWidget.cpp" line="45"/>
       <source> (unsynced)</source>
-      <translation type="unfinished"> (unsynced)</translation>
+      <translation> (không đồng bộ)</translation>
     </message>
   </context>
   <context>
@@ -2030,7 +2030,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/CutterTreeWidget.cpp" line="19"/>
       <source>%1 Items</source>
-      <translation type="unfinished">%1 Items</translation>
+      <translation>%1 mục</translation>
     </message>
   </context>
   <context>
@@ -2038,17 +2038,17 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/Dashboard.ui" line="116"/>
       <source>OVERVIEW</source>
-      <translation type="unfinished">OVERVIEW</translation>
+      <translation>TỔNG QUAN</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="140"/>
       <source>Info</source>
-      <translation type="unfinished">Info</translation>
+      <translation>Thông tin</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="178"/>
       <source>File:</source>
-      <translation type="unfinished">File:</translation>
+      <translation>Tập tin:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="188"/>
@@ -2078,223 +2078,223 @@ Please check the console for more details.</translation>
       <location filename="../widgets/Dashboard.ui" line="913"/>
       <location filename="../widgets/Dashboard.ui" line="942"/>
       <source>--</source>
-      <translation type="unfinished">--</translation>
+      <translation>--</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="207"/>
       <source>Format:</source>
-      <translation type="unfinished">Format:</translation>
+      <translation>Định dạng:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="236"/>
       <source>Mode:</source>
-      <translation type="unfinished">Mode:</translation>
+      <translation>Chế độ:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="265"/>
       <source>Size:</source>
-      <translation type="unfinished">Size:</translation>
+      <translation>Kích cỡ:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="281"/>
       <source>Type:</source>
-      <translation type="unfinished">Type:</translation>
+      <translation>Loại:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="310"/>
       <source>Class:</source>
-      <translation type="unfinished">Class:</translation>
+      <translation>Lớp:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="339"/>
       <source>Language:</source>
-      <translation type="unfinished">Language:</translation>
+      <translation>Ngôn ngữ:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="368"/>
       <source>Bits:</source>
-      <translation type="unfinished">Bits:</translation>
+      <translation>Bit:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="426"/>
       <source>FD:</source>
-      <translation type="unfinished">FD:</translation>
+      <translation>FD:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="455"/>
       <source>Base addr:</source>
-      <translation type="unfinished">Base addr:</translation>
+      <translation>Địa chỉ cơ sở:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="484"/>
       <source>Virtual addr:</source>
-      <translation type="unfinished">Virtual addr:</translation>
+      <translation>Địa chỉ ảo:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="513"/>
       <source>Canary:</source>
-      <translation type="unfinished">Canary:</translation>
+      <translation>Canary:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="542"/>
       <source>Crypto:</source>
-      <translation type="unfinished">Crypto:</translation>
+      <translation>Tiền mã hóa:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="571"/>
       <source>NX bit:</source>
-      <translation type="unfinished">NX bit:</translation>
+      <translation>NX bit:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="600"/>
       <source>PIC:</source>
-      <translation type="unfinished">PIC:</translation>
+      <translation>PIC:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="629"/>
       <source>Static:</source>
-      <translation type="unfinished">Static:</translation>
+      <translation>Tĩnh:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="645"/>
       <source>Relro:</source>
-      <translation type="unfinished">Relro:</translation>
+      <translation>Relro:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="700"/>
       <source>Architecture:</source>
-      <translation type="unfinished">Architecture:</translation>
+      <translation>Kiến trúc:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="729"/>
       <source>Machine:</source>
-      <translation type="unfinished">Machine:</translation>
+      <translation>Máy:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="758"/>
       <source>OS:</source>
-      <translation type="unfinished">OS:</translation>
+      <translation>Hệ điều hành:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="787"/>
       <source>Subsystem:</source>
-      <translation type="unfinished">Subsystem:</translation>
+      <translation>Hệ thống con:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="816"/>
       <source>Stripped:</source>
-      <translation type="unfinished">Stripped:</translation>
+      <translation>Đã tách:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="845"/>
       <source>Relocs:</source>
-      <translation type="unfinished">Relocs:</translation>
+      <translation>Relocs:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="874"/>
       <source>Endianness:</source>
-      <translation type="unfinished">Endianness:</translation>
+      <translation>Thứ tự Endian:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="903"/>
       <source>Compiled:</source>
-      <translation type="unfinished">Compiled:</translation>
+      <translation>Đã biên dịch:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="932"/>
       <source>Compiler:</source>
-      <translation type="unfinished">Compiler:</translation>
+      <translation>Trình biên dịch:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="993"/>
       <location filename="../widgets/Dashboard.cpp" line="176"/>
       <source>Certificates</source>
-      <translation type="unfinished">Certificates</translation>
+      <translation>Chứng nhận</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1006"/>
       <source>Version info</source>
-      <translation type="unfinished">Version info</translation>
+      <translation>Thông tin phiên bản</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1034"/>
       <source>Hashes</source>
-      <translation type="unfinished">Hashes</translation>
+      <translation>Hàm băm</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1051"/>
       <source>Libraries</source>
-      <translation type="unfinished">Libraries</translation>
+      <translation>Thư viện</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1083"/>
       <source>Analysis info</source>
-      <translation type="unfinished">Analysis info</translation>
+      <translation>Thông tin phân tích</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1107"/>
       <source>Functions:</source>
-      <translation type="unfinished">Functions:</translation>
+      <translation>Các hàm:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1133"/>
       <source>X-Refs:</source>
-      <translation type="unfinished">X-Refs:</translation>
+      <translation>Tham chiếu chéo:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1159"/>
       <source>Calls:</source>
-      <translation type="unfinished">Calls:</translation>
+      <translation>Gọi:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1185"/>
       <source>Strings:</source>
-      <translation type="unfinished">Strings:</translation>
+      <translation>Các chuỗi:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1211"/>
       <source>Symbols:</source>
-      <translation type="unfinished">Symbols:</translation>
+      <translation>Các ký hiệu:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1237"/>
       <source>Imports:</source>
-      <translation type="unfinished">Imports:</translation>
+      <translation>Nhập:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1263"/>
       <source>Analysis coverage:</source>
-      <translation type="unfinished">Analysis coverage:</translation>
+      <translation>Phạm vi phân tích:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1289"/>
       <source>Code size:</source>
-      <translation type="unfinished">Code size:</translation>
+      <translation>Kích cỡ mã:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1315"/>
       <source>Coverage percent:</source>
-      <translation type="unfinished">Coverage percent:</translation>
+      <translation>Phần trăm phạm vi:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="162"/>
       <source>Key</source>
-      <translation type="unfinished">Key</translation>
+      <translation>Khóa</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="162"/>
       <source>Value</source>
-      <translation type="unfinished">Value</translation>
+      <translation>Giá trị</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="163"/>
       <source>root</source>
-      <translation type="unfinished">root</translation>
+      <translation>root</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="204"/>
       <source>N/A</source>
-      <translation type="unfinished">N/A</translation>
+      <translation>Không có</translation>
     </message>
   </context>
   <context>
@@ -2302,140 +2302,140 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="37"/>
       <source>Start emulation</source>
-      <translation type="unfinished">Start emulation</translation>
+      <translation>Bắt đầu giả lập</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="38"/>
       <source>Attach to process</source>
-      <translation type="unfinished">Attach to process</translation>
+      <translation>Đính kèm tiến trình</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="39"/>
       <source>Connect to a remote debugger</source>
-      <translation type="unfinished">Connect to a remote debugger</translation>
+      <translation>Kết nối với một trình gỡ lỗi từ xa</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="40"/>
       <source>Stop debug</source>
-      <translation type="unfinished">Stop debug</translation>
+      <translation>Dừng gỡ lỗi</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="41"/>
       <source>Stop emulation</source>
-      <translation type="unfinished">Stop emulation</translation>
+      <translation>Dừng giả lập</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="42"/>
       <source>Restart emulation</source>
-      <translation type="unfinished">Restart emulation</translation>
+      <translation>Khởi động lại giả lập</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="43"/>
       <source>Continue until main</source>
-      <translation type="unfinished">Continue until main</translation>
+      <translation>Tiếp tục cho đến phần chính</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="44"/>
       <source>Continue until call</source>
-      <translation type="unfinished">Continue until call</translation>
+      <translation>Tiếp tục cho đến cuộc gọi</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="45"/>
       <source>Continue until syscall</source>
-      <translation type="unfinished">Continue until syscall</translation>
+      <translation>Tiếp tục cho đến cuộc gọi hệ thống</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="46"/>
       <source>Continue backwards</source>
-      <translation type="unfinished">Continue backwards</translation>
+      <translation>Tiếp tục về trước</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="47"/>
       <source>Step</source>
-      <translation type="unfinished">Step</translation>
+      <translation>Bước</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="48"/>
       <source>Step over</source>
-      <translation type="unfinished">Step over</translation>
+      <translation>Bước qua</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="49"/>
       <source>Step out</source>
-      <translation type="unfinished">Step out</translation>
+      <translation>Bước ra ngoài</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="50"/>
       <source>Step backwards</source>
-      <translation type="unfinished">Step backwards</translation>
+      <translation>Bước về trước</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="51"/>
       <source>Start trace session</source>
-      <translation type="unfinished">Start trace session</translation>
+      <translation>Bắt đầu phiên truy vết</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="52"/>
       <source>Stop trace session</source>
-      <translation type="unfinished">Stop trace session</translation>
+      <translation>Dừng phiên truy vết</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="53"/>
       <source>Suspend the process</source>
-      <translation type="unfinished">Suspend the process</translation>
+      <translation>Đình chỉ tiến trình</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="54"/>
       <source>Continue</source>
-      <translation type="unfinished">Continue</translation>
+      <translation>Tiếp tục</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="55"/>
       <source>Restart program</source>
-      <translation type="unfinished">Restart program</translation>
+      <translation>Khởi động lại chương trình</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="56"/>
       <source>Start debug</source>
-      <translation type="unfinished">Start debug</translation>
+      <translation>Bắt đầu gỡ lỗi</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="147"/>
       <source>Debugged process exited (</source>
-      <translation type="unfinished">Debugged process exited (</translation>
+      <translation>Tiến trình gỡ lỗi thoát (</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="267"/>
       <source>Debug is currently in beta.
 </source>
-      <translation type="unfinished">Debug is currently in beta.
+      <translation>Gỡ lỗi đang ở giai đoạn beta.
 </translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="268"/>
       <source>If you encounter any problems or have suggestions, please submit an issue to https://github.com/rizinorg/cutter/issues</source>
-      <translation type="unfinished">If you encounter any problems or have suggestions, please submit an issue to https://github.com/rizinorg/cutter/issues</translation>
+      <translation>Nếu bạn gặp bất kỳ vấn đề hay có đề xuất nào, hãy gửi một vấn đề đến https://github.com/rizinorg/cutter/issues</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="289"/>
       <location filename="../widgets/DebugActions.cpp" line="368"/>
       <source>Detach from process</source>
-      <translation type="unfinished">Detach from process</translation>
+      <translation>Tách khỏi tiến trình</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="306"/>
       <source>Error connecting.</source>
-      <translation type="unfinished">Error connecting.</translation>
+      <translation>Lỗi kết nối.</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="359"/>
       <source>Error attaching. No process selected!</source>
-      <translation type="unfinished">Error attaching. No process selected!</translation>
+      <translation>Lỗi đính kèm. Không có tiến trình nào được chọn!</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="388"/>
       <source>File &apos;%1&apos; does not have executable permissions.</source>
-      <translation type="unfinished">File &apos;%1&apos; does not have executable permissions.</translation>
+      <translation>Tập tin &apos;%1&apos; không có quyền thực thi.</translation>
     </message>
   </context>
   <context>
@@ -2443,52 +2443,52 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="14"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>Gỡ lỗi</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="30"/>
       <source>Debug plugin:</source>
-      <translation type="unfinished">Debug plugin:</translation>
+      <translation>Tiện ích gỡ lỗi:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="42"/>
       <source>ESIL options</source>
-      <translation type="unfinished">ESIL options</translation>
+      <translation>Các tùy chọn ESIL</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="54"/>
       <source>Break esil execution when instruction is invalid (esil.breakoninvalid)</source>
-      <translation type="unfinished">Break esil execution when instruction is invalid (esil.breakoninvalid)</translation>
+      <translation>Phá vỡ thực thi esil khi hướng dẫn không hợp lệ (esil.breakoninvalid)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="69"/>
       <source>ESIL stack address:</source>
-      <translation type="unfinished">ESIL stack address:</translation>
+      <translation>Địa chỉ ngăn xếp ESIL:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="79"/>
       <source>Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</source>
-      <translation type="unfinished">Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</translation>
+      <translation>Ẩn văn bản khi thu nhỏ và nhỏ hơn giá trị được cho. Các giá trị cao hơn có thể tăng Hiệu năng.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="82"/>
       <source>ESIL stack size:</source>
-      <translation type="unfinished">ESIL stack size:</translation>
+      <translation>Kích cỡ ngăn xếp ESIL:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="100"/>
       <source>Trace options</source>
-      <translation type="unfinished">Trace options</translation>
+      <translation>Tùy chọn truy vết</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="109"/>
       <source>Trace each step during continue in a trace session (dbg.trace_continue)</source>
-      <translation type="unfinished">Trace each step during continue in a trace session (dbg.trace_continue)</translation>
+      <translation>Truy vết từng bước khi tiếp tục trong một phiên truy vết (dbg.trace_continue)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="112"/>
       <source>Disabling this option means that stepping back after continue will return to the previous PC. Significantly improves performance.</source>
-      <translation type="unfinished">Disabling this option means that stepping back after continue will return to the previous PC. Significantly improves performance.</translation>
+      <translation>Việc tắt tùy chọn này có nghĩa là bước về trước sau khi tiếp tục sẽ quay lại PC trước đó. Cải thiện đáng kể hiệu năng.</translation>
     </message>
   </context>
   <context>
@@ -2496,235 +2496,235 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="26"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>Sao chép</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="27"/>
       <source>Copy instruction address (&lt;address&gt;)</source>
-      <translation type="unfinished">Copy instruction address (&lt;address&gt;)</translation>
+      <translation>Sao chép địa chỉ hướng dẫn (&lt;address&gt;)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="28"/>
       <source>Copy address of [flag] (&lt;address&gt;)</source>
-      <translation type="unfinished">Copy address of [flag] (&lt;address&gt;)</translation>
+      <translation>Sao chép địa chỉ [cờ] (&lt;address&gt;)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="29"/>
       <source>Show in</source>
-      <translation type="unfinished">Show in</translation>
+      <translation>Hiển thị trong</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="30"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="166"/>
       <source>Add Comment</source>
-      <translation type="unfinished">Add Comment</translation>
+      <translation>Thêm bình luận</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="31"/>
       <source>Delete comment</source>
-      <translation type="unfinished">Delete comment</translation>
+      <translation>Xóa bình luận</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="32"/>
       <source>Rename function at cursor</source>
-      <translation type="unfinished">Rename function at cursor</translation>
+      <translation>Đổi tên hàm tại con trỏ</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="33"/>
       <source>Delete &lt;name&gt;</source>
-      <translation type="unfinished">Delete &lt;name&gt;</translation>
+      <translation>Xóa &lt;name&gt;</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="34"/>
       <source>Edit variable &lt;name of variable&gt;</source>
-      <translation type="unfinished">Edit variable &lt;name of variable&gt;</translation>
+      <translation>Sửa biến số &lt;name of variable&gt;</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="35"/>
       <source>Show X-Refs</source>
-      <translation type="unfinished">Show X-Refs</translation>
+      <translation>Hiển thị tham chiếu chéo</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="36"/>
       <source>Add/remove breakpoint</source>
-      <translation type="unfinished">Add/remove breakpoint</translation>
+      <translation>Thêm/xóa điểm gãy</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="37"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="197"/>
       <source>Advanced breakpoint</source>
-      <translation type="unfinished">Advanced breakpoint</translation>
+      <translation>Điểm gãy nâng cao</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="39"/>
       <source>Continue until line</source>
-      <translation type="unfinished">Continue until line</translation>
+      <translation>Tiếp tục cho đến dòng</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="40"/>
       <source>Set PC</source>
-      <translation type="unfinished">Set PC</translation>
+      <translation>Đặt PC</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="169"/>
       <source>Edit Comment</source>
-      <translation type="unfinished">Edit Comment</translation>
+      <translation>Sửa bình luận</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="185"/>
       <source>Add breakpoint</source>
-      <translation type="unfinished">Add breakpoint</translation>
+      <translation>Thêm điểm gãy</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="187"/>
       <source>Remove breakpoint</source>
-      <translation type="unfinished">Remove breakpoint</translation>
+      <translation>Xóa điểm gãy</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="189"/>
       <source>Remove all breakpoints in line</source>
-      <translation type="unfinished">Remove all breakpoints in line</translation>
+      <translation>Xóa tất cả các điểm gãy trong dòng</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="196"/>
       <source>Edit breakpoint</source>
-      <translation type="unfinished">Edit breakpoint</translation>
+      <translation>Sửa điểm gãy</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="200"/>
       <source>Set %1 here</source>
-      <translation type="unfinished">Set %1 here</translation>
+      <translation>Đặt %1 ở đây</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="212"/>
       <source>Rename function %1</source>
-      <translation type="unfinished">Rename function %1</translation>
+      <translation>Đổi tên hàm %1</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="217"/>
       <source>Rename %1</source>
-      <translation type="unfinished">Rename %1</translation>
+      <translation>Đổi tên %1</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="218"/>
       <source>Remove %1</source>
-      <translation type="unfinished">Remove %1</translation>
+      <translation>Xóa %1</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="221"/>
       <source>Add name to %1</source>
-      <translation type="unfinished">Add name to %1</translation>
+      <translation>Thêm tên vào %1</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="226"/>
       <source>Copy instruction address (%1)</source>
-      <translation type="unfinished">Copy instruction address (%1)</translation>
+      <translation>Sao chép địa chỉ hướng dẫn (%1)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="232"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="237"/>
       <source>Copy address of %1 (%2)</source>
-      <translation type="unfinished">Copy address of %1 (%2)</translation>
+      <translation>Sao chép địa chỉ của %1 (%2)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="241"/>
       <source>Copy address (%1)</source>
-      <translation type="unfinished">Copy address (%1)</translation>
+      <translation>Sao chép địa chỉ (%1)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="257"/>
       <source>Edit variable %1</source>
-      <translation type="unfinished">Edit variable %1</translation>
+      <translation>Sửa biến số %1</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="259"/>
       <source>Rename variable %1</source>
-      <translation type="unfinished">Rename variable %1</translation>
+      <translation>Đổi tên biến số %1</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="321"/>
       <source>Can&apos;t rename this variable.&lt;br&gt;Only local variables defined in disassembly can be renamed.</source>
-      <translation type="unfinished">Can&apos;t rename this variable.&lt;br&gt;Only local variables defined in disassembly can be renamed.</translation>
+      <translation>Không thể đổi tên biến số này.&lt;br&gt;Chỉ các biến số cục bộ được định nghĩa trong bản dịch assembly mới có thể được đổi tên.</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="340"/>
       <source>Can&apos;t edit this variable.&lt;br&gt;Only local variables defined in disassembly can be edited.</source>
-      <translation type="unfinished">Can&apos;t edit this variable.&lt;br&gt;Only local variables defined in disassembly can be edited.</translation>
+      <translation>Không thể sửa biến số này.&lt;br&gt;Chỉ các biến số cục bộ được định nghĩa trong bản dịch assembly mới có thể được sửa.</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="413"/>
       <source>Define this function at %2</source>
-      <translation type="unfinished">Define this function at %2</translation>
+      <translation>Định nghĩa hàm này tại %2</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="414"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="421"/>
       <source>Function name:</source>
-      <translation type="unfinished">Function name:</translation>
+      <translation>Tên hàm:</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="420"/>
       <source>Rename function %2</source>
-      <translation type="unfinished">Rename function %2</translation>
+      <translation>Đổi tên hàm %2</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="431"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="455"/>
       <source>Rename %2</source>
-      <translation type="unfinished">Rename %2</translation>
+      <translation>Đổi tên %2</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="431"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="439"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="456"/>
       <source>Enter name</source>
-      <translation type="unfinished">Enter name</translation>
+      <translation>Điền tên</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="438"/>
       <source>Add name to %2</source>
-      <translation type="unfinished">Add name to %2</translation>
+      <translation>Thêm tên vào %2</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="449"/>
       <source>Rename local variable %1</source>
-      <translation type="unfinished">Rename local variable %1</translation>
+      <translation>Đổi tên biến số cục bộ %1</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="450"/>
       <source>Can&apos;t rename this variable. Only local variables defined in disassembly can be renamed.</source>
-      <translation type="unfinished">Can&apos;t rename this variable. Only local variables defined in disassembly can be renamed.</translation>
+      <translation>Không thể đổi tên biến số này. Chỉ các biến số cục bộ được định nghĩa trong bản dịch assembly mới có thể được đổi tên.</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="475"/>
       <source>Edit local variable %1</source>
-      <translation type="unfinished">Edit local variable %1</translation>
+      <translation>Sửa biến số cục bộ %1</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="476"/>
       <source>Can&apos;t edit this variable. Only local variables defined in disassembly can be edited.</source>
-      <translation type="unfinished">Can&apos;t edit this variable. Only local variables defined in disassembly can be edited.</translation>
+      <translation>Không thể sửa biến số này. Chỉ các biến số cục bộ được định nghĩa trong bản dịch assembly mới có thể được sửa.</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="542"/>
       <source>Breakpoint</source>
-      <translation type="unfinished">Breakpoint</translation>
+      <translation>Điểm gãy</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="552"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>Gỡ lỗi</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="582"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="584"/>
       <source>Show %1 in</source>
-      <translation type="unfinished">Show %1 in</translation>
+      <translation>Hiển thị %1 trong</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="589"/>
       <source>%1 (%2)</source>
-      <translation type="unfinished">%1 (%2)</translation>
+      <translation>%1 (%2)</translation>
     </message>
   </context>
   <context>
@@ -2733,37 +2733,37 @@ Please check the console for more details.</translation>
       <location filename="../widgets/DecompilerWidget.ui" line="14"/>
       <location filename="../widgets/DecompilerWidget.cpp" line="483"/>
       <source>Decompiler</source>
-      <translation type="unfinished">Decompiler</translation>
+      <translation>Trình dịch ngược</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.ui" line="53"/>
       <source>Decompiling...</source>
-      <translation type="unfinished">Decompiling...</translation>
+      <translation>Đang dịch ngược...</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.ui" line="75"/>
       <source>Decompiler:</source>
-      <translation type="unfinished">Decompiler:</translation>
+      <translation>Trình dịch ngược:</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="32"/>
       <source>Choose an offset and refresh to get decompiled code</source>
-      <translation type="unfinished">Choose an offset and refresh to get decompiled code</translation>
+      <translation>Chọn một giá trị bù và làm mới để nhận mã được dịch ngược</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="68"/>
       <source>No Decompiler available.</source>
-      <translation type="unfinished">No Decompiler available.</translation>
+      <translation>Không có trình dịch ngược nào khả dụng.</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="285"/>
       <source>No function found at this offset. Seek to a function or define one in order to decompile it.</source>
-      <translation type="unfinished">No function found at this offset. Seek to a function or define one in order to decompile it.</translation>
+      <translation>Không tìm thấy hàm nào ở giá trị bù này. Hãy tua đến một hàm hoặc định nghĩa hàm để dịch ngược nó.</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="325"/>
       <source>Cannot decompile at this address (Not a function?)</source>
-      <translation type="unfinished">Cannot decompile at this address (Not a function?)</translation>
+      <translation>Không thể dịch ngược ở địa chỉ này (Không phải một hàm?)</translation>
     </message>
   </context>
   <context>
@@ -2771,32 +2771,32 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="98"/>
       <source>Highlight block</source>
-      <translation type="unfinished">Highlight block</translation>
+      <translation>Bôi đậm khối</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="116"/>
       <source>Unhighlight block</source>
-      <translation type="unfinished">Unhighlight block</translation>
+      <translation>Bỏ bôi đậm khối</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="126"/>
       <source>Highlight instruction</source>
-      <translation type="unfinished">Highlight instruction</translation>
+      <translation>Bôi đậm hướng dẫn</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="130"/>
       <source>Unhighlight instruction</source>
-      <translation type="unfinished">Unhighlight instruction</translation>
+      <translation>Bỏ bôi đậm hướng dẫn</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="196"/>
       <source>Graph</source>
-      <translation type="unfinished">Graph</translation>
+      <translation>Biểu đồ</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="211"/>
       <source>No function detected. Cannot display graph.</source>
-      <translation type="unfinished">No function detected. Cannot display graph.</translation>
+      <translation>Không phát hiện hàm nào. Không thể hiển thị biểu đồ.</translation>
     </message>
   </context>
   <context>
@@ -2804,350 +2804,350 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="72"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>Sao chép</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="75"/>
       <source>Copy address</source>
-      <translation type="unfinished">Copy address</translation>
+      <translation>Sao chép địa chỉ</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="79"/>
       <source>Show in</source>
-      <translation type="unfinished">Show in</translation>
+      <translation>Hiển thị trong</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="84"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="570"/>
       <source>Add Comment</source>
-      <translation type="unfinished">Add Comment</translation>
+      <translation>Thêm bình luận</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="171"/>
       <source>Add at...</source>
-      <translation type="unfinished">Add at...</translation>
+      <translation>Thêm tại...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="173"/>
       <source>Rename or add flag</source>
-      <translation type="unfinished">Rename or add flag</translation>
+      <translation>Đổi tên hoặc thêm cờ</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="88"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="911"/>
       <source>Re-type Local Variables</source>
-      <translation type="unfinished">Re-type Local Variables</translation>
+      <translation>Điền lại biến số cục bộ</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="92"/>
       <source>Edit function</source>
-      <translation type="unfinished">Edit function</translation>
+      <translation>Sửa hàm</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="96"/>
       <source>Delete comment</source>
-      <translation type="unfinished">Delete comment</translation>
+      <translation>Xóa bình luận</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="100"/>
       <source>Delete flag</source>
-      <translation type="unfinished">Delete flag</translation>
+      <translation>Xóa cờ</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="103"/>
       <source>Undefine function</source>
-      <translation type="unfinished">Undefine function</translation>
+      <translation>Bỏ định nghĩa hàm</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="107"/>
       <source>Define function here</source>
-      <translation type="unfinished">Define function here</translation>
+      <translation>Định nghĩa hàm ở đây</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="119"/>
       <source>Structure offset</source>
-      <translation type="unfinished">Structure offset</translation>
+      <translation>Bù cấu trúc</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="127"/>
       <source>Show X-Refs</source>
-      <translation type="unfinished">Show X-Refs</translation>
+      <translation>Hiển thị tham chiếu chéo</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="131"/>
       <source>X-Refs for local variables</source>
-      <translation type="unfinished">X-Refs for local variables</translation>
+      <translation>Tham chiếu chéo cho các biến số cục bộ</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="135"/>
       <source>Show Options</source>
-      <translation type="unfinished">Show Options</translation>
+      <translation>Hiển thị tuỳ chọn</translation>
     </message>
     <message>
       <source>Set Immediate Base to...</source>
-      <translation type="unfinished">Set Immediate Base to...</translation>
+      <translation>Đặt cơ sở giá trị tức thì là...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="177"/>
       <source>Modify or add global variable</source>
-      <translation type="unfinished">Modify or add global variable</translation>
+      <translation>Sửa hoặc thêm biến số toàn cục</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="184"/>
       <source>Set base of immediate value to..</source>
-      <translation type="unfinished">Set base of immediate value to..</translation>
+      <translation>Đặt cơ sở của giá trị tức thì thành...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="186"/>
       <source>Binary</source>
-      <translation type="unfinished">Binary</translation>
+      <translation>Nhị phân</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="190"/>
       <source>Octal</source>
-      <translation type="unfinished">Octal</translation>
+      <translation>Bát phân</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="194"/>
       <source>Decimal</source>
-      <translation type="unfinished">Decimal</translation>
+      <translation>Thập phân</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="198"/>
       <source>Hexadecimal</source>
-      <translation type="unfinished">Hexadecimal</translation>
+      <translation>Thập lục phân</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="202"/>
       <source>Network Port</source>
-      <translation type="unfinished">Network Port</translation>
+      <translation>Cổng mạng</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="206"/>
       <source>IP Address</source>
-      <translation type="unfinished">IP Address</translation>
+      <translation>Địa chỉ IP</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="210"/>
       <source>Syscall</source>
-      <translation type="unfinished">Syscall</translation>
+      <translation>Gọi hệ thống</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="214"/>
       <source>String</source>
-      <translation type="unfinished">String</translation>
+      <translation>Chuỗi</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="221"/>
       <source>Set current bits to...</source>
-      <translation type="unfinished">Set current bits to...</translation>
+      <translation>Đặt các bit hiện tại thành...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="238"/>
       <source>Set as...</source>
-      <translation type="unfinished">Set as...</translation>
+      <translation>Đặt làm...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="240"/>
       <source>Code</source>
-      <translation type="unfinished">Code</translation>
+      <translation>Mã</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="244"/>
       <source>String...</source>
-      <translation type="unfinished">String...</translation>
+      <translation>Chuỗi...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="246"/>
       <source>Auto-detect</source>
-      <translation type="unfinished">Auto-detect</translation>
+      <translation>Tự động phát hiện</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="248"/>
       <source>Remove</source>
-      <translation type="unfinished">Remove</translation>
+      <translation>Xóa</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="250"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>Nâng cao</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="262"/>
       <source>Data...</source>
-      <translation type="unfinished">Data...</translation>
+      <translation>Dữ liệu...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="264"/>
       <source>Byte</source>
-      <translation type="unfinished">Byte</translation>
+      <translation>Byte</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="268"/>
       <source>Word</source>
-      <translation type="unfinished">Word</translation>
+      <translation>Word</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="272"/>
       <source>Dword</source>
-      <translation type="unfinished">Dword</translation>
+      <translation>Dword</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="276"/>
       <source>Qword</source>
-      <translation type="unfinished">Qword</translation>
+      <translation>Qword</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="291"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>Sửa</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="293"/>
       <source>Instruction</source>
-      <translation type="unfinished">Instruction</translation>
+      <translation>Hướng dẫn</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="297"/>
       <source>Nop Instruction</source>
-      <translation type="unfinished">Nop Instruction</translation>
+      <translation>Hướng dẫn Nop</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="301"/>
       <source>Bytes</source>
-      <translation type="unfinished">Bytes</translation>
+      <translation>Byte</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="304"/>
       <source>Reverse Jump</source>
-      <translation type="unfinished">Reverse Jump</translation>
+      <translation>Nhảy ngược</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="310"/>
       <source>Breakpoint</source>
-      <translation type="unfinished">Breakpoint</translation>
+      <translation>Điểm gãy</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="312"/>
       <source>Add/remove breakpoint</source>
-      <translation type="unfinished">Add/remove breakpoint</translation>
+      <translation>Thêm/xóa điểm gãy</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="315"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="608"/>
       <source>Advanced breakpoint</source>
-      <translation type="unfinished">Advanced breakpoint</translation>
+      <translation>Điểm gãy nâng cao</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="322"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>Gỡ lỗi</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="324"/>
       <source>Continue until line</source>
-      <translation type="unfinished">Continue until line</translation>
+      <translation>Tiếp tục cho đến dòng</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="424"/>
       <source>Add flag at %1 (used here)</source>
-      <translation type="unfinished">Add flag at %1 (used here)</translation>
+      <translation>Thêm cờ tại %1 (được sử dụng tại đây)</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="429"/>
       <source>Rename &quot;%1&quot;</source>
-      <translation type="unfinished">Rename &quot;%1&quot;</translation>
+      <translation>Đổi tên &quot;%1&quot;</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="434"/>
       <source>Rename local &quot;%1&quot;</source>
-      <translation type="unfinished">Rename local &quot;%1&quot;</translation>
+      <translation>Đổi tên &quot;%1&quot; cục bộ</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="439"/>
       <source>Rename flag &quot;%1&quot; (used here)</source>
-      <translation type="unfinished">Rename flag &quot;%1&quot; (used here)</translation>
+      <translation>Đổi tên cờ &quot;%1&quot; (được sử dụng tại đây)</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="497"/>
       <source>Add or change global variable at %1 (used here)</source>
-      <translation type="unfinished">Add or change global variable at %1 (used here)</translation>
+      <translation>Thêm hoặc thay đổi biến số toàn cục tại %1 (được sử dụng tại đây)</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="573"/>
       <source>Edit Comment</source>
-      <translation type="unfinished">Edit Comment</translation>
+      <translation>Sửa bình luận</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="589"/>
       <source>Edit function &quot;%1&quot;</source>
-      <translation type="unfinished">Edit function &quot;%1&quot;</translation>
+      <translation>Sửa hàm &quot;%1&quot;</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="606"/>
       <source>Remove breakpoint</source>
-      <translation type="unfinished">Remove breakpoint</translation>
+      <translation>Xóa điểm gãy</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="606"/>
       <source>Add breakpoint</source>
-      <translation type="unfinished">Add breakpoint</translation>
+      <translation>Thêm điểm gãy</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="607"/>
       <source>Edit breakpoint</source>
-      <translation type="unfinished">Edit breakpoint</translation>
+      <translation>Sửa điểm gãy</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="622"/>
       <source>X-Refs for %1</source>
-      <translation type="unfinished">X-Refs for %1</translation>
+      <translation>Tham chiếu chéo cho %1</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="722"/>
       <source>Edit Instruction at %1</source>
-      <translation type="unfinished">Edit Instruction at %1</translation>
+      <translation>Sửa hướng dẫn tại %1</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="772"/>
       <source>Edit Bytes at %1</source>
-      <translation type="unfinished">Edit Bytes at %1</translation>
+      <translation>Sửa byte tại %1</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="843"/>
       <source>New function at %1</source>
-      <translation type="unfinished">New function at %1</translation>
+      <translation>Chức năng mới tại %1</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="844"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="865"/>
       <source>Function name:</source>
-      <translation type="unfinished">Function name:</translation>
+      <translation>Tên hàm:</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="864"/>
       <source>Rename function %2</source>
-      <translation type="unfinished">Rename function %2</translation>
+      <translation>Đổi tên hàm %2</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="912"/>
       <source>You must be in a function to define variable types.</source>
-      <translation type="unfinished">You must be in a function to define variable types.</translation>
+      <translation>Bạn phải ở trong một hàm để định nghĩa các loại biến số.</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="974"/>
       <source>Wrong address</source>
-      <translation type="unfinished">Wrong address</translation>
+      <translation>Sai địa chỉ</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="975"/>
       <source>Can&apos;t edit string at this address</source>
-      <translation type="unfinished">Can&apos;t edit string at this address</translation>
+      <translation>Không thể sửa chuỗi tại địa chỉ này</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="1047"/>
       <source>Edit function %1</source>
-      <translation type="unfinished">Edit function %1</translation>
+      <translation>Sửa hàm %1</translation>
     </message>
   </context>
   <context>
@@ -3155,7 +3155,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/DisassemblyWidget.cpp" line="674"/>
       <source>Disassembly</source>
-      <translation type="unfinished">Disassembly</translation>
+      <translation>Dịch assembly</translation>
     </message>
   </context>
   <context>
@@ -3163,17 +3163,17 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/DuplicateFromOffsetDialog.ui" line="20"/>
       <source>Duplicate from offset</source>
-      <translation type="unfinished">Duplicate from offset</translation>
+      <translation>Sao chép từ giá trị bù</translation>
     </message>
     <message>
       <location filename="../dialogs/DuplicateFromOffsetDialog.ui" line="28"/>
       <source>Offset:</source>
-      <translation type="unfinished">Offset:</translation>
+      <translation>Bù:</translation>
     </message>
     <message>
       <location filename="../dialogs/DuplicateFromOffsetDialog.ui" line="49"/>
       <source>N bytes:</source>
-      <translation type="unfinished">N bytes:</translation>
+      <translation>N byte:</translation>
     </message>
   </context>
   <context>
@@ -3181,27 +3181,27 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="14"/>
       <source>Edit Function</source>
-      <translation type="unfinished">Edit Function</translation>
+      <translation>Sửa hàm</translation>
     </message>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="43"/>
       <source>Name of function</source>
-      <translation type="unfinished">Name of function</translation>
+      <translation>Tên hàm</translation>
     </message>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="53"/>
       <source>Start address</source>
-      <translation type="unfinished">Start address</translation>
+      <translation>Địa chỉ bắt đầu</translation>
     </message>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="63"/>
       <source>Stack size</source>
-      <translation type="unfinished">Stack size</translation>
+      <translation>Kích cỡ ngăn xếp</translation>
     </message>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="73"/>
       <source>Calling convention</source>
-      <translation type="unfinished">Calling convention</translation>
+      <translation>Quy chuẩn gọi</translation>
     </message>
   </context>
   <context>
@@ -3209,17 +3209,17 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/EditInstructionDialog.ui" line="14"/>
       <source>Edit Instruction</source>
-      <translation type="unfinished">Edit Instruction</translation>
+      <translation>Sửa hướng dẫn</translation>
     </message>
     <message>
       <location filename="../dialogs/EditInstructionDialog.ui" line="88"/>
       <source>Unknown Instruction</source>
-      <translation type="unfinished">Unknown Instruction</translation>
+      <translation>Hướng dẫn không xác định</translation>
     </message>
     <message>
       <location filename="../dialogs/EditInstructionDialog.ui" line="100"/>
       <source>Fill all remaining bytes with NOP opcodes</source>
-      <translation type="unfinished">Fill all remaining bytes with NOP opcodes</translation>
+      <translation>Điền toàn bộ số byte còn lại với opcode NOP</translation>
     </message>
   </context>
   <context>
@@ -3227,47 +3227,47 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="25"/>
       <source>Class:</source>
-      <translation type="unfinished">Class:</translation>
+      <translation>Lớp:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="32"/>
       <source>Unique Identifier (name):</source>
-      <translation type="unfinished">Unique Identifier (name):</translation>
+      <translation>Mã định danh riêng (tên):</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="44"/>
       <source>Auto-Rename</source>
-      <translation type="unfinished">Auto-Rename</translation>
+      <translation>Tự động đổi tên</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="56"/>
       <source>Display Name (realname):</source>
-      <translation type="unfinished">Display Name (realname):</translation>
+      <translation>Tên hiển thị (realname):</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="66"/>
       <source>Address:</source>
-      <translation type="unfinished">Address:</translation>
+      <translation>Địa chỉ:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="76"/>
       <source>Virtual:</source>
-      <translation type="unfinished">Virtual:</translation>
+      <translation>Ảo:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="90"/>
       <source>Offset in VTable:</source>
-      <translation type="unfinished">Offset in VTable:</translation>
+      <translation>Bù trong VTable:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.cpp" line="191"/>
       <source>Create Method</source>
-      <translation type="unfinished">Create Method</translation>
+      <translation>Tạo phương thức</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.cpp" line="206"/>
       <source>Edit Method</source>
-      <translation type="unfinished">Edit Method</translation>
+      <translation>Sửa phương thức</translation>
     </message>
   </context>
   <context>
@@ -3275,27 +3275,27 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="23"/>
       <source>Edit string</source>
-      <translation type="unfinished">Edit string</translation>
+      <translation>Sửa chuỗi</translation>
     </message>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="52"/>
       <source>Size:</source>
-      <translation type="unfinished">Size:</translation>
+      <translation>Kích cỡ:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="59"/>
       <source>Type:</source>
-      <translation type="unfinished">Type:</translation>
+      <translation>Loại:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="66"/>
       <source>Address:</source>
-      <translation type="unfinished">Address:</translation>
+      <translation>Địa chỉ:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="99"/>
       <source>Auto</source>
-      <translation type="unfinished">Auto</translation>
+      <translation>Tự động</translation>
     </message>
   </context>
   <context>
@@ -3303,27 +3303,27 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/EditVariablesDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation type="unfinished">Dialog</translation>
+      <translation>Hộp thoại</translation>
     </message>
     <message>
       <location filename="../dialogs/EditVariablesDialog.ui" line="22"/>
       <source>Modify:</source>
-      <translation type="unfinished">Modify:</translation>
+      <translation>Sửa:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditVariablesDialog.ui" line="35"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>Tên:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditVariablesDialog.ui" line="42"/>
       <source>Type:</source>
-      <translation type="unfinished">Type:</translation>
+      <translation>Loại:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditVariablesDialog.cpp" line="20"/>
       <source>Edit Variables in Function: %1</source>
-      <translation type="unfinished">Edit Variables in Function: %1</translation>
+      <translation>Sửa các biến số trong hàm: %1</translation>
     </message>
   </context>
   <context>
@@ -3331,27 +3331,27 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="60"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>Địa chỉ</translation>
     </message>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="62"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>Kích cỡ</translation>
     </message>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="64"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>Loại</translation>
     </message>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="66"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Tên</translation>
     </message>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="68"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Bình luận</translation>
     </message>
   </context>
   <context>
@@ -3359,7 +3359,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="138"/>
       <source>Exports</source>
-      <translation type="unfinished">Exports</translation>
+      <translation>Xuất</translation>
     </message>
   </context>
   <context>
@@ -3367,37 +3367,37 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="14"/>
       <source>Add Flag</source>
-      <translation type="unfinished">Add Flag</translation>
+      <translation>Thêm cờ</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="20"/>
       <source>Add flag at</source>
-      <translation type="unfinished">Add flag at</translation>
+      <translation>Thêm cờ tại</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="38"/>
       <source>Flag:</source>
-      <translation type="unfinished">Flag:</translation>
+      <translation>Cờ:</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="61"/>
       <source>1</source>
-      <translation type="unfinished">1</translation>
+      <translation>1</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="80"/>
       <source>Size:</source>
-      <translation type="unfinished">Size:</translation>
+      <translation>Kích cỡ:</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.cpp" line="24"/>
       <source>Edit flag at %1</source>
-      <translation type="unfinished">Edit flag at %1</translation>
+      <translation>Sửa cờ tại %1</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.cpp" line="26"/>
       <source>Add flag at %1</source>
-      <translation type="unfinished">Add flag at %1</translation>
+      <translation>Thêm cờ tại %1</translation>
     </message>
   </context>
   <context>
@@ -3405,27 +3405,27 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="64"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>Kích cỡ</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="66"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>Bù</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="68"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Tên</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="70"/>
       <source>Real Name</source>
-      <translation type="unfinished">Real Name</translation>
+      <translation>Tên thật</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="72"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Bình luận</translation>
     </message>
   </context>
   <context>
@@ -3433,47 +3433,47 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="79"/>
       <source>Quick Filter</source>
-      <translation type="unfinished">Quick Filter</translation>
+      <translation>Lọc nhanh</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="86"/>
       <source>Flagspace:</source>
-      <translation type="unfinished">Flagspace:</translation>
+      <translation>Không gian tên của cờ:</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="99"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>Đổi tên</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="102"/>
       <source>N</source>
-      <translation type="unfinished">N</translation>
+      <translation>N</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="110"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>Xóa</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="113"/>
       <source>Del</source>
-      <translation type="unfinished">Del</translation>
+      <translation>Del</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="214"/>
       <source>Rename flag %1</source>
-      <translation type="unfinished">Rename flag %1</translation>
+      <translation>Đổi tên cờ %1</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="215"/>
       <source>Flag name:</source>
-      <translation type="unfinished">Flag name:</translation>
+      <translation>Tên cờ:</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="244"/>
       <source>(all)</source>
-      <translation type="unfinished">(all)</translation>
+      <translation>(tất cả)</translation>
     </message>
   </context>
   <context>
@@ -3481,12 +3481,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/FlirtContextMenu.cpp" line="14"/>
       <source>Copy Line</source>
-      <translation type="unfinished">Copy Line</translation>
+      <translation>Sao chép dòng</translation>
     </message>
     <message>
       <location filename="../menus/FlirtContextMenu.cpp" line="15"/>
       <source>Apply Signature File</source>
-      <translation type="unfinished">Apply Signature File</translation>
+      <translation>Áp dụng tập tin chữ ký</translation>
     </message>
   </context>
   <context>
@@ -3494,32 +3494,32 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="65"/>
       <source>Bin</source>
-      <translation type="unfinished">Bin</translation>
+      <translation>Bin</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="67"/>
       <source>Arch</source>
-      <translation type="unfinished">Arch</translation>
+      <translation>Arch</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="69"/>
       <source>Bits</source>
-      <translation type="unfinished">Bits</translation>
+      <translation>Bit</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="71"/>
       <source># Funcs</source>
-      <translation type="unfinished"># Funcs</translation>
+      <translation># Hàm</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="73"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Tên</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="75"/>
       <source>Details</source>
-      <translation type="unfinished">Details</translation>
+      <translation>Chi tiết</translation>
     </message>
   </context>
   <context>
@@ -3527,130 +3527,130 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="134"/>
       <source>Offset: %1</source>
-      <translation type="unfinished">Offset: %1</translation>
+      <translation>Bù: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="136"/>
       <source>Size: %1</source>
-      <translation type="unfinished">Size: %1</translation>
+      <translation>Kích cỡ: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="138"/>
       <source>Import: %1</source>
-      <translation type="unfinished">Import: %1</translation>
+      <translation>Nhập: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="139"/>
       <location filename="../widgets/FunctionsWidget.cpp" line="166"/>
       <source>true</source>
-      <translation type="unfinished">true</translation>
+      <translation>đúng</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="139"/>
       <location filename="../widgets/FunctionsWidget.cpp" line="166"/>
       <source>false</source>
-      <translation type="unfinished">false</translation>
+      <translation>sai</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="141"/>
       <source>Nargs: %1</source>
-      <translation type="unfinished">Nargs: %1</translation>
+      <translation>Nargs: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="143"/>
       <source>Nbbs: %1</source>
-      <translation type="unfinished">Nbbs: %1</translation>
+      <translation>Nbbs: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="145"/>
       <source>Nlocals: %1</source>
-      <translation type="unfinished">Nlocals: %1</translation>
+      <translation>Nlocals: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="147"/>
       <source>Call type: %1</source>
-      <translation type="unfinished">Call type: %1</translation>
+      <translation>Loại cuộc gọi: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="149"/>
       <source>Edges: %1</source>
-      <translation type="unfinished">Edges: %1</translation>
+      <translation>Cạnh: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="151"/>
       <source>StackFrame: %1</source>
-      <translation type="unfinished">StackFrame: %1</translation>
+      <translation>StackFrame: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="153"/>
       <source>Comment: %1</source>
-      <translation type="unfinished">Comment: %1</translation>
+      <translation>Bình luận: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="265"/>
       <source>&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;Disassembly preview&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</source>
-      <translation type="unfinished">&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;Disassembly preview&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
+      <translation>&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;Xem trước bản dịch assembly&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="270"/>
       <source>&lt;div&gt;&lt;strong&gt;Highlights&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</source>
-      <translation type="unfinished">&lt;div&gt;&lt;strong&gt;Highlights&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
+      <translation>&lt;div&gt;&lt;strong&gt;Bôi đậm&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="305"/>
       <location filename="../widgets/FunctionsWidget.cpp" line="309"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Tên</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="311"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>Kích cỡ</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="313"/>
       <source>Imp.</source>
-      <translation type="unfinished">Imp.</translation>
+      <translation>Nhập</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="315"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>Bù</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="317"/>
       <source>Nargs</source>
-      <translation type="unfinished">Nargs</translation>
+      <translation>Nargs</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="319"/>
       <source>Nlocals</source>
-      <translation type="unfinished">Nlocals</translation>
+      <translation>Nlocals</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="321"/>
       <source>Nbbs</source>
-      <translation type="unfinished">Nbbs</translation>
+      <translation>Nbbs</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="323"/>
       <source>Call type</source>
-      <translation type="unfinished">Call type</translation>
+      <translation>Loại cuộc gọi</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="325"/>
       <source>Edges</source>
-      <translation type="unfinished">Edges</translation>
+      <translation>Cạnh</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="327"/>
       <source>StackFrame</source>
-      <translation type="unfinished">StackFrame</translation>
+      <translation>StackFrame</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="329"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Bình luận</translation>
     </message>
   </context>
   <context>
@@ -3658,7 +3658,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../common/FunctionsTask.h" line="13"/>
       <source>Fetching Functions</source>
-      <translation type="unfinished">Fetching Functions</translation>
+      <translation>Truy xuất hàm</translation>
     </message>
   </context>
   <context>
@@ -3666,37 +3666,37 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="490"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>Đổi tên</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="491"/>
       <source>Undefine</source>
-      <translation type="unfinished">Undefine</translation>
+      <translation>Bỏ định nghĩa</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="492"/>
       <source>Horizontal</source>
-      <translation type="unfinished">Horizontal</translation>
+      <translation>Chiều ngang</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="493"/>
       <source>Vertical</source>
-      <translation type="unfinished">Vertical</translation>
+      <translation>Chiều dọc</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="495"/>
       <source>Functions</source>
-      <translation type="unfinished">Functions</translation>
+      <translation>Các hàm</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="613"/>
       <source>Rename function %1</source>
-      <translation type="unfinished">Rename function %1</translation>
+      <translation>Đổi tên hàm %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="614"/>
       <source>Function name:</source>
-      <translation type="unfinished">Function name:</translation>
+      <translation>Tên hàm:</translation>
     </message>
   </context>
   <context>
@@ -3704,27 +3704,27 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation type="unfinished">Dialog</translation>
+      <translation>Hộp thoại</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="25"/>
       <source>Chain info:</source>
-      <translation type="unfinished">Chain info:</translation>
+      <translation>Thông tin chuỗi:</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="41"/>
       <source>Detailed chunk info:</source>
-      <translation type="unfinished">Detailed chunk info:</translation>
+      <translation>Thông tin mảnh chi tiết:</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="48"/>
       <source>Enter chunk base address and press enter</source>
-      <translation type="unfinished">Enter chunk base address and press enter</translation>
+      <translation>Điền địa chỉ cơ sở mảnh và nhấn Enter</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="28"/>
       <source>Bins info for arena @ </source>
-      <translation type="unfinished">Bins info for arena @ </translation>
+      <translation>Thông tin bin cho arena @ </translation>
     </message>
   </context>
   <context>
@@ -3732,137 +3732,137 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation type="unfinished">Dialog</translation>
+      <translation>Hộp thoại</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="22"/>
       <source>Base</source>
-      <translation type="unfinished">Base</translation>
+      <translation>Cơ sở</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="29"/>
       <source>Base address of the chunk</source>
-      <translation type="unfinished">Base address of the chunk</translation>
+      <translation>Địa chỉ cơ sở của mảnh</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="39"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>Kích cỡ</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="46"/>
       <source>Size of the heap chunk including metadata</source>
-      <translation type="unfinished">Size of the heap chunk including metadata</translation>
+      <translation>Kích cỡ của mảnh heap bao gồm siêu dữ liệu</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="56"/>
       <source>Fd</source>
-      <translation type="unfinished">Fd</translation>
+      <translation>Fd</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="63"/>
       <source>Link to next free chunk in bin&apos;s linked list</source>
-      <translation type="unfinished">Link to next free chunk in bin&apos;s linked list</translation>
+      <translation>Liên kết đến mảnh trống tiếp theo trong danh sách liên kết của bin</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="73"/>
       <source>Bk</source>
-      <translation type="unfinished">Bk</translation>
+      <translation>Bk</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="80"/>
       <source>Link to previous free chunk in bin&apos;s linked list</source>
-      <translation type="unfinished">Link to previous free chunk in bin&apos;s linked list</translation>
+      <translation>Liên kết đến mảnh trống trước đó trong danh sách liên kết của bin</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="90"/>
       <source>Link to next larger free chunk (only for large chunks)</source>
-      <translation type="unfinished">Link to next larger free chunk (only for large chunks)</translation>
+      <translation>Liên kết đến mảnh trống lớn hơn tiếp theo (chỉ dành cho các mảnh lớn)</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="100"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Fd-nextsize&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Fd-nextsize&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Fd-nextsize&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="107"/>
       <source>Bk-nextsize</source>
-      <translation type="unfinished">Bk-nextsize</translation>
+      <translation>Bk-nextsize</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="114"/>
       <source>Link to next smaller free chunk (for large chunks)</source>
-      <translation type="unfinished">Link to next smaller free chunk (for large chunks)</translation>
+      <translation>Liên kết đến mảnh trống nhỏ hơn tiếp theo (dành cho các mảnh lớn)</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="124"/>
       <source>Size of previous chunk (if free)</source>
-      <translation type="unfinished">Size of previous chunk (if free)</translation>
+      <translation>Kích cỡ của mảnh trước đó (nếu trống)</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="134"/>
       <source>PrevSize</source>
-      <translation type="unfinished">PrevSize</translation>
+      <translation>PrevSize</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="145"/>
       <source>If the chunk was obtained from a non-main arena</source>
-      <translation type="unfinished">If the chunk was obtained from a non-main arena</translation>
+      <translation>Nếu mảnh được lấy từ một arena phụ</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="148"/>
       <source>NON_MAIN_ARENA</source>
-      <translation type="unfinished">NON_MAIN_ARENA</translation>
+      <translation>NON_MAIN_ARENA</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="161"/>
       <source>The chunk was obtained with mmap()</source>
-      <translation type="unfinished">The chunk was obtained with mmap()</translation>
+      <translation>Mảnh lấy được với mmap()</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="164"/>
       <source>IS_MMAPED</source>
-      <translation type="unfinished">IS_MMAPED</translation>
+      <translation>IS_MMAPED</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="177"/>
       <source>Previous adjacent chunk is in use</source>
-      <translation type="unfinished">Previous adjacent chunk is in use</translation>
+      <translation>Mảnh liền kề trước đó đang được sử dụng</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="180"/>
       <source>PREV_INUSE</source>
-      <translation type="unfinished">PREV_INUSE</translation>
+      <translation>PREV_INUSE</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="195"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>Lưu</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="12"/>
       <source>Chunk @ </source>
-      <translation type="unfinished">Chunk @ </translation>
+      <translation>Mảnh @ </translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="100"/>
       <source>Chunk saved</source>
-      <translation type="unfinished">Chunk saved</translation>
+      <translation>Mảnh đã được lưu</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="101"/>
       <source>Chunk header successfully overwritten</source>
-      <translation type="unfinished">Chunk header successfully overwritten</translation>
+      <translation>Đầu mục mảnh đã được ghi đè thành công</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="103"/>
       <source>Chunk not saved</source>
-      <translation type="unfinished">Chunk not saved</translation>
+      <translation>Mảnh không được lưu</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="104"/>
       <source>Chunk header not successfully overwritten</source>
-      <translation type="unfinished">Chunk header not successfully overwritten</translation>
+      <translation>Đầu mục mảnh đã không được ghi đè thành công</translation>
     </message>
   </context>
   <context>
@@ -3870,17 +3870,17 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="161"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>Bù</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="163"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>Kích cỡ</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="165"/>
       <source>Status</source>
-      <translation type="unfinished">Status</translation>
+      <translation>Trạng thái</translation>
     </message>
   </context>
   <context>
@@ -3888,32 +3888,32 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Trình chọn màu</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="34"/>
       <source>Arena</source>
-      <translation type="unfinished">Arena</translation>
+      <translation>Arena</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="47"/>
       <source>View bins info for an arena</source>
-      <translation type="unfinished">View bins info for an arena</translation>
+      <translation>Xem thông tin bin cho một arena</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="50"/>
       <source>Bins</source>
-      <translation type="unfinished">Bins</translation>
+      <translation>Bin</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="27"/>
       <source>Detailed Chunk Info</source>
-      <translation type="unfinished">Detailed Chunk Info</translation>
+      <translation>Thông tin mảnh chi tiết</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="28"/>
       <source>Bins Info</source>
-      <translation type="unfinished">Bins Info</translation>
+      <translation>Thông tin mảnh</translation>
     </message>
   </context>
   <context>
@@ -3921,37 +3921,37 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="14"/>
       <source>Add Global Variable</source>
-      <translation type="unfinished">Add Global Variable</translation>
+      <translation>Thêm biến số toàn cục</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="20"/>
       <source>Add global variable at</source>
-      <translation type="unfinished">Add global variable at</translation>
+      <translation>Thêm biến số toàn cục tại</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="38"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>Tên:</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="61"/>
       <source>int</source>
-      <translation type="unfinished">int</translation>
+      <translation>int</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="80"/>
       <source>Type:</source>
-      <translation type="unfinished">Type:</translation>
+      <translation>Loại:</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.cpp" line="28"/>
       <source>Edit global variable at %1</source>
-      <translation type="unfinished">Edit global variable at %1</translation>
+      <translation>Sửa biến số toàn cục tại %1</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.cpp" line="30"/>
       <source>Add global variable at %1</source>
-      <translation type="unfinished">Add global variable at %1</translation>
+      <translation>Thêm biến số toàn cục tại %1</translation>
     </message>
   </context>
   <context>
@@ -3959,22 +3959,22 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="60"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>Địa chỉ</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="62"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>Loại</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="64"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Tên</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="66"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Bình luận</translation>
     </message>
   </context>
   <context>
@@ -3984,24 +3984,24 @@ Please check the console for more details.</translation>
       <location filename="../widgets/GlobalsWidget.ui" line="79"/>
       <location filename="../widgets/GlobalsWidget.cpp" line="206"/>
       <source>Edit Global Variable</source>
-      <translation type="unfinished">Edit Global Variable</translation>
+      <translation>Sửa biến số toàn cục</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.ui" line="84"/>
       <location filename="../widgets/GlobalsWidget.ui" line="87"/>
       <location filename="../widgets/GlobalsWidget.cpp" line="207"/>
       <source>Delete Global Variable</source>
-      <translation type="unfinished">Delete Global Variable</translation>
+      <translation>Xóa biến số toàn cục</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="167"/>
       <source>Category</source>
-      <translation type="unfinished">Category</translation>
+      <translation>Danh mục</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="169"/>
       <source>Globals</source>
-      <translation type="unfinished">Globals</translation>
+      <translation>Toàn cục</translation>
     </message>
   </context>
   <context>
@@ -4009,93 +4009,93 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="14"/>
       <source>Graph</source>
-      <translation type="unfinished">Graph</translation>
+      <translation>Biểu đồ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="22"/>
       <source>Graph Block Options </source>
-      <translation type="unfinished">Graph Block Options </translation>
+      <translation>Tùy chọn khối biểu đồ </translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="31"/>
       <source>The offset of the first instruction of a graph block is shown in the header of the respective graph block</source>
-      <translation type="unfinished">The offset of the first instruction of a graph block is shown in the header of the respective graph block</translation>
+      <translation>Giá trị bù cho hướng dẫn đầu tiên của một khối biểu đồ được hiển thị trong đầu mục của khối biểu đồ tương ứng</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="34"/>
       <source>Show offset of the first instruction in each graph block</source>
-      <translation type="unfinished">Show offset of the first instruction in each graph block</translation>
+      <translation>Hiển thị giá trị bù cho hướng dẫn đầu tiên trong mỗi khối biểu đồ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="41"/>
       <source>Show offset for each instruction (graph.offset)</source>
-      <translation type="unfinished">Show offset for each instruction (graph.offset)</translation>
+      <translation>Hiển thị giá trị bù cho mỗi hướng dẫn (graph.offset)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="48"/>
       <source>Show preview when hovering (graph.preview)</source>
-      <translation type="unfinished">Show preview when hovering (graph.preview)</translation>
+      <translation>Hiển thị bản xem trước khi di chuột lên (graph.preview)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="57"/>
       <source>Maximum Line Length:</source>
-      <translation type="unfinished">Maximum Line Length:</translation>
+      <translation>Chiều dài dòng tối đa:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="77"/>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="87"/>
       <source>Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</source>
-      <translation type="unfinished">Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</translation>
+      <translation>Ẩn văn bản khi thu nhỏ và nhỏ hơn giá trị được cho. Các giá trị cao hơn có thể tăng Hiệu năng.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="80"/>
       <source>Minimum Font Size</source>
-      <translation type="unfinished">Minimum Font Size</translation>
+      <translation>Kích cỡ phông chữ tối thiểu</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="105"/>
       <source>Graph Layout Options</source>
-      <translation type="unfinished">Graph Layout Options</translation>
+      <translation>Tùy chọn bố cục biểu đồ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="124"/>
       <source>Vertical</source>
-      <translation type="unfinished">Vertical</translation>
+      <translation>Chiều dọc</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="147"/>
       <source>Horizontal</source>
-      <translation type="unfinished">Horizontal</translation>
+      <translation>Chiều ngang</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="183"/>
       <source>Block spacing:</source>
-      <translation type="unfinished">Block spacing:</translation>
+      <translation>Khoảng cách khối:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="190"/>
       <source>Edge spacing</source>
-      <translation type="unfinished">Edge spacing</translation>
+      <translation>Khoảng cách cạnh</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="200"/>
       <source>Bitmap Export Options</source>
-      <translation type="unfinished">Bitmap Export Options</translation>
+      <translation>Tùy chọn xuất bitmap</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="209"/>
       <source>Export Transparent Bitmap Graphs</source>
-      <translation type="unfinished">Export Transparent Bitmap Graphs</translation>
+      <translation>Xuất biểu đồ bitmap trong suốt</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="218"/>
       <source>Graph Bitmap Export Scale: </source>
-      <translation type="unfinished">Graph Bitmap Export Scale: </translation>
+      <translation>Quy mô xuất bitmap biểu đồ: </translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="225"/>
       <source>%</source>
-      <translation type="unfinished">%</translation>
+      <translation>%</translation>
     </message>
   </context>
   <context>
@@ -4103,7 +4103,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/GraphView.cpp" line="441"/>
       <source>Cutter graph export</source>
-      <translation type="unfinished">Cutter graph export</translation>
+      <translation>Xuất biểu đồ Cutter</translation>
     </message>
   </context>
   <context>
@@ -4111,22 +4111,22 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="55"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>Bù</translation>
     </message>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="57"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Tên</translation>
     </message>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="59"/>
       <source>Value</source>
-      <translation type="unfinished">Value</translation>
+      <translation>Giá trị</translation>
     </message>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="61"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Bình luận</translation>
     </message>
   </context>
   <context>
@@ -4134,7 +4134,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="120"/>
       <source>Headers</source>
-      <translation type="unfinished">Headers</translation>
+      <translation>Đầu mục</translation>
     </message>
   </context>
   <context>
@@ -4142,18 +4142,18 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="8"/>
       <source>Detailed Chunk Info</source>
-      <translation type="unfinished">Detailed Chunk Info</translation>
+      <translation>Thông tin mảnh chi tiết</translation>
     </message>
     <message>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="79"/>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="121"/>
       <source>bin </source>
-      <translation type="unfinished">bin </translation>
+      <translation>bin </translation>
     </message>
     <message>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="121"/>
       <source> @ </source>
-      <translation type="unfinished"> @ </translation>
+      <translation> @ </translation>
     </message>
   </context>
   <context>
@@ -4161,7 +4161,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/HeapDockWidget.ui" line="14"/>
       <source>Heap</source>
-      <translation type="unfinished">Heap</translation>
+      <translation>Heap</translation>
     </message>
   </context>
   <context>
@@ -4169,157 +4169,157 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="70"/>
       <source>Hexadecimal</source>
-      <translation type="unfinished">Hexadecimal</translation>
+      <translation>Thập lục phân</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="71"/>
       <source>Octal</source>
-      <translation type="unfinished">Octal</translation>
+      <translation>Bát phân</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="72"/>
       <source>Decimal</source>
-      <translation type="unfinished">Decimal</translation>
+      <translation>Thập phân</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="73"/>
       <source>Signed decimal</source>
-      <translation type="unfinished">Signed decimal</translation>
+      <translation>Số thập phân có dấu</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="74"/>
       <source>Float</source>
-      <translation type="unfinished">Float</translation>
+      <translation>Số thực</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="88"/>
       <source>Bytes per row</source>
-      <translation type="unfinished">Bytes per row</translation>
+      <translation>Byte trên mỗi hàng</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="98"/>
       <source>Power of 2</source>
-      <translation type="unfinished">Power of 2</translation>
+      <translation>Lũy thừa của 2</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="105"/>
       <source>Big Endian</source>
-      <translation type="unfinished">Big Endian</translation>
+      <translation>Endian lớn</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="110"/>
       <source>Bytes as pairs</source>
-      <translation type="unfinished">Bytes as pairs</translation>
+      <translation>Byte dưới dạng cặp</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="114"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>Sao chép</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="120"/>
       <source>Copy address</source>
-      <translation type="unfinished">Copy address</translation>
+      <translation>Sao chép địa chỉ</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="127"/>
       <location filename="../widgets/HexWidget.cpp" line="1157"/>
       <source>Add Comment</source>
-      <translation type="unfinished">Add Comment</translation>
+      <translation>Thêm bình luận</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="134"/>
       <source>Delete Comment</source>
-      <translation type="unfinished">Delete Comment</translation>
+      <translation>Xóa bình luận</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="140"/>
       <source>Select range</source>
-      <translation type="unfinished">Select range</translation>
+      <translation>Chọn phạm vi</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="147"/>
       <location filename="../widgets/HexWidget.cpp" line="1272"/>
       <source>Write string</source>
-      <translation type="unfinished">Write string</translation>
+      <translation>Ghi chuỗi</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="151"/>
       <source>Write length and string</source>
-      <translation type="unfinished">Write length and string</translation>
+      <translation>Ghi độ dài và chuỗi</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="155"/>
       <location filename="../widgets/HexWidget.cpp" line="1466"/>
       <source>Write wide string</source>
-      <translation type="unfinished">Write wide string</translation>
+      <translation>Ghi chuỗi rộng</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="159"/>
       <source>Write zero terminated string</source>
-      <translation type="unfinished">Write zero terminated string</translation>
+      <translation>Ghi chuỗi kết thúc bằng 0</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="163"/>
       <source>Write a decoded or encoded Base64 string</source>
-      <translation type="unfinished">Write a decoded or encoded Base64 string</translation>
+      <translation>Ghi một chuỗi Base64 được mã hóa hay giải mã</translation>
     </message>
     <message>
       <source>Write De\Encoded Base64 string</source>
-      <translation type="unfinished">Write De\Encoded Base64 string</translation>
+      <translation>Ghi chuỗi Base64 được giải mã\mã hóa</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="168"/>
       <location filename="../widgets/HexWidget.cpp" line="1318"/>
       <source>Write hex bytes</source>
-      <translation type="unfinished">Write hex bytes</translation>
+      <translation>Ghi chuỗi hex</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="172"/>
       <location filename="../widgets/HexWidget.cpp" line="1354"/>
       <source>Write zeros</source>
-      <translation type="unfinished">Write zeros</translation>
+      <translation>Ghi số 0</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="176"/>
       <location filename="../widgets/HexWidget.cpp" line="1410"/>
       <source>Write random bytes</source>
-      <translation type="unfinished">Write random bytes</translation>
+      <translation>Ghi byte ngẫu nhiên</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="180"/>
       <source>Duplicate from offset</source>
-      <translation type="unfinished">Duplicate from offset</translation>
+      <translation>Sao chép từ giá trị bù</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="184"/>
       <source>Increment/Decrement</source>
-      <translation type="unfinished">Increment/Decrement</translation>
+      <translation>Tăng/giảm</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="188"/>
       <source>Edit with keyboard</source>
-      <translation type="unfinished">Edit with keyboard</translation>
+      <translation>Sửa bằng bàn phím</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1160"/>
       <source>Edit Comment</source>
-      <translation type="unfinished">Edit Comment</translation>
+      <translation>Sửa bình luận</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1168"/>
       <source>Item size:</source>
-      <translation type="unfinished">Item size:</translation>
+      <translation>Kích cỡ mục:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1170"/>
       <source>Item format:</source>
-      <translation type="unfinished">Item format:</translation>
+      <translation>Định dạng mục:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1175"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>Sửa</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1272"/>
@@ -4327,48 +4327,48 @@ Please check the console for more details.</translation>
       <location filename="../widgets/HexWidget.cpp" line="1466"/>
       <location filename="../widgets/HexWidget.cpp" line="1484"/>
       <source>String:</source>
-      <translation type="unfinished">String:</translation>
+      <translation>Chuỗi:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1318"/>
       <source>Hex byte string:</source>
-      <translation type="unfinished">Hex byte string:</translation>
+      <translation>Chuỗi byte hex:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1354"/>
       <source>Number of zeros:</source>
-      <translation type="unfinished">Number of zeros:</translation>
+      <translation>Số lượng số 0:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1381"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>Lỗi</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1382"/>
       <source>Error occured during decoding your input.
 Please, make sure, that it is a valid base64 string and try again.</source>
-      <translation type="unfinished">Error occured during decoding your input.
-Please, make sure, that it is a valid base64 string and try again.</translation>
+      <translation>Đã xảy ra lỗi trong quá trình giải mã đầu vào của bạn.
+Vui lòng đảm bảo đây là một chuỗi base64 hợp lệ và thử lại.</translation>
     </message>
     <message>
       <source>Write random</source>
-      <translation type="unfinished">Write random</translation>
+      <translation>Ghi ngẫu nhiên</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1410"/>
       <source>Number of bytes:</source>
-      <translation type="unfinished">Number of bytes:</translation>
+      <translation>Số byte:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1448"/>
       <source>Write Pascal string</source>
-      <translation type="unfinished">Write Pascal string</translation>
+      <translation>Ghi chuỗi Pascal</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1484"/>
       <source>Write zero-terminated string</source>
-      <translation type="unfinished">Write zero-terminated string</translation>
+      <translation>Ghi chuỗi kết thúc bằng 0</translation>
     </message>
   </context>
   <context>
@@ -4376,33 +4376,33 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="14"/>
       <source>Select Block</source>
-      <translation type="unfinished">Select Block</translation>
+      <translation>Chọn khối</translation>
     </message>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="47"/>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="79"/>
       <source>Exclusive end address</source>
-      <translation type="unfinished">Exclusive end address</translation>
+      <translation>Địa chỉ kết thúc duy nhất</translation>
     </message>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="50"/>
       <source>End Address:</source>
-      <translation type="unfinished">End Address:</translation>
+      <translation>Địa chỉ kết thúc:</translation>
     </message>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="65"/>
       <source>Start Address:</source>
-      <translation type="unfinished">Start Address:</translation>
+      <translation>Địa chỉ bắt đầu:</translation>
     </message>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="99"/>
       <source>Length:</source>
-      <translation type="unfinished">Length:</translation>
+      <translation>Độ dài:</translation>
     </message>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="115"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff8585;&quot;&gt;Big selection might cause a delay&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff8585;&quot;&gt;Big selection might cause a delay&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff8585;&quot;&gt;Chọn nhiều mục có thể khiến việc xử lý bị chậm&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
   </context>
   <context>
@@ -4410,151 +4410,151 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="70"/>
       <source>Parsing</source>
-      <translation type="unfinished">Parsing</translation>
+      <translation>Phân tích</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="120"/>
       <source>Endian</source>
-      <translation type="unfinished">Endian</translation>
+      <translation>Endian</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="131"/>
       <source>Little</source>
-      <translation type="unfinished">Little</translation>
+      <translation>Nhỏ</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="136"/>
       <source>Big</source>
-      <translation type="unfinished">Big</translation>
+      <translation>Lớn</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="191"/>
       <source>Arch</source>
-      <translation type="unfinished">Arch</translation>
+      <translation>Arch</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="220"/>
       <source>Bits</source>
-      <translation type="unfinished">Bits</translation>
+      <translation>Bit</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="231"/>
       <source>16</source>
-      <translation type="unfinished">16</translation>
+      <translation>16</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="236"/>
       <source>32</source>
-      <translation type="unfinished">32</translation>
+      <translation>32</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="241"/>
       <source>64</source>
-      <translation type="unfinished">64</translation>
+      <translation>64</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="318"/>
       <source>SHA256:</source>
-      <translation type="unfinished">SHA256:</translation>
+      <translation>SHA256:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="350"/>
       <source>SHA1:</source>
-      <translation type="unfinished">SHA1:</translation>
+      <translation>SHA1:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="357"/>
       <source>Copy SHA256</source>
-      <translation type="unfinished">Copy SHA256</translation>
+      <translation>Sao chép SHA256</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="396"/>
       <source>Copy CRC32</source>
-      <translation type="unfinished">Copy CRC32</translation>
+      <translation>Sao chép CRC32</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="434"/>
       <source>Entropy:</source>
-      <translation type="unfinished">Entropy:</translation>
+      <translation>Entropy:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="466"/>
       <source>MD5:</source>
-      <translation type="unfinished">MD5:</translation>
+      <translation>MD5:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="479"/>
       <source>CRC32:</source>
-      <translation type="unfinished">CRC32:</translation>
+      <translation>CRC32:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="50"/>
       <source>Select bytes to display information</source>
-      <translation type="unfinished">Select bytes to display information</translation>
+      <translation>Chọn byte để hiển thị thông tin</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="143"/>
       <source>Disassembly</source>
-      <translation type="unfinished">Disassembly</translation>
+      <translation>Dịch assembly</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="144"/>
       <source>String</source>
-      <translation type="unfinished">String</translation>
+      <translation>Chuỗi</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="145"/>
       <source>Assembler</source>
-      <translation type="unfinished">Assembler</translation>
+      <translation>Trình assembly</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="146"/>
       <source>C bytes</source>
-      <translation type="unfinished">C bytes</translation>
+      <translation>C byte</translation>
     </message>
     <message>
       <source>C bytes with instructions</source>
-      <translation type="unfinished">C bytes with instructions</translation>
+      <translation>C byte với hướng dẫn</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="147"/>
       <source>C half-words (2 byte)</source>
-      <translation type="unfinished">C half-words (2 byte)</translation>
+      <translation>C half-word (2 byte)</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="148"/>
       <source>C words (4 byte)</source>
-      <translation type="unfinished">C words (4 byte)</translation>
+      <translation>C word (4 byte)</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="149"/>
       <source>C dwords (8 byte)</source>
-      <translation type="unfinished">C dwords (8 byte)</translation>
+      <translation>C dword (8 byte)</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="150"/>
       <source>Python</source>
-      <translation type="unfinished">Python</translation>
+      <translation>Python</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="151"/>
       <source>JSON</source>
-      <translation type="unfinished">JSON</translation>
+      <translation>JSON</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="152"/>
       <source>JavaScript</source>
-      <translation type="unfinished">JavaScript</translation>
+      <translation>JavaScript</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="153"/>
       <source>Yara</source>
-      <translation type="unfinished">Yara</translation>
+      <translation>Yara</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="218"/>
       <source>Hexdump</source>
-      <translation type="unfinished">Hexdump</translation>
+      <translation>Hexdump</translation>
     </message>
   </context>
   <context>
@@ -4562,37 +4562,37 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="45"/>
       <source>Unsafe</source>
-      <translation type="unfinished">Unsafe</translation>
+      <translation>Không an toàn</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="71"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>Địa chỉ</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="73"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>Loại</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="75"/>
       <source>Safety</source>
-      <translation type="unfinished">Safety</translation>
+      <translation>An toàn</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="77"/>
       <source>Library</source>
-      <translation type="unfinished">Library</translation>
+      <translation>Thư viện</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="79"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Tên</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="81"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Bình luận</translation>
     </message>
   </context>
   <context>
@@ -4600,7 +4600,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="172"/>
       <source>Imports</source>
-      <translation type="unfinished">Imports</translation>
+      <translation>Nhập</translation>
     </message>
   </context>
   <context>
@@ -4608,47 +4608,47 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="14"/>
       <source>Increment/Decrement</source>
-      <translation type="unfinished">Increment/Decrement</translation>
+      <translation>Tăng/giảm</translation>
     </message>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="24"/>
       <source>Interpret as</source>
-      <translation type="unfinished">Interpret as</translation>
+      <translation>Diễn dịch là</translation>
     </message>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="38"/>
       <source>Value:</source>
-      <translation type="unfinished">Value:</translation>
+      <translation>Giá trị:</translation>
     </message>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="54"/>
       <source>Increment</source>
-      <translation type="unfinished">Increment</translation>
+      <translation>Tăng</translation>
     </message>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="64"/>
       <source>Decrement</source>
-      <translation type="unfinished">Decrement</translation>
+      <translation>Giảm</translation>
     </message>
     <message>
       <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
       <source>Byte</source>
-      <translation type="unfinished">Byte</translation>
+      <translation>Byte</translation>
     </message>
     <message>
       <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
       <source>Word</source>
-      <translation type="unfinished">Word</translation>
+      <translation>Word</translation>
     </message>
     <message>
       <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
       <source>Dword</source>
-      <translation type="unfinished">Dword</translation>
+      <translation>Dword</translation>
     </message>
     <message>
       <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
       <source>Qword</source>
-      <translation type="unfinished">Qword</translation>
+      <translation>Qword</translation>
     </message>
   </context>
   <context>
@@ -4656,28 +4656,28 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="26"/>
       <source>Load Options</source>
-      <translation type="unfinished">Load Options</translation>
+      <translation>Tùy chọn tải</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="84"/>
       <source>Program:</source>
-      <translation type="unfinished">Program:</translation>
+      <translation>Chương trình:</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="167"/>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="413"/>
       <source>Analysis: Enabled</source>
-      <translation type="unfinished">Analysis: Enabled</translation>
+      <translation>Phân tích: Đã bật</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="183"/>
       <source>Level: </source>
-      <translation type="unfinished">Level: </translation>
+      <translation>Cấp độ: </translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="224"/>
       <source>None</source>
-      <translation type="unfinished">None</translation>
+      <translation>Không có</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="259"/>
@@ -4688,299 +4688,299 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="833"/>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="38"/>
       <source>Auto</source>
-      <translation type="unfinished">Auto</translation>
+      <translation>Tự động</translation>
     </message>
     <message>
       <source>Auto Exp</source>
-      <translation type="unfinished">Auto Exp</translation>
+      <translation>Tự động thử nghiệm</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="326"/>
       <source>Experimental</source>
-      <translation type="unfinished">Experimental</translation>
+      <translation>Thử nghiệm</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="364"/>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="399"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>Nâng cao</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="518"/>
       <source>Load in write mode (-w)</source>
-      <translation type="unfinished">Load in write mode (-w)</translation>
+      <translation>Tải trong chế độ ghi (-w)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="528"/>
       <source>Do not load bin information (-n)</source>
-      <translation type="unfinished">Do not load bin information (-n)</translation>
+      <translation>Không tải thông tin bin (-n)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="541"/>
       <source>Use virtual addressing</source>
-      <translation type="unfinished">Use virtual addressing</translation>
+      <translation>Sử dụng địa chỉ ảo</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="551"/>
       <source>Import demangled symbols</source>
-      <translation type="unfinished">Import demangled symbols</translation>
+      <translation>Nhập các ký hiệu demangled</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="568"/>
       <source>...</source>
-      <translation type="unfinished">...</translation>
+      <translation>...</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="599"/>
       <source>Advanced options</source>
-      <translation type="unfinished">Advanced options</translation>
+      <translation>Tùy chọn nâng cao</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="629"/>
       <source>CPU options</source>
-      <translation type="unfinished">CPU options</translation>
+      <translation>Tùy chọn CPU</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="644"/>
       <source>Architecture:</source>
-      <translation type="unfinished">Architecture:</translation>
+      <translation>Kiến trúc:</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="669"/>
       <source>CPU:</source>
-      <translation type="unfinished">CPU:</translation>
+      <translation>CPU:</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="720"/>
       <source>8</source>
-      <translation type="unfinished">8</translation>
+      <translation>8</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="725"/>
       <source>16</source>
-      <translation type="unfinished">16</translation>
+      <translation>16</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="730"/>
       <source>32</source>
-      <translation type="unfinished">32</translation>
+      <translation>32</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="735"/>
       <source>64</source>
-      <translation type="unfinished">64</translation>
+      <translation>64</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="749"/>
       <source>Endianness: </source>
-      <translation type="unfinished">Endianness: </translation>
+      <translation>Thứ tự Endian: </translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="768"/>
       <source>Little</source>
-      <translation type="unfinished">Little</translation>
+      <translation>Nhỏ</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="773"/>
       <source>Big</source>
-      <translation type="unfinished">Big</translation>
+      <translation>Lớn</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="794"/>
       <source>Kernel: </source>
-      <translation type="unfinished">Kernel: </translation>
+      <translation>Kernel: </translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="822"/>
       <source>Format:</source>
-      <translation type="unfinished">Format:</translation>
+      <translation>Định dạng:</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="876"/>
       <source>Load bin offset (-B)</source>
-      <translation type="unfinished">Load bin offset (-B)</translation>
+      <translation>Tải giá trị bù bin (-B)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="895"/>
       <source>1024</source>
-      <translation type="unfinished">1024</translation>
+      <translation>1024</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="914"/>
       <source>Map offset (-m)</source>
-      <translation type="unfinished">Map offset (-m)</translation>
+      <translation>Bù bản đồ (-m)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="930"/>
       <source>0x40000</source>
-      <translation type="unfinished">0x40000</translation>
+      <translation>0x40000</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="937"/>
       <source>Load PDB</source>
-      <translation type="unfinished">Load PDB</translation>
+      <translation>Tải PDB</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="962"/>
       <source>PDB File path</source>
-      <translation type="unfinished">PDB File path</translation>
+      <translation>Đường dẫn đến tập tin PDB</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="969"/>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="1011"/>
       <source>Select</source>
-      <translation type="unfinished">Select</translation>
+      <translation>Chọn</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="979"/>
       <source>Load script file</source>
-      <translation type="unfinished">Load script file</translation>
+      <translation>Tải tập tin kịch bản</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="1004"/>
       <source>Path to Rizin script file</source>
-      <translation type="unfinished">Path to Rizin script file</translation>
+      <translation>Đường dẫn đến tập tin kịch bản Rizin</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="1067"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>Hủy</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="1080"/>
       <source>  Ok  </source>
-      <translation type="unfinished">  Ok  </translation>
+      <translation>  OK  </translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="56"/>
       <source>Analyze all symbols</source>
-      <translation type="unfinished">Analyze all symbols</translation>
+      <translation>Phân tích tất cả các ký hiệu</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="57"/>
       <source>Analyze instructions for references</source>
-      <translation type="unfinished">Analyze instructions for references</translation>
+      <translation>Phân tích hướng dẫn cho tham chiếu</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="58"/>
       <source>Analyze function calls</source>
-      <translation type="unfinished">Analyze function calls</translation>
+      <translation>Phân tích cuộc gọi hàm</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="59"/>
       <source>Analyze all basic blocks</source>
-      <translation type="unfinished">Analyze all basic blocks</translation>
+      <translation>Phân tích tất cả các khối cơ bản</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="60"/>
       <source>Analyze all objc references</source>
-      <translation type="unfinished">Analyze all objc references</translation>
+      <translation>Phân tích tất cả các tham chiếu đối tượng</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="61"/>
       <source>Recover class information from RTTI</source>
-      <translation type="unfinished">Recover class information from RTTI</translation>
+      <translation>Khôi phục thông tin lớp từ RTTI</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="62"/>
       <source>Autoname functions based on context</source>
-      <translation type="unfinished">Autoname functions based on context</translation>
+      <translation>Tự động đặt tên cho các hàm dựa trên ngữ cảnh</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="63"/>
       <source>Emulate code to find computed references</source>
-      <translation type="unfinished">Emulate code to find computed references</translation>
+      <translation>Giả lập mã để tìm tham chiếu được tính</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="64"/>
       <source>Analyze all consecutive functions</source>
-      <translation type="unfinished">Analyze all consecutive functions</translation>
+      <translation>Phân tích tất cả các hàm liên tiếp</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="65"/>
       <source>Type and Argument matching analysis</source>
-      <translation type="unfinished">Type and Argument matching analysis</translation>
+      <translation>Loại và đối số khớp với phân tích</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="66"/>
       <source>Analyze code after trap-sleds</source>
-      <translation type="unfinished">Analyze code after trap-sleds</translation>
+      <translation>Phân tích mã sau nhóm bẫy</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="67"/>
       <source>Analyze function preludes</source>
-      <translation type="unfinished">Analyze function preludes</translation>
+      <translation>Phân tích mở đầu hàm</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="68"/>
       <source>Analyze jump tables in switch statements</source>
-      <translation type="unfinished">Analyze jump tables in switch statements</translation>
+      <translation>Phân tích bảng nhảy trong tuyên bố chuyển</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="71"/>
       <source>Analyze PUSH+RET as JMP</source>
-      <translation type="unfinished">Analyze PUSH+RET as JMP</translation>
+      <translation>Phân tích PUSH+RET dưới dạng JMP</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="72"/>
       <source>Continue analysis after each function</source>
-      <translation type="unfinished">Continue analysis after each function</translation>
+      <translation>Tiếp tục phân tích sau mỗi hàm</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="393"/>
       <source>No analysis</source>
-      <translation type="unfinished">No analysis</translation>
+      <translation>Không phân tích</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="395"/>
       <source>Auto-Analysis (aaa)</source>
-      <translation type="unfinished">Auto-Analysis (aaa)</translation>
+      <translation>Tự động phân tích (aaa)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="397"/>
       <source>Auto-Analysis Experimental (aaaa)</source>
-      <translation type="unfinished">Auto-Analysis Experimental (aaaa)</translation>
+      <translation>Tự động phân tích thử nghiệm (aaaa)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="401"/>
       <source>Unknown</source>
-      <translation type="unfinished">Unknown</translation>
+      <translation>Không xác định</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="407"/>
       <source>Level</source>
-      <translation type="unfinished">Level</translation>
+      <translation>Cấp độ</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="410"/>
       <source>Analysis: Disabled</source>
-      <translation type="unfinished">Analysis: Disabled</translation>
+      <translation>Phân tích: Đã tắt</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="456"/>
       <source>Select PDB file</source>
-      <translation type="unfinished">Select PDB file</translation>
+      <translation>Chọn tập tin PDB</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="457"/>
       <source>PDB file (*.pdb)</source>
-      <translation type="unfinished">PDB file (*.pdb)</translation>
+      <translation>Tập tin PDB (*.pdb)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="457"/>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="479"/>
       <source>All files (*)</source>
-      <translation type="unfinished">All files (*)</translation>
+      <translation>Tất cả tập tin (*)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="478"/>
       <source>Select Rizin script file</source>
-      <translation type="unfinished">Select Rizin script file</translation>
+      <translation>Chọn tập tin kịch bản Rizin</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="479"/>
       <source>Script file (*.rz)</source>
-      <translation type="unfinished">Script file (*.rz)</translation>
+      <translation>Tập tin kịch bản (*.rz)</translation>
     </message>
   </context>
   <context>
@@ -4988,17 +4988,17 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/preferences/InitializationFileEditor.ui" line="14"/>
       <source>CutterRC Editor</source>
-      <translation type="unfinished">CutterRC Editor</translation>
+      <translation>Trình chỉnh sửa CutterRC</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/InitializationFileEditor.ui" line="20"/>
       <source>TextLabel</source>
-      <translation type="unfinished">TextLabel</translation>
+      <translation>TextLabel</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/InitializationFileEditor.cpp" line="35"/>
       <source>Script is loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
-      <translation type="unfinished">Script is loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
+      <translation>Kịch bản được tải từ &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
     </message>
   </context>
   <context>
@@ -5006,7 +5006,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../common/Decompiler.cpp" line="109"/>
       <source>Failed to parse JSON from jsdec</source>
-      <translation type="unfinished">Failed to parse JSON from jsdec</translation>
+      <translation>Không thể phân tích JSON từ jsdec</translation>
     </message>
   </context>
   <context>
@@ -5014,43 +5014,43 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../dialogs/LayoutManager.ui" line="14"/>
       <source>Layout</source>
-      <translation type="unfinished">Layout</translation>
+      <translation>Bố cục</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.ui" line="25"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>Đổi tên</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.ui" line="32"/>
       <location filename="../dialogs/LayoutManager.cpp" line="60"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>Xóa</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="42"/>
       <source>Rename layout error</source>
-      <translation type="unfinished">Rename layout error</translation>
+      <translation>Lỗi khi đổi tên bố cục</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="43"/>
       <source>&apos;%1&apos; is already used.</source>
-      <translation type="unfinished">&apos;%1&apos; is already used.</translation>
+      <translation>&apos;%1&apos; đã được sử dụng rồi.</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="45"/>
       <source>Save layout</source>
-      <translation type="unfinished">Save layout</translation>
+      <translation>Lưu bố cục</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="45"/>
       <source>Enter name</source>
-      <translation type="unfinished">Enter name</translation>
+      <translation>Điền tên</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="61"/>
       <source>Do you want to delete &apos;%1&apos;</source>
-      <translation type="unfinished">Do you want to delete &apos;%1&apos;</translation>
+      <translation>Bạn có muốn xóa &apos;%1&apos; không</translation>
     </message>
   </context>
   <context>
@@ -5058,121 +5058,121 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="33"/>
       <source>Add extra...</source>
-      <translation type="unfinished">Add extra...</translation>
+      <translation>Bổ sung...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="61"/>
       <source>File</source>
-      <translation type="unfinished">File</translation>
+      <translation>Tập tin</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="68"/>
       <source>Set mode</source>
-      <translation type="unfinished">Set mode</translation>
+      <translation>Đặt chế độ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="97"/>
       <location filename="../core/MainWindow.cpp" line="293"/>
       <source>View</source>
-      <translation type="unfinished">View</translation>
+      <translation>Xem</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="104"/>
       <source>Zoom</source>
-      <translation type="unfinished">Zoom</translation>
+      <translation>Thu phóng</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="113"/>
       <source>Layouts</source>
-      <translation type="unfinished">Layouts</translation>
+      <translation>Bố cục</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="133"/>
       <source>Tools</source>
-      <translation type="unfinished">Tools</translation>
+      <translation>Công cụ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="139"/>
       <source>Help</source>
-      <translation type="unfinished">Help</translation>
+      <translation>Trợ giúp</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="147"/>
       <location filename="../core/MainWindow.ui" line="513"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>Sửa</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="156"/>
       <source>Windows</source>
-      <translation type="unfinished">Windows</translation>
+      <translation>Windows</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="160"/>
       <location filename="../core/MainWindow.cpp" line="147"/>
       <location filename="../core/MainWindow.cpp" line="148"/>
       <source>Plugins</source>
-      <translation type="unfinished">Plugins</translation>
+      <translation>Tiện ích</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="165"/>
       <source>Info...</source>
-      <translation type="unfinished">Info...</translation>
+      <translation>Thông tin...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="170"/>
       <source>Debug...</source>
-      <translation type="unfinished">Debug...</translation>
+      <translation>Gỡ lỗi...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="185"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>Gỡ lỗi</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="232"/>
       <source>Reset to default layout</source>
-      <translation type="unfinished">Reset to default layout</translation>
+      <translation>Đặt lại về bố cục mặc định</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="237"/>
       <source>Zen Mode</source>
-      <translation type="unfinished">Zen Mode</translation>
+      <translation>Chế độ Zen</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="240"/>
       <source>Zen mode</source>
-      <translation type="unfinished">Zen mode</translation>
+      <translation>Chế độ Zen</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="245"/>
       <source>BaseFind</source>
-      <translation type="unfinished">BaseFind</translation>
+      <translation>BaseFind</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="250"/>
       <source>About</source>
-      <translation type="unfinished">About</translation>
+      <translation>Giới thiệu</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="255"/>
       <source>Report an issue</source>
-      <translation type="unfinished">Report an issue</translation>
+      <translation>Báo cáo sự cố</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="260"/>
       <source>New Window</source>
-      <translation type="unfinished">New Window</translation>
+      <translation>Cửa sổ mới</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="263"/>
       <source>Ctrl+N</source>
-      <translation type="unfinished">Ctrl+N</translation>
+      <translation>Ctrl+N</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="268"/>
       <source>Close</source>
-      <translation type="unfinished">Close</translation>
+      <translation>Đóng</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="273"/>
@@ -5180,211 +5180,211 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <location filename="../core/MainWindow.ui" line="872"/>
       <location filename="../core/MainWindow.cpp" line="1243"/>
       <source>Save layout</source>
-      <translation type="unfinished">Save layout</translation>
+      <translation>Lưu bố cục</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="281"/>
       <source>Documentation</source>
-      <translation type="unfinished">Documentation</translation>
+      <translation>Tài liệu</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="286"/>
       <source>Map File</source>
-      <translation type="unfinished">Map File</translation>
+      <translation>Tập tin bản đồ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="289"/>
       <source>Ctrl+M</source>
-      <translation type="unfinished">Ctrl+M</translation>
+      <translation>Ctrl+M</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="294"/>
       <location filename="../core/MainWindow.cpp" line="728"/>
       <location filename="../core/MainWindow.cpp" line="751"/>
       <source>Save Project</source>
-      <translation type="unfinished">Save Project</translation>
+      <translation>Lưu dự án</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="297"/>
       <source>Ctrl+S</source>
-      <translation type="unfinished">Ctrl+S</translation>
+      <translation>Ctrl+S</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="302"/>
       <source>Cut</source>
-      <translation type="unfinished">Cut</translation>
+      <translation>Cắt</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="307"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>Sao chép</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="312"/>
       <location filename="../core/MainWindow.ui" line="518"/>
       <source>Paste</source>
-      <translation type="unfinished">Paste</translation>
+      <translation>Dán</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="317"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>Xóa</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="322"/>
       <location filename="../core/MainWindow.ui" line="325"/>
       <source>Select all</source>
-      <translation type="unfinished">Select all</translation>
+      <translation>Chọn tất cả</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="330"/>
       <source>Find</source>
-      <translation type="unfinished">Find</translation>
+      <translation>Tìm</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="335"/>
       <location filename="../core/MainWindow.ui" line="338"/>
       <source>Find next</source>
-      <translation type="unfinished">Find next</translation>
+      <translation>Tìm tiếp</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="343"/>
       <location filename="../core/MainWindow.ui" line="346"/>
       <source>Find previous</source>
-      <translation type="unfinished">Find previous</translation>
+      <translation>Tìm về trước</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="355"/>
       <source>Undo Seek</source>
-      <translation type="unfinished">Undo Seek</translation>
+      <translation>Hoàn tác tua</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="358"/>
       <source>Go back</source>
-      <translation type="unfinished">Go back</translation>
+      <translation>Quay lại</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="367"/>
       <source>Redo Seek</source>
-      <translation type="unfinished">Redo Seek</translation>
+      <translation>Làm lại tua</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="378"/>
       <source>Unlock Panels</source>
-      <translation type="unfinished">Unlock Panels</translation>
+      <translation>Mở khóa bảng điều khiển</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="381"/>
       <source>Toggle panel locks</source>
-      <translation type="unfinished">Toggle panel locks</translation>
+      <translation>Bật/tắt khóa bảng điều khiển</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="400"/>
       <source>Theme</source>
-      <translation type="unfinished">Theme</translation>
+      <translation>Chủ đề</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="415"/>
       <location filename="../core/MainWindow.ui" line="418"/>
       <source>Tabs up/down</source>
-      <translation type="unfinished">Tabs up/down</translation>
+      <translation>Tab lên/xuống</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="427"/>
       <source>Refresh</source>
-      <translation type="unfinished">Refresh</translation>
+      <translation>Làm mới</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="435"/>
       <source>Show Tabs at the Top</source>
-      <translation type="unfinished">Show Tabs at the Top</translation>
+      <translation>Hiển thị tab ở trên đầu</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="438"/>
       <source>Toggle tab position</source>
-      <translation type="unfinished">Toggle tab position</translation>
+      <translation>Bật/tắt vị trí tab</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="443"/>
       <source>Dark Theme</source>
-      <translation type="unfinished">Dark Theme</translation>
+      <translation>Chủ đề tối</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="448"/>
       <location filename="../core/MainWindow.ui" line="451"/>
       <source>Load layout</source>
-      <translation type="unfinished">Load layout</translation>
+      <translation>Tải bố cục</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="456"/>
       <source>Default Theme</source>
-      <translation type="unfinished">Default Theme</translation>
+      <translation>Chủ đề mặc định</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="461"/>
       <source>Bindiff</source>
-      <translation type="unfinished">Bindiff</translation>
+      <translation>Bindiff</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="466"/>
       <source>Analysis</source>
-      <translation type="unfinished">Analysis</translation>
+      <translation>Phân tích</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="471"/>
       <source>Test menu</source>
-      <translation type="unfinished">Test menu</translation>
+      <translation>Menu thử nghiệm</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="476"/>
       <location filename="../core/MainWindow.ui" line="479"/>
       <source>Copy hexpair</source>
-      <translation type="unfinished">Copy hexpair</translation>
+      <translation>Sao chép hexpair</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="484"/>
       <location filename="../core/MainWindow.ui" line="487"/>
       <source>Copy text</source>
-      <translation type="unfinished">Copy text</translation>
+      <translation>Sao chép nội dung</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="492"/>
       <source>Copy ASCII</source>
-      <translation type="unfinished">Copy ASCII</translation>
+      <translation>Sao chép ASCII</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="497"/>
       <location filename="../core/MainWindow.ui" line="500"/>
       <source>Insert string</source>
-      <translation type="unfinished">Insert string</translation>
+      <translation>Chèn chuỗi</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="505"/>
       <location filename="../core/MainWindow.ui" line="508"/>
       <source>Insert hex</source>
-      <translation type="unfinished">Insert hex</translation>
+      <translation>Chèn hex</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="523"/>
       <source>Show/Hide bytes</source>
-      <translation type="unfinished">Show/Hide bytes</translation>
+      <translation>Hiển thị/ẩn byte</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="528"/>
       <source>Switch case</source>
-      <translation type="unfinished">Switch case</translation>
+      <translation>Chuyển chữ hoa chữ thường</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="533"/>
       <location filename="../core/MainWindow.ui" line="536"/>
       <source>Copy all</source>
-      <translation type="unfinished">Copy all</translation>
+      <translation>Sao chép tất cả</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="541"/>
       <location filename="../core/MainWindow.ui" line="544"/>
       <source>Copy bytes</source>
-      <translation type="unfinished">Copy bytes</translation>
+      <translation>Sao chép byte</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="549"/>
@@ -5392,402 +5392,402 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <location filename="../core/MainWindow.ui" line="557"/>
       <location filename="../core/MainWindow.ui" line="560"/>
       <source>Copy disasm</source>
-      <translation type="unfinished">Copy disasm</translation>
+      <translation>Sao chép disasm</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="572"/>
       <location filename="../core/MainWindow.ui" line="575"/>
       <source>Start web server</source>
-      <translation type="unfinished">Start web server</translation>
+      <translation>Bắt đầu máy chủ web</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="580"/>
       <source>1</source>
-      <translation type="unfinished">1</translation>
+      <translation>1</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="585"/>
       <source>2</source>
-      <translation type="unfinished">2</translation>
+      <translation>2</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="590"/>
       <source>4</source>
-      <translation type="unfinished">4</translation>
+      <translation>4</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="595"/>
       <source>8</source>
-      <translation type="unfinished">8</translation>
+      <translation>8</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="600"/>
       <source>16</source>
-      <translation type="unfinished">16</translation>
+      <translation>16</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="605"/>
       <source>32</source>
-      <translation type="unfinished">32</translation>
+      <translation>32</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="610"/>
       <source>64</source>
-      <translation type="unfinished">64</translation>
+      <translation>64</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="615"/>
       <source>Syntax AT&amp;T/Intel</source>
-      <translation type="unfinished">Syntax AT&amp;T/Intel</translation>
+      <translation>Cú pháp AT&amp;T/Intel</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="620"/>
       <location filename="../core/MainWindow.ui" line="630"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>Đổi tên</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="625"/>
       <location filename="../core/MainWindow.ui" line="635"/>
       <source>Undefine</source>
-      <translation type="unfinished">Undefine</translation>
+      <translation>Bỏ định nghĩa</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="640"/>
       <source>Add comment</source>
-      <translation type="unfinished">Add comment</translation>
+      <translation>Thêm bình luận</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="652"/>
       <location filename="../core/MainWindow.ui" line="655"/>
       <source>Show/Hide bottom pannel</source>
-      <translation type="unfinished">Show/Hide bottom pannel</translation>
+      <translation>Hiển thị/ẩn bảng điều khiển bên dưới</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="660"/>
       <source>Run Rizin script</source>
-      <translation type="unfinished">Run Rizin script</translation>
+      <translation>Chạy kịch bản Rizin</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="665"/>
       <source>Reset Settings</source>
-      <translation type="unfinished">Reset Settings</translation>
+      <translation>Đặt lại cài đặt</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="668"/>
       <source>Reset settings</source>
-      <translation type="unfinished">Reset settings</translation>
+      <translation>Đặt lại cài đặt</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="673"/>
       <source>Quit</source>
-      <translation type="unfinished">Quit</translation>
+      <translation>Thoát</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="676"/>
       <source>Ctrl+Q</source>
-      <translation type="unfinished">Ctrl+Q</translation>
+      <translation>Ctrl+Q</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="684"/>
       <source>Exports</source>
-      <translation type="unfinished">Exports</translation>
+      <translation>Xuất</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="687"/>
       <source>Show/Hide Exports panel</source>
-      <translation type="unfinished">Show/Hide Exports panel</translation>
+      <translation>Hiển thị/ẩn bảng điều khiển xuất</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="692"/>
       <source>Refresh Contents</source>
-      <translation type="unfinished">Refresh Contents</translation>
+      <translation>Làm mới nội dung</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="695"/>
       <source>Refresh contents</source>
-      <translation type="unfinished">Refresh contents</translation>
+      <translation>Làm mới nội dung</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="703"/>
       <source>Show ESIL rather than assembly</source>
-      <translation type="unfinished">Show ESIL rather than assembly</translation>
+      <translation>Hiển thị ESIL thay vì bản assembly</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="711"/>
       <source>Show pseudocode rather than assembly</source>
-      <translation type="unfinished">Show pseudocode rather than assembly</translation>
+      <translation>Hiển thị mã giả thay vì bản assembly</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="722"/>
       <source>Display offsets</source>
-      <translation type="unfinished">Display offsets</translation>
+      <translation>Hiển thị giá trị bù</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="727"/>
       <source>Preferences</source>
-      <translation type="unfinished">Preferences</translation>
+      <translation>Tùy chọn</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="732"/>
       <source>Save Project As...</source>
-      <translation type="unfinished">Save Project As...</translation>
+      <translation>Lưu dự án làm...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="740"/>
       <source>Graph</source>
-      <translation type="unfinished">Graph</translation>
+      <translation>Biểu đồ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="745"/>
       <source>Import PDB</source>
-      <translation type="unfinished">Import PDB</translation>
+      <translation>Nhập PDB</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="750"/>
       <source>Analyze Program</source>
-      <translation type="unfinished">Analyze Program</translation>
+      <translation>Phân tích chương trình</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="755"/>
       <source>Export as code</source>
-      <translation type="unfinished">Export as code</translation>
+      <translation>Xuất dưới dạng mã</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="760"/>
       <location filename="../core/MainWindow.cpp" line="1803"/>
       <source>Apply Signature From File</source>
-      <translation type="unfinished">Apply Signature From File</translation>
+      <translation>Áp dụng chữ ký từ tập tin</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="765"/>
       <location filename="../core/MainWindow.cpp" line="1824"/>
       <source>Create New Signature File</source>
-      <translation type="unfinished">Create New Signature File</translation>
+      <translation>Tạo tập tin chữ ký mới</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="770"/>
       <source>Add Hexdump</source>
-      <translation type="unfinished">Add Hexdump</translation>
+      <translation>Thêm hexdump</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="775"/>
       <source>Add Decompiler</source>
-      <translation type="unfinished">Add Decompiler</translation>
+      <translation>Thêm trình dịch ngược</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="780"/>
       <source>Add Disassembly</source>
-      <translation type="unfinished">Add Disassembly</translation>
+      <translation>Thêm bản dịch assembly</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="785"/>
       <source>Add Graph</source>
-      <translation type="unfinished">Add Graph</translation>
+      <translation>Thêm biểu đồ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="796"/>
       <source>Grouped dock dragging</source>
-      <translation type="unfinished">Grouped dock dragging</translation>
+      <translation>Kéo dock được ghép nhóm</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="801"/>
       <source>Zoom In</source>
-      <translation type="unfinished">Zoom In</translation>
+      <translation>Phóng to</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="804"/>
       <source>Ctrl++</source>
-      <translation type="unfinished">Ctrl++</translation>
+      <translation>Ctrl++</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="812"/>
       <source>Zoom Out</source>
-      <translation type="unfinished">Zoom Out</translation>
+      <translation>Thu nhỏ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="815"/>
       <source>Ctrl+-</source>
-      <translation type="unfinished">Ctrl+-</translation>
+      <translation>Ctrl+-</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="823"/>
       <source>Reset</source>
-      <translation type="unfinished">Reset</translation>
+      <translation>Đặt lại</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="826"/>
       <source>Ctrl+=</source>
-      <translation type="unfinished">Ctrl+=</translation>
+      <translation>Ctrl+=</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="834"/>
       <source>Commit changes</source>
-      <translation type="unfinished">Commit changes</translation>
+      <translation>Cam kết các thay đổi</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="842"/>
       <source>Write mode</source>
-      <translation type="unfinished">Write mode</translation>
+      <translation>Chế độ ghi</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="845"/>
       <source>Open the file in write mode. Every change to the file will change the original file on disk.</source>
-      <translation type="unfinished">Open the file in write mode. Every change to the file will change the original file on disk.</translation>
+      <translation>Mở tập tin trong chế độ ghi. Mọi thay đổi đến tập tin đều sẽ thay đổi tập tin gốc trên ổ đĩa.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="853"/>
       <source>Cache mode</source>
-      <translation type="unfinished">Cache mode</translation>
+      <translation>Chế độ bộ nhớ đệm</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="856"/>
       <source>Enable cache mode. Changes to the file would not be applied to disk unless you specifically commit them. This is a safer option.</source>
-      <translation type="unfinished">Enable cache mode. Changes to the file would not be applied to disk unless you specifically commit them. This is a safer option.</translation>
+      <translation>Bật chế độ bộ nhớ đệm. Các thay đổi đến tập tin sẽ không được áp dụng vào ổ đĩa trừ khi bạn đã cam kết chúng một cách cụ thể. Đây là tùy chọn an toàn hơn.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="867"/>
       <source>Read-Only mode</source>
-      <translation type="unfinished">Read-Only mode</translation>
+      <translation>Chế độ chỉ đọc</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="877"/>
       <source>Manage layouts</source>
-      <translation type="unfinished">Manage layouts</translation>
+      <translation>Quản lý bố cục</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="256"/>
       <source>No plugins are installed. Check the plugins section on Cutter documentation to learn more.</source>
-      <translation type="unfinished">No plugins are installed. Check the plugins section on Cutter documentation to learn more.</translation>
+      <translation>Không có tiện ích nào được cài đặt. Hãy kiểm tra phần tiện ích trong tài liệu Cutter để tìm hiểu thêm.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="261"/>
       <source>The installed plugins didn&apos;t add entries to this menu.</source>
-      <translation type="unfinished">The installed plugins didn&apos;t add entries to this menu.</translation>
+      <translation>Các tiện ích được cài đặt đã không thêm mục vào menu này.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="275"/>
       <source>Analyze the program using Rizin&apos;s &quot;aaa&quot; command</source>
-      <translation type="unfinished">Analyze the program using Rizin&apos;s &quot;aaa&quot; command</translation>
+      <translation>Phân tích chương trình bằng lệnh &quot;aaa&quot; của Rizin</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="542"/>
       <source>Script loading</source>
-      <translation type="unfinished">Script loading</translation>
+      <translation>Tải kịch bản</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="543"/>
       <source>Do you want to load the &apos;%1&apos; script?</source>
-      <translation type="unfinished">Do you want to load the &apos;%1&apos; script?</translation>
+      <translation>Bạn có muốn tải kịch bản &apos;%1&apos;?</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="561"/>
       <source>Cannot open file!</source>
-      <translation type="unfinished">Cannot open file!</translation>
+      <translation>Không thể mở tập tin!</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="562"/>
       <source>Could not open the file! Make sure the file exists and that you have the correct permissions.</source>
-      <translation type="unfinished">Could not open the file! Make sure the file exists and that you have the correct permissions.</translation>
+      <translation>Không thể mở tập tin này! Hãy đảm bảo tập tin này tồn tại và bạn có các quyền phù hợp.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="625"/>
       <source>Failed to open project: %1</source>
-      <translation type="unfinished">Failed to open project: %1</translation>
+      <translation>Không thể mở dự án: %1</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="630"/>
       <source>Open Project</source>
-      <translation type="unfinished">Open Project</translation>
+      <translation>Mở dự án</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="752"/>
       <source>Failed to save project: %1</source>
-      <translation type="unfinished">Failed to save project: %1</translation>
+      <translation>Không thể lưu dự án: %1</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="780"/>
       <source>Do you really want to exit?
 Save your project before closing!</source>
-      <translation type="unfinished">Do you really want to exit?
-Save your project before closing!</translation>
+      <translation>Bạn có thật sự muốn thoát?
+Hãy lưu dự án của bạn trước khi đóng!</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1056"/>
       <source>New disassembly</source>
-      <translation type="unfinished">New disassembly</translation>
+      <translation>Bản dịch assembly mới</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1058"/>
       <source>New graph</source>
-      <translation type="unfinished">New graph</translation>
+      <translation>Biểu đồ mới</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1060"/>
       <source>New hexdump</source>
-      <translation type="unfinished">New hexdump</translation>
+      <translation>Hexdump mới</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1061"/>
       <source>New Decompiler</source>
-      <translation type="unfinished">New Decompiler</translation>
+      <translation>Trình dịch ngược mới</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1240"/>
       <source>Save layout error</source>
-      <translation type="unfinished">Save layout error</translation>
+      <translation>Lỗi lưu bố cục</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1241"/>
       <source>&apos;%1&apos; is not a valid name.</source>
-      <translation type="unfinished">&apos;%1&apos; is not a valid name.</translation>
+      <translation>&apos;%1&apos; không phải là một tên hợp lệ.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1243"/>
       <source>Enter name</source>
-      <translation type="unfinished">Enter name</translation>
+      <translation>Điền tên</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1554"/>
       <source>Select Rizin script</source>
-      <translation type="unfinished">Select Rizin script</translation>
+      <translation>Chọn kịch bản Rizin</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1597"/>
       <source>Do you really want to clear all settings?</source>
-      <translation type="unfinished">Do you really want to clear all settings?</translation>
+      <translation>Bạn có thật sự muốn xóa tất cả cài đặt?</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1697"/>
       <source>Select PDB file</source>
-      <translation type="unfinished">Select PDB file</translation>
+      <translation>Chọn tập tin PDB</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1698"/>
       <source>PDB file (*.pdb)</source>
-      <translation type="unfinished">PDB file (*.pdb)</translation>
+      <translation>Tập tin PDB (*.pdb)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1698"/>
       <source>All files (*)</source>
-      <translation type="unfinished">All files (*)</translation>
+      <translation>Tất cả tập tin (*)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1708"/>
       <source>%1 loaded.</source>
-      <translation type="unfinished">%1 loaded.</translation>
+      <translation>%1 được tải.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1799"/>
       <location filename="../core/MainWindow.cpp" line="1821"/>
       <source>Signature File (*.sig)</source>
-      <translation type="unfinished">Signature File (*.sig)</translation>
+      <translation>Tập tin chữ ký (*.sig)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1800"/>
       <location filename="../core/MainWindow.cpp" line="1822"/>
       <source>Pattern File (*.pat)</source>
-      <translation type="unfinished">Pattern File (*.pat)</translation>
+      <translation>Tập tin mẫu hình (*.pat)</translation>
     </message>
   </context>
   <context>
@@ -5795,42 +5795,42 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="14"/>
       <source>Map New File</source>
-      <translation type="unfinished">Map New File</translation>
+      <translation>Lập bản đồ cho tập tin mới</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="26"/>
       <source>File:</source>
-      <translation type="unfinished">File:</translation>
+      <translation>Tập tin:</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="52"/>
       <location filename="../dialogs/MapFileDialog.cpp" line="18"/>
       <source>Select file</source>
-      <translation type="unfinished">Select file</translation>
+      <translation>Chọn tập tin</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="59"/>
       <source>Map address:</source>
-      <translation type="unfinished">Map address:</translation>
+      <translation>Địa chỉ bản đồ:</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="72"/>
       <source>0x40000</source>
-      <translation type="unfinished">0x40000</translation>
+      <translation>0x40000</translation>
     </message>
     <message>
       <source>Map new file file</source>
-      <translation type="unfinished">Map new file file</translation>
+      <translation>Lập bản đồ cho tập tin mới</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
       <source>Failed to map a new file</source>
-      <translation type="unfinished">Failed to map a new file</translation>
+      <translation>Không thể lập bản đồ cho một tập tin mới</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
       <source>Map new file</source>
-      <translation type="unfinished">Map new file</translation>
+      <translation>Lập bản đồ cho tập tin mới</translation>
     </message>
   </context>
   <context>
@@ -5838,27 +5838,27 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="58"/>
       <source>Offset start</source>
-      <translation type="unfinished">Offset start</translation>
+      <translation>Bắt đầu bù</translation>
     </message>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="60"/>
       <source>Offset end</source>
-      <translation type="unfinished">Offset end</translation>
+      <translation>Kết thúc bù</translation>
     </message>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="62"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Tên</translation>
     </message>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="64"/>
       <source>Permissions</source>
-      <translation type="unfinished">Permissions</translation>
+      <translation>Quyền</translation>
     </message>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="66"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Bình luận</translation>
     </message>
   </context>
   <context>
@@ -5866,7 +5866,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="123"/>
       <source>Memory Map</source>
-      <translation type="unfinished">Memory Map</translation>
+      <translation>Bản đồ bộ nhớ</translation>
     </message>
   </context>
   <context>
@@ -5874,17 +5874,17 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/MultitypeFileSaveDialog.cpp" line="24"/>
       <source>Detect type (*)</source>
-      <translation type="unfinished">Detect type (*)</translation>
+      <translation>Phát hiện loại (*)</translation>
     </message>
     <message>
       <location filename="../dialogs/MultitypeFileSaveDialog.cpp" line="63"/>
       <source>File save error</source>
-      <translation type="unfinished">File save error</translation>
+      <translation>Lỗi lưu tập tin</translation>
     </message>
     <message>
       <location filename="../dialogs/MultitypeFileSaveDialog.cpp" line="64"/>
       <source>Unrecognized extension &apos;%1&apos;</source>
-      <translation type="unfinished">Unrecognized extension &apos;%1&apos;</translation>
+      <translation>Phần mở rộng không nhận dạng được &apos;%1&apos;</translation>
     </message>
   </context>
   <context>
@@ -5892,7 +5892,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/NativeDebugDialog.ui" line="35"/>
       <source>Command line arguments:</source>
-      <translation type="unfinished">Command line arguments:</translation>
+      <translation>Đối số dòng lệnh:</translation>
     </message>
   </context>
   <context>
@@ -5901,104 +5901,104 @@ Save your project before closing!</translation>
       <location filename="../dialogs/NewFileDialog.ui" line="20"/>
       <location filename="../dialogs/NewFileDialog.ui" line="149"/>
       <source>Open File</source>
-      <translation type="unfinished">Open File</translation>
+      <translation>Mở tập tin</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="79"/>
       <source>About</source>
-      <translation type="unfinished">About</translation>
+      <translation>Giới thiệu</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="169"/>
       <source>&lt;b&gt;Select new file&lt;b&gt;</source>
-      <translation type="unfinished">&lt;b&gt;Select new file&lt;b&gt;</translation>
+      <translation>&lt;b&gt;Chọn tập tin mới&lt;b&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="182"/>
       <location filename="../dialogs/NewFileDialog.ui" line="390"/>
       <source>Select</source>
-      <translation type="unfinished">Select</translation>
+      <translation>Chọn</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="202"/>
       <source>&lt;b&gt;IO&lt;/b&gt;</source>
-      <translation type="unfinished">&lt;b&gt;IO&lt;/b&gt;</translation>
+      <translation>&lt;b&gt;IO&lt;/b&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="296"/>
       <source>Don&apos;t open any file</source>
-      <translation type="unfinished">Don&apos;t open any file</translation>
+      <translation>Không mở bất kỳ tập tin nào</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="303"/>
       <location filename="../dialogs/NewFileDialog.ui" line="360"/>
       <location filename="../dialogs/NewFileDialog.ui" line="501"/>
       <source>Open</source>
-      <translation type="unfinished">Open</translation>
+      <translation>Mở</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="316"/>
       <source>Open Shellcode</source>
-      <translation type="unfinished">Open Shellcode</translation>
+      <translation>Mở Shellcode</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="328"/>
       <source>&lt;b&gt;Paste Shellcode&lt;b&gt;</source>
-      <translation type="unfinished">&lt;b&gt;Paste Shellcode&lt;b&gt;</translation>
+      <translation>&lt;b&gt;Dán Shellcode&lt;b&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="370"/>
       <source>Projects</source>
-      <translation type="unfinished">Projects</translation>
+      <translation>Dự án</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="410"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Open Project&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Open Project&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Mở dự án&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="519"/>
       <source>Remove item</source>
-      <translation type="unfinished">Remove item</translation>
+      <translation>Xóa mục</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="524"/>
       <source>Clear all</source>
-      <translation type="unfinished">Clear all</translation>
+      <translation>Xóa tất cả</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="529"/>
       <source>Delete project</source>
-      <translation type="unfinished">Delete project</translation>
+      <translation>Xóa dự án</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="534"/>
       <source>Clear all projects</source>
-      <translation type="unfinished">Clear all projects</translation>
+      <translation>Xóa tất cả các dự án</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="95"/>
       <source>Select file</source>
-      <translation type="unfinished">Select file</translation>
+      <translation>Chọn tập tin</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="107"/>
       <source>Open Project</source>
-      <translation type="unfinished">Open Project</translation>
+      <translation>Mở dự án</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="290"/>
       <source>Open a file without additional options/settings.</source>
-      <translation type="unfinished">Open a file without additional options/settings.</translation>
+      <translation>Mở một tập tin mà không có tùy chọn/cài đặt bổ sung.</translation>
     </message>
     <message>
       <source>Open a file with no extra treatment.</source>
-      <translation type="unfinished">Open a file with no extra treatment.</translation>
+      <translation>Mở một tập tin mà không xử lý thêm.</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="323"/>
       <source>Select a new program or a previous one before continuing.</source>
-      <translation type="unfinished">Select a new program or a previous one before continuing.</translation>
+      <translation>Chọn một chương trình mới hoặc một chương trình cũ trước khi tiếp tục.</translation>
     </message>
   </context>
   <context>
@@ -6006,7 +6006,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/Omnibar.cpp" line="15"/>
       <source>Type flag name or address here</source>
-      <translation type="unfinished">Type flag name or address here</translation>
+      <translation>Điền tên cờ hoặc địa chỉ ở đây</translation>
     </message>
   </context>
   <context>
@@ -6014,32 +6014,32 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="28"/>
       <source>Plugins are loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
-      <translation type="unfinished">Plugins are loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
+      <translation>Các tiện ích được tải từ &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="34"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Tên</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="34"/>
       <source>Description</source>
-      <translation type="unfinished">Description</translation>
+      <translation>Mô tả</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="34"/>
       <source>Version</source>
-      <translation type="unfinished">Version</translation>
+      <translation>Phiên bản</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="34"/>
       <source>Author</source>
-      <translation type="unfinished">Author</translation>
+      <translation>Tác giả</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="48"/>
       <source>Show Rizin plugin information</source>
-      <translation type="unfinished">Show Rizin plugin information</translation>
+      <translation>Hiển thị thông tin tiện ích Rizin</translation>
     </message>
   </context>
   <context>
@@ -6047,37 +6047,37 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.ui" line="6"/>
       <source>Preferences</source>
-      <translation type="unfinished">Preferences</translation>
+      <translation>Tùy chọn</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="28"/>
       <source>Disassembly</source>
-      <translation type="unfinished">Disassembly</translation>
+      <translation>Dịch assembly</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="34"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>Gỡ lỗi</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="35"/>
       <source>Appearance</source>
-      <translation type="unfinished">Appearance</translation>
+      <translation>Giao diện</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="36"/>
       <source>Plugins</source>
-      <translation type="unfinished">Plugins</translation>
+      <translation>Tiện ích</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="37"/>
       <source>Initialization Script</source>
-      <translation type="unfinished">Initialization Script</translation>
+      <translation>Kịch bản bắt đầu</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="39"/>
       <source>Analysis</source>
-      <translation type="unfinished">Analysis</translation>
+      <translation>Phân tích</translation>
     </message>
   </context>
   <context>
@@ -6085,22 +6085,22 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/AttachProcDialog.cpp" line="71"/>
       <source>PID</source>
-      <translation type="unfinished">PID</translation>
+      <translation>PID</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.cpp" line="73"/>
       <source>UID</source>
-      <translation type="unfinished">UID</translation>
+      <translation>UID</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.cpp" line="75"/>
       <source>Status</source>
-      <translation type="unfinished">Status</translation>
+      <translation>Trạng thái</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.cpp" line="77"/>
       <source>Path</source>
-      <translation type="unfinished">Path</translation>
+      <translation>Đường dẫn</translation>
     </message>
   </context>
   <context>
@@ -6108,27 +6108,27 @@ Save your project before closing!</translation>
     <message>
       <location filename="../widgets/ProcessesWidget.cpp" line="26"/>
       <source>PID</source>
-      <translation type="unfinished">PID</translation>
+      <translation>PID</translation>
     </message>
     <message>
       <location filename="../widgets/ProcessesWidget.cpp" line="27"/>
       <source>UID</source>
-      <translation type="unfinished">UID</translation>
+      <translation>UID</translation>
     </message>
     <message>
       <location filename="../widgets/ProcessesWidget.cpp" line="28"/>
       <source>Status</source>
-      <translation type="unfinished">Status</translation>
+      <translation>Trạng thái</translation>
     </message>
     <message>
       <location filename="../widgets/ProcessesWidget.cpp" line="29"/>
       <source>Path</source>
-      <translation type="unfinished">Path</translation>
+      <translation>Đường dẫn</translation>
     </message>
     <message>
       <location filename="../widgets/ProcessesWidget.cpp" line="167"/>
       <source>Unable to switch to the requested process.</source>
-      <translation type="unfinished">Unable to switch to the requested process.</translation>
+      <translation>Không thể chuyển sang tiến trình đã yêu cầu.</translation>
     </message>
   </context>
   <context>
@@ -6136,706 +6136,706 @@ Save your project before closing!</translation>
     <message>
       <location filename="../common/DisassemblyPreview.cpp" line="41"/>
       <source>More than one (%1) references here. Weird behaviour expected.</source>
-      <translation type="unfinished">More than one (%1) references here. Weird behaviour expected.</translation>
+      <translation>Có nhiều hơn một (%1) tham chiếu ở đây. Có thể xảy ra hành vi ngoài dự kiến.</translation>
     </message>
     <message>
       <source>offsetFrom (%1) differs from refs.at(0).from (%(2))</source>
-      <translation type="unfinished">offsetFrom (%1) differs from refs.at(0).from (%(2))</translation>
+      <translation>offsetFrom (%1) khác với refs.at(0).from (%(2))</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="53"/>
       <source>Write error</source>
-      <translation type="unfinished">Write error</translation>
+      <translation>Lỗi ghi</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="54"/>
       <source>Your file is opened in read-only mode. Editing is only available when the file is opened in either Write or Cache modes.
 
 WARNING: In Write mode, any changes will be committed to the file on disk. For safety, please consider using Cache mode and then commit the changes manually via File -&gt; Commit modifications to disk.</source>
-      <translation type="unfinished">Your file is opened in read-only mode. Editing is only available when the file is opened in either Write or Cache modes.
+      <translation>Tập tin của bạn được mở trong chế độ chỉ đọc. Việc chỉnh sửa chỉ khả dụng khi tập tin được mở trong chế độ Ghi hoặc Bộ nhớ đệm.
 
-WARNING: In Write mode, any changes will be committed to the file on disk. For safety, please consider using Cache mode and then commit the changes manually via File -&gt; Commit modifications to disk.</translation>
+CẢNH BÁO: Trong chế độ Ghi, mọi thay đổi đều sẽ được cam kết vào tập tin trên ổ đĩa. Để an toàn, hãy cân nhắc việc sử dụng chế độ Bộ nhớ đệm và sau đó cam kết các thay đổi một cách thủ công qua Tập tin -&gt; Cam kết các sửa đổi vào ổ đĩa.</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="60"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>Hủy</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="62"/>
       <source>Reopen in Write mode</source>
-      <translation type="unfinished">Reopen in Write mode</translation>
+      <translation>Mở lại trong chế độ Ghi</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="64"/>
       <source>Enable Cache mode</source>
-      <translation type="unfinished">Enable Cache mode</translation>
+      <translation>Bật chế độ Bộ nhớ đệm</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="94"/>
       <source>Uncommitted changes</source>
-      <translation type="unfinished">Uncommitted changes</translation>
+      <translation>Các thay đổi đã được bỏ cam kết</translation>
     </message>
     <message>
       <source>Uncomitted changes</source>
-      <translation type="unfinished">Uncomitted changes</translation>
+      <translation>Các thay đổi đã được bỏ cam kết</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="95"/>
       <source>It seems that you have changes or patches that are not committed to the file.
 Do you want to commit them now?</source>
-      <translation type="unfinished">It seems that you have changes or patches that are not committed to the file.
-Do you want to commit them now?</translation>
+      <translation>Có vẻ như bạn có các thay đổi hoặc bản vá chưa được cam kết vào tập tin.
+Bạn có muốn cam kết chúng bây giờ không?</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="98"/>
       <source>Version mismatch!</source>
-      <translation type="unfinished">Version mismatch!</translation>
+      <translation>Phiên bản không khớp!</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="99"/>
       <source>The version used to compile Cutter (%1) does not match the binary version of rizin (%2). This could result in unexpected behaviour. Are you sure you want to continue?</source>
-      <translation type="unfinished">The version used to compile Cutter (%1) does not match the binary version of rizin (%2). This could result in unexpected behaviour. Are you sure you want to continue?</translation>
+      <translation>Phiên bản được sử dụng để dịch Cutter (%1) không khớp với phiên bản nhị phân của rizin (%2). Điều này có thể dẫn đến hành vi ngoài dự kiến. Bạn có chắc bạn muốn tiếp tục không?</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="388"/>
       <source>A Qt and C++ GUI for rizin reverse engineering framework</source>
-      <translation type="unfinished">A Qt and C++ GUI for rizin reverse engineering framework</translation>
+      <translation>Một GUI Qt và C++ cho khung đảo ngược công nghệ rizin</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="391"/>
       <source>Filename to open.</source>
-      <translation type="unfinished">Filename to open.</translation>
+      <translation>Tên tập tin muốn mở.</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="395"/>
       <source>Automatically open file and optionally start analysis. Needs filename to be specified. May be a value between 0 and 2: 0 = no analysis, 1 = aaa, 2 = aaaa (experimental)</source>
-      <translation type="unfinished">Automatically open file and optionally start analysis. Needs filename to be specified. May be a value between 0 and 2: 0 = no analysis, 1 = aaa, 2 = aaaa (experimental)</translation>
+      <translation>Tự động mở tập tin và bắt đầu phân tích (không bắt buộc). Cần điền tên tập tin. Có thể đặt giá trị từ 0 đến 2: 0 = không phân tích, 1 = aaa, 2 = aaaa (thử nghiệm)</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="398"/>
       <source>level</source>
-      <translation type="unfinished">level</translation>
+      <translation>cấp độ</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="401"/>
       <source>Sets a specific architecture name</source>
-      <translation type="unfinished">Sets a specific architecture name</translation>
+      <translation>Thiết lập một tên kiến trúc cụ thể</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="402"/>
       <source>arch</source>
-      <translation type="unfinished">arch</translation>
+      <translation>arch</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="405"/>
       <source>Sets a specific architecture bits</source>
-      <translation type="unfinished">Sets a specific architecture bits</translation>
+      <translation>Thiết lập một bit kiến trúc cụ thể</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="406"/>
       <source>bits</source>
-      <translation type="unfinished">bits</translation>
+      <translation>bit</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="409"/>
       <source>Sets a specific CPU</source>
-      <translation type="unfinished">Sets a specific CPU</translation>
+      <translation>Thiết lập một CPU cụ thể</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="410"/>
       <source>cpu</source>
-      <translation type="unfinished">cpu</translation>
+      <translation>cpu</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="413"/>
       <source>Sets a specific operating system</source>
-      <translation type="unfinished">Sets a specific operating system</translation>
+      <translation>Thiết lập một hệ điều hành cụ thể</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="414"/>
       <source>os</source>
-      <translation type="unfinished">os</translation>
+      <translation>os</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="418"/>
       <source>Sets the endianness (big or little)</source>
-      <translation type="unfinished">Sets the endianness (big or little)</translation>
+      <translation>Thiết lập thứ tự endian (lớn hoặc nhỏ)</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="419"/>
       <source>big|little</source>
-      <translation type="unfinished">big|little</translation>
+      <translation>big|little</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="423"/>
       <source>Force using a specific file format (bin plugin)</source>
-      <translation type="unfinished">Force using a specific file format (bin plugin)</translation>
+      <translation>Buộc dùng một định dạng tập tin cụ thể (tiện ích bin)</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="424"/>
       <source>name</source>
-      <translation type="unfinished">name</translation>
+      <translation>name</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="428"/>
       <source>Load binary at a specific base address</source>
-      <translation type="unfinished">Load binary at a specific base address</translation>
+      <translation>Tải bản nhị phân tại một địa chỉ cơ sở cụ thể</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="429"/>
       <source>base address</source>
-      <translation type="unfinished">base address</translation>
+      <translation>base address</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="433"/>
       <source>Map the binary at a specific address</source>
-      <translation type="unfinished">Map the binary at a specific address</translation>
+      <translation>Lập sơ đồ cho bản nhị phân tại một địa chỉ cụ thể</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="434"/>
       <source>map address</source>
-      <translation type="unfinished">map address</translation>
+      <translation>map address</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="437"/>
       <source>Run script file</source>
-      <translation type="unfinished">Run script file</translation>
+      <translation>Chạy tập tin kịch bản</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="437"/>
       <source>file</source>
-      <translation type="unfinished">file</translation>
+      <translation>tập tin</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="440"/>
       <source>Load project file</source>
-      <translation type="unfinished">Load project file</translation>
+      <translation>Tải tập tin dự án</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="441"/>
       <source>project file</source>
-      <translation type="unfinished">project file</translation>
+      <translation>tập tin dự án</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="445"/>
       <source>Open file in write mode</source>
-      <translation type="unfinished">Open file in write mode</translation>
+      <translation>Mở tập tin trong chế độ ghi</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="449"/>
       <source>Disables virtual addressing</source>
-      <translation type="unfinished">Disables virtual addressing</translation>
+      <translation>Tắt địa chỉ ảo</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="453"/>
       <source>PYTHONHOME to use for embedded python interpreter</source>
-      <translation type="unfinished">PYTHONHOME to use for embedded python interpreter</translation>
+      <translation>PYTHONHOME để sử dụng cho trình thông dịch python được nhúng</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="459"/>
       <source>Disable output redirection. Some of the output in console widget will not be visible. Use this option when debuging a crash or freeze and output  redirection is causing some messages to be lost.</source>
-      <translation type="unfinished">Disable output redirection. Some of the output in console widget will not be visible. Use this option when debuging a crash or freeze and output  redirection is causing some messages to be lost.</translation>
+      <translation>Tắt đổi hướng đầu ra. Một số đầu ra trong tiện ích bảng điều khiển sẽ không được hiển thị. Sử dụng tùy chọn này khi gỡ lỗi một lỗi văng hay lỗi treo và việc đổi hướng đầu ra đang khiến một số tin nhắn bị thất lạc.</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="465"/>
       <source>Do not load plugins</source>
-      <translation type="unfinished">Do not load plugins</translation>
+      <translation>Không tải các tiện ích</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="469"/>
       <source>Do not load Cutter plugins</source>
-      <translation type="unfinished">Do not load Cutter plugins</translation>
+      <translation>Không tải các tiện ích Cutter</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="473"/>
       <source>Do not load rizin plugins</source>
-      <translation type="unfinished">Do not load rizin plugins</translation>
+      <translation>Không tải các tiện ích rizin</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="487"/>
       <source>Invalid Analysis Level. May be a value between 0 and 2.</source>
-      <translation type="unfinished">Invalid Analysis Level. May be a value between 0 and 2.</translation>
+      <translation>Cấp độ phân tích không hợp lệ. Có thể là một giá trị từ 0 đến 2.</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="507"/>
       <source>Filename must be specified to start analysis automatically.</source>
-      <translation type="unfinished">Filename must be specified to start analysis automatically.</translation>
+      <translation>Cần điền tên tập tin để tự động bắt đầu phân tích.</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="563"/>
       <source>Invalid Endianness. You can only set it to `big` or `little`.</source>
-      <translation type="unfinished">Invalid Endianness. You can only set it to `big` or `little`.</translation>
+      <translation>Thứ tự Endian không hợp lệ. Bạn chỉ có thể thiết lập là `lớn` hoặc `nhỏ`.</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="397"/>
       <source>Color of comment generated by Rizin</source>
-      <translation type="unfinished">Color of comment generated by Rizin</translation>
+      <translation>Màu của bình luận được tạo bởi Rizin</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="397"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Bình luận</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="398"/>
       <source>Comment created by user</source>
-      <translation type="unfinished">Comment created by user</translation>
+      <translation>Bình luận được tạo bởi người dùng</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="398"/>
       <source>Color of user Comment</source>
-      <translation type="unfinished">Color of user Comment</translation>
+      <translation>Màu cho bình luận của người dùng</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="400"/>
       <source>Color of names of functions</source>
-      <translation type="unfinished">Color of names of functions</translation>
+      <translation>Màu của tên hàm</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="400"/>
       <source>Function name</source>
-      <translation type="unfinished">Function name</translation>
+      <translation>Tên hàm</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="401"/>
       <source>Color of function location</source>
-      <translation type="unfinished">Color of function location</translation>
+      <translation>Màu của vị trí hàm</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="401"/>
       <source>Function location</source>
-      <translation type="unfinished">Function location</translation>
+      <translation>Vị trí của hàm</translation>
     </message>
     <message>
       <source>Color of ascii line in left side that shows what opcodes are belong to function</source>
-      <translation type="unfinished">Color of ascii line in left side that shows what opcodes are belong to function</translation>
+      <translation>Màu của đường ascii ở phía bên trái thể hiện opcode nào thuộc hàm này</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="403"/>
       <source>Color of the line which shows which opcodes belongs to a function</source>
-      <translation type="unfinished">Color of the line which shows which opcodes belongs to a function</translation>
+      <translation>Màu của dòng hiển thị các opcode nào thuộc một chức năng</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="404"/>
       <source>Function line</source>
-      <translation type="unfinished">Function line</translation>
+      <translation>Dòng hàm</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="406"/>
       <source>Color of flags (similar to bookmarks for offset)</source>
-      <translation type="unfinished">Color of flags (similar to bookmarks for offset)</translation>
+      <translation>Màu cờ (tương đương dấu trang cho giá trị bù)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="406"/>
       <source>Flag</source>
-      <translation type="unfinished">Flag</translation>
+      <translation>Cờ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="407"/>
       <source>Label</source>
-      <translation type="unfinished">Label</translation>
+      <translation>Nhãn</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="408"/>
       <source>Help</source>
-      <translation type="unfinished">Help</translation>
+      <translation>Trợ giúp</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="409"/>
       <source>Color of lines showing jump destination</source>
-      <translation type="unfinished">Color of lines showing jump destination</translation>
+      <translation>Màu của các dòng hiển thị đích nhảy</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="409"/>
       <source>Flow</source>
-      <translation type="unfinished">Flow</translation>
+      <translation>Luồng</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="410"/>
       <source>flow2</source>
-      <translation type="unfinished">flow2</translation>
+      <translation>flow2</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="411"/>
       <location filename="../widgets/ColorThemeListView.cpp" line="413"/>
       <source>Info</source>
-      <translation type="unfinished">Info</translation>
+      <translation>Thông tin</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="411"/>
       <source>prompt</source>
-      <translation type="unfinished">prompt</translation>
+      <translation>nhắc</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="412"/>
       <source>Color of offsets</source>
-      <translation type="unfinished">Color of offsets</translation>
+      <translation>Màu của giá trị bù</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="412"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>Bù</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="413"/>
       <source>input</source>
-      <translation type="unfinished">input</translation>
+      <translation>đầu vào</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="414"/>
       <source>Invalid opcode color</source>
-      <translation type="unfinished">Invalid opcode color</translation>
+      <translation>Màu opcode không hợp lệ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="414"/>
       <source>invalid</source>
-      <translation type="unfinished">invalid</translation>
+      <translation>không hợp lệ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="415"/>
       <source>other</source>
-      <translation type="unfinished">other</translation>
+      <translation>khác</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="416"/>
       <source>0x00 opcode color</source>
-      <translation type="unfinished">0x00 opcode color</translation>
+      <translation>Màu opcode 0x00</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="417"/>
       <source>0x7f opcode color</source>
-      <translation type="unfinished">0x7f opcode color</translation>
+      <translation>Màu opcode 0x7f</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="418"/>
       <source>0xff opcode color</source>
-      <translation type="unfinished">0xff opcode color</translation>
+      <translation>Màu opcode 0xff</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="420"/>
       <source>Color of arithmetic opcodes (add, div, mul etc)</source>
-      <translation type="unfinished">Color of arithmetic opcodes (add, div, mul etc)</translation>
+      <translation>Màu opcode số học (cộng, trừ, nhân, v.v.)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="421"/>
       <source>Arithmetic</source>
-      <translation type="unfinished">Arithmetic</translation>
+      <translation>Số học</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="423"/>
       <source>Color of binary operations (and, or, xor etc).</source>
-      <translation type="unfinished">Color of binary operations (and, or, xor etc).</translation>
+      <translation>Màu của phép tính nhị phân (và, hoặc, xor, v.v.).</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="423"/>
       <source>Binary</source>
-      <translation type="unfinished">Binary</translation>
+      <translation>Nhị phân</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="425"/>
       <source>Color of object names, commas between operators, squared brackets and operators inside them.</source>
-      <translation type="unfinished">Color of object names, commas between operators, squared brackets and operators inside them.</translation>
+      <translation>Màu của tên đối tượng, dấu phẩy giữa các phép tính, ngoặc vuông và phép tính trong chúng</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="428"/>
       <source>Text</source>
-      <translation type="unfinished">Text</translation>
+      <translation>Văn bản</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="429"/>
       <source>push opcode color</source>
-      <translation type="unfinished">push opcode color</translation>
+      <translation>màu opcode đẩy</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="430"/>
       <source>pop opcode color</source>
-      <translation type="unfinished">pop opcode color</translation>
+      <translation>màu opcode color</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="431"/>
       <source>Cryptographic color</source>
-      <translation type="unfinished">Cryptographic color</translation>
+      <translation>Màu mật mã học</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="432"/>
       <source>jmp instructions color</source>
-      <translation type="unfinished">jmp instructions color</translation>
+      <translation>màu hướng dẫn nhảy</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="434"/>
       <source>Color of conditional jump opcodes such as je, jg, jne etc</source>
-      <translation type="unfinished">Color of conditional jump opcodes such as je, jg, jne etc</translation>
+      <translation>Màu của các opcode nhảy có điều kiện chẳng hạn như je, jg, jne, v.v.</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="435"/>
       <source>Conditional jump</source>
-      <translation type="unfinished">Conditional jump</translation>
+      <translation>Nhảy có điều kiện</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="436"/>
       <source>call instructions color (ccall, rcall, call etc)</source>
-      <translation type="unfinished">call instructions color (ccall, rcall, call etc)</translation>
+      <translation>màu hướng dẫn cuộc gọi (ccall, rcall, call, v.v.)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="437"/>
       <source>nop opcode color</source>
-      <translation type="unfinished">nop opcode color</translation>
+      <translation>màu opcode nop</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="438"/>
       <source>ret opcode color</source>
-      <translation type="unfinished">ret opcode color</translation>
+      <translation>màu opcode ret</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="439"/>
       <source>Color of interrupts</source>
-      <translation type="unfinished">Color of interrupts</translation>
+      <translation>Màu gián đoạn</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="439"/>
       <source>Interrupts</source>
-      <translation type="unfinished">Interrupts</translation>
+      <translation>Gián đoạn</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="440"/>
       <source>swi opcode color</source>
-      <translation type="unfinished">swi opcode color</translation>
+      <translation>màu opcode swi</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="442"/>
       <source>Color of compare instructions such as test and cmp</source>
-      <translation type="unfinished">Color of compare instructions such as test and cmp</translation>
+      <translation>Màu của các hướng dẫn so sánh, chẳng hạn như test và cmp</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="443"/>
       <source>Compare instructions</source>
-      <translation type="unfinished">Compare instructions</translation>
+      <translation>Hướng dẫn so sánh</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="444"/>
       <source>Registers color</source>
-      <translation type="unfinished">Registers color</translation>
+      <translation>Màu đăng ký</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="444"/>
       <source>Register</source>
-      <translation type="unfinished">Register</translation>
+      <translation>Đăng ký</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="447"/>
       <source>Color of numeric constants and object pointers</source>
-      <translation type="unfinished">Color of numeric constants and object pointers</translation>
+      <translation>Màu của các hằng số và con trỏ đối tượng</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="447"/>
       <source>Constants</source>
-      <translation type="unfinished">Constants</translation>
+      <translation>Hằng số</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="449"/>
       <source>Color of move instructions such as mov, movd, lea etc</source>
-      <translation type="unfinished">Color of move instructions such as mov, movd, lea etc</translation>
+      <translation>Màu của các hướng dẫn di chuyển, chẳng hạn như mov, movd, lea, v.v.</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="450"/>
       <source>Move instructions</source>
-      <translation type="unfinished">Move instructions</translation>
+      <translation>Hướng dẫn di chuyển</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="451"/>
       <source>Function variable color</source>
-      <translation type="unfinished">Function variable color</translation>
+      <translation>Màu biến số hàm</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="451"/>
       <source>Function variable</source>
-      <translation type="unfinished">Function variable</translation>
+      <translation>Biến số hàm</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="453"/>
       <source>Function variable (local or argument) type color</source>
-      <translation type="unfinished">Function variable (local or argument) type color</translation>
+      <translation>Màu loại biến số hàm (cục bộ hoặc đối số)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="454"/>
       <source>Variable type</source>
-      <translation type="unfinished">Variable type</translation>
+      <translation>Loại biến số</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="456"/>
       <source>Function variable address color</source>
-      <translation type="unfinished">Function variable address color</translation>
+      <translation>Màu địa chỉ biến số hàm</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="456"/>
       <source>Variable address</source>
-      <translation type="unfinished">Variable address</translation>
+      <translation>Địa chỉ biến số</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="468"/>
       <source>In graph view jump arrow true</source>
-      <translation type="unfinished">In graph view jump arrow true</translation>
+      <translation>Trong chế độ xem biểu đồ, mũi tên nhảy đúng</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="468"/>
       <source>Arrow true</source>
-      <translation type="unfinished">Arrow true</translation>
+      <translation>Mũi tên đúng</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="470"/>
       <source>In graph view jump arrow false</source>
-      <translation type="unfinished">In graph view jump arrow false</translation>
+      <translation>Trong chế độ xem biểu đồ, mũi tên nhảy sai</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="470"/>
       <source>Arrow false</source>
-      <translation type="unfinished">Arrow false</translation>
+      <translation>Mũi tên sai</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="472"/>
       <source>In graph view jump arrow (no condition)</source>
-      <translation type="unfinished">In graph view jump arrow (no condition)</translation>
+      <translation>Trong chế độ xem biểu đồ, mũi tên nhảy (không có điều kiện)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="472"/>
       <source>Arrow</source>
-      <translation type="unfinished">Arrow</translation>
+      <translation>Mũi tên</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="476"/>
       <source>Background color of Graph Overview&apos;s node</source>
-      <translation type="unfinished">Background color of Graph Overview&apos;s node</translation>
+      <translation>Màu nền của nút Tổng quan biểu đồ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="477"/>
       <source>Graph Overview node</source>
-      <translation type="unfinished">Graph Overview node</translation>
+      <translation>Nút Tổng quan biểu đồ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="479"/>
       <source>Fill color of Graph Overview&apos;s selection</source>
-      <translation type="unfinished">Fill color of Graph Overview&apos;s selection</translation>
+      <translation>Màu lấp đầy lựa chọn Tổng quan biểu đồ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="480"/>
       <source>Graph Overview fill</source>
-      <translation type="unfinished">Graph Overview fill</translation>
+      <translation>Lấp đầy Tổng quan biểu đồ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="482"/>
       <source>Border color of Graph Overview&apos;s selection</source>
-      <translation type="unfinished">Border color of Graph Overview&apos;s selection</translation>
+      <translation>Màu viền của lựa chọn Tổng quan biểu đồ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="483"/>
       <source>Graph Overview border</source>
-      <translation type="unfinished">Graph Overview border</translation>
+      <translation>Viền Tổng quan biểu đồ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="486"/>
       <source>General background color</source>
-      <translation type="unfinished">General background color</translation>
+      <translation>Màu nền chung</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="486"/>
       <source>Background</source>
-      <translation type="unfinished">Background</translation>
+      <translation>Nền</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="488"/>
       <source>Background color of non-focused graph node</source>
-      <translation type="unfinished">Background color of non-focused graph node</translation>
+      <translation>Màu nền của nút biểu đồ không tập trung</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="489"/>
       <source>Node background</source>
-      <translation type="unfinished">Node background</translation>
+      <translation>Màu nút</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="491"/>
       <source>Background of current graph node</source>
-      <translation type="unfinished">Background of current graph node</translation>
+      <translation>Nền của nút biểu đồ hiện tại</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="491"/>
       <source>Current graph node</source>
-      <translation type="unfinished">Current graph node</translation>
+      <translation>Nút biểu đồ hiện tại</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="493"/>
       <source>Color of node border in graph view</source>
-      <translation type="unfinished">Color of node border in graph view</translation>
+      <translation>Màu của viền nút trong chế độ xem biểu đồ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="493"/>
       <source>Node border</source>
-      <translation type="unfinished">Node border</translation>
+      <translation>Viền nút</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="495"/>
       <source>Selected line background color</source>
-      <translation type="unfinished">Selected line background color</translation>
+      <translation>Màu nền đường được chọn</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="495"/>
       <source>Line highlight</source>
-      <translation type="unfinished">Line highlight</translation>
+      <translation>Bôi đậm đường</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="497"/>
       <source>Background color of selected word</source>
-      <translation type="unfinished">Background color of selected word</translation>
+      <translation>Màu nền của từ được chọn</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="497"/>
       <source>Word higlight</source>
-      <translation type="unfinished">Word higlight</translation>
+      <translation>Bôi đậm từ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="498"/>
       <source>Main function color</source>
-      <translation type="unfinished">Main function color</translation>
+      <translation>Màu của hàm chính</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="498"/>
       <source>Main</source>
-      <translation type="unfinished">Main</translation>
+      <translation>Chính</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="507"/>
       <source>Code section color in navigation bar</source>
-      <translation type="unfinished">Code section color in navigation bar</translation>
+      <translation>Màu phần mã trong thanh điều hướng</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="507"/>
       <source>Navbar code</source>
-      <translation type="unfinished">Navbar code</translation>
+      <translation>Mã thanh điều hướng</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="509"/>
       <source>Empty section color in navigation bar</source>
-      <translation type="unfinished">Empty section color in navigation bar</translation>
+      <translation>Màu phần trống trong thanh điều hướng</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="509"/>
       <source>Navbar empty</source>
-      <translation type="unfinished">Navbar empty</translation>
+      <translation>Thanh điều hướng trống</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="510"/>
       <source>ucall</source>
-      <translation type="unfinished">ucall</translation>
+      <translation>ucall</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="511"/>
       <source>ujmp</source>
-      <translation type="unfinished">ujmp</translation>
+      <translation>ujmp</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="512"/>
       <source>Breakpoint background</source>
-      <translation type="unfinished">Breakpoint background</translation>
+      <translation>Nền điểm gãy</translation>
     </message>
   </context>
   <context>
@@ -6843,17 +6843,17 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/QuickFilterView.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Trình chọn màu</translation>
     </message>
     <message>
       <location filename="../widgets/QuickFilterView.ui" line="41"/>
       <source>Quick Filter</source>
-      <translation type="unfinished">Quick Filter</translation>
+      <translation>Lọc nhanh</translation>
     </message>
     <message>
       <location filename="../widgets/QuickFilterView.ui" line="61"/>
       <source>X</source>
-      <translation type="unfinished">X</translation>
+      <translation>X</translation>
     </message>
   </context>
   <context>
@@ -6861,7 +6861,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="500"/>
       <source>Raw</source>
-      <translation type="unfinished">Raw</translation>
+      <translation>Thô</translation>
     </message>
   </context>
   <context>
@@ -6869,22 +6869,22 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="67"/>
       <source>Register</source>
-      <translation type="unfinished">Register</translation>
+      <translation>Đăng ký</translation>
     </message>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="69"/>
       <source>Value</source>
-      <translation type="unfinished">Value</translation>
+      <translation>Giá trị</translation>
     </message>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="71"/>
       <source>Reference</source>
-      <translation type="unfinished">Reference</translation>
+      <translation>Tham chiếu</translation>
     </message>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="73"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Bình luận</translation>
     </message>
   </context>
   <context>
@@ -6892,12 +6892,12 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="137"/>
       <source>Copy register value</source>
-      <translation type="unfinished">Copy register value</translation>
+      <translation>Sao chép giá trị đăng ký</translation>
     </message>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="138"/>
       <source>Copy register reference</source>
-      <translation type="unfinished">Copy register reference</translation>
+      <translation>Sao chép tham chiếu đăng ký</translation>
     </message>
   </context>
   <context>
@@ -6905,22 +6905,22 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/RelocsWidget.cpp" line="54"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>Địa chỉ</translation>
     </message>
     <message>
       <location filename="../widgets/RelocsWidget.cpp" line="56"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>Loại</translation>
     </message>
     <message>
       <location filename="../widgets/RelocsWidget.cpp" line="58"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Tên</translation>
     </message>
     <message>
       <location filename="../widgets/RelocsWidget.cpp" line="60"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Bình luận</translation>
     </message>
   </context>
   <context>
@@ -6928,7 +6928,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/RelocsWidget.cpp" line="131"/>
       <source>Relocs</source>
-      <translation type="unfinished">Relocs</translation>
+      <translation>Reloc</translation>
     </message>
   </context>
   <context>
@@ -6936,48 +6936,48 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="43"/>
       <source>Debugger:</source>
-      <translation type="unfinished">Debugger:</translation>
+      <translation>Trình gỡ lỗi:</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="75"/>
       <source>Port:</source>
-      <translation type="unfinished">Port:</translation>
+      <translation>Cổng:</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="82"/>
       <source>IP or Path:</source>
-      <translation type="unfinished">IP or Path:</translation>
+      <translation>IP hoặc đường dẫn:</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="159"/>
       <source>Remove item</source>
-      <translation type="unfinished">Remove item</translation>
+      <translation>Xóa mục</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="164"/>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="167"/>
       <source>Remove all</source>
-      <translation type="unfinished">Remove all</translation>
+      <translation>Xóa tất cả</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.cpp" line="57"/>
       <source>Invalid debugger</source>
-      <translation type="unfinished">Invalid debugger</translation>
+      <translation>Trình gỡ lỗi không hợp lệ</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.cpp" line="68"/>
       <source>Invalid IP address</source>
-      <translation type="unfinished">Invalid IP address</translation>
+      <translation>Địa chỉ IP không hợp lệ</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.cpp" line="81"/>
       <source>Path does not exist</source>
-      <translation type="unfinished">Path does not exist</translation>
+      <translation>Đường dẫn không tồn tại</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.cpp" line="94"/>
       <source>Invalid port</source>
-      <translation type="unfinished">Invalid port</translation>
+      <translation>Cổng không hợp lệ</translation>
     </message>
   </context>
   <context>
@@ -6985,37 +6985,37 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="76"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Tên</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="78"/>
       <source>Vaddr</source>
-      <translation type="unfinished">Vaddr</translation>
+      <translation>Vaddr</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="80"/>
       <source>Index</source>
-      <translation type="unfinished">Index</translation>
+      <translation>Chỉ số</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="82"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>Loại</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="84"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>Kích cỡ</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="86"/>
       <source>Lang</source>
-      <translation type="unfinished">Lang</translation>
+      <translation>Ngôn ngữ</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="88"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Bình luận</translation>
     </message>
   </context>
   <context>
@@ -7023,7 +7023,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="118"/>
       <source>Resources</source>
-      <translation type="unfinished">Resources</translation>
+      <translation>Tài nguyên</translation>
     </message>
   </context>
   <context>
@@ -7031,52 +7031,52 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/RizinGraphWidget.ui" line="57"/>
       <source>ag...</source>
-      <translation type="unfinished">ag...</translation>
+      <translation>ag...</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="21"/>
       <source>Data reference graph (aga)</source>
-      <translation type="unfinished">Data reference graph (aga)</translation>
+      <translation>Biểu đồ tham chiếu dữ liệu (aga)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="22"/>
       <source>Global data references graph (agA)</source>
-      <translation type="unfinished">Global data references graph (agA)</translation>
+      <translation>Biểu đồ tham chiếu dữ liệu toàn cục (agA)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="26"/>
       <source>Imports graph (agi)</source>
-      <translation type="unfinished">Imports graph (agi)</translation>
+      <translation>Nhập biểu đồ (agi)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="27"/>
       <source>References graph (agr)</source>
-      <translation type="unfinished">References graph (agr)</translation>
+      <translation>Biểu đồ tham chiếu (agr)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="28"/>
       <source>Global references graph (agR)</source>
-      <translation type="unfinished">Global references graph (agR)</translation>
+      <translation>Biểu đồ tham chiếu toàn cục (agR)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="29"/>
       <source>Cross references graph (agx)</source>
-      <translation type="unfinished">Cross references graph (agx)</translation>
+      <translation>Biểu đồ tham chiếu chéo (agx)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="30"/>
       <source>RzIL statement graph (agI)</source>
-      <translation type="unfinished">RzIL statement graph (agI)</translation>
+      <translation>Biểu đồ tuyên bố RzIL (agI)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="31"/>
       <source>Custom graph (agg)</source>
-      <translation type="unfinished">Custom graph (agg)</translation>
+      <translation>Biểu đồ tùy chỉnh (agg)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="32"/>
       <source>User command</source>
-      <translation type="unfinished">User command</translation>
+      <translation>Lệnh người dùng</translation>
     </message>
   </context>
   <context>
@@ -7084,17 +7084,17 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="14"/>
       <source>Rizin plugin information</source>
-      <translation type="unfinished">Rizin plugin information</translation>
+      <translation>Thông tin tiện ích Rizin</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="24"/>
       <source>RzBin</source>
-      <translation type="unfinished">RzBin</translation>
+      <translation>RzBin</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="30"/>
       <source>RzBin plugins</source>
-      <translation type="unfinished">RzBin plugins</translation>
+      <translation>Tiện ích RzBin</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="41"/>
@@ -7102,7 +7102,7 @@ Do you want to commit them now?</translation>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="123"/>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="159"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Tên</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="46"/>
@@ -7110,7 +7110,7 @@ Do you want to commit them now?</translation>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="128"/>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="179"/>
       <source>Description</source>
-      <translation type="unfinished">Description</translation>
+      <translation>Mô tả</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="51"/>
@@ -7118,67 +7118,67 @@ Do you want to commit them now?</translation>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="133"/>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="184"/>
       <source>License</source>
-      <translation type="unfinished">License</translation>
+      <translation>Giấy phép</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="56"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>Loại</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="65"/>
       <source>RzIO</source>
-      <translation type="unfinished">RzIO</translation>
+      <translation>RzIO</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="71"/>
       <source>RzIO plugins</source>
-      <translation type="unfinished">RzIO plugins</translation>
+      <translation>Tiện ích RzIO</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="97"/>
       <source>Permissions</source>
-      <translation type="unfinished">Permissions</translation>
+      <translation>Quyền</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="106"/>
       <source>RzCore</source>
-      <translation type="unfinished">RzCore</translation>
+      <translation>RzCore</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="112"/>
       <source>RzCore plugins</source>
-      <translation type="unfinished">RzCore plugins</translation>
+      <translation>Tiện ích RzCore</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="142"/>
       <source>RzAsm</source>
-      <translation type="unfinished">RzAsm</translation>
+      <translation>RzAsm</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="148"/>
       <source>RzAsm plugins</source>
-      <translation type="unfinished">RzAsm plugins</translation>
+      <translation>Tiện ích RzAsm</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="164"/>
       <source>Architecture</source>
-      <translation type="unfinished">Architecture</translation>
+      <translation>Kiến trúc</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="169"/>
       <source>CPU&apos;s</source>
-      <translation type="unfinished">CPU&apos;s</translation>
+      <translation>CPU</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="174"/>
       <source>Version</source>
-      <translation type="unfinished">Version</translation>
+      <translation>Phiên bản</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="189"/>
       <source>Author</source>
-      <translation type="unfinished">Author</translation>
+      <translation>Tác giả</translation>
     </message>
   </context>
   <context>
@@ -7186,45 +7186,45 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/RizinTaskDialog.ui" line="14"/>
       <source>Rizin Task</source>
-      <translation type="unfinished">Rizin Task</translation>
+      <translation>Tác vụ Rizin</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinTaskDialog.ui" line="20"/>
       <source>Rizin task in progress..</source>
-      <translation type="unfinished">Rizin task in progress..</translation>
+      <translation>Tác vụ Rizin đang được thực hiện..</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinTaskDialog.ui" line="27"/>
       <source>Time</source>
-      <translation type="unfinished">Time</translation>
+      <translation>Thời gian</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinTaskDialog.cpp" line="32"/>
       <source>Running for</source>
-      <translation type="unfinished">Running for</translation>
+      <translation>Chạy trong</translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/RizinTaskDialog.cpp" line="34"/>
       <source>%n hour</source>
       <comment>%n hours</comment>
-      <translation type="unfinished">
-        <numerusform>%n hour</numerusform>
+      <translation>
+        <numerusform>%n giờ</numerusform>
       </translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/RizinTaskDialog.cpp" line="38"/>
       <source>%n minute</source>
       <comment>%n minutes</comment>
-      <translation type="unfinished">
-        <numerusform>%n minute</numerusform>
+      <translation>
+        <numerusform>%n phút</numerusform>
       </translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/RizinTaskDialog.cpp" line="41"/>
       <source>%n seconds</source>
       <comment>%n second</comment>
-      <translation type="unfinished">
-        <numerusform>%n seconds</numerusform>
+      <translation>
+        <numerusform>%n giây</numerusform>
       </translation>
     </message>
   </context>
@@ -7233,12 +7233,12 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../common/RunScriptTask.cpp" line="18"/>
       <source>Executing script...</source>
-      <translation type="unfinished">Executing script...</translation>
+      <translation>Đang thực thi kịch bản...</translation>
     </message>
     <message>
       <location filename="../common/RunScriptTask.h" line="15"/>
       <source>Run Script</source>
-      <translation type="unfinished">Run Script</translation>
+      <translation>Chạy kịch bản</translation>
     </message>
   </context>
   <context>
@@ -7246,17 +7246,17 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SdbWidget.ui" line="17"/>
       <source>SDB Browser</source>
-      <translation type="unfinished">SDB Browser</translation>
+      <translation>Trình duyệt SDB</translation>
     </message>
     <message>
       <location filename="../widgets/SdbWidget.ui" line="120"/>
       <source>Key</source>
-      <translation type="unfinished">Key</translation>
+      <translation>Khóa</translation>
     </message>
     <message>
       <location filename="../widgets/SdbWidget.ui" line="125"/>
       <source>Value</source>
-      <translation type="unfinished">Value</translation>
+      <translation>Giá trị</translation>
     </message>
   </context>
   <context>
@@ -7264,32 +7264,32 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="96"/>
       <source>&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;Preview&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</source>
-      <translation type="unfinished">&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;Preview&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
+      <translation>&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;Xem trước&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="115"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>Kích cỡ</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="117"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>Bù</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="119"/>
       <source>Code</source>
-      <translation type="unfinished">Code</translation>
+      <translation>Mã</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="121"/>
       <source>Data</source>
-      <translation type="unfinished">Data</translation>
+      <translation>Dữ liệu</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="123"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Bình luận</translation>
     </message>
   </context>
   <context>
@@ -7298,62 +7298,62 @@ Do you want to commit them now?</translation>
       <location filename="../widgets/SearchWidget.ui" line="83"/>
       <location filename="../widgets/SearchWidget.cpp" line="332"/>
       <source>Search</source>
-      <translation type="unfinished">Search</translation>
+      <translation>Tìm kiếm</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.ui" line="90"/>
       <source>Search for:</source>
-      <translation type="unfinished">Search for:</translation>
+      <translation>Tìm:</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.ui" line="100"/>
       <source>Search in:</source>
-      <translation type="unfinished">Search in:</translation>
+      <translation>Tìm trong:</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="255"/>
       <source>asm code</source>
-      <translation type="unfinished">asm code</translation>
+      <translation>mã asm</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="256"/>
       <source>string</source>
-      <translation type="unfinished">string</translation>
+      <translation>chuỗi</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="257"/>
       <source>string (case insensitive)</source>
-      <translation type="unfinished">string (case insensitive)</translation>
+      <translation>chuỗi (không phân biệt chữ hoa chữ thường)</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="258"/>
       <source>hex string</source>
-      <translation type="unfinished">hex string</translation>
+      <translation>chuỗi hex</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="259"/>
       <source>ROP gadgets</source>
-      <translation type="unfinished">ROP gadgets</translation>
+      <translation>Dụng cụ ROP</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="260"/>
       <source>32bit value</source>
-      <translation type="unfinished">32bit value</translation>
+      <translation>Giá trị 32bit</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="287"/>
       <source>No results found for:</source>
-      <translation type="unfinished">No results found for:</translation>
+      <translation>Không tìm thấy kết quả nào cho:</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="290"/>
       <source>No Results Found</source>
-      <translation type="unfinished">No Results Found</translation>
+      <translation>Không tìm thấy kết quả nào</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="325"/>
       <source>Searching...</source>
-      <translation type="unfinished">Searching...</translation>
+      <translation>Đang tìm kiếm...</translation>
     </message>
   </context>
   <context>
@@ -7361,42 +7361,42 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="93"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Tên</translation>
     </message>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="95"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>Kích cỡ</translation>
     </message>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="97"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>Địa chỉ</translation>
     </message>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="99"/>
       <source>End Address</source>
-      <translation type="unfinished">End Address</translation>
+      <translation>Địa chỉ kết thúc</translation>
     </message>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="101"/>
       <source>Virtual Size</source>
-      <translation type="unfinished">Virtual Size</translation>
+      <translation>Kích cỡ ảo</translation>
     </message>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="103"/>
       <source>Permissions</source>
-      <translation type="unfinished">Permissions</translation>
+      <translation>Quyền</translation>
     </message>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="105"/>
       <source>Entropy</source>
-      <translation type="unfinished">Entropy</translation>
+      <translation>Entropy</translation>
     </message>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="107"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Bình luận</translation>
     </message>
   </context>
   <context>
@@ -7404,7 +7404,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="167"/>
       <source>Sections</source>
-      <translation type="unfinished">Sections</translation>
+      <translation>Phần</translation>
     </message>
   </context>
   <context>
@@ -7412,32 +7412,32 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="81"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Tên</translation>
     </message>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="83"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>Kích cỡ</translation>
     </message>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="85"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>Địa chỉ</translation>
     </message>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="87"/>
       <source>End Address</source>
-      <translation type="unfinished">End Address</translation>
+      <translation>Địa chỉ kết thúc</translation>
     </message>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="89"/>
       <source>Permissions</source>
-      <translation type="unfinished">Permissions</translation>
+      <translation>Quyền</translation>
     </message>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="91"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Bình luận</translation>
     </message>
   </context>
   <context>
@@ -7445,39 +7445,39 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="14"/>
       <source>Set to Data</source>
-      <translation type="unfinished">Set to Data</translation>
+      <translation>Đặt làm dữ liệu</translation>
     </message>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="20"/>
       <location filename="../dialogs/SetToDataDialog.ui" line="34"/>
       <source>???</source>
-      <translation type="unfinished">???</translation>
+      <translation>???</translation>
     </message>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="27"/>
       <source>Start address</source>
-      <translation type="unfinished">Start address</translation>
+      <translation>Địa chỉ bắt đầu</translation>
     </message>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="41"/>
       <source>End address</source>
-      <translation type="unfinished">End address</translation>
+      <translation>Địa chỉ kết thúc</translation>
     </message>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="48"/>
       <source>Item size</source>
-      <translation type="unfinished">Item size</translation>
+      <translation>Kích cỡ mục</translation>
     </message>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="55"/>
       <source>Number of items</source>
-      <translation type="unfinished">Number of items</translation>
+      <translation>Số sản phẩm</translation>
     </message>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="62"/>
       <location filename="../dialogs/SetToDataDialog.ui" line="69"/>
       <source>1</source>
-      <translation type="unfinished">1</translation>
+      <translation>1</translation>
     </message>
   </context>
   <context>
@@ -7485,7 +7485,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SimpleTextGraphView.cpp" line="29"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>Sao chép</translation>
     </message>
   </context>
   <context>
@@ -7493,22 +7493,22 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="218"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>Bù</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="220"/>
       <source>Value</source>
-      <translation type="unfinished">Value</translation>
+      <translation>Giá trị</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="222"/>
       <source>Reference</source>
-      <translation type="unfinished">Reference</translation>
+      <translation>Tham chiếu</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="224"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Bình luận</translation>
     </message>
   </context>
   <context>
@@ -7516,22 +7516,22 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="33"/>
       <source>Edit stack value...</source>
-      <translation type="unfinished">Edit stack value...</translation>
+      <translation>Sửa giá trị ngăn xếp...</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="109"/>
       <source>Edit stack at %1</source>
-      <translation type="unfinished">Edit stack at %1</translation>
+      <translation>Sửa ngăn xếp tại %1</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="138"/>
       <source>Stack position</source>
-      <translation type="unfinished">Stack position</translation>
+      <translation>Vị trí ngăn xếp</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="140"/>
       <source>Pointed memory</source>
-      <translation type="unfinished">Pointed memory</translation>
+      <translation>Bộ nhớ được chỉ đến</translation>
     </message>
   </context>
   <context>
@@ -7539,37 +7539,37 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="67"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>Địa chỉ</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="69"/>
       <source>String</source>
-      <translation type="unfinished">String</translation>
+      <translation>Chuỗi</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="71"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>Loại</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="73"/>
       <source>Length</source>
-      <translation type="unfinished">Length</translation>
+      <translation>Độ dài</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="75"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>Kích cỡ</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="77"/>
       <source>Section</source>
-      <translation type="unfinished">Section</translation>
+      <translation>Phần</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="79"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Bình luận</translation>
     </message>
   </context>
   <context>
@@ -7577,7 +7577,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../common/StringsTask.h" line="13"/>
       <source>Searching for Strings</source>
-      <translation type="unfinished">Searching for Strings</translation>
+      <translation>Đang tìm chuỗi</translation>
     </message>
   </context>
   <context>
@@ -7585,22 +7585,22 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/StringsWidget.ui" line="76"/>
       <source>Copy String</source>
-      <translation type="unfinished">Copy String</translation>
+      <translation>Sao chép chuỗi</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.ui" line="81"/>
       <source>Filter</source>
-      <translation type="unfinished">Filter</translation>
+      <translation>Bộ lọc</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="161"/>
       <source>Section:</source>
-      <translation type="unfinished">Section:</translation>
+      <translation>Phần:</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="244"/>
       <source>(all)</source>
-      <translation type="unfinished">(all)</translation>
+      <translation>(tất cả)</translation>
     </message>
   </context>
   <context>
@@ -7608,22 +7608,22 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SymbolsWidget.cpp" line="58"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>Địa chỉ</translation>
     </message>
     <message>
       <location filename="../widgets/SymbolsWidget.cpp" line="60"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>Loại</translation>
     </message>
     <message>
       <location filename="../widgets/SymbolsWidget.cpp" line="62"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Tên</translation>
     </message>
     <message>
       <location filename="../widgets/SymbolsWidget.cpp" line="64"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Bình luận</translation>
     </message>
   </context>
   <context>
@@ -7631,7 +7631,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SymbolsWidget.cpp" line="123"/>
       <source>Symbols</source>
-      <translation type="unfinished">Symbols</translation>
+      <translation>Ký hiệu</translation>
     </message>
   </context>
   <context>
@@ -7639,17 +7639,17 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/ThreadsWidget.cpp" line="24"/>
       <source>PID</source>
-      <translation type="unfinished">PID</translation>
+      <translation>PID</translation>
     </message>
     <message>
       <location filename="../widgets/ThreadsWidget.cpp" line="25"/>
       <source>Status</source>
-      <translation type="unfinished">Status</translation>
+      <translation>Trạng thái</translation>
     </message>
     <message>
       <location filename="../widgets/ThreadsWidget.cpp" line="26"/>
       <source>Path</source>
-      <translation type="unfinished">Path</translation>
+      <translation>Đường dẫn</translation>
     </message>
   </context>
   <context>
@@ -7657,38 +7657,38 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation type="unfinished">Dialog</translation>
+      <translation>Hộp thoại</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.ui" line="23"/>
       <source>Load From File:</source>
-      <translation type="unfinished">Load From File:</translation>
+      <translation>Tải từ tập tin:</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.ui" line="37"/>
       <source>Select File</source>
-      <translation type="unfinished">Select File</translation>
+      <translation>Chọn tập tin</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.ui" line="50"/>
       <source>Enter Types Manually</source>
-      <translation type="unfinished">Enter Types Manually</translation>
+      <translation>Điền loại thủ công</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.cpp" line="37"/>
       <source>Select file</source>
-      <translation type="unfinished">Select file</translation>
+      <translation>Chọn tập tin</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.cpp" line="45"/>
       <location filename="../dialogs/TypesInteractionDialog.cpp" line="89"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>Lỗi</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.cpp" line="90"/>
       <source>There was some error while loading new types</source>
-      <translation type="unfinished">There was some error while loading new types</translation>
+      <translation>Đã xảy ra lỗi khi tải các loại mới</translation>
     </message>
   </context>
   <context>
@@ -7696,22 +7696,22 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="74"/>
       <source>Type / Name</source>
-      <translation type="unfinished">Type / Name</translation>
+      <translation>Loại / tên</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="76"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>Kích cỡ</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="78"/>
       <source>Format</source>
-      <translation type="unfinished">Format</translation>
+      <translation>Định dạng</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="80"/>
       <source>Category</source>
-      <translation type="unfinished">Category</translation>
+      <translation>Danh mục</translation>
     </message>
   </context>
   <context>
@@ -7720,77 +7720,77 @@ Do you want to commit them now?</translation>
       <location filename="../widgets/TypesWidget.ui" line="76"/>
       <location filename="../widgets/TypesWidget.ui" line="79"/>
       <source>Export Types</source>
-      <translation type="unfinished">Export Types</translation>
+      <translation>Xuất loại</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.ui" line="84"/>
       <location filename="../widgets/TypesWidget.ui" line="87"/>
       <location filename="../widgets/TypesWidget.cpp" line="308"/>
       <source>Load New Types</source>
-      <translation type="unfinished">Load New Types</translation>
+      <translation>Tải các loại mới</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.ui" line="92"/>
       <location filename="../widgets/TypesWidget.ui" line="95"/>
       <source>Delete Type</source>
-      <translation type="unfinished">Delete Type</translation>
+      <translation>Xóa loại</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="153"/>
       <source>Category</source>
-      <translation type="unfinished">Category</translation>
+      <translation>Danh mục</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="198"/>
       <source>View Type</source>
-      <translation type="unfinished">View Type</translation>
+      <translation>Xem loại</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="199"/>
       <source>Edit Type</source>
-      <translation type="unfinished">Edit Type</translation>
+      <translation>Sửa loại</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="230"/>
       <source>(All)</source>
-      <translation type="unfinished">(All)</translation>
+      <translation>(Tất cả)</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="280"/>
       <source>Save File</source>
-      <translation type="unfinished">Save File</translation>
+      <translation>Lưu tập tin</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="287"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>Lỗi</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="324"/>
       <source>Edit Type: </source>
-      <translation type="unfinished">Edit Type: </translation>
+      <translation>Sửa loại: </translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="327"/>
       <location filename="../widgets/TypesWidget.cpp" line="365"/>
       <source>View Type: </source>
-      <translation type="unfinished">View Type: </translation>
+      <translation>Xem loại: </translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="327"/>
       <location filename="../widgets/TypesWidget.cpp" line="365"/>
       <source> (Read Only)</source>
-      <translation type="unfinished"> (Read Only)</translation>
+      <translation> (Chỉ đọc)</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="347"/>
       <source>Cutter</source>
-      <translation type="unfinished">Cutter</translation>
+      <translation>Cutter</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="347"/>
       <source>Are you sure you want to delete &quot;%1&quot;?</source>
-      <translation type="unfinished">Are you sure you want to delete &quot;%1&quot;?</translation>
+      <translation>Bạn có chắc bạn muốn xóa &quot;%1&quot;?</translation>
     </message>
   </context>
   <context>
@@ -7798,37 +7798,37 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="34"/>
       <source>Time limit exceeded during version check. Please check your internet connection and try again.</source>
-      <translation type="unfinished">Time limit exceeded during version check. Please check your internet connection and try again.</translation>
+      <translation>Đã vượt quá giới hạn thời gian khi kiểm tra phiên bản. Vui lòng kiểm tra kết nối Internet của bạn và thử lại.</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="58"/>
       <source>Version control</source>
-      <translation type="unfinished">Version control</translation>
+      <translation>Phiên bản quản lý</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="59"/>
       <source>There is an update available for Cutter.&lt;br/&gt;</source>
-      <translation type="unfinished">There is an update available for Cutter.&lt;br/&gt;</translation>
+      <translation>Đã có bản cập nhật cho Cutter.&lt;br/&gt;</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="59"/>
       <source>Current version:</source>
-      <translation type="unfinished">Current version:</translation>
+      <translation>Phiên bản hiện tại:</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="60"/>
       <source>Latest version:</source>
-      <translation type="unfinished">Latest version:</translation>
+      <translation>Phiên bản mới nhất:</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="62"/>
       <source>To update, please check the link:&lt;br/&gt;</source>
-      <translation type="unfinished">To update, please check the link:&lt;br/&gt;</translation>
+      <translation>Để cập nhật, vui lòng kiểm tra liên kết:&lt;br/&gt;</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="68"/>
       <source>Don&apos;t check for updates automatically</source>
-      <translation type="unfinished">Don&apos;t check for updates automatically</translation>
+      <translation>Không tự động kiểm tra bản cập nhật</translation>
     </message>
   </context>
   <context>
@@ -7988,7 +7988,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="299"/>
       <source>Type</source>
-      <translation>Loại</translation>
+      <translation>Loại</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="301"/>
@@ -8021,13 +8021,13 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="163"/>
       <source>Reads from %1</source>
-      <translation type="unfinished">Reads from %1</translation>
+      <translation>Đọc từ %1</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="174"/>
       <location filename="../dialogs/XrefsDialog.cpp" line="193"/>
       <source>X-Refs for %1</source>
-      <translation type="unfinished">X-Refs for %1</translation>
+      <translation>Tham chiếu chéo cho %1</translation>
     </message>
   </context>
 </TS>
