@@ -499,7 +499,7 @@
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="92"/>
       <source>Last Remainder</source>
-      <translation type="unfinished">Last Remainder</translation>
+      <translation>Letzter Block</translation>
     </message>
   </context>
   <context>
@@ -532,7 +532,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="272"/>
       <source>Flags (asm.reloff.flags)</source>
-      <translation type="unfinished">Flags (asm.reloff.flags)</translation>
+      <translation>Flags (asm.reloff.flags)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="183"/>
@@ -622,7 +622,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="133"/>
       <source>Display flags&apos; real name (asm.flags.real)</source>
-      <translation type="unfinished">Display flags&apos; real name (asm.flags.real)</translation>
+      <translation>Zeige Flaggen&apos; echten Namen (asm.flags.real)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="158"/>
@@ -727,16 +727,16 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="489"/>
       <source>Substitute variables in disassembly (asm.sub.var)</source>
-      <translation type="unfinished">Substitute variables in disassembly (asm.sub.var)</translation>
+      <translation>Ersetze Variablen im Disassembly (asm.sub.var)</translation>
     </message>
     <message>
       <source>Substitute variables (asm.sub.var)</source>
-      <translation type="unfinished">Substitute variables (asm.sub.var)</translation>
+      <translation>Ersetze Variablen (asm.sub.var)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="496"/>
       <source>Substitute entire variable expressions with names (asm.sub.varonly)</source>
-      <translation type="unfinished">Substitute entire variable expressions with names (asm.sub.varonly)</translation>
+      <translation>Ersetze komplette Variablen-Ausdrücke mit Namen (asm.sub.varonly)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="552"/>
@@ -863,7 +863,7 @@
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="59"/>
       <source>Pointer Size:</source>
-      <translation type="unfinished">Pointer Size:</translation>
+      <translation>Zeigergröße:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="67"/>
@@ -893,7 +893,7 @@
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="134"/>
       <source>Min String Length:</source>
-      <translation type="unfinished">Min String Length:</translation>
+      <translation>Min. Zeichenlänge:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="157"/>
@@ -980,7 +980,7 @@
     <message>
       <location filename="../core/Basefind.cpp" line="51"/>
       <source>Min string length must be at least 1</source>
-      <translation type="unfinished">Min string length must be at least 1</translation>
+      <translation>Min. Zeichenlänge muss mindestens 1 sein</translation>
     </message>
   </context>
   <context>
@@ -1013,7 +1013,7 @@
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="131"/>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="137"/>
       <source>N/A</source>
-      <translation type="unfinished">N/A</translation>
+      <translation>N/A</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="153"/>
@@ -1320,7 +1320,7 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="23"/>
       <source>Real Name</source>
-      <translation type="unfinished">Real Name</translation>
+      <translation>Echter Name</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="25"/>
@@ -1852,7 +1852,7 @@ Bitte überprüfen Sie die Konsole für weitere Details.</translation>
     <message>
       <location filename="../core/Cutter.cpp" line="4065"/>
       <source>Error creating global variable: &quot;%1&quot;</source>
-      <translation type="unfinished">Error creating global variable: &quot;%1&quot;</translation>
+      <translation>Fehler beim Erstellen der globalen Variable: &quot;%1&quot;</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4658"/>
@@ -2491,7 +2491,7 @@ Bitte überprüfen Sie die Konsole für weitere Details.</translation>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="112"/>
       <source>Disabling this option means that stepping back after continue will return to the previous PC. Significantly improves performance.</source>
-      <translation type="unfinished">Disabling this option means that stepping back after continue will return to the previous PC. Significantly improves performance.</translation>
+      <translation>Deaktivieren dieser Option bedeutet, dass das Zurückspringen nach dem Fortfahren zum vorherigen PC zurückkehrt. Verbessert die Leistung erheblich.</translation>
     </message>
   </context>
   <context>
@@ -2893,7 +2893,7 @@ Bitte überprüfen Sie die Konsole für weitere Details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="177"/>
       <source>Modify or add global variable</source>
-      <translation type="unfinished">Modify or add global variable</translation>
+      <translation>Globale Variable ändern oder hinzufügen</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="184"/>
