@@ -116,7 +116,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="154"/>
       <source>Based on Qt %1 (%2, %3 bit)</source>
-      <translation type="unfinished">Based on Qt %1 (%2, %3 bit)</translation>
+      <translation>مقدار %1 (%2، %3 بٹ) کی بنیاد پر</translation>
     </message>
   </context>
   <context>
@@ -124,7 +124,7 @@
     <message>
       <location filename="../widgets/AddressableDockWidget.cpp" line="12"/>
       <source>Sync/unsync offset</source>
-      <translation type="unfinished">Sync/unsync offset</translation>
+      <translation>مطابقت پذیری/غیر مطابقت پذیری آفسیٹ</translation>
     </message>
   </context>
   <context>
@@ -142,7 +142,7 @@
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="18"/>
       <source>Show X-Refs</source>
-      <translation type="unfinished">Show X-Refs</translation>
+      <translation>کراس حوالہ جات دکھائیں</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="19"/>
