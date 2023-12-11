@@ -271,17 +271,17 @@
     <message>
       <location filename="../common/AnalysisTask.cpp" line="101"/>
       <source>Executing analysis...</source>
-      <translation type="unfinished">Executing analysis...</translation>
+      <translation>تجزیہ کیا جا رہا ہے...</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="110"/>
       <source>Analysis complete!</source>
-      <translation type="unfinished">Analysis complete!</translation>
+      <translation>تجزیہ مکمل ہو چکا ہے!</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="112"/>
       <source>Skipping Analysis.</source>
-      <translation type="unfinished">Skipping Analysis.</translation>
+      <translation>تجزیہ چھوڑ رہا ہے</translation>
     </message>
   </context>
   <context>
@@ -289,22 +289,22 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="14"/>
       <source>Appearance</source>
-      <translation type="unfinished">Appearance</translation>
+      <translation>ظاہریت</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="28"/>
       <source>Font:</source>
-      <translation type="unfinished">Font:</translation>
+      <translation>فونٹ:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="56"/>
       <source>Select font</source>
-      <translation type="unfinished">Select font</translation>
+      <translation>فونٹ منتخب کریں</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="76"/>
       <source>Zoom</source>
-      <translation type="unfinished">Zoom</translation>
+      <translation>زوم</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="95"/>
@@ -319,37 +319,37 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="133"/>
       <source>Interface Theme:</source>
-      <translation type="unfinished">Interface Theme:</translation>
+      <translation>انٹرفیس کا مرکزی خیال:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="147"/>
       <source>Default</source>
-      <translation type="unfinished">Default</translation>
+      <translation>طے شدہ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="152"/>
       <source>Dark</source>
-      <translation type="unfinished">Dark</translation>
+      <translation>تاریک</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="160"/>
       <source>Color Theme:</source>
-      <translation type="unfinished">Color Theme:</translation>
+      <translation>رنگ کا مرکزی خیال:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="179"/>
       <source>Edit Theme</source>
-      <translation type="unfinished">Edit Theme</translation>
+      <translation>مرکزی خیال میں ترمیم کریں</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="193"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>نام بدلیں</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="213"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>کاپی کریں</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="227"/>
@@ -360,17 +360,17 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="241"/>
       <source>Export</source>
-      <translation type="unfinished">Export</translation>
+      <translation>برآمد کریں</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="255"/>
       <source>Import</source>
-      <translation type="unfinished">Import</translation>
+      <translation>درآمد کریں</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="289"/>
       <source>Use information provided by decompiler when highlighting code.</source>
-      <translation type="unfinished">Use information provided by decompiler when highlighting code.</translation>
+      <translation>کوڈ کو نمایاں کرتے ہوئے ڈی کمپائلر کے ذریعے فراہم کردہ معلومات استعمال کریں۔</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="292"/>
@@ -401,7 +401,7 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="137"/>
       <source> - copy</source>
-      <translation type="unfinished"> - copy</translation>
+      <translation> - کاپی کریں</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="143"/>
@@ -451,7 +451,7 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="240"/>
       <source>Language settings</source>
-      <translation type="unfinished">Language settings</translation>
+      <translation>زبان کی ترتیبات</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="241"/>
@@ -469,37 +469,37 @@
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation type="unfinished">Dialog</translation>
+      <translation>مکالمہ</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="22"/>
       <source>Top</source>
-      <translation type="unfinished">Top</translation>
+      <translation>اوپر</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="29"/>
       <source>Next</source>
-      <translation type="unfinished">Next</translation>
+      <translation>اگلا</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="36"/>
       <source>Next free</source>
-      <translation type="unfinished">Next free</translation>
+      <translation>اگلا مفت</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="43"/>
       <source>System Memory</source>
-      <translation type="unfinished">System Memory</translation>
+      <translation>سسٹم میموری</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="50"/>
       <source>Max Memory</source>
-      <translation type="unfinished">Max Memory</translation>
+      <translation>زیادہ سے زیادہ میموری</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="92"/>
       <source>Last Remainder</source>
-      <translation type="unfinished">Last Remainder</translation>
+      <translation>آخری یاد دہانی</translation>
     </message>
   </context>
   <context>
@@ -513,7 +513,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="35"/>
       <source>Style</source>
-      <translation type="unfinished">Style</translation>
+      <translation>اسٹائل</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="255"/>
@@ -538,12 +538,12 @@
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="183"/>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="321"/>
       <source>Normal</source>
-      <translation type="unfinished">Normal</translation>
+      <translation>نارمل</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="188"/>
       <source>ESIL (asm.esil)</source>
-      <translation type="unfinished">ESIL (asm.esil)</translation>
+      <translation>ESIL (asm.esil)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="193"/>
@@ -642,7 +642,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="305"/>
       <source>Comments</source>
-      <translation type="unfinished">Comments</translation>
+      <translation>تبصرے</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="313"/>
@@ -657,7 +657,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="331"/>
       <source>Off</source>
-      <translation type="unfinished">Off</translation>
+      <translation>آف</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="339"/>
@@ -749,7 +749,7 @@
     <message>
       <location filename="../dialogs/AsyncTaskDialog.ui" line="14"/>
       <source>Cutter</source>
-      <translation type="unfinished">Cutter</translation>
+      <translation>Cutter</translation>
     </message>
     <message>
       <location filename="../dialogs/AsyncTaskDialog.ui" line="20"/>
@@ -822,12 +822,12 @@
     <message>
       <location filename="../widgets/BacktraceWidget.cpp" line="19"/>
       <source>Description</source>
-      <translation type="unfinished">Description</translation>
+      <translation>تفصیل</translation>
     </message>
     <message>
       <location filename="../widgets/BacktraceWidget.cpp" line="20"/>
       <source>Frame Size</source>
-      <translation type="unfinished">Frame Size</translation>
+      <translation>فریم سائز</translation>
     </message>
   </context>
   <context>
@@ -868,12 +868,12 @@
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="67"/>
       <source>32</source>
-      <translation type="unfinished">32</translation>
+      <translation>32</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="72"/>
       <source>64</source>
-      <translation type="unfinished">64</translation>
+      <translation>64</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="80"/>
@@ -943,7 +943,7 @@
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="60"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>پتہ</translation>
     </message>
   </context>
   <context>
@@ -988,7 +988,7 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="136"/>
       <source>method</source>
-      <translation type="unfinished">method</translation>
+      <translation>طریقہ کار</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="160"/>
@@ -1018,7 +1018,7 @@
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="153"/>
       <source>#</source>
-      <translation type="unfinished">#</translation>
+      <translation>#</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="155"/>
@@ -1086,7 +1086,7 @@
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="66"/>
       <source>SW</source>
-      <translation type="unfinished">SW</translation>
+      <translation>جنوب مغرب</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="101"/>
@@ -1096,12 +1096,12 @@
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="103"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>نام</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="105"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>قسم</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="107"/>
@@ -1163,7 +1163,7 @@
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="59"/>
       <source>Condition</source>
-      <translation type="unfinished">Condition</translation>
+      <translation>حالت</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="91"/>
@@ -1218,22 +1218,22 @@
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="217"/>
       <source>1</source>
-      <translation type="unfinished">1</translation>
+      <translation>1</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="222"/>
       <source>2</source>
-      <translation type="unfinished">2</translation>
+      <translation>2</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="227"/>
       <source>4</source>
-      <translation type="unfinished">4</translation>
+      <translation>4</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="232"/>
       <source>8</source>
-      <translation type="unfinished">8</translation>
+      <translation>8</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="261"/>
@@ -1325,7 +1325,7 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="25"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>قسم</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="27"/>
@@ -1467,7 +1467,7 @@
     <message>
       <location filename="../widgets/ColorPicker.ui" line="288"/>
       <source>\#HHHHHH</source>
-      <translation type="unfinished">\#HHHHHH</translation>
+      <translation>\#HHHHHH</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="312"/>
@@ -1480,7 +1480,7 @@
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation type="unfinished">Dialog</translation>
+      <translation>مکالمہ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.ui" line="26"/>
@@ -1490,7 +1490,7 @@
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.ui" line="55"/>
       <source>Search</source>
-      <translation type="unfinished">Search</translation>
+      <translation>تلاش کریں</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="35"/>
@@ -1500,7 +1500,7 @@
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="79"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>خرابی</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="93"/>
@@ -1635,7 +1635,7 @@
     <message>
       <location filename="../dialogs/CommentsDialog.ui" line="14"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>تبصرہ</translation>
     </message>
     <message>
       <location filename="../dialogs/CommentsDialog.cpp" line="43"/>
@@ -1741,7 +1741,7 @@
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="159"/>
       <source>...</source>
-      <translation type="unfinished">...</translation>
+      <translation>...</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.cpp" line="76"/>
@@ -1841,7 +1841,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../core/Cutter.cpp" line="3627"/>
       <source>Unknown (%1)</source>
-      <translation type="unfinished">Unknown (%1)</translation>
+      <translation>نامعلوم (%1)</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4059"/>
@@ -1938,17 +1938,17 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="409"/>
       <source>PNG (*.png)</source>
-      <translation type="unfinished">PNG (*.png)</translation>
+      <translation>PNG (*.png)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="410"/>
       <source>JPEG (*.jpg)</source>
-      <translation type="unfinished">JPEG (*.jpg)</translation>
+      <translation>JPEG (*.jpg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="411"/>
       <source>SVG (*.svg)</source>
-      <translation type="unfinished">SVG (*.svg)</translation>
+      <translation>SVG (*.svg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="415"/>
@@ -1982,7 +1982,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="428"/>
       <source>Graphviz png (*.png)</source>
-      <translation type="unfinished">Graphviz png (*.png)</translation>
+      <translation>Graphviz png (*.png)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="430"/>
@@ -2046,12 +2046,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/Dashboard.ui" line="140"/>
       <source>Info</source>
-      <translation type="unfinished">Info</translation>
+      <translation>معلومات</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="178"/>
       <source>File:</source>
-      <translation type="unfinished">File:</translation>
+      <translation>فائل:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="188"/>
@@ -2081,7 +2081,7 @@ Please check the console for more details.</translation>
       <location filename="../widgets/Dashboard.ui" line="913"/>
       <location filename="../widgets/Dashboard.ui" line="942"/>
       <source>--</source>
-      <translation type="unfinished">--</translation>
+      <translation>--</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="207"/>
@@ -2096,12 +2096,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/Dashboard.ui" line="265"/>
       <source>Size:</source>
-      <translation type="unfinished">Size:</translation>
+      <translation>سائز:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="281"/>
       <source>Type:</source>
-      <translation type="unfinished">Type:</translation>
+      <translation>قسم:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="310"/>
@@ -2297,7 +2297,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="204"/>
       <source>N/A</source>
-      <translation type="unfinished">N/A</translation>
+      <translation>قابل اطلاق نہیں</translation>
     </message>
   </context>
   <context>
@@ -2390,7 +2390,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="54"/>
       <source>Continue</source>
-      <translation type="unfinished">Continue</translation>
+      <translation>جاری رکھیں</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="55"/>
@@ -2499,7 +2499,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="26"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>کاپی کریں</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="27"/>
@@ -2514,18 +2514,18 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="29"/>
       <source>Show in</source>
-      <translation type="unfinished">Show in</translation>
+      <translation>میں دکھائیں</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="30"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="166"/>
       <source>Add Comment</source>
-      <translation type="unfinished">Add Comment</translation>
+      <translation>تبصرہ شامل کریں</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="31"/>
       <source>Delete comment</source>
-      <translation type="unfinished">Delete comment</translation>
+      <translation>تبصرہ حذف کریں</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="32"/>
@@ -7707,7 +7707,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="76"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>سائز</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="78"/>
@@ -7717,7 +7717,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="80"/>
       <source>Category</source>
-      <translation type="unfinished">Category</translation>
+      <translation>زمرہ</translation>
     </message>
   </context>
   <context>
@@ -7739,17 +7739,17 @@ Do you want to commit them now?</translation>
       <location filename="../widgets/TypesWidget.ui" line="92"/>
       <location filename="../widgets/TypesWidget.ui" line="95"/>
       <source>Delete Type</source>
-      <translation type="unfinished">Delete Type</translation>
+      <translation>قسم حذف کریں</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="153"/>
       <source>Category</source>
-      <translation type="unfinished">Category</translation>
+      <translation>زمرہ</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="198"/>
       <source>View Type</source>
-      <translation type="unfinished">View Type</translation>
+      <translation>قسم کو دیکھیں</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="199"/>
@@ -7759,17 +7759,17 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="230"/>
       <source>(All)</source>
-      <translation type="unfinished">(All)</translation>
+      <translation>(تمام)</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="280"/>
       <source>Save File</source>
-      <translation type="unfinished">Save File</translation>
+      <translation>فائل محفوظ کریں</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="287"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>خرابی</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="324"/>
@@ -7999,7 +7999,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="301"/>
       <source>Code</source>
-      <translation type="unfinished">Code</translation>
+      <translation>کوڈ</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="303"/>
