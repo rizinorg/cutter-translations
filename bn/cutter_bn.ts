@@ -1576,32 +1576,32 @@
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="199"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; is not a Cutter color theme</source>
-      <translation type="unfinished">File &lt;b&gt;%1&lt;/b&gt; is not a Cutter color theme</translation>
+      <translation>ফাইল &lt;b&gt;%1&lt;/b&gt; Cutter রঙ-এর থিম নয়</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="204"/>
       <source>A color theme named &lt;b&gt;%1&lt;/b&gt; already exists.</source>
-      <translation type="unfinished">A color theme named &lt;b&gt;%1&lt;/b&gt; already exists.</translation>
+      <translation>&lt;b&gt;%1&lt;/b&gt; নামের একটি রঙিন থিম আগে থেকেই আছে।</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="210"/>
       <source>Error occurred during importing. Please make sure you have an access to the directory &lt;b&gt;%1&lt;/b&gt; and try again.</source>
-      <translation type="unfinished">Error occurred during importing. Please make sure you have an access to the directory &lt;b&gt;%1&lt;/b&gt; and try again.</translation>
+      <translation>নিয়ে আসার সময় ত্রুটি দেখা দিয়েছে৷ অনুগ্রহ করে নিশ্চিত করুন যে ডিরেক্টরি &lt;b&gt;%1&lt;/b&gt;-এ আপনার অ্যাক্সেস আছে  এবং আবার চেষ্টা করুন।</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="220"/>
       <source>A color theme named &lt;b&gt;&quot;%1&quot;&lt;/b&gt; already exists.</source>
-      <translation type="unfinished">A color theme named &lt;b&gt;&quot;%1&quot;&lt;/b&gt; already exists.</translation>
+      <translation>&lt;b&gt;&quot;%1&quot;&lt;/b&gt; নামের একটি রঙিন থিম আগে থেকেই আছে।</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="224"/>
       <source>You can not rename standard Rizin themes.</source>
-      <translation type="unfinished">You can not rename standard Rizin themes.</translation>
+      <translation>আপনি স্ট্যান্ডার্ড Rizin রঙের থিমগুলো পুনরায় নামকরণ করতে পারবেন না।</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="230"/>
       <source>Something went wrong during renaming. Please make sure you have access to the directory &lt;b&gt;&quot;%1&quot;&lt;/b&gt;.</source>
-      <translation type="unfinished">Something went wrong during renaming. Please make sure you have access to the directory &lt;b&gt;&quot;%1&quot;&lt;/b&gt;.</translation>
+      <translation>নাম পরিবর্তন করার সময় কিছু একটা ভুল হয়েছে। অনুগ্রহ করে নিশ্চিত করুন যে &lt;b&gt;&quot;%1&quot;&lt;/b&gt; ডিরেক্টরিতে আপনার  অ্যাক্সেস আছে।</translation>
     </message>
   </context>
   <context>
@@ -1609,17 +1609,17 @@
     <message>
       <location filename="../widgets/ComboQuickFilterView.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>গঠন</translation>
     </message>
     <message>
       <location filename="../widgets/ComboQuickFilterView.ui" line="32"/>
       <source>Quick Filter</source>
-      <translation type="unfinished">Quick Filter</translation>
+      <translation>দ্রুত ফিল্টার</translation>
     </message>
     <message>
       <location filename="../widgets/ComboQuickFilterView.ui" line="39"/>
       <source>TextLabel</source>
-      <translation type="unfinished">TextLabel</translation>
+      <translation>TextLabel</translation>
     </message>
   </context>
   <context>
@@ -1627,7 +1627,7 @@
     <message>
       <location filename="../common/CommandTask.h" line="23"/>
       <source>Running Command</source>
-      <translation type="unfinished">Running Command</translation>
+      <translation>রানিং কমান্ড</translation>
     </message>
   </context>
   <context>
@@ -1635,17 +1635,17 @@
     <message>
       <location filename="../dialogs/CommentsDialog.ui" line="14"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>মন্তব্য</translation>
     </message>
     <message>
       <location filename="../dialogs/CommentsDialog.cpp" line="43"/>
       <source>Add Comment at %1</source>
-      <translation type="unfinished">Add Comment at %1</translation>
+      <translation>%1-এ মন্তব্য যোগ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/CommentsDialog.cpp" line="45"/>
       <source>Edit Comment at %1</source>
-      <translation type="unfinished">Edit Comment at %1</translation>
+      <translation>%1-এ মন্তব্য সম্পাদনা করুন</translation>
     </message>
   </context>
   <context>
@@ -1653,23 +1653,23 @@
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="157"/>
       <source>Function/Offset</source>
-      <translation type="unfinished">Function/Offset</translation>
+      <translation>ফাংশন/অফসেট</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="159"/>
       <location filename="../widgets/CommentsWidget.cpp" line="170"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>মন্তব্য</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="166"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>অফসেট</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="168"/>
       <source>Function</source>
-      <translation type="unfinished">Function</translation>
+      <translation>ফাংশন</translation>
     </message>
   </context>
   <context>
@@ -1677,38 +1677,38 @@
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="235"/>
       <source>Horizontal</source>
-      <translation type="unfinished">Horizontal</translation>
+      <translation>অনুভূমিক</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="236"/>
       <source>Vertical</source>
-      <translation type="unfinished">Vertical</translation>
+      <translation>উলম্ব</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="238"/>
       <source>Comments</source>
-      <translation type="unfinished">Comments</translation>
+      <translation>মন্তব্য</translation>
     </message>
   </context>
   <context>
     <name>Configuration</name>
     <message>
       <source>Critical!</source>
-      <translation type="unfinished">Critical!</translation>
+      <translation>সংকটপূর্ণ!</translation>
     </message>
     <message>
       <source>!!! Settings are not writable! Make sure you have a write access to &quot;%1&quot;</source>
-      <translation type="unfinished">!!! Settings are not writable! Make sure you have a write access to &quot;%1&quot;</translation>
+      <translation>!!! সেটিংস লেখার যোগ্য নয়! নিশ্চিত করুন যে &quot;%1&quot;-এ আপনার লেখার অ্যাক্সেস আছে</translation>
     </message>
     <message>
       <location filename="../common/Configuration.cpp" line="146"/>
       <source>Critical Error!</source>
-      <translation type="unfinished">Critical Error!</translation>
+      <translation>জটিল ত্রুটি!</translation>
     </message>
     <message>
       <location filename="../common/Configuration.cpp" line="147"/>
       <source>Settings are not writable! Make sure you have a write access to &quot;%1&quot;.</source>
-      <translation type="unfinished">Settings are not writable! Make sure you have a write access to &quot;%1&quot;.</translation>
+      <translation>সেটিংস লেখার যোগ্য নয়! নিশ্চিত করুন যে &quot;%1&quot;-এ আপনার লেখার অ্যাক্সেস আছে</translation>
     </message>
   </context>
   <context>
@@ -1716,7 +1716,7 @@
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="93"/>
       <source>Rizin Console</source>
-      <translation type="unfinished">Rizin Console</translation>
+      <translation>Rizin কনসোল</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="98"/>
