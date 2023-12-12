@@ -6,17 +6,17 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="14"/>
       <source>About Cutter</source>
-      <translation type="unfinished">About Cutter</translation>
+      <translation>কাটার সম্পর্কে</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="54"/>
       <source>Check for updates on start</source>
-      <translation type="unfinished">Check for updates on start</translation>
+      <translation>শুরুতে হালনাগাদের জন্য পরীক্ষা করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="67"/>
       <source>Check for updates</source>
-      <translation type="unfinished">Check for updates</translation>
+      <translation>হালনাগাদের জন্য পরীক্ষা করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="80"/>
