@@ -271,17 +271,17 @@
     <message>
       <location filename="../common/AnalysisTask.cpp" line="101"/>
       <source>Executing analysis...</source>
-      <translation type="unfinished">Executing analysis...</translation>
+      <translation>বিশ্লেষণ কার্যকর করা হচ্ছে...</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="110"/>
       <source>Analysis complete!</source>
-      <translation type="unfinished">Analysis complete!</translation>
+      <translation>বিশ্লেষণ সম্পন্ন!</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="112"/>
       <source>Skipping Analysis.</source>
-      <translation type="unfinished">Skipping Analysis.</translation>
+      <translation>এড়িয়ে যাওয়া বিশ্লেষণ।</translation>
     </message>
   </context>
   <context>
@@ -289,129 +289,129 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="14"/>
       <source>Appearance</source>
-      <translation type="unfinished">Appearance</translation>
+      <translation>অবয়ব</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="28"/>
       <source>Font:</source>
-      <translation type="unfinished">Font:</translation>
+      <translation>ফন্ট:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="56"/>
       <source>Select font</source>
-      <translation type="unfinished">Select font</translation>
+      <translation>ফন্ট নির্বাচন করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="76"/>
       <source>Zoom</source>
-      <translation type="unfinished">Zoom</translation>
+      <translation>জুম</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="95"/>
       <source>%</source>
-      <translation type="unfinished">%</translation>
+      <translation>%</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="116"/>
       <source>Language:</source>
-      <translation type="unfinished">Language:</translation>
+      <translation>ভাষা:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="133"/>
       <source>Interface Theme:</source>
-      <translation type="unfinished">Interface Theme:</translation>
+      <translation>ইন্টারফেস থিম:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="147"/>
       <source>Default</source>
-      <translation type="unfinished">Default</translation>
+      <translation>ডিফল্ট</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="152"/>
       <source>Dark</source>
-      <translation type="unfinished">Dark</translation>
+      <translation>গাঢ়</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="160"/>
       <source>Color Theme:</source>
-      <translation type="unfinished">Color Theme:</translation>
+      <translation>রঙের থিম:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="179"/>
       <source>Edit Theme</source>
-      <translation type="unfinished">Edit Theme</translation>
+      <translation>থিম সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="193"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>নাম পরিবর্তন করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="213"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>কপি করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="227"/>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="163"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>মুছে ফেলুন</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="241"/>
       <source>Export</source>
-      <translation type="unfinished">Export</translation>
+      <translation>প্রেরণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="255"/>
       <source>Import</source>
-      <translation type="unfinished">Import</translation>
+      <translation>নিয়ে আসুন</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="289"/>
       <source>Use information provided by decompiler when highlighting code.</source>
-      <translation type="unfinished">Use information provided by decompiler when highlighting code.</translation>
+      <translation>কোড হাইলাইট করার সময় ডিকম্পাইলার দ্বারা প্রদত্ত তথ্য ব্যবহার করুন।</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="292"/>
       <source>Decompiler based highlighting</source>
-      <translation type="unfinished">Decompiler based highlighting</translation>
+      <translation>ডিকম্পাইলার ভিত্তিক হাইলাইটিং</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="312"/>
       <source>Save as Default</source>
-      <translation type="unfinished">Save as Default</translation>
+      <translation>ডিফল্ট হিসাবে সংরক্ষণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="125"/>
       <source>Theme Editor - &lt;%1&gt;</source>
-      <translation type="unfinished">Theme Editor - &lt;%1&gt;</translation>
+      <translation>থিম এডিটর - &lt;%1&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="136"/>
       <source>Enter theme name</source>
-      <translation type="unfinished">Enter theme name</translation>
+      <translation>থিম নাম লিখুন</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="136"/>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="221"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>নাম:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="137"/>
       <source> - copy</source>
-      <translation type="unfinished"> - copy</translation>
+      <translation> - কপি</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="143"/>
       <source>Theme Copy</source>
-      <translation type="unfinished">Theme Copy</translation>
+      <translation>থিম কপি</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="144"/>
       <source>Theme named %1 already exists.</source>
-      <translation type="unfinished">Theme named %1 already exists.</translation>
+      <translation>%1 নামের থিম ইতোমধ্যেই বিদ্যমান।</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="159"/>
@@ -420,48 +420,48 @@
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="214"/>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="229"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>ত্রুটি</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="163"/>
       <source>Are you sure you want to delete &lt;b&gt;%1&lt;/b&gt;?</source>
-      <translation type="unfinished">Are you sure you want to delete &lt;b&gt;%1&lt;/b&gt;?</translation>
+      <translation>আপনি কি নিশ্চিত যে আপনি &lt;b&gt;%1&lt;/b&gt; মুছে দিতে চান?</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="185"/>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="211"/>
       <source>Success</source>
-      <translation type="unfinished">Success</translation>
+      <translation>সাফল্য</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="186"/>
       <source>Color theme &lt;b&gt;%1&lt;/b&gt; was successfully imported.</source>
-      <translation type="unfinished">Color theme &lt;b&gt;%1&lt;/b&gt; was successfully imported.</translation>
+      <translation>রঙিন থিম &lt;b&gt;%1&lt;/b&gt; সফলভাবে আনা হয়েছে।</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="212"/>
       <source>Color theme &lt;b&gt;%1&lt;/b&gt; was successfully exported.</source>
-      <translation type="unfinished">Color theme &lt;b&gt;%1&lt;/b&gt; was successfully exported.</translation>
+      <translation>রঙিন থিম &lt;b&gt;%1&lt;/b&gt; সফলভাবে প্রেরণ করা হয়েছে।</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="221"/>
       <source>Enter new theme name</source>
-      <translation type="unfinished">Enter new theme name</translation>
+      <translation>নতুন থিম নাম লিখুন</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="240"/>
       <source>Language settings</source>
-      <translation type="unfinished">Language settings</translation>
+      <translation>ভাষার সেটিংস</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="241"/>
       <source>Language will be changed after next application start.</source>
-      <translation type="unfinished">Language will be changed after next application start.</translation>
+      <translation>পরবর্তী অ্যাপ্লিকেশন শুরু হওয়ার পরে ভাষা পরিবর্তন করা হবে।</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="245"/>
       <source>Cannot set language, not found in available ones</source>
-      <translation type="unfinished">Cannot set language, not found in available ones</translation>
+      <translation>ভাষা সেট করা যাচ্ছে না, বিদ্যমানগুলোতে পাওয়া যায়নি</translation>
     </message>
   </context>
   <context>
@@ -469,37 +469,37 @@
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation type="unfinished">Dialog</translation>
+      <translation>ডায়লগ</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="22"/>
       <source>Top</source>
-      <translation type="unfinished">Top</translation>
+      <translation>শীর্ষ</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="29"/>
       <source>Next</source>
-      <translation type="unfinished">Next</translation>
+      <translation>পরবর্তী</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="36"/>
       <source>Next free</source>
-      <translation type="unfinished">Next free</translation>
+      <translation>পরবর্তী ফ্রি</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="43"/>
       <source>System Memory</source>
-      <translation type="unfinished">System Memory</translation>
+      <translation>সিস্টেম মেমোরি</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="50"/>
       <source>Max Memory</source>
-      <translation type="unfinished">Max Memory</translation>
+      <translation>পরবর্তী মেমোরি</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="92"/>
       <source>Last Remainder</source>
-      <translation type="unfinished">Last Remainder</translation>
+      <translation>শেষ অংশ</translation>
     </message>
   </context>
   <context>
@@ -508,31 +508,31 @@
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="14"/>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="65"/>
       <source>Disassembly</source>
-      <translation type="unfinished">Disassembly</translation>
+      <translation>ডিসঅ্যাসেম্বলি</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="35"/>
       <source>Style</source>
-      <translation type="unfinished">Style</translation>
+      <translation>শৈলী</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="255"/>
       <source>Align bytes to the left (asm.lbytes)</source>
-      <translation type="unfinished">Align bytes to the left (asm.lbytes)</translation>
+      <translation>বাম দিকে বাইট রাখুন (asm.lbytes)</translation>
     </message>
     <message>
       <source>Show preview when hovering:</source>
-      <translation type="unfinished">Show preview when hovering:</translation>
+      <translation>হোভার করার সময় প্রিভিউ দেখান:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="215"/>
       <source>Syntax (asm.syntax):</source>
-      <translation type="unfinished">Syntax (asm.syntax):</translation>
+      <translation>সিনট্যাক্স (asm.syntax):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="272"/>
       <source>Flags (asm.reloff.flags)</source>
-      <translation type="unfinished">Flags (asm.reloff.flags)</translation>
+      <translation>ফ্ল্যাগ (asm.reloff.flags)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="183"/>
@@ -607,12 +607,12 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="107"/>
       <source>Show Disassembly as:</source>
-      <translation>বিচ্ছিন্ন করা যেভাবে দেখাবেন:</translation>
+      <translation>ডিসঅ্যাসেম্বলি যেভাবে দেখাবেন:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="90"/>
       <source>Tabs in assembly (asm.tabs):</source>
-      <translation>সমাবেশে ট্যাব (asm.tabs):</translation>
+      <translation>অ্যাসেম্বলিতে ট্যাব (asm.tabs):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="168"/>
@@ -622,126 +622,126 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="133"/>
       <source>Display flags&apos; real name (asm.flags.real)</source>
-      <translation type="unfinished">Display flags&apos; real name (asm.flags.real)</translation>
+      <translation>প্রদর্শন করুন flags&apos; আসল নাম (asm.flags.real)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="158"/>
       <source>The number of tabulate spaces after the offset (asm.tabs.off):</source>
-      <translation type="unfinished">The number of tabulate spaces after the offset (asm.tabs.off):</translation>
+      <translation>অফসেটের পরে ট্যাবুলেট স্পেস সংখ্যা (asm.tabs.off):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="208"/>
       <source>Show preview when hovering</source>
-      <translation type="unfinished">Show preview when hovering</translation>
+      <translation>হোভার করার সময় প্রিভিউ দেখান</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="289"/>
       <source>Show known variable values when hovering</source>
-      <translation type="unfinished">Show known variable values when hovering</translation>
+      <translation>হোভার করার সময় পরিচিত ভেরিয়েবল মান দেখান</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="305"/>
       <source>Comments</source>
-      <translation type="unfinished">Comments</translation>
+      <translation>মন্তব্য</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="313"/>
       <source>Show opcode description (asm.describe)</source>
-      <translation type="unfinished">Show opcode description (asm.describe)</translation>
+      <translation>অপকোড-এর বর্ণনা দেখান (asm.describe)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="326"/>
       <source>Above instructions</source>
-      <translation type="unfinished">Above instructions</translation>
+      <translation>উপরের নির্দেশনা</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="331"/>
       <source>Off</source>
-      <translation type="unfinished">Off</translation>
+      <translation>বন্ধ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="339"/>
       <source>Show comments:</source>
-      <translation type="unfinished">Show comments:</translation>
+      <translation>মন্তব্য দেখান:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="359"/>
       <source>Column to align comments (asm.cmt.col):</source>
-      <translation type="unfinished">Column to align comments (asm.cmt.col):</translation>
+      <translation>মন্তব্য লেখার জন্য কলাম (asm.cmt.col):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="369"/>
       <source>Show x-refs (asm.xrefs)</source>
-      <translation type="unfinished">Show x-refs (asm.xrefs)</translation>
+      <translation>x-রেফারেন্স দেখান (asm.xrefs)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="376"/>
       <source>Show refpointer information (asm.refptr)</source>
-      <translation type="unfinished">Show refpointer information (asm.refptr)</translation>
+      <translation>রেফপয়েন্টার তথ্য দেখান (asm.refptr)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="409"/>
       <source>Metadata</source>
-      <translation type="unfinished">Metadata</translation>
+      <translation>মেটাডাটা</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="433"/>
       <source>Slow Analysis (asm.slow)</source>
-      <translation type="unfinished">Slow Analysis (asm.slow)</translation>
+      <translation>ধীরগতির বিশ্লেষণ (asm.slow)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="440"/>
       <source>Show jump lines (asm.lines)</source>
-      <translation type="unfinished">Show jump lines (asm.lines)</translation>
+      <translation>জাম্প লাইন দেখান (asm.lines)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="447"/>
       <source>Show function boundary lines (asm.lines.fcn)</source>
-      <translation type="unfinished">Show function boundary lines (asm.lines.fcn)</translation>
+      <translation>ফাংশনের সীমারেখা দেখান (asm.lines.fcn)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="454"/>
       <source>Show offset before flags (asm.flags.off)</source>
-      <translation type="unfinished">Show offset before flags (asm.flags.off)</translation>
+      <translation>ফ্ল্যাগ-এর আগে অফসেট দেখান (asm.flags.off)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="461"/>
       <source>Run ESIL emulation analysis (asm.emu)</source>
-      <translation type="unfinished">Run ESIL emulation analysis (asm.emu)</translation>
+      <translation>ESIL এমিউলেশন বিশ্লেষণ চালান (asm.emu)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="468"/>
       <source>Show only strings if any in the asm.emu output (emu.str)</source>
-      <translation type="unfinished">Show only strings if any in the asm.emu output (emu.str)</translation>
+      <translation>asm.emu আউটপুটে শুধুমাত্র স্ট্রিং দেখান (emu.str)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="475"/>
       <source>Show size of opcodes in disassembly (asm.size)</source>
-      <translation type="unfinished">Show size of opcodes in disassembly (asm.size)</translation>
+      <translation>ডিসঅ্যাসেম্বলিতে অপকোডের আকার দেখান (asm.size)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="482"/>
       <source>Show variables summary instead of full list (asm.var.summary)</source>
-      <translation type="unfinished">Show variables summary instead of full list (asm.var.summary)</translation>
+      <translation>সম্পূর্ণ তালিকার পরিবর্তে ভেরিয়েবলের সারাংশ দেখান (asm.var.summary)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="489"/>
       <source>Substitute variables in disassembly (asm.sub.var)</source>
-      <translation type="unfinished">Substitute variables in disassembly (asm.sub.var)</translation>
+      <translation>ডিসঅ্যাসেম্বলিতে ভেরিয়েবল পরিবর্তন করুন (asm.sub.var)</translation>
     </message>
     <message>
       <source>Substitute variables (asm.sub.var)</source>
-      <translation type="unfinished">Substitute variables (asm.sub.var)</translation>
+      <translation>টেকসই ভেরিয়েবল (asm.sub.var)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="496"/>
       <source>Substitute entire variable expressions with names (asm.sub.varonly)</source>
-      <translation type="unfinished">Substitute entire variable expressions with names (asm.sub.varonly)</translation>
+      <translation>নামের সাথে সম্পূর্ণ ভেরিয়েবল অভিব্যক্তি প্রতিস্থাপন করুন (asm.sub.varonly)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="552"/>
       <source>Save as Default</source>
-      <translation type="unfinished">Save as Default</translation>
+      <translation>ডিফল্ট হিসাবে সংরক্ষণ করুন</translation>
     </message>
   </context>
   <context>
@@ -749,25 +749,25 @@
     <message>
       <location filename="../dialogs/AsyncTaskDialog.ui" line="14"/>
       <source>Cutter</source>
-      <translation type="unfinished">Cutter</translation>
+      <translation>Cutter</translation>
     </message>
     <message>
       <location filename="../dialogs/AsyncTaskDialog.ui" line="20"/>
       <source>Time</source>
-      <translation type="unfinished">Time</translation>
+      <translation>সময়</translation>
     </message>
     <message>
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="43"/>
       <source>Running for</source>
-      <translation type="unfinished">Running for</translation>
+      <translation>যে সময় ধরে চলছে</translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="45"/>
       <source>%n hour</source>
       <comment>%n hours</comment>
-      <translation type="unfinished">
-        <numerusform>%n hour</numerusform>
-        <numerusform>%n hour</numerusform>
+      <translation>
+        <numerusform>%n ঘণ্টা</numerusform>
+        <numerusform>%n ঘণ্টা</numerusform>
       </translation>
     </message>
     <message numerus="yes">
@@ -775,7 +775,7 @@
       <source>%n minute</source>
       <comment>%n minutes</comment>
       <translation type="unfinished">
-        <numerusform>%n minute</numerusform>
+        <numerusform>%n মিনিট</numerusform>
         <numerusform>%n minute</numerusform>
       </translation>
     </message>
@@ -783,9 +783,9 @@
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="52"/>
       <source>%n seconds</source>
       <comment>%n second</comment>
-      <translation type="unfinished">
-        <numerusform>%n seconds</numerusform>
-        <numerusform>%n seconds</numerusform>
+      <translation>
+        <numerusform>%n সেকেন্ড</numerusform>
+        <numerusform>%n সেকেন্ড</numerusform>
       </translation>
     </message>
   </context>
@@ -794,22 +794,22 @@
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="14"/>
       <source>Select process to attach...</source>
-      <translation type="unfinished">Select process to attach...</translation>
+      <translation>সংযুক্ত করার জন্য প্রক্রিয়া নির্বাচন করুন...</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="46"/>
       <source>Processes with same name as currently open file:</source>
-      <translation type="unfinished">Processes with same name as currently open file:</translation>
+      <translation>বর্তমানে খোলা ফাইলের মতো একই নামের প্রক্রিয়া:</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="90"/>
       <source>All processes:</source>
-      <translation type="unfinished">All processes:</translation>
+      <translation>সমস্ত প্রক্রিয়া:</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="130"/>
       <source>Quick Filter</source>
-      <translation type="unfinished">Quick Filter</translation>
+      <translation>দ্রুত ফিল্টার</translation>
     </message>
   </context>
   <context>
@@ -817,17 +817,17 @@
     <message>
       <location filename="../widgets/BacktraceWidget.cpp" line="16"/>
       <source>Function</source>
-      <translation type="unfinished">Function</translation>
+      <translation>ফাংশন</translation>
     </message>
     <message>
       <location filename="../widgets/BacktraceWidget.cpp" line="19"/>
       <source>Description</source>
-      <translation type="unfinished">Description</translation>
+      <translation>বর্ণনা</translation>
     </message>
     <message>
       <location filename="../widgets/BacktraceWidget.cpp" line="20"/>
       <source>Frame Size</source>
-      <translation type="unfinished">Frame Size</translation>
+      <translation>ফ্রেমের আকার</translation>
     </message>
   </context>
   <context>
@@ -835,22 +835,22 @@
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="14"/>
       <source>Base64 Encode/Decode</source>
-      <translation type="unfinished">Base64 Encode/Decode</translation>
+      <translation>বেস64 এনকোড/ডিকোড</translation>
     </message>
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="24"/>
       <source>String:</source>
-      <translation type="unfinished">String:</translation>
+      <translation>স্ট্রিং:</translation>
     </message>
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="38"/>
       <source>Decode</source>
-      <translation type="unfinished">Decode</translation>
+      <translation>ডিকোড</translation>
     </message>
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="48"/>
       <source>Encode</source>
-      <translation type="unfinished">Encode</translation>
+      <translation>এনকোড</translation>
     </message>
   </context>
   <context>
@@ -858,42 +858,42 @@
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="43"/>
       <source>Cores:</source>
-      <translation type="unfinished">Cores:</translation>
+      <translation>কোর:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="59"/>
       <source>Pointer Size:</source>
-      <translation type="unfinished">Pointer Size:</translation>
+      <translation>পয়েন্টারের আকার:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="67"/>
       <source>32</source>
-      <translation type="unfinished">32</translation>
+      <translation>32</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="72"/>
       <source>64</source>
-      <translation type="unfinished">64</translation>
+      <translation>64</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="80"/>
       <source>Start Address:</source>
-      <translation type="unfinished">Start Address:</translation>
+      <translation>শুরুর ঠিকানা:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="100"/>
       <source>End Address:</source>
-      <translation type="unfinished">End Address:</translation>
+      <translation>সমাপ্তির ঠিকানা:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="117"/>
       <source>Alignment:</source>
-      <translation type="unfinished">Alignment:</translation>
+      <translation>বিন্যাসন:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="134"/>
       <source>Min String Length:</source>
-      <translation type="unfinished">Min String Length:</translation>
+      <translation>ন্যূনতম স্ট্রিং দৈর্ঘ্য:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="157"/>
