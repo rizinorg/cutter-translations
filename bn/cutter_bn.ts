@@ -344,7 +344,7 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="193"/>
       <source>Rename</source>
-      <translation>নাম পরিবর্তন করুন</translation>
+      <translation>পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="213"/>
@@ -508,7 +508,7 @@
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="14"/>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="65"/>
       <source>Disassembly</source>
-      <translation>ডিসঅ্যাসেম্বলি</translation>
+      <translation>বিচ্ছিন্নকরণ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="35"/>
@@ -607,7 +607,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="107"/>
       <source>Show Disassembly as:</source>
-      <translation>ডিসঅ্যাসেম্বলি যেভাবে দেখাবেন:</translation>
+      <translation>এভাবে বিচ্ছিন্নকরণ দেখান:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="90"/>
@@ -617,7 +617,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="168"/>
       <source>Indent disassembly based on reflines depth (asm.indent)</source>
-      <translation>রেফ লাইনের গভীরতার উপর ভিত্তি করে ডিসঅ্যাসেম্বলি ইন্ডেন্ট করুন (asm.indent)</translation>
+      <translation>রেফ লাইনের গভীরতার উপর ভিত্তি করে বিচ্ছিন্নকরণ ইন্ডেন্ট করুন (asm.indent)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="133"/>
@@ -717,7 +717,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="475"/>
       <source>Show size of opcodes in disassembly (asm.size)</source>
-      <translation>ডিসঅ্যাসেম্বলিতে অপকোডের আকার দেখান (asm.size)</translation>
+      <translation>বিচ্ছিন্নকরণে অপকোডের আকার দেখান (asm.size)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="482"/>
@@ -727,7 +727,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="489"/>
       <source>Substitute variables in disassembly (asm.sub.var)</source>
-      <translation>ডিসঅ্যাসেম্বলিতে ভেরিয়েবল পরিবর্তন করুন (asm.sub.var)</translation>
+      <translation>বিচ্ছিন্নকরণে ভেরিয়েবল পরিবর্তন করুন (asm.sub.var)</translation>
     </message>
     <message>
       <source>Substitute variables (asm.sub.var)</source>
@@ -903,13 +903,13 @@
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="199"/>
       <source>Remove item</source>
-      <translation>আইটেম অপসারণ করুন</translation>
+      <translation>আইটেম সরিয়ে নিন</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="204"/>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="207"/>
       <source>Remove all</source>
-      <translation>সব মুছে ফেলুন</translation>
+      <translation>সব সরিয়ে নিন</translation>
     </message>
   </context>
   <context>
@@ -951,13 +951,13 @@
     <message>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="81"/>
       <source>Remove item</source>
-      <translation>আইটেম অপসারণ করুন</translation>
+      <translation>আইটেম সরিয়ে নিন</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="86"/>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="89"/>
       <source>Remove all</source>
-      <translation>সব মুছে ফেলুন</translation>
+      <translation>সব সরিয়ে নিন</translation>
     </message>
   </context>
   <context>
@@ -1378,7 +1378,7 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="603"/>
       <source>Rename Class</source>
-      <translation>ক্লাসের নাম পরিবর্তন করুন</translation>
+      <translation>ক্লাসের পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="604"/>
@@ -1414,7 +1414,7 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="823"/>
       <source>Rename Class %1</source>
-      <translation>ক্লাস %1 এর নাম পরিবর্তন করুন</translation>
+      <translation>ক্লাস %1 এর পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="824"/>
@@ -1495,7 +1495,7 @@
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="35"/>
       <source>Disassembly Preview</source>
-      <translation>ডিসঅ্যাসেম্বলি প্রিভিউ</translation>
+      <translation>বিচ্ছিন্নকরণ প্রিভিউ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="79"/>
@@ -1561,7 +1561,7 @@
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="180"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; can not be removed.</source>
-      <translation>ফাইল &lt;b&gt;%1&lt;/b&gt; অপসারণ করা যাবে না।</translation>
+      <translation>ফাইল &lt;b&gt;%1&lt;/b&gt; সরিয়ে নেওয়া যাবে না।</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="189"/>
@@ -1596,7 +1596,7 @@
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="224"/>
       <source>You can not rename standard Rizin themes.</source>
-      <translation>আপনি স্ট্যান্ডার্ড Rizin রঙের থিমগুলো পুনরায় নামকরণ করতে পারবেন না।</translation>
+      <translation>আপনি স্ট্যান্ডার্ড Rizin রঙের থিমগুলোর পুনঃনামকরণ করতে পারবেন না।</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="230"/>
@@ -2206,7 +2206,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/Dashboard.ui" line="932"/>
       <source>Compiler:</source>
-      <translation>সংকলক:</translation>
+      <translation>কম্পাইলার:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="993"/>
@@ -2530,7 +2530,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="32"/>
       <source>Rename function at cursor</source>
-      <translation>কার্সারে ফাংশনের নাম পরিবর্তন করুন</translation>
+      <translation>কার্সারে ফাংশনের পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="33"/>
@@ -2550,7 +2550,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="36"/>
       <source>Add/remove breakpoint</source>
-      <translation>ব্রেকপয়েন্ট যোগ/অপসারণ করুন</translation>
+      <translation>ব্রেকপয়েন্ট যোগ করুন/সরিয়ে নিন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="37"/>
@@ -2581,153 +2581,153 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="187"/>
       <source>Remove breakpoint</source>
-      <translation>ব্রেকপয়েন্ট অপসারণ করুন</translation>
+      <translation>ব্রেকপয়েন্ট সরিয়ে নিন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="189"/>
       <source>Remove all breakpoints in line</source>
-      <translation type="unfinished">Remove all breakpoints in line</translation>
+      <translation>সব ব্রেকপয়েন্ট লাইনে সরিয়ে নিন।</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="196"/>
       <source>Edit breakpoint</source>
-      <translation type="unfinished">Edit breakpoint</translation>
+      <translation>ব্রেকপয়েন্ট সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="200"/>
       <source>Set %1 here</source>
-      <translation type="unfinished">Set %1 here</translation>
+      <translation>%1 সেট করুন এখানে</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="212"/>
       <source>Rename function %1</source>
-      <translation type="unfinished">Rename function %1</translation>
+      <translation>%1 ফাংশনের পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="217"/>
       <source>Rename %1</source>
-      <translation type="unfinished">Rename %1</translation>
+      <translation>%1 এর পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="218"/>
       <source>Remove %1</source>
-      <translation type="unfinished">Remove %1</translation>
+      <translation>%1 সরিয়ে নিন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="221"/>
       <source>Add name to %1</source>
-      <translation type="unfinished">Add name to %1</translation>
+      <translation>%1-এ নাম যোগ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="226"/>
       <source>Copy instruction address (%1)</source>
-      <translation type="unfinished">Copy instruction address (%1)</translation>
+      <translation>নির্দেশনার ঠিকানা কপি করুন (%1)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="232"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="237"/>
       <source>Copy address of %1 (%2)</source>
-      <translation type="unfinished">Copy address of %1 (%2)</translation>
+      <translation> %1 (%2)-এর ঠিকানা কপি করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="241"/>
       <source>Copy address (%1)</source>
-      <translation type="unfinished">Copy address (%1)</translation>
+      <translation>ঠিকানা কপি করুন (%1)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="257"/>
       <source>Edit variable %1</source>
-      <translation type="unfinished">Edit variable %1</translation>
+      <translation>ভেরিয়েবল %1 সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="259"/>
       <source>Rename variable %1</source>
-      <translation type="unfinished">Rename variable %1</translation>
+      <translation>ভেরিয়েবল %1-এর পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="321"/>
       <source>Can&apos;t rename this variable.&lt;br&gt;Only local variables defined in disassembly can be renamed.</source>
-      <translation type="unfinished">Can&apos;t rename this variable.&lt;br&gt;Only local variables defined in disassembly can be renamed.</translation>
+      <translation>&apos;এই ভেরিয়েবলের পুনঃনামকরণ করা যাবে না।&lt;br&gt;কেবল বিচ্ছিন্নকরণে সংজ্ঞায়িত স্থানীয় ভেরিয়েবলের নাম পরিবর্তন করা যাবে।</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="340"/>
       <source>Can&apos;t edit this variable.&lt;br&gt;Only local variables defined in disassembly can be edited.</source>
-      <translation type="unfinished">Can&apos;t edit this variable.&lt;br&gt;Only local variables defined in disassembly can be edited.</translation>
+      <translation>&apos;এই ভেরিয়েবল সম্পাদনা করা যাবে না।&lt;br&gt;কেবল বিচ্ছিন্নকরণে সংজ্ঞায়িত স্থানীয় ভেরিয়েবল সম্পাদনা করা যাবে।</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="413"/>
       <source>Define this function at %2</source>
-      <translation type="unfinished">Define this function at %2</translation>
+      <translation>এই ফাংশনটি %2-এ সংজ্ঞায়িত করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="414"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="421"/>
       <source>Function name:</source>
-      <translation type="unfinished">Function name:</translation>
+      <translation>ফাংশনের নাম:</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="420"/>
       <source>Rename function %2</source>
-      <translation type="unfinished">Rename function %2</translation>
+      <translation>%2 ফাংশনের পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="431"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="455"/>
       <source>Rename %2</source>
-      <translation type="unfinished">Rename %2</translation>
+      <translation>%2ঃ-এর পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="431"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="439"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="456"/>
       <source>Enter name</source>
-      <translation type="unfinished">Enter name</translation>
+      <translation>নাম লিখুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="438"/>
       <source>Add name to %2</source>
-      <translation type="unfinished">Add name to %2</translation>
+      <translation>%2-এ নাম যোগ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="449"/>
       <source>Rename local variable %1</source>
-      <translation type="unfinished">Rename local variable %1</translation>
+      <translation>লোকাল ভেরিয়েবল %1-এর পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="450"/>
       <source>Can&apos;t rename this variable. Only local variables defined in disassembly can be renamed.</source>
-      <translation type="unfinished">Can&apos;t rename this variable. Only local variables defined in disassembly can be renamed.</translation>
+      <translation>&apos;এই ভেরিয়েবলের পুনঃনামকরণ করা যাবে না। কেবল বিচ্ছিন্নকরণে সংজ্ঞায়িত স্থানীয় ভেরিয়েবলের নাম পরিবর্তন করা যাবে।</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="475"/>
       <source>Edit local variable %1</source>
-      <translation type="unfinished">Edit local variable %1</translation>
+      <translation>লোকাল ভেরিয়েবল %1 সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="476"/>
       <source>Can&apos;t edit this variable. Only local variables defined in disassembly can be edited.</source>
-      <translation type="unfinished">Can&apos;t edit this variable. Only local variables defined in disassembly can be edited.</translation>
+      <translation>&apos;এই ভেরিয়েবল সম্পাদনা করা যাবে না। কেবল বিচ্ছিন্নকরণে সংজ্ঞায়িত স্থানীয় ভেরিয়েবল সম্পাদনা করা যাবে।</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="542"/>
       <source>Breakpoint</source>
-      <translation type="unfinished">Breakpoint</translation>
+      <translation>ব্রেকপয়েন্ট</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="552"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>ডিবাগ</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="582"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="584"/>
       <source>Show %1 in</source>
-      <translation type="unfinished">Show %1 in</translation>
+      <translation>দেখান</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="589"/>
       <source>%1 (%2)</source>
-      <translation type="unfinished">%1 (%2)</translation>
+      <translation>%1 (%2)</translation>
     </message>
   </context>
   <context>
@@ -2736,37 +2736,37 @@ Please check the console for more details.</source>
       <location filename="../widgets/DecompilerWidget.ui" line="14"/>
       <location filename="../widgets/DecompilerWidget.cpp" line="483"/>
       <source>Decompiler</source>
-      <translation type="unfinished">Decompiler</translation>
+      <translation>ডিকম্পাইলার</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.ui" line="53"/>
       <source>Decompiling...</source>
-      <translation type="unfinished">Decompiling...</translation>
+      <translation>ডিকম্পাইল করা হচ্ছে...</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.ui" line="75"/>
       <source>Decompiler:</source>
-      <translation type="unfinished">Decompiler:</translation>
+      <translation>ডিকম্পাইলার:</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="32"/>
       <source>Choose an offset and refresh to get decompiled code</source>
-      <translation type="unfinished">Choose an offset and refresh to get decompiled code</translation>
+      <translation>ডিকম্পাইল করা কোড পেতে একটি অফসেট বেছে নিন এবং রিফ্রেশ করুন</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="68"/>
       <source>No Decompiler available.</source>
-      <translation type="unfinished">No Decompiler available.</translation>
+      <translation>কোনো ডিকম্পাইলার নেই।</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="285"/>
       <source>No function found at this offset. Seek to a function or define one in order to decompile it.</source>
-      <translation type="unfinished">No function found at this offset. Seek to a function or define one in order to decompile it.</translation>
+      <translation>এই অফসেটে কোনো ফাংশন পাওয়া যায়নি। একটি ফাংশন সন্ধান করুন বা  ডিকম্পাইল করার জন্য একটিকে সংজ্ঞায়িত করুন।</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="325"/>
       <source>Cannot decompile at this address (Not a function?)</source>
-      <translation type="unfinished">Cannot decompile at this address (Not a function?)</translation>
+      <translation>এই ঠিকানায় ডিকম্পাইল করা যাচ্ছে না (ফাংশন নয়?)</translation>
     </message>
   </context>
   <context>
@@ -2774,32 +2774,32 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="98"/>
       <source>Highlight block</source>
-      <translation type="unfinished">Highlight block</translation>
+      <translation>ব্লক হাইলাইট করুন</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="116"/>
       <source>Unhighlight block</source>
-      <translation type="unfinished">Unhighlight block</translation>
+      <translation>ব্লকের হাইলাইট তুলে দিন</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="126"/>
       <source>Highlight instruction</source>
-      <translation type="unfinished">Highlight instruction</translation>
+      <translation>নির্দেশনা হাইলাইট করুন</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="130"/>
       <source>Unhighlight instruction</source>
-      <translation type="unfinished">Unhighlight instruction</translation>
+      <translation>নির্দেশনার হাইলাইট তুলে দিন</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="196"/>
       <source>Graph</source>
-      <translation type="unfinished">Graph</translation>
+      <translation>গ্রাফ</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="211"/>
       <source>No function detected. Cannot display graph.</source>
-      <translation type="unfinished">No function detected. Cannot display graph.</translation>
+      <translation>কোনো ফাংশন শনাক্ত করা হয়নি। গ্রাফ প্রদর্শন করা যাচ্ছে না।</translation>
     </message>
   </context>
   <context>
@@ -2807,23 +2807,23 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="72"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>কপি করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="75"/>
       <source>Copy address</source>
-      <translation type="unfinished">Copy address</translation>
+      <translation>ঠিকানা কপি করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="79"/>
       <source>Show in</source>
-      <translation type="unfinished">Show in</translation>
+      <translation>দেখান</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="84"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="570"/>
       <source>Add Comment</source>
-      <translation type="unfinished">Add Comment</translation>
+      <translation>মন্তব্য যোগ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="171"/>
@@ -2968,7 +2968,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="248"/>
       <source>Remove</source>
-      <translation type="unfinished">Remove</translation>
+      <translation>সরিয়ে নিন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="250"/>
@@ -3033,7 +3033,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="312"/>
       <source>Add/remove breakpoint</source>
-      <translation type="unfinished">Add/remove breakpoint</translation>
+      <translation>ব্রেকপয়েন্ট যোগ করুন/সরিয়ে নিন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="315"/>
@@ -3089,7 +3089,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="606"/>
       <source>Remove breakpoint</source>
-      <translation type="unfinished">Remove breakpoint</translation>
+      <translation>ব্রেকপয়েন্ট সরিয়ে নিন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="606"/>
@@ -5962,7 +5962,7 @@ Save your project before closing!</translation>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="519"/>
       <source>Remove item</source>
-      <translation type="unfinished">Remove item</translation>
+      <translation>আইটেম সরিয়ে নিন</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="524"/>
@@ -6954,13 +6954,13 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="159"/>
       <source>Remove item</source>
-      <translation type="unfinished">Remove item</translation>
+      <translation>আইটেম সরিয়ে নিন</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="164"/>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="167"/>
       <source>Remove all</source>
-      <translation type="unfinished">Remove all</translation>
+      <translation>সব সরিয়ে নিন</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.cpp" line="57"/>
