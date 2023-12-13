@@ -2007,12 +2007,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="458"/>
       <source>Graph Export</source>
-      <translation type="unfinished">Graph Export</translation>
+      <translation>গ্রাফ প্রেরণ</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="459"/>
       <source>Do you really want to export %1 x %2 = %3 pixel bitmap image? Consider using different format.</source>
-      <translation type="unfinished">Do you really want to export %1 x %2 = %3 pixel bitmap image? Consider using different format.</translation>
+      <translation>আপনি কি সত্যিই %1 x %2 = %3 পিক্সেল বিটম্যাপ ছবি প্রেরণ করতে চান? বিভিন্ন বিন্যাস ব্যবহার বিবেচনা করুন।</translation>
     </message>
   </context>
   <context>
@@ -2020,12 +2020,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../common/CutterSeekable.cpp" line="73"/>
       <source>More than one (%1) references here. Weird behaviour expected.</source>
-      <translation type="unfinished">More than one (%1) references here. Weird behaviour expected.</translation>
+      <translation>এখানে একাধিক (%1) রেফারেন্স উল্লেখ রয়েছে। অস্বাভাবিক আচরণ প্রত্যাশিত।</translation>
     </message>
     <message>
       <location filename="../widgets/AddressableDockWidget.cpp" line="45"/>
       <source> (unsynced)</source>
-      <translation type="unfinished"> (unsynced)</translation>
+      <translation> (সিঙ্ক করা নেই)</translation>
     </message>
   </context>
   <context>
@@ -2033,7 +2033,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/CutterTreeWidget.cpp" line="19"/>
       <source>%1 Items</source>
-      <translation type="unfinished">%1 Items</translation>
+      <translation>%1 টি আইটেম</translation>
     </message>
   </context>
   <context>
@@ -2041,17 +2041,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/Dashboard.ui" line="116"/>
       <source>OVERVIEW</source>
-      <translation type="unfinished">OVERVIEW</translation>
+      <translation>ওভারভিউ</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="140"/>
       <source>Info</source>
-      <translation type="unfinished">Info</translation>
+      <translation>তথ্য</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="178"/>
       <source>File:</source>
-      <translation type="unfinished">File:</translation>
+      <translation>ফাইল:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="188"/>
@@ -2081,213 +2081,213 @@ Please check the console for more details.</source>
       <location filename="../widgets/Dashboard.ui" line="913"/>
       <location filename="../widgets/Dashboard.ui" line="942"/>
       <source>--</source>
-      <translation type="unfinished">--</translation>
+      <translation>--</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="207"/>
       <source>Format:</source>
-      <translation type="unfinished">Format:</translation>
+      <translation>ফরম্যাট:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="236"/>
       <source>Mode:</source>
-      <translation type="unfinished">Mode:</translation>
+      <translation>মোড:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="265"/>
       <source>Size:</source>
-      <translation type="unfinished">Size:</translation>
+      <translation>আকার:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="281"/>
       <source>Type:</source>
-      <translation type="unfinished">Type:</translation>
+      <translation>ধরন:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="310"/>
       <source>Class:</source>
-      <translation type="unfinished">Class:</translation>
+      <translation>ক্লাস:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="339"/>
       <source>Language:</source>
-      <translation type="unfinished">Language:</translation>
+      <translation>ভাষা:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="368"/>
       <source>Bits:</source>
-      <translation type="unfinished">Bits:</translation>
+      <translation>বিট:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="426"/>
       <source>FD:</source>
-      <translation type="unfinished">FD:</translation>
+      <translation>FD:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="455"/>
       <source>Base addr:</source>
-      <translation type="unfinished">Base addr:</translation>
+      <translation>ভিত্তি ঠিকানা:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="484"/>
       <source>Virtual addr:</source>
-      <translation type="unfinished">Virtual addr:</translation>
+      <translation>ভার্চুয়াল ঠিকানা:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="513"/>
       <source>Canary:</source>
-      <translation type="unfinished">Canary:</translation>
+      <translation>ক্যানারি:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="542"/>
       <source>Crypto:</source>
-      <translation type="unfinished">Crypto:</translation>
+      <translation>ক্রিপ্টো:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="571"/>
       <source>NX bit:</source>
-      <translation type="unfinished">NX bit:</translation>
+      <translation>NX বিট:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="600"/>
       <source>PIC:</source>
-      <translation type="unfinished">PIC:</translation>
+      <translation>PIC:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="629"/>
       <source>Static:</source>
-      <translation type="unfinished">Static:</translation>
+      <translation>স্থির:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="645"/>
       <source>Relro:</source>
-      <translation type="unfinished">Relro:</translation>
+      <translation>Relro:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="700"/>
       <source>Architecture:</source>
-      <translation type="unfinished">Architecture:</translation>
+      <translation>স্থাপত্য:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="729"/>
       <source>Machine:</source>
-      <translation type="unfinished">Machine:</translation>
+      <translation>যন্ত্র:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="758"/>
       <source>OS:</source>
-      <translation type="unfinished">OS:</translation>
+      <translation>OS:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="787"/>
       <source>Subsystem:</source>
-      <translation type="unfinished">Subsystem:</translation>
+      <translation>সাবসিস্টেম:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="816"/>
       <source>Stripped:</source>
-      <translation type="unfinished">Stripped:</translation>
+      <translation>সরানো হয়েছে:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="845"/>
       <source>Relocs:</source>
-      <translation type="unfinished">Relocs:</translation>
+      <translation>Relocs:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="874"/>
       <source>Endianness:</source>
-      <translation type="unfinished">Endianness:</translation>
+      <translation>Endianness:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="903"/>
       <source>Compiled:</source>
-      <translation type="unfinished">Compiled:</translation>
+      <translation>সংকলিত:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="932"/>
       <source>Compiler:</source>
-      <translation type="unfinished">Compiler:</translation>
+      <translation>সংকলক:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="993"/>
       <location filename="../widgets/Dashboard.cpp" line="176"/>
       <source>Certificates</source>
-      <translation type="unfinished">Certificates</translation>
+      <translation>সনদ</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1006"/>
       <source>Version info</source>
-      <translation type="unfinished">Version info</translation>
+      <translation>সংস্করণের তথ্য</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1034"/>
       <source>Hashes</source>
-      <translation type="unfinished">Hashes</translation>
+      <translation>হ্যাশ</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1051"/>
       <source>Libraries</source>
-      <translation type="unfinished">Libraries</translation>
+      <translation>লাইব্রেরি</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1083"/>
       <source>Analysis info</source>
-      <translation type="unfinished">Analysis info</translation>
+      <translation>বিশ্লেষণের তথ্য</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1107"/>
       <source>Functions:</source>
-      <translation type="unfinished">Functions:</translation>
+      <translation>ফাংশন:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1133"/>
       <source>X-Refs:</source>
-      <translation type="unfinished">X-Refs:</translation>
+      <translation>X-রেফারেন্স:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1159"/>
       <source>Calls:</source>
-      <translation type="unfinished">Calls:</translation>
+      <translation>কল:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1185"/>
       <source>Strings:</source>
-      <translation type="unfinished">Strings:</translation>
+      <translation>স্ট্রিং:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1211"/>
       <source>Symbols:</source>
-      <translation type="unfinished">Symbols:</translation>
+      <translation>প্রতীক:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1237"/>
       <source>Imports:</source>
-      <translation type="unfinished">Imports:</translation>
+      <translation>আনীত:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1263"/>
       <source>Analysis coverage:</source>
-      <translation type="unfinished">Analysis coverage:</translation>
+      <translation>বিশ্লেষণ কভারেজ:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1289"/>
       <source>Code size:</source>
-      <translation type="unfinished">Code size:</translation>
+      <translation>কোডের আকার:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1315"/>
       <source>Coverage percent:</source>
-      <translation type="unfinished">Coverage percent:</translation>
+      <translation>কভারেজের শতাংশ:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="162"/>
       <source>Key</source>
-      <translation type="unfinished">Key</translation>
+      <translation>চাবি</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="162"/>
       <source>Value</source>
-      <translation type="unfinished">Value</translation>
+      <translation>মান</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="163"/>
@@ -2433,12 +2433,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="359"/>
       <source>Error attaching. No process selected!</source>
-      <translation type="unfinished">Error attaching. No process selected!</translation>
+      <translation>সংযুক্ত করার সময় ত্রুটি৷ কোনো প্রক্রিয়া নির্বাচন করা হয়নি!</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="388"/>
       <source>File &apos;%1&apos; does not have executable permissions.</source>
-      <translation type="unfinished">File &apos;%1&apos; does not have executable permissions.</translation>
+      <translation>&apos;%1&apos; ফাইলের চালানোর অনুমতি নেই।</translation>
     </message>
   </context>
   <context>
@@ -2446,52 +2446,52 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="14"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>ডিবাগ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="30"/>
       <source>Debug plugin:</source>
-      <translation type="unfinished">Debug plugin:</translation>
+      <translation>ডিবাগ প্লাগইন:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="42"/>
       <source>ESIL options</source>
-      <translation type="unfinished">ESIL options</translation>
+      <translation>ESIL বিকল্পসমূহ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="54"/>
       <source>Break esil execution when instruction is invalid (esil.breakoninvalid)</source>
-      <translation type="unfinished">Break esil execution when instruction is invalid (esil.breakoninvalid)</translation>
+      <translation>নির্দেশনা অবৈধ হলে esil কার্যকর করা বন্ধ করুন (esil.breakoninvalid)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="69"/>
       <source>ESIL stack address:</source>
-      <translation type="unfinished">ESIL stack address:</translation>
+      <translation>ESIL স্ট্যাক করার ঠিকানা:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="79"/>
       <source>Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</source>
-      <translation type="unfinished">Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</translation>
+      <translation>জুম আউটের সময় টেক্সট লুকান এবং তা প্রদত্ত মান থেকে ছোট। উচ্চ মান কর্মক্ষমতা বৃদ্ধি করতে পারে।</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="82"/>
       <source>ESIL stack size:</source>
-      <translation type="unfinished">ESIL stack size:</translation>
+      <translation>ESIL স্ট্যাক-এর আকার:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="100"/>
       <source>Trace options</source>
-      <translation type="unfinished">Trace options</translation>
+      <translation>ট্রেস বিকল্পসমূহ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="109"/>
       <source>Trace each step during continue in a trace session (dbg.trace_continue)</source>
-      <translation type="unfinished">Trace each step during continue in a trace session (dbg.trace_continue)</translation>
+      <translation>কোনো ট্রেস সেশন চালিয়ে যাওয়ার সময় প্রতিটি ধাপ ট্রেস করুন (dbg.trace_continue)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="112"/>
       <source>Disabling this option means that stepping back after continue will return to the previous PC. Significantly improves performance.</source>
-      <translation type="unfinished">Disabling this option means that stepping back after continue will return to the previous PC. Significantly improves performance.</translation>
+      <translation>এই বিকল্প নিষ্ক্রিয় করার মানে হলো চালিয়ে যাওয়ার পরে ফিরে গেলে তা আগের পিসিতে ফিরে আসবে। উল্লেখযোগ্যভাবে কর্মক্ষমতাতাবাড়ায়।</translation>
     </message>
   </context>
   <context>
@@ -2499,89 +2499,89 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="26"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>কপি করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="27"/>
       <source>Copy instruction address (&lt;address&gt;)</source>
-      <translation type="unfinished">Copy instruction address (&lt;address&gt;)</translation>
+      <translation>নির্দেশনার ঠিকানা কপি করুন (&lt;address&gt;)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="28"/>
       <source>Copy address of [flag] (&lt;address&gt;)</source>
-      <translation type="unfinished">Copy address of [flag] (&lt;address&gt;)</translation>
+      <translation>[flag] (&lt;address&gt;)-এর ঠিকানা কপি করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="29"/>
       <source>Show in</source>
-      <translation type="unfinished">Show in</translation>
+      <translation>দেখান</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="30"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="166"/>
       <source>Add Comment</source>
-      <translation type="unfinished">Add Comment</translation>
+      <translation>মন্তব্য যোগ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="31"/>
       <source>Delete comment</source>
-      <translation type="unfinished">Delete comment</translation>
+      <translation>মন্তব্য মুছে ফেলুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="32"/>
       <source>Rename function at cursor</source>
-      <translation type="unfinished">Rename function at cursor</translation>
+      <translation>কার্সারে ফাংশনের নাম পরিবর্তন করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="33"/>
       <source>Delete &lt;name&gt;</source>
-      <translation type="unfinished">Delete &lt;name&gt;</translation>
+      <translation>&lt;name&gt; মুছে ফেলুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="34"/>
       <source>Edit variable &lt;name of variable&gt;</source>
-      <translation type="unfinished">Edit variable &lt;name of variable&gt;</translation>
+      <translation>&lt;name of variable&gt; ভেরিয়েবল সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="35"/>
       <source>Show X-Refs</source>
-      <translation type="unfinished">Show X-Refs</translation>
+      <translation>X-রেফারেন্স দেখান</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="36"/>
       <source>Add/remove breakpoint</source>
-      <translation type="unfinished">Add/remove breakpoint</translation>
+      <translation>ব্রেকপয়েন্ট যোগ/অপসারণ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="37"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="197"/>
       <source>Advanced breakpoint</source>
-      <translation type="unfinished">Advanced breakpoint</translation>
+      <translation>অ্যাডভান্সড ব্রেকপয়েন্ট </translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="39"/>
       <source>Continue until line</source>
-      <translation type="unfinished">Continue until line</translation>
+      <translation>লাইন পর্যন্ত চালিয়ে যান</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="40"/>
       <source>Set PC</source>
-      <translation type="unfinished">Set PC</translation>
+      <translation>PC সেট করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="169"/>
       <source>Edit Comment</source>
-      <translation type="unfinished">Edit Comment</translation>
+      <translation>মন্তব্য সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="185"/>
       <source>Add breakpoint</source>
-      <translation type="unfinished">Add breakpoint</translation>
+      <translation>ব্রেকপয়েন্ট যোগ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="187"/>
       <source>Remove breakpoint</source>
-      <translation type="unfinished">Remove breakpoint</translation>
+      <translation>ব্রেকপয়েন্ট অপসারণ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="189"/>
