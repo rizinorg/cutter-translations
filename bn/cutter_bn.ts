@@ -1248,7 +1248,7 @@
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="276"/>
       <source>Command</source>
-      <translation>আদেশ</translation>
+      <translation>কমান্ড</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="21"/>
@@ -1736,22 +1736,22 @@
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="153"/>
       <source>Execute command</source>
-      <translation type="unfinished">Execute command</translation>
+      <translation>কমান্ড নির্বাহ করুন</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="159"/>
       <source>...</source>
-      <translation type="unfinished">...</translation>
+      <translation>...</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.cpp" line="76"/>
       <source>Clear Output</source>
-      <translation type="unfinished">Clear Output</translation>
+      <translation>আউটপুট মুছে ফেলুন</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.cpp" line="85"/>
       <source>Wrap Lines</source>
-      <translation type="unfinished">Wrap Lines</translation>
+      <translation>র‍্যাপ লাইন</translation>
     </message>
   </context>
   <context>
@@ -1760,7 +1760,7 @@
       <location filename="../core/Cutter.cpp" line="274"/>
       <location filename="../core/Cutter.cpp" line="287"/>
       <source>Loading initialization file from </source>
-      <translation type="unfinished">Loading initialization file from </translation>
+      <translation>যেখান থেকে থেকে ইনিশিয়ালাইজিং ফাইল লোড হচ্ছে: </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1057"/>
@@ -1769,107 +1769,107 @@
       <location filename="../core/Cutter.cpp" line="1081"/>
       <location filename="../core/Cutter.cpp" line="1085"/>
       <source>Signatures</source>
-      <translation type="unfinished">Signatures</translation>
+      <translation>স্বাক্ষর</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1058"/>
       <source>Cannot apply signature file because the requested arch is not supported by .sig files</source>
-      <translation type="unfinished">Cannot apply signature file because the requested arch is not supported by .sig files</translation>
+      <translation>স্বাক্ষর ফাইল প্রয়োগ করা যাবে না কারণ অনুরোধকৃত আর্চ .sig ফাইল দ্বারা সমর্থিত নয়</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1067"/>
       <source>Found %1 matching signatures!</source>
-      <translation type="unfinished">Found %1 matching signatures!</translation>
+      <translation>%1 মিল যুক্ত স্বাক্ষর পাওয়া গেছে!</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1072"/>
       <source>Failed to apply signature file!
 Please check the console for more details.</source>
-      <translation type="unfinished">Failed to apply signature file!
-Please check the console for more details.</translation>
+      <translation>স্বাক্ষর ফাইল প্রয়োগ করা যায়নি!
+আরো বিস্তারিত তথ্যের জন্য কনসোল পরীক্ষা করুন।</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1082"/>
       <source>Cannot create signature file (check the console for more details).</source>
-      <translation type="unfinished">Cannot create signature file (check the console for more details).</translation>
+      <translation>স্বাক্ষর ফাইল তৈরি করা যাবে না (আরো বিস্তারিত তথ্যের জন্য কনসোল পরীক্ষা করুন)।</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1086"/>
       <source>Written %1 signatures to %2.</source>
-      <translation type="unfinished">Written %1 signatures to %2.</translation>
+      <translation>লিখিত %1 স্বাক্ষর সম্বলিত %2।</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1987"/>
       <source>Starting native debug...</source>
-      <translation type="unfinished">Starting native debug...</translation>
+      <translation>নেটিভ ডিবাগ শুরু হচ্ছে...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2035"/>
       <source>Starting emulation...</source>
-      <translation type="unfinished">Starting emulation...</translation>
+      <translation>এমিউলেশন শুরু হচ্ছে...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2098"/>
       <source>Connecting to: </source>
-      <translation type="unfinished">Connecting to: </translation>
+      <translation>যাতে সংযোগ করা হচ্ছে: </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2150"/>
       <source>Attaching to process (</source>
-      <translation type="unfinished">Attaching to process (</translation>
+      <translation>প্রক্রিয়ায় সংযুক্ত করা হচ্ছে (</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2607"/>
       <source>Creating debug tracepoint...</source>
-      <translation type="unfinished">Creating debug tracepoint...</translation>
+      <translation>ডিবাগ ট্রেসপয়েন্ট তৈরি করা হচ্ছে...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2652"/>
       <source>Stopping debug session...</source>
-      <translation type="unfinished">Stopping debug session...</translation>
+      <translation>ডিবাগ সেশন বন্ধ করা হচ্ছে...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2687"/>
       <source>Breakpoint error</source>
-      <translation type="unfinished">Breakpoint error</translation>
+      <translation>ব্রেকপয়েন্ট ত্রুটি</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2687"/>
       <source>Failed to create breakpoint</source>
-      <translation type="unfinished">Failed to create breakpoint</translation>
+      <translation>ব্রেকপয়েন্ট তৈরি করা যায়নি</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="3627"/>
       <source>Unknown (%1)</source>
-      <translation type="unfinished">Unknown (%1)</translation>
+      <translation>অজানা (%1)</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4059"/>
       <location filename="../core/Cutter.cpp" line="4088"/>
       <source>Error parsing type: &quot;%1&quot; message: </source>
-      <translation type="unfinished">Error parsing type: &quot;%1&quot; message: </translation>
+      <translation>পার্সিং ধরনের ত্রুটি: &quot;%1&quot; বার্তা: </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4065"/>
       <source>Error creating global variable: &quot;%1&quot;</source>
-      <translation type="unfinished">Error creating global variable: &quot;%1&quot;</translation>
+      <translation>গ্লোবাল ভেরিয়েবল তৈরিতে ত্রুটি: &quot;%1&quot;</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4658"/>
       <location filename="../core/Cutter.cpp" line="4709"/>
       <source>Cannot get global graph</source>
-      <translation type="unfinished">Cannot get global graph</translation>
+      <translation>গ্লোবাল গ্রাফ পাওয়া যাচ্ছে না</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4660"/>
       <location filename="../core/Cutter.cpp" line="4711"/>
       <source>Cannot get graph at </source>
-      <translation type="unfinished">Cannot get graph at </translation>
+      <translation>এখানে গ্রাফ পাওয়া যাচ্ছে না:  </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4691"/>
       <source>Failed to generate graph</source>
-      <translation type="unfinished">Failed to generate graph</translation>
+      <translation>গ্রাফ তৈরি করা যায়নি</translation>
     </message>
   </context>
   <context>
@@ -1878,131 +1878,131 @@ Please check the console for more details.</translation>
       <location filename="../widgets/CutterGraphView.cpp" line="30"/>
       <location filename="../widgets/CutterGraphView.cpp" line="440"/>
       <source>Export Graph</source>
-      <translation type="unfinished">Export Graph</translation>
+      <translation>গ্রাফ প্রেরণ করুন</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="42"/>
       <source>Layout</source>
-      <translation type="unfinished">Layout</translation>
+      <translation>লে-আউট</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="43"/>
       <source>Horizontal</source>
-      <translation type="unfinished">Horizontal</translation>
+      <translation>অনুভূমিক</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="47"/>
       <source>Grid narrow</source>
-      <translation type="unfinished">Grid narrow</translation>
+      <translation>গ্রিড সরু</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="48"/>
       <source>Grid medium</source>
-      <translation type="unfinished">Grid medium</translation>
+      <translation>গ্রিড মাঝারি</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="49"/>
       <source>Grid wide</source>
-      <translation type="unfinished">Grid wide</translation>
+      <translation>গ্রিড প্রশস্ত</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="63"/>
       <source>Graphviz polyline</source>
-      <translation type="unfinished">Graphviz polyline</translation>
+      <translation>গ্রাফভিজ পলিলাইন</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="64"/>
       <source>Graphviz ortho</source>
-      <translation type="unfinished">Graphviz ortho</translation>
+      <translation>গ্রাফভিজ অর্থো</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="65"/>
       <source>Graphviz sfdp</source>
-      <translation type="unfinished">Graphviz sfdp</translation>
+      <translation>গ্রাফভিজ sfdp</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="66"/>
       <source>Graphviz neato</source>
-      <translation type="unfinished">Graphviz neato</translation>
+      <translation>গ্রাফভিজ neato</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="67"/>
       <source>Graphviz twopi</source>
-      <translation type="unfinished">Graphviz twopi</translation>
+      <translation>গ্রাফভিজ twopi</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="68"/>
       <source>Graphviz circo</source>
-      <translation type="unfinished">Graphviz circo</translation>
+      <translation>গ্রাফভিজ circo</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="409"/>
       <source>PNG (*.png)</source>
-      <translation type="unfinished">PNG (*.png)</translation>
+      <translation>PNG (*.png)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="410"/>
       <source>JPEG (*.jpg)</source>
-      <translation type="unfinished">JPEG (*.jpg)</translation>
+      <translation>JPEG (*.jpg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="411"/>
       <source>SVG (*.svg)</source>
-      <translation type="unfinished">SVG (*.svg)</translation>
+      <translation>SVG (*.svg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="415"/>
       <source>Graphviz dot (*.dot)</source>
-      <translation type="unfinished">Graphviz dot (*.dot)</translation>
+      <translation>গ্রাফভিজ ডট (*.dot)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="416"/>
       <source>Graph Modelling Language (*.gml)</source>
-      <translation type="unfinished">Graph Modelling Language (*.gml)</translation>
+      <translation>গ্রাফ মডেলিং ভাষা (*.gml)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="418"/>
       <source>RZ JSON (*.json)</source>
-      <translation type="unfinished">RZ JSON (*.json)</translation>
+      <translation>RZ JSON (*.json)</translation>
     </message>
     <message>
       <source>SDB key-value (*.txt)</source>
-      <translation type="unfinished">SDB key-value (*.txt)</translation>
+      <translation>SDB কি-ভ্যালু (*.txt)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="424"/>
       <source>Graphviz json (*.json)</source>
-      <translation type="unfinished">Graphviz json (*.json)</translation>
+      <translation>গ্রাফভিজ json (*.json)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="426"/>
       <source>Graphviz gif (*.gif)</source>
-      <translation type="unfinished">Graphviz gif (*.gif)</translation>
+      <translation>গ্রাফভিজ gif (*.gif)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="428"/>
       <source>Graphviz png (*.png)</source>
-      <translation type="unfinished">Graphviz png (*.png)</translation>
+      <translation>গ্রাফভিজ png (*.png)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="430"/>
       <source>Graphviz jpg (*.jpg)</source>
-      <translation type="unfinished">Graphviz jpg (*.jpg)</translation>
+      <translation>গ্রাফভিজ jpg (*.jpg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="432"/>
       <source>Graphviz PostScript (*.ps)</source>
-      <translation type="unfinished">Graphviz PostScript (*.ps)</translation>
+      <translation>গ্রাফভিজ পোস্টস্ক্রিপ্ট (*.ps)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="434"/>
       <source>Graphviz svg (*.svg)</source>
-      <translation type="unfinished">Graphviz svg (*.svg)</translation>
+      <translation>গ্রাফভিজ svg (*.svg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="436"/>
       <source>Graphviz pdf (*.pdf)</source>
-      <translation type="unfinished">Graphviz pdf (*.pdf)</translation>
+      <translation>গ্রাফভিজ pdf (*.pdf)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="458"/>
@@ -2292,12 +2292,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="163"/>
       <source>root</source>
-      <translation type="unfinished">root</translation>
+      <translation>মূল</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="204"/>
       <source>N/A</source>
-      <translation type="unfinished">N/A</translation>
+      <translation>প্রযোজ্য নয়</translation>
     </message>
   </context>
   <context>
@@ -2305,72 +2305,72 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="37"/>
       <source>Start emulation</source>
-      <translation type="unfinished">Start emulation</translation>
+      <translation>এমিউলেশন শুরু করুন</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="38"/>
       <source>Attach to process</source>
-      <translation type="unfinished">Attach to process</translation>
+      <translation>প্রক্রিয়ায় সংযুক্ত করুন</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="39"/>
       <source>Connect to a remote debugger</source>
-      <translation type="unfinished">Connect to a remote debugger</translation>
+      <translation>রিমোট ডিবাগারের সাথে সংযোগ করুন</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="40"/>
       <source>Stop debug</source>
-      <translation type="unfinished">Stop debug</translation>
+      <translation>ডিবাগ বন্ধ করুন</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="41"/>
       <source>Stop emulation</source>
-      <translation type="unfinished">Stop emulation</translation>
+      <translation>এমিউলেশন বন্ধ করুন</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="42"/>
       <source>Restart emulation</source>
-      <translation type="unfinished">Restart emulation</translation>
+      <translation>পুনরায় এমিউলেশন শুরু করুন</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="43"/>
       <source>Continue until main</source>
-      <translation type="unfinished">Continue until main</translation>
+      <translation>প্রধান পর্যন্ত চালিয়ে যান</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="44"/>
       <source>Continue until call</source>
-      <translation type="unfinished">Continue until call</translation>
+      <translation>কল পর্যন্ত চালিয়ে যান</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="45"/>
       <source>Continue until syscall</source>
-      <translation type="unfinished">Continue until syscall</translation>
+      <translation>সিসকল পর্যন্ত চালিয়ে যান</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="46"/>
       <source>Continue backwards</source>
-      <translation type="unfinished">Continue backwards</translation>
+      <translation>পিছনের দিকে চালিয়ে যান</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="47"/>
       <source>Step</source>
-      <translation type="unfinished">Step</translation>
+      <translation>পদক্ষেপ</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="48"/>
       <source>Step over</source>
-      <translation type="unfinished">Step over</translation>
+      <translation>এগিয়ে যান</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="49"/>
       <source>Step out</source>
-      <translation type="unfinished">Step out</translation>
+      <translation>বাইরে যান</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="50"/>
       <source>Step backwards</source>
-      <translation type="unfinished">Step backwards</translation>
+      <translation>পিছনে যান</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="51"/>
