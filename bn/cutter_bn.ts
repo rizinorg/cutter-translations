@@ -532,7 +532,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="272"/>
       <source>Flags (asm.reloff.flags)</source>
-      <translation>ফ্ল্যাগ (asm.reloff.flags)</translation>
+      <translation>পতাকা (asm.reloff.flags)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="183"/>
@@ -702,7 +702,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="454"/>
       <source>Show offset before flags (asm.flags.off)</source>
-      <translation>ফ্ল্যাগ-এর আগে অফসেট দেখান (asm.flags.off)</translation>
+      <translation>পতাকা-এর আগে অফসেট দেখান (asm.flags.off)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="461"/>
@@ -2509,7 +2509,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="28"/>
       <source>Copy address of [flag] (&lt;address&gt;)</source>
-      <translation>[flag] (&lt;address&gt;)-এর ঠিকানা কপি করুন</translation>
+      <translation>[পতাকা] (&lt;address&gt;)-এর ঠিকানা কপি করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="29"/>
@@ -2828,63 +2828,63 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="171"/>
       <source>Add at...</source>
-      <translation type="unfinished">Add at...</translation>
+      <translation>...-এ যোগ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="173"/>
       <source>Rename or add flag</source>
-      <translation type="unfinished">Rename or add flag</translation>
+      <translation>পুনঃনামকরণ করুন বা পতাকা যোগ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="88"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="911"/>
       <source>Re-type Local Variables</source>
-      <translation type="unfinished">Re-type Local Variables</translation>
+      <translation>লোকাল ভেরিয়েবল পুনরায় টাইপ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="92"/>
       <source>Edit function</source>
-      <translation type="unfinished">Edit function</translation>
+      <translation>ফাংশন সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="96"/>
       <source>Delete comment</source>
-      <translation type="unfinished">Delete comment</translation>
+      <translation>মন্তব্য মুছে ফেলুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="100"/>
       <source>Delete flag</source>
-      <translation type="unfinished">Delete flag</translation>
+      <translation>পতাকা মুছে ফেলুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="103"/>
       <source>Undefine function</source>
-      <translation type="unfinished">Undefine function</translation>
+      <translation>অনির্ধারিত ফাংশন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="107"/>
       <source>Define function here</source>
-      <translation type="unfinished">Define function here</translation>
+      <translation>এখানে ফাংশন সংজ্ঞায়িত করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="119"/>
       <source>Structure offset</source>
-      <translation type="unfinished">Structure offset</translation>
+      <translation>কাঠামো অফসেট</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="127"/>
       <source>Show X-Refs</source>
-      <translation type="unfinished">Show X-Refs</translation>
+      <translation>X-রেফারেন্স দেখান</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="131"/>
       <source>X-Refs for local variables</source>
-      <translation type="unfinished">X-Refs for local variables</translation>
+      <translation>লোকাল ভেরিয়েবলের জন্য X-রেফারেন্স</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="135"/>
       <source>Show Options</source>
-      <translation type="unfinished">Show Options</translation>
+      <translation>বিকল্প দেখান</translation>
     </message>
     <message>
       <source>Set Immediate Base to...</source>
@@ -3370,17 +3370,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="14"/>
       <source>Add Flag</source>
-      <translation type="unfinished">Add Flag</translation>
+      <translation>পতাকা যোগ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="20"/>
       <source>Add flag at</source>
-      <translation type="unfinished">Add flag at</translation>
+      <translation>-এ পতাকা যোগ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="38"/>
       <source>Flag:</source>
-      <translation type="unfinished">Flag:</translation>
+      <translation>পতাকা:</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="61"/>
