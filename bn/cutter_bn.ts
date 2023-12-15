@@ -5636,57 +5636,57 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="845"/>
       <source>Open the file in write mode. Every change to the file will change the original file on disk.</source>
-      <translation type="unfinished">Open the file in write mode. Every change to the file will change the original file on disk.</translation>
+      <translation>ফাইলটি লিখন মোডে খুলুন। ফাইলের প্রতিটি পরিবর্তন ডিস্কের মূল ফাইলটি পরিবর্তন করবে।</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="853"/>
       <source>Cache mode</source>
-      <translation type="unfinished">Cache mode</translation>
+      <translation>ক্যাশ মোড</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="856"/>
       <source>Enable cache mode. Changes to the file would not be applied to disk unless you specifically commit them. This is a safer option.</source>
-      <translation type="unfinished">Enable cache mode. Changes to the file would not be applied to disk unless you specifically commit them. This is a safer option.</translation>
+      <translation>ক্যাশ মোড সক্রিয় করুন। ফাইলের পরিবর্তন ডিস্কে প্রয়োগ করা হবে না যদি না আপনি সেগুলোকে বিশেষভাবে সম্পাদন না করেন৷ এটি একটি নিরাপদ বিকল্প।</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="867"/>
       <source>Read-Only mode</source>
-      <translation type="unfinished">Read-Only mode</translation>
+      <translation>রিড-অনলি মোড</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="877"/>
       <source>Manage layouts</source>
-      <translation type="unfinished">Manage layouts</translation>
+      <translation>লে-আউট পরিচালনা করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="256"/>
       <source>No plugins are installed. Check the plugins section on Cutter documentation to learn more.</source>
-      <translation type="unfinished">No plugins are installed. Check the plugins section on Cutter documentation to learn more.</translation>
+      <translation>কোনো প্লাগইন ইনস্টল করা হয় না। আরো জানতে Cutter ডকুমেন্টেশনের প্লাগইন বিভাগ দেখুন।</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="261"/>
       <source>The installed plugins didn&apos;t add entries to this menu.</source>
-      <translation type="unfinished">The installed plugins didn&apos;t add entries to this menu.</translation>
+      <translation>ইনস্টল করা প্লাগইনগুলো এই মেন্যুতে এন্ট্রি যোগ করে&apos;নি৷</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="275"/>
       <source>Analyze the program using Rizin&apos;s &quot;aaa&quot; command</source>
-      <translation type="unfinished">Analyze the program using Rizin&apos;s &quot;aaa&quot; command</translation>
+      <translation>Rizin&quot;aaa&quot; কমান্ড ব্যবহার করে প্রোগ্রামটি বিশ্লেষণ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="542"/>
       <source>Script loading</source>
-      <translation type="unfinished">Script loading</translation>
+      <translation>স্ক্রিপ্ট লোডিং</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="543"/>
       <source>Do you want to load the &apos;%1&apos; script?</source>
-      <translation type="unfinished">Do you want to load the &apos;%1&apos; script?</translation>
+      <translation>আপনি কি &apos;%1&apos; লোড করতে চান?</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="561"/>
       <source>Cannot open file!</source>
-      <translation type="unfinished">Cannot open file!</translation>
+      <translation>ফাইলটি খোলা যাচ্ছে না!</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="562"/>
