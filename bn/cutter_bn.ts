@@ -5691,59 +5691,59 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="562"/>
       <source>Could not open the file! Make sure the file exists and that you have the correct permissions.</source>
-      <translation type="unfinished">Could not open the file! Make sure the file exists and that you have the correct permissions.</translation>
+      <translation>ফাইল খোলা যায়নি! নিশ্চিত করুন যে ফাইলটি বিদ্যমান এবং আপনার কাছে সঠিক অনুমতি রয়েছে।</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="625"/>
       <source>Failed to open project: %1</source>
-      <translation type="unfinished">Failed to open project: %1</translation>
+      <translation>প্রজেক্ট খোলা যায়নি: %1</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="630"/>
       <source>Open Project</source>
-      <translation type="unfinished">Open Project</translation>
+      <translation>প্রজেক্ট খুলুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="752"/>
       <source>Failed to save project: %1</source>
-      <translation type="unfinished">Failed to save project: %1</translation>
+      <translation>প্রজেক্ট সংরক্ষণ করা যায়নি: %1</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="780"/>
       <source>Do you really want to exit?
 Save your project before closing!</source>
-      <translation type="unfinished">Do you really want to exit?
-Save your project before closing!</translation>
+      <translation>আপনি কি সত্যিই প্রস্থান করতে চান?
+বন্ধ করার আগে আপনার প্রকল্প সংরক্ষণ করুন!</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1056"/>
       <source>New disassembly</source>
-      <translation type="unfinished">New disassembly</translation>
+      <translation>নতুন বিচ্ছিন্নকরণ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1058"/>
       <source>New graph</source>
-      <translation type="unfinished">New graph</translation>
+      <translation>নতুন গ্রাফ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1060"/>
       <source>New hexdump</source>
-      <translation type="unfinished">New hexdump</translation>
+      <translation>নতুন হেক্সডাম্প</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1061"/>
       <source>New Decompiler</source>
-      <translation type="unfinished">New Decompiler</translation>
+      <translation>নতুন ডিকম্পাইলার</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1240"/>
       <source>Save layout error</source>
-      <translation type="unfinished">Save layout error</translation>
+      <translation>লে-আউট ত্রুটি সংরক্ষণ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1241"/>
       <source>&apos;%1&apos; is not a valid name.</source>
-      <translation type="unfinished">&apos;%1&apos; is not a valid name.</translation>
+      <translation>&apos;%1&apos; কোনো বৈধ নাম নয়।</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1243"/>
