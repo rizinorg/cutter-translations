@@ -4058,7 +4058,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="105"/>
       <source>Graph Layout Options</source>
-      <translation>গ্রাফ লেআউট বিকল্প</translation>
+      <translation>গ্রাফ লে-আউট বিকল্প</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="124"/>
@@ -4842,148 +4842,148 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="1004"/>
       <source>Path to Rizin script file</source>
-      <translation type="unfinished">Path to Rizin script file</translation>
+      <translation>Rizin স্ক্রিপ্ট ফাইলের পাথ</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="1067"/>
       <source>Cancel</source>
-      <translation type="unfinished">Cancel</translation>
+      <translation>বাতিল করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="1080"/>
       <source>  Ok  </source>
-      <translation type="unfinished">  Ok  </translation>
+      <translation>  Ok  </translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="56"/>
       <source>Analyze all symbols</source>
-      <translation type="unfinished">Analyze all symbols</translation>
+      <translation>সমস্ত প্রতীক বিশ্লেষণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="57"/>
       <source>Analyze instructions for references</source>
-      <translation type="unfinished">Analyze instructions for references</translation>
+      <translation>রেফারেন্সের জন্য নির্দেশনা বিশ্লেষণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="58"/>
       <source>Analyze function calls</source>
-      <translation type="unfinished">Analyze function calls</translation>
+      <translation>ফাংশন কল বিশ্লেষণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="59"/>
       <source>Analyze all basic blocks</source>
-      <translation type="unfinished">Analyze all basic blocks</translation>
+      <translation>সমস্ত মৌলিক ব্লক বিশ্লেষণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="60"/>
       <source>Analyze all objc references</source>
-      <translation type="unfinished">Analyze all objc references</translation>
+      <translation>সমস্ত objc রেফারেন্স বিশ্লেষণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="61"/>
       <source>Recover class information from RTTI</source>
-      <translation type="unfinished">Recover class information from RTTI</translation>
+      <translation>RTTI থেকে ক্লাসের তথ্য পুনরুদ্ধার করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="62"/>
       <source>Autoname functions based on context</source>
-      <translation type="unfinished">Autoname functions based on context</translation>
+      <translation>প্রসঙ্গ ভিত্তিক স্বয়ংক্রিয় নাম ফাংশন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="63"/>
       <source>Emulate code to find computed references</source>
-      <translation type="unfinished">Emulate code to find computed references</translation>
+      <translation>গণনাকৃত রেফারেন্স খুঁজতে কোড এমিউলেট করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="64"/>
       <source>Analyze all consecutive functions</source>
-      <translation type="unfinished">Analyze all consecutive functions</translation>
+      <translation>ধারাবাহিক সমস্ত ফাংশন বিশ্লেষণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="65"/>
       <source>Type and Argument matching analysis</source>
-      <translation type="unfinished">Type and Argument matching analysis</translation>
+      <translation>ধরন ও যুক্তি সমন্বয়ে বিশ্লেষণ</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="66"/>
       <source>Analyze code after trap-sleds</source>
-      <translation type="unfinished">Analyze code after trap-sleds</translation>
+      <translation>ট্রাপ-স্লেড এর পরে কোড বিশ্লেষণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="67"/>
       <source>Analyze function preludes</source>
-      <translation type="unfinished">Analyze function preludes</translation>
+      <translation>ফাংশন প্রিলিউড বিশ্লেষণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="68"/>
       <source>Analyze jump tables in switch statements</source>
-      <translation type="unfinished">Analyze jump tables in switch statements</translation>
+      <translation>স্যুইচ স্টেটমেন্টে জাম্প টেবিল বিশ্লেষণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="71"/>
       <source>Analyze PUSH+RET as JMP</source>
-      <translation type="unfinished">Analyze PUSH+RET as JMP</translation>
+      <translation>JMP হিসাবে PUSH+RET বিশ্লেষণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="72"/>
       <source>Continue analysis after each function</source>
-      <translation type="unfinished">Continue analysis after each function</translation>
+      <translation>প্রতিটি ফাংশনের পরে বিশ্লেষণ চালিয়ে যান</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="393"/>
       <source>No analysis</source>
-      <translation type="unfinished">No analysis</translation>
+      <translation>কোনো বিশ্লেষণ নেই</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="395"/>
       <source>Auto-Analysis (aaa)</source>
-      <translation type="unfinished">Auto-Analysis (aaa)</translation>
+      <translation>স্বয়ংক্রিয়-বিশ্লেষণ (aaa)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="397"/>
       <source>Auto-Analysis Experimental (aaaa)</source>
-      <translation type="unfinished">Auto-Analysis Experimental (aaaa)</translation>
+      <translation>স্বয়ংক্রিয়-বিশ্লেষণ পরীক্ষামূলক (aaaa)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="401"/>
       <source>Unknown</source>
-      <translation type="unfinished">Unknown</translation>
+      <translation>অজানা</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="407"/>
       <source>Level</source>
-      <translation type="unfinished">Level</translation>
+      <translation>লেভেল</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="410"/>
       <source>Analysis: Disabled</source>
-      <translation type="unfinished">Analysis: Disabled</translation>
+      <translation>বিশ্লেষণ: নিষ্ক্রিয় করা হয়েছে</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="456"/>
       <source>Select PDB file</source>
-      <translation type="unfinished">Select PDB file</translation>
+      <translation>PDB ফাইল নির্বাচন করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="457"/>
       <source>PDB file (*.pdb)</source>
-      <translation type="unfinished">PDB file (*.pdb)</translation>
+      <translation>PDB ফাইল (*.pdb)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="457"/>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="479"/>
       <source>All files (*)</source>
-      <translation type="unfinished">All files (*)</translation>
+      <translation>সমস্ত ফাইল (*)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="478"/>
       <source>Select Rizin script file</source>
-      <translation type="unfinished">Select Rizin script file</translation>
+      <translation>Rizin স্ক্রিপ্ট ফাইল নির্বাচন করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="479"/>
       <source>Script file (*.rz)</source>
-      <translation type="unfinished">Script file (*.rz)</translation>
+      <translation>স্ক্রিপ্ট ফাইল (*.rz)</translation>
     </message>
   </context>
   <context>
@@ -4991,17 +4991,17 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/preferences/InitializationFileEditor.ui" line="14"/>
       <source>CutterRC Editor</source>
-      <translation type="unfinished">CutterRC Editor</translation>
+      <translation>CutterRC এডিটর</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/InitializationFileEditor.ui" line="20"/>
       <source>TextLabel</source>
-      <translation type="unfinished">TextLabel</translation>
+      <translation>টেক্সটলেবেল</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/InitializationFileEditor.cpp" line="35"/>
       <source>Script is loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
-      <translation type="unfinished">Script is loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
+      <translation>স্ক্রিপ্ট &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt; থেকে লোড করা হয়েছে</translation>
     </message>
   </context>
   <context>
@@ -5009,7 +5009,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../common/Decompiler.cpp" line="109"/>
       <source>Failed to parse JSON from jsdec</source>
-      <translation type="unfinished">Failed to parse JSON from jsdec</translation>
+      <translation>jsdec থেকে JSON পার্স করা যায়নি৷</translation>
     </message>
   </context>
   <context>
@@ -5017,43 +5017,43 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/LayoutManager.ui" line="14"/>
       <source>Layout</source>
-      <translation type="unfinished">Layout</translation>
+      <translation>লে-আউট</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.ui" line="25"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.ui" line="32"/>
       <location filename="../dialogs/LayoutManager.cpp" line="60"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>মুছে ফেলুন</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="42"/>
       <source>Rename layout error</source>
-      <translation type="unfinished">Rename layout error</translation>
+      <translation>লে-আউট ত্রুটির পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="43"/>
       <source>&apos;%1&apos; is already used.</source>
-      <translation type="unfinished">&apos;%1&apos; is already used.</translation>
+      <translation>&apos;%1&apos; ইতোমধ্যেই ব্যবহৃত হয়েছে।</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="45"/>
       <source>Save layout</source>
-      <translation type="unfinished">Save layout</translation>
+      <translation>লে-আউট সংরক্ষণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="45"/>
       <source>Enter name</source>
-      <translation type="unfinished">Enter name</translation>
+      <translation>নাম লিখুন</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="61"/>
       <source>Do you want to delete &apos;%1&apos;</source>
-      <translation type="unfinished">Do you want to delete &apos;%1&apos;</translation>
+      <translation>আপনি কি &apos;%1&apos; মুছে ফেলতে চান?</translation>
     </message>
   </context>
   <context>
@@ -5061,121 +5061,121 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="33"/>
       <source>Add extra...</source>
-      <translation type="unfinished">Add extra...</translation>
+      <translation>অতিরিক্ত... যোগ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="61"/>
       <source>File</source>
-      <translation type="unfinished">File</translation>
+      <translation>ফাইল</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="68"/>
       <source>Set mode</source>
-      <translation type="unfinished">Set mode</translation>
+      <translation>মোড সেট করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="97"/>
       <location filename="../core/MainWindow.cpp" line="293"/>
       <source>View</source>
-      <translation type="unfinished">View</translation>
+      <translation>দৃশ্য</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="104"/>
       <source>Zoom</source>
-      <translation type="unfinished">Zoom</translation>
+      <translation>জুম</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="113"/>
       <source>Layouts</source>
-      <translation type="unfinished">Layouts</translation>
+      <translation>লে-আউট</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="133"/>
       <source>Tools</source>
-      <translation type="unfinished">Tools</translation>
+      <translation>টুল</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="139"/>
       <source>Help</source>
-      <translation type="unfinished">Help</translation>
+      <translation>সহায়তা</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="147"/>
       <location filename="../core/MainWindow.ui" line="513"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="156"/>
       <source>Windows</source>
-      <translation type="unfinished">Windows</translation>
+      <translation>উইন্ডো</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="160"/>
       <location filename="../core/MainWindow.cpp" line="147"/>
       <location filename="../core/MainWindow.cpp" line="148"/>
       <source>Plugins</source>
-      <translation type="unfinished">Plugins</translation>
+      <translation>প্লাগইন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="165"/>
       <source>Info...</source>
-      <translation type="unfinished">Info...</translation>
+      <translation>তথ্য...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="170"/>
       <source>Debug...</source>
-      <translation type="unfinished">Debug...</translation>
+      <translation>ডিবাগ...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="185"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>ডিবাগ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="232"/>
       <source>Reset to default layout</source>
-      <translation type="unfinished">Reset to default layout</translation>
+      <translation>ডিফল্ট লে-আউটে রিসেট করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="237"/>
       <source>Zen Mode</source>
-      <translation type="unfinished">Zen Mode</translation>
+      <translation>জেন মোড</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="240"/>
       <source>Zen mode</source>
-      <translation type="unfinished">Zen mode</translation>
+      <translation>জেন মোড</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="245"/>
       <source>BaseFind</source>
-      <translation type="unfinished">BaseFind</translation>
+      <translation>বেস খুঁজুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="250"/>
       <source>About</source>
-      <translation type="unfinished">About</translation>
+      <translation>সম্পর্কে</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="255"/>
       <source>Report an issue</source>
-      <translation type="unfinished">Report an issue</translation>
+      <translation>সমস্যা সম্পর্কে জানান</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="260"/>
       <source>New Window</source>
-      <translation type="unfinished">New Window</translation>
+      <translation>নতুন উইন্ডো</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="263"/>
       <source>Ctrl+N</source>
-      <translation type="unfinished">Ctrl+N</translation>
+      <translation>Ctrl+N</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="268"/>
       <source>Close</source>
-      <translation type="unfinished">Close</translation>
+      <translation>বন্ধ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="273"/>
@@ -5183,211 +5183,211 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="872"/>
       <location filename="../core/MainWindow.cpp" line="1243"/>
       <source>Save layout</source>
-      <translation type="unfinished">Save layout</translation>
+      <translation>লে-আউট সংরক্ষণ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="281"/>
       <source>Documentation</source>
-      <translation type="unfinished">Documentation</translation>
+      <translation>ডকুমেন্টেশন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="286"/>
       <source>Map File</source>
-      <translation type="unfinished">Map File</translation>
+      <translation>ফাইল ম্যাপ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="289"/>
       <source>Ctrl+M</source>
-      <translation type="unfinished">Ctrl+M</translation>
+      <translation>Ctrl+M</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="294"/>
       <location filename="../core/MainWindow.cpp" line="728"/>
       <location filename="../core/MainWindow.cpp" line="751"/>
       <source>Save Project</source>
-      <translation type="unfinished">Save Project</translation>
+      <translation>প্রকল্প সংরক্ষণ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="297"/>
       <source>Ctrl+S</source>
-      <translation type="unfinished">Ctrl+S</translation>
+      <translation>Ctrl+S</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="302"/>
       <source>Cut</source>
-      <translation type="unfinished">Cut</translation>
+      <translation>কাট করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="307"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>কপি করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="312"/>
       <location filename="../core/MainWindow.ui" line="518"/>
       <source>Paste</source>
-      <translation type="unfinished">Paste</translation>
+      <translation>পেষ্ট করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="317"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>মুছে ফেলুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="322"/>
       <location filename="../core/MainWindow.ui" line="325"/>
       <source>Select all</source>
-      <translation type="unfinished">Select all</translation>
+      <translation>সবগুলো নির্বাচন করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="330"/>
       <source>Find</source>
-      <translation type="unfinished">Find</translation>
+      <translation>খুঁজুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="335"/>
       <location filename="../core/MainWindow.ui" line="338"/>
       <source>Find next</source>
-      <translation type="unfinished">Find next</translation>
+      <translation>পরবর্তীটি খুঁজুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="343"/>
       <location filename="../core/MainWindow.ui" line="346"/>
       <source>Find previous</source>
-      <translation type="unfinished">Find previous</translation>
+      <translation>পূর্ববর্তীটি খুঁজুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="355"/>
       <source>Undo Seek</source>
-      <translation type="unfinished">Undo Seek</translation>
+      <translation>অনুসন্ধান আনডু করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="358"/>
       <source>Go back</source>
-      <translation type="unfinished">Go back</translation>
+      <translation>পিছনে যান</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="367"/>
       <source>Redo Seek</source>
-      <translation type="unfinished">Redo Seek</translation>
+      <translation>অনুসন্ধান রিডু করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="378"/>
       <source>Unlock Panels</source>
-      <translation type="unfinished">Unlock Panels</translation>
+      <translation>প্যানেল আনলক করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="381"/>
       <source>Toggle panel locks</source>
-      <translation type="unfinished">Toggle panel locks</translation>
+      <translation>প্যানেল লক টগল করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="400"/>
       <source>Theme</source>
-      <translation type="unfinished">Theme</translation>
+      <translation>থিম</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="415"/>
       <location filename="../core/MainWindow.ui" line="418"/>
       <source>Tabs up/down</source>
-      <translation type="unfinished">Tabs up/down</translation>
+      <translation>ট্যাব উপরে/নিচে</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="427"/>
       <source>Refresh</source>
-      <translation type="unfinished">Refresh</translation>
+      <translation>রিফ্রেশ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="435"/>
       <source>Show Tabs at the Top</source>
-      <translation type="unfinished">Show Tabs at the Top</translation>
+      <translation>ট্যাব শীর্ষে দেখান</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="438"/>
       <source>Toggle tab position</source>
-      <translation type="unfinished">Toggle tab position</translation>
+      <translation>ট্যাব-এর অবস্থান টগল করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="443"/>
       <source>Dark Theme</source>
-      <translation type="unfinished">Dark Theme</translation>
+      <translation>গাঢ় থিম</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="448"/>
       <location filename="../core/MainWindow.ui" line="451"/>
       <source>Load layout</source>
-      <translation type="unfinished">Load layout</translation>
+      <translation>লে-আউট লোড করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="456"/>
       <source>Default Theme</source>
-      <translation type="unfinished">Default Theme</translation>
+      <translation>ডিফল্ট থিম</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="461"/>
       <source>Bindiff</source>
-      <translation type="unfinished">Bindiff</translation>
+      <translation>Bindiff</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="466"/>
       <source>Analysis</source>
-      <translation type="unfinished">Analysis</translation>
+      <translation>বিশ্লেষণ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="471"/>
       <source>Test menu</source>
-      <translation type="unfinished">Test menu</translation>
+      <translation>মেন্যু পরীক্ষা করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="476"/>
       <location filename="../core/MainWindow.ui" line="479"/>
       <source>Copy hexpair</source>
-      <translation type="unfinished">Copy hexpair</translation>
+      <translation>হেক্সপেয়ার কপি করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="484"/>
       <location filename="../core/MainWindow.ui" line="487"/>
       <source>Copy text</source>
-      <translation type="unfinished">Copy text</translation>
+      <translation>টেক্সট কপি করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="492"/>
       <source>Copy ASCII</source>
-      <translation type="unfinished">Copy ASCII</translation>
+      <translation>ASCII কপি করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="497"/>
       <location filename="../core/MainWindow.ui" line="500"/>
       <source>Insert string</source>
-      <translation type="unfinished">Insert string</translation>
+      <translation>স্ট্রিং লিখুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="505"/>
       <location filename="../core/MainWindow.ui" line="508"/>
       <source>Insert hex</source>
-      <translation type="unfinished">Insert hex</translation>
+      <translation>হেক্স লিখুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="523"/>
       <source>Show/Hide bytes</source>
-      <translation type="unfinished">Show/Hide bytes</translation>
+      <translation>বাইট দেখান/লুকান</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="528"/>
       <source>Switch case</source>
-      <translation type="unfinished">Switch case</translation>
+      <translation>কেস স্যুইচ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="533"/>
       <location filename="../core/MainWindow.ui" line="536"/>
       <source>Copy all</source>
-      <translation type="unfinished">Copy all</translation>
+      <translation>সব কপি করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="541"/>
       <location filename="../core/MainWindow.ui" line="544"/>
       <source>Copy bytes</source>
-      <translation type="unfinished">Copy bytes</translation>
+      <translation>বাইট কপি করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="549"/>
@@ -5395,101 +5395,101 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="557"/>
       <location filename="../core/MainWindow.ui" line="560"/>
       <source>Copy disasm</source>
-      <translation type="unfinished">Copy disasm</translation>
+      <translation>disasm কপি করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="572"/>
       <location filename="../core/MainWindow.ui" line="575"/>
       <source>Start web server</source>
-      <translation type="unfinished">Start web server</translation>
+      <translation>ওয়েব সার্ভার শুরু করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="580"/>
       <source>1</source>
-      <translation type="unfinished">1</translation>
+      <translation>1</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="585"/>
       <source>2</source>
-      <translation type="unfinished">2</translation>
+      <translation>2</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="590"/>
       <source>4</source>
-      <translation type="unfinished">4</translation>
+      <translation>4</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="595"/>
       <source>8</source>
-      <translation type="unfinished">8</translation>
+      <translation>8</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="600"/>
       <source>16</source>
-      <translation type="unfinished">16</translation>
+      <translation>16</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="605"/>
       <source>32</source>
-      <translation type="unfinished">32</translation>
+      <translation>32</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="610"/>
       <source>64</source>
-      <translation type="unfinished">64</translation>
+      <translation>64</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="615"/>
       <source>Syntax AT&amp;T/Intel</source>
-      <translation type="unfinished">Syntax AT&amp;T/Intel</translation>
+      <translation>সিনট্যাক্স AT&amp;T/Intel</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="620"/>
       <location filename="../core/MainWindow.ui" line="630"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="625"/>
       <location filename="../core/MainWindow.ui" line="635"/>
       <source>Undefine</source>
-      <translation type="unfinished">Undefine</translation>
+      <translation>অনির্দিষ্ট</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="640"/>
       <source>Add comment</source>
-      <translation type="unfinished">Add comment</translation>
+      <translation>মন্তব্য যোগ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="652"/>
       <location filename="../core/MainWindow.ui" line="655"/>
       <source>Show/Hide bottom pannel</source>
-      <translation type="unfinished">Show/Hide bottom pannel</translation>
+      <translation>নিচের প্যানেল দেখান/লুকান</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="660"/>
       <source>Run Rizin script</source>
-      <translation type="unfinished">Run Rizin script</translation>
+      <translation>Rizin স্ক্রিপ্ট চালান</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="665"/>
       <source>Reset Settings</source>
-      <translation type="unfinished">Reset Settings</translation>
+      <translation>সেটিংস রিসেট করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="668"/>
       <source>Reset settings</source>
-      <translation type="unfinished">Reset settings</translation>
+      <translation>সেটিংস রিসেট করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="673"/>
       <source>Quit</source>
-      <translation type="unfinished">Quit</translation>
+      <translation>কুইট করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="676"/>
       <source>Ctrl+Q</source>
-      <translation type="unfinished">Ctrl+Q</translation>
+      <translation>Ctrl+Q</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="684"/>
