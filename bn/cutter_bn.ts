@@ -124,7 +124,7 @@
     <message>
       <location filename="../widgets/AddressableDockWidget.cpp" line="12"/>
       <source>Sync/unsync offset</source>
-      <translation>সিঙ্ক/আনসিঙ্ক অফসেট</translation>
+      <translation>অফসেট সিঙ্ক/আনসিঙ্ক করুন</translation>
     </message>
   </context>
   <context>
@@ -622,7 +622,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="133"/>
       <source>Display flags&apos; real name (asm.flags.real)</source>
-      <translation>প্রদর্শন করুন flags&apos; আসল নাম (asm.flags.real)</translation>
+      <translation>প্রদর্শন করুন flags&apos; প্রকৃত নাম (asm.flags.real)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="158"/>
@@ -1320,7 +1320,7 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="23"/>
       <source>Real Name</source>
-      <translation>আসল নাম</translation>
+      <translation>প্রকৃত নাম</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="25"/>
@@ -2691,7 +2691,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="449"/>
       <source>Rename local variable %1</source>
-      <translation>লোকাল ভেরিয়েবল %1-এর পুনঃনামকরণ করুন</translation>
+      <translation>স্থানীয় ভেরিয়েবল %1-এর পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="450"/>
@@ -2701,7 +2701,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="475"/>
       <source>Edit local variable %1</source>
-      <translation>লোকাল ভেরিয়েবল %1 সম্পাদনা করুন</translation>
+      <translation>স্থানীয় ভেরিয়েবল %1 সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="476"/>
@@ -2839,7 +2839,7 @@ Please check the console for more details.</source>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="88"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="911"/>
       <source>Re-type Local Variables</source>
-      <translation>লোকাল ভেরিয়েবল পুনরায় টাইপ করুন</translation>
+      <translation>স্থানীয় ভেরিয়েবল পুনরায় টাইপ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="92"/>
@@ -2879,7 +2879,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="131"/>
       <source>X-Refs for local variables</source>
-      <translation>লোকাল ভেরিয়েবলের জন্য X-রেফারেন্স</translation>
+      <translation>স্থানীয় ভেরিয়েবলের জন্য X-রেফারেন্স</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="135"/>
@@ -2888,82 +2888,82 @@ Please check the console for more details.</source>
     </message>
     <message>
       <source>Set Immediate Base to...</source>
-      <translation type="unfinished">Set Immediate Base to...</translation>
+      <translation>...-এ ইমেডিয়েট বেস সেট করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="177"/>
       <source>Modify or add global variable</source>
-      <translation type="unfinished">Modify or add global variable</translation>
+      <translation>বৈশ্বিক ভেরিয়েবল পরিবর্তন বা  যোগ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="184"/>
       <source>Set base of immediate value to..</source>
-      <translation type="unfinished">Set base of immediate value to..</translation>
+      <translation>..-এ ইমেডিয়েট মানের বেস সেট করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="186"/>
       <source>Binary</source>
-      <translation type="unfinished">Binary</translation>
+      <translation>বাইনারি</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="190"/>
       <source>Octal</source>
-      <translation type="unfinished">Octal</translation>
+      <translation>অক্টাল</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="194"/>
       <source>Decimal</source>
-      <translation type="unfinished">Decimal</translation>
+      <translation>দশমিক</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="198"/>
       <source>Hexadecimal</source>
-      <translation type="unfinished">Hexadecimal</translation>
+      <translation>হেক্সাডেসিমেল</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="202"/>
       <source>Network Port</source>
-      <translation type="unfinished">Network Port</translation>
+      <translation>নেটওয়ার্ক পোর্ট</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="206"/>
       <source>IP Address</source>
-      <translation type="unfinished">IP Address</translation>
+      <translation>আইপি ঠিকানা</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="210"/>
       <source>Syscall</source>
-      <translation type="unfinished">Syscall</translation>
+      <translation>Syscall</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="214"/>
       <source>String</source>
-      <translation type="unfinished">String</translation>
+      <translation>স্ট্রিং:</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="221"/>
       <source>Set current bits to...</source>
-      <translation type="unfinished">Set current bits to...</translation>
+      <translation>...-এ বর্তমান বিট সেট করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="238"/>
       <source>Set as...</source>
-      <translation type="unfinished">Set as...</translation>
+      <translation>... হিসাবে সেট করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="240"/>
       <source>Code</source>
-      <translation type="unfinished">Code</translation>
+      <translation>কোড</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="244"/>
       <source>String...</source>
-      <translation type="unfinished">String...</translation>
+      <translation>স্ট্রিং...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="246"/>
       <source>Auto-detect</source>
-      <translation type="unfinished">Auto-detect</translation>
+      <translation>স্বয়ংক্রিয়-শনাক্তকরণ</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="248"/>
@@ -2973,62 +2973,62 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="250"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>অগ্রসর</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="262"/>
       <source>Data...</source>
-      <translation type="unfinished">Data...</translation>
+      <translation>ডেটা...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="264"/>
       <source>Byte</source>
-      <translation type="unfinished">Byte</translation>
+      <translation>বাইট</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="268"/>
       <source>Word</source>
-      <translation type="unfinished">Word</translation>
+      <translation>শব্দ</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="272"/>
       <source>Dword</source>
-      <translation type="unfinished">Dword</translation>
+      <translation>Dword</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="276"/>
       <source>Qword</source>
-      <translation type="unfinished">Qword</translation>
+      <translation>Qword</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="291"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="293"/>
       <source>Instruction</source>
-      <translation type="unfinished">Instruction</translation>
+      <translation>নির্দেশনা</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="297"/>
       <source>Nop Instruction</source>
-      <translation type="unfinished">Nop Instruction</translation>
+      <translation>Nop নির্দেশনা</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="301"/>
       <source>Bytes</source>
-      <translation type="unfinished">Bytes</translation>
+      <translation>বাইট</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="304"/>
       <source>Reverse Jump</source>
-      <translation type="unfinished">Reverse Jump</translation>
+      <translation>রিভার্স জাম্প</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="310"/>
       <source>Breakpoint</source>
-      <translation type="unfinished">Breakpoint</translation>
+      <translation>ব্রেকপয়েন্ট</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="312"/>
@@ -3039,52 +3039,52 @@ Please check the console for more details.</source>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="315"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="608"/>
       <source>Advanced breakpoint</source>
-      <translation type="unfinished">Advanced breakpoint</translation>
+      <translation>অ্যাডভান্সড ব্রেকপয়েন্ট </translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="322"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>ডিবাগ</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="324"/>
       <source>Continue until line</source>
-      <translation type="unfinished">Continue until line</translation>
+      <translation>লাইন পর্যন্ত চালিয়ে যান</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="424"/>
       <source>Add flag at %1 (used here)</source>
-      <translation type="unfinished">Add flag at %1 (used here)</translation>
+      <translation>%1-এ পতাকা যোগ করুন (এখানে ব্যবহৃত)</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="429"/>
       <source>Rename &quot;%1&quot;</source>
-      <translation type="unfinished">Rename &quot;%1&quot;</translation>
+      <translation>&quot;%1&quot;-এর পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="434"/>
       <source>Rename local &quot;%1&quot;</source>
-      <translation type="unfinished">Rename local &quot;%1&quot;</translation>
+      <translation>স্থানীয় &quot;%1&quot;-এর পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="439"/>
       <source>Rename flag &quot;%1&quot; (used here)</source>
-      <translation type="unfinished">Rename flag &quot;%1&quot; (used here)</translation>
+      <translation> &quot;%1&quot; পতাকার পুনঃনামকরণ করুন (এখানে ব্যবহৃত)</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="497"/>
       <source>Add or change global variable at %1 (used here)</source>
-      <translation type="unfinished">Add or change global variable at %1 (used here)</translation>
+      <translation>%1-এ গ্লোবাল ভেরিয়েবল যোগ বা পরিবর্তন করুন (এখানে ব্যবহৃত)</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="573"/>
       <source>Edit Comment</source>
-      <translation type="unfinished">Edit Comment</translation>
+      <translation>মন্তব্য সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="589"/>
       <source>Edit function &quot;%1&quot;</source>
-      <translation type="unfinished">Edit function &quot;%1&quot;</translation>
+      <translation>&quot;%1&quot; ফাংশন সম্পাদনা  করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="606"/>
@@ -3094,63 +3094,63 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="606"/>
       <source>Add breakpoint</source>
-      <translation type="unfinished">Add breakpoint</translation>
+      <translation>ব্রেকপয়েন্ট যোগ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="607"/>
       <source>Edit breakpoint</source>
-      <translation type="unfinished">Edit breakpoint</translation>
+      <translation>ব্রেকপয়েন্ট সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="622"/>
       <source>X-Refs for %1</source>
-      <translation type="unfinished">X-Refs for %1</translation>
+      <translation>%1-এর জন্য এক্স-রেফারেন্স</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="722"/>
       <source>Edit Instruction at %1</source>
-      <translation type="unfinished">Edit Instruction at %1</translation>
+      <translation>%-এ নির্দেশনা সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="772"/>
       <source>Edit Bytes at %1</source>
-      <translation type="unfinished">Edit Bytes at %1</translation>
+      <translation>%1-এ বাইট সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="843"/>
       <source>New function at %1</source>
-      <translation type="unfinished">New function at %1</translation>
+      <translation>%1-এ নতুন ফাংশন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="844"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="865"/>
       <source>Function name:</source>
-      <translation type="unfinished">Function name:</translation>
+      <translation>ফাংশনের নাম:</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="864"/>
       <source>Rename function %2</source>
-      <translation type="unfinished">Rename function %2</translation>
+      <translation>%2 ফাংশনের পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="912"/>
       <source>You must be in a function to define variable types.</source>
-      <translation type="unfinished">You must be in a function to define variable types.</translation>
+      <translation>ভেরিয়েবলের ধরন সংজ্ঞায়িত করার জন্য আপনাকে অবশ্যই কোনো ফাংশনে থাকতে হবে।</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="974"/>
       <source>Wrong address</source>
-      <translation type="unfinished">Wrong address</translation>
+      <translation>ভুল ঠিকানা</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="975"/>
       <source>Can&apos;t edit string at this address</source>
-      <translation type="unfinished">Can&apos;t edit string at this address</translation>
+      <translation>এই ঠিকানায় স্ট্রিং সম্পাদনা করা যাবে না৷</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="1047"/>
       <source>Edit function %1</source>
-      <translation type="unfinished">Edit function %1</translation>
+      <translation>%1 ফাংশন সম্পাদনা  করুন</translation>
     </message>
   </context>
   <context>
@@ -3158,7 +3158,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/DisassemblyWidget.cpp" line="674"/>
       <source>Disassembly</source>
-      <translation type="unfinished">Disassembly</translation>
+      <translation>বিচ্ছিন্নকরণ</translation>
     </message>
   </context>
   <context>
@@ -3166,17 +3166,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/DuplicateFromOffsetDialog.ui" line="20"/>
       <source>Duplicate from offset</source>
-      <translation type="unfinished">Duplicate from offset</translation>
+      <translation>অফসেট থেকে প্রতিলিপি করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/DuplicateFromOffsetDialog.ui" line="28"/>
       <source>Offset:</source>
-      <translation type="unfinished">Offset:</translation>
+      <translation>অফসেট:</translation>
     </message>
     <message>
       <location filename="../dialogs/DuplicateFromOffsetDialog.ui" line="49"/>
       <source>N bytes:</source>
-      <translation type="unfinished">N bytes:</translation>
+      <translation>N বাইট:</translation>
     </message>
   </context>
   <context>
@@ -3184,27 +3184,27 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="14"/>
       <source>Edit Function</source>
-      <translation type="unfinished">Edit Function</translation>
+      <translation>ফাংশন সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="43"/>
       <source>Name of function</source>
-      <translation type="unfinished">Name of function</translation>
+      <translation>ফাংশনের নাম</translation>
     </message>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="53"/>
       <source>Start address</source>
-      <translation type="unfinished">Start address</translation>
+      <translation>শুরুর ঠিকানা</translation>
     </message>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="63"/>
       <source>Stack size</source>
-      <translation type="unfinished">Stack size</translation>
+      <translation>স্ট্যাক-এর আকার</translation>
     </message>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="73"/>
       <source>Calling convention</source>
-      <translation type="unfinished">Calling convention</translation>
+      <translation>সম্মেলন আহ্বান</translation>
     </message>
   </context>
   <context>
@@ -3212,17 +3212,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/EditInstructionDialog.ui" line="14"/>
       <source>Edit Instruction</source>
-      <translation type="unfinished">Edit Instruction</translation>
+      <translation>নির্দেশনা সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/EditInstructionDialog.ui" line="88"/>
       <source>Unknown Instruction</source>
-      <translation type="unfinished">Unknown Instruction</translation>
+      <translation>অজানা নির্দেশনা</translation>
     </message>
     <message>
       <location filename="../dialogs/EditInstructionDialog.ui" line="100"/>
       <source>Fill all remaining bytes with NOP opcodes</source>
-      <translation type="unfinished">Fill all remaining bytes with NOP opcodes</translation>
+      <translation>NOP অপকোড দিয়ে অবশিষ্ট সমস্ত বাইট পূরণ করুন</translation>
     </message>
   </context>
   <context>
@@ -3230,47 +3230,47 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="25"/>
       <source>Class:</source>
-      <translation type="unfinished">Class:</translation>
+      <translation>ক্লাস:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="32"/>
       <source>Unique Identifier (name):</source>
-      <translation type="unfinished">Unique Identifier (name):</translation>
+      <translation>অনন্য শনাক্তকারী (নাম):</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="44"/>
       <source>Auto-Rename</source>
-      <translation type="unfinished">Auto-Rename</translation>
+      <translation>স্বয়ংক্রিয় পুনঃনামকরণ</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="56"/>
       <source>Display Name (realname):</source>
-      <translation type="unfinished">Display Name (realname):</translation>
+      <translation>নাম প্রদর্শন করুন (প্রকৃত নাম):</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="66"/>
       <source>Address:</source>
-      <translation type="unfinished">Address:</translation>
+      <translation>ঠিকানা:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="76"/>
       <source>Virtual:</source>
-      <translation type="unfinished">Virtual:</translation>
+      <translation>ভার্চুয়াল:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="90"/>
       <source>Offset in VTable:</source>
-      <translation type="unfinished">Offset in VTable:</translation>
+      <translation>VTable-এ অফসেট:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.cpp" line="191"/>
       <source>Create Method</source>
-      <translation type="unfinished">Create Method</translation>
+      <translation>পদ্ধতি তৈরি করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.cpp" line="206"/>
       <source>Edit Method</source>
-      <translation type="unfinished">Edit Method</translation>
+      <translation>পদ্ধতি সম্পাদনা করুন</translation>
     </message>
   </context>
   <context>
@@ -3278,27 +3278,27 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="23"/>
       <source>Edit string</source>
-      <translation type="unfinished">Edit string</translation>
+      <translation>স্ট্রিং সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="52"/>
       <source>Size:</source>
-      <translation type="unfinished">Size:</translation>
+      <translation>আকার:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="59"/>
       <source>Type:</source>
-      <translation type="unfinished">Type:</translation>
+      <translation>ধরন:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="66"/>
       <source>Address:</source>
-      <translation type="unfinished">Address:</translation>
+      <translation>ঠিকানা:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="99"/>
       <source>Auto</source>
-      <translation type="unfinished">Auto</translation>
+      <translation>স্বয়ংক্রিয়</translation>
     </message>
   </context>
   <context>
@@ -3306,27 +3306,27 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/EditVariablesDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation type="unfinished">Dialog</translation>
+      <translation>ডায়লগ</translation>
     </message>
     <message>
       <location filename="../dialogs/EditVariablesDialog.ui" line="22"/>
       <source>Modify:</source>
-      <translation type="unfinished">Modify:</translation>
+      <translation>পরিবর্তন করুন:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditVariablesDialog.ui" line="35"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>নাম:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditVariablesDialog.ui" line="42"/>
       <source>Type:</source>
-      <translation type="unfinished">Type:</translation>
+      <translation>ধরন:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditVariablesDialog.cpp" line="20"/>
       <source>Edit Variables in Function: %1</source>
-      <translation type="unfinished">Edit Variables in Function: %1</translation>
+      <translation>ফাংশনে ভেরিয়েবল সম্পাদনা করুন: %1</translation>
     </message>
   </context>
   <context>
@@ -3334,27 +3334,27 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="60"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>ঠিকানা</translation>
     </message>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="62"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>আকার</translation>
     </message>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="64"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>ধরন</translation>
     </message>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="66"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>নাম</translation>
     </message>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="68"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>মন্তব্য</translation>
     </message>
   </context>
   <context>
@@ -3362,7 +3362,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="138"/>
       <source>Exports</source>
-      <translation type="unfinished">Exports</translation>
+      <translation>রপ্তানি/প্রেরণ</translation>
     </message>
   </context>
   <context>
@@ -3385,22 +3385,22 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="61"/>
       <source>1</source>
-      <translation type="unfinished">1</translation>
+      <translation>1</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="80"/>
       <source>Size:</source>
-      <translation type="unfinished">Size:</translation>
+      <translation>আকার:</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.cpp" line="24"/>
       <source>Edit flag at %1</source>
-      <translation type="unfinished">Edit flag at %1</translation>
+      <translation>%1-এ পতাকা সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.cpp" line="26"/>
       <source>Add flag at %1</source>
-      <translation type="unfinished">Add flag at %1</translation>
+      <translation>%1-এ পতাকা যোগ করুন</translation>
     </message>
   </context>
   <context>
@@ -3408,27 +3408,27 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="64"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>আকার</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="66"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>অফসেট</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="68"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>নাম</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="70"/>
       <source>Real Name</source>
-      <translation type="unfinished">Real Name</translation>
+      <translation>প্রকৃত নাম</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="72"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>মন্তব্য</translation>
     </message>
   </context>
   <context>
@@ -3436,47 +3436,47 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="79"/>
       <source>Quick Filter</source>
-      <translation type="unfinished">Quick Filter</translation>
+      <translation>দ্রুত ফিল্টার</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="86"/>
       <source>Flagspace:</source>
-      <translation type="unfinished">Flagspace:</translation>
+      <translation>ফ্ল্যাগস্পেস:</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="99"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="102"/>
       <source>N</source>
-      <translation type="unfinished">N</translation>
+      <translation>N</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="110"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>মুছে ফেলুন</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="113"/>
       <source>Del</source>
-      <translation type="unfinished">Del</translation>
+      <translation>ডেল</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="214"/>
       <source>Rename flag %1</source>
-      <translation type="unfinished">Rename flag %1</translation>
+      <translation>%1 পতাকার পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="215"/>
       <source>Flag name:</source>
-      <translation type="unfinished">Flag name:</translation>
+      <translation>পতাকার নাম:</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="244"/>
       <source>(all)</source>
-      <translation type="unfinished">(all)</translation>
+      <translation>(সব)</translation>
     </message>
   </context>
   <context>
@@ -3484,12 +3484,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/FlirtContextMenu.cpp" line="14"/>
       <source>Copy Line</source>
-      <translation type="unfinished">Copy Line</translation>
+      <translation>লাইন কপি করুন</translation>
     </message>
     <message>
       <location filename="../menus/FlirtContextMenu.cpp" line="15"/>
       <source>Apply Signature File</source>
-      <translation type="unfinished">Apply Signature File</translation>
+      <translation>স্বাক্ষর ফাইল প্রয়োগ করুন</translation>
     </message>
   </context>
   <context>
@@ -3497,32 +3497,32 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="65"/>
       <source>Bin</source>
-      <translation type="unfinished">Bin</translation>
+      <translation>বিন</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="67"/>
       <source>Arch</source>
-      <translation type="unfinished">Arch</translation>
+      <translation>আর্চ</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="69"/>
       <source>Bits</source>
-      <translation type="unfinished">Bits</translation>
+      <translation>বিট</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="71"/>
       <source># Funcs</source>
-      <translation type="unfinished"># Funcs</translation>
+      <translation># ফাঙ্কস</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="73"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>নাম</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="75"/>
       <source>Details</source>
-      <translation type="unfinished">Details</translation>
+      <translation>বিস্তারিত</translation>
     </message>
   </context>
   <context>
@@ -3530,44 +3530,44 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="134"/>
       <source>Offset: %1</source>
-      <translation type="unfinished">Offset: %1</translation>
+      <translation>অফসেট: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="136"/>
       <source>Size: %1</source>
-      <translation type="unfinished">Size: %1</translation>
+      <translation>আকার: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="138"/>
       <source>Import: %1</source>
-      <translation type="unfinished">Import: %1</translation>
+      <translation>নিয়ে আসুন: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="139"/>
       <location filename="../widgets/FunctionsWidget.cpp" line="166"/>
       <source>true</source>
-      <translation type="unfinished">true</translation>
+      <translation>সত্য</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="139"/>
       <location filename="../widgets/FunctionsWidget.cpp" line="166"/>
       <source>false</source>
-      <translation type="unfinished">false</translation>
+      <translation>মিথ্যা</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="141"/>
       <source>Nargs: %1</source>
-      <translation type="unfinished">Nargs: %1</translation>
+      <translation>Nargs: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="143"/>
       <source>Nbbs: %1</source>
-      <translation type="unfinished">Nbbs: %1</translation>
+      <translation>Nbbs: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="145"/>
       <source>Nlocals: %1</source>
-      <translation type="unfinished">Nlocals: %1</translation>
+      <translation>Nlocals: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="147"/>
