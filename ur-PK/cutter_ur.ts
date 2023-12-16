@@ -617,27 +617,27 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="168"/>
       <source>Indent disassembly based on reflines depth (asm.indent)</source>
-      <translation type="unfinished">Indent disassembly based on reflines depth (asm.indent)</translation>
+      <translation>ریف لائنز کی گہرائی کی بنیاد پر انڈینٹ بے ترکیبی (asm.indent)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="133"/>
       <source>Display flags&apos; real name (asm.flags.real)</source>
-      <translation type="unfinished">Display flags&apos; real name (asm.flags.real)</translation>
+      <translation>پرچم&apos; حقیقی نام دکھائیں (asm.flags.real)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="158"/>
       <source>The number of tabulate spaces after the offset (asm.tabs.off):</source>
-      <translation type="unfinished">The number of tabulate spaces after the offset (asm.tabs.off):</translation>
+      <translation>آفسیٹ کے بعد ٹیبلیٹ خالی جگہوں کی تعداد (asm.tabs.off):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="208"/>
       <source>Show preview when hovering</source>
-      <translation type="unfinished">Show preview when hovering</translation>
+      <translation>منڈلاتے وقت پیش نظارہ دکھائیں</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="289"/>
       <source>Show known variable values when hovering</source>
-      <translation type="unfinished">Show known variable values when hovering</translation>
+      <translation>منڈلاتے وقت معلوم متغیر اقدار دکھائیں</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="305"/>
@@ -647,12 +647,12 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="313"/>
       <source>Show opcode description (asm.describe)</source>
-      <translation type="unfinished">Show opcode description (asm.describe)</translation>
+      <translation>اوپکوڈ کی تفصیل دکھائیں (asm.describe)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="326"/>
       <source>Above instructions</source>
-      <translation type="unfinished">Above instructions</translation>
+      <translation>درج بالا ہدایات</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="331"/>
@@ -667,17 +667,17 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="359"/>
       <source>Column to align comments (asm.cmt.col):</source>
-      <translation type="unfinished">Column to align comments (asm.cmt.col):</translation>
+      <translation>تبصروں کی صف بندی کرنے کے لیے کالم (asm.cmt.col):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="369"/>
       <source>Show x-refs (asm.xrefs)</source>
-      <translation type="unfinished">Show x-refs (asm.xrefs)</translation>
+      <translation>کراس حوالہ جات دکھائیں (asm.xrefs)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="376"/>
       <source>Show refpointer information (asm.refptr)</source>
-      <translation type="unfinished">Show refpointer information (asm.refptr)</translation>
+      <translation>ریفرنس پوائنٹر کی معلومات دکھائیں (asm.refptr)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="409"/>
@@ -692,46 +692,46 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="440"/>
       <source>Show jump lines (asm.lines)</source>
-      <translation type="unfinished">Show jump lines (asm.lines)</translation>
+      <translation>جمپ لائنز دکھائیں (asm.lines)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="447"/>
       <source>Show function boundary lines (asm.lines.fcn)</source>
-      <translation type="unfinished">Show function boundary lines (asm.lines.fcn)</translation>
+      <translation>فنکشن باؤنڈری لائنز دکھائیں (asm.lines.fcn)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="454"/>
       <source>Show offset before flags (asm.flags.off)</source>
-      <translation type="unfinished">Show offset before flags (asm.flags.off)</translation>
+      <translation>پرچموں سے پہلے آفسیٹ دکھائیں (asm.flags.off)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="461"/>
       <source>Run ESIL emulation analysis (asm.emu)</source>
-      <translation type="unfinished">Run ESIL emulation analysis (asm.emu)</translation>
+      <translation>ESIL ایمولیشن تجزیہ چلائیں (asm.emu)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="468"/>
       <source>Show only strings if any in the asm.emu output (emu.str)</source>
-      <translation type="unfinished">Show only strings if any in the asm.emu output (emu.str)</translation>
+      <translation>صرف سٹرنگز دکھائیں اگر کوئی asm.emu آؤٹ پٹ میں ہے (emu.str) </translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="475"/>
       <source>Show size of opcodes in disassembly (asm.size)</source>
-      <translation type="unfinished">Show size of opcodes in disassembly (asm.size)</translation>
+      <translation>بے ترکیبی میں اوپ کوڈز کا سائز دکھائیں (asm.size)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="482"/>
       <source>Show variables summary instead of full list (asm.var.summary)</source>
-      <translation type="unfinished">Show variables summary instead of full list (asm.var.summary)</translation>
+      <translation>مکمل فہرست کے بجائے متغیرات کا خلاصہ دکھائیں (asm.var.summary)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="489"/>
       <source>Substitute variables in disassembly (asm.sub.var)</source>
-      <translation type="unfinished">Substitute variables in disassembly (asm.sub.var)</translation>
+      <translation>بے ترکیبی میں متغیرات کا متبادل دیں (asm.sub.var)</translation>
     </message>
     <message>
       <source>Substitute variables (asm.sub.var)</source>
-      <translation type="unfinished">Substitute variables (asm.sub.var)</translation>
+      <translation>متبادل متغیرات (asm.sub.var)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="496"/>
@@ -2545,7 +2545,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="35"/>
       <source>Show X-Refs</source>
-      <translation type="unfinished">Show X-Refs</translation>
+      <translation>کراس حوالہ جات دکھائیں</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="36"/>
@@ -2938,7 +2938,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="214"/>
       <source>String</source>
-      <translation>سلسلہ</translation>
+      <translation>سٹرنگ</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="221"/>
@@ -2958,7 +2958,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="244"/>
       <source>String...</source>
-      <translation>سلسلہ...</translation>
+      <translation>سٹرنگ...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="246"/>
