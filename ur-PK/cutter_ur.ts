@@ -612,7 +612,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="90"/>
       <source>Tabs in assembly (asm.tabs):</source>
-      <translation type="unfinished">Tabs in assembly (asm.tabs):</translation>
+      <translation>اسمبلی میں ٹیبز (asm.tabs):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="168"/>
@@ -662,7 +662,7 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="339"/>
       <source>Show comments:</source>
-      <translation type="unfinished">Show comments:</translation>
+      <translation>تبصرے دکھائیں:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="359"/>
@@ -682,12 +682,12 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="409"/>
       <source>Metadata</source>
-      <translation type="unfinished">Metadata</translation>
+      <translation>میٹا ڈیٹا</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="433"/>
       <source>Slow Analysis (asm.slow)</source>
-      <translation type="unfinished">Slow Analysis (asm.slow)</translation>
+      <translation>سست تجزیہ (asm.slow)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="440"/>
@@ -766,7 +766,7 @@
       <source>%n hour</source>
       <comment>%n hours</comment>
       <translation type="unfinished">
-        <numerusform>%n hour</numerusform>
+        <numerusform>%n گھنٹہ</numerusform>
         <numerusform>%n hour</numerusform>
       </translation>
     </message>
@@ -775,7 +775,7 @@
       <source>%n minute</source>
       <comment>%n minutes</comment>
       <translation type="unfinished">
-        <numerusform>%n minute</numerusform>
+        <numerusform>%n منٹ</numerusform>
         <numerusform>%n minute</numerusform>
       </translation>
     </message>
@@ -784,7 +784,7 @@
       <source>%n seconds</source>
       <comment>%n second</comment>
       <translation type="unfinished">
-        <numerusform>%n seconds</numerusform>
+        <numerusform>%n سیکنڈز</numerusform>
         <numerusform>%n seconds</numerusform>
       </translation>
     </message>
@@ -845,7 +845,7 @@
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="38"/>
       <source>Decode</source>
-      <translation type="unfinished">Decode</translation>
+      <translation>ڈیکوڈ کریں</translation>
     </message>
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="48"/>
@@ -2908,37 +2908,37 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="190"/>
       <source>Octal</source>
-      <translation type="unfinished">Octal</translation>
+      <translation>آکٹل</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="194"/>
       <source>Decimal</source>
-      <translation type="unfinished">Decimal</translation>
+      <translation>عشری</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="198"/>
       <source>Hexadecimal</source>
-      <translation type="unfinished">Hexadecimal</translation>
+      <translation>ہیگزا ڈیسیمل</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="202"/>
       <source>Network Port</source>
-      <translation type="unfinished">Network Port</translation>
+      <translation>نیٹ ورک پورٹ</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="206"/>
       <source>IP Address</source>
-      <translation type="unfinished">IP Address</translation>
+      <translation>IP ایڈریس</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="210"/>
       <source>Syscall</source>
-      <translation type="unfinished">Syscall</translation>
+      <translation>سسکال</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="214"/>
       <source>String</source>
-      <translation type="unfinished">String</translation>
+      <translation>سلسلہ</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="221"/>
@@ -2948,37 +2948,37 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="238"/>
       <source>Set as...</source>
-      <translation type="unfinished">Set as...</translation>
+      <translation>سیٹ کریں بطور...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="240"/>
       <source>Code</source>
-      <translation type="unfinished">Code</translation>
+      <translation>کوڈ</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="244"/>
       <source>String...</source>
-      <translation type="unfinished">String...</translation>
+      <translation>سلسلہ...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="246"/>
       <source>Auto-detect</source>
-      <translation type="unfinished">Auto-detect</translation>
+      <translation>خود کار سراغ لگائیں</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="248"/>
       <source>Remove</source>
-      <translation type="unfinished">Remove</translation>
+      <translation>ہٹائیں</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="250"/>
       <source>Advanced</source>
-      <translation type="unfinished">Advanced</translation>
+      <translation>ایڈوانسڈ</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="262"/>
       <source>Data...</source>
-      <translation type="unfinished">Data...</translation>
+      <translation>تاریخ...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="264"/>
@@ -2988,7 +2988,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="268"/>
       <source>Word</source>
-      <translation type="unfinished">Word</translation>
+      <translation>لفظ</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="272"/>
@@ -3003,12 +3003,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="291"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>ترمیم کریں</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="293"/>
       <source>Instruction</source>
-      <translation type="unfinished">Instruction</translation>
+      <translation>ہدایات</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="297"/>
@@ -7847,12 +7847,12 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/VTablesWidget.cpp" line="84"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>نام</translation>
     </message>
     <message>
       <location filename="../widgets/VTablesWidget.cpp" line="86"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>ایڈریس</translation>
     </message>
   </context>
   <context>
@@ -7861,19 +7861,19 @@ Do you want to commit them now?</translation>
       <location filename="../dialogs/VersionInfoDialog.ui" line="50"/>
       <location filename="../dialogs/VersionInfoDialog.ui" line="64"/>
       <source>TextLabel</source>
-      <translation type="unfinished">TextLabel</translation>
+      <translation>ٹیکسٹ لیبل</translation>
     </message>
     <message>
       <location filename="../dialogs/VersionInfoDialog.ui" line="94"/>
       <location filename="../dialogs/VersionInfoDialog.ui" line="126"/>
       <source>Key</source>
-      <translation type="unfinished">Key</translation>
+      <translation>کلید</translation>
     </message>
     <message>
       <location filename="../dialogs/VersionInfoDialog.ui" line="99"/>
       <location filename="../dialogs/VersionInfoDialog.ui" line="131"/>
       <source>Value</source>
-      <translation type="unfinished">Value</translation>
+      <translation>قدر</translation>
     </message>
   </context>
   <context>
@@ -7881,7 +7881,7 @@ Do you want to commit them now?</translation>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="508"/>
       <source>Virtual</source>
-      <translation type="unfinished">Virtual</translation>
+      <translation>ورچوئل</translation>
     </message>
   </context>
   <context>
@@ -7971,12 +7971,12 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="417"/>
       <source>Continue</source>
-      <translation type="unfinished">Continue</translation>
+      <translation>جاری رکھیں</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.cpp" line="70"/>
       <source>Language settings</source>
-      <translation type="unfinished">Language settings</translation>
+      <translation>زبان کی ترتیبات</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.cpp" line="71"/>
@@ -7989,12 +7989,12 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="297"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>ایڈریس</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="299"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>قسم</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="301"/>
@@ -8004,7 +8004,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="303"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>تبصرہ</translation>
     </message>
   </context>
   <context>
