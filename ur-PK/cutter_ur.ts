@@ -319,7 +319,7 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="133"/>
       <source>Interface Theme:</source>
-      <translation>انٹرفیس کا مرکزی خیال:</translation>
+      <translation>انٹرفیس کی تھیم:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="147"/>
@@ -334,12 +334,12 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="160"/>
       <source>Color Theme:</source>
-      <translation>رنگ کا مرکزی خیال:</translation>
+      <translation>رنگ کی تھیم:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="179"/>
       <source>Edit Theme</source>
-      <translation>مرکزی خیال میں ترمیم کریں</translation>
+      <translation>تھیم میں ترمیم کریں</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="193"/>
@@ -390,7 +390,7 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="136"/>
       <source>Enter theme name</source>
-      <translation>مرکزی خیال کا نام درج کریں</translation>
+      <translation>تھیم کا نام درج کریں</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="136"/>
@@ -411,7 +411,7 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="144"/>
       <source>Theme named %1 already exists.</source>
-      <translation>%1 نامی مرکزی خیال پہلے سے موجود ہے۔</translation>
+      <translation>%1 نامی تھیم پہلے سے موجود ہے۔</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="159"/>
@@ -441,12 +441,12 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="212"/>
       <source>Color theme &lt;b&gt;%1&lt;/b&gt; was successfully exported.</source>
-      <translation type="unfinished">Color theme &lt;b&gt;%1&lt;/b&gt; was successfully exported.</translation>
+      <translation>رنگ کی تھیم &lt;b&gt;%1&lt;/b&gt; کامیابی سے برآمد کی۔</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="221"/>
       <source>Enter new theme name</source>
-      <translation type="unfinished">Enter new theme name</translation>
+      <translation>نئی تھیم کا نام درج کریں</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="240"/>
@@ -456,12 +456,12 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="241"/>
       <source>Language will be changed after next application start.</source>
-      <translation type="unfinished">Language will be changed after next application start.</translation>
+      <translation>اگلی ایپلیکیشن شروع ہونے کے بعد زبان تبدیل کر دی جائے گی۔</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="245"/>
       <source>Cannot set language, not found in available ones</source>
-      <translation type="unfinished">Cannot set language, not found in available ones</translation>
+      <translation>زبان مقرر نہیں کی جا سکتی، دستیاب اختیارات میں نہیں ملی</translation>
     </message>
   </context>
   <context>
