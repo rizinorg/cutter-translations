@@ -6998,27 +6998,27 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="80"/>
       <source>Index</source>
-      <translation type="unfinished">Index</translation>
+      <translation>সূচক</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="82"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>ধরন</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="84"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>আকার</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="86"/>
       <source>Lang</source>
-      <translation type="unfinished">Lang</translation>
+      <translation>ভাষা</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="88"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>মন্তব্য</translation>
     </message>
   </context>
   <context>
@@ -7026,7 +7026,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="118"/>
       <source>Resources</source>
-      <translation type="unfinished">Resources</translation>
+      <translation>উপকরণ</translation>
     </message>
   </context>
   <context>
@@ -7034,52 +7034,52 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RizinGraphWidget.ui" line="57"/>
       <source>ag...</source>
-      <translation type="unfinished">ag...</translation>
+      <translation>ag...</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="21"/>
       <source>Data reference graph (aga)</source>
-      <translation type="unfinished">Data reference graph (aga)</translation>
+      <translation>ডেটা রেফারেন্স গ্রাফ (aga)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="22"/>
       <source>Global data references graph (agA)</source>
-      <translation type="unfinished">Global data references graph (agA)</translation>
+      <translation>গ্লোবাল ডেটা রেফারেন্স গ্রাফ (agA)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="26"/>
       <source>Imports graph (agi)</source>
-      <translation type="unfinished">Imports graph (agi)</translation>
+      <translation>আনীত গ্রাফ (agi)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="27"/>
       <source>References graph (agr)</source>
-      <translation type="unfinished">References graph (agr)</translation>
+      <translation>রেফারেন্স গ্রাফ (agr)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="28"/>
       <source>Global references graph (agR)</source>
-      <translation type="unfinished">Global references graph (agR)</translation>
+      <translation>গ্লোবাল রেফারেন্স গ্রাফ (agR)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="29"/>
       <source>Cross references graph (agx)</source>
-      <translation type="unfinished">Cross references graph (agx)</translation>
+      <translation>ক্রস রেফারেন্স গ্রাফ (agx)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="30"/>
       <source>RzIL statement graph (agI)</source>
-      <translation type="unfinished">RzIL statement graph (agI)</translation>
+      <translation>RzIL স্টেটমেন্ট গ্রাফ (agI)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="31"/>
       <source>Custom graph (agg)</source>
-      <translation type="unfinished">Custom graph (agg)</translation>
+      <translation>কাস্টম গ্রাফ (agg)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="32"/>
       <source>User command</source>
-      <translation type="unfinished">User command</translation>
+      <translation>ইউজার কমান্ড</translation>
     </message>
   </context>
   <context>
@@ -7087,17 +7087,17 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="14"/>
       <source>Rizin plugin information</source>
-      <translation type="unfinished">Rizin plugin information</translation>
+      <translation>Rizin প্লাগইন তথ্য</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="24"/>
       <source>RzBin</source>
-      <translation type="unfinished">RzBin</translation>
+      <translation>RzBin</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="30"/>
       <source>RzBin plugins</source>
-      <translation type="unfinished">RzBin plugins</translation>
+      <translation>RzBin প্লাগইন</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="41"/>
@@ -7105,7 +7105,7 @@ Do you want to commit them now?</source>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="123"/>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="159"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>নাম</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="46"/>
@@ -7113,7 +7113,7 @@ Do you want to commit them now?</source>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="128"/>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="179"/>
       <source>Description</source>
-      <translation type="unfinished">Description</translation>
+      <translation>বর্ণনা</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="51"/>
