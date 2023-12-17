@@ -1736,7 +1736,7 @@
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="153"/>
       <source>Execute command</source>
-      <translation type="unfinished">Execute command</translation>
+      <translation>کمانڈ پر عمل کریں</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="159"/>
@@ -1746,7 +1746,7 @@
     <message>
       <location filename="../widgets/ConsoleWidget.cpp" line="76"/>
       <source>Clear Output</source>
-      <translation type="unfinished">Clear Output</translation>
+      <translation>آؤٹ پٹ صاف کریں</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.cpp" line="85"/>
@@ -1760,7 +1760,7 @@
       <location filename="../core/Cutter.cpp" line="274"/>
       <location filename="../core/Cutter.cpp" line="287"/>
       <source>Loading initialization file from </source>
-      <translation type="unfinished">Loading initialization file from </translation>
+      <translation>سے ابتدائی فائل لوڈ ہو رہی ہے </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1057"/>
