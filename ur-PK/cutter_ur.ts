@@ -3194,7 +3194,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="53"/>
       <source>Start address</source>
-      <translation type="unfinished">Start address</translation>
+      <translation>شروع کا ایڈریس</translation>
     </message>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="63"/>
@@ -3924,7 +3924,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="14"/>
       <source>Add Global Variable</source>
-      <translation type="unfinished">Add Global Variable</translation>
+      <translation>عالمی متغیر شامل کریں</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="20"/>
@@ -3939,7 +3939,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="61"/>
       <source>int</source>
-      <translation type="unfinished">int</translation>
+      <translation>عدد صحیح</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="80"/>
@@ -3949,12 +3949,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.cpp" line="28"/>
       <source>Edit global variable at %1</source>
-      <translation type="unfinished">Edit global variable at %1</translation>
+      <translation>عالمی متغیر %1 میں ترمیم کریں</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.cpp" line="30"/>
       <source>Add global variable at %1</source>
-      <translation type="unfinished">Add global variable at %1</translation>
+      <translation>%1 پر عالمی متغیر شامل کریں</translation>
     </message>
   </context>
   <context>
