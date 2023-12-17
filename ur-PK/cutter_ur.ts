@@ -765,27 +765,27 @@
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="45"/>
       <source>%n hour</source>
       <comment>%n hours</comment>
-      <translation type="unfinished">
+      <translation>
         <numerusform>%n گھنٹہ</numerusform>
-        <numerusform>%n hour</numerusform>
+        <numerusform>%n گھنٹہ</numerusform>
       </translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="49"/>
       <source>%n minute</source>
       <comment>%n minutes</comment>
-      <translation type="unfinished">
+      <translation>
         <numerusform>%n منٹ</numerusform>
-        <numerusform>%n minute</numerusform>
+        <numerusform>%n منٹ</numerusform>
       </translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="52"/>
       <source>%n seconds</source>
       <comment>%n second</comment>
-      <translation type="unfinished">
+      <translation>
         <numerusform>%n سیکنڈز</numerusform>
-        <numerusform>%n seconds</numerusform>
+        <numerusform>%n سیکنڈز</numerusform>
       </translation>
     </message>
   </context>
@@ -1352,22 +1352,22 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="622"/>
       <source>Analysis (Editable)</source>
-      <translation type="unfinished">Analysis (Editable)</translation>
+      <translation>تجزیہ (قابل ترمیم)</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="599"/>
       <source>Seek to VTable</source>
-      <translation type="unfinished">Seek to VTable</translation>
+      <translation>VTable پر تلاش کریں</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="600"/>
       <source>Edit Method</source>
-      <translation type="unfinished">Edit Method</translation>
+      <translation>طریقہ میں ترمیم کریں</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="601"/>
       <source>Add Method</source>
-      <translation type="unfinished">Add Method</translation>
+      <translation>طریقہ شامل کریں</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="602"/>
@@ -1394,12 +1394,12 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="741"/>
       <source>Missing VTable in class</source>
-      <translation type="unfinished">Missing VTable in class</translation>
+      <translation>کلاس میں VTable موجود نہیں ہے</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="742"/>
       <source>The class %1 does not have any VTable!</source>
-      <translation type="unfinished">The class %1 does not have any VTable!</translation>
+      <translation>کلاس %1 میں کوئی VTable نہیں ہے!</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="789"/>
@@ -1432,17 +1432,17 @@
     <message>
       <location filename="../widgets/ColorPicker.ui" line="87"/>
       <source>Val:</source>
-      <translation type="unfinished">Val:</translation>
+      <translation>قدر:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="118"/>
       <source>Sat:</source>
-      <translation type="unfinished">Sat:</translation>
+      <translation>لبریزی:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="149"/>
       <source>Hue:</source>
-      <translation type="unfinished">Hue:</translation>
+      <translation>رنگ:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="184"/>
@@ -1472,7 +1472,7 @@
     <message>
       <location filename="../widgets/ColorPicker.ui" line="312"/>
       <source>Pick color from screen</source>
-      <translation type="unfinished">Pick color from screen</translation>
+      <translation>رنگ اسکرین سے چنیں</translation>
     </message>
   </context>
   <context>
@@ -1485,7 +1485,7 @@
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.ui" line="26"/>
       <source>Color Theme:</source>
-      <translation type="unfinished">Color Theme:</translation>
+      <translation>رنگ کی تھیم:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.ui" line="55"/>
@@ -1495,7 +1495,7 @@
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="35"/>
       <source>Disassembly Preview</source>
-      <translation type="unfinished">Disassembly Preview</translation>
+      <translation>بے ترکیبی پیش نظارہ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="79"/>
@@ -1506,13 +1506,13 @@
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="93"/>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="144"/>
       <source>Unsaved changes</source>
-      <translation type="unfinished">Unsaved changes</translation>
+      <translation>غیر محفوظ کردہ تبدیلیاں</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="94"/>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="145"/>
       <source>Are you sure you want to exit without saving? All changes will be lost.</source>
-      <translation type="unfinished">Are you sure you want to exit without saving? All changes will be lost.</translation>
+      <translation>کیا آپ واقعی محفوظ کیے بغیر خروج کرنا چاہتے ہیں؟ تمام تبدیلیاں ضائع ہو جائیں گی۔</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="159"/>
@@ -1525,83 +1525,83 @@
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="45"/>
       <source>Standard themes not found</source>
-      <translation type="unfinished">Standard themes not found</translation>
+      <translation>معیاری تھیمز نہیں ملے</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="46"/>
       <source>The Rizin standard themes could not be found in &apos;%1&apos;. Most likely, Rizin is not properly installed.</source>
-      <translation type="unfinished">The Rizin standard themes could not be found in &apos;%1&apos;. Most likely, Rizin is not properly installed.</translation>
+      <translation>Rizin معیاری تھیمز &apos;%1&apos; میں تلاش نہیں کی جا سکیں۔ زیادہ امکان ہے کہ Rizin مناسب طریقے سے انسٹال نہیں ہوا ہے۔</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="75"/>
       <location filename="../common/ColorThemeWorker.cpp" line="169"/>
       <source>Theme &lt;b&gt;%1&lt;/b&gt; does not exist.</source>
-      <translation type="unfinished">Theme &lt;b&gt;%1&lt;/b&gt; does not exist.</translation>
+      <translation>تھیم &lt;b&gt;%1&lt;/b&gt; موجود نہیں ہے۔</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="85"/>
       <source>The file &lt;b&gt;%1&lt;/b&gt; cannot be opened.</source>
-      <translation type="unfinished">The file &lt;b&gt;%1&lt;/b&gt; cannot be opened.</translation>
+      <translation>فائل &lt;b&gt;%1&lt;/b&gt; کو کھولا نہیں جا سکتا ہے۔</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="166"/>
       <source>You can not delete standard Rizin color themes.</source>
-      <translation type="unfinished">You can not delete standard Rizin color themes.</translation>
+      <translation>آپ معیاری Rizin رنگ کی تھیمز کو حذف نہیں کر سکتے۔</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="174"/>
       <source>You have no permission to write to &lt;b&gt;%1&lt;/b&gt;</source>
-      <translation type="unfinished">You have no permission to write to &lt;b&gt;%1&lt;/b&gt;</translation>
+      <translation>آپ کو &lt;b&gt;%1&lt;/b&gt; پر لکھنے کی اجازت نہیں ہے</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="177"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; can not be opened.</source>
-      <translation type="unfinished">File &lt;b&gt;%1&lt;/b&gt; can not be opened.</translation>
+      <translation>فائل &lt;b&gt;%1&lt;/b&gt; کو کھولا نہیں جا سکتا ہے۔</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="180"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; can not be removed.</source>
-      <translation type="unfinished">File &lt;b&gt;%1&lt;/b&gt; can not be removed.</translation>
+      <translation>فائل &lt;b&gt;%1&lt;/b&gt; کو ہٹایا نہیں جا سکتا ہے۔</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="189"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; does not exist.</source>
-      <translation type="unfinished">File &lt;b&gt;%1&lt;/b&gt; does not exist.</translation>
+      <translation>فائل &lt;b&gt;%1&lt;/b&gt; موجود نہیں ہے۔</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="195"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; could not be opened. Please make sure you have access to it and try again.</source>
-      <translation type="unfinished">File &lt;b&gt;%1&lt;/b&gt; could not be opened. Please make sure you have access to it and try again.</translation>
+      <translation>فائل &lt;b&gt;%1&lt;/b&gt; کھولی نہیں جا سکی۔ براہ کرم یقینی بنائیں کہ آپ کے پاس اس تک رسائی موجود ہے اور دوبارہ کوشش کریں۔</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="199"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; is not a Cutter color theme</source>
-      <translation type="unfinished">File &lt;b&gt;%1&lt;/b&gt; is not a Cutter color theme</translation>
+      <translation>فائل &lt;b&gt;%1&lt;/b&gt; ایک Cutter کلر تھیم نہیں ہے</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="204"/>
       <source>A color theme named &lt;b&gt;%1&lt;/b&gt; already exists.</source>
-      <translation type="unfinished">A color theme named &lt;b&gt;%1&lt;/b&gt; already exists.</translation>
+      <translation>&lt;b&gt;%1&lt;/b&gt; نام والی ایک رنگ کی تھیم پہلے سے موجود ہے۔</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="210"/>
       <source>Error occurred during importing. Please make sure you have an access to the directory &lt;b&gt;%1&lt;/b&gt; and try again.</source>
-      <translation type="unfinished">Error occurred during importing. Please make sure you have an access to the directory &lt;b&gt;%1&lt;/b&gt; and try again.</translation>
+      <translation>درآمد کے دوران خرابی پیش آئی۔ براہ کرم یقینی بنائیں کہ آپ کو ڈائریکٹری &lt;b&gt;%1&lt;/b&gt; تک رسائی حاصل ہے اور دوبارہ کوشش کریں۔</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="220"/>
       <source>A color theme named &lt;b&gt;&quot;%1&quot;&lt;/b&gt; already exists.</source>
-      <translation type="unfinished">A color theme named &lt;b&gt;&quot;%1&quot;&lt;/b&gt; already exists.</translation>
+      <translation>&lt;b&gt;&quot;%1&quot;&lt;/b&gt; نام والی ایک رنگ کی تھیم پہلے سے موجود ہے۔</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="224"/>
       <source>You can not rename standard Rizin themes.</source>
-      <translation type="unfinished">You can not rename standard Rizin themes.</translation>
+      <translation>آپ معیاری Rizin تھیمز کا نام تبدیل نہیں کر سکتے۔</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="230"/>
       <source>Something went wrong during renaming. Please make sure you have access to the directory &lt;b&gt;&quot;%1&quot;&lt;/b&gt;.</source>
-      <translation type="unfinished">Something went wrong during renaming. Please make sure you have access to the directory &lt;b&gt;&quot;%1&quot;&lt;/b&gt;.</translation>
+      <translation>نام تبدیل کرنے کے دوران کچھ غلط ہوا ہے۔ براہ کرم یقینی بنائیں کہ آپ کے پاس ڈائریکٹری &lt;b&gt;&quot;%1&quot;&lt;/b&gt;. تک رسائی موجود ہے۔</translation>
     </message>
   </context>
   <context>
@@ -1609,17 +1609,17 @@
     <message>
       <location filename="../widgets/ComboQuickFilterView.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>فارم</translation>
     </message>
     <message>
       <location filename="../widgets/ComboQuickFilterView.ui" line="32"/>
       <source>Quick Filter</source>
-      <translation type="unfinished">Quick Filter</translation>
+      <translation>فوری فلٹر</translation>
     </message>
     <message>
       <location filename="../widgets/ComboQuickFilterView.ui" line="39"/>
       <source>TextLabel</source>
-      <translation type="unfinished">TextLabel</translation>
+      <translation>ٹیکسٹ لیبل</translation>
     </message>
   </context>
   <context>
@@ -1627,7 +1627,7 @@
     <message>
       <location filename="../common/CommandTask.h" line="23"/>
       <source>Running Command</source>
-      <translation type="unfinished">Running Command</translation>
+      <translation>چلانے والی کمانڈ</translation>
     </message>
   </context>
   <context>
@@ -1640,12 +1640,12 @@
     <message>
       <location filename="../dialogs/CommentsDialog.cpp" line="43"/>
       <source>Add Comment at %1</source>
-      <translation type="unfinished">Add Comment at %1</translation>
+      <translation>%1 پر تبصرہ شامل کریں</translation>
     </message>
     <message>
       <location filename="../dialogs/CommentsDialog.cpp" line="45"/>
       <source>Edit Comment at %1</source>
-      <translation type="unfinished">Edit Comment at %1</translation>
+      <translation>%1 پر تبصرہ میں ترمیم کریں</translation>
     </message>
   </context>
   <context>
@@ -1653,23 +1653,23 @@
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="157"/>
       <source>Function/Offset</source>
-      <translation type="unfinished">Function/Offset</translation>
+      <translation>فنکشن/آفسیٹ</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="159"/>
       <location filename="../widgets/CommentsWidget.cpp" line="170"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>تبصرہ</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="166"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>آفسیٹ</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="168"/>
       <source>Function</source>
-      <translation type="unfinished">Function</translation>
+      <translation>فنکشن</translation>
     </message>
   </context>
   <context>
@@ -1677,38 +1677,38 @@
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="235"/>
       <source>Horizontal</source>
-      <translation type="unfinished">Horizontal</translation>
+      <translation>اُفقی</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="236"/>
       <source>Vertical</source>
-      <translation type="unfinished">Vertical</translation>
+      <translation>عمودی</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="238"/>
       <source>Comments</source>
-      <translation type="unfinished">Comments</translation>
+      <translation>تبصرے</translation>
     </message>
   </context>
   <context>
     <name>Configuration</name>
     <message>
       <source>Critical!</source>
-      <translation type="unfinished">Critical!</translation>
+      <translation>بے حد اہم!</translation>
     </message>
     <message>
       <source>!!! Settings are not writable! Make sure you have a write access to &quot;%1&quot;</source>
-      <translation type="unfinished">!!! Settings are not writable! Make sure you have a write access to &quot;%1&quot;</translation>
+      <translation>!!! ترتیبات قابل تحریر نہیں! یقینی بنائیں کہ آپ کے پاس &quot;%1&quot; تک رائٹ کرنے کی رسائی موجود ہے</translation>
     </message>
     <message>
       <location filename="../common/Configuration.cpp" line="146"/>
       <source>Critical Error!</source>
-      <translation type="unfinished">Critical Error!</translation>
+      <translation>بے حد اہم خرابی!</translation>
     </message>
     <message>
       <location filename="../common/Configuration.cpp" line="147"/>
       <source>Settings are not writable! Make sure you have a write access to &quot;%1&quot;.</source>
-      <translation type="unfinished">Settings are not writable! Make sure you have a write access to &quot;%1&quot;.</translation>
+      <translation>ترتیبات قابل تحریر نہیں! یقینی بنائیں کہ آپ کے پاس &quot;%1&quot;. تک رائٹ کرنے کی رسائی موجود ہے۔</translation>
     </message>
   </context>
   <context>
@@ -1716,22 +1716,22 @@
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="93"/>
       <source>Rizin Console</source>
-      <translation type="unfinished">Rizin Console</translation>
+      <translation>Rizin کنسول</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="98"/>
       <source>Debugee Input</source>
-      <translation type="unfinished">Debugee Input</translation>
+      <translation>ڈیبگی ان پٹ</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="115"/>
       <source> Type &quot;?&quot; for help</source>
-      <translation type="unfinished"> Type &quot;?&quot; for help</translation>
+      <translation> مدد کے لیے &quot;?&quot; ٹائپ کریں</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="137"/>
       <source> Enter input for the debugee</source>
-      <translation type="unfinished"> Enter input for the debugee</translation>
+      <translation> ڈیبگی کے لیے ان پٹ درج کریں</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="153"/>
@@ -1751,7 +1751,7 @@
     <message>
       <location filename="../widgets/ConsoleWidget.cpp" line="85"/>
       <source>Wrap Lines</source>
-      <translation type="unfinished">Wrap Lines</translation>
+      <translation>ریپ لائنز</translation>
     </message>
   </context>
   <context>
@@ -1769,7 +1769,7 @@
       <location filename="../core/Cutter.cpp" line="1081"/>
       <location filename="../core/Cutter.cpp" line="1085"/>
       <source>Signatures</source>
-      <translation type="unfinished">Signatures</translation>
+      <translation>سگنیچرز</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1058"/>
@@ -1811,7 +1811,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../core/Cutter.cpp" line="2098"/>
       <source>Connecting to: </source>
-      <translation type="unfinished">Connecting to: </translation>
+      <translation>رابطہ کیا جا رہا ہے: </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2150"/>
@@ -1883,12 +1883,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="42"/>
       <source>Layout</source>
-      <translation type="unfinished">Layout</translation>
+      <translation>لے آؤٹ</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="43"/>
       <source>Horizontal</source>
-      <translation type="unfinished">Horizontal</translation>
+      <translation>اُفقی</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="47"/>
@@ -1908,32 +1908,32 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="63"/>
       <source>Graphviz polyline</source>
-      <translation type="unfinished">Graphviz polyline</translation>
+      <translation>Graphviz پولی لائن</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="64"/>
       <source>Graphviz ortho</source>
-      <translation type="unfinished">Graphviz ortho</translation>
+      <translation>Graphviz آرتھو</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="65"/>
       <source>Graphviz sfdp</source>
-      <translation type="unfinished">Graphviz sfdp</translation>
+      <translation>Graphviz sfdp</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="66"/>
       <source>Graphviz neato</source>
-      <translation type="unfinished">Graphviz neato</translation>
+      <translation>Graphviz نیٹو</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="67"/>
       <source>Graphviz twopi</source>
-      <translation type="unfinished">Graphviz twopi</translation>
+      <translation>Graphviz ٹووپی</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="68"/>
       <source>Graphviz circo</source>
-      <translation type="unfinished">Graphviz circo</translation>
+      <translation>Graphviz سرکو</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="409"/>
@@ -1953,7 +1953,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="415"/>
       <source>Graphviz dot (*.dot)</source>
-      <translation type="unfinished">Graphviz dot (*.dot)</translation>
+      <translation>Graphviz dot (*.dot)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="416"/>
@@ -1963,7 +1963,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="418"/>
       <source>RZ JSON (*.json)</source>
-      <translation type="unfinished">RZ JSON (*.json)</translation>
+      <translation>RZ JSON (*.json)</translation>
     </message>
     <message>
       <source>SDB key-value (*.txt)</source>
@@ -1972,12 +1972,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="424"/>
       <source>Graphviz json (*.json)</source>
-      <translation type="unfinished">Graphviz json (*.json)</translation>
+      <translation>Graphviz json (*.json)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="426"/>
       <source>Graphviz gif (*.gif)</source>
-      <translation type="unfinished">Graphviz gif (*.gif)</translation>
+      <translation>Graphviz gif (*.gif)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="428"/>
@@ -1987,22 +1987,22 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="430"/>
       <source>Graphviz jpg (*.jpg)</source>
-      <translation type="unfinished">Graphviz jpg (*.jpg)</translation>
+      <translation>Graphviz jpg (*.jpg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="432"/>
       <source>Graphviz PostScript (*.ps)</source>
-      <translation type="unfinished">Graphviz PostScript (*.ps)</translation>
+      <translation>Graphviz PostScript (*.ps)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="434"/>
       <source>Graphviz svg (*.svg)</source>
-      <translation type="unfinished">Graphviz svg (*.svg)</translation>
+      <translation>Graphviz svg (*.svg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="436"/>
       <source>Graphviz pdf (*.pdf)</source>
-      <translation type="unfinished">Graphviz pdf (*.pdf)</translation>
+      <translation>Graphviz pdf (*.pdf)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="458"/>
@@ -2033,7 +2033,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/CutterTreeWidget.cpp" line="19"/>
       <source>%1 Items</source>
-      <translation type="unfinished">%1 Items</translation>
+      <translation>%1 آئیٹمز</translation>
     </message>
   </context>
   <context>
@@ -2041,7 +2041,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/Dashboard.ui" line="116"/>
       <source>OVERVIEW</source>
-      <translation type="unfinished">OVERVIEW</translation>
+      <translation>جائزہ</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="140"/>
@@ -2086,12 +2086,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/Dashboard.ui" line="207"/>
       <source>Format:</source>
-      <translation type="unfinished">Format:</translation>
+      <translation>فارمیٹ:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="236"/>
       <source>Mode:</source>
-      <translation type="unfinished">Mode:</translation>
+      <translation>نوع:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="265"/>
@@ -2106,82 +2106,82 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/Dashboard.ui" line="310"/>
       <source>Class:</source>
-      <translation type="unfinished">Class:</translation>
+      <translation>کلاس:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="339"/>
       <source>Language:</source>
-      <translation type="unfinished">Language:</translation>
+      <translation>زبان:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="368"/>
       <source>Bits:</source>
-      <translation type="unfinished">Bits:</translation>
+      <translation>بٹس:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="426"/>
       <source>FD:</source>
-      <translation type="unfinished">FD:</translation>
+      <translation>فاورڈ:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="455"/>
       <source>Base addr:</source>
-      <translation type="unfinished">Base addr:</translation>
+      <translation>بنیادی ایڈریس:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="484"/>
       <source>Virtual addr:</source>
-      <translation type="unfinished">Virtual addr:</translation>
+      <translation>ورچوئل ایڈریس:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="513"/>
       <source>Canary:</source>
-      <translation type="unfinished">Canary:</translation>
+      <translation>کینری:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="542"/>
       <source>Crypto:</source>
-      <translation type="unfinished">Crypto:</translation>
+      <translation>کرپٹو:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="571"/>
       <source>NX bit:</source>
-      <translation type="unfinished">NX bit:</translation>
+      <translation>NX بٹ:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="600"/>
       <source>PIC:</source>
-      <translation type="unfinished">PIC:</translation>
+      <translation>PIC:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="629"/>
       <source>Static:</source>
-      <translation type="unfinished">Static:</translation>
+      <translation>سٹیٹک:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="645"/>
       <source>Relro:</source>
-      <translation type="unfinished">Relro:</translation>
+      <translation>ری لوکیشن صرف پڑھنے کے لیے:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="700"/>
       <source>Architecture:</source>
-      <translation type="unfinished">Architecture:</translation>
+      <translation>تعمیرات:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="729"/>
       <source>Machine:</source>
-      <translation type="unfinished">Machine:</translation>
+      <translation>مشین:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="758"/>
       <source>OS:</source>
-      <translation type="unfinished">OS:</translation>
+      <translation>OS:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="787"/>
       <source>Subsystem:</source>
-      <translation type="unfinished">Subsystem:</translation>
+      <translation>سب سسٹم:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="816"/>
@@ -2191,7 +2191,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/Dashboard.ui" line="845"/>
       <source>Relocs:</source>
-      <translation type="unfinished">Relocs:</translation>
+      <translation>ری لوکیشنز:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="874"/>
@@ -2206,93 +2206,93 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/Dashboard.ui" line="932"/>
       <source>Compiler:</source>
-      <translation type="unfinished">Compiler:</translation>
+      <translation>کمپائیلر</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="993"/>
       <location filename="../widgets/Dashboard.cpp" line="176"/>
       <source>Certificates</source>
-      <translation type="unfinished">Certificates</translation>
+      <translation>سرٹیفیکیٹس</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1006"/>
       <source>Version info</source>
-      <translation type="unfinished">Version info</translation>
+      <translation>ورژن کی معلومات</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1034"/>
       <source>Hashes</source>
-      <translation type="unfinished">Hashes</translation>
+      <translation>ہیشز</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1051"/>
       <source>Libraries</source>
-      <translation type="unfinished">Libraries</translation>
+      <translation>لائبریریاں</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1083"/>
       <source>Analysis info</source>
-      <translation type="unfinished">Analysis info</translation>
+      <translation>تجزیہ کی معلومات</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1107"/>
       <source>Functions:</source>
-      <translation type="unfinished">Functions:</translation>
+      <translation>فنکشنز:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1133"/>
       <source>X-Refs:</source>
-      <translation type="unfinished">X-Refs:</translation>
+      <translation>کراس حوالہ جات:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1159"/>
       <source>Calls:</source>
-      <translation type="unfinished">Calls:</translation>
+      <translation>کالز:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1185"/>
       <source>Strings:</source>
-      <translation type="unfinished">Strings:</translation>
+      <translation>سٹرنگز:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1211"/>
       <source>Symbols:</source>
-      <translation type="unfinished">Symbols:</translation>
+      <translation>علامات:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1237"/>
       <source>Imports:</source>
-      <translation type="unfinished">Imports:</translation>
+      <translation>درآمد:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1263"/>
       <source>Analysis coverage:</source>
-      <translation type="unfinished">Analysis coverage:</translation>
+      <translation>تجزیہ کا احاطہ:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1289"/>
       <source>Code size:</source>
-      <translation type="unfinished">Code size:</translation>
+      <translation>کوڈ سائز:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1315"/>
       <source>Coverage percent:</source>
-      <translation type="unfinished">Coverage percent:</translation>
+      <translation>کوریج کا تناسب:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="162"/>
       <source>Key</source>
-      <translation type="unfinished">Key</translation>
+      <translation>کلید</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="162"/>
       <source>Value</source>
-      <translation type="unfinished">Value</translation>
+      <translation>قدر</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="163"/>
       <source>root</source>
-      <translation type="unfinished">root</translation>
+      <translation>روٹ</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="204"/>
@@ -2305,12 +2305,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="37"/>
       <source>Start emulation</source>
-      <translation type="unfinished">Start emulation</translation>
+      <translation>نقالی شروع کریں</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="38"/>
       <source>Attach to process</source>
-      <translation type="unfinished">Attach to process</translation>
+      <translation>پراسس سے منسلک کریں</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="39"/>
@@ -2395,12 +2395,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="55"/>
       <source>Restart program</source>
-      <translation type="unfinished">Restart program</translation>
+      <translation>پروگرام کو دوبارہ شروع کریں</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="56"/>
       <source>Start debug</source>
-      <translation type="unfinished">Start debug</translation>
+      <translation>ڈیبگ شروع کریں</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="147"/>
@@ -2446,17 +2446,17 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="14"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>ڈی بگ کریں</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="30"/>
       <source>Debug plugin:</source>
-      <translation type="unfinished">Debug plugin:</translation>
+      <translation>ڈی بگ پلگ ان:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="42"/>
       <source>ESIL options</source>
-      <translation type="unfinished">ESIL options</translation>
+      <translation>ESIL آپشنز</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="54"/>
