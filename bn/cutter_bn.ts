@@ -774,9 +774,9 @@
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="49"/>
       <source>%n minute</source>
       <comment>%n minutes</comment>
-      <translation type="unfinished">
+      <translation>
         <numerusform>%n মিনিট</numerusform>
-        <numerusform>%n minute</numerusform>
+        <numerusform>%n মিনিট</numerusform>
       </translation>
     </message>
     <message numerus="yes">
