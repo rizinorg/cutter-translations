@@ -11,12 +11,12 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="54"/>
       <source>Check for updates on start</source>
-      <translation>آغاز میں اپ ڈیٹس کیلیے جانچ کریں</translation>
+      <translation>آغاز میں اپ ڈیٹس کیلیے پڑتال کریں</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="67"/>
       <source>Check for updates</source>
-      <translation>اپ ڈیٹس کیلیے جانچ کریں</translation>
+      <translation>اپ ڈیٹس کیلیے پڑتال کریں</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="80"/>
@@ -31,7 +31,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="100"/>
       <source>Report an issue</source>
-      <translation>کسی مسئلہ کی اطلاع دیں</translation>
+      <translation>ایک مسئلہ کی اطلاع دیں</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="113"/>
@@ -86,7 +86,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="52"/>
       <source>Check our &lt;a href=&apos;https://github.com/rizinorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</source>
-      <translation>شراکت داران کی پوری فہرست دیکھنے کے لیے ہمارے &lt;a href=&apos;https://github.com/rizinorg/cutter/graphs/contributors&apos;&gt;contributors صفحہ&lt;/a&gt; کی جانچ کریں۔</translation>
+      <translation>شراکت داران کی پوری فہرست دیکھنے کے لیے ہمارے &lt;a href=&apos;https://github.com/rizinorg/cutter/graphs/contributors&apos;&gt;contributors صفحہ&lt;/a&gt; کی پڑتال کریں۔</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="76"/>
@@ -96,7 +96,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="103"/>
       <source>Checking for updates...</source>
-      <translation>اپ ڈیٹس کیلیے جانچ کر رہا ہے...</translation>
+      <translation>اپ ڈیٹس کیلیے پڑتال کر رہا ہے...</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="109"/>
@@ -6167,21 +6167,21 @@ WARNING: In Write mode, any changes will be committed to the file on disk. For s
     <message>
       <location filename="../common/IOModesController.cpp" line="62"/>
       <source>Reopen in Write mode</source>
-      <translation type="unfinished">Reopen in Write mode</translation>
+      <translation>لکھنے کے موڈ میں دوبارہ کھولیں</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="64"/>
       <source>Enable Cache mode</source>
-      <translation type="unfinished">Enable Cache mode</translation>
+      <translation>کیشے موڈ فعال کریں</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="94"/>
       <source>Uncommitted changes</source>
-      <translation type="unfinished">Uncommitted changes</translation>
+      <translation>غیر داخل کردہ تبدیلیاں</translation>
     </message>
     <message>
       <source>Uncomitted changes</source>
-      <translation type="unfinished">Uncomitted changes</translation>
+      <translation>غیر داخل کردہ تبدیلیاں</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="95"/>
@@ -6193,27 +6193,27 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="98"/>
       <source>Version mismatch!</source>
-      <translation type="unfinished">Version mismatch!</translation>
+      <translation>ورژن سے مماثلت نہیں!</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="99"/>
       <source>The version used to compile Cutter (%1) does not match the binary version of rizin (%2). This could result in unexpected behaviour. Are you sure you want to continue?</source>
-      <translation type="unfinished">The version used to compile Cutter (%1) does not match the binary version of rizin (%2). This could result in unexpected behaviour. Are you sure you want to continue?</translation>
+      <translation>Cutter (%1) کو مرتب کرنے کے لیے استعمال ہونے والی ورژن rizin (%2) کی بائنری ورژن سے میل نہیں کھاتی ہے۔ اس کا نتیجہ غیر متوقع رویہ کی صورت میں نکل سکتا ہے۔ کیا آپ واقعی جاری رکھنا چاہتے ہیں؟</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="388"/>
       <source>A Qt and C++ GUI for rizin reverse engineering framework</source>
-      <translation type="unfinished">A Qt and C++ GUI for rizin reverse engineering framework</translation>
+      <translation>rizin ریورس انجینئرنگ فریم ورک کے لیے ایک Qt اور C++ GUI</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="391"/>
       <source>Filename to open.</source>
-      <translation type="unfinished">Filename to open.</translation>
+      <translation>کھولنے کے لیے فائل کا نام۔</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="395"/>
       <source>Automatically open file and optionally start analysis. Needs filename to be specified. May be a value between 0 and 2: 0 = no analysis, 1 = aaa, 2 = aaaa (experimental)</source>
-      <translation type="unfinished">Automatically open file and optionally start analysis. Needs filename to be specified. May be a value between 0 and 2: 0 = no analysis, 1 = aaa, 2 = aaaa (experimental)</translation>
+      <translation>فائل کو خود بخود کھولیں اور اختیاری طور پر تجزیہ شروع کریں۔ فائل کا نام بتانے کی ضرورت ہے۔ 0 اور 2 کے درمیان کی قدر ہو سکتی ہے: 0 = کوئی تجزیہ نہیں، 1 = aaa، 2 = aaaa (تجرباتی)</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="398"/>
@@ -6223,7 +6223,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="401"/>
       <source>Sets a specific architecture name</source>
-      <translation type="unfinished">Sets a specific architecture name</translation>
+      <translation>ایک مخصوص آرکیٹیکچر کا نام سیٹ کرتا ہے</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="402"/>
@@ -6233,7 +6233,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="405"/>
       <source>Sets a specific architecture bits</source>
-      <translation type="unfinished">Sets a specific architecture bits</translation>
+      <translation>ایک مخصوص آرکیٹیکچر بٹس مقرر کرتا ہے</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="406"/>
@@ -6243,7 +6243,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="409"/>
       <source>Sets a specific CPU</source>
-      <translation type="unfinished">Sets a specific CPU</translation>
+      <translation>ایک مخصوص CPU کو سیٹ کرتا ہے</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="410"/>
@@ -6253,7 +6253,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="413"/>
       <source>Sets a specific operating system</source>
-      <translation type="unfinished">Sets a specific operating system</translation>
+      <translation>ایک مخصوص آپریٹنگ سسٹم سیٹ کرتا ہے</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="414"/>
@@ -6263,17 +6263,17 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="418"/>
       <source>Sets the endianness (big or little)</source>
-      <translation type="unfinished">Sets the endianness (big or little)</translation>
+      <translation>اینڈیننیس کو مقرر کرتا ہے (بڑا یا چھوٹا)</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="419"/>
       <source>big|little</source>
-      <translation type="unfinished">big|little</translation>
+      <translation>بڑا|چھوٹا</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="423"/>
       <source>Force using a specific file format (bin plugin)</source>
-      <translation type="unfinished">Force using a specific file format (bin plugin)</translation>
+      <translation>ایک مخصوص فائل فارمیٹ (bin پلگ ان) استعمال کرنے پر مجبور کریں</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="424"/>
@@ -6283,27 +6283,27 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="428"/>
       <source>Load binary at a specific base address</source>
-      <translation type="unfinished">Load binary at a specific base address</translation>
+      <translation>ایک مخصوص بیس ایڈریس پر بائنری لوڈ کریں</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="429"/>
       <source>base address</source>
-      <translation type="unfinished">base address</translation>
+      <translation>بنیادی ایڈریس</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="433"/>
       <source>Map the binary at a specific address</source>
-      <translation type="unfinished">Map the binary at a specific address</translation>
+      <translation>بائنری کا نقشہ ایک مخصوص ایڈریس پر بنائیں</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="434"/>
       <source>map address</source>
-      <translation type="unfinished">map address</translation>
+      <translation>نقشہ کا ایڈریس</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="437"/>
       <source>Run script file</source>
-      <translation type="unfinished">Run script file</translation>
+      <translation>اسکرپٹ فائل چلائیں</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="437"/>
@@ -6313,7 +6313,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="440"/>
       <source>Load project file</source>
-      <translation type="unfinished">Load project file</translation>
+      <translation>پروجیکٹ فائل لوڈ کریں</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="441"/>
@@ -6323,57 +6323,57 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="445"/>
       <source>Open file in write mode</source>
-      <translation type="unfinished">Open file in write mode</translation>
+      <translation>فائل لکھنے کے موڈ میں کھولیں</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="449"/>
       <source>Disables virtual addressing</source>
-      <translation type="unfinished">Disables virtual addressing</translation>
+      <translation>ورچوئل ایڈریسنگ کو غیرفعال کرتا ہے</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="453"/>
       <source>PYTHONHOME to use for embedded python interpreter</source>
-      <translation type="unfinished">PYTHONHOME to use for embedded python interpreter</translation>
+      <translation>ایمبیڈڈ پائیتھن ترجمان کے لیے PYTHONHOME استعمال کرنا ہے</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="459"/>
       <source>Disable output redirection. Some of the output in console widget will not be visible. Use this option when debuging a crash or freeze and output  redirection is causing some messages to be lost.</source>
-      <translation type="unfinished">Disable output redirection. Some of the output in console widget will not be visible. Use this option when debuging a crash or freeze and output  redirection is causing some messages to be lost.</translation>
+      <translation>آؤٹ پٹ ری ڈائریکشن کو غیر فعال کریں۔ کنسول ویجیٹ میں کچھ آؤٹ پٹ دکھائی نہیں دے گی۔ کریش یا منجمد اور آؤٹ پٹ ری ڈائریکشن کی ڈی بگنگ کرتے وقت اس اختیار کو استعمال کریں جس کی وجہ سے کچھ پیغامات ضائع ہو رہے ہیں۔</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="465"/>
       <source>Do not load plugins</source>
-      <translation type="unfinished">Do not load plugins</translation>
+      <translation>پلگ انز لوڈ نہ کریں</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="469"/>
       <source>Do not load Cutter plugins</source>
-      <translation type="unfinished">Do not load Cutter plugins</translation>
+      <translation>Cutter پلگ انز لوڈ نہ کریں</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="473"/>
       <source>Do not load rizin plugins</source>
-      <translation type="unfinished">Do not load rizin plugins</translation>
+      <translation>rizin پلگ انز لوڈ نہ کریں</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="487"/>
       <source>Invalid Analysis Level. May be a value between 0 and 2.</source>
-      <translation type="unfinished">Invalid Analysis Level. May be a value between 0 and 2.</translation>
+      <translation>غلط تجزیہ کا لیول۔ قدر 0 اور 2 کے درمیان ہو سکتی ہے۔</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="507"/>
       <source>Filename must be specified to start analysis automatically.</source>
-      <translation type="unfinished">Filename must be specified to start analysis automatically.</translation>
+      <translation>خود بخود تجزیہ شروع کرنے کے لیے فائل کا نام بتانا لازمی ہے۔</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="563"/>
       <source>Invalid Endianness. You can only set it to `big` or `little`.</source>
-      <translation type="unfinished">Invalid Endianness. You can only set it to `big` or `little`.</translation>
+      <translation>غلط اینڈیننیس۔ آپ اسے صرف `بڑی` یا `چھوٹی` پر مقرر کر سکتے ہیں۔</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="397"/>
       <source>Color of comment generated by Rizin</source>
-      <translation type="unfinished">Color of comment generated by Rizin</translation>
+      <translation>Rizin کی طرف سے تیار کردہ تبصرہ کا رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="397"/>
@@ -6383,17 +6383,17 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="398"/>
       <source>Comment created by user</source>
-      <translation type="unfinished">Comment created by user</translation>
+      <translation>صارف کی جانب سے تخلیق کردہ تبصرہ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="398"/>
       <source>Color of user Comment</source>
-      <translation type="unfinished">Color of user Comment</translation>
+      <translation>صارف کے تبصرے کا رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="400"/>
       <source>Color of names of functions</source>
-      <translation type="unfinished">Color of names of functions</translation>
+      <translation>فنکشنز کے ناموں کا رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="400"/>
@@ -6403,21 +6403,21 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="401"/>
       <source>Color of function location</source>
-      <translation type="unfinished">Color of function location</translation>
+      <translation>فنکشن کے مقام کا رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="401"/>
       <source>Function location</source>
-      <translation type="unfinished">Function location</translation>
+      <translation>فنکشن کا مقام</translation>
     </message>
     <message>
       <source>Color of ascii line in left side that shows what opcodes are belong to function</source>
-      <translation type="unfinished">Color of ascii line in left side that shows what opcodes are belong to function</translation>
+      <translation>بائیں جانب ascii لائن کا رنگ جو ظاہر کرتا ہے کہ فنکشن سے کون سے او پی کوڈز کا تعلق ہے۔</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="403"/>
       <source>Color of the line which shows which opcodes belongs to a function</source>
-      <translation type="unfinished">Color of the line which shows which opcodes belongs to a function</translation>
+      <translation>لائن کا رنگ جو ظاہر کرتا ہے کہ کون سے او پی کوڈز فنکشن سے تعلق رکھتے ہیں</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="404"/>
@@ -6427,7 +6427,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="406"/>
       <source>Color of flags (similar to bookmarks for offset)</source>
-      <translation type="unfinished">Color of flags (similar to bookmarks for offset)</translation>
+      <translation>فلیگز کا رنگ (آفسیٹ کے لیے بُک مارکس کی طرح)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="406"/>
@@ -6447,7 +6447,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="409"/>
       <source>Color of lines showing jump destination</source>
-      <translation type="unfinished">Color of lines showing jump destination</translation>
+      <translation>جمپ کی منزل کو ظاہر کرنے والی لائنوں کا رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="409"/>
@@ -6473,7 +6473,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="412"/>
       <source>Color of offsets</source>
-      <translation type="unfinished">Color of offsets</translation>
+      <translation>آفسیٹس کا رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="412"/>
@@ -6488,12 +6488,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="414"/>
       <source>Invalid opcode color</source>
-      <translation type="unfinished">Invalid opcode color</translation>
+      <translation>غلط او پی کوڈ رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="414"/>
       <source>invalid</source>
-      <translation type="unfinished">invalid</translation>
+      <translation>غلط</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="415"/>
@@ -6503,32 +6503,32 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="416"/>
       <source>0x00 opcode color</source>
-      <translation type="unfinished">0x00 opcode color</translation>
+      <translation>0x00 او پی کوڈ رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="417"/>
       <source>0x7f opcode color</source>
-      <translation type="unfinished">0x7f opcode color</translation>
+      <translation>0x7f او پی کوڈ رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="418"/>
       <source>0xff opcode color</source>
-      <translation type="unfinished">0xff opcode color</translation>
+      <translation>0xff او پی کوڈ رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="420"/>
       <source>Color of arithmetic opcodes (add, div, mul etc)</source>
-      <translation type="unfinished">Color of arithmetic opcodes (add, div, mul etc)</translation>
+      <translation>اعداد کے او پی کوڈ کا رنگ (add، div، mul وغیرہ)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="421"/>
       <source>Arithmetic</source>
-      <translation type="unfinished">Arithmetic</translation>
+      <translation>علم اعداد</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="423"/>
       <source>Color of binary operations (and, or, xor etc).</source>
-      <translation type="unfinished">Color of binary operations (and, or, xor etc).</translation>
+      <translation>بائنری آپریشنز کا رنگ (اور، یا، xor وغیرہ)۔</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="423"/>
@@ -6538,7 +6538,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="425"/>
       <source>Color of object names, commas between operators, squared brackets and operators inside them.</source>
-      <translation type="unfinished">Color of object names, commas between operators, squared brackets and operators inside them.</translation>
+      <translation>آبجیکٹ کے ناموں، آپریٹرز کے درمیان کوما، مربع بریکٹس اور ان کے اندر آپریٹرز کا رنگ۔</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="428"/>
@@ -6548,77 +6548,77 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="429"/>
       <source>push opcode color</source>
-      <translation type="unfinished">push opcode color</translation>
+      <translation>پش او پی کوڈ رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="430"/>
       <source>pop opcode color</source>
-      <translation type="unfinished">pop opcode color</translation>
+      <translation>pop او پی کوڈ رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="431"/>
       <source>Cryptographic color</source>
-      <translation type="unfinished">Cryptographic color</translation>
+      <translation>کاپی رائٹ رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="432"/>
       <source>jmp instructions color</source>
-      <translation type="unfinished">jmp instructions color</translation>
+      <translation>jmp ہدایات کا رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="434"/>
       <source>Color of conditional jump opcodes such as je, jg, jne etc</source>
-      <translation type="unfinished">Color of conditional jump opcodes such as je, jg, jne etc</translation>
+      <translation>مشروط جمپ او پی کوڈز کا رنگ جیسا کہ je، jg، jne وغیرہ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="435"/>
       <source>Conditional jump</source>
-      <translation type="unfinished">Conditional jump</translation>
+      <translation>مشروط جمپ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="436"/>
       <source>call instructions color (ccall, rcall, call etc)</source>
-      <translation type="unfinished">call instructions color (ccall, rcall, call etc)</translation>
+      <translation>کال ہدایات کا رنگ (ccall، rcall، کال وغیرہ)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="437"/>
       <source>nop opcode color</source>
-      <translation type="unfinished">nop opcode color</translation>
+      <translation>nop او پی کوڈ رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="438"/>
       <source>ret opcode color</source>
-      <translation type="unfinished">ret opcode color</translation>
+      <translation>ret او پی کوڈ رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="439"/>
       <source>Color of interrupts</source>
-      <translation type="unfinished">Color of interrupts</translation>
+      <translation>مداخلتوں کا رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="439"/>
       <source>Interrupts</source>
-      <translation type="unfinished">Interrupts</translation>
+      <translation>خلل اندازیاں</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="440"/>
       <source>swi opcode color</source>
-      <translation type="unfinished">swi opcode color</translation>
+      <translation>swi او پی کوڈ رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="442"/>
       <source>Color of compare instructions such as test and cmp</source>
-      <translation type="unfinished">Color of compare instructions such as test and cmp</translation>
+      <translation>ہدایات کے موازنہ کا رنگ جیسا کہ ٹیسٹ اور cmp</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="443"/>
       <source>Compare instructions</source>
-      <translation type="unfinished">Compare instructions</translation>
+      <translation>ہدایات کا موازنہ کریں</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="444"/>
       <source>Registers color</source>
-      <translation type="unfinished">Registers color</translation>
+      <translation>رجسٹرز کا رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="444"/>
@@ -6628,17 +6628,17 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="447"/>
       <source>Color of numeric constants and object pointers</source>
-      <translation type="unfinished">Color of numeric constants and object pointers</translation>
+      <translation>عددی مستقل اور آبجیکٹ پوائنٹرز کا رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="447"/>
       <source>Constants</source>
-      <translation type="unfinished">Constants</translation>
+      <translation>کانسٹنٹس</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="449"/>
       <source>Color of move instructions such as mov, movd, lea etc</source>
-      <translation type="unfinished">Color of move instructions such as mov, movd, lea etc</translation>
+      <translation>حرکت کی ہدایات کا رنگ جیسا کہ mov، movd، lea وغیرہ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="450"/>
@@ -6648,17 +6648,17 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="451"/>
       <source>Function variable color</source>
-      <translation type="unfinished">Function variable color</translation>
+      <translation>فنکشن متغیرات کا رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="451"/>
       <source>Function variable</source>
-      <translation type="unfinished">Function variable</translation>
+      <translation>فنکشن متغیرات</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="453"/>
       <source>Function variable (local or argument) type color</source>
-      <translation type="unfinished">Function variable (local or argument) type color</translation>
+      <translation>فنکشن متغیر (مقامی یا دلیل) کی قسم کا رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="454"/>
@@ -6668,67 +6668,67 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="456"/>
       <source>Function variable address color</source>
-      <translation type="unfinished">Function variable address color</translation>
+      <translation>فنکشن متغیر ایڈریس کا رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="456"/>
       <source>Variable address</source>
-      <translation type="unfinished">Variable address</translation>
+      <translation>متغیر ایڈریس</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="468"/>
       <source>In graph view jump arrow true</source>
-      <translation type="unfinished">In graph view jump arrow true</translation>
+      <translation>گراف ویو میں جمپ ایرو درست ہے</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="468"/>
       <source>Arrow true</source>
-      <translation type="unfinished">Arrow true</translation>
+      <translation>درست ایر</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="470"/>
       <source>In graph view jump arrow false</source>
-      <translation type="unfinished">In graph view jump arrow false</translation>
+      <translation>گراف ویو میں جمپ ایرو غلط ہے</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="470"/>
       <source>Arrow false</source>
-      <translation type="unfinished">Arrow false</translation>
+      <translation>غلط ایرو</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="472"/>
       <source>In graph view jump arrow (no condition)</source>
-      <translation type="unfinished">In graph view jump arrow (no condition)</translation>
+      <translation>گراف ویو میں جمپ ایرو (کوئی شرط نہیں)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="472"/>
       <source>Arrow</source>
-      <translation type="unfinished">Arrow</translation>
+      <translation>ایرو</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="476"/>
       <source>Background color of Graph Overview&apos;s node</source>
-      <translation type="unfinished">Background color of Graph Overview&apos;s node</translation>
+      <translation>گراف اوور ویو&apos; کے نوڈ کے پس منظر کا رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="477"/>
       <source>Graph Overview node</source>
-      <translation type="unfinished">Graph Overview node</translation>
+      <translation>گراف جائزہ نوڈ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="479"/>
       <source>Fill color of Graph Overview&apos;s selection</source>
-      <translation type="unfinished">Fill color of Graph Overview&apos;s selection</translation>
+      <translation>گراف مجموعی جائزہ&apos; کے انتخاب کا پر کیا ہوا رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="480"/>
       <source>Graph Overview fill</source>
-      <translation type="unfinished">Graph Overview fill</translation>
+      <translation>گراف جائزہ پر شدہ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="482"/>
       <source>Border color of Graph Overview&apos;s selection</source>
-      <translation type="unfinished">Border color of Graph Overview&apos;s selection</translation>
+      <translation>گراف مجموعی جائزہ&apos; کے انتخاب کا بارڈر رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="483"/>
@@ -7194,7 +7194,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RizinTaskDialog.ui" line="20"/>
       <source>Rizin task in progress..</source>
-      <translation type="unfinished">Rizin task in progress..</translation>
+      <translation>Rizin کا کام جاری ہے..</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinTaskDialog.ui" line="27"/>
@@ -7239,7 +7239,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../common/RunScriptTask.cpp" line="18"/>
       <source>Executing script...</source>
-      <translation type="unfinished">Executing script...</translation>
+      <translation>مسودہ پر عمل ہو رہا ہے...</translation>
     </message>
     <message>
       <location filename="../common/RunScriptTask.h" line="15"/>
@@ -7329,12 +7329,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="257"/>
       <source>string (case insensitive)</source>
-      <translation type="unfinished">string (case insensitive)</translation>
+      <translation>سٹرنگ (کیس کے تئیں حساس)</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="258"/>
       <source>hex string</source>
-      <translation type="unfinished">hex string</translation>
+      <translation>ہیکس اسٹرنگ</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="259"/>
@@ -7349,12 +7349,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="287"/>
       <source>No results found for:</source>
-      <translation type="unfinished">No results found for:</translation>
+      <translation>کے لیے کوئی نتائج نہیں ملے:</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="290"/>
       <source>No Results Found</source>
-      <translation type="unfinished">No Results Found</translation>
+      <translation>کوئی نتائج نہیں ملے</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="325"/>
@@ -7451,7 +7451,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="14"/>
       <source>Set to Data</source>
-      <translation type="unfinished">Set to Data</translation>
+      <translation>ڈیٹا پر سیٹ کریں</translation>
     </message>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="20"/>
@@ -7522,22 +7522,22 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="33"/>
       <source>Edit stack value...</source>
-      <translation type="unfinished">Edit stack value...</translation>
+      <translation>اسٹیک ویلیو میں ترمیم کریں...</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="109"/>
       <source>Edit stack at %1</source>
-      <translation type="unfinished">Edit stack at %1</translation>
+      <translation>%1 پر اسٹیک میں ترمیم کریں</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="138"/>
       <source>Stack position</source>
-      <translation type="unfinished">Stack position</translation>
+      <translation>اسٹیک پوزیشن</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="140"/>
       <source>Pointed memory</source>
-      <translation type="unfinished">Pointed memory</translation>
+      <translation>اشارہ کرتی میموری</translation>
     </message>
   </context>
   <context>
@@ -7583,7 +7583,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../common/StringsTask.h" line="13"/>
       <source>Searching for Strings</source>
-      <translation type="unfinished">Searching for Strings</translation>
+      <translation>اسٹرنگز کی تلاش جاری ہے</translation>
     </message>
   </context>
   <context>
@@ -7668,7 +7668,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.ui" line="23"/>
       <source>Load From File:</source>
-      <translation type="unfinished">Load From File:</translation>
+      <translation>فائل سے لوڈ کریں:</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.ui" line="37"/>
@@ -7678,7 +7678,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.ui" line="50"/>
       <source>Enter Types Manually</source>
-      <translation type="unfinished">Enter Types Manually</translation>
+      <translation>اقسام کو دستی طور پر ٹائپ کرتا ہے</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.cpp" line="37"/>
@@ -7694,7 +7694,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.cpp" line="90"/>
       <source>There was some error while loading new types</source>
-      <translation type="unfinished">There was some error while loading new types</translation>
+      <translation>نئی اقسام لوڈ کرتے وقت کچھ خرابی تھی</translation>
     </message>
   </context>
   <context>
@@ -7733,7 +7733,7 @@ Do you want to commit them now?</source>
       <location filename="../widgets/TypesWidget.ui" line="87"/>
       <location filename="../widgets/TypesWidget.cpp" line="308"/>
       <source>Load New Types</source>
-      <translation type="unfinished">Load New Types</translation>
+      <translation>نئِ اقسام لوڈ کریں</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.ui" line="92"/>
@@ -7796,7 +7796,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="347"/>
       <source>Are you sure you want to delete &quot;%1&quot;?</source>
-      <translation type="unfinished">Are you sure you want to delete &quot;%1&quot;?</translation>
+      <translation>کیا آپ واقعی حذف کرنا چاہتے ہیں &quot;%1&quot;؟</translation>
     </message>
   </context>
   <context>
@@ -7804,7 +7804,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="34"/>
       <source>Time limit exceeded during version check. Please check your internet connection and try again.</source>
-      <translation type="unfinished">Time limit exceeded during version check. Please check your internet connection and try again.</translation>
+      <translation>ورژن کی جانچ کے دوران وقت کی حد سے تجاوز کیا گیا۔ براہ کرم اپنے انٹرنیٹ کنکشن کی پڑتال کریں اور دوبارہ کوشش کریں۔</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="58"/>
@@ -7814,7 +7814,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="59"/>
       <source>There is an update available for Cutter.&lt;br/&gt;</source>
-      <translation type="unfinished">There is an update available for Cutter.&lt;br/&gt;</translation>
+      <translation>Cutter کے لیے ایک اپ ڈیٹ دستیاب ہے۔&lt;br/&gt;</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="59"/>
@@ -7829,12 +7829,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="62"/>
       <source>To update, please check the link:&lt;br/&gt;</source>
-      <translation type="unfinished">To update, please check the link:&lt;br/&gt;</translation>
+      <translation>اپ ڈیٹ کرنے کے لیے، براہ کرم لنک چیک کریں:&lt;br/&gt;</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="68"/>
       <source>Don&apos;t check for updates automatically</source>
-      <translation type="unfinished">Don&apos;t check for updates automatically</translation>
+      <translation>اپ ڈیٹس کے لیے خود کار طور پر پڑتال نہ&apos; کریں</translation>
     </message>
   </context>
   <context>
@@ -7889,7 +7889,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/VisualNavbar.cpp" line="31"/>
       <source>Visual navigation bar</source>
-      <translation type="unfinished">Visual navigation bar</translation>
+      <translation>بصری نیویگیشن بار</translation>
     </message>
   </context>
   <context>
@@ -7938,7 +7938,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="229"/>
       <source>Check for updates on start</source>
-      <translation>آغاز میں اپ ڈیٹس کیلیے جانچ کریں</translation>
+      <translation>آغاز میں اپ ڈیٹس کیلیے پڑتال کریں</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="298"/>
@@ -8012,28 +8012,28 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="155"/>
       <source>X-Refs to %1 (%2 results):</source>
-      <translation type="unfinished">X-Refs to %1 (%2 results):</translation>
+      <translation>%1 %1 کے لیے کراس حوالہ جات (%2 نتائج):</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="157"/>
       <source>X-Refs from %1 (%2 results):</source>
-      <translation type="unfinished">X-Refs from %1 (%2 results):</translation>
+      <translation>%1 سے کراس حوالہ جات (%2 نتائج):</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="162"/>
       <source>Writes to %1</source>
-      <translation type="unfinished">Writes to %1</translation>
+      <translation>%1 پر لکھتا ہے</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="163"/>
       <source>Reads from %1</source>
-      <translation type="unfinished">Reads from %1</translation>
+      <translation>%1 سے پڑھتا ہے</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="174"/>
       <location filename="../dialogs/XrefsDialog.cpp" line="193"/>
       <source>X-Refs for %1</source>
-      <translation type="unfinished">X-Refs for %1</translation>
+      <translation>%1 کے لیے کراس حوالہ جات</translation>
     </message>
   </context>
 </TS>
