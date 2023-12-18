@@ -4887,47 +4887,47 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="62"/>
       <source>Autoname functions based on context</source>
-      <translation type="unfinished">Autoname functions based on context</translation>
+      <translation>سیاق و سباق کی بنیاد پر فنکشز کو خودکار نام دیں</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="63"/>
       <source>Emulate code to find computed references</source>
-      <translation type="unfinished">Emulate code to find computed references</translation>
+      <translation>حسابی حوالہ جات تلاش کرنے کے لیے کوڈ کی نقالی کریں</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="64"/>
       <source>Analyze all consecutive functions</source>
-      <translation type="unfinished">Analyze all consecutive functions</translation>
+      <translation>تمام متواتر افعال کا تجزیہ کریں</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="65"/>
       <source>Type and Argument matching analysis</source>
-      <translation type="unfinished">Type and Argument matching analysis</translation>
+      <translation>قسم اور دلیل کی مماثلت کا تجزیہ</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="66"/>
       <source>Analyze code after trap-sleds</source>
-      <translation type="unfinished">Analyze code after trap-sleds</translation>
+      <translation>ٹریپ-سلیڈز کے بعد کوڈ کا تجزیہ کریں</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="67"/>
       <source>Analyze function preludes</source>
-      <translation type="unfinished">Analyze function preludes</translation>
+      <translation>فنکشن تمہید کا تجزیہ کریں</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="68"/>
       <source>Analyze jump tables in switch statements</source>
-      <translation type="unfinished">Analyze jump tables in switch statements</translation>
+      <translation>سوئچ بیانات میں جمپ ٹیبلز کا تجزیہ کریں</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="71"/>
       <source>Analyze PUSH+RET as JMP</source>
-      <translation type="unfinished">Analyze PUSH+RET as JMP</translation>
+      <translation>JMP کے طور پر PUSH+RET کا تجزیہ کریں</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="72"/>
       <source>Continue analysis after each function</source>
-      <translation type="unfinished">Continue analysis after each function</translation>
+      <translation>ہر فنکشن کے بعد تجزیہ جاری رکھیں</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="393"/>
@@ -4937,12 +4937,12 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="395"/>
       <source>Auto-Analysis (aaa)</source>
-      <translation type="unfinished">Auto-Analysis (aaa)</translation>
+      <translation>خود کار تجزیہ (aaa)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="397"/>
       <source>Auto-Analysis Experimental (aaaa)</source>
-      <translation type="unfinished">Auto-Analysis Experimental (aaaa)</translation>
+      <translation>خودکار تجزیہ تجرباتی (aaaa)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="401"/>
@@ -4983,7 +4983,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="479"/>
       <source>Script file (*.rz)</source>
-      <translation type="unfinished">Script file (*.rz)</translation>
+      <translation>اسکرپٹ فائل (*.rz)</translation>
     </message>
   </context>
   <context>
@@ -5009,7 +5009,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../common/Decompiler.cpp" line="109"/>
       <source>Failed to parse JSON from jsdec</source>
-      <translation type="unfinished">Failed to parse JSON from jsdec</translation>
+      <translation>jsdec سے JSON کی تصریف کرنے میں ناکام ہوا</translation>
     </message>
   </context>
   <context>
@@ -5038,7 +5038,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="43"/>
       <source>&apos;%1&apos; is already used.</source>
-      <translation type="unfinished">&apos;%1&apos; is already used.</translation>
+      <translation>&apos;%1&apos; پہلے ہی استعمال کیا ہوا ہے۔</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="45"/>
@@ -5053,7 +5053,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="61"/>
       <source>Do you want to delete &apos;%1&apos;</source>
-      <translation type="unfinished">Do you want to delete &apos;%1&apos;</translation>
+      <translation>کیا آپ &apos;%1&apos; کو حذف کرنا چاہتے ہیں</translation>
     </message>
   </context>
   <context>
@@ -5061,7 +5061,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="33"/>
       <source>Add extra...</source>
-      <translation type="unfinished">Add extra...</translation>
+      <translation>اضافی شامل کریں...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="61"/>
@@ -5071,7 +5071,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="68"/>
       <source>Set mode</source>
-      <translation type="unfinished">Set mode</translation>
+      <translation>موڈ سیٹ کریں</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="97"/>
@@ -5135,7 +5135,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="232"/>
       <source>Reset to default layout</source>
-      <translation type="unfinished">Reset to default layout</translation>
+      <translation>طے شدہ لے آؤٹ پر دوبارہ سیٹ کریں</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="237"/>
@@ -5150,7 +5150,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="245"/>
       <source>BaseFind</source>
-      <translation type="unfinished">BaseFind</translation>
+      <translation>بیس فائنڈ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="250"/>
@@ -5259,7 +5259,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="355"/>
       <source>Undo Seek</source>
-      <translation type="unfinished">Undo Seek</translation>
+      <translation>تلاش کو کالعدم کریں</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="358"/>
@@ -5269,17 +5269,17 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="367"/>
       <source>Redo Seek</source>
-      <translation type="unfinished">Redo Seek</translation>
+      <translation>تلاش دوبارہ انجام دیں</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="378"/>
       <source>Unlock Panels</source>
-      <translation type="unfinished">Unlock Panels</translation>
+      <translation>پینلز کو غیر مقفل کریں</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="381"/>
       <source>Toggle panel locks</source>
-      <translation type="unfinished">Toggle panel locks</translation>
+      <translation>پینل لاکس کو ٹوگل کریں</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="400"/>
@@ -5290,7 +5290,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="415"/>
       <location filename="../core/MainWindow.ui" line="418"/>
       <source>Tabs up/down</source>
-      <translation type="unfinished">Tabs up/down</translation>
+      <translation>اوپر/نیچے ٹیبز</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="427"/>
@@ -5300,12 +5300,12 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="435"/>
       <source>Show Tabs at the Top</source>
-      <translation type="unfinished">Show Tabs at the Top</translation>
+      <translation>ٹیبز کو اوپر دکھائیں</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="438"/>
       <source>Toggle tab position</source>
-      <translation type="unfinished">Toggle tab position</translation>
+      <translation>ٹیب کی پوزیشن کو ٹوگل کریں</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="443"/>
@@ -5316,17 +5316,17 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="448"/>
       <location filename="../core/MainWindow.ui" line="451"/>
       <source>Load layout</source>
-      <translation type="unfinished">Load layout</translation>
+      <translation>لے آؤٹ لوڈ کریں</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="456"/>
       <source>Default Theme</source>
-      <translation type="unfinished">Default Theme</translation>
+      <translation>طے شدہ تھیم</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="461"/>
       <source>Bindiff</source>
-      <translation type="unfinished">Bindiff</translation>
+      <translation>بائنڈف</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="466"/>
@@ -5342,7 +5342,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="476"/>
       <location filename="../core/MainWindow.ui" line="479"/>
       <source>Copy hexpair</source>
-      <translation type="unfinished">Copy hexpair</translation>
+      <translation>ہیکس پیئر کاپی کریں</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="484"/>
@@ -5359,18 +5359,18 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="497"/>
       <location filename="../core/MainWindow.ui" line="500"/>
       <source>Insert string</source>
-      <translation type="unfinished">Insert string</translation>
+      <translation>سٹرنگ درج کریں</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="505"/>
       <location filename="../core/MainWindow.ui" line="508"/>
       <source>Insert hex</source>
-      <translation type="unfinished">Insert hex</translation>
+      <translation>ہیکس داخل کریں</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="523"/>
       <source>Show/Hide bytes</source>
-      <translation type="unfinished">Show/Hide bytes</translation>
+      <translation>بائٹس دکھائیں/چھپائیں</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="528"/>
@@ -5395,13 +5395,13 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="557"/>
       <location filename="../core/MainWindow.ui" line="560"/>
       <source>Copy disasm</source>
-      <translation type="unfinished">Copy disasm</translation>
+      <translation>بے ترکیبی کاپی کریں</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="572"/>
       <location filename="../core/MainWindow.ui" line="575"/>
       <source>Start web server</source>
-      <translation type="unfinished">Start web server</translation>
+      <translation>ویب سرور شروع کریں</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="580"/>
@@ -5441,7 +5441,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="615"/>
       <source>Syntax AT&amp;T/Intel</source>
-      <translation type="unfinished">Syntax AT&amp;T/Intel</translation>
+      <translation>نحو AT&amp;T/Intel</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="620"/>
@@ -5464,12 +5464,12 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="652"/>
       <location filename="../core/MainWindow.ui" line="655"/>
       <source>Show/Hide bottom pannel</source>
-      <translation type="unfinished">Show/Hide bottom pannel</translation>
+      <translation>نچلا پینل دکھائیں/چھپائیں</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="660"/>
       <source>Run Rizin script</source>
-      <translation type="unfinished">Run Rizin script</translation>
+      <translation>Rizin اسکرپٹ چلائیں</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="665"/>
@@ -5499,42 +5499,42 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="687"/>
       <source>Show/Hide Exports panel</source>
-      <translation type="unfinished">Show/Hide Exports panel</translation>
+      <translation>برآمد پینل دکھائیں/چھپائیں</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="692"/>
       <source>Refresh Contents</source>
-      <translation type="unfinished">Refresh Contents</translation>
+      <translation>مواد کو ریفریش کریں</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="695"/>
       <source>Refresh contents</source>
-      <translation type="unfinished">Refresh contents</translation>
+      <translation>مواد کو ریفریش کریں</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="703"/>
       <source>Show ESIL rather than assembly</source>
-      <translation type="unfinished">Show ESIL rather than assembly</translation>
+      <translation>اسمبلی کے بجائے ESIL دکھائیں</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="711"/>
       <source>Show pseudocode rather than assembly</source>
-      <translation type="unfinished">Show pseudocode rather than assembly</translation>
+      <translation>اسمبلی کے بجائے سیوڈوکوڈ دکھائیں</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="722"/>
       <source>Display offsets</source>
-      <translation type="unfinished">Display offsets</translation>
+      <translation>آفسیٹس دکھائیں</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="727"/>
       <source>Preferences</source>
-      <translation type="unfinished">Preferences</translation>
+      <translation>ترجیحات</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="732"/>
       <source>Save Project As...</source>
-      <translation type="unfinished">Save Project As...</translation>
+      <translation>پروجیکٹ محفوظ کریں بطور...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="740"/>
@@ -5544,7 +5544,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="745"/>
       <source>Import PDB</source>
-      <translation type="unfinished">Import PDB</translation>
+      <translation>PDB درآمد کریں</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="750"/>
@@ -5828,12 +5828,12 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
       <source>Failed to map a new file</source>
-      <translation type="unfinished">Failed to map a new file</translation>
+      <translation>ایک نئی فائل کا نقشہ بنانے میں ناکام ہوا</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
       <source>Map new file</source>
-      <translation type="unfinished">Map new file</translation>
+      <translation>نئی فائل کا نقشہ بنائیں</translation>
     </message>
   </context>
   <context>
@@ -5841,12 +5841,12 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="58"/>
       <source>Offset start</source>
-      <translation type="unfinished">Offset start</translation>
+      <translation>آفسیٹ آغاز</translation>
     </message>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="60"/>
       <source>Offset end</source>
-      <translation type="unfinished">Offset end</translation>
+      <translation>آفسیٹ اختتام</translation>
     </message>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="62"/>
@@ -5869,7 +5869,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="123"/>
       <source>Memory Map</source>
-      <translation type="unfinished">Memory Map</translation>
+      <translation>میموری کا نقشہ</translation>
     </message>
   </context>
   <context>
@@ -5877,17 +5877,17 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/MultitypeFileSaveDialog.cpp" line="24"/>
       <source>Detect type (*)</source>
-      <translation type="unfinished">Detect type (*)</translation>
+      <translation>قسم کا سراغ لگائیں (*)</translation>
     </message>
     <message>
       <location filename="../dialogs/MultitypeFileSaveDialog.cpp" line="63"/>
       <source>File save error</source>
-      <translation type="unfinished">File save error</translation>
+      <translation>فائل محفوظ کرنے میں خرابی</translation>
     </message>
     <message>
       <location filename="../dialogs/MultitypeFileSaveDialog.cpp" line="64"/>
       <source>Unrecognized extension &apos;%1&apos;</source>
-      <translation type="unfinished">Unrecognized extension &apos;%1&apos;</translation>
+      <translation>غیر تسلیم شدہ توسیع &apos;%1&apos;</translation>
     </message>
   </context>
   <context>
@@ -5895,7 +5895,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NativeDebugDialog.ui" line="35"/>
       <source>Command line arguments:</source>
-      <translation type="unfinished">Command line arguments:</translation>
+      <translation>کمانڈ لائن دلائل:</translation>
     </message>
   </context>
   <context>
@@ -5930,7 +5930,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="296"/>
       <source>Don&apos;t open any file</source>
-      <translation type="unfinished">Don&apos;t open any file</translation>
+      <translation>کوئی فائل نہ&apos; کھولیں</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="303"/>
@@ -5942,7 +5942,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="316"/>
       <source>Open Shellcode</source>
-      <translation type="unfinished">Open Shellcode</translation>
+      <translation>شیل کوڈ کھولیں</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="328"/>
@@ -5957,7 +5957,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="410"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Open Project&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Open Project&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;پروجیکٹ کھولیں&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="519"/>
@@ -5992,16 +5992,16 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="290"/>
       <source>Open a file without additional options/settings.</source>
-      <translation type="unfinished">Open a file without additional options/settings.</translation>
+      <translation>اضافی اختیارات/ترتیبات کے بغیر فائل کھولیں</translation>
     </message>
     <message>
       <source>Open a file with no extra treatment.</source>
-      <translation type="unfinished">Open a file with no extra treatment.</translation>
+      <translation>بغیر کسی اضافی طریقہ کے ایک فائل کھولیں۔</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="323"/>
       <source>Select a new program or a previous one before continuing.</source>
-      <translation type="unfinished">Select a new program or a previous one before continuing.</translation>
+      <translation>جاری رکھنے سے پہلے ایک نیا یا پچھلا پروگرام منتخب کریں۔</translation>
     </message>
   </context>
   <context>
@@ -6009,7 +6009,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/Omnibar.cpp" line="15"/>
       <source>Type flag name or address here</source>
-      <translation type="unfinished">Type flag name or address here</translation>
+      <translation>فلیگ کا نام یا ایڈریس یہاں ٹائپ کریں</translation>
     </message>
   </context>
   <context>
@@ -6017,7 +6017,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="28"/>
       <source>Plugins are loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
-      <translation type="unfinished">Plugins are loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
+      <translation>پلگ انز کو &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt; سے لوڈ کیا جاتا ہے</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="34"/>
@@ -6075,7 +6075,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="37"/>
       <source>Initialization Script</source>
-      <translation type="unfinished">Initialization Script</translation>
+      <translation>آغاز کاری کا اسکرپٹ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="39"/>
@@ -6131,7 +6131,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ProcessesWidget.cpp" line="167"/>
       <source>Unable to switch to the requested process.</source>
-      <translation type="unfinished">Unable to switch to the requested process.</translation>
+      <translation>درخواست کردہ عمل پر سوئچ کرنے سے قاصر۔</translation>
     </message>
   </context>
   <context>
@@ -6139,16 +6139,16 @@ Save your project before closing!</source>
     <message>
       <location filename="../common/DisassemblyPreview.cpp" line="41"/>
       <source>More than one (%1) references here. Weird behaviour expected.</source>
-      <translation type="unfinished">More than one (%1) references here. Weird behaviour expected.</translation>
+      <translation>یہاں ایک سے زیادہ (%1) حوالہ جات۔ عجیب رویہ کی توقع ہے۔</translation>
     </message>
     <message>
       <source>offsetFrom (%1) differs from refs.at(0).from (%(2))</source>
-      <translation type="unfinished">offsetFrom (%1) differs from refs.at(0).from (%(2))</translation>
+      <translation>offsetFrom (%1) یہاں refs.at(0).from (%(2)) سے مختلف ہے</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="53"/>
       <source>Write error</source>
-      <translation type="unfinished">Write error</translation>
+      <translation>لکھنے کی خرابی</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="54"/>
@@ -6238,7 +6238,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="406"/>
       <source>bits</source>
-      <translation type="unfinished">bits</translation>
+      <translation>بٹس</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="409"/>
@@ -6318,7 +6318,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="441"/>
       <source>project file</source>
-      <translation type="unfinished">project file</translation>
+      <translation>پروجیکٹ فائل</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="445"/>
@@ -6733,12 +6733,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="483"/>
       <source>Graph Overview border</source>
-      <translation type="unfinished">Graph Overview border</translation>
+      <translation>گراف جائزہ بارڈر</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="486"/>
       <source>General background color</source>
-      <translation type="unfinished">General background color</translation>
+      <translation>پس منظر کا عمومی رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="486"/>
@@ -6748,57 +6748,57 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="488"/>
       <source>Background color of non-focused graph node</source>
-      <translation type="unfinished">Background color of non-focused graph node</translation>
+      <translation>غیر مرکوز گراف نوڈ کے پس منظر کا رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="489"/>
       <source>Node background</source>
-      <translation type="unfinished">Node background</translation>
+      <translation>نوڈ پس منظر</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="491"/>
       <source>Background of current graph node</source>
-      <translation type="unfinished">Background of current graph node</translation>
+      <translation>موجودہ گراف نوڈ کا پس منظر</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="491"/>
       <source>Current graph node</source>
-      <translation type="unfinished">Current graph node</translation>
+      <translation>موجودہ گراف نوڈ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="493"/>
       <source>Color of node border in graph view</source>
-      <translation type="unfinished">Color of node border in graph view</translation>
+      <translation>گراف ویو میں نوڈ بارڈر کا رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="493"/>
       <source>Node border</source>
-      <translation type="unfinished">Node border</translation>
+      <translation>نوڈ بارڈر</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="495"/>
       <source>Selected line background color</source>
-      <translation type="unfinished">Selected line background color</translation>
+      <translation>منتخب لائن کے پس منظر کا رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="495"/>
       <source>Line highlight</source>
-      <translation type="unfinished">Line highlight</translation>
+      <translation>لائن نمایاں کرنا</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="497"/>
       <source>Background color of selected word</source>
-      <translation type="unfinished">Background color of selected word</translation>
+      <translation>منتخب لفظ کے پس منظر کا رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="497"/>
       <source>Word higlight</source>
-      <translation type="unfinished">Word higlight</translation>
+      <translation>لفظ نمایاں کریں</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="498"/>
       <source>Main function color</source>
-      <translation type="unfinished">Main function color</translation>
+      <translation>بنیادی فنکشن کا رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="498"/>
@@ -6808,37 +6808,37 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="507"/>
       <source>Code section color in navigation bar</source>
-      <translation type="unfinished">Code section color in navigation bar</translation>
+      <translation>نیویگیشن بار میں کوڈ سیکشن کا رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="507"/>
       <source>Navbar code</source>
-      <translation type="unfinished">Navbar code</translation>
+      <translation>نیویگیشن بار کا کوڈ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="509"/>
       <source>Empty section color in navigation bar</source>
-      <translation type="unfinished">Empty section color in navigation bar</translation>
+      <translation>نیویگیشن بار میں خالی سیکشن کا رنگ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="509"/>
       <source>Navbar empty</source>
-      <translation type="unfinished">Navbar empty</translation>
+      <translation>نیویگیشن بار خالی</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="510"/>
       <source>ucall</source>
-      <translation type="unfinished">ucall</translation>
+      <translation>ucall</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="511"/>
       <source>ujmp</source>
-      <translation type="unfinished">ujmp</translation>
+      <translation>ujmp</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="512"/>
       <source>Breakpoint background</source>
-      <translation type="unfinished">Breakpoint background</translation>
+      <translation>بریک پوائنٹ کا پس منظر</translation>
     </message>
   </context>
   <context>
@@ -6864,7 +6864,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="500"/>
       <source>Raw</source>
-      <translation type="unfinished">Raw</translation>
+      <translation>خام</translation>
     </message>
   </context>
   <context>
@@ -6895,12 +6895,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="137"/>
       <source>Copy register value</source>
-      <translation type="unfinished">Copy register value</translation>
+      <translation>رجسٹر قدر کاپی کریں</translation>
     </message>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="138"/>
       <source>Copy register reference</source>
-      <translation type="unfinished">Copy register reference</translation>
+      <translation>رجسٹر حوالہ کاپی کریں</translation>
     </message>
   </context>
   <context>
@@ -6949,7 +6949,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="82"/>
       <source>IP or Path:</source>
-      <translation type="unfinished">IP or Path:</translation>
+      <translation>IP یا پاتھ:</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="159"/>
@@ -6965,22 +6965,22 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.cpp" line="57"/>
       <source>Invalid debugger</source>
-      <translation type="unfinished">Invalid debugger</translation>
+      <translation>غلط ڈیبگر</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.cpp" line="68"/>
       <source>Invalid IP address</source>
-      <translation type="unfinished">Invalid IP address</translation>
+      <translation>غلط IP ایڈریس</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.cpp" line="81"/>
       <source>Path does not exist</source>
-      <translation type="unfinished">Path does not exist</translation>
+      <translation>راستہ موجود نہیں ہے</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.cpp" line="94"/>
       <source>Invalid port</source>
-      <translation type="unfinished">Invalid port</translation>
+      <translation>غلط پورٹ</translation>
     </message>
   </context>
   <context>
@@ -6993,12 +6993,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="78"/>
       <source>Vaddr</source>
-      <translation type="unfinished">Vaddr</translation>
+      <translation>ویڈر</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="80"/>
       <source>Index</source>
-      <translation type="unfinished">Index</translation>
+      <translation>انڈیکس</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="82"/>
@@ -7039,47 +7039,47 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="21"/>
       <source>Data reference graph (aga)</source>
-      <translation type="unfinished">Data reference graph (aga)</translation>
+      <translation>ڈیٹا حوالہ گراف (aga)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="22"/>
       <source>Global data references graph (agA)</source>
-      <translation type="unfinished">Global data references graph (agA)</translation>
+      <translation>عالمی ڈیٹا حوالہ جات گراف (agA)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="26"/>
       <source>Imports graph (agi)</source>
-      <translation type="unfinished">Imports graph (agi)</translation>
+      <translation>درآمدات کا گراف (agi)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="27"/>
       <source>References graph (agr)</source>
-      <translation type="unfinished">References graph (agr)</translation>
+      <translation>حوالہ جات کا گراف (agr)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="28"/>
       <source>Global references graph (agR)</source>
-      <translation type="unfinished">Global references graph (agR)</translation>
+      <translation>عالمی حوالہ جات گراف (agR)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="29"/>
       <source>Cross references graph (agx)</source>
-      <translation type="unfinished">Cross references graph (agx)</translation>
+      <translation>کراس حوالہ جات کا گراف (agx)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="30"/>
       <source>RzIL statement graph (agI)</source>
-      <translation type="unfinished">RzIL statement graph (agI)</translation>
+      <translation>RzIL اسٹیٹمنٹ گراف (agI)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="31"/>
       <source>Custom graph (agg)</source>
-      <translation type="unfinished">Custom graph (agg)</translation>
+      <translation>کسٹم گراف (agg)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="32"/>
       <source>User command</source>
-      <translation type="unfinished">User command</translation>
+      <translation>صارف کمانڈ</translation>
     </message>
   </context>
   <context>
@@ -7252,7 +7252,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SdbWidget.ui" line="17"/>
       <source>SDB Browser</source>
-      <translation type="unfinished">SDB Browser</translation>
+      <translation>SDB براؤزر</translation>
     </message>
     <message>
       <location filename="../widgets/SdbWidget.ui" line="120"/>
@@ -7397,7 +7397,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="105"/>
       <source>Entropy</source>
-      <translation type="unfinished">Entropy</translation>
+      <translation>اینٹروپی</translation>
     </message>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="107"/>
@@ -7472,12 +7472,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="48"/>
       <source>Item size</source>
-      <translation type="unfinished">Item size</translation>
+      <translation>آئٹم کا سائز</translation>
     </message>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="55"/>
       <source>Number of items</source>
-      <translation type="unfinished">Number of items</translation>
+      <translation>آئِٹمز کی تعداد</translation>
     </message>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="62"/>
@@ -7726,7 +7726,7 @@ Do you want to commit them now?</source>
       <location filename="../widgets/TypesWidget.ui" line="76"/>
       <location filename="../widgets/TypesWidget.ui" line="79"/>
       <source>Export Types</source>
-      <translation type="unfinished">Export Types</translation>
+      <translation>برآمد کی اقسام</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.ui" line="84"/>
@@ -7786,7 +7786,7 @@ Do you want to commit them now?</source>
       <location filename="../widgets/TypesWidget.cpp" line="327"/>
       <location filename="../widgets/TypesWidget.cpp" line="365"/>
       <source> (Read Only)</source>
-      <translation type="unfinished"> (Read Only)</translation>
+      <translation> (صرف پڑھنے کے لیے)</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="347"/>
