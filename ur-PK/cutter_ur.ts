@@ -3054,7 +3054,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="424"/>
       <source>Add flag at %1 (used here)</source>
-      <translation type="unfinished">Add flag at %1 (used here)</translation>
+      <translation>%1 پر فلیگ شامل کریں (یہاں استعمال کردہ)</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="429"/>
