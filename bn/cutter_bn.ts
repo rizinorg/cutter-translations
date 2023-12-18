@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ur-PK" sourcelanguage="en">
+<TS version="2.1" language="bn" sourcelanguage="en">
   <context>
     <name>AboutDialog</name>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="14"/>
       <source>About Cutter</source>
-      <translation>Cutter کے متعلق</translation>
+      <translation>Cutter সম্পর্কে</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="54"/>
       <source>Check for updates on start</source>
-      <translation>آغاز میں اپ ڈیٹس کیلیے پڑتال کریں</translation>
+      <translation>শুরুতে হালনাগাদ পরীক্ষা করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="67"/>
       <source>Check for updates</source>
-      <translation>اپ ڈیٹس کیلیے پڑتال کریں</translation>
+      <translation>হালনাগাদের জন্য পরীক্ষা করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="80"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter is a free and open-source reverse engineering platform powered by Rizin&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter ایک مفت اور اوپن سورس ریورس انجینئرنگ پلیٹ فارم ہے جو Rizin کے ذریعے تقویت یافتہ ہے&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;ذیل پر مزید پڑھیں &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter হলো Rizin দ্বারা চালিত একটি বিনামূল্যের এবং ওপেন সোর্স রিভার্স ইঞ্জিনিয়ারিং প্ল্যাটফর্ম &lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;আরো পড়ুন &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="87"/>
@@ -31,17 +31,17 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="100"/>
       <source>Report an issue</source>
-      <translation>ایک مسئلہ کی اطلاع دیں</translation>
+      <translation>সমস্যা সম্পর্কে জানান</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="113"/>
       <source>Show Rizin plugin information</source>
-      <translation>Rizin پلگ ان کی معلومات دکھائیں</translation>
+      <translation>Rizin প্লাগইন তথ্য দেখান</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="126"/>
       <source>Show version information</source>
-      <translation>ورژن کی معلومات دکھائیں</translation>
+      <translation>সংস্করণের তথ্য দেখান</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="144"/>
@@ -51,72 +51,72 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="28"/>
       <source>Version</source>
-      <translation>ورژن</translation>
+      <translation>সংস্করণ</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="28"/>
       <source>Using rizin </source>
-      <translation>rizin استعمال کرنا </translation>
+      <translation>rizin ব্যবহার </translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="30"/>
       <source>Optional Features:</source>
-      <translation>اختیاری خصوصیات:</translation>
+      <translation>ঐচ্ছিক বৈশিষ্ট্য:</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="47"/>
       <source>License</source>
-      <translation>لائسنس</translation>
+      <translation>লাইসেন্স</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="48"/>
       <source>This Software is released under the GNU General Public License v3.0</source>
-      <translation>یہ سافٹ ویئر GNU جنرل پبلک لائسنس v3.0 کے تحت جاری کردہ ہے</translation>
+      <translation>এই সফ্টওয়্যার GNU General Public License v3.0 এর অধীনে প্রকাশিত হয়েছে</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="49"/>
       <source>Authors</source>
-      <translation>مصنفین</translation>
+      <translation>প্রণেতা</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="50"/>
       <source>Cutter is developed by the community and maintained by its core and development teams.&lt;br/&gt;</source>
-      <translation>Cutter کو کمیونٹی کی جانب سے تیار کیا اور اس کی بنیادی اور ترقیاتی ٹیموں کی جانب سے برقرار رکھا جاتا ہے۔&lt;br/&gt;</translation>
+      <translation>Cutter কমিউনিটি কর্তৃক তৈরি হয় এবং এর মূল এবং উন্নয়ন দল কর্তৃক তা রক্ষণাবেক্ষণ করা হয়৷&lt;br/&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="52"/>
       <source>Check our &lt;a href=&apos;https://github.com/rizinorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</source>
-      <translation>شراکت داران کی پوری فہرست دیکھنے کے لیے ہمارے &lt;a href=&apos;https://github.com/rizinorg/cutter/graphs/contributors&apos;&gt;contributors صفحہ&lt;/a&gt; کی پڑتال کریں۔</translation>
+      <translation>দেখুন &lt;a href=&apos;https://github.com/rizinorg/cutter/graphs/contributors&apos;&gt;অবদানকারীদের পাতা&lt;/a&gt; অবদানকারীদের পূর্ণ তালিকার জন্য।</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="76"/>
       <source>Rizin version information</source>
-      <translation>Rizin ورژن کی معلومات</translation>
+      <translation>Rizin সংস্করণের তথ্য</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="103"/>
       <source>Checking for updates...</source>
-      <translation>اپ ڈیٹس کیلیے پڑتال کر رہا ہے...</translation>
+      <translation>হালনাগাদ পরীক্ষা করা হচ্ছে...</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="109"/>
       <source>Error!</source>
-      <translation>خرابی!</translation>
+      <translation>ত্রুটি!</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="112"/>
       <source>Version control</source>
-      <translation>ورژن کنٹرول</translation>
+      <translation>সংস্করণ নিয়ন্ত্রণ</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="113"/>
       <source>Cutter is up to date!</source>
-      <translation>Cutter اپ ٹو ڈیٹ ہے!</translation>
+      <translation>Cutter হালনাগাদ রয়েছে!</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="154"/>
       <source>Based on Qt %1 (%2, %3 bit)</source>
-      <translation>مقدار %1 (%2، %3 بٹ) کی بنیاد پر</translation>
+      <translation>Qt %1 (%2, %3 bit)-এর ভিত্তিতে</translation>
     </message>
   </context>
   <context>
@@ -124,7 +124,7 @@
     <message>
       <location filename="../widgets/AddressableDockWidget.cpp" line="12"/>
       <source>Sync/unsync offset</source>
-      <translation>مطابقت پذیری/غیر مطابقت پذیری آفسیٹ</translation>
+      <translation>অফসেট সিঙ্ক/আনসিঙ্ক করুন</translation>
     </message>
   </context>
   <context>
@@ -132,22 +132,22 @@
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="16"/>
       <source>Show in</source>
-      <translation>میں دکھائیں</translation>
+      <translation>দেখান</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="17"/>
       <source>Copy address</source>
-      <translation>ایڈریس کاپی کریں</translation>
+      <translation>ঠিকানা কপি করুন</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="18"/>
       <source>Show X-Refs</source>
-      <translation>کراس حوالہ جات دکھائیں</translation>
+      <translation>X-রেফারেন্স দেখান</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="19"/>
       <source>Add comment</source>
-      <translation>تبصرے شامل کریں</translation>
+      <translation>মন্তব্য যোগ করুন</translation>
     </message>
   </context>
   <context>
@@ -155,22 +155,22 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="420"/>
       <source>class</source>
-      <translation>کلاس</translation>
+      <translation>ক্লাস</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="444"/>
       <source>base</source>
-      <translation>بنیاد</translation>
+      <translation>ভিত্তি</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="477"/>
       <source>method</source>
-      <translation>طریقہ کار</translation>
+      <translation>পদ্ধতি</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="515"/>
       <source>vtable</source>
-      <translation>وی ٹیبل</translation>
+      <translation>vtable</translation>
     </message>
   </context>
   <context>
@@ -178,62 +178,62 @@
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="20"/>
       <source>Analysis</source>
-      <translation>تجزیہ</translation>
+      <translation>বিশ্লেষণ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="55"/>
       <source>Show verbose information when performing analysis (analysis.verbose)</source>
-      <translation>تجزیہ کرتے وقت لفظی معلومات دکھائیں (analysis.verbose)</translation>
+      <translation>বিশ্লেষণ করার সময় অধিক শব্দ সম্বলিত তথ্য দেখান (analysis.verbose)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="68"/>
       <source>Analyze push+ret as jmp (analysis.pushret)</source>
-      <translation>push+ret کا بطور jmp تجزیہ کریں (analysis.pushret)</translation>
+      <translation>jmp হিসাবে push+ret বিশ্লেষণ করুন (analysis.pushret)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="81"/>
       <source>Verbose output from type analysis (analysis.types.verbose)</source>
-      <translation>قسم کے تجزیہ سے لفظی آؤٹ پٹ (analysis.types.verbose)</translation>
+      <translation>টাইপ বিশ্লেষণ থেকে ভার্বোজ আউটপুট (analysis.types.verbose)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="94"/>
       <source>Speculatively set a name for the functions (analysis.autoname)</source>
-      <translation>فنکشنز کے لیے قیاس آرائی سے ایک نام مقرر کریں (analysis.autoname)</translation>
+      <translation>ফাংশনগুলোর জন্য অনুমানমূলকভাবে একটি নাম নির্ধারণ করুন (analysis.autoname)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="107"/>
       <source>Search for new functions following already defined functions (analysis.hasnext)</source>
-      <translation>پہلے سے طے شدہ فنکشنز کے بعد نئے فنکشنز تلاش کریں (analysis.hasnext)</translation>
+      <translation>ইতোমধ্যে সংজ্ঞায়িত ফাংশন অনুসরণ করে নতুন ফাংশন অনুসন্ধান করুন (analysis.hasnext)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="120"/>
       <source>Create references for unconditional jumps (analysis.jmp.ref)</source>
-      <translation>غیر مشروط جست کے لیے حوالہ جات تخلیق کریں (analysis.jmp.ref)</translation>
+      <translation>শর্তহীন জাম্প-এর জন্য রেফারেন্স তৈরি করুন (analysis.jmp.ref)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="133"/>
       <source>Analyze jump tables in switch statements (analysis.jmp.tbl)</source>
-      <translation>سوئچ بیانات میں جمپ ٹیبلز کا تجزیہ کریں (analysis.jmp.tbl)</translation>
+      <translation>স্যুইচ স্টেটমেন্টে জাম্প টেবিল বিশ্লেষণ করুন (analysis.jmp.tbl)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="161"/>
       <source>Search boundaries for analysis (analysis.in): </source>
-      <translation>تجزیہ کے لیے حدود تلاش کریں (analysis.in): </translation>
+      <translation>বিশ্লেষণের জন্য সীমা অনুসন্ধান করুন (analysis.in):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="195"/>
       <source>Pointer depth (analysis.ptrdepth):</source>
-      <translation>پوائنٹر کی گہرائی (analysis.ptrdepth):</translation>
+      <translation>পয়েন্টার-এর গভীরতা (analysis.ptrdepth):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="236"/>
       <source>Functions Prelude (analysis.prelude):</source>
-      <translation>فنکشنز کی تمہید (analysis.prelude):</translation>
+      <translation>ফাংশন প্রেলিউড (analysis.prelude):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="269"/>
       <source>Analyze program</source>
-      <translation>پروگرام کا تجزیہ کریں</translation>
+      <translation>প্রোগ্রাম বিশ্লেষণ করুন</translation>
     </message>
   </context>
   <context>
@@ -241,47 +241,47 @@
     <message>
       <location filename="../common/AnalysisTask.cpp" line="25"/>
       <source>Initial Analysis</source>
-      <translation>ابتدائی تجزیہ</translation>
+      <translation>প্রাথমিক বিশ্লেষণ</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="27"/>
       <source>Analyzing Program</source>
-      <translation>پروگرام کا تجزیہ کر رہا ہے</translation>
+      <translation>প্রোগ্রাম বিশ্লেষণ</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="45"/>
       <source>Loading the file...</source>
-      <translation>فائل لوڈ ہو رہی ہے...</translation>
+      <translation>ফাইল লোড হচ্ছে...</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="72"/>
       <source>Loading PDB file...</source>
-      <translation>PDB فائل لوڈ ہو رہی ہے...</translation>
+      <translation>PDB ফাইল লোড হচ্ছে...</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="81"/>
       <source>Loading shellcode...</source>
-      <translation>shellcode لوڈ ہو رہا ہے...</translation>
+      <translation>শেলকোড লোড হচ্ছে...</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="92"/>
       <source>Executing script...</source>
-      <translation>مسودہ پر عمل ہو رہا ہے...</translation>
+      <translation>স্ক্রিপ্ট কার্যকর করা হচ্ছে...</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="101"/>
       <source>Executing analysis...</source>
-      <translation>تجزیہ کیا جا رہا ہے...</translation>
+      <translation>বিশ্লেষণ কার্যকর করা হচ্ছে...</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="110"/>
       <source>Analysis complete!</source>
-      <translation>تجزیہ مکمل ہو چکا ہے!</translation>
+      <translation>বিশ্লেষণ সম্পন্ন!</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="112"/>
       <source>Skipping Analysis.</source>
-      <translation>تجزیہ چھوڑ رہا ہے</translation>
+      <translation>এড়িয়ে যাওয়া বিশ্লেষণ।</translation>
     </message>
   </context>
   <context>
@@ -289,22 +289,22 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="14"/>
       <source>Appearance</source>
-      <translation>ظاہریت</translation>
+      <translation>অবয়ব</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="28"/>
       <source>Font:</source>
-      <translation>فونٹ:</translation>
+      <translation>ফন্ট:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="56"/>
       <source>Select font</source>
-      <translation>فونٹ منتخب کریں</translation>
+      <translation>ফন্ট নির্বাচন করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="76"/>
       <source>Zoom</source>
-      <translation>زوم</translation>
+      <translation>জুম</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="95"/>
@@ -314,104 +314,104 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="116"/>
       <source>Language:</source>
-      <translation>زبان:</translation>
+      <translation>ভাষা:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="133"/>
       <source>Interface Theme:</source>
-      <translation>انٹرفیس کی تھیم:</translation>
+      <translation>ইন্টারফেস থিম:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="147"/>
       <source>Default</source>
-      <translation>طے شدہ</translation>
+      <translation>ডিফল্ট</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="152"/>
       <source>Dark</source>
-      <translation>تاریک</translation>
+      <translation>গাঢ়</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="160"/>
       <source>Color Theme:</source>
-      <translation>رنگ کی تھیم:</translation>
+      <translation>রঙের থিম:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="179"/>
       <source>Edit Theme</source>
-      <translation>تھیم میں ترمیم کریں</translation>
+      <translation>থিম সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="193"/>
       <source>Rename</source>
-      <translation>نام بدلیں</translation>
+      <translation>পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="213"/>
       <source>Copy</source>
-      <translation>کاپی کریں</translation>
+      <translation>কপি করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="227"/>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="163"/>
       <source>Delete</source>
-      <translation>حذف کریں</translation>
+      <translation>মুছে ফেলুন</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="241"/>
       <source>Export</source>
-      <translation>برآمد کریں</translation>
+      <translation>প্রেরণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="255"/>
       <source>Import</source>
-      <translation>درآمد کریں</translation>
+      <translation>নিয়ে আসুন</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="289"/>
       <source>Use information provided by decompiler when highlighting code.</source>
-      <translation>کوڈ کو نمایاں کرتے ہوئے ڈی کمپائلر کے ذریعے فراہم کردہ معلومات استعمال کریں۔</translation>
+      <translation>কোড হাইলাইট করার সময় ডিকম্পাইলার দ্বারা প্রদত্ত তথ্য ব্যবহার করুন।</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="292"/>
       <source>Decompiler based highlighting</source>
-      <translation>ڈی کمپائلر پر مبنی ہائی لائٹنگ</translation>
+      <translation>ডিকম্পাইলার ভিত্তিক হাইলাইটিং</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="312"/>
       <source>Save as Default</source>
-      <translation>بطور طے شدہ محفوظ کریں</translation>
+      <translation>ডিফল্ট হিসাবে সংরক্ষণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="125"/>
       <source>Theme Editor - &lt;%1&gt;</source>
-      <translation>تھیم ایڈیٹر - &lt;%1&gt;</translation>
+      <translation>থিম এডিটর - &lt;%1&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="136"/>
       <source>Enter theme name</source>
-      <translation>تھیم کا نام درج کریں</translation>
+      <translation>থিম নাম লিখুন</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="136"/>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="221"/>
       <source>Name:</source>
-      <translation>نام:</translation>
+      <translation>নাম:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="137"/>
       <source> - copy</source>
-      <translation> - کاپی کریں</translation>
+      <translation> - কপি</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="143"/>
       <source>Theme Copy</source>
-      <translation>تھیم کاپی</translation>
+      <translation>থিম কপি</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="144"/>
       <source>Theme named %1 already exists.</source>
-      <translation>%1 نامی تھیم پہلے سے موجود ہے۔</translation>
+      <translation>%1 নামের থিম ইতোমধ্যেই বিদ্যমান।</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="159"/>
@@ -420,48 +420,48 @@
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="214"/>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="229"/>
       <source>Error</source>
-      <translation>خرابی</translation>
+      <translation>ত্রুটি</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="163"/>
       <source>Are you sure you want to delete &lt;b&gt;%1&lt;/b&gt;?</source>
-      <translation>کیا آپ واقعی حذف کرنا چاہتے ہیں &lt;b&gt;%1&lt;/b&gt;؟</translation>
+      <translation>আপনি কি নিশ্চিত যে আপনি &lt;b&gt;%1&lt;/b&gt; মুছে দিতে চান?</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="185"/>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="211"/>
       <source>Success</source>
-      <translation>کامیابی</translation>
+      <translation>সাফল্য</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="186"/>
       <source>Color theme &lt;b&gt;%1&lt;/b&gt; was successfully imported.</source>
-      <translation>رنگ کی تھیم &lt;b&gt;%1&lt;/b&gt; کامیابی سے درآمد کی۔</translation>
+      <translation>রঙিন থিম &lt;b&gt;%1&lt;/b&gt; সফলভাবে আনা হয়েছে।</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="212"/>
       <source>Color theme &lt;b&gt;%1&lt;/b&gt; was successfully exported.</source>
-      <translation>رنگ کی تھیم &lt;b&gt;%1&lt;/b&gt; کامیابی سے برآمد کی۔</translation>
+      <translation>রঙিন থিম &lt;b&gt;%1&lt;/b&gt; সফলভাবে প্রেরণ করা হয়েছে।</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="221"/>
       <source>Enter new theme name</source>
-      <translation>نئی تھیم کا نام درج کریں</translation>
+      <translation>নতুন থিম নাম লিখুন</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="240"/>
       <source>Language settings</source>
-      <translation>زبان کی ترتیبات</translation>
+      <translation>ভাষার সেটিংস</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="241"/>
       <source>Language will be changed after next application start.</source>
-      <translation>اگلی ایپلیکیشن شروع ہونے کے بعد زبان تبدیل کر دی جائے گی۔</translation>
+      <translation>পরবর্তী অ্যাপ্লিকেশন শুরু হওয়ার পরে ভাষা পরিবর্তন করা হবে।</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="245"/>
       <source>Cannot set language, not found in available ones</source>
-      <translation>زبان مقرر نہیں کی جا سکتی، دستیاب اختیارات میں نہیں ملی</translation>
+      <translation>ভাষা সেট করা যাচ্ছে না, বিদ্যমানগুলোতে পাওয়া যায়নি</translation>
     </message>
   </context>
   <context>
@@ -469,37 +469,37 @@
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation>مکالمہ</translation>
+      <translation>ডায়লগ</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="22"/>
       <source>Top</source>
-      <translation>اوپر</translation>
+      <translation>শীর্ষ</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="29"/>
       <source>Next</source>
-      <translation>اگلا</translation>
+      <translation>পরবর্তী</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="36"/>
       <source>Next free</source>
-      <translation>اگلا مفت</translation>
+      <translation>পরবর্তী ফ্রি</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="43"/>
       <source>System Memory</source>
-      <translation>سسٹم میموری</translation>
+      <translation>সিস্টেম মেমোরি</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="50"/>
       <source>Max Memory</source>
-      <translation>زیادہ سے زیادہ میموری</translation>
+      <translation>পরবর্তী মেমোরি</translation>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="92"/>
       <source>Last Remainder</source>
-      <translation>آخری یاد دہانی</translation>
+      <translation>শেষ অংশ</translation>
     </message>
   </context>
   <context>
@@ -508,37 +508,37 @@
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="14"/>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="65"/>
       <source>Disassembly</source>
-      <translation>بے ترکیبی</translation>
+      <translation>বিচ্ছিন্নকরণ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="35"/>
       <source>Style</source>
-      <translation>اسٹائل</translation>
+      <translation>শৈলী</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="255"/>
       <source>Align bytes to the left (asm.lbytes)</source>
-      <translation>بائٹس کی بائیں جانب صف بندی کریں (asm.lbytes)</translation>
+      <translation>বাম দিকে বাইট রাখুন (asm.lbytes)</translation>
     </message>
     <message>
       <source>Show preview when hovering:</source>
-      <translation>منڈلاتے وقت پیش نظارہ دکھائیں:</translation>
+      <translation>হোভার করার সময় প্রিভিউ দেখান:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="215"/>
       <source>Syntax (asm.syntax):</source>
-      <translation>نحو (asm.syntax):</translation>
+      <translation>সিনট্যাক্স (asm.syntax):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="272"/>
       <source>Flags (asm.reloff.flags)</source>
-      <translation>فلیگ (asm.reloff.flags)</translation>
+      <translation>ফ্ল্যাগ (asm.reloff.flags)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="183"/>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="321"/>
       <source>Normal</source>
-      <translation>نارمل</translation>
+      <translation>স্বাভাবিক</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="188"/>
@@ -548,200 +548,200 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="193"/>
       <source>Pseudocode (asm.pseudo)</source>
-      <translation>سیوڈوکوڈ (asm.pseudo)</translation>
+      <translation>Pseudocode (asm.pseudo)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="175"/>
       <source>Show offsets (asm.offset)</source>
-      <translation>آفسیٹس دکھائیں (asm.offset)</translation>
+      <translation>অফসেট দেখান (asm.offset)</translation>
     </message>
     <message>
       <source>Tabs before assembly (asm.tabs.off):</source>
-      <translation>اسمبلی سے پہلے ٹیبز (asm.tabs.off):</translation>
+      <translation>সমাবেশের আগে ট্যাব (asm.tabs.off):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="245"/>
       <source>Number of bytes to display (asm.nbytes):</source>
-      <translation>ڈسپلے کرنے کے لیے بائٹس کی تعداد (asm.nbytes):</translation>
+      <translation>প্রদর্শনের জন্য বাইটের সংখ্যা (asm.nbytes):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="225"/>
       <source>Separate bytes with whitespace (asm.bytes.space)</source>
-      <translation>وائٹ اسپیس کے ساتھ بائٹس کو الگ کریں (asm.bytes.space)</translation>
+      <translation>সাদা স্থান দিয়ে বাইট আলাদা করুন (asm.bytes.space)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="100"/>
       <source>Display the bytes of each instruction (asm.bytes)</source>
-      <translation>ہر ہدایت کے بائٹس دکھائیں (asm.bytes)</translation>
+      <translation>প্রতিটি নির্দেশনার বাইট প্রদর্শন করুন (asm.bytes)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="72"/>
       <source>Lowercase</source>
-      <translation>چھوٹے حروف</translation>
+      <translation>ছোট হাতের</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="77"/>
       <source>Uppercase (asm.ucase)</source>
-      <translation>بڑے حروف (asm.ucase)</translation>
+      <translation>বড় হাতের (asm.ucase)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="82"/>
       <source>Capitalize (asm.capitalize)</source>
-      <translation>لفظوں کو بڑا کر کے لکھنا (asm.capitalize)</translation>
+      <translation>বড় হাতের করুন (asm.capitalize)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="201"/>
       <source>Show empty line after every basic block (asm.bb.line)</source>
-      <translation>ہر بنیادی بلاک کے بعد خالی سطر دکھائیں (asm.bb.line)</translation>
+      <translation>প্রতিটি মৌলিক ব্লকের পরে খালি লাইন দেখান (asm.bb.line)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="142"/>
       <source>Show offsets relative to:</source>
-      <translation>اس سے متعلق آفسیٹس دکھائیں:</translation>
+      <translation>যে সম্পর্কিত অফসেট দেখাবেন:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="149"/>
       <source>Functions (asm.reloff)</source>
-      <translation>فنکشنز (asm.reloff)</translation>
+      <translation>ফাংশন (asm.reloff)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="107"/>
       <source>Show Disassembly as:</source>
-      <translation>بے ترکیبی دکھائیں بطور:</translation>
+      <translation>এভাবে বিচ্ছিন্নকরণ দেখান:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="90"/>
       <source>Tabs in assembly (asm.tabs):</source>
-      <translation>اسمبلی میں ٹیبز (asm.tabs):</translation>
+      <translation>অ্যাসেম্বলিতে ট্যাব (asm.tabs):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="168"/>
       <source>Indent disassembly based on reflines depth (asm.indent)</source>
-      <translation>ریف لائنز کی گہرائی کی بنیاد پر انڈینٹ بے ترکیبی (asm.indent)</translation>
+      <translation>রেফ লাইনের গভীরতার উপর ভিত্তি করে বিচ্ছিন্নকরণ ইন্ডেন্ট করুন (asm.indent)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="133"/>
       <source>Display flags&apos; real name (asm.flags.real)</source>
-      <translation>فلیگ&apos; حقیقی نام دکھائیں (asm.flags.real)</translation>
+      <translation>প্রদর্শন করুন flags&apos; প্রকৃত নাম (asm.flags.real)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="158"/>
       <source>The number of tabulate spaces after the offset (asm.tabs.off):</source>
-      <translation>آفسیٹ کے بعد ٹیبلیٹ خالی جگہوں کی تعداد (asm.tabs.off):</translation>
+      <translation>অফসেটের পরে ট্যাবুলেট স্পেস সংখ্যা (asm.tabs.off):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="208"/>
       <source>Show preview when hovering</source>
-      <translation>منڈلاتے وقت پیش نظارہ دکھائیں</translation>
+      <translation>হোভার করার সময় প্রিভিউ দেখান</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="289"/>
       <source>Show known variable values when hovering</source>
-      <translation>منڈلاتے وقت معلوم متغیر اقدار دکھائیں</translation>
+      <translation>হোভার করার সময় পরিচিত ভেরিয়েবল মান দেখান</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="305"/>
       <source>Comments</source>
-      <translation>تبصرے</translation>
+      <translation>মন্তব্য</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="313"/>
       <source>Show opcode description (asm.describe)</source>
-      <translation>اوپکوڈ کی تفصیل دکھائیں (asm.describe)</translation>
+      <translation>অপকোড-এর বর্ণনা দেখান (asm.describe)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="326"/>
       <source>Above instructions</source>
-      <translation>درج بالا ہدایات</translation>
+      <translation>উপরের নির্দেশনা</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="331"/>
       <source>Off</source>
-      <translation>آف</translation>
+      <translation>বন্ধ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="339"/>
       <source>Show comments:</source>
-      <translation>تبصرے دکھائیں:</translation>
+      <translation>মন্তব্য দেখান:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="359"/>
       <source>Column to align comments (asm.cmt.col):</source>
-      <translation>تبصروں کی صف بندی کرنے کے لیے کالم (asm.cmt.col):</translation>
+      <translation>মন্তব্য লেখার জন্য কলাম (asm.cmt.col):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="369"/>
       <source>Show x-refs (asm.xrefs)</source>
-      <translation>کراس حوالہ جات دکھائیں (asm.xrefs)</translation>
+      <translation>x-রেফারেন্স দেখান (asm.xrefs)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="376"/>
       <source>Show refpointer information (asm.refptr)</source>
-      <translation>ریفرنس پوائنٹر کی معلومات دکھائیں (asm.refptr)</translation>
+      <translation>রেফপয়েন্টার তথ্য দেখান (asm.refptr)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="409"/>
       <source>Metadata</source>
-      <translation>میٹا ڈیٹا</translation>
+      <translation>মেটাডাটা</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="433"/>
       <source>Slow Analysis (asm.slow)</source>
-      <translation>سست تجزیہ (asm.slow)</translation>
+      <translation>ধীরগতির বিশ্লেষণ (asm.slow)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="440"/>
       <source>Show jump lines (asm.lines)</source>
-      <translation>جمپ لائنز دکھائیں (asm.lines)</translation>
+      <translation>জাম্প লাইন দেখান (asm.lines)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="447"/>
       <source>Show function boundary lines (asm.lines.fcn)</source>
-      <translation>فنکشن باؤنڈری لائنز دکھائیں (asm.lines.fcn)</translation>
+      <translation>ফাংশনের সীমারেখা দেখান (asm.lines.fcn)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="454"/>
       <source>Show offset before flags (asm.flags.off)</source>
-      <translation>فلیگز سے پہلے آفسیٹ دکھائیں (asm.flags.off)</translation>
+      <translation>ফ্ল্যাগ-এর আগে অফসেট দেখান (asm.flags.off)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="461"/>
       <source>Run ESIL emulation analysis (asm.emu)</source>
-      <translation>ESIL ایمولیشن تجزیہ چلائیں (asm.emu)</translation>
+      <translation>ESIL এমিউলেশন বিশ্লেষণ চালান (asm.emu)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="468"/>
       <source>Show only strings if any in the asm.emu output (emu.str)</source>
-      <translation>صرف سٹرنگز دکھائیں اگر کوئی asm.emu آؤٹ پٹ میں ہے (emu.str) </translation>
+      <translation>asm.emu আউটপুটে শুধুমাত্র স্ট্রিং দেখান (emu.str)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="475"/>
       <source>Show size of opcodes in disassembly (asm.size)</source>
-      <translation>بے ترکیبی میں اوپ کوڈز کا سائز دکھائیں (asm.size)</translation>
+      <translation>বিচ্ছিন্নকরণে অপকোডের আকার দেখান (asm.size)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="482"/>
       <source>Show variables summary instead of full list (asm.var.summary)</source>
-      <translation>مکمل فہرست کے بجائے متغیرات کا خلاصہ دکھائیں (asm.var.summary)</translation>
+      <translation>সম্পূর্ণ তালিকার পরিবর্তে ভেরিয়েবলের সারাংশ দেখান (asm.var.summary)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="489"/>
       <source>Substitute variables in disassembly (asm.sub.var)</source>
-      <translation>بے ترکیبی میں متغیرات کا متبادل دیں (asm.sub.var)</translation>
+      <translation>বিচ্ছিন্নকরণে ভেরিয়েবল পরিবর্তন করুন (asm.sub.var)</translation>
     </message>
     <message>
       <source>Substitute variables (asm.sub.var)</source>
-      <translation>متبادل متغیرات (asm.sub.var)</translation>
+      <translation>টেকসই ভেরিয়েবল (asm.sub.var)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="496"/>
       <source>Substitute entire variable expressions with names (asm.sub.varonly)</source>
-      <translation>تمام متغیر اظہار کو ناموں کے ساتھ تبدیل کریں (asm.sub.varonly)</translation>
+      <translation>নামের সাথে সম্পূর্ণ ভেরিয়েবল অভিব্যক্তি প্রতিস্থাপন করুন (asm.sub.varonly)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="552"/>
       <source>Save as Default</source>
-      <translation>بطور طے شدہ محفوظ کریں</translation>
+      <translation>ডিফল্ট হিসাবে সংরক্ষণ করুন</translation>
     </message>
   </context>
   <context>
@@ -754,20 +754,20 @@
     <message>
       <location filename="../dialogs/AsyncTaskDialog.ui" line="20"/>
       <source>Time</source>
-      <translation>وقت</translation>
+      <translation>সময়</translation>
     </message>
     <message>
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="43"/>
       <source>Running for</source>
-      <translation>کے لیے چلایا جا رہا ہے</translation>
+      <translation>...সময় ধরে চলছে</translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="45"/>
       <source>%n hour</source>
       <comment>%n hours</comment>
       <translation>
-        <numerusform>%n گھنٹہ</numerusform>
-        <numerusform>%n گھنٹہ</numerusform>
+        <numerusform>%n ঘণ্টা</numerusform>
+        <numerusform>%n ঘণ্টা</numerusform>
       </translation>
     </message>
     <message numerus="yes">
@@ -775,8 +775,8 @@
       <source>%n minute</source>
       <comment>%n minutes</comment>
       <translation>
-        <numerusform>%n منٹ</numerusform>
-        <numerusform>%n منٹ</numerusform>
+        <numerusform>%n মিনিট</numerusform>
+        <numerusform>%n মিনিট</numerusform>
       </translation>
     </message>
     <message numerus="yes">
@@ -784,8 +784,8 @@
       <source>%n seconds</source>
       <comment>%n second</comment>
       <translation>
-        <numerusform>%n سیکنڈز</numerusform>
-        <numerusform>%n سیکنڈز</numerusform>
+        <numerusform>%n সেকেন্ড</numerusform>
+        <numerusform>%n সেকেন্ড</numerusform>
       </translation>
     </message>
   </context>
@@ -794,22 +794,22 @@
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="14"/>
       <source>Select process to attach...</source>
-      <translation>منسلک کرنے کے لیے عمل کاری منتخب کریں...</translation>
+      <translation>...সংযুক্ত করার জন্য প্রক্রিয়া নির্বাচন করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="46"/>
       <source>Processes with same name as currently open file:</source>
-      <translation>فی الوقت کھلی فائل جیسے اسی نام کے ساتھ پراسس کرتا ہے:</translation>
+      <translation>বর্তমানে খোলা ফাইলের মতো একই নামের প্রক্রিয়া:</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="90"/>
       <source>All processes:</source>
-      <translation>تمام پراسسز:</translation>
+      <translation>সমস্ত প্রক্রিয়া:</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="130"/>
       <source>Quick Filter</source>
-      <translation>فوری فلٹر</translation>
+      <translation>দ্রুত ফিল্টার</translation>
     </message>
   </context>
   <context>
@@ -817,17 +817,17 @@
     <message>
       <location filename="../widgets/BacktraceWidget.cpp" line="16"/>
       <source>Function</source>
-      <translation>فنکشن</translation>
+      <translation>ফাংশন</translation>
     </message>
     <message>
       <location filename="../widgets/BacktraceWidget.cpp" line="19"/>
       <source>Description</source>
-      <translation>تفصیل</translation>
+      <translation>বর্ণনা</translation>
     </message>
     <message>
       <location filename="../widgets/BacktraceWidget.cpp" line="20"/>
       <source>Frame Size</source>
-      <translation>فریم سائز</translation>
+      <translation>ফ্রেমের আকার</translation>
     </message>
   </context>
   <context>
@@ -835,22 +835,22 @@
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="14"/>
       <source>Base64 Encode/Decode</source>
-      <translation>Base64 انکوڈ/ڈی کوڈ</translation>
+      <translation>বেস64 এনকোড/ডিকোড</translation>
     </message>
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="24"/>
       <source>String:</source>
-      <translation>سٹرنگ:</translation>
+      <translation>স্ট্রিং:</translation>
     </message>
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="38"/>
       <source>Decode</source>
-      <translation>ڈیکوڈ کریں</translation>
+      <translation>ডিকোড</translation>
     </message>
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="48"/>
       <source>Encode</source>
-      <translation>انکوڈ</translation>
+      <translation>এনকোড</translation>
     </message>
   </context>
   <context>
@@ -858,12 +858,12 @@
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="43"/>
       <source>Cores:</source>
-      <translation>کورز:</translation>
+      <translation>কোর:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="59"/>
       <source>Pointer Size:</source>
-      <translation>پوائنٹر سائز:</translation>
+      <translation>পয়েন্টারের আকার:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="67"/>
@@ -878,38 +878,38 @@
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="80"/>
       <source>Start Address:</source>
-      <translation>شروع کا ایڈریس:</translation>
+      <translation>শুরুর ঠিকানা:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="100"/>
       <source>End Address:</source>
-      <translation>اختتام کا ایڈریس:</translation>
+      <translation>সমাপ্তির ঠিকানা:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="117"/>
       <source>Alignment:</source>
-      <translation>قطار بندی:</translation>
+      <translation>বিন্যাসন:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="134"/>
       <source>Min String Length:</source>
-      <translation>سٹرنگ کی کم از کم لمبائی:</translation>
+      <translation>ন্যূনতম স্ট্রিং দৈর্ঘ্য:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="157"/>
       <source>Min Score:</source>
-      <translation>کم از کم اسکور:</translation>
+      <translation>ন্যূনতম স্কোর:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="199"/>
       <source>Remove item</source>
-      <translation>آئیٹم ہٹائیں</translation>
+      <translation>আইটেম সরিয়ে নিন</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="204"/>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="207"/>
       <source>Remove all</source>
-      <translation>سب کو ہٹائیں</translation>
+      <translation>সব সরিয়ে নিন</translation>
     </message>
   </context>
   <context>
@@ -918,19 +918,19 @@
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="84"/>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="110"/>
       <source>Copy %1</source>
-      <translation>%1 کاپی کریں</translation>
+      <translation>%1 কপি করুন</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="85"/>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="111"/>
       <source>Reopen Cutter with base address as %1</source>
-      <translation>%1 کے طور پر بنیادی ایڈریس کے ساتھ Cutter دوبارہ کھولیں</translation>
+      <translation>%1 ভিত্তি ঠিকানাসহ Cutter পুনরায় খুলুন</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="86"/>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="112"/>
       <source>Reopen Cutter with map address as %1</source>
-      <translation>%1 کے طور پر نقشہ کے ساتھ Cutter دوبارہ کھولیں</translation>
+      <translation>%1 ম্যাপ ঠিকানাসহ Cutter পুনরায় খুলুন</translation>
     </message>
   </context>
   <context>
@@ -938,12 +938,12 @@
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="58"/>
       <source>Score</source>
-      <translation>اسکور</translation>
+      <translation>স্কোর</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="60"/>
       <source>Address</source>
-      <translation>پتہ</translation>
+      <translation>ঠিকানা</translation>
     </message>
   </context>
   <context>
@@ -951,13 +951,13 @@
     <message>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="81"/>
       <source>Remove item</source>
-      <translation>آئیٹم ہٹائیں</translation>
+      <translation>আইটেম সরিয়ে নিন</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="86"/>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="89"/>
       <source>Remove all</source>
-      <translation>سب کو ہٹائیں</translation>
+      <translation>সব সরিয়ে নিন</translation>
     </message>
   </context>
   <context>
@@ -965,22 +965,22 @@
     <message>
       <location filename="../core/Basefind.cpp" line="41"/>
       <source>Start address is &gt;= end address</source>
-      <translation>شروع کا ایڈریس ہے &gt;= اختتامی ایڈریس</translation>
+      <translation>শুরুর ঠিকানা হলো &gt;= শেষ ঠিকানা</translation>
     </message>
     <message>
       <location filename="../core/Basefind.cpp" line="44"/>
       <source>Alignment must be at least </source>
-      <translation>قطار بندی کم از کم ہونی چاہیے </translation>
+      <translation>বিন্যাসন অবশ্যই হতে হবে কমপক্ষে </translation>
     </message>
     <message>
       <location filename="../core/Basefind.cpp" line="48"/>
       <source>Min score must be at least 1</source>
-      <translation>کم از کم سکور کم از کم 1 ہونا چاہیے</translation>
+      <translation>ন্যূনতম স্কোর অবশ্যই হতে হবে কমপক্ষে 1</translation>
     </message>
     <message>
       <location filename="../core/Basefind.cpp" line="51"/>
       <source>Min string length must be at least 1</source>
-      <translation>سٹرنگ کی کم از کم لمبائی کم از کم 1 ہونی چاہیے</translation>
+      <translation>ন্যূনতম স্ট্রিং দৈর্ঘ্য অবশ্যই হতে হবে কমপক্ষে 1</translation>
     </message>
   </context>
   <context>
@@ -988,22 +988,22 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="136"/>
       <source>method</source>
-      <translation>طریقہ کار</translation>
+      <translation>পদ্ধতি</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="160"/>
       <source>field</source>
-      <translation>فیلڈ</translation>
+      <translation>ক্ষেত</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="182"/>
       <source>base class</source>
-      <translation>بنیادی کلاس</translation>
+      <translation>ভিত্তি ক্লাস</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="202"/>
       <source>class</source>
-      <translation>کلاس</translation>
+      <translation>ক্লাস</translation>
     </message>
   </context>
   <context>
@@ -1013,7 +1013,7 @@
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="131"/>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="137"/>
       <source>N/A</source>
-      <translation>قابل اطلاق نہیں</translation>
+      <translation>প্রযোজ্য নয়</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="153"/>
@@ -1033,47 +1033,47 @@
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="159"/>
       <source>Type</source>
-      <translation>قسم</translation>
+      <translation>ধরন</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="161"/>
       <source>Chunks count</source>
-      <translation>ٹکڑوں کا شمار</translation>
+      <translation>চাঙ্ক গণনা</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="163"/>
       <source>Chunks size</source>
-      <translation>ٹکڑوں کا سائز</translation>
+      <translation>চাঙ্ক-এর আকার</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="171"/>
       <source>Bin number in NBINS or fastbinsY array</source>
-      <translation>NBINS یا fastbinsY صف میں Bin نمبر</translation>
+      <translation>NBINS বা fastbinsY অ্যারেতে বিন নম্বর</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="173"/>
       <source>Pointer to first chunk of the bin</source>
-      <translation>bin کے پہلے حصے کی طرف پوائنٹر</translation>
+      <translation>বিন-এর প্রথম চাঙ্ক নির্দেশক</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="175"/>
       <source>Pointer to last chunk of the bin</source>
-      <translation>bin کے آخری حصے کی طرف پوائنٹر</translation>
+      <translation>বিন-এর শেষ চাঙ্ক নির্দেশক</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="177"/>
       <source>Type of bin</source>
-      <translation>bin کی قسم</translation>
+      <translation>বিন-এর ধরন</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="179"/>
       <source>Number of chunks in the bin</source>
-      <translation>بن میں ٹکڑوں کی تعداد</translation>
+      <translation>বিন-এ চাঙ্ক সংখ্যা</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="181"/>
       <source>Size of all chunks in the bin</source>
-      <translation>بن میں ٹکڑوں کے سائز</translation>
+      <translation>বিন-এ সব চাঙ্ক-এর আকার</translation>
     </message>
   </context>
   <context>
@@ -1086,37 +1086,37 @@
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="66"/>
       <source>SW</source>
-      <translation>جنوب مغرب</translation>
+      <translation>দঃপঃ</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="101"/>
       <source>Offset</source>
-      <translation>آفسیٹ</translation>
+      <translation>অফসেট</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="103"/>
       <source>Name</source>
-      <translation>نام</translation>
+      <translation>নাম</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="105"/>
       <source>Type</source>
-      <translation>قسم</translation>
+      <translation>ধরন</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="107"/>
       <source>Tracing</source>
-      <translation>سراغ دہی</translation>
+      <translation>ট্রেসিং</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="109"/>
       <source>Enabled</source>
-      <translation>فعال کردہ</translation>
+      <translation>সক্রিয় করা হয়েছে</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="111"/>
       <source>Comment</source>
-      <translation>تبصرہ</translation>
+      <translation>মন্তব্য</translation>
     </message>
   </context>
   <context>
@@ -1124,28 +1124,28 @@
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="58"/>
       <source>Add new breakpoint</source>
-      <translation>نیا بریک پوائنٹ شامل کریں</translation>
+      <translation>নতুন ব্রেকপয়েন্ট যোগ করুন</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="65"/>
       <location filename="../widgets/BreakpointWidget.cpp" line="196"/>
       <source>Delete breakpoint</source>
-      <translation>بریک پوائنٹ حذف کریں</translation>
+      <translation>ব্রেকপয়েন্ট মুছে ফেলুন</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="72"/>
       <source>Delete all breakpoints</source>
-      <translation>تمام بریک پوائنٹس حذف کریں</translation>
+      <translation>সব ব্রেকপয়েন্ট মুছে ফেলুন</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="202"/>
       <source>Toggle breakpoint</source>
-      <translation>بریک پوائنٹ ٹوگل کریں</translation>
+      <translation>টগল ব্রেকপয়েন্ট</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="208"/>
       <source>Edit</source>
-      <translation>ترمیم کریں</translation>
+      <translation>সম্পাদনা করুন</translation>
     </message>
   </context>
   <context>
@@ -1153,142 +1153,142 @@
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="14"/>
       <source>Add/Edit breakpoint</source>
-      <translation>بریک پوائنٹ شامل/ترمیم کریں</translation>
+      <translation>নতুন ব্রেকপয়েন্ট যোগ/সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="22"/>
       <source>Position</source>
-      <translation>پوزیشن</translation>
+      <translation>অবস্থান</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="59"/>
       <source>Condition</source>
-      <translation>حالت</translation>
+      <translation>শর্ত</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="91"/>
       <source>?v $.rax-0x6  # break when rax is 6</source>
-      <translation>?v $.rax-0x6  # وقفہ دیں جب ریکس 6 ہو</translation>
+      <translation>?v $.rax-0x6  # rax 6 হলে ব্রেক করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="99"/>
       <source>Module</source>
-      <translation>ماڈیول</translation>
+      <translation>মডিউল</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="126"/>
       <source>Type/Options</source>
-      <translation>قسم/اختیارات</translation>
+      <translation>ধরন/বিকল্প</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="132"/>
       <source>Enabled</source>
-      <translation>فعال کردہ</translation>
+      <translation>সক্রিয় করা হয়েছে</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="142"/>
       <source>Software</source>
-      <translation>سافٹ ویئر</translation>
+      <translation>সফটওয়্যার</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="152"/>
       <source>Hardware</source>
-      <translation>ہارڈ ویئر</translation>
+      <translation>হার্ডওয়্যার</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="180"/>
       <source>Read</source>
-      <translation>پڑھیں</translation>
+      <translation>পড়ুন</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="187"/>
       <source>Write</source>
-      <translation>لکھیں</translation>
+      <translation>লিখুন</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="194"/>
       <source>Execute</source>
-      <translation>عملدرآمد کریں</translation>
+      <translation>সম্পাদন করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="206"/>
       <source>Size</source>
-      <translation>سائز</translation>
+      <translation>আকার</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="217"/>
       <source>1</source>
-      <translation>1</translation>
+      <translation/>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="222"/>
       <source>2</source>
-      <translation>2</translation>
+      <translation/>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="227"/>
       <source>4</source>
-      <translation>4</translation>
+      <translation/>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="232"/>
       <source>8</source>
-      <translation>8</translation>
+      <translation/>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="261"/>
       <source>Action</source>
-      <translation>عمل کاری</translation>
+      <translation>কার্যক্রম</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="267"/>
       <source>Trace</source>
-      <translation>سراغ لگائیں</translation>
+      <translation>ট্রেস</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="276"/>
       <source>Command</source>
-      <translation>کمانڈ</translation>
+      <translation>কমান্ড</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="21"/>
       <source>Edit breakpoint</source>
-      <translation>بریک پوائنٹ میں ترمیم کریں</translation>
+      <translation>ব্রেকপয়েন্ট সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="23"/>
       <source>New breakpoint</source>
-      <translation>نیا بریک پوائنٹ</translation>
+      <translation>নতুন ব্রেকপয়েন্ট</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="32"/>
       <source>Address</source>
-      <translation>ایڈریس</translation>
+      <translation>ঠিকানা</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="32"/>
       <source>Address or expression calculated when creating breakpoint</source>
-      <translation>بریک پوائنٹ بناتے وقت ایڈریس یا اظہار کا حساب لگایا جاتا ہے</translation>
+      <translation>ব্রেকপয়েন্ট তৈরি করার সময় ঠিকানা বা অভিব্যক্তি হিসাব করা হয়</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="34"/>
       <source>Named</source>
-      <translation>نام دیا</translation>
+      <translation>নাম</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="34"/>
       <source>Expression - stored as expression</source>
-      <translation>اظہار - بطور اظہار ذخیرہ کیا</translation>
+      <translation>অভিব্যক্তি - অভিব্যক্তি হিসাবে সংরক্ষিত</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="35"/>
       <source>Module offset</source>
-      <translation>ماڈیول آفسیٹ</translation>
+      <translation>মডিউল অফসেট</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="35"/>
       <source>Offset relative to module</source>
-      <translation>ماڈیول کے نسبتی آفسیٹ</translation>
+      <translation>মডিউল সাপেক্ষে অফসেট</translation>
     </message>
   </context>
   <context>
@@ -1296,18 +1296,18 @@
     <message>
       <location filename="../widgets/CallGraph.cpp" line="25"/>
       <source>Global Callgraph</source>
-      <translation>گلوبل کال گراف</translation>
+      <translation>গ্লোবাল কলগ্রাফ</translation>
     </message>
     <message>
       <location filename="../widgets/CallGraph.cpp" line="25"/>
       <location filename="../widgets/CallGraph.cpp" line="30"/>
       <source>Callgraph</source>
-      <translation>کال گراف</translation>
+      <translation>কলগ্রাফ</translation>
     </message>
     <message>
       <location filename="../widgets/CallGraph.cpp" line="30"/>
       <source>GlobalCallgraph</source>
-      <translation>گلوبل کال گراف</translation>
+      <translation>গ্লোবালকলগ্রাফ</translation>
     </message>
   </context>
   <context>
@@ -1315,22 +1315,22 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="21"/>
       <source>Name</source>
-      <translation>نام</translation>
+      <translation>নাম</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="23"/>
       <source>Real Name</source>
-      <translation>اصلی نام</translation>
+      <translation>প্রকৃত নাম</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="25"/>
       <source>Type</source>
-      <translation>قسم</translation>
+      <translation>ধরন</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="27"/>
       <source>Offset</source>
-      <translation>آفسیٹ</translation>
+      <translation>অফসেট</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="29"/>
@@ -1342,84 +1342,84 @@
     <name>ClassesWidget</name>
     <message>
       <source>Source:</source>
-      <translation>ماخذ:</translation>
+      <translation>উৎস:</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="621"/>
       <source>Binary Info (Fixed)</source>
-      <translation>بائنری معلومات (فکسڈ)</translation>
+      <translation>বাইনারি তথ্য (স্থির)</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="622"/>
       <source>Analysis (Editable)</source>
-      <translation>تجزیہ (قابل ترمیم)</translation>
+      <translation>বিশ্লেষণ (সম্পাদনাযোগ্য)</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="599"/>
       <source>Seek to VTable</source>
-      <translation>VTable پر تلاش کریں</translation>
+      <translation>VTable খুঁজুন</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="600"/>
       <source>Edit Method</source>
-      <translation>طریقہ میں ترمیم کریں</translation>
+      <translation>পদ্ধতি সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="601"/>
       <source>Add Method</source>
-      <translation>طریقہ شامل کریں</translation>
+      <translation>পদ্ধতি যোগ করুন</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="602"/>
       <location filename="../widgets/ClassesWidget.cpp" line="789"/>
       <source>Create new Class</source>
-      <translation>نئی کلاس بنائیں</translation>
+      <translation>নতুন ক্লাস তৈরি করুন</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="603"/>
       <source>Rename Class</source>
-      <translation>کلاس کا نیا نام رکھیں</translation>
+      <translation>ক্লাসের পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="604"/>
       <location filename="../widgets/ClassesWidget.cpp" line="805"/>
       <source>Delete Class</source>
-      <translation>کلاس حذف کریں</translation>
+      <translation>ক্লাস মুছে ফেলুন</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="606"/>
       <source>Classes</source>
-      <translation>کلاسز</translation>
+      <translation>ক্লাস</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="741"/>
       <source>Missing VTable in class</source>
-      <translation>کلاس میں VTable موجود نہیں ہے</translation>
+      <translation>ক্লাসে VTable অনুপস্থিত</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="742"/>
       <source>The class %1 does not have any VTable!</source>
-      <translation>کلاس %1 میں کوئی VTable نہیں ہے!</translation>
+      <translation>ক্লাস %1-এর কোনো VTable নেই!</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="789"/>
       <source>Class Name:</source>
-      <translation>کلاس کا نام:</translation>
+      <translation>ক্লাসের নাম:</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="806"/>
       <source>Are you sure you want to delete the class %1?</source>
-      <translation>کیا آپ واقعی کلاس %1 حذف کرنا چاہتے ہیں؟</translation>
+      <translation>আপনি কি নিশ্চিত যে আপনি %1 ক্লাস মুছে দিতে চান?</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="823"/>
       <source>Rename Class %1</source>
-      <translation>کلاس %1 کا نیا نام رکھیں</translation>
+      <translation>ক্লাস %1 এর পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="824"/>
       <source>Class name:</source>
-      <translation>کلاس کا نام:</translation>
+      <translation>ক্লাসের নাম:</translation>
     </message>
   </context>
   <context>
@@ -1427,42 +1427,42 @@
     <message>
       <location filename="../widgets/ColorPicker.ui" line="14"/>
       <source>Form</source>
-      <translation>فارم</translation>
+      <translation>গঠন</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="87"/>
       <source>Val:</source>
-      <translation>قدر:</translation>
+      <translation>Val:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="118"/>
       <source>Sat:</source>
-      <translation>لبریزی:</translation>
+      <translation>Sat:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="149"/>
       <source>Hue:</source>
-      <translation>رنگ:</translation>
+      <translation>Hue:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="184"/>
       <source>Red:</source>
-      <translation>سرخ:</translation>
+      <translation>লাল:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="215"/>
       <source>Green:</source>
-      <translation>سبز:</translation>
+      <translation>সবুজ:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="246"/>
       <source>Blue:</source>
-      <translation>نیلا:</translation>
+      <translation>নীল:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="281"/>
       <source>Hex:</source>
-      <translation>ہیکس:</translation>
+      <translation>Hex:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="288"/>
@@ -1472,7 +1472,7 @@
     <message>
       <location filename="../widgets/ColorPicker.ui" line="312"/>
       <source>Pick color from screen</source>
-      <translation>رنگ اسکرین سے چنیں</translation>
+      <translation>স্ক্রিন থেকে রঙ চয়ন করুন</translation>
     </message>
   </context>
   <context>
@@ -1480,44 +1480,44 @@
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation>مکالمہ</translation>
+      <translation>ডায়লগ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.ui" line="26"/>
       <source>Color Theme:</source>
-      <translation>رنگ کی تھیم:</translation>
+      <translation>রঙের থিম:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.ui" line="55"/>
       <source>Search</source>
-      <translation>تلاش کریں</translation>
+      <translation>খুঁজুন</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="35"/>
       <source>Disassembly Preview</source>
-      <translation>بے ترکیبی پیش نظارہ</translation>
+      <translation>বিচ্ছিন্নকরণ প্রিভিউ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="79"/>
       <source>Error</source>
-      <translation>خرابی</translation>
+      <translation>ত্রুটি</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="93"/>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="144"/>
       <source>Unsaved changes</source>
-      <translation>غیر محفوظ کردہ تبدیلیاں</translation>
+      <translation>অসংরক্ষিত পরিবর্তনসমূহ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="94"/>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="145"/>
       <source>Are you sure you want to exit without saving? All changes will be lost.</source>
-      <translation>کیا آپ واقعی محفوظ کیے بغیر خروج کرنا چاہتے ہیں؟ تمام تبدیلیاں ضائع ہو جائیں گی۔</translation>
+      <translation>আপনি কি সংরক্ষণ না করেই প্রস্থান করার বিষয়ে নিশ্চিত? সব পরিবর্তন হারিয়ে যাবে।</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="159"/>
       <source>Theme Editor - &lt;%1&gt;</source>
-      <translation>تھیم ایڈیٹر - &lt;%1&gt;</translation>
+      <translation>থিম এডিটর - &lt;%1&gt;</translation>
     </message>
   </context>
   <context>
@@ -1525,83 +1525,83 @@
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="45"/>
       <source>Standard themes not found</source>
-      <translation>معیاری تھیمز نہیں ملے</translation>
+      <translation>স্ট্যান্ডার্ড থিম পাওয়া যায়নি</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="46"/>
       <source>The Rizin standard themes could not be found in &apos;%1&apos;. Most likely, Rizin is not properly installed.</source>
-      <translation>Rizin معیاری تھیمز &apos;%1&apos; میں تلاش نہیں کی جا سکیں۔ زیادہ امکان ہے کہ Rizin مناسب طریقے سے انسٹال نہیں ہوا ہے۔</translation>
+      <translation>স্ট্যান্ডার্ড থিম &apos;%1&apos;-এ পাওয়া যায়নি। সম্ভবত, Rizin সঠিকভাবে ইনস্টল করা হয়নি।</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="75"/>
       <location filename="../common/ColorThemeWorker.cpp" line="169"/>
       <source>Theme &lt;b&gt;%1&lt;/b&gt; does not exist.</source>
-      <translation>تھیم &lt;b&gt;%1&lt;/b&gt; موجود نہیں ہے۔</translation>
+      <translation>থিম &lt;b&gt;%1&lt;/b&gt; এর অস্তিত্ব নেই।</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="85"/>
       <source>The file &lt;b&gt;%1&lt;/b&gt; cannot be opened.</source>
-      <translation>فائل &lt;b&gt;%1&lt;/b&gt; کو کھولا نہیں جا سکتا ہے۔</translation>
+      <translation>ফাইল &lt;b&gt;%1&lt;/b&gt; খোলা যাবে না।</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="166"/>
       <source>You can not delete standard Rizin color themes.</source>
-      <translation>آپ معیاری Rizin رنگ کی تھیمز کو حذف نہیں کر سکتے۔</translation>
+      <translation>আপনি স্ট্যান্ডার্ড Rizin রঙের থিমগুলো মুছতে পারবেন না।</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="174"/>
       <source>You have no permission to write to &lt;b&gt;%1&lt;/b&gt;</source>
-      <translation>آپ کو &lt;b&gt;%1&lt;/b&gt; پر لکھنے کی اجازت نہیں ہے</translation>
+      <translation>&lt;b&gt;%1&lt;/b&gt; লেখার কোনো অনুমতি আপনার নেই</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="177"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; can not be opened.</source>
-      <translation>فائل &lt;b&gt;%1&lt;/b&gt; کو کھولا نہیں جا سکتا ہے۔</translation>
+      <translation>ফাইল &lt;b&gt;%1&lt;/b&gt; খোলা যাবে না।</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="180"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; can not be removed.</source>
-      <translation>فائل &lt;b&gt;%1&lt;/b&gt; کو ہٹایا نہیں جا سکتا ہے۔</translation>
+      <translation>ফাইল &lt;b&gt;%1&lt;/b&gt; সরিয়ে নেওয়া যাবে না।</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="189"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; does not exist.</source>
-      <translation>فائل &lt;b&gt;%1&lt;/b&gt; موجود نہیں ہے۔</translation>
+      <translation>ফাইল &lt;b&gt;%1&lt;/b&gt; এর অস্তিত্ব নেই।</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="195"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; could not be opened. Please make sure you have access to it and try again.</source>
-      <translation>فائل &lt;b&gt;%1&lt;/b&gt; کھولی نہیں جا سکی۔ براہ کرم یقینی بنائیں کہ آپ کے پاس اس تک رسائی موجود ہے اور دوبارہ کوشش کریں۔</translation>
+      <translation>ফাইল &lt;b&gt;%1&lt;/b&gt; খোলা যাবে না। অনুগ্রহ করে নিশ্চিত করুন যে আপনার এটিতে অ্যাক্সেস আছে এবং আবার চেষ্টা করুন৷</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="199"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; is not a Cutter color theme</source>
-      <translation>فائل &lt;b&gt;%1&lt;/b&gt; ایک Cutter کلر تھیم نہیں ہے</translation>
+      <translation>ফাইল &lt;b&gt;%1&lt;/b&gt; Cutter রঙ-এর থিম নয়</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="204"/>
       <source>A color theme named &lt;b&gt;%1&lt;/b&gt; already exists.</source>
-      <translation>&lt;b&gt;%1&lt;/b&gt; نام والی ایک رنگ کی تھیم پہلے سے موجود ہے۔</translation>
+      <translation>&lt;b&gt;%1&lt;/b&gt; নামের একটি রঙিন থিম আগে থেকেই আছে।</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="210"/>
       <source>Error occurred during importing. Please make sure you have an access to the directory &lt;b&gt;%1&lt;/b&gt; and try again.</source>
-      <translation>درآمد کے دوران خرابی پیش آئی۔ براہ کرم یقینی بنائیں کہ آپ کو ڈائریکٹری &lt;b&gt;%1&lt;/b&gt; تک رسائی حاصل ہے اور دوبارہ کوشش کریں۔</translation>
+      <translation>নিয়ে আসার সময় ত্রুটি দেখা দিয়েছে৷ অনুগ্রহ করে নিশ্চিত করুন যে ডিরেক্টরি &lt;b&gt;%1&lt;/b&gt;-এ আপনার অ্যাক্সেস আছে  এবং আবার চেষ্টা করুন।</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="220"/>
       <source>A color theme named &lt;b&gt;&quot;%1&quot;&lt;/b&gt; already exists.</source>
-      <translation>&lt;b&gt;&quot;%1&quot;&lt;/b&gt; نام والی ایک رنگ کی تھیم پہلے سے موجود ہے۔</translation>
+      <translation>&lt;b&gt;&quot;%1&quot;&lt;/b&gt; নামের একটি রঙিন থিম আগে থেকেই আছে।</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="224"/>
       <source>You can not rename standard Rizin themes.</source>
-      <translation>آپ معیاری Rizin تھیمز کا نام تبدیل نہیں کر سکتے۔</translation>
+      <translation>আপনি স্ট্যান্ডার্ড Rizin রঙের থিমগুলোর পুনঃনামকরণ করতে পারবেন না।</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="230"/>
       <source>Something went wrong during renaming. Please make sure you have access to the directory &lt;b&gt;&quot;%1&quot;&lt;/b&gt;.</source>
-      <translation>نام تبدیل کرنے کے دوران کچھ غلط ہوا ہے۔ براہ کرم یقینی بنائیں کہ آپ کے پاس ڈائریکٹری &lt;b&gt;&quot;%1&quot;&lt;/b&gt;. تک رسائی موجود ہے۔</translation>
+      <translation>নাম পরিবর্তন করার সময় কিছু একটা ভুল হয়েছে। অনুগ্রহ করে নিশ্চিত করুন যে &lt;b&gt;&quot;%1&quot;&lt;/b&gt; ডিরেক্টরিতে আপনার  অ্যাক্সেস আছে।</translation>
     </message>
   </context>
   <context>
@@ -1609,17 +1609,17 @@
     <message>
       <location filename="../widgets/ComboQuickFilterView.ui" line="14"/>
       <source>Form</source>
-      <translation>فارم</translation>
+      <translation>গঠন</translation>
     </message>
     <message>
       <location filename="../widgets/ComboQuickFilterView.ui" line="32"/>
       <source>Quick Filter</source>
-      <translation>فوری فلٹر</translation>
+      <translation>দ্রুত ফিল্টার</translation>
     </message>
     <message>
       <location filename="../widgets/ComboQuickFilterView.ui" line="39"/>
       <source>TextLabel</source>
-      <translation>ٹیکسٹ لیبل</translation>
+      <translation>TextLabel</translation>
     </message>
   </context>
   <context>
@@ -1627,7 +1627,7 @@
     <message>
       <location filename="../common/CommandTask.h" line="23"/>
       <source>Running Command</source>
-      <translation>چلانے والی کمانڈ</translation>
+      <translation>রানিং কমান্ড</translation>
     </message>
   </context>
   <context>
@@ -1635,17 +1635,17 @@
     <message>
       <location filename="../dialogs/CommentsDialog.ui" line="14"/>
       <source>Comment</source>
-      <translation>تبصرہ</translation>
+      <translation>মন্তব্য</translation>
     </message>
     <message>
       <location filename="../dialogs/CommentsDialog.cpp" line="43"/>
       <source>Add Comment at %1</source>
-      <translation>%1 پر تبصرہ شامل کریں</translation>
+      <translation>%1-এ মন্তব্য যোগ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/CommentsDialog.cpp" line="45"/>
       <source>Edit Comment at %1</source>
-      <translation>%1 پر تبصرہ میں ترمیم کریں</translation>
+      <translation>%1-এ মন্তব্য সম্পাদনা করুন</translation>
     </message>
   </context>
   <context>
@@ -1653,23 +1653,23 @@
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="157"/>
       <source>Function/Offset</source>
-      <translation>فنکشن/آفسیٹ</translation>
+      <translation>ফাংশন/অফসেট</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="159"/>
       <location filename="../widgets/CommentsWidget.cpp" line="170"/>
       <source>Comment</source>
-      <translation>تبصرہ</translation>
+      <translation>মন্তব্য</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="166"/>
       <source>Offset</source>
-      <translation>آفسیٹ</translation>
+      <translation>অফসেট</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="168"/>
       <source>Function</source>
-      <translation>فنکشن</translation>
+      <translation>ফাংশন</translation>
     </message>
   </context>
   <context>
@@ -1677,38 +1677,38 @@
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="235"/>
       <source>Horizontal</source>
-      <translation>اُفقی</translation>
+      <translation>অনুভূমিক</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="236"/>
       <source>Vertical</source>
-      <translation>عمودی</translation>
+      <translation>উলম্ব</translation>
     </message>
     <message>
       <location filename="../widgets/CommentsWidget.cpp" line="238"/>
       <source>Comments</source>
-      <translation>تبصرے</translation>
+      <translation>মন্তব্য</translation>
     </message>
   </context>
   <context>
     <name>Configuration</name>
     <message>
       <source>Critical!</source>
-      <translation>بے حد اہم!</translation>
+      <translation>সংকটপূর্ণ!</translation>
     </message>
     <message>
       <source>!!! Settings are not writable! Make sure you have a write access to &quot;%1&quot;</source>
-      <translation>!!! ترتیبات قابل تحریر نہیں! یقینی بنائیں کہ آپ کے پاس &quot;%1&quot; تک رائٹ کرنے کی رسائی موجود ہے</translation>
+      <translation>!!! সেটিংস লেখার যোগ্য নয়! নিশ্চিত করুন যে &quot;%1&quot;-এ আপনার লেখার অ্যাক্সেস আছে</translation>
     </message>
     <message>
       <location filename="../common/Configuration.cpp" line="146"/>
       <source>Critical Error!</source>
-      <translation>بے حد اہم خرابی!</translation>
+      <translation>জটিল ত্রুটি!</translation>
     </message>
     <message>
       <location filename="../common/Configuration.cpp" line="147"/>
       <source>Settings are not writable! Make sure you have a write access to &quot;%1&quot;.</source>
-      <translation>ترتیبات قابل تحریر نہیں! یقینی بنائیں کہ آپ کے پاس &quot;%1&quot;. تک رائٹ کرنے کی رسائی موجود ہے۔</translation>
+      <translation>সেটিংস লেখার যোগ্য নয়! নিশ্চিত করুন যে &quot;%1&quot;-এ আপনার লেখার অ্যাক্সেস আছে</translation>
     </message>
   </context>
   <context>
@@ -1716,27 +1716,27 @@
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="93"/>
       <source>Rizin Console</source>
-      <translation>Rizin کنسول</translation>
+      <translation>Rizin কনসোল</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="98"/>
       <source>Debugee Input</source>
-      <translation>ڈیبگی ان پٹ</translation>
+      <translation>ডিবাগি ইনপুট</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="115"/>
       <source> Type &quot;?&quot; for help</source>
-      <translation> مدد کے لیے &quot;?&quot; ٹائپ کریں</translation>
+      <translation> সাহায্যের জন্য &quot;?&quot; ধরন</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="137"/>
       <source> Enter input for the debugee</source>
-      <translation> ڈیبگی کے لیے ان پٹ درج کریں</translation>
+      <translation> ডিবাগির জন্য ইনপুট লিখুন</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="153"/>
       <source>Execute command</source>
-      <translation>کمانڈ پر عمل کریں</translation>
+      <translation>কমান্ড নির্বাহ করুন</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="159"/>
@@ -1746,12 +1746,12 @@
     <message>
       <location filename="../widgets/ConsoleWidget.cpp" line="76"/>
       <source>Clear Output</source>
-      <translation>آؤٹ پٹ صاف کریں</translation>
+      <translation>আউটপুট মুছে দিন</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.cpp" line="85"/>
       <source>Wrap Lines</source>
-      <translation>ریپ لائنز</translation>
+      <translation>র‍্যাপ লাইন</translation>
     </message>
   </context>
   <context>
@@ -1760,7 +1760,7 @@
       <location filename="../core/Cutter.cpp" line="274"/>
       <location filename="../core/Cutter.cpp" line="287"/>
       <source>Loading initialization file from </source>
-      <translation>سے ابتدائی فائل لوڈ ہو رہی ہے </translation>
+      <translation>যেখান থেকে থেকে ইনিশিয়ালাইজিং ফাইল লোড হচ্ছে: </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1057"/>
@@ -1769,107 +1769,107 @@
       <location filename="../core/Cutter.cpp" line="1081"/>
       <location filename="../core/Cutter.cpp" line="1085"/>
       <source>Signatures</source>
-      <translation>سگنیچرز</translation>
+      <translation>স্বাক্ষর</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1058"/>
       <source>Cannot apply signature file because the requested arch is not supported by .sig files</source>
-      <translation>سگنیچر فائل کو لاگو نہیں کیا جا سکتا ہے کیونکہ درخواست کردہ آرک .sig فائلوں کی جانب سے معاونت کردہ نہیں ہے</translation>
+      <translation>স্বাক্ষর ফাইল প্রয়োগ করা যাবে না কারণ অনুরোধকৃত আর্চ .sig ফাইল দ্বারা সমর্থিত নয়</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1067"/>
       <source>Found %1 matching signatures!</source>
-      <translation>%1 مماثل سگنیچر ملے ہیں!</translation>
+      <translation>%1 মিল যুক্ত স্বাক্ষর পাওয়া গেছে!</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1072"/>
       <source>Failed to apply signature file!
 Please check the console for more details.</source>
-      <translation>سگنیچر فائل لاگو کرنے میں ناکام ہوا!
-مزید تفصیلات کے لیے براہ کرم کنسول کی پڑتال کریں۔</translation>
+      <translation>স্বাক্ষর ফাইল প্রয়োগ করা যায়নি!
+আরো বিস্তারিত তথ্যের জন্য কনসোল পরীক্ষা করুন।</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1082"/>
       <source>Cannot create signature file (check the console for more details).</source>
-      <translation>سگنیچر فائل تخلیق نہیں کی جا سکتی (مزید تفصیلات کے لیے کنسول کی پڑتال کریں)۔</translation>
+      <translation>স্বাক্ষর ফাইল তৈরি করা যাবে না (আরো বিস্তারিত তথ্যের জন্য কনসোল পরীক্ষা করুন)।</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1086"/>
       <source>Written %1 signatures to %2.</source>
-      <translation>%2 پر %1 سگنیچرز تحریر کردہ۔</translation>
+      <translation>লিখিত %1 স্বাক্ষর সম্বলিত %2।</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1987"/>
       <source>Starting native debug...</source>
-      <translation>مقامی ڈیبگ شروع ہو رہا ہے...</translation>
+      <translation>নেটিভ ডিবাগ শুরু হচ্ছে...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2035"/>
       <source>Starting emulation...</source>
-      <translation>ایمولیشن شروع کر رہا ہے...</translation>
+      <translation>এমিউলেশন শুরু হচ্ছে...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2098"/>
       <source>Connecting to: </source>
-      <translation>رابطہ کیا جا رہا ہے: </translation>
+      <translation>যাতে সংযোগ করা হচ্ছে: </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2150"/>
       <source>Attaching to process (</source>
-      <translation>پراسس سے منسلک کر رہا ہے (</translation>
+      <translation>প্রক্রিয়ায় সংযুক্ত করা হচ্ছে (</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2607"/>
       <source>Creating debug tracepoint...</source>
-      <translation>ڈیبگ ٹریس پوائنٹ تخلیق کر رہا ہے...</translation>
+      <translation>ডিবাগ ট্রেসপয়েন্ট তৈরি করা হচ্ছে...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2652"/>
       <source>Stopping debug session...</source>
-      <translation>ڈیبگ سیشن روک رہا ہے...</translation>
+      <translation>ডিবাগ সেশন বন্ধ করা হচ্ছে...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2687"/>
       <source>Breakpoint error</source>
-      <translation>بریک پوائنٹ کی خرابی</translation>
+      <translation>ব্রেকপয়েন্ট ত্রুটি</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2687"/>
       <source>Failed to create breakpoint</source>
-      <translation>بریک پوائنٹ بنانے میں ناکام ہوا</translation>
+      <translation>ব্রেকপয়েন্ট তৈরি করা যায়নি</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="3627"/>
       <source>Unknown (%1)</source>
-      <translation>نامعلوم (%1)</translation>
+      <translation>অজানা (%1)</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4059"/>
       <location filename="../core/Cutter.cpp" line="4088"/>
       <source>Error parsing type: &quot;%1&quot; message: </source>
-      <translation>قسم کو پارس کرنے میں خرابی: &quot;%1&quot; پیغام: </translation>
+      <translation>পার্সিং ধরনের ত্রুটি: &quot;%1&quot; বার্তা: </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4065"/>
       <source>Error creating global variable: &quot;%1&quot;</source>
-      <translation>عالمی متغیر بنانے میں خرابی: &quot;%1&quot;</translation>
+      <translation>গ্লোবাল ভেরিয়েবল তৈরিতে ত্রুটি: &quot;%1&quot;</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4658"/>
       <location filename="../core/Cutter.cpp" line="4709"/>
       <source>Cannot get global graph</source>
-      <translation>عالمی گراف حاصل نہیں کر سکتے</translation>
+      <translation>গ্লোবাল গ্রাফ পাওয়া যাচ্ছে না</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4660"/>
       <location filename="../core/Cutter.cpp" line="4711"/>
       <source>Cannot get graph at </source>
-      <translation>اس پر گراف حاصل نہیں کر سکتے </translation>
+      <translation>এখানে গ্রাফ পাওয়া যাচ্ছে না:  </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4691"/>
       <source>Failed to generate graph</source>
-      <translation>گراف بنانے میں ناکام ہوا</translation>
+      <translation>গ্রাফ তৈরি করা যায়নি</translation>
     </message>
   </context>
   <context>
@@ -1878,62 +1878,62 @@ Please check the console for more details.</source>
       <location filename="../widgets/CutterGraphView.cpp" line="30"/>
       <location filename="../widgets/CutterGraphView.cpp" line="440"/>
       <source>Export Graph</source>
-      <translation>گراف برآمد کریں</translation>
+      <translation>গ্রাফ প্রেরণ করুন</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="42"/>
       <source>Layout</source>
-      <translation>لے آؤٹ</translation>
+      <translation>লে-আউট</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="43"/>
       <source>Horizontal</source>
-      <translation>اُفقی</translation>
+      <translation>অনুভূমিক</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="47"/>
       <source>Grid narrow</source>
-      <translation>گرڈ تنگ</translation>
+      <translation>গ্রিড সরু</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="48"/>
       <source>Grid medium</source>
-      <translation>گرڈ میڈیم</translation>
+      <translation>গ্রিড মাঝারি</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="49"/>
       <source>Grid wide</source>
-      <translation>وسیع گرڈ</translation>
+      <translation>গ্রিড প্রশস্ত</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="63"/>
       <source>Graphviz polyline</source>
-      <translation>Graphviz پولی لائن</translation>
+      <translation>গ্রাফভিজ পলিলাইন</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="64"/>
       <source>Graphviz ortho</source>
-      <translation>Graphviz آرتھو</translation>
+      <translation>গ্রাফভিজ অর্থো</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="65"/>
       <source>Graphviz sfdp</source>
-      <translation>Graphviz sfdp</translation>
+      <translation>গ্রাফভিজ sfdp</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="66"/>
       <source>Graphviz neato</source>
-      <translation>Graphviz نیٹو</translation>
+      <translation>গ্রাফভিজ neato</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="67"/>
       <source>Graphviz twopi</source>
-      <translation>Graphviz ٹووپی</translation>
+      <translation>গ্রাফভিজ twopi</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="68"/>
       <source>Graphviz circo</source>
-      <translation>Graphviz سرکو</translation>
+      <translation>গ্রাফভিজ circo</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="409"/>
@@ -1953,12 +1953,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="415"/>
       <source>Graphviz dot (*.dot)</source>
-      <translation>Graphviz dot (*.dot)</translation>
+      <translation>গ্রাফভিজ ডট (*.dot)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="416"/>
       <source>Graph Modelling Language (*.gml)</source>
-      <translation>گراف ماڈلنگ کی زبان (*.gml)</translation>
+      <translation>গ্রাফ মডেলিং ভাষা (*.gml)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="418"/>
@@ -1967,52 +1967,52 @@ Please check the console for more details.</source>
     </message>
     <message>
       <source>SDB key-value (*.txt)</source>
-      <translation>SDB کلید-قدر (*.txt)</translation>
+      <translation>SDB কি-ভ্যালু (*.txt)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="424"/>
       <source>Graphviz json (*.json)</source>
-      <translation>Graphviz json (*.json)</translation>
+      <translation>গ্রাফভিজ json (*.json)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="426"/>
       <source>Graphviz gif (*.gif)</source>
-      <translation>Graphviz gif (*.gif)</translation>
+      <translation>গ্রাফভিজ gif (*.gif)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="428"/>
       <source>Graphviz png (*.png)</source>
-      <translation>Graphviz png (*.png)</translation>
+      <translation>গ্রাফভিজ png (*.png)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="430"/>
       <source>Graphviz jpg (*.jpg)</source>
-      <translation>Graphviz jpg (*.jpg)</translation>
+      <translation>গ্রাফভিজ jpg (*.jpg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="432"/>
       <source>Graphviz PostScript (*.ps)</source>
-      <translation>Graphviz PostScript (*.ps)</translation>
+      <translation>গ্রাফভিজ পোস্টস্ক্রিপ্ট (*.ps)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="434"/>
       <source>Graphviz svg (*.svg)</source>
-      <translation>Graphviz svg (*.svg)</translation>
+      <translation>গ্রাফভিজ svg (*.svg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="436"/>
       <source>Graphviz pdf (*.pdf)</source>
-      <translation>Graphviz pdf (*.pdf)</translation>
+      <translation>গ্রাফভিজ pdf (*.pdf)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="458"/>
       <source>Graph Export</source>
-      <translation>گراف برآمد</translation>
+      <translation>গ্রাফ প্রেরণ</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="459"/>
       <source>Do you really want to export %1 x %2 = %3 pixel bitmap image? Consider using different format.</source>
-      <translation>کیا آپ واقعی %1 x %2 = %3 پکسل بٹ میپ شبیہہ برآمد کرنا چاہتے ہیں؟ مختلف فارمیٹ استعمال کرنے پر غور کریں۔</translation>
+      <translation>আপনি কি সত্যিই %1 x %2 = %3 পিক্সেল বিটম্যাপ ছবি প্রেরণ করতে চান? বিভিন্ন বিন্যাস ব্যবহার বিবেচনা করুন।</translation>
     </message>
   </context>
   <context>
@@ -2020,12 +2020,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../common/CutterSeekable.cpp" line="73"/>
       <source>More than one (%1) references here. Weird behaviour expected.</source>
-      <translation>یہاں ایک سے زیادہ (%1) حوالہ جات۔ عجیب رویہ کی توقع ہے۔</translation>
+      <translation>এখানে একাধিক (%1) রেফারেন্স উল্লেখ রয়েছে। অস্বাভাবিক আচরণ প্রত্যাশিত।</translation>
     </message>
     <message>
       <location filename="../widgets/AddressableDockWidget.cpp" line="45"/>
       <source> (unsynced)</source>
-      <translation> (غیر مطابقت پذیر)</translation>
+      <translation> (সিঙ্ক করা নেই)</translation>
     </message>
   </context>
   <context>
@@ -2033,7 +2033,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/CutterTreeWidget.cpp" line="19"/>
       <source>%1 Items</source>
-      <translation>%1 آئیٹمز</translation>
+      <translation>%1 টি আইটেম</translation>
     </message>
   </context>
   <context>
@@ -2041,17 +2041,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/Dashboard.ui" line="116"/>
       <source>OVERVIEW</source>
-      <translation>جائزہ</translation>
+      <translation>ওভারভিউ</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="140"/>
       <source>Info</source>
-      <translation>معلومات</translation>
+      <translation>তথ্য</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="178"/>
       <source>File:</source>
-      <translation>فائل:</translation>
+      <translation>ফাইল:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="188"/>
@@ -2086,67 +2086,67 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/Dashboard.ui" line="207"/>
       <source>Format:</source>
-      <translation>فارمیٹ:</translation>
+      <translation>ফরম্যাট:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="236"/>
       <source>Mode:</source>
-      <translation>نوع:</translation>
+      <translation>মোড:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="265"/>
       <source>Size:</source>
-      <translation>سائز:</translation>
+      <translation>আকার:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="281"/>
       <source>Type:</source>
-      <translation>قسم:</translation>
+      <translation>ধরন:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="310"/>
       <source>Class:</source>
-      <translation>کلاس:</translation>
+      <translation>ক্লাস:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="339"/>
       <source>Language:</source>
-      <translation>زبان:</translation>
+      <translation>ভাষা:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="368"/>
       <source>Bits:</source>
-      <translation>بٹس:</translation>
+      <translation>Bits:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="426"/>
       <source>FD:</source>
-      <translation>فاورڈ:</translation>
+      <translation>FD:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="455"/>
       <source>Base addr:</source>
-      <translation>بنیادی ایڈریس:</translation>
+      <translation>ভিত্তি ঠিকানা:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="484"/>
       <source>Virtual addr:</source>
-      <translation>ورچوئل ایڈریس:</translation>
+      <translation>ভার্চুয়াল ঠিকানা:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="513"/>
       <source>Canary:</source>
-      <translation>کینری:</translation>
+      <translation>ক্যানারি:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="542"/>
       <source>Crypto:</source>
-      <translation>کرپٹو:</translation>
+      <translation>ক্রিপ্টো:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="571"/>
       <source>NX bit:</source>
-      <translation>NX بٹ:</translation>
+      <translation>NX বিট:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="600"/>
@@ -2156,22 +2156,22 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/Dashboard.ui" line="629"/>
       <source>Static:</source>
-      <translation>سٹیٹک:</translation>
+      <translation>স্থির:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="645"/>
       <source>Relro:</source>
-      <translation>ری لوکیشن صرف پڑھنے کے لیے:</translation>
+      <translation>Relro:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="700"/>
       <source>Architecture:</source>
-      <translation>تعمیرات:</translation>
+      <translation>আর্কিটেকচার:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="729"/>
       <source>Machine:</source>
-      <translation>مشین:</translation>
+      <translation>যন্ত্র:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="758"/>
@@ -2181,123 +2181,123 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/Dashboard.ui" line="787"/>
       <source>Subsystem:</source>
-      <translation>سب سسٹم:</translation>
+      <translation>সাবসিস্টেম:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="816"/>
       <source>Stripped:</source>
-      <translation>چھین لیا:</translation>
+      <translation>সরানো হয়েছে:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="845"/>
       <source>Relocs:</source>
-      <translation>ری لوکیشنز:</translation>
+      <translation>Relocs:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="874"/>
       <source>Endianness:</source>
-      <translation>اینڈین نیس:</translation>
+      <translation>Endianness:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="903"/>
       <source>Compiled:</source>
-      <translation>تدوین شدہ:</translation>
+      <translation>কম্পাইল করা হয়েছে:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="932"/>
       <source>Compiler:</source>
-      <translation>کمپائیلر</translation>
+      <translation>কম্পাইলার:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="993"/>
       <location filename="../widgets/Dashboard.cpp" line="176"/>
       <source>Certificates</source>
-      <translation>سرٹیفیکیٹس</translation>
+      <translation>সনদ</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1006"/>
       <source>Version info</source>
-      <translation>ورژن کی معلومات</translation>
+      <translation>সংস্করণের তথ্য</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1034"/>
       <source>Hashes</source>
-      <translation>ہیشز</translation>
+      <translation>হ্যাশ</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1051"/>
       <source>Libraries</source>
-      <translation>لائبریریاں</translation>
+      <translation>লাইব্রেরি</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1083"/>
       <source>Analysis info</source>
-      <translation>تجزیہ کی معلومات</translation>
+      <translation>বিশ্লেষণের তথ্য</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1107"/>
       <source>Functions:</source>
-      <translation>فنکشنز:</translation>
+      <translation>ফাংশন:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1133"/>
       <source>X-Refs:</source>
-      <translation>کراس حوالہ جات:</translation>
+      <translation>X-রেফারেন্স:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1159"/>
       <source>Calls:</source>
-      <translation>کالز:</translation>
+      <translation>কল:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1185"/>
       <source>Strings:</source>
-      <translation>سٹرنگز:</translation>
+      <translation>স্ট্রিং:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1211"/>
       <source>Symbols:</source>
-      <translation>علامات:</translation>
+      <translation>প্রতীক:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1237"/>
       <source>Imports:</source>
-      <translation>درآمد:</translation>
+      <translation>আনীত:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1263"/>
       <source>Analysis coverage:</source>
-      <translation>تجزیہ کا احاطہ:</translation>
+      <translation>বিশ্লেষণ কভারেজ:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1289"/>
       <source>Code size:</source>
-      <translation>کوڈ سائز:</translation>
+      <translation>কোডের আকার:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="1315"/>
       <source>Coverage percent:</source>
-      <translation>کوریج کا تناسب:</translation>
+      <translation>কভারেজের শতাংশ:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="162"/>
       <source>Key</source>
-      <translation>کلید</translation>
+      <translation>চাবি</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="162"/>
       <source>Value</source>
-      <translation>قدر</translation>
+      <translation>মান</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="163"/>
       <source>root</source>
-      <translation>روٹ</translation>
+      <translation>মূল</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="204"/>
       <source>N/A</source>
-      <translation>قابل اطلاق نہیں</translation>
+      <translation>প্রযোজ্য নয়</translation>
     </message>
   </context>
   <context>
@@ -2305,140 +2305,140 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="37"/>
       <source>Start emulation</source>
-      <translation>ایمولیشن شروع کریں</translation>
+      <translation>এমিউলেশন শুরু করুন</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="38"/>
       <source>Attach to process</source>
-      <translation>پراسس سے منسلک کریں</translation>
+      <translation>প্রক্রিয়ায় সংযুক্ত করুন</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="39"/>
       <source>Connect to a remote debugger</source>
-      <translation>ریموٹ ڈیبگر سے منسلک ہوں</translation>
+      <translation>রিমোট ডিবাগারের সাথে সংযোগ করুন</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="40"/>
       <source>Stop debug</source>
-      <translation>ڈیبگ روکیں</translation>
+      <translation>ডিবাগ বন্ধ করুন</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="41"/>
       <source>Stop emulation</source>
-      <translation>ایمولیشن روکیں</translation>
+      <translation>এমিউলেশন বন্ধ করুন</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="42"/>
       <source>Restart emulation</source>
-      <translation>ایمولیشن پھر شروع کریں</translation>
+      <translation>পুনরায় এমিউলেশন শুরু করুন</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="43"/>
       <source>Continue until main</source>
-      <translation>مین تک جاری رکھیں</translation>
+      <translation>প্রধান পর্যন্ত চালিয়ে যান</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="44"/>
       <source>Continue until call</source>
-      <translation>کال تک جاری رکھیں</translation>
+      <translation>কল পর্যন্ত চালিয়ে যান</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="45"/>
       <source>Continue until syscall</source>
-      <translation>سسکال تک جاری رکھیں</translation>
+      <translation>সিসকল পর্যন্ত চালিয়ে যান</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="46"/>
       <source>Continue backwards</source>
-      <translation>پیچھے کی جانب جاری رکھیں</translation>
+      <translation>পিছনের দিকে চালিয়ে যান</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="47"/>
       <source>Step</source>
-      <translation>قدم</translation>
+      <translation>পদক্ষেপ</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="48"/>
       <source>Step over</source>
-      <translation>پر قدم بڑھائیں</translation>
+      <translation>এগিয়ে যান</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="49"/>
       <source>Step out</source>
-      <translation>قدم ہٹائیں</translation>
+      <translation>বাইরে যান</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="50"/>
       <source>Step backwards</source>
-      <translation>پیچھے قدم لیں</translation>
+      <translation>পিছনে যান</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="51"/>
       <source>Start trace session</source>
-      <translation>ٹریس سیشن شروع کریں</translation>
+      <translation>ট্রেস সেশন শুরু করুন</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="52"/>
       <source>Stop trace session</source>
-      <translation>ٹریس سیشن روکیں</translation>
+      <translation>ট্রেস সেশন বন্ধ করুন</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="53"/>
       <source>Suspend the process</source>
-      <translation>عمل کو معطل کریں</translation>
+      <translation>প্রক্রিয়া স্থগিত করুন</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="54"/>
       <source>Continue</source>
-      <translation>جاری رکھیں</translation>
+      <translation>চালিয়ে যান</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="55"/>
       <source>Restart program</source>
-      <translation>پروگرام کو دوبارہ شروع کریں</translation>
+      <translation>প্রোগ্রাম পুনরায় চালু করুন</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="56"/>
       <source>Start debug</source>
-      <translation>ڈیبگ شروع کریں</translation>
+      <translation>ডিবাগ শুরু করুন</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="147"/>
       <source>Debugged process exited (</source>
-      <translation>ڈیبگ شدہ پراسس سے خروج کیا (</translation>
+      <translation>ডিবাগ প্রক্রিয়া থেকে প্রস্থান করা হয়েছে (</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="267"/>
       <source>Debug is currently in beta.
 </source>
-      <translation>ڈیبگ فی الحال بیٹا میں ہے۔
+      <translation>ডিবাগ বর্তমানে বিটাতে রয়েছে।
 </translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="268"/>
       <source>If you encounter any problems or have suggestions, please submit an issue to https://github.com/rizinorg/cutter/issues</source>
-      <translation>اگر آپ کو کوئی مسئلہ درپیش ہے یا آپ کی کوئی تجاویز ہیں، تو براہ کرم https://github.com/rizinorg/cutter/issues پر ایک مسئلہ جمع کرائیں</translation>
+      <translation>আপনি কোনো সমস্যার সম্মুখীন হলে বা পরামর্শ থাকলে অনুগ্রহ করে https://github.com/rizinorg/cutter/issues-এ একটি সমস্যা জমা দিন</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="289"/>
       <location filename="../widgets/DebugActions.cpp" line="368"/>
       <source>Detach from process</source>
-      <translation>پراسس سے الگ کریں</translation>
+      <translation>প্রক্রিয়া থেকে বিচ্ছিন্ন করুন</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="306"/>
       <source>Error connecting.</source>
-      <translation>منسلک ہونے میں خرابی۔</translation>
+      <translation>সংযোগ করার সময় ত্রুটি।</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="359"/>
       <source>Error attaching. No process selected!</source>
-      <translation>منسلک کرنے میں خرابی۔ کوئی پراسس منتخب نہیں کیا!</translation>
+      <translation>সংযুক্ত করার সময় ত্রুটি৷ কোনো প্রক্রিয়া নির্বাচন করা হয়নি!</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="388"/>
       <source>File &apos;%1&apos; does not have executable permissions.</source>
-      <translation>فائل &apos;%1&apos; کے پاس قابل عملدرآمد اجازتیں نہیں ہیں۔</translation>
+      <translation>&apos;%1&apos; ফাইলের চালানোর অনুমতি নেই।</translation>
     </message>
   </context>
   <context>
@@ -2446,52 +2446,52 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="14"/>
       <source>Debug</source>
-      <translation>ڈی بگ کریں</translation>
+      <translation>ডিবাগ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="30"/>
       <source>Debug plugin:</source>
-      <translation>ڈی بگ پلگ ان:</translation>
+      <translation>ডিবাগ প্লাগইন:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="42"/>
       <source>ESIL options</source>
-      <translation>ESIL آپشنز</translation>
+      <translation>ESIL বিকল্পসমূহ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="54"/>
       <source>Break esil execution when instruction is invalid (esil.breakoninvalid)</source>
-      <translation>ہدایات کے غلط ہونے پر esil عمل درآمد کو روک دیں (esil.breakoninvalid)</translation>
+      <translation>নির্দেশনা অবৈধ হলে esil কার্যকর করা বন্ধ করুন (esil.breakoninvalid)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="69"/>
       <source>ESIL stack address:</source>
-      <translation>ESIL اسٹیک ایڈریس:</translation>
+      <translation>ESIL স্ট্যাক করার ঠিকানা:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="79"/>
       <source>Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</source>
-      <translation>زوم آؤٹ کرتے وقت متن کو چھپائیں اور یہ دی گئی قدر سے چھوٹا ہو۔ اعلی قدریں کارکردگی میں اضافہ کر سکتی ہیں۔</translation>
+      <translation>জুম আউটের সময় টেক্সট লুকান এবং তা প্রদত্ত মান থেকে ছোট। উচ্চ মান কর্মক্ষমতা বৃদ্ধি করতে পারে।</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="82"/>
       <source>ESIL stack size:</source>
-      <translation>ESIL اسٹیک سائز:</translation>
+      <translation>ESIL স্ট্যাক-এর আকার:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="100"/>
       <source>Trace options</source>
-      <translation>ٹریس کے اختیارات</translation>
+      <translation>ট্রেস বিকল্পসমূহ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="109"/>
       <source>Trace each step during continue in a trace session (dbg.trace_continue)</source>
-      <translation>ٹریس سیشن میں جاری رکھنے کے دوران ہر قدم کا سراغ لگائیں (dbg.trace_continue)</translation>
+      <translation>কোনো ট্রেস সেশন চালিয়ে যাওয়ার সময় প্রতিটি ধাপ ট্রেস করুন (dbg.trace_continue)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="112"/>
       <source>Disabling this option means that stepping back after continue will return to the previous PC. Significantly improves performance.</source>
-      <translation>اس اختیار کو غیر فعال کرنے کا مطلب ہے کہ جاری رکھنے کے بعد پیچھے ہٹنا پچھلے PC پر واپس آ جائے گا۔ کارکردگی کو نمایاں طور پر بہتر بناتا ہے۔</translation>
+      <translation>এই বিকল্প নিষ্ক্রিয় করার মানে হলো চালিয়ে যাওয়ার পরে ফিরে গেলে তা আগের পিসিতে ফিরে আসবে। উল্লেখযোগ্যভাবে কর্মক্ষমতাতাবাড়ায়।</translation>
     </message>
   </context>
   <context>
@@ -2499,230 +2499,230 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="26"/>
       <source>Copy</source>
-      <translation>کاپی کریں</translation>
+      <translation>কপি করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="27"/>
       <source>Copy instruction address (&lt;address&gt;)</source>
-      <translation>ہدایات کا ایڈریس کاپی کریں (&lt;address&gt;)</translation>
+      <translation>নির্দেশনার ঠিকানা কপি করুন (&lt;address&gt;)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="28"/>
       <source>Copy address of [flag] (&lt;address&gt;)</source>
-      <translation>[flag] کا ایڈریس کاپی کریں (&lt;address&gt;)</translation>
+      <translation>[ফ্ল্যাগ] (&lt;address&gt;)-এর ঠিকানা কপি করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="29"/>
       <source>Show in</source>
-      <translation>میں دکھائیں</translation>
+      <translation>দেখান</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="30"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="166"/>
       <source>Add Comment</source>
-      <translation>تبصرہ شامل کریں</translation>
+      <translation>মন্তব্য যোগ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="31"/>
       <source>Delete comment</source>
-      <translation>تبصرہ حذف کریں</translation>
+      <translation>মন্তব্য মুছে ফেলুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="32"/>
       <source>Rename function at cursor</source>
-      <translation>فنکشن کا کرسر پر نام بدلیں</translation>
+      <translation>কার্সারে ফাংশনের পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="33"/>
       <source>Delete &lt;name&gt;</source>
-      <translation>حذف کریں &lt;name&gt;</translation>
+      <translation>&lt;name&gt; মুছে ফেলুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="34"/>
       <source>Edit variable &lt;name of variable&gt;</source>
-      <translation>متغیر میں ترمیم کریں &lt;name of variable&gt;</translation>
+      <translation>&lt;name of variable&gt; ভেরিয়েবল সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="35"/>
       <source>Show X-Refs</source>
-      <translation>کراس حوالہ جات دکھائیں</translation>
+      <translation>X-রেফারেন্স দেখান</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="36"/>
       <source>Add/remove breakpoint</source>
-      <translation>بریک پوائنٹ شامل کریں/ہٹائیں</translation>
+      <translation>ব্রেকপয়েন্ট যোগ করুন/সরিয়ে নিন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="37"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="197"/>
       <source>Advanced breakpoint</source>
-      <translation>ایڈوانسڈ بریک پوائنٹ</translation>
+      <translation>অ্যাডভান্সড ব্রেকপয়েন্ট </translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="39"/>
       <source>Continue until line</source>
-      <translation>لائن تک جاری رکھیں</translation>
+      <translation>লাইন পর্যন্ত চালিয়ে যান</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="40"/>
       <source>Set PC</source>
-      <translation>PC سیٹ کریں</translation>
+      <translation>PC সেট করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="169"/>
       <source>Edit Comment</source>
-      <translation>تبصرہ میں تبدیلی کریں</translation>
+      <translation>মন্তব্য সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="185"/>
       <source>Add breakpoint</source>
-      <translation>بریک پوائنٹ شامل کریں</translation>
+      <translation>ব্রেকপয়েন্ট যোগ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="187"/>
       <source>Remove breakpoint</source>
-      <translation>بریک پوائنٹ ہٹائیں</translation>
+      <translation>ব্রেকপয়েন্ট সরিয়ে নিন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="189"/>
       <source>Remove all breakpoints in line</source>
-      <translation>لائن میں موجود تمام بریک پوائنٹس کو ہٹائیں</translation>
+      <translation>সব ব্রেকপয়েন্ট লাইনে সরিয়ে নিন।</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="196"/>
       <source>Edit breakpoint</source>
-      <translation>بریک پوائنٹ میں ترمیم کریں</translation>
+      <translation>ব্রেকপয়েন্ট সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="200"/>
       <source>Set %1 here</source>
-      <translation>%1 کو یہاں سیٹ کریں</translation>
+      <translation>%1 সেট করুন এখানে</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="212"/>
       <source>Rename function %1</source>
-      <translation>فنکشن %1 کا نام بدلیں</translation>
+      <translation>%1 ফাংশনের পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="217"/>
       <source>Rename %1</source>
-      <translation>%1 کا نام بدلیں</translation>
+      <translation>%1 এর পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="218"/>
       <source>Remove %1</source>
-      <translation>%1 کو ہٹائیں</translation>
+      <translation>%1 সরিয়ে নিন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="221"/>
       <source>Add name to %1</source>
-      <translation>%1 میں نام شامل کریں</translation>
+      <translation>%1-এ নাম যোগ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="226"/>
       <source>Copy instruction address (%1)</source>
-      <translation>ہدایت کا ایڈریس کاپی کریں (%1)</translation>
+      <translation>নির্দেশনার ঠিকানা কপি করুন (%1)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="232"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="237"/>
       <source>Copy address of %1 (%2)</source>
-      <translation>%1 کا ایڈریس کاپی کریں (%2)</translation>
+      <translation> %1 (%2)-এর ঠিকানা কপি করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="241"/>
       <source>Copy address (%1)</source>
-      <translation>ایڈریس کاپی کریں (%1)</translation>
+      <translation>ঠিকানা কপি করুন (%1)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="257"/>
       <source>Edit variable %1</source>
-      <translation>متغیر %1 میں ترمیم کریں</translation>
+      <translation>ভেরিয়েবল %1 সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="259"/>
       <source>Rename variable %1</source>
-      <translation>متغیر %1 کا نام بدلیں</translation>
+      <translation>ভেরিয়েবল %1-এর পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="321"/>
       <source>Can&apos;t rename this variable.&lt;br&gt;Only local variables defined in disassembly can be renamed.</source>
-      <translation>اس متغیر کا نام تبدیل نہیں&apos; کیا جا سکتا۔&lt;br&gt;صرف بے ترکیبی میں بیان کردہ مقامی متغیرات کا نام تبدیل کیا جا سکتا ہے۔</translation>
+      <translation>&apos;এই ভেরিয়েবলের পুনঃনামকরণ করা যাবে না।&lt;br&gt;কেবল বিচ্ছিন্নকরণে সংজ্ঞায়িত স্থানীয় ভেরিয়েবলের নাম পরিবর্তন করা যাবে।</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="340"/>
       <source>Can&apos;t edit this variable.&lt;br&gt;Only local variables defined in disassembly can be edited.</source>
-      <translation>اس متغیر میں ترمیم نہیں&apos; کی جا سکتی۔&lt;br&gt;صرف بے ترکیبی میں بیان کردہ مقامی متغیرات میں ترمیم کی جا سکتی ہے۔</translation>
+      <translation>&apos;এই ভেরিয়েবল সম্পাদনা করা যাবে না।&lt;br&gt;কেবল বিচ্ছিন্নকরণে সংজ্ঞায়িত স্থানীয় ভেরিয়েবল সম্পাদনা করা যাবে।</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="413"/>
       <source>Define this function at %2</source>
-      <translation>%2 پر اس فنکشن کی وضاحت کریں</translation>
+      <translation>এই ফাংশনটি %2-এ সংজ্ঞায়িত করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="414"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="421"/>
       <source>Function name:</source>
-      <translation>فنکشن کا نام:</translation>
+      <translation>ফাংশনের নাম:</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="420"/>
       <source>Rename function %2</source>
-      <translation>فنکشن %2 کا نام بدلیں</translation>
+      <translation>%2 ফাংশনের পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="431"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="455"/>
       <source>Rename %2</source>
-      <translation>%2 کا نام بدلیں</translation>
+      <translation>%2ঃ-এর পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="431"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="439"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="456"/>
       <source>Enter name</source>
-      <translation>نام درج کریں</translation>
+      <translation>নাম লিখুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="438"/>
       <source>Add name to %2</source>
-      <translation>%2 میں نام شامل کریں</translation>
+      <translation>%2-এ নাম যোগ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="449"/>
       <source>Rename local variable %1</source>
-      <translation>مقامی متغیر %1 کا نام بدلیں</translation>
+      <translation>স্থানীয় ভেরিয়েবল %1-এর পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="450"/>
       <source>Can&apos;t rename this variable. Only local variables defined in disassembly can be renamed.</source>
-      <translation>اس متغیر کا نام تبدیل نہیں&apos; کیا جا سکتا۔ صرف بے ترکیبی میں بیان کردہ مقامی متغیرات کا نام تبدیل کیا جا سکتا ہے۔</translation>
+      <translation>&apos;এই ভেরিয়েবলের পুনঃনামকরণ করা যাবে না। কেবল বিচ্ছিন্নকরণে সংজ্ঞায়িত স্থানীয় ভেরিয়েবলের নাম পরিবর্তন করা যাবে।</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="475"/>
       <source>Edit local variable %1</source>
-      <translation>مقامی متغیر %1 میں ترمیم کریں</translation>
+      <translation>স্থানীয় ভেরিয়েবল %1 সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="476"/>
       <source>Can&apos;t edit this variable. Only local variables defined in disassembly can be edited.</source>
-      <translation>اس متغیر میں ترمیم نہیں&apos; کی جا سکتی۔ صرف بے ترکیبی میں بیان کردہ مقامی متغیرات میں ترمیم کی جا سکتی ہے۔</translation>
+      <translation>&apos;এই ভেরিয়েবল সম্পাদনা করা যাবে না। কেবল বিচ্ছিন্নকরণে সংজ্ঞায়িত স্থানীয় ভেরিয়েবল সম্পাদনা করা যাবে।</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="542"/>
       <source>Breakpoint</source>
-      <translation>بریک پوائنٹ</translation>
+      <translation>ব্রেকপয়েন্ট</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="552"/>
       <source>Debug</source>
-      <translation>ڈی بگ کریں</translation>
+      <translation>ডিবাগ</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="582"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="584"/>
       <source>Show %1 in</source>
-      <translation>%1 اس میں دکھائیں</translation>
+      <translation>দেখান</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="589"/>
@@ -2736,37 +2736,37 @@ Please check the console for more details.</source>
       <location filename="../widgets/DecompilerWidget.ui" line="14"/>
       <location filename="../widgets/DecompilerWidget.cpp" line="483"/>
       <source>Decompiler</source>
-      <translation>ڈی کمپائلر</translation>
+      <translation>ডিকম্পাইলার</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.ui" line="53"/>
       <source>Decompiling...</source>
-      <translation>ڈی کمپائل کر رہا ہے...</translation>
+      <translation>ডিকম্পাইল করা হচ্ছে...</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.ui" line="75"/>
       <source>Decompiler:</source>
-      <translation>ڈی کمپائلر:</translation>
+      <translation>ডিকম্পাইলার:</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="32"/>
       <source>Choose an offset and refresh to get decompiled code</source>
-      <translation>ڈی کمپائلڈ کوڈ حاصل کرنے کے لیے ایک آفسیٹ منتخب کریں اور ریفریش کریں</translation>
+      <translation>ডিকম্পাইল করা কোড পেতে একটি অফসেট বেছে নিন এবং রিফ্রেশ করুন</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="68"/>
       <source>No Decompiler available.</source>
-      <translation>کوئی ڈ یکمپائلر دستیاب نہیں ہے۔</translation>
+      <translation>কোনো ডিকম্পাইলার নেই।</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="285"/>
       <source>No function found at this offset. Seek to a function or define one in order to decompile it.</source>
-      <translation>اس آفسیٹ پر کوئی فنکشن نہیں ملا۔ ایک فنکشن تلاش کریں یا ڈی کمپائل کرنے کے لیے ایک کی وضاحت کریں۔</translation>
+      <translation>এই অফসেটে কোনো ফাংশন পাওয়া যায়নি। একটি ফাংশন সন্ধান করুন বা  ডিকম্পাইল করার জন্য একটিকে সংজ্ঞায়িত করুন।</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="325"/>
       <source>Cannot decompile at this address (Not a function?)</source>
-      <translation>اس ایڈریس پر ڈی کمپائل نہیں کیا جا سکتا (فنکشن نہیں ہے؟)</translation>
+      <translation>এই ঠিকানায় ডিকম্পাইল করা যাচ্ছে না (ফাংশন নয়?)</translation>
     </message>
   </context>
   <context>
@@ -2774,32 +2774,32 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="98"/>
       <source>Highlight block</source>
-      <translation>بلاک کو نمایاں کریں</translation>
+      <translation>ব্লক হাইলাইট করুন</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="116"/>
       <source>Unhighlight block</source>
-      <translation>بلاک کو غیر نمایاں کریں</translation>
+      <translation>ব্লকের হাইলাইট তুলে দিন</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="126"/>
       <source>Highlight instruction</source>
-      <translation>ہدایت کو نمایاں کریں</translation>
+      <translation>নির্দেশনা হাইলাইট করুন</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="130"/>
       <source>Unhighlight instruction</source>
-      <translation>ہدایت کو غیر نمایاں کریں</translation>
+      <translation>নির্দেশনার হাইলাইট তুলে দিন</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="196"/>
       <source>Graph</source>
-      <translation>گراف</translation>
+      <translation>গ্রাফ</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="211"/>
       <source>No function detected. Cannot display graph.</source>
-      <translation>کوئی فنکشن نہیں ملا۔ گراف کو ڈسپلے نہیں کیا جا سکتا۔</translation>
+      <translation>কোনো ফাংশন শনাক্ত করা হয়নি। গ্রাফ প্রদর্শন করা যাচ্ছে না।</translation>
     </message>
   </context>
   <context>
@@ -2807,188 +2807,188 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="72"/>
       <source>Copy</source>
-      <translation>کاپی کریں</translation>
+      <translation>কপি করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="75"/>
       <source>Copy address</source>
-      <translation>ایڈریس کاپی کریں</translation>
+      <translation>ঠিকানা কপি করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="79"/>
       <source>Show in</source>
-      <translation>میں دکھائیں</translation>
+      <translation>দেখান</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="84"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="570"/>
       <source>Add Comment</source>
-      <translation>تبصرہ شامل کریں</translation>
+      <translation>মন্তব্য যোগ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="171"/>
       <source>Add at...</source>
-      <translation>ذیل پر شامل کریں...</translation>
+      <translation>...-এ যোগ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="173"/>
       <source>Rename or add flag</source>
-      <translation>نام بدلیں یا فلیگ شامل کریں</translation>
+      <translation>পুনঃনামকরণ করুন বা ফ্ল্যাগ যোগ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="88"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="911"/>
       <source>Re-type Local Variables</source>
-      <translation>مقامی متغیر کو دوبارہ ٹائپ کریں</translation>
+      <translation>স্থানীয় ভেরিয়েবল পুনরায় টাইপ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="92"/>
       <source>Edit function</source>
-      <translation>فنکشن میں ترمیم کریں</translation>
+      <translation>ফাংশন সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="96"/>
       <source>Delete comment</source>
-      <translation>تبصرہ حذف کریں</translation>
+      <translation>মন্তব্য মুছে ফেলুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="100"/>
       <source>Delete flag</source>
-      <translation>فلیگ حذف کریں</translation>
+      <translation>ফ্ল্যাগ মুছে ফেলুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="103"/>
       <source>Undefine function</source>
-      <translation>غیر متعین فنکشن</translation>
+      <translation>অনির্ধারিত ফাংশন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="107"/>
       <source>Define function here</source>
-      <translation>فنکشن کو یہاں متعین کریں</translation>
+      <translation>এখানে ফাংশন সংজ্ঞায়িত করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="119"/>
       <source>Structure offset</source>
-      <translation>ڈھانچہ آفسیٹ</translation>
+      <translation>কাঠামো অফসেট</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="127"/>
       <source>Show X-Refs</source>
-      <translation>کراس حوالہ جات دکھائیں</translation>
+      <translation>X-রেফারেন্স দেখান</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="131"/>
       <source>X-Refs for local variables</source>
-      <translation>لوکل متغیرات کے لیے کراس حوالہ جات</translation>
+      <translation>স্থানীয় ভেরিয়েবলের জন্য X-রেফারেন্স</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="135"/>
       <source>Show Options</source>
-      <translation>اختیارات دکھائیں</translation>
+      <translation>বিকল্প দেখান</translation>
     </message>
     <message>
       <source>Set Immediate Base to...</source>
-      <translation>فوری بنیاد اس پر سیٹ کریں...</translation>
+      <translation>...-এ ইমেডিয়েট বেস সেট করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="177"/>
       <source>Modify or add global variable</source>
-      <translation>عالمی متغیر میں ترمیم یا اضافہ کریں</translation>
+      <translation>বৈশ্বিক ভেরিয়েবল পরিবর্তন বা  যোগ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="184"/>
       <source>Set base of immediate value to..</source>
-      <translation>فوری قدر کی بنیاد اس پر سیٹ کریں..</translation>
+      <translation>..-এ ইমেডিয়েট মানের বেস সেট করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="186"/>
       <source>Binary</source>
-      <translation>ثنائی</translation>
+      <translation>বাইনারি</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="190"/>
       <source>Octal</source>
-      <translation>آکٹل</translation>
+      <translation>অক্টাল</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="194"/>
       <source>Decimal</source>
-      <translation>عشری</translation>
+      <translation>ডেসিম্যাল</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="198"/>
       <source>Hexadecimal</source>
-      <translation>ہیگزا ڈیسیمل</translation>
+      <translation>হেক্সাডেসিম্যাল</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="202"/>
       <source>Network Port</source>
-      <translation>نیٹ ورک پورٹ</translation>
+      <translation>নেটওয়ার্ক পোর্ট</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="206"/>
       <source>IP Address</source>
-      <translation>IP ایڈریس</translation>
+      <translation>আইপি ঠিকানা</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="210"/>
       <source>Syscall</source>
-      <translation>سسکال</translation>
+      <translation>Syscall</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="214"/>
       <source>String</source>
-      <translation>سٹرنگ</translation>
+      <translation>স্ট্রিং:</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="221"/>
       <source>Set current bits to...</source>
-      <translation>موجودہ بٹس کو اس پر سیٹ کریں...</translation>
+      <translation>...-এ বর্তমান bits সেট করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="238"/>
       <source>Set as...</source>
-      <translation>سیٹ کریں بطور...</translation>
+      <translation>... হিসাবে সেট করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="240"/>
       <source>Code</source>
-      <translation>کوڈ</translation>
+      <translation>কোড</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="244"/>
       <source>String...</source>
-      <translation>سٹرنگ...</translation>
+      <translation>স্ট্রিং...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="246"/>
       <source>Auto-detect</source>
-      <translation>خود کار سراغ لگائیں</translation>
+      <translation>স্বয়ংক্রিয়-শনাক্তকরণ</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="248"/>
       <source>Remove</source>
-      <translation>ہٹائیں</translation>
+      <translation>সরিয়ে নিন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="250"/>
       <source>Advanced</source>
-      <translation>ایڈوانسڈ</translation>
+      <translation>অগ্রসর</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="262"/>
       <source>Data...</source>
-      <translation>تاریخ...</translation>
+      <translation>ডেটা...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="264"/>
       <source>Byte</source>
-      <translation>بائٹ</translation>
+      <translation>বাইট</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="268"/>
       <source>Word</source>
-      <translation>لفظ</translation>
+      <translation>শব্দ</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="272"/>
@@ -3003,154 +3003,154 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="291"/>
       <source>Edit</source>
-      <translation>ترمیم کریں</translation>
+      <translation>সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="293"/>
       <source>Instruction</source>
-      <translation>ہدایات</translation>
+      <translation>নির্দেশনা</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="297"/>
       <source>Nop Instruction</source>
-      <translation>نوپ ہدایت</translation>
+      <translation>Nop নির্দেশনা</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="301"/>
       <source>Bytes</source>
-      <translation>بائٹس</translation>
+      <translation>বাইট</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="304"/>
       <source>Reverse Jump</source>
-      <translation>ریورس جمپ</translation>
+      <translation>রিভার্স জাম্প</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="310"/>
       <source>Breakpoint</source>
-      <translation>بریک پوائنٹ</translation>
+      <translation>ব্রেকপয়েন্ট</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="312"/>
       <source>Add/remove breakpoint</source>
-      <translation>بریک پوائنٹ شامل کریں/ہٹائیں</translation>
+      <translation>ব্রেকপয়েন্ট যোগ করুন/সরিয়ে নিন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="315"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="608"/>
       <source>Advanced breakpoint</source>
-      <translation>ایڈوانسڈ بریک پوائنٹ</translation>
+      <translation>অ্যাডভান্সড ব্রেকপয়েন্ট </translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="322"/>
       <source>Debug</source>
-      <translation>ڈی بگ کریں</translation>
+      <translation>ডিবাগ</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="324"/>
       <source>Continue until line</source>
-      <translation>لائن تک جاری رکھیں</translation>
+      <translation>লাইন পর্যন্ত চালিয়ে যান</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="424"/>
       <source>Add flag at %1 (used here)</source>
-      <translation>%1 پر فلیگ شامل کریں (یہاں استعمال کردہ)</translation>
+      <translation>%1-এ ফ্ল্যাগ যোগ করুন (এখানে ব্যবহৃত)</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="429"/>
       <source>Rename &quot;%1&quot;</source>
-      <translation>نام بدلیں &quot;%1&quot;</translation>
+      <translation>&quot;%1&quot;-এর পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="434"/>
       <source>Rename local &quot;%1&quot;</source>
-      <translation>مقامی &quot;%1&quot; کا نام بدلیں</translation>
+      <translation>স্থানীয় &quot;%1&quot;-এর পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="439"/>
       <source>Rename flag &quot;%1&quot; (used here)</source>
-      <translation>فلیگ &quot;%1&quot; کا نام بدلیں (یہاں استعمال کردہ)</translation>
+      <translation> &quot;%1&quot; ফ্ল্যাগ-এর পুনঃনামকরণ করুন (এখানে ব্যবহৃত)</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="497"/>
       <source>Add or change global variable at %1 (used here)</source>
-      <translation>عالمی متغیر کو %1 پر شامل یا تبدیل کریں (یہاں استعمال کردہ)</translation>
+      <translation>%1-এ গ্লোবাল ভেরিয়েবল যোগ বা পরিবর্তন করুন (এখানে ব্যবহৃত)</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="573"/>
       <source>Edit Comment</source>
-      <translation>تبصرہ میں ترمیم کریں</translation>
+      <translation>মন্তব্য সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="589"/>
       <source>Edit function &quot;%1&quot;</source>
-      <translation>فنکشن &quot;%1&quot; میں ترمیم کریں</translation>
+      <translation>&quot;%1&quot; ফাংশন সম্পাদনা  করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="606"/>
       <source>Remove breakpoint</source>
-      <translation>بریک پوائنٹ ہٹائیں</translation>
+      <translation>ব্রেকপয়েন্ট সরিয়ে নিন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="606"/>
       <source>Add breakpoint</source>
-      <translation>بریک پوائنٹ شامل کریں</translation>
+      <translation>ব্রেকপয়েন্ট যোগ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="607"/>
       <source>Edit breakpoint</source>
-      <translation>بریک پوائنٹ میں ترمیم کریں</translation>
+      <translation>ব্রেকপয়েন্ট সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="622"/>
       <source>X-Refs for %1</source>
-      <translation>%1 کے لیے کراس حوالہ جات</translation>
+      <translation>%1-এর জন্য X-রেফারেন্স</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="722"/>
       <source>Edit Instruction at %1</source>
-      <translation>%1 پر ہدایت میں ترمیم کریں</translation>
+      <translation>%-এ নির্দেশনা সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="772"/>
       <source>Edit Bytes at %1</source>
-      <translation>%1 پر بائٹس میں ترمیم کریں</translation>
+      <translation>%1-এ বাইট সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="843"/>
       <source>New function at %1</source>
-      <translation>%1 پر نیا فنکشن</translation>
+      <translation>%1-এ নতুন ফাংশন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="844"/>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="865"/>
       <source>Function name:</source>
-      <translation>فنکشن کا نام:</translation>
+      <translation>ফাংশনের নাম:</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="864"/>
       <source>Rename function %2</source>
-      <translation>فنکشن %2 کا نام بدلیں</translation>
+      <translation>%2 ফাংশনের পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="912"/>
       <source>You must be in a function to define variable types.</source>
-      <translation>متغیر کی اقسام کی وضاحت کرنے کے لیے آپ کا فنکشن میں ہونا لازمی ہے۔</translation>
+      <translation>ভেরিয়েবলের ধরন সংজ্ঞায়িত করার জন্য আপনাকে অবশ্যই কোনো ফাংশনে থাকতে হবে।</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="974"/>
       <source>Wrong address</source>
-      <translation>غلط ایڈریس</translation>
+      <translation>ভুল ঠিকানা</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="975"/>
       <source>Can&apos;t edit string at this address</source>
-      <translation>اس ایڈریس پر سٹرنگ میں ترمیم نہیں&apos; کی جا سکتی ہے</translation>
+      <translation>এই ঠিকানায় স্ট্রিং সম্পাদনা করা যাবে না৷</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="1047"/>
       <source>Edit function %1</source>
-      <translation>فنکشن %1 میں ترمیم کریں</translation>
+      <translation>%1 ফাংশন সম্পাদনা  করুন</translation>
     </message>
   </context>
   <context>
@@ -3158,7 +3158,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/DisassemblyWidget.cpp" line="674"/>
       <source>Disassembly</source>
-      <translation>بے ترکیبی</translation>
+      <translation>বিচ্ছিন্নকরণ</translation>
     </message>
   </context>
   <context>
@@ -3166,17 +3166,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/DuplicateFromOffsetDialog.ui" line="20"/>
       <source>Duplicate from offset</source>
-      <translation>آفسیٹ سے ڈپلیکیٹ</translation>
+      <translation>অফসেট থেকে প্রতিলিপি করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/DuplicateFromOffsetDialog.ui" line="28"/>
       <source>Offset:</source>
-      <translation>آفسیٹ:</translation>
+      <translation>অফসেট:</translation>
     </message>
     <message>
       <location filename="../dialogs/DuplicateFromOffsetDialog.ui" line="49"/>
       <source>N bytes:</source>
-      <translation>N بائٹس:</translation>
+      <translation>N বাইট:</translation>
     </message>
   </context>
   <context>
@@ -3184,27 +3184,27 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="14"/>
       <source>Edit Function</source>
-      <translation>فنکشن میں ترمیم کریں</translation>
+      <translation>ফাংশন সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="43"/>
       <source>Name of function</source>
-      <translation>فنکشن کا نام</translation>
+      <translation>ফাংশনের নাম</translation>
     </message>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="53"/>
       <source>Start address</source>
-      <translation>شروع کا ایڈریس</translation>
+      <translation>শুরুর ঠিকানা</translation>
     </message>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="63"/>
       <source>Stack size</source>
-      <translation>اسٹیک سائز</translation>
+      <translation>স্ট্যাক-এর আকার</translation>
     </message>
     <message>
       <location filename="../dialogs/EditFunctionDialog.ui" line="73"/>
       <source>Calling convention</source>
-      <translation>کنونشن کو کال رہا ہے</translation>
+      <translation>সম্মেলন আহ্বান</translation>
     </message>
   </context>
   <context>
@@ -3212,17 +3212,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/EditInstructionDialog.ui" line="14"/>
       <source>Edit Instruction</source>
-      <translation>ہدایت میں ترمیم کریں</translation>
+      <translation>নির্দেশনা সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/EditInstructionDialog.ui" line="88"/>
       <source>Unknown Instruction</source>
-      <translation>نامعلوم ہدایت</translation>
+      <translation>অজানা নির্দেশনা</translation>
     </message>
     <message>
       <location filename="../dialogs/EditInstructionDialog.ui" line="100"/>
       <source>Fill all remaining bytes with NOP opcodes</source>
-      <translation>تمام باقی بائٹس کو NOP او پی کوڈز سے پر کریں</translation>
+      <translation>NOP অপকোড দিয়ে অবশিষ্ট সমস্ত বাইট পূরণ করুন</translation>
     </message>
   </context>
   <context>
@@ -3230,47 +3230,47 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="25"/>
       <source>Class:</source>
-      <translation>کلاس:</translation>
+      <translation>ক্লাস:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="32"/>
       <source>Unique Identifier (name):</source>
-      <translation>منفرد شناخت کنندہ (نام):</translation>
+      <translation>অনন্য শনাক্তকারী (নাম):</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="44"/>
       <source>Auto-Rename</source>
-      <translation>خود کار نام کی تبدیلی</translation>
+      <translation>স্বয়ংক্রিয় পুনঃনামকরণ</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="56"/>
       <source>Display Name (realname):</source>
-      <translation>دکھایا جانے والا نام (اصل نام):</translation>
+      <translation>নাম প্রদর্শন করুন (প্রকৃত নাম):</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="66"/>
       <source>Address:</source>
-      <translation>ایڈریس:</translation>
+      <translation>ঠিকানা:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="76"/>
       <source>Virtual:</source>
-      <translation>ورچوئل:</translation>
+      <translation>ভার্চুয়াল:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="90"/>
       <source>Offset in VTable:</source>
-      <translation>VTable میں آفسیٹ:</translation>
+      <translation>VTable-এ অফসেট:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.cpp" line="191"/>
       <source>Create Method</source>
-      <translation>طریقہ تخلیق کریں</translation>
+      <translation>পদ্ধতি তৈরি করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.cpp" line="206"/>
       <source>Edit Method</source>
-      <translation>طریقہ میں ترمیم کریں</translation>
+      <translation>পদ্ধতি সম্পাদনা করুন</translation>
     </message>
   </context>
   <context>
@@ -3278,27 +3278,27 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="23"/>
       <source>Edit string</source>
-      <translation>سٹرنگ میں ترمیم کریں</translation>
+      <translation>স্ট্রিং সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="52"/>
       <source>Size:</source>
-      <translation>سائز:</translation>
+      <translation>আকার:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="59"/>
       <source>Type:</source>
-      <translation>قسم:</translation>
+      <translation>ধরন:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="66"/>
       <source>Address:</source>
-      <translation>ایڈریس:</translation>
+      <translation>ঠিকানা:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditStringDialog.ui" line="99"/>
       <source>Auto</source>
-      <translation>خودکار</translation>
+      <translation>স্বয়ংক্রিয়</translation>
     </message>
   </context>
   <context>
@@ -3306,27 +3306,27 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/EditVariablesDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation>مکالمہ</translation>
+      <translation>ডায়লগ</translation>
     </message>
     <message>
       <location filename="../dialogs/EditVariablesDialog.ui" line="22"/>
       <source>Modify:</source>
-      <translation>ترمیم کریں:</translation>
+      <translation>পরিবর্তন করুন:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditVariablesDialog.ui" line="35"/>
       <source>Name:</source>
-      <translation>نام:</translation>
+      <translation>নাম:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditVariablesDialog.ui" line="42"/>
       <source>Type:</source>
-      <translation>قسم:</translation>
+      <translation>ধরন:</translation>
     </message>
     <message>
       <location filename="../dialogs/EditVariablesDialog.cpp" line="20"/>
       <source>Edit Variables in Function: %1</source>
-      <translation>فنکشن میں متغیرات میں ترمیم کریں: %1</translation>
+      <translation>ফাংশনে ভেরিয়েবল সম্পাদনা করুন: %1</translation>
     </message>
   </context>
   <context>
@@ -3334,27 +3334,27 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="60"/>
       <source>Address</source>
-      <translation>ایڈریس</translation>
+      <translation>ঠিকানা</translation>
     </message>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="62"/>
       <source>Size</source>
-      <translation>سائز</translation>
+      <translation>আকার</translation>
     </message>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="64"/>
       <source>Type</source>
-      <translation>قسم</translation>
+      <translation>ধরন</translation>
     </message>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="66"/>
       <source>Name</source>
-      <translation>نام</translation>
+      <translation>নাম</translation>
     </message>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="68"/>
       <source>Comment</source>
-      <translation>تبصرہ</translation>
+      <translation>মন্তব্য</translation>
     </message>
   </context>
   <context>
@@ -3362,7 +3362,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/ExportsWidget.cpp" line="138"/>
       <source>Exports</source>
-      <translation>برآمدات</translation>
+      <translation>রপ্তানি/প্রেরণ</translation>
     </message>
   </context>
   <context>
@@ -3370,17 +3370,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="14"/>
       <source>Add Flag</source>
-      <translation>فلیگ شامل کریں</translation>
+      <translation>ফ্ল্যাগ যোগ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="20"/>
       <source>Add flag at</source>
-      <translation>پر فلیگ شامل کریں</translation>
+      <translation>-এ ফ্ল্যাগ যোগ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="38"/>
       <source>Flag:</source>
-      <translation>فلیگ:</translation>
+      <translation>ফ্ল্যাগ:</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="61"/>
@@ -3390,17 +3390,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/FlagDialog.ui" line="80"/>
       <source>Size:</source>
-      <translation>سائز:</translation>
+      <translation>আকার:</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.cpp" line="24"/>
       <source>Edit flag at %1</source>
-      <translation>%1 پر فلیگ میں ترمیم کریں</translation>
+      <translation>%1-এ ফ্ল্যাগ সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/FlagDialog.cpp" line="26"/>
       <source>Add flag at %1</source>
-      <translation>%1 پر فلیگ شامل کریں</translation>
+      <translation>%1-এ ফ্ল্যাগ যোগ করুন</translation>
     </message>
   </context>
   <context>
@@ -3408,27 +3408,27 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="64"/>
       <source>Size</source>
-      <translation>سائز</translation>
+      <translation>আকার</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="66"/>
       <source>Offset</source>
-      <translation>آفسیٹ</translation>
+      <translation>অফসেট</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="68"/>
       <source>Name</source>
-      <translation>نام</translation>
+      <translation>নাম</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="70"/>
       <source>Real Name</source>
-      <translation>اصلی نام</translation>
+      <translation>প্রকৃত নাম</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="72"/>
       <source>Comment</source>
-      <translation>تبصرہ</translation>
+      <translation>মন্তব্য</translation>
     </message>
   </context>
   <context>
@@ -3436,47 +3436,47 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="79"/>
       <source>Quick Filter</source>
-      <translation>فوری فلٹر</translation>
+      <translation>দ্রুত ফিল্টার</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="86"/>
       <source>Flagspace:</source>
-      <translation>فلیگ سپیس:</translation>
+      <translation>ফ্ল্যাগস্পেস:</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="99"/>
       <source>Rename</source>
-      <translation>نام بدلیں</translation>
+      <translation>পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="102"/>
       <source>N</source>
-      <translation>شمال</translation>
+      <translation>N</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="110"/>
       <source>Delete</source>
-      <translation>حذف کریں</translation>
+      <translation>মুছে ফেলুন</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="113"/>
       <source>Del</source>
-      <translation>حذف کریں</translation>
+      <translation>ডেল</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="214"/>
       <source>Rename flag %1</source>
-      <translation>فلیگ %1 کا نیا نام رکھیں</translation>
+      <translation>%1 ফ্ল্যাগ-এর পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="215"/>
       <source>Flag name:</source>
-      <translation>فلیگ کا نام:</translation>
+      <translation>ফ্ল্যাগ-এর নাম:</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.cpp" line="244"/>
       <source>(all)</source>
-      <translation>(تمام)</translation>
+      <translation>(সব)</translation>
     </message>
   </context>
   <context>
@@ -3484,12 +3484,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/FlirtContextMenu.cpp" line="14"/>
       <source>Copy Line</source>
-      <translation>لائن کاپی کریں</translation>
+      <translation>লাইন কপি করুন</translation>
     </message>
     <message>
       <location filename="../menus/FlirtContextMenu.cpp" line="15"/>
       <source>Apply Signature File</source>
-      <translation>سگنیچر فائل کا اطلاق کریں</translation>
+      <translation>স্বাক্ষর ফাইল প্রয়োগ করুন</translation>
     </message>
   </context>
   <context>
@@ -3497,32 +3497,32 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="65"/>
       <source>Bin</source>
-      <translation>Bin</translation>
+      <translation>বিন</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="67"/>
       <source>Arch</source>
-      <translation>آرک</translation>
+      <translation>Arch</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="69"/>
       <source>Bits</source>
-      <translation>بٹس</translation>
+      <translation>Bits</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="71"/>
       <source># Funcs</source>
-      <translation># فنکشنز</translation>
+      <translation># ফাঙ্কস</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="73"/>
       <source>Name</source>
-      <translation>نام</translation>
+      <translation>নাম</translation>
     </message>
     <message>
       <location filename="../widgets/FlirtWidget.cpp" line="75"/>
       <source>Details</source>
-      <translation>تفصیلات</translation>
+      <translation>বিস্তারিত</translation>
     </message>
   </context>
   <context>
@@ -3530,29 +3530,29 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="134"/>
       <source>Offset: %1</source>
-      <translation>آفسیٹ: %1</translation>
+      <translation>অফসেট: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="136"/>
       <source>Size: %1</source>
-      <translation>سائز: %1</translation>
+      <translation>আকার: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="138"/>
       <source>Import: %1</source>
-      <translation>درآمد کریں: %1</translation>
+      <translation>নিয়ে আসুন: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="139"/>
       <location filename="../widgets/FunctionsWidget.cpp" line="166"/>
       <source>true</source>
-      <translation>صحیح</translation>
+      <translation>সত্য</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="139"/>
       <location filename="../widgets/FunctionsWidget.cpp" line="166"/>
       <source>false</source>
-      <translation>غلط</translation>
+      <translation>মিথ্যা</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="141"/>
@@ -3572,53 +3572,53 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="147"/>
       <source>Call type: %1</source>
-      <translation>کال کی قسم: %1</translation>
+      <translation>কলের ধরন: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="149"/>
       <source>Edges: %1</source>
-      <translation>کنارے: %1</translation>
+      <translation>প্রান্ত: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="151"/>
       <source>StackFrame: %1</source>
-      <translation>اسٹیک فریم: %1</translation>
+      <translation>স্ট্যাকফ্রেম: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="153"/>
       <source>Comment: %1</source>
-      <translation>تبصرہ: %1</translation>
+      <translation>মন্তব্য: %1</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="265"/>
       <source>&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;Disassembly preview&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</source>
-      <translation>&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;بے ترکیبی پیش نظارہ&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
+      <translation>&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;বিচ্ছিন্নকরণ প্রিভিউ&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="270"/>
       <source>&lt;div&gt;&lt;strong&gt;Highlights&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</source>
-      <translation>&lt;div&gt;&lt;strong&gt;جھلکیاں&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
+      <translation>&lt;div&gt;&lt;strong&gt;হাইলাইট&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="305"/>
       <location filename="../widgets/FunctionsWidget.cpp" line="309"/>
       <source>Name</source>
-      <translation>نام</translation>
+      <translation>নাম</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="311"/>
       <source>Size</source>
-      <translation>سائز</translation>
+      <translation>আকার</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="313"/>
       <source>Imp.</source>
-      <translation>اہم</translation>
+      <translation>গুরুত্বপূর্ণ</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="315"/>
       <source>Offset</source>
-      <translation>آفسیٹ</translation>
+      <translation>অফসেট</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="317"/>
@@ -3638,22 +3638,22 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="323"/>
       <source>Call type</source>
-      <translation>کال کی قسم</translation>
+      <translation>কলের ধরন</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="325"/>
       <source>Edges</source>
-      <translation>کنارے</translation>
+      <translation>প্রান্ত</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="327"/>
       <source>StackFrame</source>
-      <translation>اسٹیک فریم</translation>
+      <translation>স্ট্যাকফ্রেম</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="329"/>
       <source>Comment</source>
-      <translation>تبصرہ</translation>
+      <translation>মন্তব্য</translation>
     </message>
   </context>
   <context>
@@ -3661,7 +3661,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../common/FunctionsTask.h" line="13"/>
       <source>Fetching Functions</source>
-      <translation>فنکشنز کو بازیافت کر رہا ہے</translation>
+      <translation>ফাংশন আনা</translation>
     </message>
   </context>
   <context>
@@ -3669,37 +3669,37 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="490"/>
       <source>Rename</source>
-      <translation>نام بدلیں</translation>
+      <translation>পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="491"/>
       <source>Undefine</source>
-      <translation>غیر متعین</translation>
+      <translation>অনির্দিষ্ট</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="492"/>
       <source>Horizontal</source>
-      <translation>اُفقی</translation>
+      <translation>অনুভূমিক</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="493"/>
       <source>Vertical</source>
-      <translation>عمودی</translation>
+      <translation>উলম্ব</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="495"/>
       <source>Functions</source>
-      <translation>فنکشنز</translation>
+      <translation>ফাংশন</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="613"/>
       <source>Rename function %1</source>
-      <translation>فنکشن %1 کا نام بدلیں</translation>
+      <translation>%1 ফাংশনের পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="614"/>
       <source>Function name:</source>
-      <translation>فنکشن کا نام:</translation>
+      <translation>ফাংশনের নাম:</translation>
     </message>
   </context>
   <context>
@@ -3707,27 +3707,27 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation>مکالمہ</translation>
+      <translation>ডায়লগ</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="25"/>
       <source>Chain info:</source>
-      <translation>چین معلومات:</translation>
+      <translation>চেইনের তথ্য:</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="41"/>
       <source>Detailed chunk info:</source>
-      <translation>حصہ کی تفصیلی معلومات:</translation>
+      <translation>চাঙ্ক-এর বিস্তারিত তথ্য:</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.ui" line="48"/>
       <source>Enter chunk base address and press enter</source>
-      <translation>چنک بیس ایڈریس درج کریں اور انٹر دبائیں</translation>
+      <translation>চাঙ্ক-এর বেস ঠিকানা লিখুন এবং এন্টার চাপুন</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="28"/>
       <source>Bins info for arena @ </source>
-      <translation>ارینا کے لیے Bins معلومات @ </translation>
+      <translation>@ এরিনার জন্য বিন সম্পর্কিত তথ্য </translation>
     </message>
   </context>
   <context>
@@ -3735,82 +3735,82 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation>مکالمہ</translation>
+      <translation>ডায়লগ</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="22"/>
       <source>Base</source>
-      <translation>بنیاد</translation>
+      <translation>বেস</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="29"/>
       <source>Base address of the chunk</source>
-      <translation>ٹکڑے کا بنیادی پتہ</translation>
+      <translation>চাঙ্ক-এর বেস ঠিকানা</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="39"/>
       <source>Size</source>
-      <translation>سائز</translation>
+      <translation>আকার</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="46"/>
       <source>Size of the heap chunk including metadata</source>
-      <translation>میٹا ڈیٹا سمیت ہیپ ٹکڑے کا سائز</translation>
+      <translation>মেটাডেটাসহ হিপ চাঙ্ক-এর আকার</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="56"/>
       <source>Fd</source>
-      <translation>فاورڈ</translation>
+      <translation>Fd</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="63"/>
       <source>Link to next free chunk in bin&apos;s linked list</source>
-      <translation>bin&apos;s سے منسلک فہرست میں اگلے آزاد حصہ سے لنک کریں</translation>
+      <translation>বিনের সংযোগকৃত তালিকায় পরবর্তী ফ্রি চাঙ্ক সংযুক্ত করুন৷</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="73"/>
       <source>Bk</source>
-      <translation>بیک ورڈ</translation>
+      <translation>Bk</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="80"/>
       <source>Link to previous free chunk in bin&apos;s linked list</source>
-      <translation>bin&apos;s سے منسلک فہرست میں سابقہ آزاد حصہ سے لنک کریں</translation>
+      <translation>বিনের সংযোগকৃত তালিকায় পূর্ববর্তী ফ্রি চাঙ্ক সংযুক্ত করুন৷</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="90"/>
       <source>Link to next larger free chunk (only for large chunks)</source>
-      <translation>اگلے بڑے مفت ٹکڑے سے لنک کریں (صرف بڑے ٹکڑوں کے لیے)</translation>
+      <translation>পরবর্তী বৃহত্তর ফ্রি চাঙ্ক-এর সাথে সংযুক্ত করুন (শুধুমাত্র বড় চাঙ্ক-এর জন্য)</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="100"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Fd-nextsize&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Fd-اگلا سائز&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Fd-পরবর্তী আকার&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="107"/>
       <source>Bk-nextsize</source>
-      <translation>Bk-اگلا سائز</translation>
+      <translation>Bk-পরবর্তী আকার</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="114"/>
       <source>Link to next smaller free chunk (for large chunks)</source>
-      <translation>اگلے چھوٹے مفت ٹکڑے سے لنک کریں (بڑے ٹکڑوں کے لیے)</translation>
+      <translation>পরবর্তী ছোট ফ্রি চাঙ্ক-এর সাথে সংযুক্ত করুন (বড় চাঙ্ক-এর জন্য)</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="124"/>
       <source>Size of previous chunk (if free)</source>
-      <translation>پچھلے حصے کا سائز (اگر آزاد)</translation>
+      <translation>পূর্ববর্তী চাঙ্ক-এর আকার (ফ্রি হলে)</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="134"/>
       <source>PrevSize</source>
-      <translation>پچھلا سائز</translation>
+      <translation>পূর্ববর্তী আকার</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="145"/>
       <source>If the chunk was obtained from a non-main arena</source>
-      <translation>اگر حصہ غیر مرکزی ارینا سے حاصل کیا گیا تھا</translation>
+      <translation>চাঙ্ক কোনো অ-প্রধান এরিনা থেকে প্রাপ্ত হলে</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="148"/>
@@ -3820,7 +3820,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="161"/>
       <source>The chunk was obtained with mmap()</source>
-      <translation>حصہ mmap() کے ساتھ حاصل کیا گیا تھا</translation>
+      <translation>চাঙ্ক mmap()-এর মাধ্যমে পাওয়া গিয়েছিল</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="164"/>
@@ -3830,7 +3830,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="177"/>
       <source>Previous adjacent chunk is in use</source>
-      <translation>پچھلا ملحقہ حصہ استعمال میں ہے</translation>
+      <translation>পূর্ববর্তী সংলগ্ন চাঙ্ক ব্যবহার করা হচ্ছে</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="180"/>
@@ -3840,32 +3840,32 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="195"/>
       <source>Save</source>
-      <translation>محفوظ کریں</translation>
+      <translation>সংরক্ষণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="12"/>
       <source>Chunk @ </source>
-      <translation>حصہ @ </translation>
+      <translation>চাঙ্ক @ </translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="100"/>
       <source>Chunk saved</source>
-      <translation>حصہ محفوط کیا</translation>
+      <translation>চাঙ্ক সংরক্ষিত হয়েছে</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="101"/>
       <source>Chunk header successfully overwritten</source>
-      <translation>حصہ ہیڈر کامیابی کے ساتھ اوور رائٹ ہو گیا</translation>
+      <translation>চাঙ্ক হেডার সফলভাবে ওভাররাইট করা হয়েছে</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="103"/>
       <source>Chunk not saved</source>
-      <translation>حصہ محفوط نہیں کیا</translation>
+      <translation>চাঙ্ক সংরক্ষিত হয়নি</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="104"/>
       <source>Chunk header not successfully overwritten</source>
-      <translation>حصہ ہیڈر کامیابی کے ساتھ اوور رائٹ نہیں ہوا</translation>
+      <translation>চাঙ্ক হেডার সফলভাবে ওভাররাইট করা হয়নি</translation>
     </message>
   </context>
   <context>
@@ -3873,17 +3873,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="161"/>
       <source>Offset</source>
-      <translation>آفسیٹ</translation>
+      <translation>অফসেট</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="163"/>
       <source>Size</source>
-      <translation>سائز</translation>
+      <translation>আকার</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="165"/>
       <source>Status</source>
-      <translation>سٹیٹس</translation>
+      <translation>অবস্থা</translation>
     </message>
   </context>
   <context>
@@ -3891,32 +3891,32 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="14"/>
       <source>Form</source>
-      <translation>فارم</translation>
+      <translation>গঠন</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="34"/>
       <source>Arena</source>
-      <translation>ارینا</translation>
+      <translation>এরিনা</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="47"/>
       <source>View bins info for an arena</source>
-      <translation>ایک ارینا کے لیے bins معلومات دیکھیں</translation>
+      <translation>কোনো এরিনার জন্য বিন তথ্য সম্পর্কিত দেখুন</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.ui" line="50"/>
       <source>Bins</source>
-      <translation>Bins</translation>
+      <translation>বিন</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="27"/>
       <source>Detailed Chunk Info</source>
-      <translation>حصہ کی تفصیلی معلومات</translation>
+      <translation>চাঙ্ক-এর বিস্তারিত তথ্য</translation>
     </message>
     <message>
       <location filename="../widgets/GlibcHeapWidget.cpp" line="28"/>
       <source>Bins Info</source>
-      <translation>Bins کی معلومات</translation>
+      <translation>বিন সম্পর্কিত তথ্য</translation>
     </message>
   </context>
   <context>
@@ -3924,37 +3924,37 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="14"/>
       <source>Add Global Variable</source>
-      <translation>عالمی متغیر شامل کریں</translation>
+      <translation>গ্লোবাল ভেরিয়েবল যোগ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="20"/>
       <source>Add global variable at</source>
-      <translation>پر عالمی متغیر شامل کریں</translation>
+      <translation>-এ গ্লোবাল ভেরিয়েবল যোগ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="38"/>
       <source>Name:</source>
-      <translation>نام:</translation>
+      <translation>নাম:</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="61"/>
       <source>int</source>
-      <translation>عدد صحیح</translation>
+      <translation>পূর্ণসংখ্যা</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.ui" line="80"/>
       <source>Type:</source>
-      <translation>قسم:</translation>
+      <translation>ধরন:</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.cpp" line="28"/>
       <source>Edit global variable at %1</source>
-      <translation>عالمی متغیر %1 میں ترمیم کریں</translation>
+      <translation>%1-এ গ্লোবাল ভেরিয়েবল সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/GlobalVariableDialog.cpp" line="30"/>
       <source>Add global variable at %1</source>
-      <translation>%1 پر عالمی متغیر شامل کریں</translation>
+      <translation>%1-এ গ্লোবাল ভেরিয়েবল যোগ করুন</translation>
     </message>
   </context>
   <context>
@@ -3962,22 +3962,22 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="60"/>
       <source>Address</source>
-      <translation>ایڈریس</translation>
+      <translation>ঠিকানা</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="62"/>
       <source>Type</source>
-      <translation>قسم</translation>
+      <translation>ধরন</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="64"/>
       <source>Name</source>
-      <translation>نام</translation>
+      <translation>নাম</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="66"/>
       <source>Comment</source>
-      <translation>تبصرہ</translation>
+      <translation>মন্তব্য</translation>
     </message>
   </context>
   <context>
@@ -3987,24 +3987,24 @@ Please check the console for more details.</source>
       <location filename="../widgets/GlobalsWidget.ui" line="79"/>
       <location filename="../widgets/GlobalsWidget.cpp" line="206"/>
       <source>Edit Global Variable</source>
-      <translation>عالمی متغیر میں ترمیم کریں</translation>
+      <translation>গ্লোবাল ভেরিয়েবল সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.ui" line="84"/>
       <location filename="../widgets/GlobalsWidget.ui" line="87"/>
       <location filename="../widgets/GlobalsWidget.cpp" line="207"/>
       <source>Delete Global Variable</source>
-      <translation>عالمی متغیر کو حذف کریں</translation>
+      <translation>গ্লোবাল ভেরিয়েবল মুছে ফেলুন</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="167"/>
       <source>Category</source>
-      <translation>زمرہ</translation>
+      <translation>ক্যাটাগরি</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.cpp" line="169"/>
       <source>Globals</source>
-      <translation>گلوبلز</translation>
+      <translation>গ্লোবাল ভেরিয়েবল</translation>
     </message>
   </context>
   <context>
@@ -4012,88 +4012,88 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="14"/>
       <source>Graph</source>
-      <translation>گراف</translation>
+      <translation>গ্রাফ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="22"/>
       <source>Graph Block Options </source>
-      <translation>گراف بلاک کے اختیارات </translation>
+      <translation>গ্রাফ ব্লক বিকল্প </translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="31"/>
       <source>The offset of the first instruction of a graph block is shown in the header of the respective graph block</source>
-      <translation>گراف بلاک کی پہلی ہدایات کا آفسیٹ، متعلقہ گراف بلاک کے ہیڈر میں دکھایا گیا ہے</translation>
+      <translation>একটি গ্রাফ ব্লকের প্রথম নির্দেশনার অফসেট সংশ্লিষ্ট গ্রাফ ব্লকের হেডারে দেখানো হয়েছে</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="34"/>
       <source>Show offset of the first instruction in each graph block</source>
-      <translation>ہر گراف بلاک میں پہلی ہدایت کا آفسیٹ دکھائیں</translation>
+      <translation>প্রতিটি গ্রাফ ব্লকে প্রথম নির্দেশনার অফসেট দেখান</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="41"/>
       <source>Show offset for each instruction (graph.offset)</source>
-      <translation>ہر ہدایت کے لیے آفسیٹ دکھائیں (graph.offset)</translation>
+      <translation>প্রতিটি নির্দেশনার জন্য অফসেট দেখান (graph.offset)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="48"/>
       <source>Show preview when hovering (graph.preview)</source>
-      <translation>منڈلاتے وقت پیش نظارہ دکھائیں (graph.preview)</translation>
+      <translation>হোভার করার সময় প্রিভিউ দেখান (graph.preview)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="57"/>
       <source>Maximum Line Length:</source>
-      <translation>لائن کی زیادہ سے زیادہ لمبائی:</translation>
+      <translation>সর্বোচ্চ লাইন দৈর্ঘ্য:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="77"/>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="87"/>
       <source>Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</source>
-      <translation>زوم آؤٹ کرتے وقت متن کو چھپائیں اور یہ دی گئی قدر سے چھوٹا ہو۔ اعلی قدریں کارکردگی میں اضافہ کر سکتی ہیں۔</translation>
+      <translation>জুম আউটের সময় টেক্সট লুকান এবং তা প্রদত্ত মান থেকে ছোট। উচ্চ মান কর্মক্ষমতা বৃদ্ধি করতে পারে।</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="80"/>
       <source>Minimum Font Size</source>
-      <translation>کم از کم فونٹ سائز</translation>
+      <translation>ফন্টের সর্বনিম্ন আকার</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="105"/>
       <source>Graph Layout Options</source>
-      <translation>گراف لے آؤٹ کے اختیارات</translation>
+      <translation>গ্রাফ লে-আউট বিকল্প</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="124"/>
       <source>Vertical</source>
-      <translation>عمودی</translation>
+      <translation>উলম্ব</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="147"/>
       <source>Horizontal</source>
-      <translation>اُفقی</translation>
+      <translation>অনুভূমিক</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="183"/>
       <source>Block spacing:</source>
-      <translation>بلاک کا فاصلہ:</translation>
+      <translation>ব্লক স্পেসিং:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="190"/>
       <source>Edge spacing</source>
-      <translation>کنارے کا فاصلہ</translation>
+      <translation>এজ স্পেসিগ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="200"/>
       <source>Bitmap Export Options</source>
-      <translation>بٹ میپ برآمد کے اختیارات</translation>
+      <translation>বিটম্যাপ প্রেরণের বিকল্প</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="209"/>
       <source>Export Transparent Bitmap Graphs</source>
-      <translation>شفاف بٹ میپ گرافس برآمد کریں</translation>
+      <translation>স্বচ্ছ বিটম্যাপ গ্রাফ প্রেরণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="218"/>
       <source>Graph Bitmap Export Scale: </source>
-      <translation>گراف بٹ میپ برآمد اسکیل: </translation>
+      <translation>গ্রাফ বিটম্যাপ প্রেরণের স্কেল:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/GraphOptionsWidget.ui" line="225"/>
@@ -4106,7 +4106,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/GraphView.cpp" line="441"/>
       <source>Cutter graph export</source>
-      <translation>Cutter گراف برآمد</translation>
+      <translation>Cutter গ্রাফ প্রেরণ</translation>
     </message>
   </context>
   <context>
@@ -4114,22 +4114,22 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="55"/>
       <source>Offset</source>
-      <translation>آفسیٹ</translation>
+      <translation>অফসেট</translation>
     </message>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="57"/>
       <source>Name</source>
-      <translation>نام</translation>
+      <translation>নাম</translation>
     </message>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="59"/>
       <source>Value</source>
-      <translation>قدر</translation>
+      <translation>মান</translation>
     </message>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="61"/>
       <source>Comment</source>
-      <translation>تبصرہ</translation>
+      <translation>মন্তব্য</translation>
     </message>
   </context>
   <context>
@@ -4137,7 +4137,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HeadersWidget.cpp" line="120"/>
       <source>Headers</source>
-      <translation>ہیڈرز</translation>
+      <translation>হেডার</translation>
     </message>
   </context>
   <context>
@@ -4145,13 +4145,13 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="8"/>
       <source>Detailed Chunk Info</source>
-      <translation>حصہ کی تفصیلی معلومات</translation>
+      <translation>চাঙ্ক-এর বিস্তারিত তথ্য</translation>
     </message>
     <message>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="79"/>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="121"/>
       <source>bin </source>
-      <translation>bin </translation>
+      <translation>বিন </translation>
     </message>
     <message>
       <location filename="../widgets/HeapBinsGraphView.cpp" line="121"/>
@@ -4164,7 +4164,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HeapDockWidget.ui" line="14"/>
       <source>Heap</source>
-      <translation>انبار</translation>
+      <translation>হিপ</translation>
     </message>
   </context>
   <context>
@@ -4172,157 +4172,157 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="70"/>
       <source>Hexadecimal</source>
-      <translation>ہیگزا ڈیسیمل</translation>
+      <translation>হেক্সাডেসিম্যাল</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="71"/>
       <source>Octal</source>
-      <translation>آکٹل</translation>
+      <translation>অক্টাল</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="72"/>
       <source>Decimal</source>
-      <translation>عشری</translation>
+      <translation>ডেসিম্যাল</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="73"/>
       <source>Signed decimal</source>
-      <translation>دستخط شدہ اعشاریہ</translation>
+      <translation>সাইনড ডেসিম্যাল</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="74"/>
       <source>Float</source>
-      <translation>تیرنا</translation>
+      <translation>ফ্লোট</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="88"/>
       <source>Bytes per row</source>
-      <translation>بائٹس فی قطار</translation>
+      <translation>সারি প্রতি বাইট</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="98"/>
       <source>Power of 2</source>
-      <translation>2 کی طاقت</translation>
+      <translation>2-এর পাওয়ার</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="105"/>
       <source>Big Endian</source>
-      <translation>بڑا اینڈین</translation>
+      <translation>বড় এন্ডিয়ান</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="110"/>
       <source>Bytes as pairs</source>
-      <translation>بائٹس بطور جوڑے</translation>
+      <translation>জোড়া হিসাবে বাইট</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="114"/>
       <source>Copy</source>
-      <translation>کاپی کریں</translation>
+      <translation>কপি করুন</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="120"/>
       <source>Copy address</source>
-      <translation>ایڈریس کاپی کریں</translation>
+      <translation>ঠিকানা কপি করুন</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="127"/>
       <location filename="../widgets/HexWidget.cpp" line="1157"/>
       <source>Add Comment</source>
-      <translation>تبصرہ شامل کریں</translation>
+      <translation>মন্তব্য যোগ করুন</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="134"/>
       <source>Delete Comment</source>
-      <translation>تبصرہ حذف کریں</translation>
+      <translation>মন্তব্য মুছে ফেলুন</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="140"/>
       <source>Select range</source>
-      <translation>رینج منتخب کریں</translation>
+      <translation>পরিসর নির্বাচন করুন</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="147"/>
       <location filename="../widgets/HexWidget.cpp" line="1272"/>
       <source>Write string</source>
-      <translation>سٹرنگ لکھیں</translation>
+      <translation>স্ট্রিং লিখুন</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="151"/>
       <source>Write length and string</source>
-      <translation>لمبائی اور سٹرنگ لکھیں</translation>
+      <translation>দৈর্ঘ্য এবং স্ট্রিং লিখুন</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="155"/>
       <location filename="../widgets/HexWidget.cpp" line="1466"/>
       <source>Write wide string</source>
-      <translation>وسیع سٹرنگ لکھیں</translation>
+      <translation>প্রশস্ত স্ট্রিং লিখুন</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="159"/>
       <source>Write zero terminated string</source>
-      <translation>صفر ختم شدہ سٹرنگ لکھیں</translation>
+      <translation>শূন্য সমাপ্তির স্ট্রিং লিখুন</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="163"/>
       <source>Write a decoded or encoded Base64 string</source>
-      <translation>ایک ڈی کوڈ یا انکوڈ شدہ Base64 سٹرنگ لکھیں</translation>
+      <translation>একটি ডিকোড বা এনকোডকৃত Base64 স্ট্রিং লিখুন</translation>
     </message>
     <message>
       <source>Write De\Encoded Base64 string</source>
-      <translation>ڈی کوڈ\انکوڈ شدہ Base64 سٹرنگ لکھیں</translation>
+      <translation>ডি\এনকোডকৃত Base64 স্ট্রিং লিখুন</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="168"/>
       <location filename="../widgets/HexWidget.cpp" line="1318"/>
       <source>Write hex bytes</source>
-      <translation>ہیکس بائٹس لکھیں</translation>
+      <translation>হেক্স বাইট লিখুন</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="172"/>
       <location filename="../widgets/HexWidget.cpp" line="1354"/>
       <source>Write zeros</source>
-      <translation>صفر لکھیں</translation>
+      <translation>শূন্য লিখুন</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="176"/>
       <location filename="../widgets/HexWidget.cpp" line="1410"/>
       <source>Write random bytes</source>
-      <translation>بے ترتیبانہ بائٹس لکھیں</translation>
+      <translation>এলোমেলো বাইট লিখুন</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="180"/>
       <source>Duplicate from offset</source>
-      <translation>آفسیٹ سے ڈپلیکیٹ</translation>
+      <translation>অফসেট থেকে প্রতিলিপি করুন</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="184"/>
       <source>Increment/Decrement</source>
-      <translation>اضافہ/کمی</translation>
+      <translation>বৃদ্ধি/হ্রাস</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="188"/>
       <source>Edit with keyboard</source>
-      <translation>کی بورڈ کے ساتھ ترمیم کریں</translation>
+      <translation>কিবোর্ড দিয়ে সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1160"/>
       <source>Edit Comment</source>
-      <translation>تبصرہ میں ترمیم کریں</translation>
+      <translation>মন্তব্য সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1168"/>
       <source>Item size:</source>
-      <translation>آئٹم کا سائز:</translation>
+      <translation>আইটেমের আকার:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1170"/>
       <source>Item format:</source>
-      <translation>آئٹم کی شکل:</translation>
+      <translation>আইটেমের ফরম্যাট:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1175"/>
       <source>Edit</source>
-      <translation>ترمیم کریں</translation>
+      <translation>সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1272"/>
@@ -4330,48 +4330,48 @@ Please check the console for more details.</source>
       <location filename="../widgets/HexWidget.cpp" line="1466"/>
       <location filename="../widgets/HexWidget.cpp" line="1484"/>
       <source>String:</source>
-      <translation>سٹرنگ:</translation>
+      <translation>স্ট্রিং:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1318"/>
       <source>Hex byte string:</source>
-      <translation>ہیکس بائٹ سٹرنگ:</translation>
+      <translation>হেক্স বাইট স্ট্রিং:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1354"/>
       <source>Number of zeros:</source>
-      <translation>صفر کی تعداد:</translation>
+      <translation>শূন্যের সংখ্যা:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1381"/>
       <source>Error</source>
-      <translation>خرابی</translation>
+      <translation>ত্রুটি</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1382"/>
       <source>Error occured during decoding your input.
 Please, make sure, that it is a valid base64 string and try again.</source>
-      <translation>آپ کی ان پٹ کو ڈی کوڈ کرنے کے دوران خرابی پیش آئی۔
-براہ کرم، یقینی بنائیں کہ یہ ایک درست base64 سٹرنگ ہے اور دوبارہ کوشش کریں۔</translation>
+      <translation>আপনার ইনপুট ডিকোড করার সময় ত্রুটি দেখা দিয়েছে৷
+অনুগ্রহ করে নিশ্চিত করুন যে এটি একটি বৈধ base64 স্ট্রিং এবং আবার চেষ্টা করুন।</translation>
     </message>
     <message>
       <source>Write random</source>
-      <translation>بے ترتیبانہ لکھیں</translation>
+      <translation>এলোমেলোভাবে লিখুন</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1410"/>
       <source>Number of bytes:</source>
-      <translation>بائٹس کی تعداد:</translation>
+      <translation>বাইট সংখ্যা:</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1448"/>
       <source>Write Pascal string</source>
-      <translation>پاسکل سٹرنگ لکھیں</translation>
+      <translation>প্যাসকেল স্ট্রিং লিখুন</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1484"/>
       <source>Write zero-terminated string</source>
-      <translation>صفر ختم شدہ سٹرنگ لکھیں</translation>
+      <translation>শূন্য সমাপ্তির স্ট্রিং লিখুন</translation>
     </message>
   </context>
   <context>
@@ -4379,33 +4379,33 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="14"/>
       <source>Select Block</source>
-      <translation>بلاک منتخب کریں</translation>
+      <translation>ব্লক নির্বাচন করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="47"/>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="79"/>
       <source>Exclusive end address</source>
-      <translation>خصوصی اختتامی ایڈریس</translation>
+      <translation>অনন্য সমাপ্তির ঠিকানা</translation>
     </message>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="50"/>
       <source>End Address:</source>
-      <translation>اختتام کا ایڈریس:</translation>
+      <translation>সমাপ্তির ঠিকানা:</translation>
     </message>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="65"/>
       <source>Start Address:</source>
-      <translation>شروع کا ایڈریس:</translation>
+      <translation>শুরুর ঠিকানা:</translation>
     </message>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="99"/>
       <source>Length:</source>
-      <translation>لمبائی:</translation>
+      <translation>দৈর্ঘ্য:</translation>
     </message>
     <message>
       <location filename="../dialogs/HexdumpRangeDialog.ui" line="115"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff8585;&quot;&gt;Big selection might cause a delay&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff8585;&quot;&gt;بڑا انتخاب تاخیر کا سبب بن سکتا ہے&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff8585;&quot;&gt;বড় নির্বাচন বিলম্বের কারণ হতে পারে&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
   </context>
   <context>
@@ -4413,32 +4413,32 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="70"/>
       <source>Parsing</source>
-      <translation>تجزیہ کر رہا ہے</translation>
+      <translation>পার্সিং</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="120"/>
       <source>Endian</source>
-      <translation>اینڈین</translation>
+      <translation>এন্ডিয়ান</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="131"/>
       <source>Little</source>
-      <translation>چھوٹا</translation>
+      <translation>সামান্য</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="136"/>
       <source>Big</source>
-      <translation>بڑا</translation>
+      <translation>বড়</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="191"/>
       <source>Arch</source>
-      <translation>آرک</translation>
+      <translation>Arch</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="220"/>
       <source>Bits</source>
-      <translation>بٹس</translation>
+      <translation>Bits</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="231"/>
@@ -4468,17 +4468,17 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="357"/>
       <source>Copy SHA256</source>
-      <translation>SHA256 کاپی کریں</translation>
+      <translation>SHA256 কপি করুন</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="396"/>
       <source>Copy CRC32</source>
-      <translation>CRC32 کاپی کریں</translation>
+      <translation>CRC32 কপি করুন</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="434"/>
       <source>Entropy:</source>
-      <translation>اینٹروپی:</translation>
+      <translation>এনট্রপি:</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="466"/>
@@ -4493,51 +4493,51 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="50"/>
       <source>Select bytes to display information</source>
-      <translation>معلومات کو ظاہر کرنے کے لیے بائٹس منتخب کریں</translation>
+      <translation>তথ্য প্রদর্শন করতে বাইট নির্বাচন করুন</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="143"/>
       <source>Disassembly</source>
-      <translation>بے ترکیبی</translation>
+      <translation>বিচ্ছিন্নকরণ</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="144"/>
       <source>String</source>
-      <translation>سٹرنگ</translation>
+      <translation>স্ট্রিং</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="145"/>
       <source>Assembler</source>
-      <translation>اسمبلر</translation>
+      <translation>অ্যাসেম্বলার</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="146"/>
       <source>C bytes</source>
-      <translation>C بائٹس</translation>
+      <translation>C বাইট</translation>
     </message>
     <message>
       <source>C bytes with instructions</source>
-      <translation>ہدایات کے ساتھ C بائٹس</translation>
+      <translation>নির্দেশনাসহ C বাইট</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="147"/>
       <source>C half-words (2 byte)</source>
-      <translation>C آدھے الفاظ (2 بائٹ)</translation>
+      <translation>C অর্ধ-শব্দ (2 বাইট)</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="148"/>
       <source>C words (4 byte)</source>
-      <translation>C الفاظ (4 بائٹ)</translation>
+      <translation>C শব্দ (4 বাইট)</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="149"/>
       <source>C dwords (8 byte)</source>
-      <translation>C dwords (8 بائٹ)</translation>
+      <translation>C শব্দ (8 বাইট)</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="150"/>
       <source>Python</source>
-      <translation>Python</translation>
+      <translation>পাইথন</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="151"/>
@@ -4547,17 +4547,17 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="152"/>
       <source>JavaScript</source>
-      <translation>جاوا اسکرپٹ</translation>
+      <translation>জাভাস্ক্রিপ্ট</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="153"/>
       <source>Yara</source>
-      <translation>یارا</translation>
+      <translation>Yara</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="218"/>
       <source>Hexdump</source>
-      <translation>ہیکس ڈمپ</translation>
+      <translation>হেক্সডাম্প</translation>
     </message>
   </context>
   <context>
@@ -4565,37 +4565,37 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="45"/>
       <source>Unsafe</source>
-      <translation>غیرمحفوظ</translation>
+      <translation>অনিরাপদ</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="71"/>
       <source>Address</source>
-      <translation>ایڈریس</translation>
+      <translation>ঠিকানা</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="73"/>
       <source>Type</source>
-      <translation>قسم</translation>
+      <translation>ধরন</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="75"/>
       <source>Safety</source>
-      <translation>حفاظت</translation>
+      <translation>সুরক্ষা</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="77"/>
       <source>Library</source>
-      <translation>لائبریری</translation>
+      <translation>লাইব্রেরি</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="79"/>
       <source>Name</source>
-      <translation>نام</translation>
+      <translation>নাম</translation>
     </message>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="81"/>
       <source>Comment</source>
-      <translation>تبصرہ</translation>
+      <translation>মন্তব্য</translation>
     </message>
   </context>
   <context>
@@ -4603,7 +4603,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../widgets/ImportsWidget.cpp" line="172"/>
       <source>Imports</source>
-      <translation>درآمد</translation>
+      <translation>আনীত</translation>
     </message>
   </context>
   <context>
@@ -4611,37 +4611,37 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="14"/>
       <source>Increment/Decrement</source>
-      <translation>اضافہ/کمی</translation>
+      <translation>বৃদ্ধি/হ্রাস</translation>
     </message>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="24"/>
       <source>Interpret as</source>
-      <translation>تشریح کریں بطور</translation>
+      <translation>..হিসাবে ব্যাখ্যা করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="38"/>
       <source>Value:</source>
-      <translation>قدر:</translation>
+      <translation>মান:</translation>
     </message>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="54"/>
       <source>Increment</source>
-      <translation>اضافہ</translation>
+      <translation>বৃদ্ধি</translation>
     </message>
     <message>
       <location filename="../dialogs/IncrementDecrementDialog.ui" line="64"/>
       <source>Decrement</source>
-      <translation>کمی</translation>
+      <translation>হ্রাস</translation>
     </message>
     <message>
       <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
       <source>Byte</source>
-      <translation>بائٹ</translation>
+      <translation>বাইট</translation>
     </message>
     <message>
       <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
       <source>Word</source>
-      <translation>لفظ</translation>
+      <translation>শব্দ</translation>
     </message>
     <message>
       <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
@@ -4659,28 +4659,28 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="26"/>
       <source>Load Options</source>
-      <translation>اختیارات لوڈ کریں</translation>
+      <translation>বিকল্প লোড করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="84"/>
       <source>Program:</source>
-      <translation>پروگرام:</translation>
+      <translation>প্রোগ্রাম:</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="167"/>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="413"/>
       <source>Analysis: Enabled</source>
-      <translation>تجزیہ: فعال کردہ</translation>
+      <translation>বিশ্লেষণ: সক্রিয় করা হয়েছে</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="183"/>
       <source>Level: </source>
-      <translation>لیول: </translation>
+      <translation>লেভেল: </translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="224"/>
       <source>None</source>
-      <translation>کوئی نہیں</translation>
+      <translation>কোনটিই নয়</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="259"/>
@@ -4691,42 +4691,42 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="833"/>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="38"/>
       <source>Auto</source>
-      <translation>خودکار</translation>
+      <translation>স্বয়ংক্রিয়</translation>
     </message>
     <message>
       <source>Auto Exp</source>
-      <translation>خودکار تجرباتی</translation>
+      <translation>স্বয়ংক্রিয় পরীক্ষামূলক বিশ্লেষণ</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="326"/>
       <source>Experimental</source>
-      <translation>تجرباتی</translation>
+      <translation>পরীক্ষামূলক</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="364"/>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="399"/>
       <source>Advanced</source>
-      <translation>ایڈوانسڈ</translation>
+      <translation>অগ্রসর</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="518"/>
       <source>Load in write mode (-w)</source>
-      <translation>لکھنے کے موڈ میں لوڈ کریں (-w)</translation>
+      <translation>লিখন মোডে লোড করুন (-w)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="528"/>
       <source>Do not load bin information (-n)</source>
-      <translation>bin کی معلومات لوڈ نہ کریں (-n)</translation>
+      <translation>বিন সম্পর্কিত তথ্য লোড করবেন না (-n)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="541"/>
       <source>Use virtual addressing</source>
-      <translation>ورچوئل ایڈریسنگ استعمال کریں</translation>
+      <translation>ভার্চুয়াল অ্যাড্রেসিং ব্যবহার করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="551"/>
       <source>Import demangled symbols</source>
-      <translation>منحرف علامات درآمد کریں</translation>
+      <translation>Demangled প্রতীক নিয়ে আসুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="568"/>
@@ -4736,17 +4736,17 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="599"/>
       <source>Advanced options</source>
-      <translation>ایڈوانسڈ اختیارات</translation>
+      <translation>অগ্রসর বিকল্প</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="629"/>
       <source>CPU options</source>
-      <translation>CPU اختیارات</translation>
+      <translation>CPU বিকল্প</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="644"/>
       <source>Architecture:</source>
-      <translation>تعمیرات:</translation>
+      <translation>আর্কিটেকচার:</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="669"/>
@@ -4776,32 +4776,32 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="749"/>
       <source>Endianness: </source>
-      <translation>اینڈین نیس: </translation>
+      <translation>এন্ডিয়াননেস: </translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="768"/>
       <source>Little</source>
-      <translation>چھوٹا</translation>
+      <translation>সামান্য</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="773"/>
       <source>Big</source>
-      <translation>بڑا</translation>
+      <translation>বড়</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="794"/>
       <source>Kernel: </source>
-      <translation>کرنل: </translation>
+      <translation>কার্নেল: </translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="822"/>
       <source>Format:</source>
-      <translation>فارمیٹ:</translation>
+      <translation>ফরম্যাট:</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="876"/>
       <source>Load bin offset (-B)</source>
-      <translation>bin آفسیٹ لوڈ کریں (-B)</translation>
+      <translation>বিন অফসেট লোড করুন (-B)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="895"/>
@@ -4811,7 +4811,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="914"/>
       <source>Map offset (-m)</source>
-      <translation>نقشہ آفسیٹ (-m)</translation>
+      <translation>অফসেট ম্যাপ করুন (-m)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="930"/>
@@ -4821,169 +4821,169 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="937"/>
       <source>Load PDB</source>
-      <translation>PDB لوڈ کریں</translation>
+      <translation>PDB লোড করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="962"/>
       <source>PDB File path</source>
-      <translation>PDB فائل کا راستہ</translation>
+      <translation>PDB ফাইল পাথ</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="969"/>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="1011"/>
       <source>Select</source>
-      <translation>منتخب کریں</translation>
+      <translation>নির্বাচন করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="979"/>
       <source>Load script file</source>
-      <translation>سکرپٹ فائل لوڈ کریں</translation>
+      <translation>স্ক্রিপ্ট ফাইল লোড করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="1004"/>
       <source>Path to Rizin script file</source>
-      <translation>Rizin اسکرپٹ فائل کا راستہ</translation>
+      <translation>Rizin স্ক্রিপ্ট ফাইলের পাথ</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="1067"/>
       <source>Cancel</source>
-      <translation>منسوخ کریں</translation>
+      <translation>বাতিল করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="1080"/>
       <source>  Ok  </source>
-      <translation>  ٹھیک ہے  </translation>
+      <translation>  Ok  </translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="56"/>
       <source>Analyze all symbols</source>
-      <translation>تمام علامات کا تجزیہ کریں</translation>
+      <translation>সমস্ত প্রতীক বিশ্লেষণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="57"/>
       <source>Analyze instructions for references</source>
-      <translation>حوالہ جات کے لیے ہدایات کا تجزیہ کریں</translation>
+      <translation>রেফারেন্সের জন্য নির্দেশনা বিশ্লেষণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="58"/>
       <source>Analyze function calls</source>
-      <translation>فنکشن کالز کا تجزیہ کریں</translation>
+      <translation>ফাংশন কল বিশ্লেষণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="59"/>
       <source>Analyze all basic blocks</source>
-      <translation>تمام بنیادی بلاکس کا تجزیہ کریں</translation>
+      <translation>সমস্ত মৌলিক ব্লক বিশ্লেষণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="60"/>
       <source>Analyze all objc references</source>
-      <translation>تمام آبجیکٹ حوالوں کا تجزیہ کریں</translation>
+      <translation>সমস্ত objc রেফারেন্স বিশ্লেষণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="61"/>
       <source>Recover class information from RTTI</source>
-      <translation>RTTI سے کلاس کی معلومات بازیافت کریں</translation>
+      <translation>RTTI থেকে ক্লাসের তথ্য পুনরুদ্ধার করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="62"/>
       <source>Autoname functions based on context</source>
-      <translation>سیاق و سباق کی بنیاد پر فنکشز کو خودکار نام دیں</translation>
+      <translation>প্রসঙ্গ ভিত্তিক স্বয়ংক্রিয় নাম ফাংশন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="63"/>
       <source>Emulate code to find computed references</source>
-      <translation>حسابی حوالہ جات تلاش کرنے کے لیے کوڈ کی نقالی کریں</translation>
+      <translation>গণনাকৃত রেফারেন্স খুঁজতে কোড এমিউলেট করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="64"/>
       <source>Analyze all consecutive functions</source>
-      <translation>تمام متواتر افعال کا تجزیہ کریں</translation>
+      <translation>ধারাবাহিক সমস্ত ফাংশন বিশ্লেষণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="65"/>
       <source>Type and Argument matching analysis</source>
-      <translation>قسم اور دلیل کی مماثلت کا تجزیہ</translation>
+      <translation>ধরন ও যুক্তি সমন্বয়ে বিশ্লেষণ</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="66"/>
       <source>Analyze code after trap-sleds</source>
-      <translation>ٹریپ-سلیڈز کے بعد کوڈ کا تجزیہ کریں</translation>
+      <translation>ট্রাপ-স্লেড এর পরে কোড বিশ্লেষণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="67"/>
       <source>Analyze function preludes</source>
-      <translation>فنکشن تمہید کا تجزیہ کریں</translation>
+      <translation>ফাংশন প্রিলিউড বিশ্লেষণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="68"/>
       <source>Analyze jump tables in switch statements</source>
-      <translation>سوئچ بیانات میں جمپ ٹیبلز کا تجزیہ کریں</translation>
+      <translation>স্যুইচ স্টেটমেন্টে জাম্প টেবিল বিশ্লেষণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="71"/>
       <source>Analyze PUSH+RET as JMP</source>
-      <translation>JMP کے طور پر PUSH+RET کا تجزیہ کریں</translation>
+      <translation>JMP হিসাবে PUSH+RET বিশ্লেষণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="72"/>
       <source>Continue analysis after each function</source>
-      <translation>ہر فنکشن کے بعد تجزیہ جاری رکھیں</translation>
+      <translation>প্রতিটি ফাংশনের পরে বিশ্লেষণ চালিয়ে যান</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="393"/>
       <source>No analysis</source>
-      <translation>کوئی تجزیہ نہیں</translation>
+      <translation>কোনো বিশ্লেষণ নেই</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="395"/>
       <source>Auto-Analysis (aaa)</source>
-      <translation>خود کار تجزیہ (aaa)</translation>
+      <translation>স্বয়ংক্রিয়-বিশ্লেষণ (aaa)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="397"/>
       <source>Auto-Analysis Experimental (aaaa)</source>
-      <translation>خودکار تجزیہ تجرباتی (aaaa)</translation>
+      <translation>স্বয়ংক্রিয়-বিশ্লেষণ পরীক্ষামূলক (aaaa)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="401"/>
       <source>Unknown</source>
-      <translation>نامعلوم</translation>
+      <translation>অজানা</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="407"/>
       <source>Level</source>
-      <translation>لیول</translation>
+      <translation>লেভেল</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="410"/>
       <source>Analysis: Disabled</source>
-      <translation>تجزیہ: غیر فعال کردہ</translation>
+      <translation>বিশ্লেষণ: নিষ্ক্রিয় করা হয়েছে</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="456"/>
       <source>Select PDB file</source>
-      <translation>PDB فائل منتخب کریں</translation>
+      <translation>PDB ফাইল নির্বাচন করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="457"/>
       <source>PDB file (*.pdb)</source>
-      <translation>PDB فائل (*.pdb)</translation>
+      <translation>PDB ফাইল (*.pdb)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="457"/>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="479"/>
       <source>All files (*)</source>
-      <translation>تمام فائلیں (*)</translation>
+      <translation>সমস্ত ফাইল (*)</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="478"/>
       <source>Select Rizin script file</source>
-      <translation>Rizin اسکرپٹ فائل منتخب کریں</translation>
+      <translation>Rizin স্ক্রিপ্ট ফাইল নির্বাচন করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="479"/>
       <source>Script file (*.rz)</source>
-      <translation>اسکرپٹ فائل (*.rz)</translation>
+      <translation>স্ক্রিপ্ট ফাইল (*.rz)</translation>
     </message>
   </context>
   <context>
@@ -4991,17 +4991,17 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/preferences/InitializationFileEditor.ui" line="14"/>
       <source>CutterRC Editor</source>
-      <translation>CutterRC ایڈیٹر</translation>
+      <translation>CutterRC এডিটর</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/InitializationFileEditor.ui" line="20"/>
       <source>TextLabel</source>
-      <translation>ٹیکسٹ لیبل</translation>
+      <translation>TextLabel</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/InitializationFileEditor.cpp" line="35"/>
       <source>Script is loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
-      <translation>اسکرپٹ &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt; سے لوڈ کیا جاتا ہے</translation>
+      <translation>স্ক্রিপ্ট &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt; থেকে লোড করা হয়েছে</translation>
     </message>
   </context>
   <context>
@@ -5009,7 +5009,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../common/Decompiler.cpp" line="109"/>
       <source>Failed to parse JSON from jsdec</source>
-      <translation>jsdec سے JSON کی تصریف کرنے میں ناکام ہوا</translation>
+      <translation>jsdec থেকে JSON পার্স করা যায়নি৷</translation>
     </message>
   </context>
   <context>
@@ -5017,43 +5017,43 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/LayoutManager.ui" line="14"/>
       <source>Layout</source>
-      <translation>لے آؤٹ</translation>
+      <translation>লে-আউট</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.ui" line="25"/>
       <source>Rename</source>
-      <translation>نام بدلیں</translation>
+      <translation>পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.ui" line="32"/>
       <location filename="../dialogs/LayoutManager.cpp" line="60"/>
       <source>Delete</source>
-      <translation>حذف کریں</translation>
+      <translation>মুছে ফেলুন</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="42"/>
       <source>Rename layout error</source>
-      <translation>لے آؤٹ کی خرابی کا نام بدلیں</translation>
+      <translation>লে-আউট ত্রুটির পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="43"/>
       <source>&apos;%1&apos; is already used.</source>
-      <translation>&apos;%1&apos; پہلے ہی استعمال کیا ہوا ہے۔</translation>
+      <translation>&apos;%1&apos; ইতোমধ্যেই ব্যবহৃত হয়েছে।</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="45"/>
       <source>Save layout</source>
-      <translation>لے آؤٹ محفوظ کریں</translation>
+      <translation>লে-আউট সংরক্ষণ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="45"/>
       <source>Enter name</source>
-      <translation>نام درج کریں</translation>
+      <translation>নাম লিখুন</translation>
     </message>
     <message>
       <location filename="../dialogs/LayoutManager.cpp" line="61"/>
       <source>Do you want to delete &apos;%1&apos;</source>
-      <translation>کیا آپ &apos;%1&apos; کو حذف کرنا چاہتے ہیں</translation>
+      <translation>আপনি কি &apos;%1&apos; মুছে ফেলতে চান?</translation>
     </message>
   </context>
   <context>
@@ -5061,111 +5061,111 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="33"/>
       <source>Add extra...</source>
-      <translation>اضافی شامل کریں...</translation>
+      <translation>অতিরিক্ত... যোগ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="61"/>
       <source>File</source>
-      <translation>فائل</translation>
+      <translation>ফাইল</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="68"/>
       <source>Set mode</source>
-      <translation>موڈ سیٹ کریں</translation>
+      <translation>মোড সেট করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="97"/>
       <location filename="../core/MainWindow.cpp" line="293"/>
       <source>View</source>
-      <translation>دیکھیں</translation>
+      <translation>দৃশ্য</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="104"/>
       <source>Zoom</source>
-      <translation>زوم</translation>
+      <translation>জুম</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="113"/>
       <source>Layouts</source>
-      <translation>لے آؤٹس</translation>
+      <translation>লে-আউট</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="133"/>
       <source>Tools</source>
-      <translation>آلات</translation>
+      <translation>টুল</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="139"/>
       <source>Help</source>
-      <translation>مدد</translation>
+      <translation>সহায়তা</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="147"/>
       <location filename="../core/MainWindow.ui" line="513"/>
       <source>Edit</source>
-      <translation>ترمیم کریں</translation>
+      <translation>সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="156"/>
       <source>Windows</source>
-      <translation>Windows</translation>
+      <translation>উইন্ডো</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="160"/>
       <location filename="../core/MainWindow.cpp" line="147"/>
       <location filename="../core/MainWindow.cpp" line="148"/>
       <source>Plugins</source>
-      <translation>پلگ انز</translation>
+      <translation>প্লাগইন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="165"/>
       <source>Info...</source>
-      <translation>معلومات...</translation>
+      <translation>তথ্য...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="170"/>
       <source>Debug...</source>
-      <translation>ڈی بگ کریں...</translation>
+      <translation>ডিবাগ...</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="185"/>
       <source>Debug</source>
-      <translation>ڈی بگ کریں</translation>
+      <translation>ডিবাগ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="232"/>
       <source>Reset to default layout</source>
-      <translation>طے شدہ لے آؤٹ پر دوبارہ سیٹ کریں</translation>
+      <translation>ডিফল্ট লে-আউটে রিসেট করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="237"/>
       <source>Zen Mode</source>
-      <translation>Zen موڈ</translation>
+      <translation>জেন মোড</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="240"/>
       <source>Zen mode</source>
-      <translation>Zen موڈ</translation>
+      <translation>জেন মোড</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="245"/>
       <source>BaseFind</source>
-      <translation>بیس فائنڈ</translation>
+      <translation>বেস খুঁজুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="250"/>
       <source>About</source>
-      <translation>متعلق</translation>
+      <translation>সম্পর্কে</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="255"/>
       <source>Report an issue</source>
-      <translation>ایک مسئلہ کی اطلاع دیں</translation>
+      <translation>সমস্যা সম্পর্কে জানান</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="260"/>
       <source>New Window</source>
-      <translation>نئی ونڈو</translation>
+      <translation>নতুন উইন্ডো</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="263"/>
@@ -5175,7 +5175,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="268"/>
       <source>Close</source>
-      <translation>بند کریں</translation>
+      <translation>বন্ধ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="273"/>
@@ -5183,17 +5183,17 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="872"/>
       <location filename="../core/MainWindow.cpp" line="1243"/>
       <source>Save layout</source>
-      <translation>لے آؤٹ محفوظ کریں</translation>
+      <translation>লে-আউট সংরক্ষণ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="281"/>
       <source>Documentation</source>
-      <translation>دستاویزات کاری</translation>
+      <translation>ডকুমেন্টেশন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="286"/>
       <source>Map File</source>
-      <translation>نقشہ فائل</translation>
+      <translation>ফাইল ম্যাপ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="289"/>
@@ -5205,7 +5205,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.cpp" line="728"/>
       <location filename="../core/MainWindow.cpp" line="751"/>
       <source>Save Project</source>
-      <translation>پروجیکٹ محفوظ کریں</translation>
+      <translation>প্রকল্প সংরক্ষণ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="297"/>
@@ -5215,179 +5215,179 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="302"/>
       <source>Cut</source>
-      <translation>کٹ کریں</translation>
+      <translation>কাট করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="307"/>
       <source>Copy</source>
-      <translation>کاپی کریں</translation>
+      <translation>কপি করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="312"/>
       <location filename="../core/MainWindow.ui" line="518"/>
       <source>Paste</source>
-      <translation>پیسٹ کریں</translation>
+      <translation>পেষ্ট করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="317"/>
       <source>Delete</source>
-      <translation>حذف کریں</translation>
+      <translation>মুছে ফেলুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="322"/>
       <location filename="../core/MainWindow.ui" line="325"/>
       <source>Select all</source>
-      <translation>تمام منتخب کریں</translation>
+      <translation>সবগুলো নির্বাচন করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="330"/>
       <source>Find</source>
-      <translation>تلاش کریں</translation>
+      <translation>খুঁজুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="335"/>
       <location filename="../core/MainWindow.ui" line="338"/>
       <source>Find next</source>
-      <translation>اگلا تلاش کریں</translation>
+      <translation>পরবর্তীটি খুঁজুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="343"/>
       <location filename="../core/MainWindow.ui" line="346"/>
       <source>Find previous</source>
-      <translation>پچھلا تلاش کریں</translation>
+      <translation>পূর্ববর্তীটি খুঁজুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="355"/>
       <source>Undo Seek</source>
-      <translation>تلاش کو کالعدم کریں</translation>
+      <translation>অনুসন্ধান আনডু করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="358"/>
       <source>Go back</source>
-      <translation>واپس جائیں</translation>
+      <translation>পিছনে যান</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="367"/>
       <source>Redo Seek</source>
-      <translation>تلاش دوبارہ انجام دیں</translation>
+      <translation>অনুসন্ধান রিডু করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="378"/>
       <source>Unlock Panels</source>
-      <translation>پینلز کو غیر مقفل کریں</translation>
+      <translation>প্যানেল আনলক করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="381"/>
       <source>Toggle panel locks</source>
-      <translation>پینل لاکس کو ٹوگل کریں</translation>
+      <translation>প্যানেল লক টগল করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="400"/>
       <source>Theme</source>
-      <translation>تھیم</translation>
+      <translation>থিম</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="415"/>
       <location filename="../core/MainWindow.ui" line="418"/>
       <source>Tabs up/down</source>
-      <translation>اوپر/نیچے ٹیبز</translation>
+      <translation>ট্যাব উপরে/নিচে</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="427"/>
       <source>Refresh</source>
-      <translation>تازہ کریں</translation>
+      <translation>রিফ্রেশ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="435"/>
       <source>Show Tabs at the Top</source>
-      <translation>ٹیبز کو اوپر دکھائیں</translation>
+      <translation>ট্যাব শীর্ষে দেখান</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="438"/>
       <source>Toggle tab position</source>
-      <translation>ٹیب کی پوزیشن کو ٹوگل کریں</translation>
+      <translation>ট্যাব-এর অবস্থান টগল করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="443"/>
       <source>Dark Theme</source>
-      <translation>تاریک تھیم</translation>
+      <translation>গাঢ় থিম</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="448"/>
       <location filename="../core/MainWindow.ui" line="451"/>
       <source>Load layout</source>
-      <translation>لے آؤٹ لوڈ کریں</translation>
+      <translation>লে-আউট লোড করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="456"/>
       <source>Default Theme</source>
-      <translation>طے شدہ تھیم</translation>
+      <translation>ডিফল্ট থিম</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="461"/>
       <source>Bindiff</source>
-      <translation>بائنڈف</translation>
+      <translation>Bindiff</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="466"/>
       <source>Analysis</source>
-      <translation>تجزیہ</translation>
+      <translation>বিশ্লেষণ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="471"/>
       <source>Test menu</source>
-      <translation>ٹیسٹ مینیو</translation>
+      <translation>মেন্যু পরীক্ষা করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="476"/>
       <location filename="../core/MainWindow.ui" line="479"/>
       <source>Copy hexpair</source>
-      <translation>ہیکس پیئر کاپی کریں</translation>
+      <translation>হেক্সপেয়ার কপি করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="484"/>
       <location filename="../core/MainWindow.ui" line="487"/>
       <source>Copy text</source>
-      <translation>ٹیکسٹ کاپی کریں</translation>
+      <translation>টেক্সট কপি করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="492"/>
       <source>Copy ASCII</source>
-      <translation>ASCII کاپی کریں</translation>
+      <translation>ASCII কপি করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="497"/>
       <location filename="../core/MainWindow.ui" line="500"/>
       <source>Insert string</source>
-      <translation>سٹرنگ درج کریں</translation>
+      <translation>স্ট্রিং লিখুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="505"/>
       <location filename="../core/MainWindow.ui" line="508"/>
       <source>Insert hex</source>
-      <translation>ہیکس داخل کریں</translation>
+      <translation>হেক্স লিখুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="523"/>
       <source>Show/Hide bytes</source>
-      <translation>بائٹس دکھائیں/چھپائیں</translation>
+      <translation>বাইট দেখান/লুকান</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="528"/>
       <source>Switch case</source>
-      <translation>کیس تبدیل کریں</translation>
+      <translation>কেস পরিবর্তন করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="533"/>
       <location filename="../core/MainWindow.ui" line="536"/>
       <source>Copy all</source>
-      <translation>سب کاپی کریں</translation>
+      <translation>সব কপি করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="541"/>
       <location filename="../core/MainWindow.ui" line="544"/>
       <source>Copy bytes</source>
-      <translation>بائٹس کاپی کریں</translation>
+      <translation>বাইট কপি করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="549"/>
@@ -5395,13 +5395,13 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="557"/>
       <location filename="../core/MainWindow.ui" line="560"/>
       <source>Copy disasm</source>
-      <translation>بے ترکیبی کاپی کریں</translation>
+      <translation>disasm কপি করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="572"/>
       <location filename="../core/MainWindow.ui" line="575"/>
       <source>Start web server</source>
-      <translation>ویب سرور شروع کریں</translation>
+      <translation>ওয়েব সার্ভার শুরু করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="580"/>
@@ -5441,50 +5441,50 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="615"/>
       <source>Syntax AT&amp;T/Intel</source>
-      <translation>نحو AT&amp;T/Intel</translation>
+      <translation>সিনট্যাক্স AT&amp;T/Intel</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="620"/>
       <location filename="../core/MainWindow.ui" line="630"/>
       <source>Rename</source>
-      <translation>نام بدلیں</translation>
+      <translation>পুনঃনামকরণ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="625"/>
       <location filename="../core/MainWindow.ui" line="635"/>
       <source>Undefine</source>
-      <translation>غیر متعین</translation>
+      <translation>অনির্দিষ্ট</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="640"/>
       <source>Add comment</source>
-      <translation>تبصرہ شامل کریں</translation>
+      <translation>মন্তব্য যোগ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="652"/>
       <location filename="../core/MainWindow.ui" line="655"/>
       <source>Show/Hide bottom pannel</source>
-      <translation>نچلا پینل دکھائیں/چھپائیں</translation>
+      <translation>নিচের প্যানেল দেখান/লুকান</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="660"/>
       <source>Run Rizin script</source>
-      <translation>Rizin اسکرپٹ چلائیں</translation>
+      <translation>Rizin স্ক্রিপ্ট চালান</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="665"/>
       <source>Reset Settings</source>
-      <translation>ترتیبات پھر سیٹ کریں</translation>
+      <translation>সেটিংস রিসেট করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="668"/>
       <source>Reset settings</source>
-      <translation>ترتیبات پھر سیٹ کریں</translation>
+      <translation>সেটিংস রিসেট করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="673"/>
       <source>Quit</source>
-      <translation>ترک کریں</translation>
+      <translation>কুইট করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="676"/>
@@ -5494,109 +5494,109 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="684"/>
       <source>Exports</source>
-      <translation>برآمدات</translation>
+      <translation>রপ্তানি/প্রেরণ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="687"/>
       <source>Show/Hide Exports panel</source>
-      <translation>برآمد پینل دکھائیں/چھپائیں</translation>
+      <translation>রপ্তানি/প্রেরণ প্যানেল দেখান/লুকান</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="692"/>
       <source>Refresh Contents</source>
-      <translation>مواد کو ریفریش کریں</translation>
+      <translation>কনটেন্ট রিফ্রেশ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="695"/>
       <source>Refresh contents</source>
-      <translation>مواد کو ریفریش کریں</translation>
+      <translation>কনটেন্ট রিফ্রেশ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="703"/>
       <source>Show ESIL rather than assembly</source>
-      <translation>اسمبلی کے بجائے ESIL دکھائیں</translation>
+      <translation>সমাবেশের পরিবর্তে ESIL দেখান</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="711"/>
       <source>Show pseudocode rather than assembly</source>
-      <translation>اسمبلی کے بجائے سیوڈوکوڈ دکھائیں</translation>
+      <translation>সমাবেশের পরিবর্তে সিউডোকোড দেখান</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="722"/>
       <source>Display offsets</source>
-      <translation>آفسیٹس دکھائیں</translation>
+      <translation>অফসেট প্রদর্শন করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="727"/>
       <source>Preferences</source>
-      <translation>ترجیحات</translation>
+      <translation>পছন্দসমূহ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="732"/>
       <source>Save Project As...</source>
-      <translation>پروجیکٹ محفوظ کریں بطور...</translation>
+      <translation>...হিসাবে প্রকল্প সংরক্ষণ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="740"/>
       <source>Graph</source>
-      <translation>گراف</translation>
+      <translation>গ্রাফ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="745"/>
       <source>Import PDB</source>
-      <translation>PDB درآمد کریں</translation>
+      <translation>PDB নিয়ে আসুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="750"/>
       <source>Analyze Program</source>
-      <translation>پروگرام کا تجزیہ کریں</translation>
+      <translation>প্রোগ্রাম বিশ্লেষণ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="755"/>
       <source>Export as code</source>
-      <translation>بطور کوڈ برآمد کریں</translation>
+      <translation>কোড হিসাবে প্রেরণ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="760"/>
       <location filename="../core/MainWindow.cpp" line="1803"/>
       <source>Apply Signature From File</source>
-      <translation>سگنیچر کا فائل سے اطلاق کریں</translation>
+      <translation>ফাইল থেকে স্বাক্ষর প্রয়োগ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="765"/>
       <location filename="../core/MainWindow.cpp" line="1824"/>
       <source>Create New Signature File</source>
-      <translation>نئی سگنیچر فائل بنائیں</translation>
+      <translation>নতুন স্বাক্ষর ফাইল তৈরি করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="770"/>
       <source>Add Hexdump</source>
-      <translation>ہیکس ڈمپ شامل کریں</translation>
+      <translation>হেক্সডাম্প যোগ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="775"/>
       <source>Add Decompiler</source>
-      <translation>ڈی کمپائلر شامل کریں</translation>
+      <translation>ডিকম্পাইলার যোগ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="780"/>
       <source>Add Disassembly</source>
-      <translation>بے ترکیبی شامل کریں</translation>
+      <translation>বিচ্ছিন্নকরণ যোগ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="785"/>
       <source>Add Graph</source>
-      <translation>گراف شامل کریں</translation>
+      <translation>গ্রাফ যোগ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="796"/>
       <source>Grouped dock dragging</source>
-      <translation>گروپ شدہ گودی گھسیٹنا</translation>
+      <translation>গ্রুপ ভিত্তিক ডক ড্রাগিং</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="801"/>
       <source>Zoom In</source>
-      <translation>زوم ان</translation>
+      <translation>জুম ইন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="804"/>
@@ -5606,7 +5606,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="812"/>
       <source>Zoom Out</source>
-      <translation>زوم آؤٹ</translation>
+      <translation>জুম আউট</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="815"/>
@@ -5616,7 +5616,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="823"/>
       <source>Reset</source>
-      <translation>پھر سیٹ کریں</translation>
+      <translation>রিসেট করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="826"/>
@@ -5626,171 +5626,171 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="834"/>
       <source>Commit changes</source>
-      <translation>تبدیلیوں کا اطلاق کریں</translation>
+      <translation>পরিবর্তন করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="842"/>
       <source>Write mode</source>
-      <translation>لکھنے کا موڈ</translation>
+      <translation>মোড লিখুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="845"/>
       <source>Open the file in write mode. Every change to the file will change the original file on disk.</source>
-      <translation>فائل کو لکھنے کے موڈ میں کھولیں۔ فائل میں ہر تبدیلی ڈسک پر موجود اصل فائل میں تبدیلی کر دے گی۔.</translation>
+      <translation>ফাইলটি লিখন মোডে খুলুন। ফাইলের প্রতিটি পরিবর্তন ডিস্কের মূল ফাইলটি পরিবর্তন করবে।</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="853"/>
       <source>Cache mode</source>
-      <translation>کیشے موڈ</translation>
+      <translation>ক্যাশ মোড</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="856"/>
       <source>Enable cache mode. Changes to the file would not be applied to disk unless you specifically commit them. This is a safer option.</source>
-      <translation>کیشے موڈ کو فعال کریں۔ فائل میں تبدیلیاں ڈسک پر لاگو نہیں ہوں گی جب تک کہ آپ خاص طور پر ان کا ارتکاب نہ کریں۔ یہ ایک محفوظ آپشن ہے۔</translation>
+      <translation>ক্যাশ মোড সক্রিয় করুন। ফাইলের পরিবর্তন ডিস্কে প্রয়োগ করা হবে না যদি না আপনি সেগুলোকে বিশেষভাবে সম্পাদন না করেন৷ এটি একটি নিরাপদ বিকল্প।</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="867"/>
       <source>Read-Only mode</source>
-      <translation>صرف پڑھنے کے لیے موڈ</translation>
+      <translation>রিড-অনলি মোড</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="877"/>
       <source>Manage layouts</source>
-      <translation>لے آؤٹ کو منظم کریں</translation>
+      <translation>লে-আউট পরিচালনা করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="256"/>
       <source>No plugins are installed. Check the plugins section on Cutter documentation to learn more.</source>
-      <translation>کوئی پلگ انز انسٹال نہیں ہیں۔ مزید جاننے کے لیے Cutter دستاویزات پر پلگ انز سیکشن کی پڑتال کریں۔</translation>
+      <translation>কোনো প্লাগইন ইনস্টল করা হয় না। আরো জানতে Cutter ডকুমেন্টেশনের প্লাগইন বিভাগ দেখুন।</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="261"/>
       <source>The installed plugins didn&apos;t add entries to this menu.</source>
-      <translation>انسٹال شدہ پلگ انز نے اس مینیو میں اندراجات شامل نہیں&apos; کیے تھے۔</translation>
+      <translation>ইনস্টল করা প্লাগইনগুলো এই মেন্যুতে এন্ট্রি যোগ করে&apos;নি৷</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="275"/>
       <source>Analyze the program using Rizin&apos;s &quot;aaa&quot; command</source>
-      <translation>Rizin&apos;s &quot;aaa&quot; کمانڈ استعمال کرتے ہوئے پروگرام کا تجزیہ کریں</translation>
+      <translation>Rizin&quot;aaa&quot; কমান্ড ব্যবহার করে প্রোগ্রামটি বিশ্লেষণ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="542"/>
       <source>Script loading</source>
-      <translation>اسکرپٹ لوڈ ہو رہا ہے</translation>
+      <translation>স্ক্রিপ্ট লোডিং</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="543"/>
       <source>Do you want to load the &apos;%1&apos; script?</source>
-      <translation>کیا آپ &apos;%1&apos; اسکرپٹ لوڈ کرنا چاہتے ہیں؟</translation>
+      <translation>আপনি কি &apos;%1&apos; লোড করতে চান?</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="561"/>
       <source>Cannot open file!</source>
-      <translation>فائل کھل نہیں سکتی!</translation>
+      <translation>ফাইলটি খোলা যাচ্ছে না!</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="562"/>
       <source>Could not open the file! Make sure the file exists and that you have the correct permissions.</source>
-      <translation>فائل نہیں کھول سکا! یقینی بنائیں کہ فائل موجود ہے اور آپ کے پاس درست اجازتیں ہیں۔</translation>
+      <translation>ফাইল খোলা যায়নি! নিশ্চিত করুন যে ফাইলটি বিদ্যমান এবং আপনার কাছে সঠিক অনুমতি রয়েছে।</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="625"/>
       <source>Failed to open project: %1</source>
-      <translation>پروجیکٹ کھولنے میں ناکام ہوا: %1</translation>
+      <translation>প্রজেক্ট খোলা যায়নি: %1</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="630"/>
       <source>Open Project</source>
-      <translation>پروجیکٹ کھولیں</translation>
+      <translation>প্রজেক্ট খুলুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="752"/>
       <source>Failed to save project: %1</source>
-      <translation>پروجیکٹ محفوظ کرنے میں ناکام ہوا: %1</translation>
+      <translation>প্রজেক্ট সংরক্ষণ করা যায়নি: %1</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="780"/>
       <source>Do you really want to exit?
 Save your project before closing!</source>
-      <translation>کیا آپ واقعی خروج کرنا چاہتے ہیں؟
-بند کرنے سے پہلے اپنے پروجیکٹ کو محفوظ کریں!</translation>
+      <translation>আপনি কি সত্যিই প্রস্থান করতে চান?
+বন্ধ করার আগে আপনার প্রকল্প সংরক্ষণ করুন!</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1056"/>
       <source>New disassembly</source>
-      <translation>نئی بے ترکیبی</translation>
+      <translation>নতুন বিচ্ছিন্নকরণ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1058"/>
       <source>New graph</source>
-      <translation>نیا گراف</translation>
+      <translation>নতুন গ্রাফ</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1060"/>
       <source>New hexdump</source>
-      <translation>نیا ہیکس ڈمپ</translation>
+      <translation>নতুন হেক্সডাম্প</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1061"/>
       <source>New Decompiler</source>
-      <translation>نیا ڈی کمپائلر</translation>
+      <translation>নতুন ডিকম্পাইলার</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1240"/>
       <source>Save layout error</source>
-      <translation>لے آؤٹ کی خرابی محفوظ کریں</translation>
+      <translation>লে-আউট ত্রুটি সংরক্ষণ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1241"/>
       <source>&apos;%1&apos; is not a valid name.</source>
-      <translation>&apos;%1&apos; ایک درست نام نہیں ہے۔</translation>
+      <translation>&apos;%1&apos; কোনো বৈধ নাম নয়।</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1243"/>
       <source>Enter name</source>
-      <translation>نام درج کریں</translation>
+      <translation>নাম লিখুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1554"/>
       <source>Select Rizin script</source>
-      <translation>Rizin اسکرپٹ منتخب کریں</translation>
+      <translation>Rizin স্ক্রিপ্ট নির্বাচন করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1597"/>
       <source>Do you really want to clear all settings?</source>
-      <translation>کیا آپ واقعی تمام ترتیبات کو صاف کرنا چاہتے ہیں؟</translation>
+      <translation>আপনি কি সত্যিই সব সেটিংস মুছে দিতে চান?</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1697"/>
       <source>Select PDB file</source>
-      <translation>PDB فائل منتخب کریں</translation>
+      <translation>PDB ফাইল নির্বাচন করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1698"/>
       <source>PDB file (*.pdb)</source>
-      <translation>PDB فائل (*.pdb)</translation>
+      <translation>PDB ফাইল (*.pdb)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1698"/>
       <source>All files (*)</source>
-      <translation>تمام فائلیں (*)</translation>
+      <translation>সমস্ত ফাইল (*)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1708"/>
       <source>%1 loaded.</source>
-      <translation>%1 لوڈ کیا۔</translation>
+      <translation>%1 লোড করা হয়েছে।</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1799"/>
       <location filename="../core/MainWindow.cpp" line="1821"/>
       <source>Signature File (*.sig)</source>
-      <translation>سگنیچر فائل (*.sig)</translation>
+      <translation>স্বাক্ষর ফাইল (*.sig)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1800"/>
       <location filename="../core/MainWindow.cpp" line="1822"/>
       <source>Pattern File (*.pat)</source>
-      <translation>پیٹرن فائل (*.pat)</translation>
+      <translation>প্যাটার্ন ফাইল (*.pat)</translation>
     </message>
   </context>
   <context>
@@ -5798,23 +5798,23 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="14"/>
       <source>Map New File</source>
-      <translation>نقشہ کی نئی فائل</translation>
+      <translation>নতুন ফাইল ম্যাপ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="26"/>
       <source>File:</source>
-      <translation>فائل:</translation>
+      <translation>ফাইল:</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="52"/>
       <location filename="../dialogs/MapFileDialog.cpp" line="18"/>
       <source>Select file</source>
-      <translation>فائل منتخب کریں</translation>
+      <translation>ফাইল নির্বাচন করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="59"/>
       <source>Map address:</source>
-      <translation>نقشہ کا ایڈریس:</translation>
+      <translation>ঠিকানা ম্যাপ করুন:</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.ui" line="72"/>
@@ -5823,17 +5823,17 @@ Save your project before closing!</source>
     </message>
     <message>
       <source>Map new file file</source>
-      <translation>نقشہ نئی فائل فائل</translation>
+      <translation>নতুন ফাইল ম্যাপ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
       <source>Failed to map a new file</source>
-      <translation>ایک نئی فائل کا نقشہ بنانے میں ناکام ہوا</translation>
+      <translation>নতুন ফাইল ম্যাপ করা যায়নি</translation>
     </message>
     <message>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
       <source>Map new file</source>
-      <translation>نئی فائل کا نقشہ بنائیں</translation>
+      <translation>নতুন ফাইল ম্যাপ করুন</translation>
     </message>
   </context>
   <context>
@@ -5841,27 +5841,27 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="58"/>
       <source>Offset start</source>
-      <translation>آفسیٹ آغاز</translation>
+      <translation>অফসেট শুরু</translation>
     </message>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="60"/>
       <source>Offset end</source>
-      <translation>آفسیٹ اختتام</translation>
+      <translation>অফসেট সমাপ্তি</translation>
     </message>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="62"/>
       <source>Name</source>
-      <translation>نام</translation>
+      <translation>নাম</translation>
     </message>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="64"/>
       <source>Permissions</source>
-      <translation>اجازتیں</translation>
+      <translation>অনুমতি</translation>
     </message>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="66"/>
       <source>Comment</source>
-      <translation>تبصرہ</translation>
+      <translation>মন্তব্য</translation>
     </message>
   </context>
   <context>
@@ -5869,7 +5869,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/MemoryMapWidget.cpp" line="123"/>
       <source>Memory Map</source>
-      <translation>میموری کا نقشہ</translation>
+      <translation>মেমোরি ম্যাপ</translation>
     </message>
   </context>
   <context>
@@ -5877,17 +5877,17 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/MultitypeFileSaveDialog.cpp" line="24"/>
       <source>Detect type (*)</source>
-      <translation>قسم کا سراغ لگائیں (*)</translation>
+      <translation>ধরন শনাক্ত করুন (*)</translation>
     </message>
     <message>
       <location filename="../dialogs/MultitypeFileSaveDialog.cpp" line="63"/>
       <source>File save error</source>
-      <translation>فائل محفوظ کرنے میں خرابی</translation>
+      <translation>ফাইল সংরক্ষণে ত্রুটি</translation>
     </message>
     <message>
       <location filename="../dialogs/MultitypeFileSaveDialog.cpp" line="64"/>
       <source>Unrecognized extension &apos;%1&apos;</source>
-      <translation>غیر تسلیم شدہ توسیع &apos;%1&apos;</translation>
+      <translation>অশনাক্ত এক্সটেনশন &apos;%1&apos;</translation>
     </message>
   </context>
   <context>
@@ -5895,7 +5895,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NativeDebugDialog.ui" line="35"/>
       <source>Command line arguments:</source>
-      <translation>کمانڈ لائن دلائل:</translation>
+      <translation>কমান্ড লাইন আর্গুমেন্ট:</translation>
     </message>
   </context>
   <context>
@@ -5904,23 +5904,23 @@ Save your project before closing!</source>
       <location filename="../dialogs/NewFileDialog.ui" line="20"/>
       <location filename="../dialogs/NewFileDialog.ui" line="149"/>
       <source>Open File</source>
-      <translation>فائل کھولیں</translation>
+      <translation>ফাইল খুলুন</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="79"/>
       <source>About</source>
-      <translation>متعلق</translation>
+      <translation>সম্পর্কে</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="169"/>
       <source>&lt;b&gt;Select new file&lt;b&gt;</source>
-      <translation>&lt;b&gt;نئی فائل منتخب کریں&lt;b&gt;</translation>
+      <translation>&lt;b&gt;নতুন ফাইল নির্বাচন করুন&lt;b&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="182"/>
       <location filename="../dialogs/NewFileDialog.ui" line="390"/>
       <source>Select</source>
-      <translation>منتخب کریں</translation>
+      <translation>নির্বাচন করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="202"/>
@@ -5930,78 +5930,78 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="296"/>
       <source>Don&apos;t open any file</source>
-      <translation>کوئی فائل نہ&apos; کھولیں</translation>
+      <translation>কোনো ফাইল খুলবেন না</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="303"/>
       <location filename="../dialogs/NewFileDialog.ui" line="360"/>
       <location filename="../dialogs/NewFileDialog.ui" line="501"/>
       <source>Open</source>
-      <translation>کھولیں</translation>
+      <translation>খুলুন</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="316"/>
       <source>Open Shellcode</source>
-      <translation>شیل کوڈ کھولیں</translation>
+      <translation>শেলকোড খুলুন</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="328"/>
       <source>&lt;b&gt;Paste Shellcode&lt;b&gt;</source>
-      <translation>&lt;b&gt;شیل کوڈ پیسٹ کریں&lt;b&gt;</translation>
+      <translation>&lt;b&gt;শেলকোড পেস্ট করুন&lt;b&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="370"/>
       <source>Projects</source>
-      <translation>پروجیکٹس</translation>
+      <translation>প্রজেক্টসমূহ</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="410"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Open Project&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;پروجیکٹ کھولیں&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;প্রজেক্ট খুলুন&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="519"/>
       <source>Remove item</source>
-      <translation>آئیٹم ہٹائیں</translation>
+      <translation>আইটেম সরিয়ে নিন</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="524"/>
       <source>Clear all</source>
-      <translation>سب صاف کریں</translation>
+      <translation>সব পরিষ্কার করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="529"/>
       <source>Delete project</source>
-      <translation>پروجیکٹ حذف کریں</translation>
+      <translation>প্রজেক্ট মুছে দিন</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="534"/>
       <source>Clear all projects</source>
-      <translation>تمام پروجیکٹس صاف کریں</translation>
+      <translation>সব প্রজেক্ট মুছে দিন</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="95"/>
       <source>Select file</source>
-      <translation>فائل منتخب کریں</translation>
+      <translation>ফাইল নির্বাচন করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="107"/>
       <source>Open Project</source>
-      <translation>پروجیکٹ کھولیں</translation>
+      <translation>প্রজেক্ট খুলুন</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="290"/>
       <source>Open a file without additional options/settings.</source>
-      <translation>اضافی اختیارات/ترتیبات کے بغیر فائل کھولیں</translation>
+      <translation>অতিরিক্ত বিকল্প/সেটিংস ছাড়াই একটি ফাইল খুলুন।</translation>
     </message>
     <message>
       <source>Open a file with no extra treatment.</source>
-      <translation>بغیر کسی اضافی طریقہ کے ایک فائل کھولیں۔</translation>
+      <translation>কোনো অতিরিক্ত ট্রিটমেন্ট ছাড়াই একটি ফাইল খুলুন।</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.cpp" line="323"/>
       <source>Select a new program or a previous one before continuing.</source>
-      <translation>جاری رکھنے سے پہلے ایک نیا یا پچھلا پروگرام منتخب کریں۔</translation>
+      <translation>চালিয়ে যাওয়ার আগে একটি নতুন প্রোগ্রাম বা পূর্ববর্তী একটি নির্বাচন করুন৷</translation>
     </message>
   </context>
   <context>
@@ -6009,7 +6009,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/Omnibar.cpp" line="15"/>
       <source>Type flag name or address here</source>
-      <translation>فلیگ کا نام یا ایڈریس یہاں ٹائپ کریں</translation>
+      <translation>এখানে ফ্ল্যাগ-এর নাম বা ঠিকানা টাইপ করুন</translation>
     </message>
   </context>
   <context>
@@ -6017,32 +6017,32 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="28"/>
       <source>Plugins are loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
-      <translation>پلگ انز کو &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt; سے لوڈ کیا جاتا ہے</translation>
+      <translation>প্লাগইন &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt; থেকে লোড করা হয়েছে</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="34"/>
       <source>Name</source>
-      <translation>نام</translation>
+      <translation>নাম</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="34"/>
       <source>Description</source>
-      <translation>تفصیل</translation>
+      <translation>বর্ণনা</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="34"/>
       <source>Version</source>
-      <translation>ورژن</translation>
+      <translation>সংস্করণ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="34"/>
       <source>Author</source>
-      <translation>مصنف</translation>
+      <translation>প্রণেতা</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="48"/>
       <source>Show Rizin plugin information</source>
-      <translation>Rizin پلگ ان کی معلومات دکھائیں</translation>
+      <translation>Rizin প্লাগইন তথ্য দেখান</translation>
     </message>
   </context>
   <context>
@@ -6050,37 +6050,37 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.ui" line="6"/>
       <source>Preferences</source>
-      <translation>ترجیحات</translation>
+      <translation>পছন্দসমূহ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="28"/>
       <source>Disassembly</source>
-      <translation>بے ترکیبی</translation>
+      <translation>বিচ্ছিন্নকরণ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="34"/>
       <source>Debug</source>
-      <translation>ڈی بگ کریں</translation>
+      <translation>ডিবাগ</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="35"/>
       <source>Appearance</source>
-      <translation>ظاہریت</translation>
+      <translation>অবয়ব</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="36"/>
       <source>Plugins</source>
-      <translation>پلگ انز</translation>
+      <translation>প্লাগইন</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="37"/>
       <source>Initialization Script</source>
-      <translation>آغاز کاری کا اسکرپٹ</translation>
+      <translation>প্রারম্ভিক স্ক্রিপ্ট</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="39"/>
       <source>Analysis</source>
-      <translation>تجزیہ</translation>
+      <translation>বিশ্লেষণ</translation>
     </message>
   </context>
   <context>
@@ -6098,12 +6098,12 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/AttachProcDialog.cpp" line="75"/>
       <source>Status</source>
-      <translation>سٹیٹس</translation>
+      <translation>অবস্থা</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.cpp" line="77"/>
       <source>Path</source>
-      <translation>راستہ</translation>
+      <translation>পাথ</translation>
     </message>
   </context>
   <context>
@@ -6121,17 +6121,17 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ProcessesWidget.cpp" line="28"/>
       <source>Status</source>
-      <translation>سٹیٹس</translation>
+      <translation>অবস্থা</translation>
     </message>
     <message>
       <location filename="../widgets/ProcessesWidget.cpp" line="29"/>
       <source>Path</source>
-      <translation>راستہ</translation>
+      <translation>পাথ</translation>
     </message>
     <message>
       <location filename="../widgets/ProcessesWidget.cpp" line="167"/>
       <source>Unable to switch to the requested process.</source>
-      <translation>درخواست کردہ عمل پر سوئچ کرنے سے قاصر۔</translation>
+      <translation>অনুরোধকৃত প্রক্রিয়ায় পরিবর্তন করা যাবে না৷</translation>
     </message>
   </context>
   <context>
@@ -6139,121 +6139,121 @@ Save your project before closing!</source>
     <message>
       <location filename="../common/DisassemblyPreview.cpp" line="41"/>
       <source>More than one (%1) references here. Weird behaviour expected.</source>
-      <translation>یہاں ایک سے زیادہ (%1) حوالہ جات۔ عجیب رویہ کی توقع ہے۔</translation>
+      <translation>এখানে একাধিক (%1) রেফারেন্স উল্লেখ রয়েছে। অস্বাভাবিক আচরণ প্রত্যাশিত।</translation>
     </message>
     <message>
       <source>offsetFrom (%1) differs from refs.at(0).from (%(2))</source>
-      <translation>offsetFrom (%1) یہاں refs.at(0).from (%(2)) سے مختلف ہے</translation>
+      <translation>offsetFrom (%1) এবং refs.at(0).from (%(2)) ভিন্ন</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="53"/>
       <source>Write error</source>
-      <translation>لکھنے کی خرابی</translation>
+      <translation>ত্রুটি লিখুন</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="54"/>
       <source>Your file is opened in read-only mode. Editing is only available when the file is opened in either Write or Cache modes.
 
 WARNING: In Write mode, any changes will be committed to the file on disk. For safety, please consider using Cache mode and then commit the changes manually via File -&gt; Commit modifications to disk.</source>
-      <translation>آپ کی فائل صرف پڑھنے کے لیے موڈ میں کھلی ہے۔ ترمیم صرف اس وقت دستیاب ہوتی ہے جب فائل کو لکھنے یا کیشے کے موڈ میں کھولا جاتا ہے۔
+      <translation>আপনার ফাইল রিড অনলি মোডে খোলা হয়। ফাইলটি লিখন বা ক্যাশ মোডে খোলা হলেই কেবল সম্পাদনা করা যায়।
 
-انتباہ: لکھنے کے موڈ میں، کوئی بھی تبدیلی ڈسک پر موجود فائل میں کی جائے گی۔ حفاظت کے لیے، براہ کرم کیشے موڈ استعمال کرنے پر غور کریں اور پھر ڈسک میں فائل -&gt; ترامیم کے نفاذ کے ذریعے دستی طور پر تبدیلیاں کریں۔</translation>
+সতর্কতা: লিখন মোডে যেকোনো পরিবর্তন ডিস্কের ফাইলে সম্পাদিত হবে। নিরাপত্তার জন্য অনুগ্রহ করে ক্যাশ মোড ব্যবহার করার কথা বিবেচনা করুন এবং তারপর File -&gt; এর মাধ্যমে ম্যানুয়াল উপায়ে ডিস্কে পরিবর্তন করুন।</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="60"/>
       <source>Cancel</source>
-      <translation>منسوخ کریں</translation>
+      <translation>বাতিল করুন</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="62"/>
       <source>Reopen in Write mode</source>
-      <translation>لکھنے کے موڈ میں دوبارہ کھولیں</translation>
+      <translation>লিখন মোডে আবার খুলুন</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="64"/>
       <source>Enable Cache mode</source>
-      <translation>کیشے موڈ فعال کریں</translation>
+      <translation>ক্যাশ মোড সক্রিয় করুন</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="94"/>
       <source>Uncommitted changes</source>
-      <translation>غیر داخل کردہ تبدیلیاں</translation>
+      <translation>অসম্পাদিত পরিবর্তন</translation>
     </message>
     <message>
       <source>Uncomitted changes</source>
-      <translation>غیر داخل کردہ تبدیلیاں</translation>
+      <translation>অসম্পাদিত পরিবর্তন</translation>
     </message>
     <message>
       <location filename="../common/IOModesController.cpp" line="95"/>
       <source>It seems that you have changes or patches that are not committed to the file.
 Do you want to commit them now?</source>
-      <translation>ایسا لگتا ہے کہ آپ کے پاس ایسی تبدیلیاں یا پیچز ہیں جو فائل کے پابند نہیں ہیں۔
-کیا آپ اب ان کو نافذ کرنا چاہتے ہیں؟</translation>
+      <translation>মনে হচ্ছে আপনার কাছে এমন কিছু পরিবর্তন বা প্যাচ রয়েছে যা ফাইলে সম্পাদন করা হয়নি।
+আপনি এখন সেগুলো সম্পাদন করতে চান?</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="98"/>
       <source>Version mismatch!</source>
-      <translation>ورژن سے مماثلت نہیں!</translation>
+      <translation>সংস্করণ মেলেনি!</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="99"/>
       <source>The version used to compile Cutter (%1) does not match the binary version of rizin (%2). This could result in unexpected behaviour. Are you sure you want to continue?</source>
-      <translation>Cutter (%1) کو مرتب کرنے کے لیے استعمال ہونے والی ورژن rizin (%2) کی بائنری ورژن سے میل نہیں کھاتی ہے۔ اس کا نتیجہ غیر متوقع رویہ کی صورت میں نکل سکتا ہے۔ کیا آپ واقعی جاری رکھنا چاہتے ہیں؟</translation>
+      <translation>Cutter (%1) কম্পাইল করতে ব্যবহৃত সংস্করণটি rizin (%2)-এর বাইনারি সংস্করণের সাথে মেলেনি। এর ফলে অপ্রত্যাশিত আচরণ দেখা দিতে পারে। আপনি কি চালিয়ে যেতে চান?</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="388"/>
       <source>A Qt and C++ GUI for rizin reverse engineering framework</source>
-      <translation>rizin ریورس انجینئرنگ فریم ورک کے لیے ایک Qt اور C++ GUI</translation>
+      <translation>rizin রিভার্স ইঞ্জিনিয়ারিং ফ্রেমওয়ার্কের জন্য একটি Qt এবং C++ GUI</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="391"/>
       <source>Filename to open.</source>
-      <translation>کھولنے کے لیے فائل کا نام۔</translation>
+      <translation>খোলার জন্য ফাইলের নাম।</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="395"/>
       <source>Automatically open file and optionally start analysis. Needs filename to be specified. May be a value between 0 and 2: 0 = no analysis, 1 = aaa, 2 = aaaa (experimental)</source>
-      <translation>فائل کو خود بخود کھولیں اور اختیاری طور پر تجزیہ شروع کریں۔ فائل کا نام بتانے کی ضرورت ہے۔ 0 اور 2 کے درمیان کی قدر ہو سکتی ہے: 0 = کوئی تجزیہ نہیں، 1 = aaa، 2 = aaaa (تجرباتی)</translation>
+      <translation>স্বয়ংক্রিয়ভাবে ফাইল খুলুন এবং ঐচ্ছিকভাবে বিশ্লেষণ শুরু করুন। ফাইলের নাম উল্লেখ করতে হবে। 0 এবং 2 এর মধ্যে একটি মান হতে পারে: 0 = কোনো বিশ্লেষণ নেই, 1 = aaa, 2 = aaaa (পরীক্ষামূলক)</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="398"/>
       <source>level</source>
-      <translation>لیول</translation>
+      <translation>লেভেল</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="401"/>
       <source>Sets a specific architecture name</source>
-      <translation>ایک مخصوص آرکیٹیکچر کا نام سیٹ کرتا ہے</translation>
+      <translation>একটি নির্দিষ্ট আর্কিটেকচারের নাম সেট করে</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="402"/>
       <source>arch</source>
-      <translation>آرک</translation>
+      <translation>arch</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="405"/>
       <source>Sets a specific architecture bits</source>
-      <translation>ایک مخصوص آرکیٹیکچر بٹس مقرر کرتا ہے</translation>
+      <translation>একটি নির্দিষ্ট আর্কিটেকচারের bits সেট করে</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="406"/>
       <source>bits</source>
-      <translation>بٹس</translation>
+      <translation>bits</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="409"/>
       <source>Sets a specific CPU</source>
-      <translation>ایک مخصوص CPU کو سیٹ کرتا ہے</translation>
+      <translation>একটি নির্দিষ্ট CPU সেট করে </translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="410"/>
       <source>cpu</source>
-      <translation>سی پی یو</translation>
+      <translation>cpu</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="413"/>
       <source>Sets a specific operating system</source>
-      <translation>ایک مخصوص آپریٹنگ سسٹم سیٹ کرتا ہے</translation>
+      <translation>একটি নির্দিষ্ট অপারেটিং সিস্টেম সেট করে</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="414"/>
@@ -6263,567 +6263,567 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../CutterApplication.cpp" line="418"/>
       <source>Sets the endianness (big or little)</source>
-      <translation>اینڈیننیس کو مقرر کرتا ہے (بڑا یا چھوٹا)</translation>
+      <translation>এন্ডিয়াননেস সেট করে (বড় বা ছোট)</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="419"/>
       <source>big|little</source>
-      <translation>بڑا|چھوٹا</translation>
+      <translation>big|little</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="423"/>
       <source>Force using a specific file format (bin plugin)</source>
-      <translation>ایک مخصوص فائل فارمیٹ (bin پلگ ان) استعمال کرنے پر مجبور کریں</translation>
+      <translation>একটি নির্দিষ্ট ফাইল ফরম্যাট (বিন প্লাগইন) ব্যবহার করে বল প্রয়োগ করুন</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="424"/>
       <source>name</source>
-      <translation>نام</translation>
+      <translation>নাম</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="428"/>
       <source>Load binary at a specific base address</source>
-      <translation>ایک مخصوص بیس ایڈریس پر بائنری لوڈ کریں</translation>
+      <translation>একটি নির্দিষ্ট বেস ঠিকানায় বাইনারি লোড করুন</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="429"/>
       <source>base address</source>
-      <translation>بنیادی ایڈریس</translation>
+      <translation>বেস ঠিকানা</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="433"/>
       <source>Map the binary at a specific address</source>
-      <translation>بائنری کا نقشہ ایک مخصوص ایڈریس پر بنائیں</translation>
+      <translation>একটি নির্দিষ্ট ঠিকানায় বাইনারি ম্যাপ করুন</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="434"/>
       <source>map address</source>
-      <translation>نقشہ کا ایڈریس</translation>
+      <translation>ম্যাপ ঠিকানা</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="437"/>
       <source>Run script file</source>
-      <translation>اسکرپٹ فائل چلائیں</translation>
+      <translation>স্ক্রিপ্ট ফাইল চালনা করুন</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="437"/>
       <source>file</source>
-      <translation>فائل</translation>
+      <translation>ফাইল</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="440"/>
       <source>Load project file</source>
-      <translation>پروجیکٹ فائل لوڈ کریں</translation>
+      <translation>প্রজেক্ট ফাইল লোড করুন</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="441"/>
       <source>project file</source>
-      <translation>پروجیکٹ فائل</translation>
+      <translation>প্রজেক্ট ফাইল</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="445"/>
       <source>Open file in write mode</source>
-      <translation>فائل لکھنے کے موڈ میں کھولیں</translation>
+      <translation>লিখন মোডে ফাইল খুলুন</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="449"/>
       <source>Disables virtual addressing</source>
-      <translation>ورچوئل ایڈریسنگ کو غیرفعال کرتا ہے</translation>
+      <translation>ভার্চুয়াল অ্যাড্রেসিং নিষ্ক্রিয় করুন</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="453"/>
       <source>PYTHONHOME to use for embedded python interpreter</source>
-      <translation>ایمبیڈڈ پائیتھن ترجمان کے لیے PYTHONHOME استعمال کرنا ہے</translation>
+      <translation>PYTHONHOME এমবেড করা পাইথন ইন্টারপ্রেটারের জন্য ব্যবহার করতে হবে</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="459"/>
       <source>Disable output redirection. Some of the output in console widget will not be visible. Use this option when debuging a crash or freeze and output  redirection is causing some messages to be lost.</source>
-      <translation>آؤٹ پٹ ری ڈائریکشن کو غیر فعال کریں۔ کنسول ویجیٹ میں کچھ آؤٹ پٹ دکھائی نہیں دے گی۔ کریش یا منجمد اور آؤٹ پٹ ری ڈائریکشن کی ڈی بگنگ کرتے وقت اس اختیار کو استعمال کریں جس کی وجہ سے کچھ پیغامات ضائع ہو رہے ہیں۔</translation>
+      <translation>আউটপুট রিডাইরেকশন নিষ্ক্রিয় করুন। কনসোল উইজেটের কিছু আউটপুট দৃশ্যমান হবে না। ক্র্যাশ বা ফ্রিজ ডিবাগ করার সময় এই বিকল্প ব্যবহার করুন এবং আউটপুট রিডাইরেকশনের কারণে কিছু বার্তা হারিয়ে যাচ্ছে।</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="465"/>
       <source>Do not load plugins</source>
-      <translation>پلگ انز لوڈ نہ کریں</translation>
+      <translation>প্লাগইন লোড করবেন না</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="469"/>
       <source>Do not load Cutter plugins</source>
-      <translation>Cutter پلگ انز لوڈ نہ کریں</translation>
+      <translation>Cutter প্লাগইন লোড করবেন না</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="473"/>
       <source>Do not load rizin plugins</source>
-      <translation>rizin پلگ انز لوڈ نہ کریں</translation>
+      <translation>rizin প্লাগইন লোড করবেন না</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="487"/>
       <source>Invalid Analysis Level. May be a value between 0 and 2.</source>
-      <translation>غلط تجزیہ کا لیول۔ قدر 0 اور 2 کے درمیان ہو سکتی ہے۔</translation>
+      <translation>অবৈধ বিশ্লেষণ লেভেল। 0 এবং 2 এর মধ্যে কোনো মান হতে পারে।</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="507"/>
       <source>Filename must be specified to start analysis automatically.</source>
-      <translation>خود بخود تجزیہ شروع کرنے کے لیے فائل کا نام بتانا لازمی ہے۔</translation>
+      <translation>স্বয়ংক্রিয়ভাবে বিশ্লেষণ শুরু করতে ফাইলের নাম অবশ্যই উল্লেখ করতে হবে।</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="563"/>
       <source>Invalid Endianness. You can only set it to `big` or `little`.</source>
-      <translation>غلط اینڈیننیس۔ آپ اسے صرف `بڑی` یا `چھوٹی` پر مقرر کر سکتے ہیں۔</translation>
+      <translation>অবৈধ এন্ডিয়াননেস। আপনি এটি শুধুমাত্র `বড়` বা `ছোট`-এ সেট করতে পারেন।</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="397"/>
       <source>Color of comment generated by Rizin</source>
-      <translation>Rizin کی طرف سے تیار کردہ تبصرہ کا رنگ</translation>
+      <translation>Rizin দ্বারা উৎপন্ন মন্তব্যের রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="397"/>
       <source>Comment</source>
-      <translation>تبصرہ</translation>
+      <translation>মন্তব্য</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="398"/>
       <source>Comment created by user</source>
-      <translation>صارف کی جانب سے تخلیق کردہ تبصرہ</translation>
+      <translation>ব্যবহারকারী কর্তৃক সৃষ্ট মন্তব্য</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="398"/>
       <source>Color of user Comment</source>
-      <translation>صارف کے تبصرے کا رنگ</translation>
+      <translation>ব্যবহারকারীর মন্তব্যের রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="400"/>
       <source>Color of names of functions</source>
-      <translation>فنکشنز کے ناموں کا رنگ</translation>
+      <translation>ফাংশনের নামের রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="400"/>
       <source>Function name</source>
-      <translation>فنکشن کا نام</translation>
+      <translation>ফাংশনের নাম</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="401"/>
       <source>Color of function location</source>
-      <translation>فنکشن کے مقام کا رنگ</translation>
+      <translation>ফাংশন অবস্থানের রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="401"/>
       <source>Function location</source>
-      <translation>فنکشن کا مقام</translation>
+      <translation>ফাংশনের অবস্থান</translation>
     </message>
     <message>
       <source>Color of ascii line in left side that shows what opcodes are belong to function</source>
-      <translation>بائیں جانب ascii لائن کا رنگ جو ظاہر کرتا ہے کہ فنکشن سے کون سے او پی کوڈز کا تعلق ہے۔</translation>
+      <translation>লাইনের রঙ যা কোন অপকোডগুলো একটি ফাংশনের অন্তর্গত সেটা দেখায়</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="403"/>
       <source>Color of the line which shows which opcodes belongs to a function</source>
-      <translation>لائن کا رنگ جو ظاہر کرتا ہے کہ کون سے او پی کوڈز فنکشن سے تعلق رکھتے ہیں</translation>
+      <translation>লাইনের রঙ যা কোন অপকোডগুলো একটি ফাংশনের অন্তর্গত সেটা দেখায়</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="404"/>
       <source>Function line</source>
-      <translation>فنکشن لائن</translation>
+      <translation>ফাংশন লাইন</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="406"/>
       <source>Color of flags (similar to bookmarks for offset)</source>
-      <translation>فلیگز کا رنگ (آفسیٹ کے لیے بُک مارکس کی طرح)</translation>
+      <translation>ফ্ল্যাগের রঙ (অফসেটের জন্য বুকমার্কের অনুরূপ)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="406"/>
       <source>Flag</source>
-      <translation>فلیگ</translation>
+      <translation>ফ্ল্যাগ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="407"/>
       <source>Label</source>
-      <translation>لیبل</translation>
+      <translation>লেবেল</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="408"/>
       <source>Help</source>
-      <translation>مدد</translation>
+      <translation>সহায়তা</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="409"/>
       <source>Color of lines showing jump destination</source>
-      <translation>جمپ کی منزل کو ظاہر کرنے والی لائنوں کا رنگ</translation>
+      <translation>জাম্পের গন্তব্য প্রদর্শনকারী লাইনের রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="409"/>
       <source>Flow</source>
-      <translation>فلو</translation>
+      <translation>প্রবাহ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="410"/>
       <source>flow2</source>
-      <translation>فلو2</translation>
+      <translation>flow2</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="411"/>
       <location filename="../widgets/ColorThemeListView.cpp" line="413"/>
       <source>Info</source>
-      <translation>معلومات</translation>
+      <translation>তথ্য</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="411"/>
       <source>prompt</source>
-      <translation>پرامپٹ</translation>
+      <translation>প্রম্পট</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="412"/>
       <source>Color of offsets</source>
-      <translation>آفسیٹس کا رنگ</translation>
+      <translation>অফসেটের রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="412"/>
       <source>Offset</source>
-      <translation>آفسیٹ</translation>
+      <translation>অফসেট</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="413"/>
       <source>input</source>
-      <translation>ان پٹ</translation>
+      <translation>ইনপুট</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="414"/>
       <source>Invalid opcode color</source>
-      <translation>غلط او پی کوڈ رنگ</translation>
+      <translation>অবৈধ অপকোড রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="414"/>
       <source>invalid</source>
-      <translation>غلط</translation>
+      <translation>অবৈধ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="415"/>
       <source>other</source>
-      <translation>دیگر</translation>
+      <translation>অন্য</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="416"/>
       <source>0x00 opcode color</source>
-      <translation>0x00 او پی کوڈ رنگ</translation>
+      <translation>0x00 অপকোড রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="417"/>
       <source>0x7f opcode color</source>
-      <translation>0x7f او پی کوڈ رنگ</translation>
+      <translation>0x7f অপকোড রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="418"/>
       <source>0xff opcode color</source>
-      <translation>0xff او پی کوڈ رنگ</translation>
+      <translation>0xff অপকোড রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="420"/>
       <source>Color of arithmetic opcodes (add, div, mul etc)</source>
-      <translation>اعداد کے او پی کوڈ کا رنگ (add، div، mul وغیرہ)</translation>
+      <translation>গাণিতিক অপকোডের রঙ (যোগ, ভাগ, গুণ ইত্যাদি)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="421"/>
       <source>Arithmetic</source>
-      <translation>علم اعداد</translation>
+      <translation>পাটিগণিত</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="423"/>
       <source>Color of binary operations (and, or, xor etc).</source>
-      <translation>بائنری آپریشنز کا رنگ (اور، یا، xor وغیرہ)۔</translation>
+      <translation>বাইনারি অপারেশনের রঙ (এবং, বা, xor ইত্যাদি)।</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="423"/>
       <source>Binary</source>
-      <translation>ثنائی</translation>
+      <translation>বাইনারি</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="425"/>
       <source>Color of object names, commas between operators, squared brackets and operators inside them.</source>
-      <translation>آبجیکٹ کے ناموں، آپریٹرز کے درمیان کوما، مربع بریکٹس اور ان کے اندر آپریٹرز کا رنگ۔</translation>
+      <translation>বস্তুর নামের রঙ, অপারেটরসমূহের মধ্যে কমা, বর্গাকার বন্ধনী এবং এগুলোর ভিতরের অপারেটর।</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="428"/>
       <source>Text</source>
-      <translation>ٹیکسٹ</translation>
+      <translation>টেক্সট</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="429"/>
       <source>push opcode color</source>
-      <translation>پش او پی کوڈ رنگ</translation>
+      <translation>পুশ অপকোড রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="430"/>
       <source>pop opcode color</source>
-      <translation>pop او پی کوڈ رنگ</translation>
+      <translation>pop অপকোড রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="431"/>
       <source>Cryptographic color</source>
-      <translation>کاپی رائٹ رنگ</translation>
+      <translation>ক্রিপ্টোগ্রাফিক রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="432"/>
       <source>jmp instructions color</source>
-      <translation>jmp ہدایات کا رنگ</translation>
+      <translation>jmp নির্দেশনার রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="434"/>
       <source>Color of conditional jump opcodes such as je, jg, jne etc</source>
-      <translation>مشروط جمپ او پی کوڈز کا رنگ جیسا کہ je، jg، jne وغیرہ</translation>
+      <translation>শর্তযুক্ত জাম্প অপকোডের রঙ, যেমন je, jg, jne ইত্যাদি</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="435"/>
       <source>Conditional jump</source>
-      <translation>مشروط جمپ</translation>
+      <translation>শর্তযুক্ত জাম্প</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="436"/>
       <source>call instructions color (ccall, rcall, call etc)</source>
-      <translation>کال ہدایات کا رنگ (ccall، rcall، کال وغیرہ)</translation>
+      <translation>কল নির্দেশনার রঙ (ccall, rcall, call ইত্যাদি)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="437"/>
       <source>nop opcode color</source>
-      <translation>nop او پی کوڈ رنگ</translation>
+      <translation>nop অপকোড রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="438"/>
       <source>ret opcode color</source>
-      <translation>ret او پی کوڈ رنگ</translation>
+      <translation>ret অপকোড রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="439"/>
       <source>Color of interrupts</source>
-      <translation>مداخلتوں کا رنگ</translation>
+      <translation>ব্যাঘাতের রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="439"/>
       <source>Interrupts</source>
-      <translation>خلل اندازیاں</translation>
+      <translation>ব্যাঘাত</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="440"/>
       <source>swi opcode color</source>
-      <translation>swi او پی کوڈ رنگ</translation>
+      <translation>swi অপকোড রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="442"/>
       <source>Color of compare instructions such as test and cmp</source>
-      <translation>ہدایات کے موازنہ کا رنگ جیسا کہ ٹیسٹ اور cmp</translation>
+      <translation>তুলনা সংশ্লিষ্ট নির্দেশনার রঙ, যেমন পরীক্ষা এবং cmp</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="443"/>
       <source>Compare instructions</source>
-      <translation>ہدایات کا موازنہ کریں</translation>
+      <translation>নির্দেশনা তুলনা করুন</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="444"/>
       <source>Registers color</source>
-      <translation>رجسٹرز کا رنگ</translation>
+      <translation>রেজিস্টারের রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="444"/>
       <source>Register</source>
-      <translation>رجسٹر کریں</translation>
+      <translation>রেজিস্টার</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="447"/>
       <source>Color of numeric constants and object pointers</source>
-      <translation>عددی مستقل اور آبجیکٹ پوائنٹرز کا رنگ</translation>
+      <translation>সাংখ্যিক ধ্রুবক এবং অবজেক্ট পয়েন্টারের রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="447"/>
       <source>Constants</source>
-      <translation>کانسٹنٹس</translation>
+      <translation>ধ্রুবক</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="449"/>
       <source>Color of move instructions such as mov, movd, lea etc</source>
-      <translation>حرکت کی ہدایات کا رنگ جیسا کہ mov، movd، lea وغیرہ</translation>
+      <translation>সরিয়ে নেওয়ার নির্দেশনার রঙ, যেমন mov, movd, lea ইত্যাদি</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="450"/>
       <source>Move instructions</source>
-      <translation>ہدایات تبدیل کریں</translation>
+      <translation>সরিয়ে নেওয়ার নির্দেশনা</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="451"/>
       <source>Function variable color</source>
-      <translation>فنکشن متغیرات کا رنگ</translation>
+      <translation>ফাংশন ভেরিয়েবলের রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="451"/>
       <source>Function variable</source>
-      <translation>فنکشن متغیرات</translation>
+      <translation>ফাংশন ভেরিয়েবল</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="453"/>
       <source>Function variable (local or argument) type color</source>
-      <translation>فنکشن متغیر (مقامی یا دلیل) کی قسم کا رنگ</translation>
+      <translation>ফাংশন ভেরিয়েবল (স্থানীয় বা যুক্তি) ধরনের রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="454"/>
       <source>Variable type</source>
-      <translation>متغیر قسم</translation>
+      <translation>ভেরিয়েবলের ধরন</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="456"/>
       <source>Function variable address color</source>
-      <translation>فنکشن متغیر ایڈریس کا رنگ</translation>
+      <translation>ফাংশন ভেরিয়েবলের ঠিকানার রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="456"/>
       <source>Variable address</source>
-      <translation>متغیر ایڈریس</translation>
+      <translation>ভেরিয়েবলের ঠিকানা</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="468"/>
       <source>In graph view jump arrow true</source>
-      <translation>گراف ویو میں جمپ ایرو درست ہے</translation>
+      <translation>গ্রাফ ভিউতে জাম্প অ্যারো: সত্য</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="468"/>
       <source>Arrow true</source>
-      <translation>درست ایر</translation>
+      <translation>অ্যারো: সত্য</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="470"/>
       <source>In graph view jump arrow false</source>
-      <translation>گراف ویو میں جمپ ایرو غلط ہے</translation>
+      <translation>গ্রাফ ভিউতে জাম্প অ্যারো: মিথ্যা</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="470"/>
       <source>Arrow false</source>
-      <translation>غلط ایرو</translation>
+      <translation>অ্যারো: মিথ্যা</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="472"/>
       <source>In graph view jump arrow (no condition)</source>
-      <translation>گراف ویو میں جمپ ایرو (کوئی شرط نہیں)</translation>
+      <translation>গ্রাফ ভিউতে জাম্প অ্যারো (কোনো শর্ত নেই)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="472"/>
       <source>Arrow</source>
-      <translation>ایرو</translation>
+      <translation>অ্যারো</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="476"/>
       <source>Background color of Graph Overview&apos;s node</source>
-      <translation>گراف اوور ویو&apos; کے نوڈ کے پس منظر کا رنگ</translation>
+      <translation>গ্রাফ ওভারভিউ&apos;র নোডের পটভূমির রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="477"/>
       <source>Graph Overview node</source>
-      <translation>گراف جائزہ نوڈ</translation>
+      <translation>গ্রাফ ওভারভিউ নোড</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="479"/>
       <source>Fill color of Graph Overview&apos;s selection</source>
-      <translation>گراف مجموعی جائزہ&apos; کے انتخاب کا پر کیا ہوا رنگ</translation>
+      <translation>গ্রাফ ওভারভিউ&apos;র নির্বাচনের রঙ পূরণ করুন</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="480"/>
       <source>Graph Overview fill</source>
-      <translation>گراف جائزہ پر شدہ</translation>
+      <translation>গ্রাফ ওভারভিউ পূরণ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="482"/>
       <source>Border color of Graph Overview&apos;s selection</source>
-      <translation>گراف مجموعی جائزہ&apos; کے انتخاب کا بارڈر رنگ</translation>
+      <translation>গ্রাফ ওভারভিউ&apos;র নির্বাচনের সীমানা রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="483"/>
       <source>Graph Overview border</source>
-      <translation>گراف جائزہ بارڈر</translation>
+      <translation>গ্রাফ ওভারভিউ সীমানা</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="486"/>
       <source>General background color</source>
-      <translation>پس منظر کا عمومی رنگ</translation>
+      <translation>সাধারণ পটভূমির রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="486"/>
       <source>Background</source>
-      <translation>پس منظر</translation>
+      <translation>পটভূমি</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="488"/>
       <source>Background color of non-focused graph node</source>
-      <translation>غیر مرکوز گراف نوڈ کے پس منظر کا رنگ</translation>
+      <translation>নন-ফোকাসড গ্রাফ নোডের পটভূমির রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="489"/>
       <source>Node background</source>
-      <translation>نوڈ پس منظر</translation>
+      <translation>নোড-এর পটভূমি</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="491"/>
       <source>Background of current graph node</source>
-      <translation>موجودہ گراف نوڈ کا پس منظر</translation>
+      <translation>বর্তমান গ্রাফ নোডের পটভূমি</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="491"/>
       <source>Current graph node</source>
-      <translation>موجودہ گراف نوڈ</translation>
+      <translation>বর্তমান গ্রাফ নোড</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="493"/>
       <source>Color of node border in graph view</source>
-      <translation>گراف ویو میں نوڈ بارڈر کا رنگ</translation>
+      <translation>গ্রাফ ভিউতে নোড সীমানার রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="493"/>
       <source>Node border</source>
-      <translation>نوڈ بارڈر</translation>
+      <translation>নোড-এর সীমানা</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="495"/>
       <source>Selected line background color</source>
-      <translation>منتخب لائن کے پس منظر کا رنگ</translation>
+      <translation>নির্বাচিত লাইনের পটভূমির রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="495"/>
       <source>Line highlight</source>
-      <translation>لائن نمایاں کرنا</translation>
+      <translation>লাইন হাইলাইট</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="497"/>
       <source>Background color of selected word</source>
-      <translation>منتخب لفظ کے پس منظر کا رنگ</translation>
+      <translation>নির্বাচিত শব্দের পটভূমির রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="497"/>
       <source>Word higlight</source>
-      <translation>لفظ نمایاں کریں</translation>
+      <translation>শব্দ হাইলাইট</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="498"/>
       <source>Main function color</source>
-      <translation>بنیادی فنکشن کا رنگ</translation>
+      <translation>প্রধান ফাংশনের রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="498"/>
       <source>Main</source>
-      <translation>مرکزی</translation>
+      <translation>প্রধান</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="507"/>
       <source>Code section color in navigation bar</source>
-      <translation>نیویگیشن بار میں کوڈ سیکشن کا رنگ</translation>
+      <translation>নেভিগেশন বারে কোড বিভাগের রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="507"/>
       <source>Navbar code</source>
-      <translation>نیویگیشن بار کا کوڈ</translation>
+      <translation>নেভিগেশন বার কোড</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="509"/>
       <source>Empty section color in navigation bar</source>
-      <translation>نیویگیشن بار میں خالی سیکشن کا رنگ</translation>
+      <translation>নেভিগেশন বারে খালি বিভাগের রঙ</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="509"/>
       <source>Navbar empty</source>
-      <translation>نیویگیشن بار خالی</translation>
+      <translation>নেভিগেশন বার খালি</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="510"/>
@@ -6838,7 +6838,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="512"/>
       <source>Breakpoint background</source>
-      <translation>بریک پوائنٹ کا پس منظر</translation>
+      <translation>ব্রেকপয়েন্ট পটভূমি</translation>
     </message>
   </context>
   <context>
@@ -6846,12 +6846,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/QuickFilterView.ui" line="14"/>
       <source>Form</source>
-      <translation>فارم</translation>
+      <translation>গঠন</translation>
     </message>
     <message>
       <location filename="../widgets/QuickFilterView.ui" line="41"/>
       <source>Quick Filter</source>
-      <translation>فوری فلٹر</translation>
+      <translation>দ্রুত ফিল্টার</translation>
     </message>
     <message>
       <location filename="../widgets/QuickFilterView.ui" line="61"/>
@@ -6864,7 +6864,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="500"/>
       <source>Raw</source>
-      <translation>خام</translation>
+      <translation>কাঁচা</translation>
     </message>
   </context>
   <context>
@@ -6872,22 +6872,22 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="67"/>
       <source>Register</source>
-      <translation>رجسٹر کریں</translation>
+      <translation>রেজিস্টার</translation>
     </message>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="69"/>
       <source>Value</source>
-      <translation>قدر</translation>
+      <translation>মান</translation>
     </message>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="71"/>
       <source>Reference</source>
-      <translation>حوالہ</translation>
+      <translation>রেফারেন্স </translation>
     </message>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="73"/>
       <source>Comment</source>
-      <translation>تبصرہ</translation>
+      <translation>মন্তব্য</translation>
     </message>
   </context>
   <context>
@@ -6895,12 +6895,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="137"/>
       <source>Copy register value</source>
-      <translation>رجسٹر قدر کاپی کریں</translation>
+      <translation>রেজিস্টার মান কপি করুন</translation>
     </message>
     <message>
       <location filename="../widgets/RegisterRefsWidget.cpp" line="138"/>
       <source>Copy register reference</source>
-      <translation>رجسٹر حوالہ کاپی کریں</translation>
+      <translation>রেজিস্টার রেফারেন্স কপি করুন</translation>
     </message>
   </context>
   <context>
@@ -6908,22 +6908,22 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RelocsWidget.cpp" line="54"/>
       <source>Address</source>
-      <translation>ایڈریس</translation>
+      <translation>ঠিকানা</translation>
     </message>
     <message>
       <location filename="../widgets/RelocsWidget.cpp" line="56"/>
       <source>Type</source>
-      <translation>قسم</translation>
+      <translation>ধরন</translation>
     </message>
     <message>
       <location filename="../widgets/RelocsWidget.cpp" line="58"/>
       <source>Name</source>
-      <translation>نام</translation>
+      <translation>নাম</translation>
     </message>
     <message>
       <location filename="../widgets/RelocsWidget.cpp" line="60"/>
       <source>Comment</source>
-      <translation>تبصرہ</translation>
+      <translation>মন্তব্য</translation>
     </message>
   </context>
   <context>
@@ -6931,7 +6931,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RelocsWidget.cpp" line="131"/>
       <source>Relocs</source>
-      <translation>ری لوکیشنز</translation>
+      <translation>Relocs</translation>
     </message>
   </context>
   <context>
@@ -6939,48 +6939,48 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="43"/>
       <source>Debugger:</source>
-      <translation>ڈی بگر:</translation>
+      <translation>ডিবাগার:</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="75"/>
       <source>Port:</source>
-      <translation>پورٹ:</translation>
+      <translation>পোর্ট:</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="82"/>
       <source>IP or Path:</source>
-      <translation>IP یا پاتھ:</translation>
+      <translation>IP বা পাথ:</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="159"/>
       <source>Remove item</source>
-      <translation>آئیٹم ہٹائیں</translation>
+      <translation>আইটেম সরিয়ে নিন</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="164"/>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="167"/>
       <source>Remove all</source>
-      <translation>سب کو ہٹائیں</translation>
+      <translation>সব সরিয়ে নিন</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.cpp" line="57"/>
       <source>Invalid debugger</source>
-      <translation>غلط ڈیبگر</translation>
+      <translation>অবৈধ ডিবাগার</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.cpp" line="68"/>
       <source>Invalid IP address</source>
-      <translation>غلط IP ایڈریس</translation>
+      <translation>অবৈধ IP ঠিকানা</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.cpp" line="81"/>
       <source>Path does not exist</source>
-      <translation>راستہ موجود نہیں ہے</translation>
+      <translation>পাথের অস্তিত্ব নেই</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.cpp" line="94"/>
       <source>Invalid port</source>
-      <translation>غلط پورٹ</translation>
+      <translation>অবৈধ পোর্ট</translation>
     </message>
   </context>
   <context>
@@ -6988,37 +6988,37 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="76"/>
       <source>Name</source>
-      <translation>نام</translation>
+      <translation>নাম</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="78"/>
       <source>Vaddr</source>
-      <translation>ویڈر</translation>
+      <translation>Vaddr</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="80"/>
       <source>Index</source>
-      <translation>انڈیکس</translation>
+      <translation>সূচক</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="82"/>
       <source>Type</source>
-      <translation>قسم</translation>
+      <translation>ধরন</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="84"/>
       <source>Size</source>
-      <translation>سائز</translation>
+      <translation>আকার</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="86"/>
       <source>Lang</source>
-      <translation>زبان</translation>
+      <translation>ভাষা</translation>
     </message>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="88"/>
       <source>Comment</source>
-      <translation>تبصرہ</translation>
+      <translation>মন্তব্য</translation>
     </message>
   </context>
   <context>
@@ -7026,7 +7026,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ResourcesWidget.cpp" line="118"/>
       <source>Resources</source>
-      <translation>وسائل</translation>
+      <translation>উপকরণ</translation>
     </message>
   </context>
   <context>
@@ -7039,47 +7039,47 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="21"/>
       <source>Data reference graph (aga)</source>
-      <translation>ڈیٹا حوالہ گراف (aga)</translation>
+      <translation>ডেটা রেফারেন্স গ্রাফ (aga)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="22"/>
       <source>Global data references graph (agA)</source>
-      <translation>عالمی ڈیٹا حوالہ جات گراف (agA)</translation>
+      <translation>গ্লোবাল ডেটা রেফারেন্স গ্রাফ (agA)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="26"/>
       <source>Imports graph (agi)</source>
-      <translation>درآمدات کا گراف (agi)</translation>
+      <translation>আনীত গ্রাফ (agi)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="27"/>
       <source>References graph (agr)</source>
-      <translation>حوالہ جات کا گراف (agr)</translation>
+      <translation>রেফারেন্স গ্রাফ (agr)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="28"/>
       <source>Global references graph (agR)</source>
-      <translation>عالمی حوالہ جات گراف (agR)</translation>
+      <translation>গ্লোবাল রেফারেন্স গ্রাফ (agR)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="29"/>
       <source>Cross references graph (agx)</source>
-      <translation>کراس حوالہ جات کا گراف (agx)</translation>
+      <translation>ক্রস রেফারেন্স গ্রাফ (agx)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="30"/>
       <source>RzIL statement graph (agI)</source>
-      <translation>RzIL اسٹیٹمنٹ گراف (agI)</translation>
+      <translation>RzIL স্টেটমেন্ট গ্রাফ (agI)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="31"/>
       <source>Custom graph (agg)</source>
-      <translation>کسٹم گراف (agg)</translation>
+      <translation>কাস্টম গ্রাফ (agg)</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.cpp" line="32"/>
       <source>User command</source>
-      <translation>صارف کمانڈ</translation>
+      <translation>ইউজার কমান্ড</translation>
     </message>
   </context>
   <context>
@@ -7087,7 +7087,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="14"/>
       <source>Rizin plugin information</source>
-      <translation>Rizin پلگ ان کی معلومات</translation>
+      <translation>Rizin প্লাগইন তথ্য</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="24"/>
@@ -7097,7 +7097,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="30"/>
       <source>RzBin plugins</source>
-      <translation>RzBin پلگ انز</translation>
+      <translation>RzBin প্লাগইন</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="41"/>
@@ -7105,7 +7105,7 @@ Do you want to commit them now?</source>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="123"/>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="159"/>
       <source>Name</source>
-      <translation>نام</translation>
+      <translation>নাম</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="46"/>
@@ -7113,7 +7113,7 @@ Do you want to commit them now?</source>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="128"/>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="179"/>
       <source>Description</source>
-      <translation>تفصیل</translation>
+      <translation>বর্ণনা</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="51"/>
@@ -7121,12 +7121,12 @@ Do you want to commit them now?</source>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="133"/>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="184"/>
       <source>License</source>
-      <translation>لائسنس</translation>
+      <translation>লাইসেন্স</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="56"/>
       <source>Type</source>
-      <translation>قسم</translation>
+      <translation>ধরন</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="65"/>
@@ -7136,12 +7136,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="71"/>
       <source>RzIO plugins</source>
-      <translation>RzIO پلگ انز</translation>
+      <translation>RzIO প্লাগইন</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="97"/>
       <source>Permissions</source>
-      <translation>اجازتیں</translation>
+      <translation>অনুমতি</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="106"/>
@@ -7151,7 +7151,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="112"/>
       <source>RzCore plugins</source>
-      <translation>RzCore پلگ انز</translation>
+      <translation>RzCore প্লাগইন</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="142"/>
@@ -7161,12 +7161,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="148"/>
       <source>RzAsm plugins</source>
-      <translation>RzAsm پلگ انز</translation>
+      <translation>RzAsm প্লাগইন</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="164"/>
       <source>Architecture</source>
-      <translation>تعمیرات</translation>
+      <translation>আর্কিটেকচার</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="169"/>
@@ -7176,12 +7176,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="174"/>
       <source>Version</source>
-      <translation>ورژن</translation>
+      <translation>সংস্করণ</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinPluginsDialog.ui" line="189"/>
       <source>Author</source>
-      <translation>مصنف</translation>
+      <translation>প্রণেতা</translation>
     </message>
   </context>
   <context>
@@ -7189,30 +7189,30 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RizinTaskDialog.ui" line="14"/>
       <source>Rizin Task</source>
-      <translation>Rizin ٹاسک</translation>
+      <translation>Rizin কাজ</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinTaskDialog.ui" line="20"/>
       <source>Rizin task in progress..</source>
-      <translation>Rizin کا کام جاری ہے..</translation>
+      <translation>Rizin কাজ চলমান রয়েছে..</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinTaskDialog.ui" line="27"/>
       <source>Time</source>
-      <translation>وقت</translation>
+      <translation>সময়</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinTaskDialog.cpp" line="32"/>
       <source>Running for</source>
-      <translation>کے لیے چلایا جا رہا ہے</translation>
+      <translation>...সময় ধরে চলছে</translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/RizinTaskDialog.cpp" line="34"/>
       <source>%n hour</source>
       <comment>%n hours</comment>
       <translation>
-        <numerusform>%n گھنٹہ</numerusform>
-        <numerusform>%n گھنٹہ</numerusform>
+        <numerusform>%n ঘণ্টা</numerusform>
+        <numerusform>%n ঘণ্টা</numerusform>
       </translation>
     </message>
     <message numerus="yes">
@@ -7220,8 +7220,8 @@ Do you want to commit them now?</source>
       <source>%n minute</source>
       <comment>%n minutes</comment>
       <translation>
-        <numerusform>%n منٹ</numerusform>
-        <numerusform>%n منٹ</numerusform>
+        <numerusform>%n মিনিট</numerusform>
+        <numerusform>%n মিনিট</numerusform>
       </translation>
     </message>
     <message numerus="yes">
@@ -7229,8 +7229,8 @@ Do you want to commit them now?</source>
       <source>%n seconds</source>
       <comment>%n second</comment>
       <translation>
-        <numerusform>%n سیکنڈز</numerusform>
-        <numerusform>%n سیکنڈز</numerusform>
+        <numerusform>%n সেকেন্ড</numerusform>
+        <numerusform>%n সেকেন্ড</numerusform>
       </translation>
     </message>
   </context>
@@ -7239,12 +7239,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../common/RunScriptTask.cpp" line="18"/>
       <source>Executing script...</source>
-      <translation>مسودہ پر عمل ہو رہا ہے...</translation>
+      <translation>স্ক্রিপ্ট কার্যকর করা হচ্ছে...</translation>
     </message>
     <message>
       <location filename="../common/RunScriptTask.h" line="15"/>
       <source>Run Script</source>
-      <translation>اسکرپٹ چلائیں</translation>
+      <translation>স্ক্রিপ্ট চালান</translation>
     </message>
   </context>
   <context>
@@ -7252,17 +7252,17 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SdbWidget.ui" line="17"/>
       <source>SDB Browser</source>
-      <translation>SDB براؤزر</translation>
+      <translation>SDB ব্রাউজার</translation>
     </message>
     <message>
       <location filename="../widgets/SdbWidget.ui" line="120"/>
       <source>Key</source>
-      <translation>کلید</translation>
+      <translation>চাবি</translation>
     </message>
     <message>
       <location filename="../widgets/SdbWidget.ui" line="125"/>
       <source>Value</source>
-      <translation>قدر</translation>
+      <translation>মান</translation>
     </message>
   </context>
   <context>
@@ -7270,32 +7270,32 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="96"/>
       <source>&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;Preview&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</source>
-      <translation>&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;پیش نظارہ&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
+      <translation>&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;প্রিভিউ&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="115"/>
       <source>Size</source>
-      <translation>سائز</translation>
+      <translation>আকার</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="117"/>
       <source>Offset</source>
-      <translation>آفسیٹ</translation>
+      <translation>অফসেট</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="119"/>
       <source>Code</source>
-      <translation>کوڈ</translation>
+      <translation>কোড</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="121"/>
       <source>Data</source>
-      <translation>ڈیٹا</translation>
+      <translation>ডেটা</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="123"/>
       <source>Comment</source>
-      <translation>تبصرہ</translation>
+      <translation>মন্তব্য</translation>
     </message>
   </context>
   <context>
@@ -7304,62 +7304,62 @@ Do you want to commit them now?</source>
       <location filename="../widgets/SearchWidget.ui" line="83"/>
       <location filename="../widgets/SearchWidget.cpp" line="332"/>
       <source>Search</source>
-      <translation>تلاش کریں</translation>
+      <translation>খুঁজুন</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.ui" line="90"/>
       <source>Search for:</source>
-      <translation>تلاش برائے:</translation>
+      <translation>যা খুঁজবেন:</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.ui" line="100"/>
       <source>Search in:</source>
-      <translation>میں تلاش کریں:</translation>
+      <translation>যেখানে খুঁজবেন:</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="255"/>
       <source>asm code</source>
-      <translation>asm کوڈ</translation>
+      <translation>asm কোড</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="256"/>
       <source>string</source>
-      <translation>سٹرنگ</translation>
+      <translation>স্ট্রিং</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="257"/>
       <source>string (case insensitive)</source>
-      <translation>سٹرنگ (کیس کے تئیں حساس)</translation>
+      <translation>স্ট্রিং (কেস সংবেদনশীল)</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="258"/>
       <source>hex string</source>
-      <translation>ہیکس اسٹرنگ</translation>
+      <translation>হেক্স স্ট্রিং</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="259"/>
       <source>ROP gadgets</source>
-      <translation>ROP گیجیٹس</translation>
+      <translation>ROP গ্যাজেট</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="260"/>
       <source>32bit value</source>
-      <translation>32bit قدر</translation>
+      <translation>32 বিট মান</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="287"/>
       <source>No results found for:</source>
-      <translation>کے لیے کوئی نتائج نہیں ملے:</translation>
+      <translation>যেটার কোনো ফলাফল পাওয়া যায়নি:</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="290"/>
       <source>No Results Found</source>
-      <translation>کوئی نتائج نہیں ملے</translation>
+      <translation>কোনো ফলাফল পাওয়া যায়নি</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="325"/>
       <source>Searching...</source>
-      <translation>تلاش کر رہا ہے...</translation>
+      <translation>খোঁজা হচ্ছে...</translation>
     </message>
   </context>
   <context>
@@ -7367,42 +7367,42 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="93"/>
       <source>Name</source>
-      <translation>نام</translation>
+      <translation>নাম</translation>
     </message>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="95"/>
       <source>Size</source>
-      <translation>سائز</translation>
+      <translation>আকার</translation>
     </message>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="97"/>
       <source>Address</source>
-      <translation>ایڈریس</translation>
+      <translation>ঠিকানা</translation>
     </message>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="99"/>
       <source>End Address</source>
-      <translation>اختتام کا ایڈریس</translation>
+      <translation>সমাপ্তির ঠিকানা</translation>
     </message>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="101"/>
       <source>Virtual Size</source>
-      <translation>ورچوئل سائز</translation>
+      <translation>ভার্চুয়াল আকার</translation>
     </message>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="103"/>
       <source>Permissions</source>
-      <translation>اجازتیں</translation>
+      <translation>অনুমতি</translation>
     </message>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="105"/>
       <source>Entropy</source>
-      <translation>اینٹروپی</translation>
+      <translation>এনট্রপি</translation>
     </message>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="107"/>
       <source>Comment</source>
-      <translation>تبصرہ</translation>
+      <translation>মন্তব্য</translation>
     </message>
   </context>
   <context>
@@ -7410,7 +7410,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="167"/>
       <source>Sections</source>
-      <translation>سیکشنز</translation>
+      <translation>বিভাগসমূহ</translation>
     </message>
   </context>
   <context>
@@ -7418,32 +7418,32 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="81"/>
       <source>Name</source>
-      <translation>نام</translation>
+      <translation>নাম</translation>
     </message>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="83"/>
       <source>Size</source>
-      <translation>سائز</translation>
+      <translation>আকার</translation>
     </message>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="85"/>
       <source>Address</source>
-      <translation>ایڈریس</translation>
+      <translation>ঠিকানা</translation>
     </message>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="87"/>
       <source>End Address</source>
-      <translation>اختتام کا ایڈریس</translation>
+      <translation>সমাপ্তির ঠিকানা</translation>
     </message>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="89"/>
       <source>Permissions</source>
-      <translation>اجازتیں</translation>
+      <translation>অনুমতি</translation>
     </message>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="91"/>
       <source>Comment</source>
-      <translation>تبصرہ</translation>
+      <translation>মন্তব্য</translation>
     </message>
   </context>
   <context>
@@ -7451,33 +7451,33 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="14"/>
       <source>Set to Data</source>
-      <translation>ڈیٹا پر سیٹ کریں</translation>
+      <translation>ডেটাতে সেট করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="20"/>
       <location filename="../dialogs/SetToDataDialog.ui" line="34"/>
       <source>???</source>
-      <translation>؟؟؟</translation>
+      <translation>???</translation>
     </message>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="27"/>
       <source>Start address</source>
-      <translation>شروع کا ایڈریس</translation>
+      <translation>শুরুর ঠিকানা</translation>
     </message>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="41"/>
       <source>End address</source>
-      <translation>اختتام کا ایڈریس</translation>
+      <translation>সমাপ্তির ঠিকানা</translation>
     </message>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="48"/>
       <source>Item size</source>
-      <translation>آئٹم کا سائز</translation>
+      <translation>আইটেমের আকার</translation>
     </message>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="55"/>
       <source>Number of items</source>
-      <translation>آئِٹمز کی تعداد</translation>
+      <translation>আইটেমের সংখ্যা</translation>
     </message>
     <message>
       <location filename="../dialogs/SetToDataDialog.ui" line="62"/>
@@ -7491,7 +7491,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SimpleTextGraphView.cpp" line="29"/>
       <source>Copy</source>
-      <translation>کاپی کریں</translation>
+      <translation>কপি করুন</translation>
     </message>
   </context>
   <context>
@@ -7499,22 +7499,22 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="218"/>
       <source>Offset</source>
-      <translation>آفسیٹ</translation>
+      <translation>অফসেট</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="220"/>
       <source>Value</source>
-      <translation>قدر</translation>
+      <translation>মান</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="222"/>
       <source>Reference</source>
-      <translation>حوالہ</translation>
+      <translation>রেফারেন্স </translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="224"/>
       <source>Comment</source>
-      <translation>تبصرہ</translation>
+      <translation>মন্তব্য</translation>
     </message>
   </context>
   <context>
@@ -7522,22 +7522,22 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="33"/>
       <source>Edit stack value...</source>
-      <translation>اسٹیک ویلیو میں ترمیم کریں...</translation>
+      <translation>স্ট্যাক মান... সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="109"/>
       <source>Edit stack at %1</source>
-      <translation>%1 پر اسٹیک میں ترمیم کریں</translation>
+      <translation>%1-এ স্ট্যাক সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="138"/>
       <source>Stack position</source>
-      <translation>اسٹیک پوزیشن</translation>
+      <translation>স্ট্যাক-এর অবস্থান</translation>
     </message>
     <message>
       <location filename="../widgets/StackWidget.cpp" line="140"/>
       <source>Pointed memory</source>
-      <translation>اشارہ کرتی میموری</translation>
+      <translation>নির্দেশিত মেমোরি</translation>
     </message>
   </context>
   <context>
@@ -7545,37 +7545,37 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="67"/>
       <source>Address</source>
-      <translation>ایڈریس</translation>
+      <translation>ঠিকানা</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="69"/>
       <source>String</source>
-      <translation>سٹرنگ</translation>
+      <translation>স্ট্রিং</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="71"/>
       <source>Type</source>
-      <translation>قسم</translation>
+      <translation>ধরন</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="73"/>
       <source>Length</source>
-      <translation>لمبائی</translation>
+      <translation>দৈর্ঘ্য</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="75"/>
       <source>Size</source>
-      <translation>سائز</translation>
+      <translation>আকার</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="77"/>
       <source>Section</source>
-      <translation>سیکشن</translation>
+      <translation>বিভাগ</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="79"/>
       <source>Comment</source>
-      <translation>تبصرہ</translation>
+      <translation>মন্তব্য</translation>
     </message>
   </context>
   <context>
@@ -7583,7 +7583,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../common/StringsTask.h" line="13"/>
       <source>Searching for Strings</source>
-      <translation>اسٹرنگز کی تلاش جاری ہے</translation>
+      <translation>স্ট্রিং খোঁজা হচ্ছে</translation>
     </message>
   </context>
   <context>
@@ -7591,22 +7591,22 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/StringsWidget.ui" line="76"/>
       <source>Copy String</source>
-      <translation>سٹرنگ کاپی کریں</translation>
+      <translation>স্ট্রিং কপি করুন</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.ui" line="81"/>
       <source>Filter</source>
-      <translation>فلٹر</translation>
+      <translation>ফিল্টার</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="161"/>
       <source>Section:</source>
-      <translation>سیکشن:</translation>
+      <translation>বিভাগ:</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.cpp" line="244"/>
       <source>(all)</source>
-      <translation>(تمام)</translation>
+      <translation>(সব)</translation>
     </message>
   </context>
   <context>
@@ -7614,22 +7614,22 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SymbolsWidget.cpp" line="58"/>
       <source>Address</source>
-      <translation>ایڈریس</translation>
+      <translation>ঠিকানা</translation>
     </message>
     <message>
       <location filename="../widgets/SymbolsWidget.cpp" line="60"/>
       <source>Type</source>
-      <translation>قسم</translation>
+      <translation>ধরন</translation>
     </message>
     <message>
       <location filename="../widgets/SymbolsWidget.cpp" line="62"/>
       <source>Name</source>
-      <translation>نام</translation>
+      <translation>নাম</translation>
     </message>
     <message>
       <location filename="../widgets/SymbolsWidget.cpp" line="64"/>
       <source>Comment</source>
-      <translation>تبصرہ</translation>
+      <translation>মন্তব্য</translation>
     </message>
   </context>
   <context>
@@ -7637,7 +7637,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SymbolsWidget.cpp" line="123"/>
       <source>Symbols</source>
-      <translation>علامات</translation>
+      <translation>প্রতীক</translation>
     </message>
   </context>
   <context>
@@ -7650,12 +7650,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ThreadsWidget.cpp" line="25"/>
       <source>Status</source>
-      <translation>سٹیٹس</translation>
+      <translation>অবস্থা</translation>
     </message>
     <message>
       <location filename="../widgets/ThreadsWidget.cpp" line="26"/>
       <source>Path</source>
-      <translation>راستہ</translation>
+      <translation>পাথ</translation>
     </message>
   </context>
   <context>
@@ -7663,38 +7663,38 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation>مکالمہ</translation>
+      <translation>ডায়লগ</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.ui" line="23"/>
       <source>Load From File:</source>
-      <translation>فائل سے لوڈ کریں:</translation>
+      <translation>ফাইল থেকে লোড করুন:</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.ui" line="37"/>
       <source>Select File</source>
-      <translation>فائل منتخب کریں</translation>
+      <translation>ফাইল নির্বাচন করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.ui" line="50"/>
       <source>Enter Types Manually</source>
-      <translation>اقسام کو دستی طور پر ٹائپ کرتا ہے</translation>
+      <translation>ম্যানুয়াল উপায়ে ধরন উল্লেখ করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.cpp" line="37"/>
       <source>Select file</source>
-      <translation>فائل منتخب کریں</translation>
+      <translation>ফাইল নির্বাচন করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.cpp" line="45"/>
       <location filename="../dialogs/TypesInteractionDialog.cpp" line="89"/>
       <source>Error</source>
-      <translation>خرابی</translation>
+      <translation>ত্রুটি</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesInteractionDialog.cpp" line="90"/>
       <source>There was some error while loading new types</source>
-      <translation>نئی اقسام لوڈ کرتے وقت کچھ خرابی تھی</translation>
+      <translation>নতুন ধরন লোড করার সময় কিছু ত্রুটি ছিল</translation>
     </message>
   </context>
   <context>
@@ -7702,22 +7702,22 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="74"/>
       <source>Type / Name</source>
-      <translation>قسم / نام</translation>
+      <translation>ধরন / নাম</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="76"/>
       <source>Size</source>
-      <translation>سائز</translation>
+      <translation>আকার</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="78"/>
       <source>Format</source>
-      <translation>فارمیٹ</translation>
+      <translation>ফরম্যাট</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="80"/>
       <source>Category</source>
-      <translation>زمرہ</translation>
+      <translation>ক্যাটাগরি</translation>
     </message>
   </context>
   <context>
@@ -7726,67 +7726,67 @@ Do you want to commit them now?</source>
       <location filename="../widgets/TypesWidget.ui" line="76"/>
       <location filename="../widgets/TypesWidget.ui" line="79"/>
       <source>Export Types</source>
-      <translation>برآمد کی اقسام</translation>
+      <translation>প্রেরণের ধরন</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.ui" line="84"/>
       <location filename="../widgets/TypesWidget.ui" line="87"/>
       <location filename="../widgets/TypesWidget.cpp" line="308"/>
       <source>Load New Types</source>
-      <translation>نئِ اقسام لوڈ کریں</translation>
+      <translation>নতুন ধরন লোড করুন</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.ui" line="92"/>
       <location filename="../widgets/TypesWidget.ui" line="95"/>
       <source>Delete Type</source>
-      <translation>قسم حذف کریں</translation>
+      <translation>ধরন মুছে দিন</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="153"/>
       <source>Category</source>
-      <translation>زمرہ</translation>
+      <translation>ক্যাটাগরি</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="198"/>
       <source>View Type</source>
-      <translation>قسم کو دیکھیں</translation>
+      <translation>ধরন দেখুন</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="199"/>
       <source>Edit Type</source>
-      <translation>قسم کی تدوین کریں</translation>
+      <translation>ধরন সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="230"/>
       <source>(All)</source>
-      <translation>(تمام)</translation>
+      <translation>(সব)</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="280"/>
       <source>Save File</source>
-      <translation>فائل محفوظ کریں</translation>
+      <translation>ফাইল সংরক্ষণ করুন</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="287"/>
       <source>Error</source>
-      <translation>خرابی</translation>
+      <translation>ত্রুটি</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="324"/>
       <source>Edit Type: </source>
-      <translation>قسم کی تدوین کریں: </translation>
+      <translation>ধরন সম্পাদনা করুন: </translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="327"/>
       <location filename="../widgets/TypesWidget.cpp" line="365"/>
       <source>View Type: </source>
-      <translation>قسم کو دیکھیں: </translation>
+      <translation>ধরন দেখুন: </translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="327"/>
       <location filename="../widgets/TypesWidget.cpp" line="365"/>
       <source> (Read Only)</source>
-      <translation> (صرف پڑھنے کے لیے)</translation>
+      <translation> (রিড অনলি)</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="347"/>
@@ -7796,7 +7796,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="347"/>
       <source>Are you sure you want to delete &quot;%1&quot;?</source>
-      <translation>کیا آپ واقعی حذف کرنا چاہتے ہیں &quot;%1&quot;؟</translation>
+      <translation>আপনি কি নিশ্চিত যে আপনি &quot;%1&quot; মুছে দিতে চান?</translation>
     </message>
   </context>
   <context>
@@ -7804,37 +7804,37 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="34"/>
       <source>Time limit exceeded during version check. Please check your internet connection and try again.</source>
-      <translation>ورژن کی جانچ کے دوران وقت کی حد سے تجاوز کیا گیا۔ براہ کرم اپنے انٹرنیٹ کنکشن کی پڑتال کریں اور دوبارہ کوشش کریں۔</translation>
+      <translation>সংস্করণ পরীক্ষা করার সময় সময়সীমা অতিক্রান্ত হয়েছে৷ আপনার ইন্টারনেট সংযোগ পরীক্ষা করুন এবং আবার চেষ্টা করুন।</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="58"/>
       <source>Version control</source>
-      <translation>ورژن کنٹرول</translation>
+      <translation>সংস্করণ নিয়ন্ত্রণ</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="59"/>
       <source>There is an update available for Cutter.&lt;br/&gt;</source>
-      <translation>Cutter کے لیے ایک اپ ڈیٹ دستیاب ہے۔&lt;br/&gt;</translation>
+      <translation>Cutter-এর জন্য একটি হালনাগাদ রয়েছে৷&lt;br/&gt;</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="59"/>
       <source>Current version:</source>
-      <translation>موجودہ ورژن:</translation>
+      <translation>বর্তমান সংস্করণ:</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="60"/>
       <source>Latest version:</source>
-      <translation>تازہ ترین ورژن:</translation>
+      <translation>সর্বশেষ সংস্করণ:</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="62"/>
       <source>To update, please check the link:&lt;br/&gt;</source>
-      <translation>اپ ڈیٹ کرنے کے لیے، براہ کرم لنک چیک کریں:&lt;br/&gt;</translation>
+      <translation>হালনাগাদ করতে অনুগ্রহ করে সংযোগ পরীক্ষা করুন:&lt;br/&gt;</translation>
     </message>
     <message>
       <location filename="../common/UpdateWorker.cpp" line="68"/>
       <source>Don&apos;t check for updates automatically</source>
-      <translation>اپ ڈیٹس کے لیے خود کار طور پر پڑتال نہ&apos; کریں</translation>
+      <translation>স্বয়ংক্রিয়ভাবে হালনাগাদ পরীক্ষা করবেন &apos;না</translation>
     </message>
   </context>
   <context>
@@ -7847,12 +7847,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/VTablesWidget.cpp" line="84"/>
       <source>Name</source>
-      <translation>نام</translation>
+      <translation>নাম</translation>
     </message>
     <message>
       <location filename="../widgets/VTablesWidget.cpp" line="86"/>
       <source>Address</source>
-      <translation>ایڈریس</translation>
+      <translation>ঠিকানা</translation>
     </message>
   </context>
   <context>
@@ -7861,19 +7861,19 @@ Do you want to commit them now?</source>
       <location filename="../dialogs/VersionInfoDialog.ui" line="50"/>
       <location filename="../dialogs/VersionInfoDialog.ui" line="64"/>
       <source>TextLabel</source>
-      <translation>ٹیکسٹ لیبل</translation>
+      <translation>TextLabel</translation>
     </message>
     <message>
       <location filename="../dialogs/VersionInfoDialog.ui" line="94"/>
       <location filename="../dialogs/VersionInfoDialog.ui" line="126"/>
       <source>Key</source>
-      <translation>کلید</translation>
+      <translation>চাবি</translation>
     </message>
     <message>
       <location filename="../dialogs/VersionInfoDialog.ui" line="99"/>
       <location filename="../dialogs/VersionInfoDialog.ui" line="131"/>
       <source>Value</source>
-      <translation>قدر</translation>
+      <translation>মান</translation>
     </message>
   </context>
   <context>
@@ -7881,7 +7881,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SectionsWidget.cpp" line="508"/>
       <source>Virtual</source>
-      <translation>ورچوئل</translation>
+      <translation>ভার্চুয়াল</translation>
     </message>
   </context>
   <context>
@@ -7889,7 +7889,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/VisualNavbar.cpp" line="31"/>
       <source>Visual navigation bar</source>
-      <translation>بصری نیویگیشن بار</translation>
+      <translation>ভিজ্যুয়াল নেভিগেশন বার</translation>
     </message>
   </context>
   <context>
@@ -7897,7 +7897,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="20"/>
       <source>Welcome to Cutter</source>
-      <translation>Cutter میں خوش آمدید</translation>
+      <translation>Cutter-এ স্বাগতম</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="83"/>
@@ -7908,42 +7908,42 @@ Do you want to commit them now?</source>
       <location filename="../dialogs/WelcomeDialog.ui" line="104"/>
       <location filename="../dialogs/WelcomeDialog.cpp" line="19"/>
       <source>Version </source>
-      <translation>ورژن </translation>
+      <translation>সংস্করণ </translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="168"/>
       <source>About</source>
-      <translation>متعلق</translation>
+      <translation>সম্পর্কে</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="203"/>
       <source>Native Theme</source>
-      <translation>مقامی تھیم</translation>
+      <translation>নেটিভ থিম</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="208"/>
       <source>Dark Theme</source>
-      <translation>تاریک تھیم</translation>
+      <translation>গাঢ় থিম</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="213"/>
       <source>Midnight Theme</source>
-      <translation>آدھی رات کی تھیم</translation>
+      <translation>মিডনাইট থিম</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="218"/>
       <source>Light Theme</source>
-      <translation>ہلکی تھیم</translation>
+      <translation>লাইট থিম</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="229"/>
       <source>Check for updates on start</source>
-      <translation>آغاز میں اپ ڈیٹس کیلیے پڑتال کریں</translation>
+      <translation>শুরুতে হালনাগাদ পরীক্ষা করুন</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="298"/>
       <source>Community</source>
-      <translation>کمیونیٹی</translation>
+      <translation>কমিউনিটি</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="320"/>
@@ -7952,7 +7952,7 @@ Do you want to commit them now?</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;Join thousands of reverse engineers in our community:&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Twitter:&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;	&lt;/span&gt;&lt;a href=&quot;https://twitter.com/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Telegram:	&lt;/span&gt;&lt;a href=&quot;https://t.me/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re &lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;IRC:	&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;#cutter on &lt;/span&gt;&lt;a href=&quot;https://web.libera.chat/&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;https://web.libera.chat/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation>&lt;!DOCTYPE HTML پبلک &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+      <translation>&lt;!DOCTYPE HTML পাবলিক &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
@@ -7961,27 +7961,27 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="355"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;Want to help us make Cutter even better?&lt;br/&gt;Visit our &lt;/span&gt;&lt;a href=&quot;https://github.com/rizinorg/cutter&quot;&gt;&lt;span style=&quot; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;Github page&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt; and report bugs or contribute code.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation>&lt;html&gt;&lt;head/&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;Cutter کو اور بھی بہتر بنانے میں ہماری مدد کرنا چاہتے ہیں?&lt;br/&gt;ہمارے &lt;/span&gt;&lt;a href=&quot;https://github.com/rizinorg/cutter&quot;&gt;&lt;span style=&quot; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;Github صفحہ&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt; ملاحظہ کریں اور بگز یا شراکتی کوڈ کی رپورٹ دیں۔&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;Cutter-কে আরও ভালো করার ক্ষেত্রে আমাদের সাহায্য করতে চান?&lt;br/&gt;Visit our &lt;/span&gt;&lt;a href=&quot;https://github.com/rizinorg/cutter&quot;&gt;&lt;span style=&quot; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;Github page&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt; এবং বাগ সম্পর্কে জানান বা কোড-এ অবদান রাখুন।&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="394"/>
       <source>Contributing</source>
-      <translation>تعاون کرنا</translation>
+      <translation>অবদান রাখা</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.ui" line="417"/>
       <source>Continue</source>
-      <translation>جاری رکھیں</translation>
+      <translation>চালিয়ে যান</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.cpp" line="70"/>
       <source>Language settings</source>
-      <translation>زبان کی ترتیبات</translation>
+      <translation>ভাষার সেটিংস</translation>
     </message>
     <message>
       <location filename="../dialogs/WelcomeDialog.cpp" line="71"/>
       <source>Language will be changed after next application start.</source>
-      <translation>اگلی ایپلیکیشن شروع ہونے کے بعد زبان تبدیل کر دی جائے گی۔</translation>
+      <translation>পরবর্তী অ্যাপ্লিকেশন শুরু হওয়ার পরে ভাষা পরিবর্তন করা হবে।</translation>
     </message>
   </context>
   <context>
@@ -7989,22 +7989,22 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="297"/>
       <source>Address</source>
-      <translation>ایڈریس</translation>
+      <translation>ঠিকানা</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="299"/>
       <source>Type</source>
-      <translation>قسم</translation>
+      <translation>ধরন</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="301"/>
       <source>Code</source>
-      <translation>کوڈ</translation>
+      <translation>কোড</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="303"/>
       <source>Comment</source>
-      <translation>تبصرہ</translation>
+      <translation>মন্তব্য</translation>
     </message>
   </context>
   <context>
@@ -8012,28 +8012,28 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="155"/>
       <source>X-Refs to %1 (%2 results):</source>
-      <translation>%1 %1 کے لیے کراس حوالہ جات (%2 نتائج):</translation>
+      <translation>%1 (%2 ফলাফল)-এ X-রেফারেন্স:</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="157"/>
       <source>X-Refs from %1 (%2 results):</source>
-      <translation>%1 سے کراس حوالہ جات (%2 نتائج):</translation>
+      <translation>%1 (%2 ফলাফল) থেকে X-রেফারেন্স:</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="162"/>
       <source>Writes to %1</source>
-      <translation>%1 پر لکھتا ہے</translation>
+      <translation>%1-এ লিখুন</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="163"/>
       <source>Reads from %1</source>
-      <translation>%1 سے پڑھتا ہے</translation>
+      <translation>%1 থেকে পড়ুন</translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.cpp" line="174"/>
       <location filename="../dialogs/XrefsDialog.cpp" line="193"/>
       <source>X-Refs for %1</source>
-      <translation>%1 کے لیے کراس حوالہ جات</translation>
+      <translation>%1-এর জন্য X-রেফারেন্স</translation>
     </message>
   </context>
 </TS>
