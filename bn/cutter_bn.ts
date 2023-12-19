@@ -132,7 +132,7 @@
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="16"/>
       <source>Show in</source>
-      <translation>দেখান</translation>
+      <translation>সময়ের মধ্যে দেখান</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="17"/>
@@ -1218,22 +1218,22 @@
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="217"/>
       <source>1</source>
-      <translation/>
+      <translation>1</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="222"/>
       <source>2</source>
-      <translation/>
+      <translation>2</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="227"/>
       <source>4</source>
-      <translation/>
+      <translation>4</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="232"/>
       <source>8</source>
-      <translation/>
+      <translation>8</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="261"/>
@@ -2196,7 +2196,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/Dashboard.ui" line="874"/>
       <source>Endianness:</source>
-      <translation>Endianness:</translation>
+      <translation>এন্ডিয়াননেস:</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="903"/>
@@ -2514,7 +2514,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="29"/>
       <source>Show in</source>
-      <translation>দেখান</translation>
+      <translation>দেখানসময়ের মধ্যে দেখান</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="30"/>
@@ -2722,7 +2722,7 @@ Please check the console for more details.</source>
       <location filename="../menus/DecompilerContextMenu.cpp" line="582"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="584"/>
       <source>Show %1 in</source>
-      <translation>দেখান</translation>
+      <translation>...সময়ের মধ্যে %1 দেখান</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="589"/>
@@ -3109,7 +3109,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="722"/>
       <source>Edit Instruction at %1</source>
-      <translation>%-এ নির্দেশনা সম্পাদনা করুন</translation>
+      <translation>%1-এ নির্দেশনা সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="772"/>
