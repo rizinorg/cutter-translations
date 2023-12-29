@@ -147,7 +147,7 @@
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="19"/>
       <source>Add comment</source>
-      <translation>تبصرے شامل کریں</translation>
+      <translation>تبصرہ شامل کریں</translation>
     </message>
   </context>
   <context>
@@ -170,7 +170,7 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="515"/>
       <source>vtable</source>
-      <translation>وی ٹیبل</translation>
+      <translation>vtable</translation>
     </message>
   </context>
   <context>
@@ -943,7 +943,7 @@
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="60"/>
       <source>Address</source>
-      <translation>پتہ</translation>
+      <translation>ایڈریس</translation>
     </message>
   </context>
   <context>
@@ -1023,12 +1023,12 @@
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="155"/>
       <source>Fd</source>
-      <translation>Fd</translation>
+      <translation>فاورڈ</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="157"/>
       <source>Bk</source>
-      <translation>Bk</translation>
+      <translation>بیک ورڈ</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="159"/>
@@ -2571,7 +2571,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="169"/>
       <source>Edit Comment</source>
-      <translation>تبصرہ میں تبدیلی کریں</translation>
+      <translation>تبصرہ میں ترمیم کریں</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="185"/>
@@ -3790,7 +3790,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="107"/>
       <source>Bk-nextsize</source>
-      <translation>Bk-اگلا سائز</translation>
+      <translation>بیک ورڈ-اگلا سائز</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapInfoDialog.ui" line="114"/>
@@ -5833,7 +5833,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
       <source>Map new file</source>
-      <translation>نئی فائل کا نقشہ بنائیں</translation>
+      <translation>نقشہ کی نئی فائل</translation>
     </message>
   </context>
   <context>
