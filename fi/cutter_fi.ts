@@ -218,22 +218,22 @@
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="161"/>
       <source>Search boundaries for analysis (analysis.in): </source>
-      <translation type="unfinished">Search boundaries for analysis (analysis.in): </translation>
+      <translation>Analyysin hakualue (analysis.in): </translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="195"/>
       <source>Pointer depth (analysis.ptrdepth):</source>
-      <translation type="unfinished">Pointer depth (analysis.ptrdepth):</translation>
+      <translation>Osoitinsyvyys (analysis.ptrdepth):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="236"/>
       <source>Functions Prelude (analysis.prelude):</source>
-      <translation type="unfinished">Functions Prelude (analysis.prelude):</translation>
+      <translation>Funktioiden alku (analysis.prelude):</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="269"/>
       <source>Analyze program</source>
-      <translation type="unfinished">Analyze program</translation>
+      <translation>Analysoi ohjelma</translation>
     </message>
   </context>
   <context>
@@ -241,47 +241,47 @@
     <message>
       <location filename="../common/AnalysisTask.cpp" line="25"/>
       <source>Initial Analysis</source>
-      <translation type="unfinished">Initial Analysis</translation>
+      <translation>Alkuanalyysi</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="27"/>
       <source>Analyzing Program</source>
-      <translation type="unfinished">Analyzing Program</translation>
+      <translation>Analysoidaan ohjelmaa</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="45"/>
       <source>Loading the file...</source>
-      <translation type="unfinished">Loading the file...</translation>
+      <translation>Ladataan tiedostoa...</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="72"/>
       <source>Loading PDB file...</source>
-      <translation type="unfinished">Loading PDB file...</translation>
+      <translation>Ladataan PDB-tiedostoa...</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="81"/>
       <source>Loading shellcode...</source>
-      <translation type="unfinished">Loading shellcode...</translation>
+      <translation>Ladataan shellcodea...</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="92"/>
       <source>Executing script...</source>
-      <translation type="unfinished">Executing script...</translation>
+      <translation>Suoritetaan komentosarjaa...</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="101"/>
       <source>Executing analysis...</source>
-      <translation type="unfinished">Executing analysis...</translation>
+      <translation>Suoritetaan analyysia...</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="110"/>
       <source>Analysis complete!</source>
-      <translation type="unfinished">Analysis complete!</translation>
+      <translation>Analyysi valmis!</translation>
     </message>
     <message>
       <location filename="../common/AnalysisTask.cpp" line="112"/>
       <source>Skipping Analysis.</source>
-      <translation type="unfinished">Skipping Analysis.</translation>
+      <translation>Ohitetaan analyysi.</translation>
     </message>
   </context>
   <context>
@@ -289,129 +289,129 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="14"/>
       <source>Appearance</source>
-      <translation type="unfinished">Appearance</translation>
+      <translation>Ulkoasu</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="28"/>
       <source>Font:</source>
-      <translation type="unfinished">Font:</translation>
+      <translation>Fontti:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="56"/>
       <source>Select font</source>
-      <translation type="unfinished">Select font</translation>
+      <translation>Valitse fontti</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="76"/>
       <source>Zoom</source>
-      <translation type="unfinished">Zoom</translation>
+      <translation>Zoomaus</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="95"/>
       <source>%</source>
-      <translation type="unfinished">%</translation>
+      <translation>%</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="116"/>
       <source>Language:</source>
-      <translation type="unfinished">Language:</translation>
+      <translation>Kieli:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="133"/>
       <source>Interface Theme:</source>
-      <translation type="unfinished">Interface Theme:</translation>
+      <translation>Käyttöliittymän teema:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="147"/>
       <source>Default</source>
-      <translation type="unfinished">Default</translation>
+      <translation>Oletus</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="152"/>
       <source>Dark</source>
-      <translation type="unfinished">Dark</translation>
+      <translation>Tumma</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="160"/>
       <source>Color Theme:</source>
-      <translation type="unfinished">Color Theme:</translation>
+      <translation>Väriteema:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="179"/>
       <source>Edit Theme</source>
-      <translation type="unfinished">Edit Theme</translation>
+      <translation>Muokkaa teemaa</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="193"/>
       <source>Rename</source>
-      <translation type="unfinished">Rename</translation>
+      <translation>Nimeä uudelleen</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="213"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>Kopio</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="227"/>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="163"/>
       <source>Delete</source>
-      <translation type="unfinished">Delete</translation>
+      <translation>Poista</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="241"/>
       <source>Export</source>
-      <translation type="unfinished">Export</translation>
+      <translation>Vie</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="255"/>
       <source>Import</source>
-      <translation type="unfinished">Import</translation>
+      <translation>Tuo</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="289"/>
       <source>Use information provided by decompiler when highlighting code.</source>
-      <translation type="unfinished">Use information provided by decompiler when highlighting code.</translation>
+      <translation>Käytä takaisinkääntäjän tarjoamaa tietoa koodin korostuksessa.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="292"/>
       <source>Decompiler based highlighting</source>
-      <translation type="unfinished">Decompiler based highlighting</translation>
+      <translation>Takaisinkääntäjään perustuva korostus</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="312"/>
       <source>Save as Default</source>
-      <translation type="unfinished">Save as Default</translation>
+      <translation>Tallenna oletukseksi</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="125"/>
       <source>Theme Editor - &lt;%1&gt;</source>
-      <translation type="unfinished">Theme Editor - &lt;%1&gt;</translation>
+      <translation>Teemamuokkain - &lt;%1&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="136"/>
       <source>Enter theme name</source>
-      <translation type="unfinished">Enter theme name</translation>
+      <translation>Syötä teeman nimi</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="136"/>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="221"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>Nimi:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="137"/>
       <source> - copy</source>
-      <translation type="unfinished"> - copy</translation>
+      <translation> - kopio</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="143"/>
       <source>Theme Copy</source>
-      <translation type="unfinished">Theme Copy</translation>
+      <translation>Teeman kopio</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="144"/>
       <source>Theme named %1 already exists.</source>
-      <translation type="unfinished">Theme named %1 already exists.</translation>
+      <translation>Teema nimeltä %1 on jo olemassa.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="159"/>
@@ -420,28 +420,28 @@
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="214"/>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="229"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>Virhe</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="163"/>
       <source>Are you sure you want to delete &lt;b&gt;%1&lt;/b&gt;?</source>
-      <translation type="unfinished">Are you sure you want to delete &lt;b&gt;%1&lt;/b&gt;?</translation>
+      <translation>Haluatko varmasti poistaa teeman &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="185"/>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="211"/>
       <source>Success</source>
-      <translation type="unfinished">Success</translation>
+      <translation>Onnistui</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="186"/>
       <source>Color theme &lt;b&gt;%1&lt;/b&gt; was successfully imported.</source>
-      <translation type="unfinished">Color theme &lt;b&gt;%1&lt;/b&gt; was successfully imported.</translation>
+      <translation>Väriteema &lt;b&gt;%1&lt;/b&gt; tuotiin onnistuneesti.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="212"/>
       <source>Color theme &lt;b&gt;%1&lt;/b&gt; was successfully exported.</source>
-      <translation type="unfinished">Color theme &lt;b&gt;%1&lt;/b&gt; was successfully exported.</translation>
+      <translation>Väriteema &lt;b&gt;%1&lt;/b&gt; vietiin onnistuneesti.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="221"/>
@@ -702,46 +702,46 @@
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="454"/>
       <source>Show offset before flags (asm.flags.off)</source>
-      <translation type="unfinished">Show offset before flags (asm.flags.off)</translation>
+      <translation>Näytä paikka ennen lippuja (asm.flags.off)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="461"/>
       <source>Run ESIL emulation analysis (asm.emu)</source>
-      <translation type="unfinished">Run ESIL emulation analysis (asm.emu)</translation>
+      <translation>Suorita ESIL-emulaatioanalyysi (asm.emu)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="468"/>
       <source>Show only strings if any in the asm.emu output (emu.str)</source>
-      <translation type="unfinished">Show only strings if any in the asm.emu output (emu.str)</translation>
+      <translation>Näytä vain merkkijonot, jos niitä on asm.emu:n tuloksissa (emu.str)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="475"/>
       <source>Show size of opcodes in disassembly (asm.size)</source>
-      <translation type="unfinished">Show size of opcodes in disassembly (asm.size)</translation>
+      <translation>Näytä käskyjen koko puretussa koodissa (asm.size)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="482"/>
       <source>Show variables summary instead of full list (asm.var.summary)</source>
-      <translation type="unfinished">Show variables summary instead of full list (asm.var.summary)</translation>
+      <translation>Näytä muuttujien yhteenveto koko listan sijaan (asm.var.summary)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="489"/>
       <source>Substitute variables in disassembly (asm.sub.var)</source>
-      <translation type="unfinished">Substitute variables in disassembly (asm.sub.var)</translation>
+      <translation>Korvaa muuttujat puretussa koodissa (asm.sub.var)</translation>
     </message>
     <message>
       <source>Substitute variables (asm.sub.var)</source>
-      <translation type="unfinished">Substitute variables (asm.sub.var)</translation>
+      <translation>Korvaa muuttujat (asm.sub.var)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="496"/>
       <source>Substitute entire variable expressions with names (asm.sub.varonly)</source>
-      <translation type="unfinished">Substitute entire variable expressions with names (asm.sub.varonly)</translation>
+      <translation>Korvaa kokonaiset muuttujalausekkeet nimillä (asm.sub.varonly)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AsmOptionsWidget.ui" line="552"/>
       <source>Save as Default</source>
-      <translation type="unfinished">Save as Default</translation>
+      <translation>Tallenna oletukseksi</translation>
     </message>
   </context>
   <context>
@@ -749,43 +749,43 @@
     <message>
       <location filename="../dialogs/AsyncTaskDialog.ui" line="14"/>
       <source>Cutter</source>
-      <translation type="unfinished">Cutter</translation>
+      <translation>Cutter</translation>
     </message>
     <message>
       <location filename="../dialogs/AsyncTaskDialog.ui" line="20"/>
       <source>Time</source>
-      <translation type="unfinished">Time</translation>
+      <translation>Aika</translation>
     </message>
     <message>
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="43"/>
       <source>Running for</source>
-      <translation type="unfinished">Running for</translation>
+      <translation>Tehtävä ollut käynnissä</translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="45"/>
       <source>%n hour</source>
       <comment>%n hours</comment>
-      <translation type="unfinished">
-        <numerusform>%n hour</numerusform>
-        <numerusform>%n hour</numerusform>
+      <translation>
+        <numerusform>%n tunnin</numerusform>
+        <numerusform>%n tuntia</numerusform>
       </translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="49"/>
       <source>%n minute</source>
       <comment>%n minutes</comment>
-      <translation type="unfinished">
-        <numerusform>%n minute</numerusform>
-        <numerusform>%n minute</numerusform>
+      <translation>
+        <numerusform>%n minuutin</numerusform>
+        <numerusform>%n minuuttia</numerusform>
       </translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="52"/>
       <source>%n seconds</source>
       <comment>%n second</comment>
-      <translation type="unfinished">
-        <numerusform>%n seconds</numerusform>
-        <numerusform>%n seconds</numerusform>
+      <translation>
+        <numerusform>%n sekunnin</numerusform>
+        <numerusform>%n sekuntia</numerusform>
       </translation>
     </message>
   </context>
@@ -794,22 +794,22 @@
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="14"/>
       <source>Select process to attach...</source>
-      <translation type="unfinished">Select process to attach...</translation>
+      <translation>Valitse kytkettävä prosessi...</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="46"/>
       <source>Processes with same name as currently open file:</source>
-      <translation type="unfinished">Processes with same name as currently open file:</translation>
+      <translation>Prosessit, joiden nimi vastaa avattua tiedostoa:</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="90"/>
       <source>All processes:</source>
-      <translation type="unfinished">All processes:</translation>
+      <translation>Kaikki prosessit:</translation>
     </message>
     <message>
       <location filename="../dialogs/AttachProcDialog.ui" line="130"/>
       <source>Quick Filter</source>
-      <translation type="unfinished">Quick Filter</translation>
+      <translation>Pikasuodatin</translation>
     </message>
   </context>
   <context>
@@ -817,17 +817,17 @@
     <message>
       <location filename="../widgets/BacktraceWidget.cpp" line="16"/>
       <source>Function</source>
-      <translation type="unfinished">Function</translation>
+      <translation>Funktio</translation>
     </message>
     <message>
       <location filename="../widgets/BacktraceWidget.cpp" line="19"/>
       <source>Description</source>
-      <translation type="unfinished">Description</translation>
+      <translation>Kuvaus</translation>
     </message>
     <message>
       <location filename="../widgets/BacktraceWidget.cpp" line="20"/>
       <source>Frame Size</source>
-      <translation type="unfinished">Frame Size</translation>
+      <translation>Kehyksen koko</translation>
     </message>
   </context>
   <context>
@@ -835,22 +835,22 @@
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="14"/>
       <source>Base64 Encode/Decode</source>
-      <translation type="unfinished">Base64 Encode/Decode</translation>
+      <translation>Base64-koodaus/purku</translation>
     </message>
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="24"/>
       <source>String:</source>
-      <translation type="unfinished">String:</translation>
+      <translation>Merkkijono:</translation>
     </message>
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="38"/>
       <source>Decode</source>
-      <translation type="unfinished">Decode</translation>
+      <translation>Pura</translation>
     </message>
     <message>
       <location filename="../dialogs/Base64EnDecodedWriteDialog.ui" line="48"/>
       <source>Encode</source>
-      <translation type="unfinished">Encode</translation>
+      <translation>Koodaa</translation>
     </message>
   </context>
   <context>
@@ -858,42 +858,42 @@
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="43"/>
       <source>Cores:</source>
-      <translation type="unfinished">Cores:</translation>
+      <translation>Ytimet:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="59"/>
       <source>Pointer Size:</source>
-      <translation type="unfinished">Pointer Size:</translation>
+      <translation>Osoittimen koko:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="67"/>
       <source>32</source>
-      <translation type="unfinished">32</translation>
+      <translation>32</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="72"/>
       <source>64</source>
-      <translation type="unfinished">64</translation>
+      <translation>64</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="80"/>
       <source>Start Address:</source>
-      <translation type="unfinished">Start Address:</translation>
+      <translation>Alkuosoite:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="100"/>
       <source>End Address:</source>
-      <translation type="unfinished">End Address:</translation>
+      <translation>Loppuosoite:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="117"/>
       <source>Alignment:</source>
-      <translation type="unfinished">Alignment:</translation>
+      <translation>Kohdistus:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="134"/>
       <source>Min String Length:</source>
-      <translation type="unfinished">Min String Length:</translation>
+      <translation>Merkkijonon minimipituus:</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="157"/>
@@ -903,13 +903,13 @@
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="199"/>
       <source>Remove item</source>
-      <translation type="unfinished">Remove item</translation>
+      <translation>Poiste kohde</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="204"/>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="207"/>
       <source>Remove all</source>
-      <translation type="unfinished">Remove all</translation>
+      <translation>Poista kaikki</translation>
     </message>
   </context>
   <context>
@@ -918,19 +918,19 @@
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="84"/>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="110"/>
       <source>Copy %1</source>
-      <translation type="unfinished">Copy %1</translation>
+      <translation>Kopioi %1</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="85"/>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="111"/>
       <source>Reopen Cutter with base address as %1</source>
-      <translation type="unfinished">Reopen Cutter with base address as %1</translation>
+      <translation>Avaa Cutter uudelleen alkuosoitteella %1</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="86"/>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="112"/>
       <source>Reopen Cutter with map address as %1</source>
-      <translation type="unfinished">Reopen Cutter with map address as %1</translation>
+      <translation>Avaa Cutter uudelleen karttaosoitteella %1</translation>
     </message>
   </context>
   <context>
@@ -943,7 +943,7 @@
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="60"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>Osoite</translation>
     </message>
   </context>
   <context>
@@ -951,13 +951,13 @@
     <message>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="81"/>
       <source>Remove item</source>
-      <translation type="unfinished">Remove item</translation>
+      <translation>Poista kohde</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="86"/>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="89"/>
       <source>Remove all</source>
-      <translation type="unfinished">Remove all</translation>
+      <translation>Poista kaikki</translation>
     </message>
   </context>
   <context>
@@ -965,12 +965,12 @@
     <message>
       <location filename="../core/Basefind.cpp" line="41"/>
       <source>Start address is &gt;= end address</source>
-      <translation type="unfinished">Start address is &gt;= end address</translation>
+      <translation>Alkuosoite &gt;= loppuosoite</translation>
     </message>
     <message>
       <location filename="../core/Basefind.cpp" line="44"/>
       <source>Alignment must be at least </source>
-      <translation type="unfinished">Alignment must be at least </translation>
+      <translation>Kohdistuksen on oltava vähintään </translation>
     </message>
     <message>
       <location filename="../core/Basefind.cpp" line="48"/>
@@ -980,7 +980,7 @@
     <message>
       <location filename="../core/Basefind.cpp" line="51"/>
       <source>Min string length must be at least 1</source>
-      <translation type="unfinished">Min string length must be at least 1</translation>
+      <translation>Merkkijonon minimikoon on oltava vähintään 1</translation>
     </message>
   </context>
   <context>
@@ -988,12 +988,12 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="136"/>
       <source>method</source>
-      <translation type="unfinished">method</translation>
+      <translation>metodi</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="160"/>
       <source>field</source>
-      <translation type="unfinished">field</translation>
+      <translation>kenttä</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="182"/>
@@ -1248,22 +1248,22 @@
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="276"/>
       <source>Command</source>
-      <translation type="unfinished">Command</translation>
+      <translation>Komento</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="21"/>
       <source>Edit breakpoint</source>
-      <translation type="unfinished">Edit breakpoint</translation>
+      <translation>Muokkaa keskeytyskohtaa</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="23"/>
       <source>New breakpoint</source>
-      <translation type="unfinished">New breakpoint</translation>
+      <translation>Uusi keskeytyskohta</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="32"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>Osoite</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="32"/>
@@ -1273,22 +1273,22 @@
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="34"/>
       <source>Named</source>
-      <translation type="unfinished">Named</translation>
+      <translation>Nimetty</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="34"/>
       <source>Expression - stored as expression</source>
-      <translation type="unfinished">Expression - stored as expression</translation>
+      <translation>Lauseke - tallennetaan lausekkeena</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="35"/>
       <source>Module offset</source>
-      <translation type="unfinished">Module offset</translation>
+      <translation>Paikka moduulissa</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="35"/>
       <source>Offset relative to module</source>
-      <translation type="unfinished">Offset relative to module</translation>
+      <translation>Paikka suhteessa moduuliin</translation>
     </message>
   </context>
   <context>
@@ -1296,13 +1296,13 @@
     <message>
       <location filename="../widgets/CallGraph.cpp" line="25"/>
       <source>Global Callgraph</source>
-      <translation type="unfinished">Global Callgraph</translation>
+      <translation>Globaali kutsukaavio</translation>
     </message>
     <message>
       <location filename="../widgets/CallGraph.cpp" line="25"/>
       <location filename="../widgets/CallGraph.cpp" line="30"/>
       <source>Callgraph</source>
-      <translation type="unfinished">Callgraph</translation>
+      <translation>Kutsukaavio</translation>
     </message>
     <message>
       <location filename="../widgets/CallGraph.cpp" line="30"/>
@@ -1315,34 +1315,34 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="21"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Nimi</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="23"/>
       <source>Real Name</source>
-      <translation type="unfinished">Real Name</translation>
+      <translation>Todellinen nimi</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="25"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>Tyyppi</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="27"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>Paikka</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="29"/>
       <source>VTable</source>
-      <translation type="unfinished">VTable</translation>
+      <translation>V-taulu</translation>
     </message>
   </context>
   <context>
     <name>ClassesWidget</name>
     <message>
       <source>Source:</source>
-      <translation type="unfinished">Source:</translation>
+      <translation>Lähde:</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="621"/>
@@ -1357,69 +1357,69 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="599"/>
       <source>Seek to VTable</source>
-      <translation type="unfinished">Seek to VTable</translation>
+      <translation>Siirry V-taulukkoon</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="600"/>
       <source>Edit Method</source>
-      <translation type="unfinished">Edit Method</translation>
+      <translation>Muokkaa metodia</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="601"/>
       <source>Add Method</source>
-      <translation type="unfinished">Add Method</translation>
+      <translation>Lisää metodi</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="602"/>
       <location filename="../widgets/ClassesWidget.cpp" line="789"/>
       <source>Create new Class</source>
-      <translation type="unfinished">Create new Class</translation>
+      <translation>Luo uusi luokka</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="603"/>
       <source>Rename Class</source>
-      <translation type="unfinished">Rename Class</translation>
+      <translation>Nimeä luokka uudelleen</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="604"/>
       <location filename="../widgets/ClassesWidget.cpp" line="805"/>
       <source>Delete Class</source>
-      <translation type="unfinished">Delete Class</translation>
+      <translation>Poista luokka</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="606"/>
       <source>Classes</source>
-      <translation type="unfinished">Classes</translation>
+      <translation>Luokat</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="741"/>
       <source>Missing VTable in class</source>
-      <translation type="unfinished">Missing VTable in class</translation>
+      <translation>Luokan V-table puuttuu</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="742"/>
       <source>The class %1 does not have any VTable!</source>
-      <translation type="unfinished">The class %1 does not have any VTable!</translation>
+      <translation>Luokalla %1 ei ole V-taulua!</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="789"/>
       <source>Class Name:</source>
-      <translation type="unfinished">Class Name:</translation>
+      <translation>Luokan nimi:</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="806"/>
       <source>Are you sure you want to delete the class %1?</source>
-      <translation type="unfinished">Are you sure you want to delete the class %1?</translation>
+      <translation>Haluatko varmasti poistaa luokan %1?</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="823"/>
       <source>Rename Class %1</source>
-      <translation type="unfinished">Rename Class %1</translation>
+      <translation>Nimeä luokka %1 uudelleen</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="824"/>
       <source>Class name:</source>
-      <translation type="unfinished">Class name:</translation>
+      <translation>Luokan nimi:</translation>
     </message>
   </context>
   <context>
@@ -1427,52 +1427,52 @@
     <message>
       <location filename="../widgets/ColorPicker.ui" line="14"/>
       <source>Form</source>
-      <translation type="unfinished">Form</translation>
+      <translation>Värin valinta</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="87"/>
       <source>Val:</source>
-      <translation type="unfinished">Val:</translation>
+      <translation>Arvo:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="118"/>
       <source>Sat:</source>
-      <translation type="unfinished">Sat:</translation>
+      <translation>Kyl:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="149"/>
       <source>Hue:</source>
-      <translation type="unfinished">Hue:</translation>
+      <translation>Sävy:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="184"/>
       <source>Red:</source>
-      <translation type="unfinished">Red:</translation>
+      <translation>Puna:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="215"/>
       <source>Green:</source>
-      <translation type="unfinished">Green:</translation>
+      <translation>Vihreä:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="246"/>
       <source>Blue:</source>
-      <translation type="unfinished">Blue:</translation>
+      <translation>Sini:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="281"/>
       <source>Hex:</source>
-      <translation type="unfinished">Hex:</translation>
+      <translation>Hex:</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="288"/>
       <source>\#HHHHHH</source>
-      <translation type="unfinished">\#HHHHHH</translation>
+      <translation>\#HHHHHH</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="312"/>
       <source>Pick color from screen</source>
-      <translation type="unfinished">Pick color from screen</translation>
+      <translation>Valitse väri näytöltä</translation>
     </message>
   </context>
   <context>
@@ -1480,39 +1480,39 @@
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation type="unfinished">Dialog</translation>
+      <translation>Valintaikkuna</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.ui" line="26"/>
       <source>Color Theme:</source>
-      <translation type="unfinished">Color Theme:</translation>
+      <translation>Väriteema:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.ui" line="55"/>
       <source>Search</source>
-      <translation type="unfinished">Search</translation>
+      <translation>Hae</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="35"/>
       <source>Disassembly Preview</source>
-      <translation type="unfinished">Disassembly Preview</translation>
+      <translation>Puretun koodin esikatselu</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="79"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>Virhe</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="93"/>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="144"/>
       <source>Unsaved changes</source>
-      <translation type="unfinished">Unsaved changes</translation>
+      <translation>Tallentamattomia muutoksia</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="94"/>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="145"/>
       <source>Are you sure you want to exit without saving? All changes will be lost.</source>
-      <translation type="unfinished">Are you sure you want to exit without saving? All changes will be lost.</translation>
+      <translation>Haluatko varmasti sulkea sovelluksen tallentamatta? Tallentamattomat muutokset katoavat.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="159"/>
@@ -1779,97 +1779,97 @@
     <message>
       <location filename="../core/Cutter.cpp" line="1067"/>
       <source>Found %1 matching signatures!</source>
-      <translation type="unfinished">Found %1 matching signatures!</translation>
+      <translation>Löytyi %1 vastaavaa tunnistetta!</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1072"/>
       <source>Failed to apply signature file!
 Please check the console for more details.</source>
-      <translation type="unfinished">Failed to apply signature file!
-Please check the console for more details.</translation>
+      <translation>Tunnistetiedoston käyttöönotto epäonnistui!
+Voit lukea konsolista lisätietoja.</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1082"/>
       <source>Cannot create signature file (check the console for more details).</source>
-      <translation type="unfinished">Cannot create signature file (check the console for more details).</translation>
+      <translation>Tunnistetiedoston luonit epäonnistui (voit lukea konsolista lisätietoja).</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1086"/>
       <source>Written %1 signatures to %2.</source>
-      <translation type="unfinished">Written %1 signatures to %2.</translation>
+      <translation>Kirjoitettiin %1 tunnistetta tiedostoon %2.</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="1987"/>
       <source>Starting native debug...</source>
-      <translation type="unfinished">Starting native debug...</translation>
+      <translation>Aloitetaan natiivivirheenjäljitys...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2035"/>
       <source>Starting emulation...</source>
-      <translation type="unfinished">Starting emulation...</translation>
+      <translation>Aloitetaan emulointi...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2098"/>
       <source>Connecting to: </source>
-      <translation type="unfinished">Connecting to: </translation>
+      <translation>Yhdistetään: </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2150"/>
       <source>Attaching to process (</source>
-      <translation type="unfinished">Attaching to process (</translation>
+      <translation>Liitytään prosessiin (</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2607"/>
       <source>Creating debug tracepoint...</source>
-      <translation type="unfinished">Creating debug tracepoint...</translation>
+      <translation>Luodaan virheenjäljityksen jäljityskohtaa...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2652"/>
       <source>Stopping debug session...</source>
-      <translation type="unfinished">Stopping debug session...</translation>
+      <translation>Lopetetaan virheenjäljitysistuntoa...</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2687"/>
       <source>Breakpoint error</source>
-      <translation type="unfinished">Breakpoint error</translation>
+      <translation>Keskeytyskohtavirhe</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="2687"/>
       <source>Failed to create breakpoint</source>
-      <translation type="unfinished">Failed to create breakpoint</translation>
+      <translation>Keskeytyskohdan luonti epäonnistui</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="3627"/>
       <source>Unknown (%1)</source>
-      <translation type="unfinished">Unknown (%1)</translation>
+      <translation>Tuntematon (%1)</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4059"/>
       <location filename="../core/Cutter.cpp" line="4088"/>
       <source>Error parsing type: &quot;%1&quot; message: </source>
-      <translation type="unfinished">Error parsing type: &quot;%1&quot; message: </translation>
+      <translation>Tyypin jäsennys epäonnistui: &quot;%1&quot; viesti: </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4065"/>
       <source>Error creating global variable: &quot;%1&quot;</source>
-      <translation type="unfinished">Error creating global variable: &quot;%1&quot;</translation>
+      <translation>Globaalimuuttujan luonti epäonnistui: &quot;%1&quot;</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4658"/>
       <location filename="../core/Cutter.cpp" line="4709"/>
       <source>Cannot get global graph</source>
-      <translation type="unfinished">Cannot get global graph</translation>
+      <translation>Globaalikaavio haku epäonnistui</translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4660"/>
       <location filename="../core/Cutter.cpp" line="4711"/>
       <source>Cannot get graph at </source>
-      <translation type="unfinished">Cannot get graph at </translation>
+      <translation>Kaavion haku epäonnistui koskien osoitetta </translation>
     </message>
     <message>
       <location filename="../core/Cutter.cpp" line="4691"/>
       <source>Failed to generate graph</source>
-      <translation type="unfinished">Failed to generate graph</translation>
+      <translation>Kaavio luonti epäonnistui</translation>
     </message>
   </context>
   <context>
@@ -1878,141 +1878,141 @@ Please check the console for more details.</translation>
       <location filename="../widgets/CutterGraphView.cpp" line="30"/>
       <location filename="../widgets/CutterGraphView.cpp" line="440"/>
       <source>Export Graph</source>
-      <translation type="unfinished">Export Graph</translation>
+      <translation>Vie kaavio</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="42"/>
       <source>Layout</source>
-      <translation type="unfinished">Layout</translation>
+      <translation>Asettelu</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="43"/>
       <source>Horizontal</source>
-      <translation type="unfinished">Horizontal</translation>
+      <translation>Vaakasuuntainen</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="47"/>
       <source>Grid narrow</source>
-      <translation type="unfinished">Grid narrow</translation>
+      <translation>Kapea ruudukko</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="48"/>
       <source>Grid medium</source>
-      <translation type="unfinished">Grid medium</translation>
+      <translation>Keskileveä ruudukko</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="49"/>
       <source>Grid wide</source>
-      <translation type="unfinished">Grid wide</translation>
+      <translation>Leveä ruudukko</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="63"/>
       <source>Graphviz polyline</source>
-      <translation type="unfinished">Graphviz polyline</translation>
+      <translation>Graphviz polyline</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="64"/>
       <source>Graphviz ortho</source>
-      <translation type="unfinished">Graphviz ortho</translation>
+      <translation>Graphviz ortho</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="65"/>
       <source>Graphviz sfdp</source>
-      <translation type="unfinished">Graphviz sfdp</translation>
+      <translation>Graphviz sfdp</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="66"/>
       <source>Graphviz neato</source>
-      <translation type="unfinished">Graphviz neato</translation>
+      <translation>Graphviz neato</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="67"/>
       <source>Graphviz twopi</source>
-      <translation type="unfinished">Graphviz twopi</translation>
+      <translation>Graphviz twopi</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="68"/>
       <source>Graphviz circo</source>
-      <translation type="unfinished">Graphviz circo</translation>
+      <translation>Graphviz circo</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="409"/>
       <source>PNG (*.png)</source>
-      <translation type="unfinished">PNG (*.png)</translation>
+      <translation>PNG (*.png)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="410"/>
       <source>JPEG (*.jpg)</source>
-      <translation type="unfinished">JPEG (*.jpg)</translation>
+      <translation>JPEG (*.jpg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="411"/>
       <source>SVG (*.svg)</source>
-      <translation type="unfinished">SVG (*.svg)</translation>
+      <translation>SVG (*.svg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="415"/>
       <source>Graphviz dot (*.dot)</source>
-      <translation type="unfinished">Graphviz dot (*.dot)</translation>
+      <translation>Graphviz dot (*.dot)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="416"/>
       <source>Graph Modelling Language (*.gml)</source>
-      <translation type="unfinished">Graph Modelling Language (*.gml)</translation>
+      <translation>Graph Modelling Language (*.gml)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="418"/>
       <source>RZ JSON (*.json)</source>
-      <translation type="unfinished">RZ JSON (*.json)</translation>
+      <translation>RZ JSON (*.json)</translation>
     </message>
     <message>
       <source>SDB key-value (*.txt)</source>
-      <translation type="unfinished">SDB key-value (*.txt)</translation>
+      <translation>SDB avain-arvo (*.txt)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="424"/>
       <source>Graphviz json (*.json)</source>
-      <translation type="unfinished">Graphviz json (*.json)</translation>
+      <translation>Graphviz JSON (*.json)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="426"/>
       <source>Graphviz gif (*.gif)</source>
-      <translation type="unfinished">Graphviz gif (*.gif)</translation>
+      <translation>Grpahviz GIF (*.gif)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="428"/>
       <source>Graphviz png (*.png)</source>
-      <translation type="unfinished">Graphviz png (*.png)</translation>
+      <translation>Graphviz PNG (*.png)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="430"/>
       <source>Graphviz jpg (*.jpg)</source>
-      <translation type="unfinished">Graphviz jpg (*.jpg)</translation>
+      <translation>Graphviz JPG (*.jpg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="432"/>
       <source>Graphviz PostScript (*.ps)</source>
-      <translation type="unfinished">Graphviz PostScript (*.ps)</translation>
+      <translation>Graphviz PostScript (*.ps)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="434"/>
       <source>Graphviz svg (*.svg)</source>
-      <translation type="unfinished">Graphviz svg (*.svg)</translation>
+      <translation>Graphviz SVG (*.svg)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="436"/>
       <source>Graphviz pdf (*.pdf)</source>
-      <translation type="unfinished">Graphviz pdf (*.pdf)</translation>
+      <translation>Graphviz PDF (*.pdf)</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="458"/>
       <source>Graph Export</source>
-      <translation type="unfinished">Graph Export</translation>
+      <translation>Kaavion vienti</translation>
     </message>
     <message>
       <location filename="../widgets/CutterGraphView.cpp" line="459"/>
       <source>Do you really want to export %1 x %2 = %3 pixel bitmap image? Consider using different format.</source>
-      <translation type="unfinished">Do you really want to export %1 x %2 = %3 pixel bitmap image? Consider using different format.</translation>
+      <translation>Haluatko varmasti viedä bittikarttakuvan, jossa on %1 x %2 = %3 pikseliä? Harkitse eri muodon käyttöä.</translation>
     </message>
   </context>
   <context>
@@ -2020,12 +2020,12 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../common/CutterSeekable.cpp" line="73"/>
       <source>More than one (%1) references here. Weird behaviour expected.</source>
-      <translation type="unfinished">More than one (%1) references here. Weird behaviour expected.</translation>
+      <translation>Enemmän kuin yksi viittaus tähän kohtaan (%1). Tästä voi seurata outoa toiminnallisuutta.</translation>
     </message>
     <message>
       <location filename="../widgets/AddressableDockWidget.cpp" line="45"/>
       <source> (unsynced)</source>
-      <translation type="unfinished"> (unsynced)</translation>
+      <translation> (synkronoimaton)</translation>
     </message>
   </context>
   <context>
@@ -2033,7 +2033,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/CutterTreeWidget.cpp" line="19"/>
       <source>%1 Items</source>
-      <translation type="unfinished">%1 Items</translation>
+      <translation>%1 kohdetta</translation>
     </message>
   </context>
   <context>
@@ -2041,7 +2041,7 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/Dashboard.ui" line="116"/>
       <source>OVERVIEW</source>
-      <translation type="unfinished">OVERVIEW</translation>
+      <translation>YLEISKATSAUS</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="140"/>
@@ -2325,120 +2325,120 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="41"/>
       <source>Stop emulation</source>
-      <translation type="unfinished">Stop emulation</translation>
+      <translation>Lopeta emulointi</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="42"/>
       <source>Restart emulation</source>
-      <translation type="unfinished">Restart emulation</translation>
+      <translation>Aloita emulointi alusta</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="43"/>
       <source>Continue until main</source>
-      <translation type="unfinished">Continue until main</translation>
+      <translation>Jatka pääfunktioon asti</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="44"/>
       <source>Continue until call</source>
-      <translation type="unfinished">Continue until call</translation>
+      <translation>Jatka kutsuun asti</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="45"/>
       <source>Continue until syscall</source>
-      <translation type="unfinished">Continue until syscall</translation>
+      <translation>Jatka järjestelmäkutsuun asti</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="46"/>
       <source>Continue backwards</source>
-      <translation type="unfinished">Continue backwards</translation>
+      <translation>Jatka taaksepäin</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="47"/>
       <source>Step</source>
-      <translation type="unfinished">Step</translation>
+      <translation>Suorita</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="48"/>
       <source>Step over</source>
-      <translation type="unfinished">Step over</translation>
+      <translation>Jätä väliin</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="49"/>
       <source>Step out</source>
-      <translation type="unfinished">Step out</translation>
+      <translation>Suorita loppuun</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="50"/>
       <source>Step backwards</source>
-      <translation type="unfinished">Step backwards</translation>
+      <translation>Suorita taaksepäin</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="51"/>
       <source>Start trace session</source>
-      <translation type="unfinished">Start trace session</translation>
+      <translation>Aloita jäljitysistunto</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="52"/>
       <source>Stop trace session</source>
-      <translation type="unfinished">Stop trace session</translation>
+      <translation>Lopeta jäljitysistunto</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="53"/>
       <source>Suspend the process</source>
-      <translation type="unfinished">Suspend the process</translation>
+      <translation>Keskeytä prosessi</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="54"/>
       <source>Continue</source>
-      <translation type="unfinished">Continue</translation>
+      <translation>Jatka</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="55"/>
       <source>Restart program</source>
-      <translation type="unfinished">Restart program</translation>
+      <translation>Aloita ohjelma alusta</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="56"/>
       <source>Start debug</source>
-      <translation type="unfinished">Start debug</translation>
+      <translation>Aloita virheenjäljiltys</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="147"/>
       <source>Debugged process exited (</source>
-      <translation type="unfinished">Debugged process exited (</translation>
+      <translation>Prosessi poistui (</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="267"/>
       <source>Debug is currently in beta.
 </source>
-      <translation type="unfinished">Debug is currently in beta.
+      <translation>Virheenjäljitys on beta-vaiheen ominaisuus.
 </translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="268"/>
       <source>If you encounter any problems or have suggestions, please submit an issue to https://github.com/rizinorg/cutter/issues</source>
-      <translation type="unfinished">If you encounter any problems or have suggestions, please submit an issue to https://github.com/rizinorg/cutter/issues</translation>
+      <translation>Jos kohtaat ongelmia tai tahdot ehdottaa jotain, lähetä ilmoitus osoitteessa https://github.com/rizinorg/cutter/issues</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="289"/>
       <location filename="../widgets/DebugActions.cpp" line="368"/>
       <source>Detach from process</source>
-      <translation type="unfinished">Detach from process</translation>
+      <translation>Irrota virheenjäljitin</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="306"/>
       <source>Error connecting.</source>
-      <translation type="unfinished">Error connecting.</translation>
+      <translation>Yhteysvirhe.</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="359"/>
       <source>Error attaching. No process selected!</source>
-      <translation type="unfinished">Error attaching. No process selected!</translation>
+      <translation>Liittymisvirhe. Prosessia ei ole valittu!</translation>
     </message>
     <message>
       <location filename="../widgets/DebugActions.cpp" line="388"/>
       <source>File &apos;%1&apos; does not have executable permissions.</source>
-      <translation type="unfinished">File &apos;%1&apos; does not have executable permissions.</translation>
+      <translation>Tiedoston &apos;%1&apos; oikeudet estävät suorituksen.</translation>
     </message>
   </context>
   <context>
@@ -2446,52 +2446,52 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="14"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>Virheenjäljitys</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="30"/>
       <source>Debug plugin:</source>
-      <translation type="unfinished">Debug plugin:</translation>
+      <translation>Virheenjäljitysliitännäinen:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="42"/>
       <source>ESIL options</source>
-      <translation type="unfinished">ESIL options</translation>
+      <translation>ESIL-asetukset</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="54"/>
       <source>Break esil execution when instruction is invalid (esil.breakoninvalid)</source>
-      <translation type="unfinished">Break esil execution when instruction is invalid (esil.breakoninvalid)</translation>
+      <translation>Keskeytä esil-suoritus, kun käsky on virheellinen (esil.breakoninvalid)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="69"/>
       <source>ESIL stack address:</source>
-      <translation type="unfinished">ESIL stack address:</translation>
+      <translation>ESIL-pino-osoite:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="79"/>
       <source>Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</source>
-      <translation type="unfinished">Hide text when zooming out and it is smaller than the given value. Higher values can increase Performance.</translation>
+      <translation>Piilota teksti ulospäin zoomattaeesa, kun se on tiettyä kokoa pienempää. Korkeammat arvot voivat kohentaa suorituskykyä.</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="82"/>
       <source>ESIL stack size:</source>
-      <translation type="unfinished">ESIL stack size:</translation>
+      <translation>ESIL-pinon koko:</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="100"/>
       <source>Trace options</source>
-      <translation type="unfinished">Trace options</translation>
+      <translation>Jäljitysasetukset</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="109"/>
       <source>Trace each step during continue in a trace session (dbg.trace_continue)</source>
-      <translation type="unfinished">Trace each step during continue in a trace session (dbg.trace_continue)</translation>
+      <translation>Jäljitä jokainen askel suoritusvaiheessa jäljitysistunnossa (dbg.trace_continue)</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/DebugOptionsWidget.ui" line="112"/>
       <source>Disabling this option means that stepping back after continue will return to the previous PC. Significantly improves performance.</source>
-      <translation type="unfinished">Disabling this option means that stepping back after continue will return to the previous PC. Significantly improves performance.</translation>
+      <translation>Kun asetus ei ole valittuna, taaksepäin askellus palaa pikasuoritusta edeltäneeseen ohjelmalaskurin paikkaan, mikä kohentaa suorituskykyä huomattavasti.</translation>
     </message>
   </context>
   <context>
@@ -2499,89 +2499,89 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="26"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>Kopioi</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="27"/>
       <source>Copy instruction address (&lt;address&gt;)</source>
-      <translation type="unfinished">Copy instruction address (&lt;address&gt;)</translation>
+      <translation>Kopioi käskyn osoite (&lt;address&gt;)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="28"/>
       <source>Copy address of [flag] (&lt;address&gt;)</source>
-      <translation type="unfinished">Copy address of [flag] (&lt;address&gt;)</translation>
+      <translation>Kopioi [lipun] osoite (&lt;address&gt;)</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="29"/>
       <source>Show in</source>
-      <translation type="unfinished">Show in</translation>
+      <translation>Näytä kohteessa</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="30"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="166"/>
       <source>Add Comment</source>
-      <translation type="unfinished">Add Comment</translation>
+      <translation>Lisää kommentti</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="31"/>
       <source>Delete comment</source>
-      <translation type="unfinished">Delete comment</translation>
+      <translation>Poista kommentti</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="32"/>
       <source>Rename function at cursor</source>
-      <translation type="unfinished">Rename function at cursor</translation>
+      <translation>Nimeä tämä funktio uudelleen</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="33"/>
       <source>Delete &lt;name&gt;</source>
-      <translation type="unfinished">Delete &lt;name&gt;</translation>
+      <translation>Poista &lt;name&gt;</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="34"/>
       <source>Edit variable &lt;name of variable&gt;</source>
-      <translation type="unfinished">Edit variable &lt;name of variable&gt;</translation>
+      <translation>Muokkaa muuttujaa &lt;name of variable&gt;</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="35"/>
       <source>Show X-Refs</source>
-      <translation type="unfinished">Show X-Refs</translation>
+      <translation>Näytä ristiviittaukset</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="36"/>
       <source>Add/remove breakpoint</source>
-      <translation type="unfinished">Add/remove breakpoint</translation>
+      <translation>Lisää/poista keskeytyskohta</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="37"/>
       <location filename="../menus/DecompilerContextMenu.cpp" line="197"/>
       <source>Advanced breakpoint</source>
-      <translation type="unfinished">Advanced breakpoint</translation>
+      <translation>Edistynyt keskeytyskohta</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="39"/>
       <source>Continue until line</source>
-      <translation type="unfinished">Continue until line</translation>
+      <translation>Jatka riville asti</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="40"/>
       <source>Set PC</source>
-      <translation type="unfinished">Set PC</translation>
+      <translation>Aseta ohjelmalaskuri</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="169"/>
       <source>Edit Comment</source>
-      <translation type="unfinished">Edit Comment</translation>
+      <translation>Muokkaa kommenttia</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="185"/>
       <source>Add breakpoint</source>
-      <translation type="unfinished">Add breakpoint</translation>
+      <translation>Lisää keskeytyskohta</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="187"/>
       <source>Remove breakpoint</source>
-      <translation type="unfinished">Remove breakpoint</translation>
+      <translation>Poista keskeytyskohta</translation>
     </message>
     <message>
       <location filename="../menus/DecompilerContextMenu.cpp" line="189"/>
@@ -2854,81 +2854,81 @@ Please check the console for more details.</translation>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="100"/>
       <source>Delete flag</source>
-      <translation type="unfinished">Delete flag</translation>
+      <translation>Poista lippu</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="103"/>
       <source>Undefine function</source>
-      <translation type="unfinished">Undefine function</translation>
+      <translation>Poista funktion määrittely</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="107"/>
       <source>Define function here</source>
-      <translation type="unfinished">Define function here</translation>
+      <translation>Määrittele tähän funktio</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="119"/>
       <source>Structure offset</source>
-      <translation type="unfinished">Structure offset</translation>
+      <translation>Paikka tietorakenteessa</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="127"/>
       <source>Show X-Refs</source>
-      <translation type="unfinished">Show X-Refs</translation>
+      <translation>Näytä ristiviittaukset</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="131"/>
       <source>X-Refs for local variables</source>
-      <translation type="unfinished">X-Refs for local variables</translation>
+      <translation>Paikallisten muuttujien ristiviittaukset</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="135"/>
       <source>Show Options</source>
-      <translation type="unfinished">Show Options</translation>
+      <translation>Näytä asetukset</translation>
     </message>
     <message>
       <source>Set Immediate Base to...</source>
-      <translation type="unfinished">Set Immediate Base to...</translation>
+      <translation>Aseta välittömän operandin kantaluku...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="177"/>
       <source>Modify or add global variable</source>
-      <translation type="unfinished">Modify or add global variable</translation>
+      <translation>Muokkaa tai lisää globaali muuttuja</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="184"/>
       <source>Set base of immediate value to..</source>
-      <translation type="unfinished">Set base of immediate value to..</translation>
+      <translation>Aseta välittömän operandin kantaluku...</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="186"/>
       <source>Binary</source>
-      <translation type="unfinished">Binary</translation>
+      <translation>Binääri</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="190"/>
       <source>Octal</source>
-      <translation type="unfinished">Octal</translation>
+      <translation>Oktaali</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="194"/>
       <source>Decimal</source>
-      <translation type="unfinished">Decimal</translation>
+      <translation>Desimaali</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="198"/>
       <source>Hexadecimal</source>
-      <translation type="unfinished">Hexadecimal</translation>
+      <translation>Heksadesimaali</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="202"/>
       <source>Network Port</source>
-      <translation type="unfinished">Network Port</translation>
+      <translation>Verkkoportti</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="206"/>
       <source>IP Address</source>
-      <translation type="unfinished">IP Address</translation>
+      <translation>IP-osoite</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="210"/>
