@@ -6,117 +6,117 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="14"/>
       <source>About Cutter</source>
-      <translation type="unfinished">About Cutter</translation>
+      <translation>Tietoja Cutterista</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="54"/>
       <source>Check for updates on start</source>
-      <translation type="unfinished">Check for updates on start</translation>
+      <translation>Tarkista päivitykset käynnistyksen yhteydessä</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="67"/>
       <source>Check for updates</source>
-      <translation type="unfinished">Check for updates</translation>
+      <translation>Tarkista päivitykset</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="80"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter is a free and open-source reverse engineering platform powered by Rizin&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter is a free and open-source reverse engineering platform powered by Rizin&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Read more on &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Cutter on vapaa, avoimen lähdekoodin käänteismallinnusalusta, joka perustuu Riziniin.&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:11pt;&quot;&gt;Lue lisää osoitteessa &lt;/span&gt;&lt;a href=&quot;https://cutter.re&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#2980b9;&quot;&gt;cutter.re&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="87"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;Cutter&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;Cutter&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:28pt; font-weight:600;&quot;&gt;Cutter&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="100"/>
       <source>Report an issue</source>
-      <translation type="unfinished">Report an issue</translation>
+      <translation>Ilmoita ongelma</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="113"/>
       <source>Show Rizin plugin information</source>
-      <translation type="unfinished">Show Rizin plugin information</translation>
+      <translation>Näytä Rizin-liitännäisten tiedot</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="126"/>
       <source>Show version information</source>
-      <translation type="unfinished">Show version information</translation>
+      <translation>Näytä versiotiedot</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="144"/>
       <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-      <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+      <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="28"/>
       <source>Version</source>
-      <translation type="unfinished">Version</translation>
+      <translation>Versio</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="28"/>
       <source>Using rizin </source>
-      <translation type="unfinished">Using rizin </translation>
+      <translation>Rizinin käyttö </translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="30"/>
       <source>Optional Features:</source>
-      <translation type="unfinished">Optional Features:</translation>
+      <translation>Valinnaiset ominaisuudet:</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="47"/>
       <source>License</source>
-      <translation type="unfinished">License</translation>
+      <translation>Lisenssi</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="48"/>
       <source>This Software is released under the GNU General Public License v3.0</source>
-      <translation type="unfinished">This Software is released under the GNU General Public License v3.0</translation>
+      <translation>Tämä ohjelmisto on julkaistu GNU General Public License v3.0:n alla</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="49"/>
       <source>Authors</source>
-      <translation type="unfinished">Authors</translation>
+      <translation>Kehittäjät</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="50"/>
       <source>Cutter is developed by the community and maintained by its core and development teams.&lt;br/&gt;</source>
-      <translation type="unfinished">Cutter is developed by the community and maintained by its core and development teams.&lt;br/&gt;</translation>
+      <translation>Cutterin yhteisö osallistuu sen kehitykseen, ja sen ylläpidosta ovat vastuussa ydin- ja kehitystiimit.&lt;br/&gt;</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="52"/>
       <source>Check our &lt;a href=&apos;https://github.com/rizinorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</source>
-      <translation type="unfinished">Check our &lt;a href=&apos;https://github.com/rizinorg/cutter/graphs/contributors&apos;&gt;contributors page&lt;/a&gt; for the full list of contributors.</translation>
+      <translation>&lt;a href=&apos;https://github.com/rizinorg/cutter/graphs/contributors&apos;&gt;Osallistujasivullamme&lt;/a&gt; on kokonaislista projektiin osallistuneista.</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="76"/>
       <source>Rizin version information</source>
-      <translation type="unfinished">Rizin version information</translation>
+      <translation>Rizinin versiotiedot</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="103"/>
       <source>Checking for updates...</source>
-      <translation type="unfinished">Checking for updates...</translation>
+      <translation>Tarkistetaan päivityksiä...</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="109"/>
       <source>Error!</source>
-      <translation type="unfinished">Error!</translation>
+      <translation>Virhe!</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="112"/>
       <source>Version control</source>
-      <translation type="unfinished">Version control</translation>
+      <translation>Versionhallinta</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="113"/>
       <source>Cutter is up to date!</source>
-      <translation type="unfinished">Cutter is up to date!</translation>
+      <translation>Cutter on ajan tasalla!</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="154"/>
       <source>Based on Qt %1 (%2, %3 bit)</source>
-      <translation type="unfinished">Based on Qt %1 (%2, %3 bit)</translation>
+      <translation>Perustuu Qt:n %1 versioon (%2, %3-bittinen)</translation>
     </message>
   </context>
   <context>
