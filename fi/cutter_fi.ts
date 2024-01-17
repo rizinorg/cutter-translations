@@ -1048,32 +1048,32 @@
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="171"/>
       <source>Bin number in NBINS or fastbinsY array</source>
-      <translation type="unfinished">Bin number in NBINS or fastbinsY array</translation>
+      <translation>Korinumero NBINS- tai fastbinsY-taulukossa</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="173"/>
       <source>Pointer to first chunk of the bin</source>
-      <translation type="unfinished">Pointer to first chunk of the bin</translation>
+      <translation>Osoitin korin ensimmäiseen lohkoon</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="175"/>
       <source>Pointer to last chunk of the bin</source>
-      <translation type="unfinished">Pointer to last chunk of the bin</translation>
+      <translation>Osoitin korin viimeiseen lohkoon</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="177"/>
       <source>Type of bin</source>
-      <translation type="unfinished">Type of bin</translation>
+      <translation>Korityyppi</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="179"/>
       <source>Number of chunks in the bin</source>
-      <translation type="unfinished">Number of chunks in the bin</translation>
+      <translation>Korissa olevien lohkojen lukumäärä</translation>
     </message>
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="181"/>
       <source>Size of all chunks in the bin</source>
-      <translation type="unfinished">Size of all chunks in the bin</translation>
+      <translation>Kaikkien korissa olevien lohkojen koko</translation>
     </message>
   </context>
   <context>
@@ -1081,42 +1081,42 @@
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="64"/>
       <source>HW %1</source>
-      <translation type="unfinished">HW %1</translation>
+      <translation>Laitteisto %1</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="66"/>
       <source>SW</source>
-      <translation type="unfinished">SW</translation>
+      <translation>Ohjelmisto</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="101"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>Paikka</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="103"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>Nimi</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="105"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>Tyyppi</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="107"/>
       <source>Tracing</source>
-      <translation type="unfinished">Tracing</translation>
+      <translation>Jäljitys</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="109"/>
       <source>Enabled</source>
-      <translation type="unfinished">Enabled</translation>
+      <translation>Käytössä</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="111"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>Kommentti</translation>
     </message>
   </context>
   <context>
@@ -1124,28 +1124,28 @@
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="58"/>
       <source>Add new breakpoint</source>
-      <translation type="unfinished">Add new breakpoint</translation>
+      <translation>Lisää uusi keskeytyskohta</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="65"/>
       <location filename="../widgets/BreakpointWidget.cpp" line="196"/>
       <source>Delete breakpoint</source>
-      <translation type="unfinished">Delete breakpoint</translation>
+      <translation>Poista keskeytyskohta</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="72"/>
       <source>Delete all breakpoints</source>
-      <translation type="unfinished">Delete all breakpoints</translation>
+      <translation>Poista kaikki keskeytyskohdat</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="202"/>
       <source>Toggle breakpoint</source>
-      <translation type="unfinished">Toggle breakpoint</translation>
+      <translation>Lisää/poista keskeytyskohta</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.cpp" line="208"/>
       <source>Edit</source>
-      <translation type="unfinished">Edit</translation>
+      <translation>Muokkaa</translation>
     </message>
   </context>
   <context>
@@ -1153,97 +1153,97 @@
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="14"/>
       <source>Add/Edit breakpoint</source>
-      <translation type="unfinished">Add/Edit breakpoint</translation>
+      <translation>Lisää/muokkaa keskeytyskohtaa</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="22"/>
       <source>Position</source>
-      <translation type="unfinished">Position</translation>
+      <translation>Sijainti</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="59"/>
       <source>Condition</source>
-      <translation type="unfinished">Condition</translation>
+      <translation>Ehto</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="91"/>
       <source>?v $.rax-0x6  # break when rax is 6</source>
-      <translation type="unfinished">?v $.rax-0x6  # break when rax is 6</translation>
+      <translation>?v $.rax-0x6   # keskeytä, kun rax on 6</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="99"/>
       <source>Module</source>
-      <translation type="unfinished">Module</translation>
+      <translation>Moduuli</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="126"/>
       <source>Type/Options</source>
-      <translation type="unfinished">Type/Options</translation>
+      <translation>Tyyppi/asetukset</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="132"/>
       <source>Enabled</source>
-      <translation type="unfinished">Enabled</translation>
+      <translation>Käytössä</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="142"/>
       <source>Software</source>
-      <translation type="unfinished">Software</translation>
+      <translation>Ohjelmisto</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="152"/>
       <source>Hardware</source>
-      <translation type="unfinished">Hardware</translation>
+      <translation>Laitteisto</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="180"/>
       <source>Read</source>
-      <translation type="unfinished">Read</translation>
+      <translation>Luku</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="187"/>
       <source>Write</source>
-      <translation type="unfinished">Write</translation>
+      <translation>Kirjoitus</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="194"/>
       <source>Execute</source>
-      <translation type="unfinished">Execute</translation>
+      <translation>Suoritus</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="206"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>Koko</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="217"/>
       <source>1</source>
-      <translation type="unfinished">1</translation>
+      <translation>1</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="222"/>
       <source>2</source>
-      <translation type="unfinished">2</translation>
+      <translation>2</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="227"/>
       <source>4</source>
-      <translation type="unfinished">4</translation>
+      <translation>4</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="232"/>
       <source>8</source>
-      <translation type="unfinished">8</translation>
+      <translation>8</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="261"/>
       <source>Action</source>
-      <translation type="unfinished">Action</translation>
+      <translation>Toiminto</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="267"/>
       <source>Trace</source>
-      <translation type="unfinished">Trace</translation>
+      <translation>Jäljitys</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="276"/>
@@ -1268,7 +1268,7 @@
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="32"/>
       <source>Address or expression calculated when creating breakpoint</source>
-      <translation type="unfinished">Address or expression calculated when creating breakpoint</translation>
+      <translation>Osoite tai lauseke, joka lasketaan keskeytyskohtaa luotaessa</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.cpp" line="34"/>
@@ -1307,7 +1307,7 @@
     <message>
       <location filename="../widgets/CallGraph.cpp" line="30"/>
       <source>GlobalCallgraph</source>
-      <translation type="unfinished">GlobalCallgraph</translation>
+      <translation>Globaali kutsukaavio</translation>
     </message>
   </context>
   <context>
@@ -1347,12 +1347,12 @@
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="621"/>
       <source>Binary Info (Fixed)</source>
-      <translation type="unfinished">Binary Info (Fixed)</translation>
+      <translation>Binääritiedot (korjattu)</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="622"/>
       <source>Analysis (Editable)</source>
-      <translation type="unfinished">Analysis (Editable)</translation>
+      <translation>Analyysi (muokattavissa)</translation>
     </message>
     <message>
       <location filename="../widgets/ClassesWidget.cpp" line="599"/>
@@ -1517,7 +1517,7 @@
     <message>
       <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="159"/>
       <source>Theme Editor - &lt;%1&gt;</source>
-      <translation type="unfinished">Theme Editor - &lt;%1&gt;</translation>
+      <translation>Teemamuokkain - &lt;%1&gt;</translation>
     </message>
   </context>
   <context>
@@ -1525,63 +1525,63 @@
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="45"/>
       <source>Standard themes not found</source>
-      <translation type="unfinished">Standard themes not found</translation>
+      <translation>Vakioteemoja ei löydy</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="46"/>
       <source>The Rizin standard themes could not be found in &apos;%1&apos;. Most likely, Rizin is not properly installed.</source>
-      <translation type="unfinished">The Rizin standard themes could not be found in &apos;%1&apos;. Most likely, Rizin is not properly installed.</translation>
+      <translation>Rizinin vakioteemoja ei löytynyt kohteesta &apos;%1&apos;. Rizinin asennus voi olla virheellinen.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="75"/>
       <location filename="../common/ColorThemeWorker.cpp" line="169"/>
       <source>Theme &lt;b&gt;%1&lt;/b&gt; does not exist.</source>
-      <translation type="unfinished">Theme &lt;b&gt;%1&lt;/b&gt; does not exist.</translation>
+      <translation>Teemaa &lt;b&gt;%1&lt;/b&gt; ei ole olemassa.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="85"/>
       <source>The file &lt;b&gt;%1&lt;/b&gt; cannot be opened.</source>
-      <translation type="unfinished">The file &lt;b&gt;%1&lt;/b&gt; cannot be opened.</translation>
+      <translation>Tiedoston &lt;b&gt;%1&lt;/b&gt; avaaminen ei onnistu.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="166"/>
       <source>You can not delete standard Rizin color themes.</source>
-      <translation type="unfinished">You can not delete standard Rizin color themes.</translation>
+      <translation>Rizinin vakioväriteemoja ei voi poistaa.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="174"/>
       <source>You have no permission to write to &lt;b&gt;%1&lt;/b&gt;</source>
-      <translation type="unfinished">You have no permission to write to &lt;b&gt;%1&lt;/b&gt;</translation>
+      <translation>Kohteeseen &lt;b&gt;%1&lt;/b&gt; ei ole kirjoitusoikeutta</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="177"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; can not be opened.</source>
-      <translation type="unfinished">File &lt;b&gt;%1&lt;/b&gt; can not be opened.</translation>
+      <translation>Tiedoston &lt;b&gt;%1&lt;/b&gt; avaaminen ei onnistu.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="180"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; can not be removed.</source>
-      <translation type="unfinished">File &lt;b&gt;%1&lt;/b&gt; can not be removed.</translation>
+      <translation>Tiedoston &lt;b&gt;%1&lt;/b&gt; poisto ei onnistu.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="189"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; does not exist.</source>
-      <translation type="unfinished">File &lt;b&gt;%1&lt;/b&gt; does not exist.</translation>
+      <translation>Tiedostoa &lt;b&gt;%1&lt;/b&gt; ei ole olemassa.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="195"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; could not be opened. Please make sure you have access to it and try again.</source>
-      <translation type="unfinished">File &lt;b&gt;%1&lt;/b&gt; could not be opened. Please make sure you have access to it and try again.</translation>
+      <translation>Tiedoston &lt;b&gt;%1&lt;/b&gt; avaaminen ei onnistu. Varmista, että käyttöoikeudet ovat kunnossa, ja yritä uudelleen.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="199"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; is not a Cutter color theme</source>
-      <translation type="unfinished">File &lt;b&gt;%1&lt;/b&gt; is not a Cutter color theme</translation>
+      <translation>Tiedosto &lt;b&gt;%1&lt;/b&gt; ei ole Cutter-väriteema</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="204"/>
       <source>A color theme named &lt;b&gt;%1&lt;/b&gt; already exists.</source>
-      <translation type="unfinished">A color theme named &lt;b&gt;%1&lt;/b&gt; already exists.</translation>
+      <translation>Väriteema nimeltä &lt;b&gt;%1&lt;/b&gt; on jo olemassa.</translation>
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="210"/>
