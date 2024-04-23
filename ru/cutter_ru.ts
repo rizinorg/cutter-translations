@@ -2865,7 +2865,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="103"/>
       <source>Undefine function</source>
-      <translation>Неопределенная функция</translation>
+      <translation>Отменить определение функции</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="107"/>
