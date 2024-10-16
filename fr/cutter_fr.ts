@@ -5930,7 +5930,7 @@ Enregistrez votre projet avant de le fermer!</translation>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="296"/>
       <source>Don&apos;t open any file</source>
-      <translation>Don&apos;t ouvre n&apos;importe quel fichier</translation>
+      <translation>Ne pas ouvrir n&apos;importe quel fichi&apos;er</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="303"/>
