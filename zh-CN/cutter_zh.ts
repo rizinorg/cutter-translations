@@ -5256,7 +5256,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="355"/>
       <source>Undo Seek</source>
-      <translation>撤消</translation>
+      <translation>后退</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="358"/>
@@ -5266,7 +5266,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="367"/>
       <source>Redo Seek</source>
-      <translation>恢复</translation>
+      <translation>前进</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="378"/>
