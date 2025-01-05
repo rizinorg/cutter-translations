@@ -213,7 +213,7 @@
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="133"/>
       <source>Analyze jump tables in switch statements (analysis.jmp.tbl)</source>
-      <translation type="unfinished">Analyze jump tables in switch statements (analysis.jmp.tbl)</translation>
+      <translation>Analizuj tabele skoków w instrukcjach zmian</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="161"/>
@@ -474,7 +474,7 @@
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="22"/>
       <source>Top</source>
-      <translation type="unfinished">Top</translation>
+      <translation/>
     </message>
     <message>
       <location filename="../dialogs/ArenaInfoDialog.ui" line="29"/>
