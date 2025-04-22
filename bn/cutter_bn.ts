@@ -94,27 +94,27 @@
       <translation>Rizin সংস্করণের তথ্য</translation>
     </message>
     <message>
-      <location filename="../dialogs/AboutDialog.cpp" line="103"/>
+      <location filename="../dialogs/AboutDialog.cpp" line="105"/>
       <source>Checking for updates...</source>
       <translation>হালনাগাদ পরীক্ষা করা হচ্ছে...</translation>
     </message>
     <message>
-      <location filename="../dialogs/AboutDialog.cpp" line="109"/>
+      <location filename="../dialogs/AboutDialog.cpp" line="111"/>
       <source>Error!</source>
       <translation>ত্রুটি!</translation>
     </message>
     <message>
-      <location filename="../dialogs/AboutDialog.cpp" line="112"/>
+      <location filename="../dialogs/AboutDialog.cpp" line="114"/>
       <source>Version control</source>
       <translation>সংস্করণ নিয়ন্ত্রণ</translation>
     </message>
     <message>
-      <location filename="../dialogs/AboutDialog.cpp" line="113"/>
+      <location filename="../dialogs/AboutDialog.cpp" line="115"/>
       <source>Cutter is up to date!</source>
       <translation>Cutter হালনাগাদ রয়েছে!</translation>
     </message>
     <message>
-      <location filename="../dialogs/AboutDialog.cpp" line="154"/>
+      <location filename="../dialogs/AboutDialog.cpp" line="156"/>
       <source>Based on Qt %1 (%2, %3 bit)</source>
       <translation>Qt %1 (%2, %3 bit)-এর ভিত্তিতে</translation>
     </message>
@@ -1425,9 +1425,13 @@
   <context>
     <name>ColorPicker</name>
     <message>
-      <location filename="../widgets/ColorPicker.ui" line="14"/>
       <source>Form</source>
       <translation>গঠন</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorPicker.ui" line="14"/>
+      <source>Color Picker</source>
+      <translation type="unfinished">Color Picker</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="87"/>
@@ -1534,7 +1538,7 @@
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="75"/>
-      <location filename="../common/ColorThemeWorker.cpp" line="169"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="172"/>
       <source>Theme &lt;b&gt;%1&lt;/b&gt; does not exist.</source>
       <translation>থিম &lt;b&gt;%1&lt;/b&gt; এর অস্তিত্ব নেই।</translation>
     </message>
@@ -1544,62 +1548,62 @@
       <translation>ফাইল &lt;b&gt;%1&lt;/b&gt; খোলা যাবে না।</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="166"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="169"/>
       <source>You can not delete standard Rizin color themes.</source>
       <translation>আপনি স্ট্যান্ডার্ড Rizin রঙের থিমগুলো মুছতে পারবেন না।</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="174"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="177"/>
       <source>You have no permission to write to &lt;b&gt;%1&lt;/b&gt;</source>
       <translation>&lt;b&gt;%1&lt;/b&gt; লেখার কোনো অনুমতি আপনার নেই</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="177"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="180"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; can not be opened.</source>
       <translation>ফাইল &lt;b&gt;%1&lt;/b&gt; খোলা যাবে না।</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="180"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="183"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; can not be removed.</source>
       <translation>ফাইল &lt;b&gt;%1&lt;/b&gt; সরিয়ে নেওয়া যাবে না।</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="189"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="192"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; does not exist.</source>
       <translation>ফাইল &lt;b&gt;%1&lt;/b&gt; এর অস্তিত্ব নেই।</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="195"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="198"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; could not be opened. Please make sure you have access to it and try again.</source>
       <translation>ফাইল &lt;b&gt;%1&lt;/b&gt; খোলা যাবে না। অনুগ্রহ করে নিশ্চিত করুন যে আপনার এটিতে অ্যাক্সেস আছে এবং আবার চেষ্টা করুন৷</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="199"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="202"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; is not a Cutter color theme</source>
       <translation>ফাইল &lt;b&gt;%1&lt;/b&gt; Cutter রঙ-এর থিম নয়</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="204"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="207"/>
       <source>A color theme named &lt;b&gt;%1&lt;/b&gt; already exists.</source>
       <translation>&lt;b&gt;%1&lt;/b&gt; নামের একটি রঙিন থিম আগে থেকেই আছে।</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="210"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="213"/>
       <source>Error occurred during importing. Please make sure you have an access to the directory &lt;b&gt;%1&lt;/b&gt; and try again.</source>
       <translation>নিয়ে আসার সময় ত্রুটি দেখা দিয়েছে৷ অনুগ্রহ করে নিশ্চিত করুন যে ডিরেক্টরি &lt;b&gt;%1&lt;/b&gt;-এ আপনার অ্যাক্সেস আছে  এবং আবার চেষ্টা করুন।</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="220"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="223"/>
       <source>A color theme named &lt;b&gt;&quot;%1&quot;&lt;/b&gt; already exists.</source>
       <translation>&lt;b&gt;&quot;%1&quot;&lt;/b&gt; নামের একটি রঙিন থিম আগে থেকেই আছে।</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="224"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="227"/>
       <source>You can not rename standard Rizin themes.</source>
       <translation>আপনি স্ট্যান্ডার্ড Rizin রঙের থিমগুলোর পুনঃনামকরণ করতে পারবেন না।</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="230"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="233"/>
       <source>Something went wrong during renaming. Please make sure you have access to the directory &lt;b&gt;&quot;%1&quot;&lt;/b&gt;.</source>
       <translation>নাম পরিবর্তন করার সময় কিছু একটা ভুল হয়েছে। অনুগ্রহ করে নিশ্চিত করুন যে &lt;b&gt;&quot;%1&quot;&lt;/b&gt; ডিরেক্টরিতে আপনার  অ্যাক্সেস আছে।</translation>
     </message>
@@ -1625,7 +1629,7 @@
   <context>
     <name>CommandTask</name>
     <message>
-      <location filename="../common/CommandTask.h" line="23"/>
+      <location filename="../common/CommandTask.h" line="22"/>
       <source>Running Command</source>
       <translation>রানিং কমান্ড</translation>
     </message>
@@ -1701,12 +1705,12 @@
       <translation>!!! সেটিংস লেখার যোগ্য নয়! নিশ্চিত করুন যে &quot;%1&quot;-এ আপনার লেখার অ্যাক্সেস আছে</translation>
     </message>
     <message>
-      <location filename="../common/Configuration.cpp" line="146"/>
+      <location filename="../common/Configuration.cpp" line="150"/>
       <source>Critical Error!</source>
       <translation>জটিল ত্রুটি!</translation>
     </message>
     <message>
-      <location filename="../common/Configuration.cpp" line="147"/>
+      <location filename="../common/Configuration.cpp" line="151"/>
       <source>Settings are not writable! Make sure you have a write access to &quot;%1&quot;.</source>
       <translation>সেটিংস লেখার যোগ্য নয়! নিশ্চিত করুন যে &quot;%1&quot;-এ আপনার লেখার অ্যাক্সেস আছে</translation>
     </message>
@@ -1744,12 +1748,12 @@
       <translation>...</translation>
     </message>
     <message>
-      <location filename="../widgets/ConsoleWidget.cpp" line="76"/>
+      <location filename="../widgets/ConsoleWidget.cpp" line="75"/>
       <source>Clear Output</source>
       <translation>আউটপুট মুছে দিন</translation>
     </message>
     <message>
-      <location filename="../widgets/ConsoleWidget.cpp" line="85"/>
+      <location filename="../widgets/ConsoleWidget.cpp" line="84"/>
       <source>Wrap Lines</source>
       <translation>র‍্যাপ লাইন</translation>
     </message>
@@ -1757,117 +1761,125 @@
   <context>
     <name>CutterCore</name>
     <message>
-      <location filename="../core/Cutter.cpp" line="274"/>
-      <location filename="../core/Cutter.cpp" line="287"/>
+      <location filename="../core/Cutter.cpp" line="280"/>
+      <location filename="../core/Cutter.cpp" line="294"/>
       <source>Loading initialization file from </source>
       <translation>যেখান থেকে থেকে ইনিশিয়ালাইজিং ফাইল লোড হচ্ছে: </translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="1057"/>
-      <location filename="../core/Cutter.cpp" line="1066"/>
-      <location filename="../core/Cutter.cpp" line="1071"/>
-      <location filename="../core/Cutter.cpp" line="1081"/>
-      <location filename="../core/Cutter.cpp" line="1085"/>
+      <location filename="../core/Cutter.cpp" line="1030"/>
+      <location filename="../core/Cutter.cpp" line="1039"/>
+      <location filename="../core/Cutter.cpp" line="1044"/>
+      <location filename="../core/Cutter.cpp" line="1054"/>
+      <location filename="../core/Cutter.cpp" line="1058"/>
       <source>Signatures</source>
       <translation>স্বাক্ষর</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="1058"/>
+      <location filename="../core/Cutter.cpp" line="1031"/>
       <source>Cannot apply signature file because the requested arch is not supported by .sig files</source>
       <translation>স্বাক্ষর ফাইল প্রয়োগ করা যাবে না কারণ অনুরোধকৃত আর্চ .sig ফাইল দ্বারা সমর্থিত নয়</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="1067"/>
+      <location filename="../core/Cutter.cpp" line="1040"/>
       <source>Found %1 matching signatures!</source>
       <translation>%1 মিল যুক্ত স্বাক্ষর পাওয়া গেছে!</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="1072"/>
+      <location filename="../core/Cutter.cpp" line="1045"/>
       <source>Failed to apply signature file!
 Please check the console for more details.</source>
       <translation>স্বাক্ষর ফাইল প্রয়োগ করা যায়নি!
 আরো বিস্তারিত তথ্যের জন্য কনসোল পরীক্ষা করুন।</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="1082"/>
+      <location filename="../core/Cutter.cpp" line="1055"/>
       <source>Cannot create signature file (check the console for more details).</source>
       <translation>স্বাক্ষর ফাইল তৈরি করা যাবে না (আরো বিস্তারিত তথ্যের জন্য কনসোল পরীক্ষা করুন)।</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="1086"/>
+      <location filename="../core/Cutter.cpp" line="1059"/>
       <source>Written %1 signatures to %2.</source>
       <translation>লিখিত %1 স্বাক্ষর সম্বলিত %2।</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="1987"/>
+      <location filename="../core/Cutter.cpp" line="1964"/>
       <source>Starting native debug...</source>
       <translation>নেটিভ ডিবাগ শুরু হচ্ছে...</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2035"/>
+      <location filename="../core/Cutter.cpp" line="2012"/>
       <source>Starting emulation...</source>
       <translation>এমিউলেশন শুরু হচ্ছে...</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2098"/>
+      <location filename="../core/Cutter.cpp" line="2075"/>
       <source>Connecting to: </source>
       <translation>যাতে সংযোগ করা হচ্ছে: </translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2150"/>
+      <location filename="../core/Cutter.cpp" line="2127"/>
       <source>Attaching to process (</source>
       <translation>প্রক্রিয়ায় সংযুক্ত করা হচ্ছে (</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2607"/>
+      <location filename="../core/Cutter.cpp" line="2574"/>
       <source>Creating debug tracepoint...</source>
       <translation>ডিবাগ ট্রেসপয়েন্ট তৈরি করা হচ্ছে...</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2652"/>
+      <location filename="../core/Cutter.cpp" line="2619"/>
       <source>Stopping debug session...</source>
       <translation>ডিবাগ সেশন বন্ধ করা হচ্ছে...</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2687"/>
+      <location filename="../core/Cutter.cpp" line="2654"/>
       <source>Breakpoint error</source>
       <translation>ব্রেকপয়েন্ট ত্রুটি</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2687"/>
+      <location filename="../core/Cutter.cpp" line="2654"/>
       <source>Failed to create breakpoint</source>
       <translation>ব্রেকপয়েন্ট তৈরি করা যায়নি</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="3627"/>
+      <location filename="../core/Cutter.cpp" line="3612"/>
       <source>Unknown (%1)</source>
       <translation>অজানা (%1)</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="4059"/>
-      <location filename="../core/Cutter.cpp" line="4088"/>
+      <location filename="../core/Cutter.cpp" line="3936"/>
+      <location filename="../core/Cutter.cpp" line="4150"/>
+      <source>Error invalid search kind
+</source>
+      <translation type="unfinished">Error invalid search kind
+</translation>
+    </message>
+    <message>
+      <location filename="../core/Cutter.cpp" line="4330"/>
+      <location filename="../core/Cutter.cpp" line="4359"/>
       <source>Error parsing type: &quot;%1&quot; message: </source>
       <translation>পার্সিং ধরনের ত্রুটি: &quot;%1&quot; বার্তা: </translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="4065"/>
+      <location filename="../core/Cutter.cpp" line="4336"/>
       <source>Error creating global variable: &quot;%1&quot;</source>
       <translation>গ্লোবাল ভেরিয়েবল তৈরিতে ত্রুটি: &quot;%1&quot;</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="4658"/>
-      <location filename="../core/Cutter.cpp" line="4709"/>
+      <location filename="../core/Cutter.cpp" line="4928"/>
+      <location filename="../core/Cutter.cpp" line="4979"/>
       <source>Cannot get global graph</source>
       <translation>গ্লোবাল গ্রাফ পাওয়া যাচ্ছে না</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="4660"/>
-      <location filename="../core/Cutter.cpp" line="4711"/>
+      <location filename="../core/Cutter.cpp" line="4930"/>
+      <location filename="../core/Cutter.cpp" line="4981"/>
       <source>Cannot get graph at </source>
       <translation>এখানে গ্রাফ পাওয়া যাচ্ছে না:  </translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="4691"/>
+      <location filename="../core/Cutter.cpp" line="4961"/>
       <source>Failed to generate graph</source>
       <translation>গ্রাফ তৈরি করা যায়নি</translation>
     </message>
@@ -2018,7 +2030,7 @@ Please check the console for more details.</source>
   <context>
     <name>CutterSeekable</name>
     <message>
-      <location filename="../common/CutterSeekable.cpp" line="73"/>
+      <location filename="../common/CutterSeekable.cpp" line="72"/>
       <source>More than one (%1) references here. Weird behaviour expected.</source>
       <translation>এখানে একাধিক (%1) রেফারেন্স উল্লেখ রয়েছে। অস্বাভাবিক আচরণ প্রত্যাশিত।</translation>
     </message>
@@ -2210,7 +2222,7 @@ Please check the console for more details.</source>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="993"/>
-      <location filename="../widgets/Dashboard.cpp" line="176"/>
+      <location filename="../widgets/Dashboard.cpp" line="177"/>
       <source>Certificates</source>
       <translation>সনদ</translation>
     </message>
@@ -2280,22 +2292,22 @@ Please check the console for more details.</source>
       <translation>কভারেজের শতাংশ:</translation>
     </message>
     <message>
-      <location filename="../widgets/Dashboard.cpp" line="162"/>
+      <location filename="../widgets/Dashboard.cpp" line="163"/>
       <source>Key</source>
       <translation>চাবি</translation>
     </message>
     <message>
-      <location filename="../widgets/Dashboard.cpp" line="162"/>
+      <location filename="../widgets/Dashboard.cpp" line="163"/>
       <source>Value</source>
       <translation>মান</translation>
     </message>
     <message>
-      <location filename="../widgets/Dashboard.cpp" line="163"/>
+      <location filename="../widgets/Dashboard.cpp" line="164"/>
       <source>root</source>
       <translation>মূল</translation>
     </message>
     <message>
-      <location filename="../widgets/Dashboard.cpp" line="204"/>
+      <location filename="../widgets/Dashboard.cpp" line="205"/>
       <source>N/A</source>
       <translation>প্রযোজ্য নয়</translation>
     </message>
@@ -2734,7 +2746,7 @@ Please check the console for more details.</source>
     <name>DecompilerWidget</name>
     <message>
       <location filename="../widgets/DecompilerWidget.ui" line="14"/>
-      <location filename="../widgets/DecompilerWidget.cpp" line="483"/>
+      <location filename="../widgets/DecompilerWidget.cpp" line="485"/>
       <source>Decompiler</source>
       <translation>ডিকম্পাইলার</translation>
     </message>
@@ -2805,84 +2817,89 @@ Please check the console for more details.</source>
   <context>
     <name>DisassemblyContextMenu</name>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="72"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="74"/>
       <source>Copy</source>
       <translation>কপি করুন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="75"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="77"/>
       <source>Copy address</source>
       <translation>ঠিকানা কপি করুন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="79"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="85"/>
       <source>Show in</source>
       <translation>...সময়ের মধ্যে দেখান</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="84"/>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="570"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="90"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="576"/>
       <source>Add Comment</source>
       <translation>মন্তব্য যোগ করুন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="171"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="177"/>
       <source>Add at...</source>
       <translation>...-এ যোগ করুন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="173"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="179"/>
       <source>Rename or add flag</source>
       <translation>পুনঃনামকরণ করুন বা ফ্ল্যাগ যোগ করুন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="88"/>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="911"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="94"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="928"/>
       <source>Re-type Local Variables</source>
       <translation>স্থানীয় ভেরিয়েবল পুনরায় টাইপ করুন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="92"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="81"/>
+      <source>Copy instruction bytes</source>
+      <translation type="unfinished">Copy instruction bytes</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="98"/>
       <source>Edit function</source>
       <translation>ফাংশন সম্পাদনা করুন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="96"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="102"/>
       <source>Delete comment</source>
       <translation>মন্তব্য মুছে ফেলুন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="100"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="106"/>
       <source>Delete flag</source>
       <translation>ফ্ল্যাগ মুছে ফেলুন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="103"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="109"/>
       <source>Undefine function</source>
       <translation>অনির্ধারিত ফাংশন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="107"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="113"/>
       <source>Define function here</source>
       <translation>এখানে ফাংশন সংজ্ঞায়িত করুন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="119"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="125"/>
       <source>Structure offset</source>
       <translation>কাঠামো অফসেট</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="127"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="133"/>
       <source>Show X-Refs</source>
       <translation>X-রেফারেন্স দেখান</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="131"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="137"/>
       <source>X-Refs for local variables</source>
       <translation>স্থানীয় ভেরিয়েবলের জন্য X-রেফারেন্স</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="135"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="141"/>
       <source>Show Options</source>
       <translation>বিকল্প দেখান</translation>
     </message>
@@ -2891,264 +2908,264 @@ Please check the console for more details.</source>
       <translation>...-এ ইমেডিয়েট বেস সেট করুন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="177"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="183"/>
       <source>Modify or add global variable</source>
       <translation>বৈশ্বিক ভেরিয়েবল পরিবর্তন বা  যোগ করুন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="184"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="190"/>
       <source>Set base of immediate value to..</source>
       <translation>..-এ ইমেডিয়েট মানের বেস সেট করুন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="186"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="192"/>
       <source>Binary</source>
       <translation>বাইনারি</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="190"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="196"/>
       <source>Octal</source>
       <translation>অক্টাল</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="194"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="200"/>
       <source>Decimal</source>
       <translation>ডেসিম্যাল</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="198"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="204"/>
       <source>Hexadecimal</source>
       <translation>হেক্সাডেসিম্যাল</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="202"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="208"/>
       <source>Network Port</source>
       <translation>নেটওয়ার্ক পোর্ট</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="206"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="212"/>
       <source>IP Address</source>
       <translation>আইপি ঠিকানা</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="210"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="216"/>
       <source>Syscall</source>
       <translation>Syscall</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="214"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="220"/>
       <source>String</source>
       <translation>স্ট্রিং:</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="221"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="227"/>
       <source>Set current bits to...</source>
       <translation>...-এ বর্তমান bits সেট করুন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="238"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="244"/>
       <source>Set as...</source>
       <translation>... হিসাবে সেট করুন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="240"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="246"/>
       <source>Code</source>
       <translation>কোড</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="244"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="250"/>
       <source>String...</source>
       <translation>স্ট্রিং...</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="246"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="252"/>
       <source>Auto-detect</source>
       <translation>স্বয়ংক্রিয়-শনাক্তকরণ</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="248"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="254"/>
       <source>Remove</source>
       <translation>সরিয়ে নিন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="250"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="256"/>
       <source>Advanced</source>
       <translation>অগ্রসর</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="262"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="268"/>
       <source>Data...</source>
       <translation>ডেটা...</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="264"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="270"/>
       <source>Byte</source>
       <translation>বাইট</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="268"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="274"/>
       <source>Word</source>
       <translation>শব্দ</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="272"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="278"/>
       <source>Dword</source>
       <translation>Dword</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="276"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="282"/>
       <source>Qword</source>
       <translation>Qword</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="291"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="297"/>
       <source>Edit</source>
       <translation>সম্পাদনা করুন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="293"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="299"/>
       <source>Instruction</source>
       <translation>নির্দেশনা</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="297"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="303"/>
       <source>Nop Instruction</source>
       <translation>Nop নির্দেশনা</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="301"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="307"/>
       <source>Bytes</source>
       <translation>বাইট</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="304"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="310"/>
       <source>Reverse Jump</source>
       <translation>রিভার্স জাম্প</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="310"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="316"/>
       <source>Breakpoint</source>
       <translation>ব্রেকপয়েন্ট</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="312"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="318"/>
       <source>Add/remove breakpoint</source>
       <translation>ব্রেকপয়েন্ট যোগ করুন/সরিয়ে নিন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="315"/>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="608"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="321"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="614"/>
       <source>Advanced breakpoint</source>
       <translation>অ্যাডভান্সড ব্রেকপয়েন্ট </translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="322"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="328"/>
       <source>Debug</source>
       <translation>ডিবাগ</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="324"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="330"/>
       <source>Continue until line</source>
       <translation>লাইন পর্যন্ত চালিয়ে যান</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="424"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="430"/>
       <source>Add flag at %1 (used here)</source>
       <translation>%1-এ ফ্ল্যাগ যোগ করুন (এখানে ব্যবহৃত)</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="429"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="435"/>
       <source>Rename &quot;%1&quot;</source>
       <translation>&quot;%1&quot;-এর পুনঃনামকরণ করুন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="434"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="440"/>
       <source>Rename local &quot;%1&quot;</source>
       <translation>স্থানীয় &quot;%1&quot;-এর পুনঃনামকরণ করুন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="439"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="445"/>
       <source>Rename flag &quot;%1&quot; (used here)</source>
       <translation> &quot;%1&quot; ফ্ল্যাগ-এর পুনঃনামকরণ করুন (এখানে ব্যবহৃত)</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="497"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="503"/>
       <source>Add or change global variable at %1 (used here)</source>
       <translation>%1-এ গ্লোবাল ভেরিয়েবল যোগ বা পরিবর্তন করুন (এখানে ব্যবহৃত)</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="573"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="579"/>
       <source>Edit Comment</source>
       <translation>মন্তব্য সম্পাদনা করুন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="589"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="595"/>
       <source>Edit function &quot;%1&quot;</source>
       <translation>&quot;%1&quot; ফাংশন সম্পাদনা  করুন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="606"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="612"/>
       <source>Remove breakpoint</source>
       <translation>ব্রেকপয়েন্ট সরিয়ে নিন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="606"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="612"/>
       <source>Add breakpoint</source>
       <translation>ব্রেকপয়েন্ট যোগ করুন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="607"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="613"/>
       <source>Edit breakpoint</source>
       <translation>ব্রেকপয়েন্ট সম্পাদনা করুন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="622"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="628"/>
       <source>X-Refs for %1</source>
       <translation>%1-এর জন্য X-রেফারেন্স</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="722"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="733"/>
       <source>Edit Instruction at %1</source>
       <translation>%1-এ নির্দেশনা সম্পাদনা করুন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="772"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="783"/>
       <source>Edit Bytes at %1</source>
       <translation>%1-এ বাইট সম্পাদনা করুন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="843"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="860"/>
       <source>New function at %1</source>
       <translation>%1-এ নতুন ফাংশন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="844"/>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="865"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="861"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="882"/>
       <source>Function name:</source>
       <translation>ফাংশনের নাম:</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="864"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="881"/>
       <source>Rename function %2</source>
       <translation>%2 ফাংশনের পুনঃনামকরণ করুন</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="912"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="929"/>
       <source>You must be in a function to define variable types.</source>
       <translation>ভেরিয়েবলের ধরন সংজ্ঞায়িত করার জন্য আপনাকে অবশ্যই কোনো ফাংশনে থাকতে হবে।</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="974"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="991"/>
       <source>Wrong address</source>
       <translation>ভুল ঠিকানা</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="975"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="992"/>
       <source>Can&apos;t edit string at this address</source>
       <translation>এই ঠিকানায় স্ট্রিং সম্পাদনা করা যাবে না৷</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="1047"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="1064"/>
       <source>Edit function %1</source>
       <translation>%1 ফাংশন সম্পাদনা  করুন</translation>
     </message>
@@ -3156,7 +3173,7 @@ Please check the console for more details.</source>
   <context>
     <name>DisassemblyWidget</name>
     <message>
-      <location filename="../widgets/DisassemblyWidget.cpp" line="674"/>
+      <location filename="../widgets/DisassemblyWidget.cpp" line="677"/>
       <source>Disassembly</source>
       <translation>বিচ্ছিন্নকরণ</translation>
     </message>
@@ -3612,6 +3629,10 @@ Please check the console for more details.</source>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="313"/>
+      <source>Import</source>
+      <translation type="unfinished">Import</translation>
+    </message>
+    <message>
       <source>Imp.</source>
       <translation>গুরুত্বপূর্ণ</translation>
     </message>
@@ -3985,24 +4006,24 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/GlobalsWidget.ui" line="76"/>
       <location filename="../widgets/GlobalsWidget.ui" line="79"/>
-      <location filename="../widgets/GlobalsWidget.cpp" line="206"/>
+      <location filename="../widgets/GlobalsWidget.cpp" line="191"/>
       <source>Edit Global Variable</source>
       <translation>গ্লোবাল ভেরিয়েবল সম্পাদনা করুন</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.ui" line="84"/>
       <location filename="../widgets/GlobalsWidget.ui" line="87"/>
-      <location filename="../widgets/GlobalsWidget.cpp" line="207"/>
+      <location filename="../widgets/GlobalsWidget.cpp" line="192"/>
       <source>Delete Global Variable</source>
       <translation>গ্লোবাল ভেরিয়েবল মুছে ফেলুন</translation>
     </message>
     <message>
-      <location filename="../widgets/GlobalsWidget.cpp" line="167"/>
+      <location filename="../widgets/GlobalsWidget.cpp" line="153"/>
       <source>Category</source>
       <translation>ক্যাটাগরি</translation>
     </message>
     <message>
-      <location filename="../widgets/GlobalsWidget.cpp" line="169"/>
+      <location filename="../widgets/GlobalsWidget.cpp" line="155"/>
       <source>Globals</source>
       <translation>গ্লোবাল ভেরিয়েবল</translation>
     </message>
@@ -4104,7 +4125,7 @@ Please check the console for more details.</source>
   <context>
     <name>GraphView</name>
     <message>
-      <location filename="../widgets/GraphView.cpp" line="441"/>
+      <location filename="../widgets/GraphView.cpp" line="440"/>
       <source>Cutter graph export</source>
       <translation>Cutter গ্রাফ প্রেরণ</translation>
     </message>
@@ -4170,100 +4191,100 @@ Please check the console for more details.</source>
   <context>
     <name>HexWidget</name>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="70"/>
+      <location filename="../widgets/HexWidget.cpp" line="71"/>
       <source>Hexadecimal</source>
       <translation>হেক্সাডেসিম্যাল</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="71"/>
+      <location filename="../widgets/HexWidget.cpp" line="72"/>
       <source>Octal</source>
       <translation>অক্টাল</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="72"/>
+      <location filename="../widgets/HexWidget.cpp" line="73"/>
       <source>Decimal</source>
       <translation>ডেসিম্যাল</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="73"/>
+      <location filename="../widgets/HexWidget.cpp" line="74"/>
       <source>Signed decimal</source>
       <translation>সাইনড ডেসিম্যাল</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="74"/>
+      <location filename="../widgets/HexWidget.cpp" line="75"/>
       <source>Float</source>
       <translation>ফ্লোট</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="88"/>
+      <location filename="../widgets/HexWidget.cpp" line="89"/>
       <source>Bytes per row</source>
       <translation>সারি প্রতি বাইট</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="98"/>
+      <location filename="../widgets/HexWidget.cpp" line="99"/>
       <source>Power of 2</source>
       <translation>2-এর পাওয়ার</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="105"/>
+      <location filename="../widgets/HexWidget.cpp" line="106"/>
       <source>Big Endian</source>
       <translation>বড় এন্ডিয়ান</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="110"/>
+      <location filename="../widgets/HexWidget.cpp" line="111"/>
       <source>Bytes as pairs</source>
       <translation>জোড়া হিসাবে বাইট</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="114"/>
+      <location filename="../widgets/HexWidget.cpp" line="115"/>
       <source>Copy</source>
       <translation>কপি করুন</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="120"/>
+      <location filename="../widgets/HexWidget.cpp" line="121"/>
       <source>Copy address</source>
       <translation>ঠিকানা কপি করুন</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="127"/>
-      <location filename="../widgets/HexWidget.cpp" line="1157"/>
+      <location filename="../widgets/HexWidget.cpp" line="128"/>
+      <location filename="../widgets/HexWidget.cpp" line="1158"/>
       <source>Add Comment</source>
       <translation>মন্তব্য যোগ করুন</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="134"/>
+      <location filename="../widgets/HexWidget.cpp" line="135"/>
       <source>Delete Comment</source>
       <translation>মন্তব্য মুছে ফেলুন</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="140"/>
+      <location filename="../widgets/HexWidget.cpp" line="141"/>
       <source>Select range</source>
       <translation>পরিসর নির্বাচন করুন</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="147"/>
-      <location filename="../widgets/HexWidget.cpp" line="1272"/>
+      <location filename="../widgets/HexWidget.cpp" line="148"/>
+      <location filename="../widgets/HexWidget.cpp" line="1273"/>
       <source>Write string</source>
       <translation>স্ট্রিং লিখুন</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="151"/>
+      <location filename="../widgets/HexWidget.cpp" line="152"/>
       <source>Write length and string</source>
       <translation>দৈর্ঘ্য এবং স্ট্রিং লিখুন</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="155"/>
-      <location filename="../widgets/HexWidget.cpp" line="1466"/>
+      <location filename="../widgets/HexWidget.cpp" line="156"/>
+      <location filename="../widgets/HexWidget.cpp" line="1467"/>
       <source>Write wide string</source>
       <translation>প্রশস্ত স্ট্রিং লিখুন</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="159"/>
+      <location filename="../widgets/HexWidget.cpp" line="160"/>
       <source>Write zero terminated string</source>
       <translation>শূন্য সমাপ্তির স্ট্রিং লিখুন</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="163"/>
+      <location filename="../widgets/HexWidget.cpp" line="164"/>
       <source>Write a decoded or encoded Base64 string</source>
       <translation>একটি ডিকোড বা এনকোডকৃত Base64 স্ট্রিং লিখুন</translation>
     </message>
@@ -4272,83 +4293,83 @@ Please check the console for more details.</source>
       <translation>ডি\এনকোডকৃত Base64 স্ট্রিং লিখুন</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="168"/>
-      <location filename="../widgets/HexWidget.cpp" line="1318"/>
+      <location filename="../widgets/HexWidget.cpp" line="169"/>
+      <location filename="../widgets/HexWidget.cpp" line="1319"/>
       <source>Write hex bytes</source>
       <translation>হেক্স বাইট লিখুন</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="172"/>
-      <location filename="../widgets/HexWidget.cpp" line="1354"/>
+      <location filename="../widgets/HexWidget.cpp" line="173"/>
+      <location filename="../widgets/HexWidget.cpp" line="1355"/>
       <source>Write zeros</source>
       <translation>শূন্য লিখুন</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="176"/>
-      <location filename="../widgets/HexWidget.cpp" line="1410"/>
+      <location filename="../widgets/HexWidget.cpp" line="177"/>
+      <location filename="../widgets/HexWidget.cpp" line="1411"/>
       <source>Write random bytes</source>
       <translation>এলোমেলো বাইট লিখুন</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="180"/>
+      <location filename="../widgets/HexWidget.cpp" line="181"/>
       <source>Duplicate from offset</source>
       <translation>অফসেট থেকে প্রতিলিপি করুন</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="184"/>
+      <location filename="../widgets/HexWidget.cpp" line="185"/>
       <source>Increment/Decrement</source>
       <translation>বৃদ্ধি/হ্রাস</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="188"/>
+      <location filename="../widgets/HexWidget.cpp" line="189"/>
       <source>Edit with keyboard</source>
       <translation>কিবোর্ড দিয়ে সম্পাদনা করুন</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1160"/>
+      <location filename="../widgets/HexWidget.cpp" line="1161"/>
       <source>Edit Comment</source>
       <translation>মন্তব্য সম্পাদনা করুন</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1168"/>
+      <location filename="../widgets/HexWidget.cpp" line="1169"/>
       <source>Item size:</source>
       <translation>আইটেমের আকার:</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1170"/>
+      <location filename="../widgets/HexWidget.cpp" line="1171"/>
       <source>Item format:</source>
       <translation>আইটেমের ফরম্যাট:</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1175"/>
+      <location filename="../widgets/HexWidget.cpp" line="1176"/>
       <source>Edit</source>
       <translation>সম্পাদনা করুন</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1272"/>
-      <location filename="../widgets/HexWidget.cpp" line="1448"/>
-      <location filename="../widgets/HexWidget.cpp" line="1466"/>
-      <location filename="../widgets/HexWidget.cpp" line="1484"/>
+      <location filename="../widgets/HexWidget.cpp" line="1273"/>
+      <location filename="../widgets/HexWidget.cpp" line="1449"/>
+      <location filename="../widgets/HexWidget.cpp" line="1467"/>
+      <location filename="../widgets/HexWidget.cpp" line="1485"/>
       <source>String:</source>
       <translation>স্ট্রিং:</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1318"/>
+      <location filename="../widgets/HexWidget.cpp" line="1319"/>
       <source>Hex byte string:</source>
       <translation>হেক্স বাইট স্ট্রিং:</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1354"/>
+      <location filename="../widgets/HexWidget.cpp" line="1355"/>
       <source>Number of zeros:</source>
       <translation>শূন্যের সংখ্যা:</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1381"/>
+      <location filename="../widgets/HexWidget.cpp" line="1382"/>
       <source>Error</source>
       <translation>ত্রুটি</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1382"/>
+      <location filename="../widgets/HexWidget.cpp" line="1383"/>
       <source>Error occured during decoding your input.
 Please, make sure, that it is a valid base64 string and try again.</source>
       <translation>আপনার ইনপুট ডিকোড করার সময় ত্রুটি দেখা দিয়েছে৷
@@ -4359,17 +4380,17 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <translation>এলোমেলোভাবে লিখুন</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1410"/>
+      <location filename="../widgets/HexWidget.cpp" line="1411"/>
       <source>Number of bytes:</source>
       <translation>বাইট সংখ্যা:</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1448"/>
+      <location filename="../widgets/HexWidget.cpp" line="1449"/>
       <source>Write Pascal string</source>
       <translation>প্যাসকেল স্ট্রিং লিখুন</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1484"/>
+      <location filename="../widgets/HexWidget.cpp" line="1485"/>
       <source>Write zero-terminated string</source>
       <translation>শূন্য সমাপ্তির স্ট্রিং লিখুন</translation>
     </message>
@@ -4668,7 +4689,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="167"/>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="413"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="414"/>
       <source>Analysis: Enabled</source>
       <translation>বিশ্লেষণ: সক্রিয় করা হয়েছে</translation>
     </message>
@@ -4704,7 +4725,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="364"/>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="399"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="400"/>
       <source>Advanced</source>
       <translation>অগ্রসর</translation>
     </message>
@@ -4930,58 +4951,58 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <translation>প্রতিটি ফাংশনের পরে বিশ্লেষণ চালিয়ে যান</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="393"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="394"/>
       <source>No analysis</source>
       <translation>কোনো বিশ্লেষণ নেই</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="395"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="396"/>
       <source>Auto-Analysis (aaa)</source>
       <translation>স্বয়ংক্রিয়-বিশ্লেষণ (aaa)</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="397"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="398"/>
       <source>Auto-Analysis Experimental (aaaa)</source>
       <translation>স্বয়ংক্রিয়-বিশ্লেষণ পরীক্ষামূলক (aaaa)</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="401"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="402"/>
       <source>Unknown</source>
       <translation>অজানা</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="407"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="408"/>
       <source>Level</source>
       <translation>লেভেল</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="410"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="411"/>
       <source>Analysis: Disabled</source>
       <translation>বিশ্লেষণ: নিষ্ক্রিয় করা হয়েছে</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="456"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="457"/>
       <source>Select PDB file</source>
       <translation>PDB ফাইল নির্বাচন করুন</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="457"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="458"/>
       <source>PDB file (*.pdb)</source>
       <translation>PDB ফাইল (*.pdb)</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="457"/>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="479"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="458"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="480"/>
       <source>All files (*)</source>
       <translation>সমস্ত ফাইল (*)</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="478"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="479"/>
       <source>Select Rizin script file</source>
       <translation>Rizin স্ক্রিপ্ট ফাইল নির্বাচন করুন</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="479"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="480"/>
       <source>Script file (*.rz)</source>
       <translation>স্ক্রিপ্ট ফাইল (*.rz)</translation>
     </message>
@@ -5007,7 +5028,6 @@ Please, make sure, that it is a valid base64 string and try again.</source>
   <context>
     <name>JSDecDecompiler</name>
     <message>
-      <location filename="../common/Decompiler.cpp" line="109"/>
       <source>Failed to parse JSON from jsdec</source>
       <translation>jsdec থেকে JSON পার্স করা যায়নি৷</translation>
     </message>
@@ -5112,8 +5132,8 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="160"/>
-      <location filename="../core/MainWindow.cpp" line="147"/>
       <location filename="../core/MainWindow.cpp" line="148"/>
+      <location filename="../core/MainWindow.cpp" line="149"/>
       <source>Plugins</source>
       <translation>প্লাগইন</translation>
     </message>
@@ -5181,7 +5201,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="273"/>
       <location filename="../core/MainWindow.ui" line="276"/>
       <location filename="../core/MainWindow.ui" line="872"/>
-      <location filename="../core/MainWindow.cpp" line="1243"/>
+      <location filename="../core/MainWindow.cpp" line="1244"/>
       <source>Save layout</source>
       <translation>লে-আউট সংরক্ষণ করুন</translation>
     </message>
@@ -5202,8 +5222,8 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="294"/>
-      <location filename="../core/MainWindow.cpp" line="728"/>
-      <location filename="../core/MainWindow.cpp" line="751"/>
+      <location filename="../core/MainWindow.cpp" line="729"/>
+      <location filename="../core/MainWindow.cpp" line="752"/>
       <source>Save Project</source>
       <translation>প্রকল্প সংরক্ষণ করুন</translation>
     </message>
@@ -5558,13 +5578,13 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="760"/>
-      <location filename="../core/MainWindow.cpp" line="1803"/>
+      <location filename="../core/MainWindow.cpp" line="1804"/>
       <source>Apply Signature From File</source>
       <translation>ফাইল থেকে স্বাক্ষর প্রয়োগ করুন</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="765"/>
-      <location filename="../core/MainWindow.cpp" line="1824"/>
+      <location filename="../core/MainWindow.cpp" line="1825"/>
       <source>Create New Signature File</source>
       <translation>নতুন স্বাক্ষর ফাইল তৈরি করুন</translation>
     </message>
@@ -5674,121 +5694,121 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <translation>Rizin&quot;aaa&quot; কমান্ড ব্যবহার করে প্রোগ্রামটি বিশ্লেষণ করুন</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="542"/>
+      <location filename="../core/MainWindow.cpp" line="543"/>
       <source>Script loading</source>
       <translation>স্ক্রিপ্ট লোডিং</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="543"/>
+      <location filename="../core/MainWindow.cpp" line="544"/>
       <source>Do you want to load the &apos;%1&apos; script?</source>
       <translation>আপনি কি &apos;%1&apos; লোড করতে চান?</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="561"/>
+      <location filename="../core/MainWindow.cpp" line="562"/>
       <source>Cannot open file!</source>
       <translation>ফাইলটি খোলা যাচ্ছে না!</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="562"/>
+      <location filename="../core/MainWindow.cpp" line="563"/>
       <source>Could not open the file! Make sure the file exists and that you have the correct permissions.</source>
       <translation>ফাইল খোলা যায়নি! নিশ্চিত করুন যে ফাইলটি বিদ্যমান এবং আপনার কাছে সঠিক অনুমতি রয়েছে।</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="625"/>
+      <location filename="../core/MainWindow.cpp" line="626"/>
       <source>Failed to open project: %1</source>
       <translation>প্রজেক্ট খোলা যায়নি: %1</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="630"/>
+      <location filename="../core/MainWindow.cpp" line="631"/>
       <source>Open Project</source>
       <translation>প্রজেক্ট খুলুন</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="752"/>
+      <location filename="../core/MainWindow.cpp" line="753"/>
       <source>Failed to save project: %1</source>
       <translation>প্রজেক্ট সংরক্ষণ করা যায়নি: %1</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="780"/>
+      <location filename="../core/MainWindow.cpp" line="781"/>
       <source>Do you really want to exit?
 Save your project before closing!</source>
       <translation>আপনি কি সত্যিই প্রস্থান করতে চান?
 বন্ধ করার আগে আপনার প্রকল্প সংরক্ষণ করুন!</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1056"/>
+      <location filename="../core/MainWindow.cpp" line="1057"/>
       <source>New disassembly</source>
       <translation>নতুন বিচ্ছিন্নকরণ</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1058"/>
+      <location filename="../core/MainWindow.cpp" line="1059"/>
       <source>New graph</source>
       <translation>নতুন গ্রাফ</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1060"/>
+      <location filename="../core/MainWindow.cpp" line="1061"/>
       <source>New hexdump</source>
       <translation>নতুন হেক্সডাম্প</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1061"/>
+      <location filename="../core/MainWindow.cpp" line="1062"/>
       <source>New Decompiler</source>
       <translation>নতুন ডিকম্পাইলার</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1240"/>
+      <location filename="../core/MainWindow.cpp" line="1241"/>
       <source>Save layout error</source>
       <translation>লে-আউট ত্রুটি সংরক্ষণ করুন</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1241"/>
+      <location filename="../core/MainWindow.cpp" line="1242"/>
       <source>&apos;%1&apos; is not a valid name.</source>
       <translation>&apos;%1&apos; কোনো বৈধ নাম নয়।</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1243"/>
+      <location filename="../core/MainWindow.cpp" line="1244"/>
       <source>Enter name</source>
       <translation>নাম লিখুন</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1554"/>
+      <location filename="../core/MainWindow.cpp" line="1555"/>
       <source>Select Rizin script</source>
       <translation>Rizin স্ক্রিপ্ট নির্বাচন করুন</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1597"/>
+      <location filename="../core/MainWindow.cpp" line="1598"/>
       <source>Do you really want to clear all settings?</source>
       <translation>আপনি কি সত্যিই সব সেটিংস মুছে দিতে চান?</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1697"/>
+      <location filename="../core/MainWindow.cpp" line="1698"/>
       <source>Select PDB file</source>
       <translation>PDB ফাইল নির্বাচন করুন</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1698"/>
+      <location filename="../core/MainWindow.cpp" line="1699"/>
       <source>PDB file (*.pdb)</source>
       <translation>PDB ফাইল (*.pdb)</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1698"/>
+      <location filename="../core/MainWindow.cpp" line="1699"/>
       <source>All files (*)</source>
       <translation>সমস্ত ফাইল (*)</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1708"/>
+      <location filename="../core/MainWindow.cpp" line="1709"/>
       <source>%1 loaded.</source>
       <translation>%1 লোড করা হয়েছে।</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1799"/>
-      <location filename="../core/MainWindow.cpp" line="1821"/>
+      <location filename="../core/MainWindow.cpp" line="1800"/>
+      <location filename="../core/MainWindow.cpp" line="1822"/>
       <source>Signature File (*.sig)</source>
       <translation>স্বাক্ষর ফাইল (*.sig)</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1800"/>
-      <location filename="../core/MainWindow.cpp" line="1822"/>
+      <location filename="../core/MainWindow.cpp" line="1801"/>
+      <location filename="../core/MainWindow.cpp" line="1823"/>
       <source>Pattern File (*.pat)</source>
       <translation>প্যাটার্ন ফাইল (*.pat)</translation>
     </message>
@@ -6109,27 +6129,27 @@ Save your project before closing!</source>
   <context>
     <name>ProcessesWidget</name>
     <message>
-      <location filename="../widgets/ProcessesWidget.cpp" line="26"/>
+      <location filename="../widgets/ProcessesWidget.cpp" line="20"/>
       <source>PID</source>
       <translation>PID</translation>
     </message>
     <message>
-      <location filename="../widgets/ProcessesWidget.cpp" line="27"/>
+      <location filename="../widgets/ProcessesWidget.cpp" line="22"/>
       <source>UID</source>
       <translation>UID</translation>
     </message>
     <message>
-      <location filename="../widgets/ProcessesWidget.cpp" line="28"/>
+      <location filename="../widgets/ProcessesWidget.cpp" line="24"/>
       <source>Status</source>
       <translation>অবস্থা</translation>
     </message>
     <message>
-      <location filename="../widgets/ProcessesWidget.cpp" line="29"/>
+      <location filename="../widgets/ProcessesWidget.cpp" line="26"/>
       <source>Path</source>
       <translation>পাথ</translation>
     </message>
     <message>
-      <location filename="../widgets/ProcessesWidget.cpp" line="167"/>
+      <location filename="../widgets/ProcessesWidget.cpp" line="164"/>
       <source>Unable to switch to the requested process.</source>
       <translation>অনুরোধকৃত প্রক্রিয়ায় পরিবর্তন করা যাবে না৷</translation>
     </message>
@@ -6146,12 +6166,12 @@ Save your project before closing!</source>
       <translation>offsetFrom (%1) এবং refs.at(0).from (%(2)) ভিন্ন</translation>
     </message>
     <message>
-      <location filename="../common/IOModesController.cpp" line="53"/>
+      <location filename="../common/IOModesController.cpp" line="59"/>
       <source>Write error</source>
       <translation>ত্রুটি লিখুন</translation>
     </message>
     <message>
-      <location filename="../common/IOModesController.cpp" line="54"/>
+      <location filename="../common/IOModesController.cpp" line="60"/>
       <source>Your file is opened in read-only mode. Editing is only available when the file is opened in either Write or Cache modes.
 
 WARNING: In Write mode, any changes will be committed to the file on disk. For safety, please consider using Cache mode and then commit the changes manually via File -&gt; Commit modifications to disk.</source>
@@ -6160,22 +6180,22 @@ WARNING: In Write mode, any changes will be committed to the file on disk. For s
 সতর্কতা: লিখন মোডে যেকোনো পরিবর্তন ডিস্কের ফাইলে সম্পাদিত হবে। নিরাপত্তার জন্য অনুগ্রহ করে ক্যাশ মোড ব্যবহার করার কথা বিবেচনা করুন এবং তারপর File -&gt; এর মাধ্যমে ম্যানুয়াল উপায়ে ডিস্কে পরিবর্তন করুন।</translation>
     </message>
     <message>
-      <location filename="../common/IOModesController.cpp" line="60"/>
+      <location filename="../common/IOModesController.cpp" line="66"/>
       <source>Cancel</source>
       <translation>বাতিল করুন</translation>
     </message>
     <message>
-      <location filename="../common/IOModesController.cpp" line="62"/>
+      <location filename="../common/IOModesController.cpp" line="68"/>
       <source>Reopen in Write mode</source>
       <translation>লিখন মোডে আবার খুলুন</translation>
     </message>
     <message>
-      <location filename="../common/IOModesController.cpp" line="64"/>
+      <location filename="../common/IOModesController.cpp" line="70"/>
       <source>Enable Cache mode</source>
       <translation>ক্যাশ মোড সক্রিয় করুন</translation>
     </message>
     <message>
-      <location filename="../common/IOModesController.cpp" line="94"/>
+      <location filename="../common/IOModesController.cpp" line="100"/>
       <source>Uncommitted changes</source>
       <translation>অসম্পাদিত পরিবর্তন</translation>
     </message>
@@ -6184,7 +6204,7 @@ WARNING: In Write mode, any changes will be committed to the file on disk. For s
       <translation>অসম্পাদিত পরিবর্তন</translation>
     </message>
     <message>
-      <location filename="../common/IOModesController.cpp" line="95"/>
+      <location filename="../common/IOModesController.cpp" line="101"/>
       <source>It seems that you have changes or patches that are not committed to the file.
 Do you want to commit them now?</source>
       <translation>মনে হচ্ছে আপনার কাছে এমন কিছু পরিবর্তন বা প্যাচ রয়েছে যা ফাইলে সম্পাদন করা হয়নি।
@@ -6201,172 +6221,172 @@ Do you want to commit them now?</source>
       <translation>Cutter (%1) কম্পাইল করতে ব্যবহৃত সংস্করণটি rizin (%2)-এর বাইনারি সংস্করণের সাথে মেলেনি। এর ফলে অপ্রত্যাশিত আচরণ দেখা দিতে পারে। আপনি কি চালিয়ে যেতে চান?</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="388"/>
+      <location filename="../CutterApplication.cpp" line="384"/>
       <source>A Qt and C++ GUI for rizin reverse engineering framework</source>
       <translation>rizin রিভার্স ইঞ্জিনিয়ারিং ফ্রেমওয়ার্কের জন্য একটি Qt এবং C++ GUI</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="391"/>
+      <location filename="../CutterApplication.cpp" line="387"/>
       <source>Filename to open.</source>
       <translation>খোলার জন্য ফাইলের নাম।</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="395"/>
+      <location filename="../CutterApplication.cpp" line="391"/>
       <source>Automatically open file and optionally start analysis. Needs filename to be specified. May be a value between 0 and 2: 0 = no analysis, 1 = aaa, 2 = aaaa (experimental)</source>
       <translation>স্বয়ংক্রিয়ভাবে ফাইল খুলুন এবং ঐচ্ছিকভাবে বিশ্লেষণ শুরু করুন। ফাইলের নাম উল্লেখ করতে হবে। 0 এবং 2 এর মধ্যে একটি মান হতে পারে: 0 = কোনো বিশ্লেষণ নেই, 1 = aaa, 2 = aaaa (পরীক্ষামূলক)</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="398"/>
+      <location filename="../CutterApplication.cpp" line="394"/>
       <source>level</source>
       <translation>লেভেল</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="401"/>
+      <location filename="../CutterApplication.cpp" line="397"/>
       <source>Sets a specific architecture name</source>
       <translation>একটি নির্দিষ্ট আর্কিটেকচারের নাম সেট করে</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="402"/>
+      <location filename="../CutterApplication.cpp" line="398"/>
       <source>arch</source>
       <translation>arch</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="405"/>
+      <location filename="../CutterApplication.cpp" line="401"/>
       <source>Sets a specific architecture bits</source>
       <translation>একটি নির্দিষ্ট আর্কিটেকচারের bits সেট করে</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="406"/>
+      <location filename="../CutterApplication.cpp" line="402"/>
       <source>bits</source>
       <translation>bits</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="409"/>
+      <location filename="../CutterApplication.cpp" line="405"/>
       <source>Sets a specific CPU</source>
       <translation>একটি নির্দিষ্ট CPU সেট করে </translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="410"/>
+      <location filename="../CutterApplication.cpp" line="406"/>
       <source>cpu</source>
       <translation>cpu</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="413"/>
+      <location filename="../CutterApplication.cpp" line="409"/>
       <source>Sets a specific operating system</source>
       <translation>একটি নির্দিষ্ট অপারেটিং সিস্টেম সেট করে</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="414"/>
+      <location filename="../CutterApplication.cpp" line="410"/>
       <source>os</source>
       <translation>os</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="418"/>
+      <location filename="../CutterApplication.cpp" line="414"/>
       <source>Sets the endianness (big or little)</source>
       <translation>এন্ডিয়াননেস সেট করে (বড় বা ছোট)</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="419"/>
+      <location filename="../CutterApplication.cpp" line="415"/>
       <source>big|little</source>
       <translation>big|little</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="423"/>
+      <location filename="../CutterApplication.cpp" line="419"/>
       <source>Force using a specific file format (bin plugin)</source>
       <translation>একটি নির্দিষ্ট ফাইল ফরম্যাট (বিন প্লাগইন) ব্যবহার করে বল প্রয়োগ করুন</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="424"/>
+      <location filename="../CutterApplication.cpp" line="420"/>
       <source>name</source>
       <translation>নাম</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="428"/>
+      <location filename="../CutterApplication.cpp" line="424"/>
       <source>Load binary at a specific base address</source>
       <translation>একটি নির্দিষ্ট বেস ঠিকানায় বাইনারি লোড করুন</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="429"/>
+      <location filename="../CutterApplication.cpp" line="425"/>
       <source>base address</source>
       <translation>বেস ঠিকানা</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="433"/>
+      <location filename="../CutterApplication.cpp" line="429"/>
       <source>Map the binary at a specific address</source>
       <translation>একটি নির্দিষ্ট ঠিকানায় বাইনারি ম্যাপ করুন</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="434"/>
+      <location filename="../CutterApplication.cpp" line="430"/>
       <source>map address</source>
       <translation>ম্যাপ ঠিকানা</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="437"/>
+      <location filename="../CutterApplication.cpp" line="433"/>
       <source>Run script file</source>
       <translation>স্ক্রিপ্ট ফাইল চালনা করুন</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="437"/>
+      <location filename="../CutterApplication.cpp" line="433"/>
       <source>file</source>
       <translation>ফাইল</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="440"/>
+      <location filename="../CutterApplication.cpp" line="436"/>
       <source>Load project file</source>
       <translation>প্রজেক্ট ফাইল লোড করুন</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="441"/>
+      <location filename="../CutterApplication.cpp" line="437"/>
       <source>project file</source>
       <translation>প্রজেক্ট ফাইল</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="445"/>
+      <location filename="../CutterApplication.cpp" line="441"/>
       <source>Open file in write mode</source>
       <translation>লিখন মোডে ফাইল খুলুন</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="449"/>
+      <location filename="../CutterApplication.cpp" line="445"/>
       <source>Disables virtual addressing</source>
       <translation>ভার্চুয়াল অ্যাড্রেসিং নিষ্ক্রিয় করুন</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="453"/>
+      <location filename="../CutterApplication.cpp" line="449"/>
       <source>PYTHONHOME to use for embedded python interpreter</source>
       <translation>PYTHONHOME এমবেড করা পাইথন ইন্টারপ্রেটারের জন্য ব্যবহার করতে হবে</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="459"/>
+      <location filename="../CutterApplication.cpp" line="455"/>
       <source>Disable output redirection. Some of the output in console widget will not be visible. Use this option when debuging a crash or freeze and output  redirection is causing some messages to be lost.</source>
       <translation>আউটপুট রিডাইরেকশন নিষ্ক্রিয় করুন। কনসোল উইজেটের কিছু আউটপুট দৃশ্যমান হবে না। ক্র্যাশ বা ফ্রিজ ডিবাগ করার সময় এই বিকল্প ব্যবহার করুন এবং আউটপুট রিডাইরেকশনের কারণে কিছু বার্তা হারিয়ে যাচ্ছে।</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="465"/>
+      <location filename="../CutterApplication.cpp" line="461"/>
       <source>Do not load plugins</source>
       <translation>প্লাগইন লোড করবেন না</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="469"/>
+      <location filename="../CutterApplication.cpp" line="465"/>
       <source>Do not load Cutter plugins</source>
       <translation>Cutter প্লাগইন লোড করবেন না</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="473"/>
+      <location filename="../CutterApplication.cpp" line="469"/>
       <source>Do not load rizin plugins</source>
       <translation>rizin প্লাগইন লোড করবেন না</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="487"/>
+      <location filename="../CutterApplication.cpp" line="483"/>
       <source>Invalid Analysis Level. May be a value between 0 and 2.</source>
       <translation>অবৈধ বিশ্লেষণ লেভেল। 0 এবং 2 এর মধ্যে কোনো মান হতে পারে।</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="507"/>
+      <location filename="../CutterApplication.cpp" line="503"/>
       <source>Filename must be specified to start analysis automatically.</source>
       <translation>স্বয়ংক্রিয়ভাবে বিশ্লেষণ শুরু করতে ফাইলের নাম অবশ্যই উল্লেখ করতে হবে।</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="563"/>
+      <location filename="../CutterApplication.cpp" line="559"/>
       <source>Invalid Endianness. You can only set it to `big` or `little`.</source>
       <translation>অবৈধ এন্ডিয়াননেস। আপনি এটি শুধুমাত্র `বড়` বা `ছোট`-এ সেট করতে পারেন।</translation>
     </message>
@@ -7268,32 +7288,32 @@ Do you want to commit them now?</source>
   <context>
     <name>SearchModel</name>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="96"/>
+      <location filename="../widgets/SearchWidget.cpp" line="158"/>
       <source>&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;Preview&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</source>
       <translation>&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;প্রিভিউ&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="115"/>
+      <location filename="../widgets/SearchWidget.cpp" line="177"/>
       <source>Size</source>
       <translation>আকার</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="117"/>
+      <location filename="../widgets/SearchWidget.cpp" line="179"/>
       <source>Offset</source>
       <translation>অফসেট</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="119"/>
+      <location filename="../widgets/SearchWidget.cpp" line="181"/>
       <source>Code</source>
       <translation>কোড</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="121"/>
+      <location filename="../widgets/SearchWidget.cpp" line="183"/>
       <source>Data</source>
       <translation>ডেটা</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="123"/>
+      <location filename="../widgets/SearchWidget.cpp" line="185"/>
       <source>Comment</source>
       <translation>মন্তব্য</translation>
     </message>
@@ -7302,7 +7322,7 @@ Do you want to commit them now?</source>
     <name>SearchWidget</name>
     <message>
       <location filename="../widgets/SearchWidget.ui" line="83"/>
-      <location filename="../widgets/SearchWidget.cpp" line="332"/>
+      <location filename="../widgets/SearchWidget.cpp" line="391"/>
       <source>Search</source>
       <translation>খুঁজুন</translation>
     </message>
@@ -7317,47 +7337,41 @@ Do you want to commit them now?</source>
       <translation>যেখানে খুঁজবেন:</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="255"/>
       <source>asm code</source>
       <translation>asm কোড</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="256"/>
       <source>string</source>
       <translation>স্ট্রিং</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="257"/>
       <source>string (case insensitive)</source>
       <translation>স্ট্রিং (কেস সংবেদনশীল)</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="258"/>
       <source>hex string</source>
       <translation>হেক্স স্ট্রিং</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="259"/>
       <source>ROP gadgets</source>
       <translation>ROP গ্যাজেট</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="260"/>
       <source>32bit value</source>
       <translation>32 বিট মান</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="287"/>
+      <location filename="../widgets/SearchWidget.cpp" line="349"/>
       <source>No results found for:</source>
       <translation>যেটার কোনো ফলাফল পাওয়া যায়নি:</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="290"/>
+      <location filename="../widgets/SearchWidget.cpp" line="357"/>
       <source>No Results Found</source>
       <translation>কোনো ফলাফল পাওয়া যায়নি</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="325"/>
+      <location filename="../widgets/SearchWidget.cpp" line="384"/>
       <source>Searching...</source>
       <translation>খোঁজা হচ্ছে...</translation>
     </message>
@@ -7641,21 +7655,56 @@ Do you want to commit them now?</source>
     </message>
   </context>
   <context>
+    <name>ThreadModel</name>
+    <message>
+      <location filename="../widgets/ThreadsWidget.cpp" line="84"/>
+      <source>TID</source>
+      <translation type="unfinished">TID</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ThreadsWidget.cpp" line="86"/>
+      <source>Status</source>
+      <translation type="unfinished">Status</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ThreadsWidget.cpp" line="88"/>
+      <source>Path</source>
+      <translation type="unfinished">Path</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ThreadsWidget.cpp" line="90"/>
+      <source>PC</source>
+      <translation type="unfinished">PC</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ThreadsWidget.cpp" line="92"/>
+      <source>TLS</source>
+      <translation type="unfinished">TLS</translation>
+    </message>
+  </context>
+  <context>
     <name>ThreadsWidget</name>
     <message>
-      <location filename="../widgets/ThreadsWidget.cpp" line="24"/>
       <source>PID</source>
       <translation>PID</translation>
     </message>
     <message>
-      <location filename="../widgets/ThreadsWidget.cpp" line="25"/>
       <source>Status</source>
       <translation>অবস্থা</translation>
     </message>
     <message>
-      <location filename="../widgets/ThreadsWidget.cpp" line="26"/>
       <source>Path</source>
       <translation>পাথ</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ThreadsWidget.cpp" line="243"/>
+      <source>TLS (%0)</source>
+      <translation type="unfinished">TLS (%0)</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ThreadsWidget.cpp" line="248"/>
+      <source>PC (%0)</source>
+      <translation type="unfinished">PC (%0)</translation>
     </message>
   </context>
   <context>
