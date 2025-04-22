@@ -94,27 +94,27 @@
       <translation>Rizin 버전 정보</translation>
     </message>
     <message>
-      <location filename="../dialogs/AboutDialog.cpp" line="103"/>
+      <location filename="../dialogs/AboutDialog.cpp" line="105"/>
       <source>Checking for updates...</source>
       <translation>업데이트 확인 중...</translation>
     </message>
     <message>
-      <location filename="../dialogs/AboutDialog.cpp" line="109"/>
+      <location filename="../dialogs/AboutDialog.cpp" line="111"/>
       <source>Error!</source>
       <translation>오류!</translation>
     </message>
     <message>
-      <location filename="../dialogs/AboutDialog.cpp" line="112"/>
+      <location filename="../dialogs/AboutDialog.cpp" line="114"/>
       <source>Version control</source>
       <translation>버전 관리</translation>
     </message>
     <message>
-      <location filename="../dialogs/AboutDialog.cpp" line="113"/>
+      <location filename="../dialogs/AboutDialog.cpp" line="115"/>
       <source>Cutter is up to date!</source>
       <translation>Cutter가 최신 버전입니다!</translation>
     </message>
     <message>
-      <location filename="../dialogs/AboutDialog.cpp" line="154"/>
+      <location filename="../dialogs/AboutDialog.cpp" line="156"/>
       <source>Based on Qt %1 (%2, %3 bit)</source>
       <translation>Qt %1(%2, %3 비트) 기반</translation>
     </message>
@@ -1422,9 +1422,13 @@
   <context>
     <name>ColorPicker</name>
     <message>
-      <location filename="../widgets/ColorPicker.ui" line="14"/>
       <source>Form</source>
       <translation>양식</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorPicker.ui" line="14"/>
+      <source>Color Picker</source>
+      <translation type="unfinished">Color Picker</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="87"/>
@@ -1531,7 +1535,7 @@
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="75"/>
-      <location filename="../common/ColorThemeWorker.cpp" line="169"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="172"/>
       <source>Theme &lt;b&gt;%1&lt;/b&gt; does not exist.</source>
       <translation>&lt;b&gt;%1&lt;/b&gt; 테마가 존재하지 않습니다.</translation>
     </message>
@@ -1541,62 +1545,62 @@
       <translation>&lt;b&gt;%1&lt;/b&gt; 파일을 열 수 없습니다.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="166"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="169"/>
       <source>You can not delete standard Rizin color themes.</source>
       <translation>기본 Rizin 테마를 삭제할 수 없습니다.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="174"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="177"/>
       <source>You have no permission to write to &lt;b&gt;%1&lt;/b&gt;</source>
       <translation>&lt;b&gt;%1&lt;/b&gt;에 쓸 수 있는 권한이 없습니다.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="177"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="180"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; can not be opened.</source>
       <translation>&lt;b&gt;%1&lt;/b&gt; 파일을 열 수 없습니다.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="180"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="183"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; can not be removed.</source>
       <translation>&lt;b&gt;%1&lt;/b&gt; 파일을 제거할 수 없습니다.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="189"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="192"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; does not exist.</source>
       <translation>&lt;b&gt;%1&lt;/b&gt; 파일이 존재하지 않습니다.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="195"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="198"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; could not be opened. Please make sure you have access to it and try again.</source>
       <translation>&lt;b&gt;%1&lt;/b&gt; 파일을 열 수 없습니다. 접근 권한이 있는지 확인하고 다시 시도해 주세요.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="199"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="202"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; is not a Cutter color theme</source>
       <translation>&lt;b&gt;%1&lt;/b&gt; 파일은 Cutter 색상 테마가 아닙니다.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="204"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="207"/>
       <source>A color theme named &lt;b&gt;%1&lt;/b&gt; already exists.</source>
       <translation>&lt;b&gt;%1&lt;/b&gt; 이름으로 지정된 색상 테마가 이미 존재합니다.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="210"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="213"/>
       <source>Error occurred during importing. Please make sure you have an access to the directory &lt;b&gt;%1&lt;/b&gt; and try again.</source>
       <translation>가져오기 도중 오류가 발생했습니다. &lt;b&gt;%1&lt;/b&gt; 경로에 접근 권한이 있는지 확인하고 다시 시도해 주세요.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="220"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="223"/>
       <source>A color theme named &lt;b&gt;&quot;%1&quot;&lt;/b&gt; already exists.</source>
       <translation>&lt;b&gt;&quot;%1&quot;&lt;/b&gt; 이름으로 지정된 색상 테마가 이미 존재합니다.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="224"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="227"/>
       <source>You can not rename standard Rizin themes.</source>
       <translation>기본 Rizin 테마 이름을 변경할 수 없습니다.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="230"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="233"/>
       <source>Something went wrong during renaming. Please make sure you have access to the directory &lt;b&gt;&quot;%1&quot;&lt;/b&gt;.</source>
       <translation>이름 변경 도중 문제가 발생했습니다. &lt;b&gt;&quot;%1&quot;&lt;/b&gt; 경로에 접근 권한이 있는지 확인해 주세요.</translation>
     </message>
@@ -1622,7 +1626,7 @@
   <context>
     <name>CommandTask</name>
     <message>
-      <location filename="../common/CommandTask.h" line="23"/>
+      <location filename="../common/CommandTask.h" line="22"/>
       <source>Running Command</source>
       <translation>명령 실행 중</translation>
     </message>
@@ -1698,12 +1702,12 @@
       <translation>!!! 설정을 쓸 수 없습니다! &quot;%1&quot; 에 쓰기 권한을 주세요.</translation>
     </message>
     <message>
-      <location filename="../common/Configuration.cpp" line="146"/>
+      <location filename="../common/Configuration.cpp" line="150"/>
       <source>Critical Error!</source>
       <translation>치명적인 오류 발생!</translation>
     </message>
     <message>
-      <location filename="../common/Configuration.cpp" line="147"/>
+      <location filename="../common/Configuration.cpp" line="151"/>
       <source>Settings are not writable! Make sure you have a write access to &quot;%1&quot;.</source>
       <translation>설정을 쓸 수 없습니다! &quot;%1&quot;에 쓰기 권한이 있는지 확인하십시오.</translation>
     </message>
@@ -1741,12 +1745,12 @@
       <translation>...</translation>
     </message>
     <message>
-      <location filename="../widgets/ConsoleWidget.cpp" line="76"/>
+      <location filename="../widgets/ConsoleWidget.cpp" line="75"/>
       <source>Clear Output</source>
       <translation>출력물 지움</translation>
     </message>
     <message>
-      <location filename="../widgets/ConsoleWidget.cpp" line="85"/>
+      <location filename="../widgets/ConsoleWidget.cpp" line="84"/>
       <source>Wrap Lines</source>
       <translation>포장 라인</translation>
     </message>
@@ -1754,117 +1758,125 @@
   <context>
     <name>CutterCore</name>
     <message>
-      <location filename="../core/Cutter.cpp" line="274"/>
-      <location filename="../core/Cutter.cpp" line="287"/>
+      <location filename="../core/Cutter.cpp" line="280"/>
+      <location filename="../core/Cutter.cpp" line="294"/>
       <source>Loading initialization file from </source>
       <translation>다음에서 초기화 파일 불러오는 중: </translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="1057"/>
-      <location filename="../core/Cutter.cpp" line="1066"/>
-      <location filename="../core/Cutter.cpp" line="1071"/>
-      <location filename="../core/Cutter.cpp" line="1081"/>
-      <location filename="../core/Cutter.cpp" line="1085"/>
+      <location filename="../core/Cutter.cpp" line="1030"/>
+      <location filename="../core/Cutter.cpp" line="1039"/>
+      <location filename="../core/Cutter.cpp" line="1044"/>
+      <location filename="../core/Cutter.cpp" line="1054"/>
+      <location filename="../core/Cutter.cpp" line="1058"/>
       <source>Signatures</source>
       <translation>서명</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="1058"/>
+      <location filename="../core/Cutter.cpp" line="1031"/>
       <source>Cannot apply signature file because the requested arch is not supported by .sig files</source>
       <translation>요청된 Arch가 .sig 파일에서 지원되지 않으므로 서명 파일을 적용할 수 없습니다.</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="1067"/>
+      <location filename="../core/Cutter.cpp" line="1040"/>
       <source>Found %1 matching signatures!</source>
       <translation>%1 일치하는 서명을 찾았습니다!</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="1072"/>
+      <location filename="../core/Cutter.cpp" line="1045"/>
       <source>Failed to apply signature file!
 Please check the console for more details.</source>
       <translation>서명 파일을 적용하지 못했습니다!
 자세한 내용은 콘솔에서 확인하세요.</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="1082"/>
+      <location filename="../core/Cutter.cpp" line="1055"/>
       <source>Cannot create signature file (check the console for more details).</source>
       <translation>서명 파일을 생성할 수 없습니다(자세한 내용은 콘솔에서 확인하세요).</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="1086"/>
+      <location filename="../core/Cutter.cpp" line="1059"/>
       <source>Written %1 signatures to %2.</source>
       <translation>%2에 %1 서며을 작성했습니다.</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="1987"/>
+      <location filename="../core/Cutter.cpp" line="1964"/>
       <source>Starting native debug...</source>
       <translation>기본 디버그 시작 중...</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2035"/>
+      <location filename="../core/Cutter.cpp" line="2012"/>
       <source>Starting emulation...</source>
       <translation>에뮬레이션 시작 중...</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2098"/>
+      <location filename="../core/Cutter.cpp" line="2075"/>
       <source>Connecting to: </source>
       <translation>연결하고 있는 대상: </translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2150"/>
+      <location filename="../core/Cutter.cpp" line="2127"/>
       <source>Attaching to process (</source>
       <translation>프로세스에 연결 중(</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2607"/>
+      <location filename="../core/Cutter.cpp" line="2574"/>
       <source>Creating debug tracepoint...</source>
       <translation>디버그 트레이스포인트 생성 중...</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2652"/>
+      <location filename="../core/Cutter.cpp" line="2619"/>
       <source>Stopping debug session...</source>
       <translation>디버그 세션 중지 중...</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2687"/>
+      <location filename="../core/Cutter.cpp" line="2654"/>
       <source>Breakpoint error</source>
       <translation>중단점 오류</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2687"/>
+      <location filename="../core/Cutter.cpp" line="2654"/>
       <source>Failed to create breakpoint</source>
       <translation>중단점 만들기 실패</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="3627"/>
+      <location filename="../core/Cutter.cpp" line="3612"/>
       <source>Unknown (%1)</source>
       <translation>알 수 없음 (%1)</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="4059"/>
-      <location filename="../core/Cutter.cpp" line="4088"/>
+      <location filename="../core/Cutter.cpp" line="3936"/>
+      <location filename="../core/Cutter.cpp" line="4150"/>
+      <source>Error invalid search kind
+</source>
+      <translation type="unfinished">Error invalid search kind
+</translation>
+    </message>
+    <message>
+      <location filename="../core/Cutter.cpp" line="4330"/>
+      <location filename="../core/Cutter.cpp" line="4359"/>
       <source>Error parsing type: &quot;%1&quot; message: </source>
       <translation>유형 구문 분석 중 오류 발생: &quot;%1&quot; 메시지: </translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="4065"/>
+      <location filename="../core/Cutter.cpp" line="4336"/>
       <source>Error creating global variable: &quot;%1&quot;</source>
       <translation>전역 변수 생성 중 오류 발생: &quot;%1&quot;</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="4658"/>
-      <location filename="../core/Cutter.cpp" line="4709"/>
+      <location filename="../core/Cutter.cpp" line="4928"/>
+      <location filename="../core/Cutter.cpp" line="4979"/>
       <source>Cannot get global graph</source>
       <translation>전역 그래프를 가져올 수 없습니다.</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="4660"/>
-      <location filename="../core/Cutter.cpp" line="4711"/>
+      <location filename="../core/Cutter.cpp" line="4930"/>
+      <location filename="../core/Cutter.cpp" line="4981"/>
       <source>Cannot get graph at </source>
       <translation>다음에서 그래프를 가져올 수 없습니다: </translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="4691"/>
+      <location filename="../core/Cutter.cpp" line="4961"/>
       <source>Failed to generate graph</source>
       <translation>그래프 생성에 실패했습니다.</translation>
     </message>
@@ -2015,7 +2027,7 @@ Please check the console for more details.</source>
   <context>
     <name>CutterSeekable</name>
     <message>
-      <location filename="../common/CutterSeekable.cpp" line="73"/>
+      <location filename="../common/CutterSeekable.cpp" line="72"/>
       <source>More than one (%1) references here. Weird behaviour expected.</source>
       <translation>여기에 1개(%1) 이상의 기준이 있습니다. 제대로 동작되지 않습니다.</translation>
     </message>
@@ -2207,7 +2219,7 @@ Please check the console for more details.</source>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="993"/>
-      <location filename="../widgets/Dashboard.cpp" line="176"/>
+      <location filename="../widgets/Dashboard.cpp" line="177"/>
       <source>Certificates</source>
       <translation>인증</translation>
     </message>
@@ -2277,22 +2289,22 @@ Please check the console for more details.</source>
       <translation>적용 범위 백분율:</translation>
     </message>
     <message>
-      <location filename="../widgets/Dashboard.cpp" line="162"/>
+      <location filename="../widgets/Dashboard.cpp" line="163"/>
       <source>Key</source>
       <translation>키</translation>
     </message>
     <message>
-      <location filename="../widgets/Dashboard.cpp" line="162"/>
+      <location filename="../widgets/Dashboard.cpp" line="163"/>
       <source>Value</source>
       <translation>값</translation>
     </message>
     <message>
-      <location filename="../widgets/Dashboard.cpp" line="163"/>
+      <location filename="../widgets/Dashboard.cpp" line="164"/>
       <source>root</source>
       <translation>루트</translation>
     </message>
     <message>
-      <location filename="../widgets/Dashboard.cpp" line="204"/>
+      <location filename="../widgets/Dashboard.cpp" line="205"/>
       <source>N/A</source>
       <translation>N/A</translation>
     </message>
@@ -2730,7 +2742,7 @@ Please check the console for more details.</source>
     <name>DecompilerWidget</name>
     <message>
       <location filename="../widgets/DecompilerWidget.ui" line="14"/>
-      <location filename="../widgets/DecompilerWidget.cpp" line="483"/>
+      <location filename="../widgets/DecompilerWidget.cpp" line="485"/>
       <source>Decompiler</source>
       <translation>디컴파일러</translation>
     </message>
@@ -2801,84 +2813,89 @@ Please check the console for more details.</source>
   <context>
     <name>DisassemblyContextMenu</name>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="72"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="74"/>
       <source>Copy</source>
       <translation>복사</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="75"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="77"/>
       <source>Copy address</source>
       <translation>주소 복사</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="79"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="85"/>
       <source>Show in</source>
       <translation>다음으로 보기</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="84"/>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="570"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="90"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="576"/>
       <source>Add Comment</source>
       <translation>의견 추가</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="171"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="177"/>
       <source>Add at...</source>
       <translation>다음에 추가...</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="173"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="179"/>
       <source>Rename or add flag</source>
       <translation>플래그 이름 변경 또는 추가</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="88"/>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="911"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="94"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="928"/>
       <source>Re-type Local Variables</source>
       <translation>로컬 변수 재입력</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="92"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="81"/>
+      <source>Copy instruction bytes</source>
+      <translation type="unfinished">Copy instruction bytes</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="98"/>
       <source>Edit function</source>
       <translation>함수 수정</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="96"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="102"/>
       <source>Delete comment</source>
       <translation>주석 삭제</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="100"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="106"/>
       <source>Delete flag</source>
       <translation>플래그 제거</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="103"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="109"/>
       <source>Undefine function</source>
       <translation>정의되지 않은 함수</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="107"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="113"/>
       <source>Define function here</source>
       <translation>여기에 함수 정의</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="119"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="125"/>
       <source>Structure offset</source>
       <translation>구조체 오프셋</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="127"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="133"/>
       <source>Show X-Refs</source>
       <translation>크로스 레퍼런스 보기</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="131"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="137"/>
       <source>X-Refs for local variables</source>
       <translation>로컬 변수에 대한 X-Ref</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="135"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="141"/>
       <source>Show Options</source>
       <translation>설정 표시</translation>
     </message>
@@ -2887,264 +2904,264 @@ Please check the console for more details.</source>
       <translation>즉각적인 명령어 기준을 다음으로 설정...</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="177"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="183"/>
       <source>Modify or add global variable</source>
       <translation>전역 변수 수정 또는 추가</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="184"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="190"/>
       <source>Set base of immediate value to..</source>
       <translation>즉각적인 명령어 값에 대한 기준을 다음으로 설정합니다...</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="186"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="192"/>
       <source>Binary</source>
       <translation>2진수</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="190"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="196"/>
       <source>Octal</source>
       <translation>8진수</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="194"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="200"/>
       <source>Decimal</source>
       <translation>10진수</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="198"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="204"/>
       <source>Hexadecimal</source>
       <translation>16진수</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="202"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="208"/>
       <source>Network Port</source>
       <translation>네트워크 포트</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="206"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="212"/>
       <source>IP Address</source>
       <translation>IP 주소</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="210"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="216"/>
       <source>Syscall</source>
       <translation>Syscall</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="214"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="220"/>
       <source>String</source>
       <translation>문자열</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="221"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="227"/>
       <source>Set current bits to...</source>
       <translation>현재 비트를 다음으로 설정합니다...</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="238"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="244"/>
       <source>Set as...</source>
       <translation>설정...</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="240"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="246"/>
       <source>Code</source>
       <translation>코드</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="244"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="250"/>
       <source>String...</source>
       <translation>문자열...</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="246"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="252"/>
       <source>Auto-detect</source>
       <translation>자동 감지</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="248"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="254"/>
       <source>Remove</source>
       <translation>제거</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="250"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="256"/>
       <source>Advanced</source>
       <translation>고급</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="262"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="268"/>
       <source>Data...</source>
       <translation>자료...</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="264"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="270"/>
       <source>Byte</source>
       <translation>Byte</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="268"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="274"/>
       <source>Word</source>
       <translation>Word</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="272"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="278"/>
       <source>Dword</source>
       <translation>Dword</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="276"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="282"/>
       <source>Qword</source>
       <translation>Qword</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="291"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="297"/>
       <source>Edit</source>
       <translation>편집</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="293"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="299"/>
       <source>Instruction</source>
       <translation>명령어</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="297"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="303"/>
       <source>Nop Instruction</source>
       <translation>NOP로 변경</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="301"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="307"/>
       <source>Bytes</source>
       <translation>바이트</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="304"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="310"/>
       <source>Reverse Jump</source>
       <translation>리버스 점프</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="310"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="316"/>
       <source>Breakpoint</source>
       <translation>중단점</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="312"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="318"/>
       <source>Add/remove breakpoint</source>
       <translation>중단점 추가/제거</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="315"/>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="608"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="321"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="614"/>
       <source>Advanced breakpoint</source>
       <translation>고급 중단점</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="322"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="328"/>
       <source>Debug</source>
       <translation>디버그</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="324"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="330"/>
       <source>Continue until line</source>
       <translation>줄까지 계속</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="424"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="430"/>
       <source>Add flag at %1 (used here)</source>
       <translation> %1에서 플래그(여기에 사용됨) 추가</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="429"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="435"/>
       <source>Rename &quot;%1&quot;</source>
       <translation>&quot;%1&quot; 이름 변경</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="434"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="440"/>
       <source>Rename local &quot;%1&quot;</source>
       <translation>로컬 &quot;%1&quot; 이름 변경</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="439"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="445"/>
       <source>Rename flag &quot;%1&quot; (used here)</source>
       <translation>플래그 &quot;%1&quot;(여기에 사용됨) 이름 변경</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="497"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="503"/>
       <source>Add or change global variable at %1 (used here)</source>
       <translation>%1에서 전역 변수(여기에 사용됨) 추가 또는 변경</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="573"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="579"/>
       <source>Edit Comment</source>
       <translation>주석 편집</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="589"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="595"/>
       <source>Edit function &quot;%1&quot;</source>
       <translation>함수 &quot;%1&quot; 편집</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="606"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="612"/>
       <source>Remove breakpoint</source>
       <translation>중단점 제거</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="606"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="612"/>
       <source>Add breakpoint</source>
       <translation>중단점 추가</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="607"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="613"/>
       <source>Edit breakpoint</source>
       <translation>중단점 편집</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="622"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="628"/>
       <source>X-Refs for %1</source>
       <translation>%1에 대한 X-Ref</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="722"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="733"/>
       <source>Edit Instruction at %1</source>
       <translation>%1에서 명령어 편집</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="772"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="783"/>
       <source>Edit Bytes at %1</source>
       <translation>%1에서 바이트 편집</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="843"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="860"/>
       <source>New function at %1</source>
       <translation>%1의 새로운 함수</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="844"/>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="865"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="861"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="882"/>
       <source>Function name:</source>
       <translation>함수 이름:</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="864"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="881"/>
       <source>Rename function %2</source>
       <translation>%2 함수 이름 변경</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="912"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="929"/>
       <source>You must be in a function to define variable types.</source>
       <translation>변수 유형을 정의하려면 함수 내에 있어야 합니다.</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="974"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="991"/>
       <source>Wrong address</source>
       <translation>잘못된 주소</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="975"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="992"/>
       <source>Can&apos;t edit string at this address</source>
       <translation>이 주소에서 문자열을 편집할 수 없습니다.</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="1047"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="1064"/>
       <source>Edit function %1</source>
       <translation>함수 %1 편집</translation>
     </message>
@@ -3152,7 +3169,7 @@ Please check the console for more details.</source>
   <context>
     <name>DisassemblyWidget</name>
     <message>
-      <location filename="../widgets/DisassemblyWidget.cpp" line="674"/>
+      <location filename="../widgets/DisassemblyWidget.cpp" line="677"/>
       <source>Disassembly</source>
       <translation>디스어셈블리</translation>
     </message>
@@ -3608,6 +3625,10 @@ Please check the console for more details.</source>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="313"/>
+      <source>Import</source>
+      <translation type="unfinished">Import</translation>
+    </message>
+    <message>
       <source>Imp.</source>
       <translation>불러오기</translation>
     </message>
@@ -3981,24 +4002,24 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/GlobalsWidget.ui" line="76"/>
       <location filename="../widgets/GlobalsWidget.ui" line="79"/>
-      <location filename="../widgets/GlobalsWidget.cpp" line="206"/>
+      <location filename="../widgets/GlobalsWidget.cpp" line="191"/>
       <source>Edit Global Variable</source>
       <translation>전역 변수 편집</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.ui" line="84"/>
       <location filename="../widgets/GlobalsWidget.ui" line="87"/>
-      <location filename="../widgets/GlobalsWidget.cpp" line="207"/>
+      <location filename="../widgets/GlobalsWidget.cpp" line="192"/>
       <source>Delete Global Variable</source>
       <translation>전역 변수 삭제</translation>
     </message>
     <message>
-      <location filename="../widgets/GlobalsWidget.cpp" line="167"/>
+      <location filename="../widgets/GlobalsWidget.cpp" line="153"/>
       <source>Category</source>
       <translation>범주</translation>
     </message>
     <message>
-      <location filename="../widgets/GlobalsWidget.cpp" line="169"/>
+      <location filename="../widgets/GlobalsWidget.cpp" line="155"/>
       <source>Globals</source>
       <translation>전역</translation>
     </message>
@@ -4100,7 +4121,7 @@ Please check the console for more details.</source>
   <context>
     <name>GraphView</name>
     <message>
-      <location filename="../widgets/GraphView.cpp" line="441"/>
+      <location filename="../widgets/GraphView.cpp" line="440"/>
       <source>Cutter graph export</source>
       <translation>Cutter 그래프 내보내기</translation>
     </message>
@@ -4166,100 +4187,100 @@ Please check the console for more details.</source>
   <context>
     <name>HexWidget</name>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="70"/>
+      <location filename="../widgets/HexWidget.cpp" line="71"/>
       <source>Hexadecimal</source>
       <translation>16진수</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="71"/>
+      <location filename="../widgets/HexWidget.cpp" line="72"/>
       <source>Octal</source>
       <translation>8진수</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="72"/>
+      <location filename="../widgets/HexWidget.cpp" line="73"/>
       <source>Decimal</source>
       <translation>10진수</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="73"/>
+      <location filename="../widgets/HexWidget.cpp" line="74"/>
       <source>Signed decimal</source>
       <translation>부호 있는 소수점</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="74"/>
+      <location filename="../widgets/HexWidget.cpp" line="75"/>
       <source>Float</source>
       <translation>부동 소수점</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="88"/>
+      <location filename="../widgets/HexWidget.cpp" line="89"/>
       <source>Bytes per row</source>
       <translation>행당 바이트 수</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="98"/>
+      <location filename="../widgets/HexWidget.cpp" line="99"/>
       <source>Power of 2</source>
       <translation>2의 제곱</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="105"/>
+      <location filename="../widgets/HexWidget.cpp" line="106"/>
       <source>Big Endian</source>
       <translation>빅 엔디안</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="110"/>
+      <location filename="../widgets/HexWidget.cpp" line="111"/>
       <source>Bytes as pairs</source>
       <translation>바이트 쌍</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="114"/>
+      <location filename="../widgets/HexWidget.cpp" line="115"/>
       <source>Copy</source>
       <translation>복사</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="120"/>
+      <location filename="../widgets/HexWidget.cpp" line="121"/>
       <source>Copy address</source>
       <translation>주소 복사</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="127"/>
-      <location filename="../widgets/HexWidget.cpp" line="1157"/>
+      <location filename="../widgets/HexWidget.cpp" line="128"/>
+      <location filename="../widgets/HexWidget.cpp" line="1158"/>
       <source>Add Comment</source>
       <translation>주석 추가</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="134"/>
+      <location filename="../widgets/HexWidget.cpp" line="135"/>
       <source>Delete Comment</source>
       <translation>주석 삭제</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="140"/>
+      <location filename="../widgets/HexWidget.cpp" line="141"/>
       <source>Select range</source>
       <translation>범위 선택</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="147"/>
-      <location filename="../widgets/HexWidget.cpp" line="1272"/>
+      <location filename="../widgets/HexWidget.cpp" line="148"/>
+      <location filename="../widgets/HexWidget.cpp" line="1273"/>
       <source>Write string</source>
       <translation>문자열 쓰기</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="151"/>
+      <location filename="../widgets/HexWidget.cpp" line="152"/>
       <source>Write length and string</source>
       <translation>길이 및 문자열 쓰기</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="155"/>
-      <location filename="../widgets/HexWidget.cpp" line="1466"/>
+      <location filename="../widgets/HexWidget.cpp" line="156"/>
+      <location filename="../widgets/HexWidget.cpp" line="1467"/>
       <source>Write wide string</source>
       <translation>넓은 문자열 쓰기</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="159"/>
+      <location filename="../widgets/HexWidget.cpp" line="160"/>
       <source>Write zero terminated string</source>
       <translation>제로 종결 문자열 쓰기</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="163"/>
+      <location filename="../widgets/HexWidget.cpp" line="164"/>
       <source>Write a decoded or encoded Base64 string</source>
       <translation>해독 또는 부호화 Base64 문자열 쓰기</translation>
     </message>
@@ -4268,83 +4289,83 @@ Please check the console for more details.</source>
       <translation>해독/부호화 Base64 문자열 쓰기</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="168"/>
-      <location filename="../widgets/HexWidget.cpp" line="1318"/>
+      <location filename="../widgets/HexWidget.cpp" line="169"/>
+      <location filename="../widgets/HexWidget.cpp" line="1319"/>
       <source>Write hex bytes</source>
       <translation>16진수 바이트 쓰기</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="172"/>
-      <location filename="../widgets/HexWidget.cpp" line="1354"/>
+      <location filename="../widgets/HexWidget.cpp" line="173"/>
+      <location filename="../widgets/HexWidget.cpp" line="1355"/>
       <source>Write zeros</source>
       <translation>제로 쓰기</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="176"/>
-      <location filename="../widgets/HexWidget.cpp" line="1410"/>
+      <location filename="../widgets/HexWidget.cpp" line="177"/>
+      <location filename="../widgets/HexWidget.cpp" line="1411"/>
       <source>Write random bytes</source>
       <translation>무작위 바이트 쓰기</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="180"/>
+      <location filename="../widgets/HexWidget.cpp" line="181"/>
       <source>Duplicate from offset</source>
       <translation>오프셋에서 복제</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="184"/>
+      <location filename="../widgets/HexWidget.cpp" line="185"/>
       <source>Increment/Decrement</source>
       <translation>증가/감소</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="188"/>
+      <location filename="../widgets/HexWidget.cpp" line="189"/>
       <source>Edit with keyboard</source>
       <translation>키보드로 편집</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1160"/>
+      <location filename="../widgets/HexWidget.cpp" line="1161"/>
       <source>Edit Comment</source>
       <translation>주석 편집</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1168"/>
+      <location filename="../widgets/HexWidget.cpp" line="1169"/>
       <source>Item size:</source>
       <translation>항목 크기:</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1170"/>
+      <location filename="../widgets/HexWidget.cpp" line="1171"/>
       <source>Item format:</source>
       <translation>항목 양식:</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1175"/>
+      <location filename="../widgets/HexWidget.cpp" line="1176"/>
       <source>Edit</source>
       <translation>편집</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1272"/>
-      <location filename="../widgets/HexWidget.cpp" line="1448"/>
-      <location filename="../widgets/HexWidget.cpp" line="1466"/>
-      <location filename="../widgets/HexWidget.cpp" line="1484"/>
+      <location filename="../widgets/HexWidget.cpp" line="1273"/>
+      <location filename="../widgets/HexWidget.cpp" line="1449"/>
+      <location filename="../widgets/HexWidget.cpp" line="1467"/>
+      <location filename="../widgets/HexWidget.cpp" line="1485"/>
       <source>String:</source>
       <translation>문자열:</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1318"/>
+      <location filename="../widgets/HexWidget.cpp" line="1319"/>
       <source>Hex byte string:</source>
       <translation>16바이트 문자열:</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1354"/>
+      <location filename="../widgets/HexWidget.cpp" line="1355"/>
       <source>Number of zeros:</source>
       <translation>제로 수:</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1381"/>
+      <location filename="../widgets/HexWidget.cpp" line="1382"/>
       <source>Error</source>
       <translation>오류</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1382"/>
+      <location filename="../widgets/HexWidget.cpp" line="1383"/>
       <source>Error occured during decoding your input.
 Please, make sure, that it is a valid base64 string and try again.</source>
       <translation>입력을 해독하는 동안 오류가 발생했습니다.
@@ -4355,17 +4376,17 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <translation>무작위 쓰기</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1410"/>
+      <location filename="../widgets/HexWidget.cpp" line="1411"/>
       <source>Number of bytes:</source>
       <translation>바이트 수:</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1448"/>
+      <location filename="../widgets/HexWidget.cpp" line="1449"/>
       <source>Write Pascal string</source>
       <translation>파스칼 문자열 쓰기</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1484"/>
+      <location filename="../widgets/HexWidget.cpp" line="1485"/>
       <source>Write zero-terminated string</source>
       <translation>제로 종결 문자열 쓰기</translation>
     </message>
@@ -4664,7 +4685,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="167"/>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="413"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="414"/>
       <source>Analysis: Enabled</source>
       <translation>분석: 활성화됨</translation>
     </message>
@@ -4700,7 +4721,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="364"/>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="399"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="400"/>
       <source>Advanced</source>
       <translation>고급</translation>
     </message>
@@ -4926,58 +4947,58 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <translation>각 함수 후 분석 계속</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="393"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="394"/>
       <source>No analysis</source>
       <translation>분석 없음</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="395"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="396"/>
       <source>Auto-Analysis (aaa)</source>
       <translation>자동 분석(aaa)</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="397"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="398"/>
       <source>Auto-Analysis Experimental (aaaa)</source>
       <translation>자동 분석 실험(aaaa)</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="401"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="402"/>
       <source>Unknown</source>
       <translation>알 수 없음</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="407"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="408"/>
       <source>Level</source>
       <translation>레벨</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="410"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="411"/>
       <source>Analysis: Disabled</source>
       <translation>분석: 비활성화됨</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="456"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="457"/>
       <source>Select PDB file</source>
       <translation>PDB 파일 선택</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="457"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="458"/>
       <source>PDB file (*.pdb)</source>
       <translation>PDB 파일 (*.pdb)</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="457"/>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="479"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="458"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="480"/>
       <source>All files (*)</source>
       <translation>모든 파일 (*)</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="478"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="479"/>
       <source>Select Rizin script file</source>
       <translation>Rizin 스크립트 파일 선택</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="479"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="480"/>
       <source>Script file (*.rz)</source>
       <translation>스크립트 파일(*.rz)</translation>
     </message>
@@ -5003,7 +5024,6 @@ Please, make sure, that it is a valid base64 string and try again.</source>
   <context>
     <name>JSDecDecompiler</name>
     <message>
-      <location filename="../common/Decompiler.cpp" line="109"/>
       <source>Failed to parse JSON from jsdec</source>
       <translation>jsdec에서 JSON을 파싱하지 못했습니다.</translation>
     </message>
@@ -5108,8 +5128,8 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="160"/>
-      <location filename="../core/MainWindow.cpp" line="147"/>
       <location filename="../core/MainWindow.cpp" line="148"/>
+      <location filename="../core/MainWindow.cpp" line="149"/>
       <source>Plugins</source>
       <translation>플러그인</translation>
     </message>
@@ -5177,7 +5197,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="273"/>
       <location filename="../core/MainWindow.ui" line="276"/>
       <location filename="../core/MainWindow.ui" line="872"/>
-      <location filename="../core/MainWindow.cpp" line="1243"/>
+      <location filename="../core/MainWindow.cpp" line="1244"/>
       <source>Save layout</source>
       <translation>레이아웃 저장</translation>
     </message>
@@ -5198,8 +5218,8 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="294"/>
-      <location filename="../core/MainWindow.cpp" line="728"/>
-      <location filename="../core/MainWindow.cpp" line="751"/>
+      <location filename="../core/MainWindow.cpp" line="729"/>
+      <location filename="../core/MainWindow.cpp" line="752"/>
       <source>Save Project</source>
       <translation>프로젝트 저장</translation>
     </message>
@@ -5554,13 +5574,13 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="760"/>
-      <location filename="../core/MainWindow.cpp" line="1803"/>
+      <location filename="../core/MainWindow.cpp" line="1804"/>
       <source>Apply Signature From File</source>
       <translation>파일 서명 적용</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="765"/>
-      <location filename="../core/MainWindow.cpp" line="1824"/>
+      <location filename="../core/MainWindow.cpp" line="1825"/>
       <source>Create New Signature File</source>
       <translation>새 서명 파일 생성</translation>
     </message>
@@ -5670,121 +5690,121 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <translation>Rizin&apos;s &quot;aaa&quot; 명령어를 사용하여 프로그램을 분석합니다.</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="542"/>
+      <location filename="../core/MainWindow.cpp" line="543"/>
       <source>Script loading</source>
       <translation>스크립트 로딩</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="543"/>
+      <location filename="../core/MainWindow.cpp" line="544"/>
       <source>Do you want to load the &apos;%1&apos; script?</source>
       <translation>&apos;%1&apos; 스크립트를 불러오시겠습니까?</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="561"/>
+      <location filename="../core/MainWindow.cpp" line="562"/>
       <source>Cannot open file!</source>
       <translation>파일을 열 수 없습니다!</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="562"/>
+      <location filename="../core/MainWindow.cpp" line="563"/>
       <source>Could not open the file! Make sure the file exists and that you have the correct permissions.</source>
       <translation>파일을 열 수 없습니다! 파일이 존재하고 올바른 권한을 가지고 있는지 확인해 주세요.</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="625"/>
+      <location filename="../core/MainWindow.cpp" line="626"/>
       <source>Failed to open project: %1</source>
       <translation>프로젝트 열기 실패: %1</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="630"/>
+      <location filename="../core/MainWindow.cpp" line="631"/>
       <source>Open Project</source>
       <translation>프로젝트 열기</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="752"/>
+      <location filename="../core/MainWindow.cpp" line="753"/>
       <source>Failed to save project: %1</source>
       <translation>프로젝트 저장 실패: %1</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="780"/>
+      <location filename="../core/MainWindow.cpp" line="781"/>
       <source>Do you really want to exit?
 Save your project before closing!</source>
       <translation>정말로 종료하시겠습니까?
 닫기 전에 프로젝트를 저장하세요!</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1056"/>
+      <location filename="../core/MainWindow.cpp" line="1057"/>
       <source>New disassembly</source>
       <translation>새로운 분해</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1058"/>
+      <location filename="../core/MainWindow.cpp" line="1059"/>
       <source>New graph</source>
       <translation>새로운 그래프</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1060"/>
+      <location filename="../core/MainWindow.cpp" line="1061"/>
       <source>New hexdump</source>
       <translation>새로운 헥스덤프</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1061"/>
+      <location filename="../core/MainWindow.cpp" line="1062"/>
       <source>New Decompiler</source>
       <translation>새로운 디컴파일러</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1240"/>
+      <location filename="../core/MainWindow.cpp" line="1241"/>
       <source>Save layout error</source>
       <translation>레이아웃 저장 오류</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1241"/>
+      <location filename="../core/MainWindow.cpp" line="1242"/>
       <source>&apos;%1&apos; is not a valid name.</source>
       <translation>&apos;%1&apos;의 이름이 유효하지 않습니다.</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1243"/>
+      <location filename="../core/MainWindow.cpp" line="1244"/>
       <source>Enter name</source>
       <translation>이름 입력</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1554"/>
+      <location filename="../core/MainWindow.cpp" line="1555"/>
       <source>Select Rizin script</source>
       <translation>Rizin 스크립트 선택</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1597"/>
+      <location filename="../core/MainWindow.cpp" line="1598"/>
       <source>Do you really want to clear all settings?</source>
       <translation>정말로 설정을 전부 초기화하시겠습니까?</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1697"/>
+      <location filename="../core/MainWindow.cpp" line="1698"/>
       <source>Select PDB file</source>
       <translation>PDB 파일 선택</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1698"/>
+      <location filename="../core/MainWindow.cpp" line="1699"/>
       <source>PDB file (*.pdb)</source>
       <translation>PDB 파일 (*.pdb)</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1698"/>
+      <location filename="../core/MainWindow.cpp" line="1699"/>
       <source>All files (*)</source>
       <translation>모든 파일 (*)</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1708"/>
+      <location filename="../core/MainWindow.cpp" line="1709"/>
       <source>%1 loaded.</source>
       <translation>%1이(가) 로드되었습니다.</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1799"/>
-      <location filename="../core/MainWindow.cpp" line="1821"/>
+      <location filename="../core/MainWindow.cpp" line="1800"/>
+      <location filename="../core/MainWindow.cpp" line="1822"/>
       <source>Signature File (*.sig)</source>
       <translation>서명 파일(*.sig)</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1800"/>
-      <location filename="../core/MainWindow.cpp" line="1822"/>
+      <location filename="../core/MainWindow.cpp" line="1801"/>
+      <location filename="../core/MainWindow.cpp" line="1823"/>
       <source>Pattern File (*.pat)</source>
       <translation>패턴 파일(*.pat)</translation>
     </message>
@@ -6105,27 +6125,27 @@ Save your project before closing!</source>
   <context>
     <name>ProcessesWidget</name>
     <message>
-      <location filename="../widgets/ProcessesWidget.cpp" line="26"/>
+      <location filename="../widgets/ProcessesWidget.cpp" line="20"/>
       <source>PID</source>
       <translation>PID</translation>
     </message>
     <message>
-      <location filename="../widgets/ProcessesWidget.cpp" line="27"/>
+      <location filename="../widgets/ProcessesWidget.cpp" line="22"/>
       <source>UID</source>
       <translation>UID</translation>
     </message>
     <message>
-      <location filename="../widgets/ProcessesWidget.cpp" line="28"/>
+      <location filename="../widgets/ProcessesWidget.cpp" line="24"/>
       <source>Status</source>
       <translation>상태</translation>
     </message>
     <message>
-      <location filename="../widgets/ProcessesWidget.cpp" line="29"/>
+      <location filename="../widgets/ProcessesWidget.cpp" line="26"/>
       <source>Path</source>
       <translation>경로</translation>
     </message>
     <message>
-      <location filename="../widgets/ProcessesWidget.cpp" line="167"/>
+      <location filename="../widgets/ProcessesWidget.cpp" line="164"/>
       <source>Unable to switch to the requested process.</source>
       <translation>요청된 프로세스로 전환할 수 없습니다.</translation>
     </message>
@@ -6142,12 +6162,12 @@ Save your project before closing!</source>
       <translation>offsetFrom(%1)이 refs.at(0).from(%(2))과 다릅니다.</translation>
     </message>
     <message>
-      <location filename="../common/IOModesController.cpp" line="53"/>
+      <location filename="../common/IOModesController.cpp" line="59"/>
       <source>Write error</source>
       <translation>쓰기 오류</translation>
     </message>
     <message>
-      <location filename="../common/IOModesController.cpp" line="54"/>
+      <location filename="../common/IOModesController.cpp" line="60"/>
       <source>Your file is opened in read-only mode. Editing is only available when the file is opened in either Write or Cache modes.
 
 WARNING: In Write mode, any changes will be committed to the file on disk. For safety, please consider using Cache mode and then commit the changes manually via File -&gt; Commit modifications to disk.</source>
@@ -6156,22 +6176,22 @@ WARNING: In Write mode, any changes will be committed to the file on disk. For s
 경고: 쓰기 모드에서는 모든 변경 사항이 디스크의 파일에 커밋됩니다. 안전을 위해 캐시 모드를 사용한 다음 파일을 통해 변경 사항을 수동으로 커밋 -> 변경 사항을 디스크 측으로 커밋하는 것이 좋습니다.</translation>
     </message>
     <message>
-      <location filename="../common/IOModesController.cpp" line="60"/>
+      <location filename="../common/IOModesController.cpp" line="66"/>
       <source>Cancel</source>
       <translation>취소</translation>
     </message>
     <message>
-      <location filename="../common/IOModesController.cpp" line="62"/>
+      <location filename="../common/IOModesController.cpp" line="68"/>
       <source>Reopen in Write mode</source>
       <translation>쓰기 모드에서 다시 열기</translation>
     </message>
     <message>
-      <location filename="../common/IOModesController.cpp" line="64"/>
+      <location filename="../common/IOModesController.cpp" line="70"/>
       <source>Enable Cache mode</source>
       <translation>캐시 모드 활성화</translation>
     </message>
     <message>
-      <location filename="../common/IOModesController.cpp" line="94"/>
+      <location filename="../common/IOModesController.cpp" line="100"/>
       <source>Uncommitted changes</source>
       <translation>변경 사항 커밋 취소</translation>
     </message>
@@ -6180,7 +6200,7 @@ WARNING: In Write mode, any changes will be committed to the file on disk. For s
       <translation>변경 사항 커밋 취소</translation>
     </message>
     <message>
-      <location filename="../common/IOModesController.cpp" line="95"/>
+      <location filename="../common/IOModesController.cpp" line="101"/>
       <source>It seems that you have changes or patches that are not committed to the file.
 Do you want to commit them now?</source>
       <translation>파일에 커밋되지 않은 변경 사항이나 패치가 있는 것 같습니다.
@@ -6197,172 +6217,172 @@ Do you want to commit them now?</source>
       <translation>Cutter 컴파일에 사용된 버전(%1)이 rizin 바이너리 버전(%2)과 맞지 않아, 올바르게 실행되지 않을 수 있습니다. 계속하시겠습니까?</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="388"/>
+      <location filename="../CutterApplication.cpp" line="384"/>
       <source>A Qt and C++ GUI for rizin reverse engineering framework</source>
       <translation> rizin 리버스 엔지니어링 프레임워크용 Qt 및 C++ GUI</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="391"/>
+      <location filename="../CutterApplication.cpp" line="387"/>
       <source>Filename to open.</source>
       <translation>열려는 파일 이름.</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="395"/>
+      <location filename="../CutterApplication.cpp" line="391"/>
       <source>Automatically open file and optionally start analysis. Needs filename to be specified. May be a value between 0 and 2: 0 = no analysis, 1 = aaa, 2 = aaaa (experimental)</source>
       <translation>파일을 자동으로 열고 분석을 선택적으로 시작합니다. 파일 이름을 지정해야 합니다. 0과 2 사이의 값일 수 있습니다: 0 = 분석 없음, 1 = aaa, 2 = aaaa(실험)</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="398"/>
+      <location filename="../CutterApplication.cpp" line="394"/>
       <source>level</source>
       <translation>수준</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="401"/>
+      <location filename="../CutterApplication.cpp" line="397"/>
       <source>Sets a specific architecture name</source>
       <translation>특정 아키텍처 이름을 설정합니다.</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="402"/>
+      <location filename="../CutterApplication.cpp" line="398"/>
       <source>arch</source>
       <translation>arch</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="405"/>
+      <location filename="../CutterApplication.cpp" line="401"/>
       <source>Sets a specific architecture bits</source>
       <translation>특정 아키텍처 비트를 설정합니다.</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="406"/>
+      <location filename="../CutterApplication.cpp" line="402"/>
       <source>bits</source>
       <translation>비트</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="409"/>
+      <location filename="../CutterApplication.cpp" line="405"/>
       <source>Sets a specific CPU</source>
       <translation>특정 CPU 설정</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="410"/>
+      <location filename="../CutterApplication.cpp" line="406"/>
       <source>cpu</source>
       <translation>cpu</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="413"/>
+      <location filename="../CutterApplication.cpp" line="409"/>
       <source>Sets a specific operating system</source>
       <translation>특정 운영 체제 설정</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="414"/>
+      <location filename="../CutterApplication.cpp" line="410"/>
       <source>os</source>
       <translation>os</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="418"/>
+      <location filename="../CutterApplication.cpp" line="414"/>
       <source>Sets the endianness (big or little)</source>
       <translation>엔디안 단위(크거나 작음) 설정</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="419"/>
+      <location filename="../CutterApplication.cpp" line="415"/>
       <source>big|little</source>
       <translation>큼|작음</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="423"/>
+      <location filename="../CutterApplication.cpp" line="419"/>
       <source>Force using a specific file format (bin plugin)</source>
       <translation>특정 파일 형식 강제 사용(빈 플러그인)</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="424"/>
+      <location filename="../CutterApplication.cpp" line="420"/>
       <source>name</source>
       <translation>이름</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="428"/>
+      <location filename="../CutterApplication.cpp" line="424"/>
       <source>Load binary at a specific base address</source>
       <translation>특정 기본 주소에 바이너리 로드</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="429"/>
+      <location filename="../CutterApplication.cpp" line="425"/>
       <source>base address</source>
       <translation>기본 주소</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="433"/>
+      <location filename="../CutterApplication.cpp" line="429"/>
       <source>Map the binary at a specific address</source>
       <translation>특정 주소에 바이너리 매핑</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="434"/>
+      <location filename="../CutterApplication.cpp" line="430"/>
       <source>map address</source>
       <translation>맵 주소</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="437"/>
+      <location filename="../CutterApplication.cpp" line="433"/>
       <source>Run script file</source>
       <translation>스크립트 파일 실행</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="437"/>
+      <location filename="../CutterApplication.cpp" line="433"/>
       <source>file</source>
       <translation>파일</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="440"/>
+      <location filename="../CutterApplication.cpp" line="436"/>
       <source>Load project file</source>
       <translation>프로젝트 파일 불러오기</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="441"/>
+      <location filename="../CutterApplication.cpp" line="437"/>
       <source>project file</source>
       <translation>프로젝트 파일</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="445"/>
+      <location filename="../CutterApplication.cpp" line="441"/>
       <source>Open file in write mode</source>
       <translation>쓰기 모드에서 파일 열기</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="449"/>
+      <location filename="../CutterApplication.cpp" line="445"/>
       <source>Disables virtual addressing</source>
       <translation>가상 주소 비활성화</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="453"/>
+      <location filename="../CutterApplication.cpp" line="449"/>
       <source>PYTHONHOME to use for embedded python interpreter</source>
       <translation>임베디드 파이선 해석기용 PYTHONHOME</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="459"/>
+      <location filename="../CutterApplication.cpp" line="455"/>
       <source>Disable output redirection. Some of the output in console widget will not be visible. Use this option when debuging a crash or freeze and output  redirection is causing some messages to be lost.</source>
       <translation>출력 리디렉션을 비활성화합니다. 콘솔 위젯의 일부 출력이 표시되지 않습니다. 크래시 또는 프리즈 디버깅 시 이 옵션을 사용하고 출력 리디렉션으로 인해 일부 메시지가 손실됩니다.</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="465"/>
+      <location filename="../CutterApplication.cpp" line="461"/>
       <source>Do not load plugins</source>
       <translation>플러그인을 로드하지 마십시오.</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="469"/>
+      <location filename="../CutterApplication.cpp" line="465"/>
       <source>Do not load Cutter plugins</source>
       <translation>Cutter 플러그인을 로드하지 마십시오.</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="473"/>
+      <location filename="../CutterApplication.cpp" line="469"/>
       <source>Do not load rizin plugins</source>
       <translation>rizin 플러그인을 로드하지 마십시오.</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="487"/>
+      <location filename="../CutterApplication.cpp" line="483"/>
       <source>Invalid Analysis Level. May be a value between 0 and 2.</source>
       <translation>유효하지 않은 분석 레벨입니다. 0에서 2 사이의 값일 수 있습니다.</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="507"/>
+      <location filename="../CutterApplication.cpp" line="503"/>
       <source>Filename must be specified to start analysis automatically.</source>
       <translation>분석을 자동으로 시작하려면 파일 이름을 지정해야 합니다.</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="563"/>
+      <location filename="../CutterApplication.cpp" line="559"/>
       <source>Invalid Endianness. You can only set it to `big` or `little`.</source>
       <translation>엔디안 단위가 잘못되었습니다. 엔디안 단위는 '큼' 또는 '작음'으로만 설정할 수 있습니다.</translation>
     </message>
@@ -7261,32 +7281,32 @@ Do you want to commit them now?</source>
   <context>
     <name>SearchModel</name>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="96"/>
+      <location filename="../widgets/SearchWidget.cpp" line="158"/>
       <source>&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;Preview&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</source>
       <translation>&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;미리보기&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="115"/>
+      <location filename="../widgets/SearchWidget.cpp" line="177"/>
       <source>Size</source>
       <translation>크기</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="117"/>
+      <location filename="../widgets/SearchWidget.cpp" line="179"/>
       <source>Offset</source>
       <translation>오프셋</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="119"/>
+      <location filename="../widgets/SearchWidget.cpp" line="181"/>
       <source>Code</source>
       <translation>코드</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="121"/>
+      <location filename="../widgets/SearchWidget.cpp" line="183"/>
       <source>Data</source>
       <translation>데이터</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="123"/>
+      <location filename="../widgets/SearchWidget.cpp" line="185"/>
       <source>Comment</source>
       <translation>주석</translation>
     </message>
@@ -7295,7 +7315,7 @@ Do you want to commit them now?</source>
     <name>SearchWidget</name>
     <message>
       <location filename="../widgets/SearchWidget.ui" line="83"/>
-      <location filename="../widgets/SearchWidget.cpp" line="332"/>
+      <location filename="../widgets/SearchWidget.cpp" line="391"/>
       <source>Search</source>
       <translation>검색</translation>
     </message>
@@ -7310,47 +7330,41 @@ Do you want to commit them now?</source>
       <translation>검색 위치:</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="255"/>
       <source>asm code</source>
       <translation>asm 코드</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="256"/>
       <source>string</source>
       <translation>문자열</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="257"/>
       <source>string (case insensitive)</source>
       <translation>문자열(대소문자 구분 없음)</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="258"/>
       <source>hex string</source>
       <translation>16진수 문자열</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="259"/>
       <source>ROP gadgets</source>
       <translation>ROP 가젯</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="260"/>
       <source>32bit value</source>
       <translation>32비트 값</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="287"/>
+      <location filename="../widgets/SearchWidget.cpp" line="349"/>
       <source>No results found for:</source>
       <translation>다음에 대한 결과를 찾을 수 없습니다:</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="290"/>
+      <location filename="../widgets/SearchWidget.cpp" line="357"/>
       <source>No Results Found</source>
       <translation>결과를 찾을 수 없음</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="325"/>
+      <location filename="../widgets/SearchWidget.cpp" line="384"/>
       <source>Searching...</source>
       <translation>검색 중...</translation>
     </message>
@@ -7634,21 +7648,56 @@ Do you want to commit them now?</source>
     </message>
   </context>
   <context>
+    <name>ThreadModel</name>
+    <message>
+      <location filename="../widgets/ThreadsWidget.cpp" line="84"/>
+      <source>TID</source>
+      <translation type="unfinished">TID</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ThreadsWidget.cpp" line="86"/>
+      <source>Status</source>
+      <translation type="unfinished">Status</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ThreadsWidget.cpp" line="88"/>
+      <source>Path</source>
+      <translation type="unfinished">Path</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ThreadsWidget.cpp" line="90"/>
+      <source>PC</source>
+      <translation type="unfinished">PC</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ThreadsWidget.cpp" line="92"/>
+      <source>TLS</source>
+      <translation type="unfinished">TLS</translation>
+    </message>
+  </context>
+  <context>
     <name>ThreadsWidget</name>
     <message>
-      <location filename="../widgets/ThreadsWidget.cpp" line="24"/>
       <source>PID</source>
       <translation>PID</translation>
     </message>
     <message>
-      <location filename="../widgets/ThreadsWidget.cpp" line="25"/>
       <source>Status</source>
       <translation>상태</translation>
     </message>
     <message>
-      <location filename="../widgets/ThreadsWidget.cpp" line="26"/>
       <source>Path</source>
       <translation>경로</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ThreadsWidget.cpp" line="243"/>
+      <source>TLS (%0)</source>
+      <translation type="unfinished">TLS (%0)</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ThreadsWidget.cpp" line="248"/>
+      <source>PC (%0)</source>
+      <translation type="unfinished">PC (%0)</translation>
     </message>
   </context>
   <context>
