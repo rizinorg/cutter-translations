@@ -1165,7 +1165,7 @@
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="91"/>
       <source>?v $.rax-0x6  # break when rax is 6</source>
-      <translation>?V $。?5x-0x6  # 破除程式當 RAX 是 6</translation>
+      <translation type="unfinished">?v $.rax-0x6  # break when rax is 6</translation>
     </message>
     <message>
       <location filename="../dialogs/BreakpointsDialog.ui" line="99"/>
