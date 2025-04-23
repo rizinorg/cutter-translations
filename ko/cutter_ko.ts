@@ -1428,7 +1428,7 @@
     <message>
       <location filename="../widgets/ColorPicker.ui" line="14"/>
       <source>Color Picker</source>
-      <translation type="unfinished">Color Picker</translation>
+      <translation>색상 선택기</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="87"/>
@@ -1849,7 +1849,7 @@ Please check the console for more details.</source>
       <location filename="../core/Cutter.cpp" line="4150"/>
       <source>Error invalid search kind
 </source>
-      <translation type="unfinished">Error invalid search kind
+      <translation>오류: 잘못된 검색 종류
 </translation>
     </message>
     <message>
@@ -2852,7 +2852,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="81"/>
       <source>Copy instruction bytes</source>
-      <translation type="unfinished">Copy instruction bytes</translation>
+      <translation>명령 바이트 복사</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="98"/>
@@ -3626,7 +3626,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="313"/>
       <source>Import</source>
-      <translation type="unfinished">Import</translation>
+      <translation>가져오기</translation>
     </message>
     <message>
       <source>Imp.</source>
@@ -7652,27 +7652,27 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ThreadsWidget.cpp" line="84"/>
       <source>TID</source>
-      <translation type="unfinished">TID</translation>
+      <translation>TID</translation>
     </message>
     <message>
       <location filename="../widgets/ThreadsWidget.cpp" line="86"/>
       <source>Status</source>
-      <translation type="unfinished">Status</translation>
+      <translation>상태</translation>
     </message>
     <message>
       <location filename="../widgets/ThreadsWidget.cpp" line="88"/>
       <source>Path</source>
-      <translation type="unfinished">Path</translation>
+      <translation>경로</translation>
     </message>
     <message>
       <location filename="../widgets/ThreadsWidget.cpp" line="90"/>
       <source>PC</source>
-      <translation type="unfinished">PC</translation>
+      <translation>PC</translation>
     </message>
     <message>
       <location filename="../widgets/ThreadsWidget.cpp" line="92"/>
       <source>TLS</source>
-      <translation type="unfinished">TLS</translation>
+      <translation>TLS</translation>
     </message>
   </context>
   <context>
@@ -7692,12 +7692,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ThreadsWidget.cpp" line="243"/>
       <source>TLS (%0)</source>
-      <translation type="unfinished">TLS (%0)</translation>
+      <translation>TLS(%0)</translation>
     </message>
     <message>
       <location filename="../widgets/ThreadsWidget.cpp" line="248"/>
       <source>PC (%0)</source>
-      <translation type="unfinished">PC (%0)</translation>
+      <translation>PC(%0)</translation>
     </message>
   </context>
   <context>
