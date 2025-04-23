@@ -94,27 +94,27 @@
       <translation>اطلاعات نسخه Rizin</translation>
     </message>
     <message>
-      <location filename="../dialogs/AboutDialog.cpp" line="103"/>
+      <location filename="../dialogs/AboutDialog.cpp" line="105"/>
       <source>Checking for updates...</source>
       <translation>در حال بررسی به روز رسانی ها...</translation>
     </message>
     <message>
-      <location filename="../dialogs/AboutDialog.cpp" line="109"/>
+      <location filename="../dialogs/AboutDialog.cpp" line="111"/>
       <source>Error!</source>
       <translation>خطا!</translation>
     </message>
     <message>
-      <location filename="../dialogs/AboutDialog.cpp" line="112"/>
+      <location filename="../dialogs/AboutDialog.cpp" line="114"/>
       <source>Version control</source>
       <translation>کنترل نسخه</translation>
     </message>
     <message>
-      <location filename="../dialogs/AboutDialog.cpp" line="113"/>
+      <location filename="../dialogs/AboutDialog.cpp" line="115"/>
       <source>Cutter is up to date!</source>
       <translation>کاتر به‌روز است!</translation>
     </message>
     <message>
-      <location filename="../dialogs/AboutDialog.cpp" line="154"/>
+      <location filename="../dialogs/AboutDialog.cpp" line="156"/>
       <source>Based on Qt %1 (%2, %3 bit)</source>
       <translation>بر پایه ی Qt %1 (%2, %3 bit)</translation>
     </message>
@@ -1425,9 +1425,13 @@
   <context>
     <name>ColorPicker</name>
     <message>
-      <location filename="../widgets/ColorPicker.ui" line="14"/>
       <source>Form</source>
       <translation>فرم</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ColorPicker.ui" line="14"/>
+      <source>Color Picker</source>
+      <translation type="unfinished">Color Picker</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="87"/>
@@ -1534,7 +1538,7 @@
     </message>
     <message>
       <location filename="../common/ColorThemeWorker.cpp" line="75"/>
-      <location filename="../common/ColorThemeWorker.cpp" line="169"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="172"/>
       <source>Theme &lt;b&gt;%1&lt;/b&gt; does not exist.</source>
       <translation>تم &lt;b&gt;%1&lt;/b&gt; وجود ندارد.</translation>
     </message>
@@ -1544,62 +1548,62 @@
       <translation>فایل &lt;b&gt;%1&lt;/b&gt; را نمی توان باز کرد.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="166"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="169"/>
       <source>You can not delete standard Rizin color themes.</source>
       <translation>نمی‌توانید تم های رنگی استاندارد Rizin را حذف کنید.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="174"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="177"/>
       <source>You have no permission to write to &lt;b&gt;%1&lt;/b&gt;</source>
       <translation>شما دسترسی نوشتن در &lt;b&gt;%1&lt;/b&gt; را ندارید</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="177"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="180"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; can not be opened.</source>
       <translation>فایل &lt;b&gt;%1&lt;/b&gt; را نمی توان باز کرد.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="180"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="183"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; can not be removed.</source>
       <translation>فایل &lt;b&gt;%1&lt;/b&gt; را نمی توان حذف کرد.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="189"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="192"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; does not exist.</source>
       <translation>فایل &lt;b&gt;%1&lt;/b&gt; وجود ندارد.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="195"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="198"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; could not be opened. Please make sure you have access to it and try again.</source>
       <translation>فایل &lt;b&gt;%1&lt;/b&gt; را نمی‌توان باز کرد. لطفا از داشتن دسترسی به آن اطمینان حاصل کرده و دوباره امتحان کنید.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="199"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="202"/>
       <source>File &lt;b&gt;%1&lt;/b&gt; is not a Cutter color theme</source>
       <translation>فایل &lt;b&gt;%1&lt;/b&gt; یک تم رنگی کاتر نیست</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="204"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="207"/>
       <source>A color theme named &lt;b&gt;%1&lt;/b&gt; already exists.</source>
       <translation>یک تم رنگی با نام &lt;b&gt;%1&lt;/b&gt; از قبل موجود است.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="210"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="213"/>
       <source>Error occurred during importing. Please make sure you have an access to the directory &lt;b&gt;%1&lt;/b&gt; and try again.</source>
       <translation>خطایی حین وارد کردن رخ داد. لطفا از داشتن دسترسی به پوشه &lt;b&gt;%1&lt;/b&gt; اطمینان حاصل کرده و دوباره امتحان کنید.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="220"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="223"/>
       <source>A color theme named &lt;b&gt;&quot;%1&quot;&lt;/b&gt; already exists.</source>
       <translation>یک تم رنگی با نام &lt;b&gt;&quot;%1&quot;&lt;/b&gt; از قبل موجود است.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="224"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="227"/>
       <source>You can not rename standard Rizin themes.</source>
       <translation>نمی‌توانید نام تم های استاندارد Rizin را تغییر دهید.</translation>
     </message>
     <message>
-      <location filename="../common/ColorThemeWorker.cpp" line="230"/>
+      <location filename="../common/ColorThemeWorker.cpp" line="233"/>
       <source>Something went wrong during renaming. Please make sure you have access to the directory &lt;b&gt;&quot;%1&quot;&lt;/b&gt;.</source>
       <translation>هنگام تغییر نام خطایی رخ داد. لطفا از داشتن دسترسی به پوشه &lt;b&gt;&quot;%1&quot;&lt;/b&gt; اطمینان حاصل کنید.</translation>
     </message>
@@ -1625,7 +1629,7 @@
   <context>
     <name>CommandTask</name>
     <message>
-      <location filename="../common/CommandTask.h" line="23"/>
+      <location filename="../common/CommandTask.h" line="22"/>
       <source>Running Command</source>
       <translation>در حال اجرای دستور</translation>
     </message>
@@ -1701,12 +1705,12 @@
       <translation>!!! تنظیمات قابل نوشتن نیستند! از داشتن دسترسی نوشتن به &quot;%1&quot; اطمینان حاصل کنید</translation>
     </message>
     <message>
-      <location filename="../common/Configuration.cpp" line="146"/>
+      <location filename="../common/Configuration.cpp" line="150"/>
       <source>Critical Error!</source>
       <translation>خطای بحرانی!</translation>
     </message>
     <message>
-      <location filename="../common/Configuration.cpp" line="147"/>
+      <location filename="../common/Configuration.cpp" line="151"/>
       <source>Settings are not writable! Make sure you have a write access to &quot;%1&quot;.</source>
       <translation>تنظیمات قابل نوشتن نیستند! از داشتن دسترسی نوشتن به &quot;%1&quot; اطمینان حاصل کنید.</translation>
     </message>
@@ -1744,12 +1748,12 @@
       <translation>...</translation>
     </message>
     <message>
-      <location filename="../widgets/ConsoleWidget.cpp" line="76"/>
+      <location filename="../widgets/ConsoleWidget.cpp" line="75"/>
       <source>Clear Output</source>
       <translation>پاک کردن خروجی</translation>
     </message>
     <message>
-      <location filename="../widgets/ConsoleWidget.cpp" line="85"/>
+      <location filename="../widgets/ConsoleWidget.cpp" line="84"/>
       <source>Wrap Lines</source>
       <translation>بسته بندی خطوط</translation>
     </message>
@@ -1757,117 +1761,125 @@
   <context>
     <name>CutterCore</name>
     <message>
-      <location filename="../core/Cutter.cpp" line="274"/>
-      <location filename="../core/Cutter.cpp" line="287"/>
+      <location filename="../core/Cutter.cpp" line="280"/>
+      <location filename="../core/Cutter.cpp" line="294"/>
       <source>Loading initialization file from </source>
       <translation>در حال بارگیری فایل اولیه از </translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="1057"/>
-      <location filename="../core/Cutter.cpp" line="1066"/>
-      <location filename="../core/Cutter.cpp" line="1071"/>
-      <location filename="../core/Cutter.cpp" line="1081"/>
-      <location filename="../core/Cutter.cpp" line="1085"/>
+      <location filename="../core/Cutter.cpp" line="1030"/>
+      <location filename="../core/Cutter.cpp" line="1039"/>
+      <location filename="../core/Cutter.cpp" line="1044"/>
+      <location filename="../core/Cutter.cpp" line="1054"/>
+      <location filename="../core/Cutter.cpp" line="1058"/>
       <source>Signatures</source>
       <translation>امضاها</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="1058"/>
+      <location filename="../core/Cutter.cpp" line="1031"/>
       <source>Cannot apply signature file because the requested arch is not supported by .sig files</source>
       <translation>نمی توان فایل امضا را اعمال کرد زیرا قوس درخواستی توسط فایل های sig. پشتیبانی نمی شود</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="1067"/>
+      <location filename="../core/Cutter.cpp" line="1040"/>
       <source>Found %1 matching signatures!</source>
       <translation>%1 امضاهای منطبق پیدا شد!</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="1072"/>
+      <location filename="../core/Cutter.cpp" line="1045"/>
       <source>Failed to apply signature file!
 Please check the console for more details.</source>
       <translation>فایل امضا اعمال نشد!
 لطفا برای جزئیات بیشتر کنسول را بررسی کنید.</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="1082"/>
+      <location filename="../core/Cutter.cpp" line="1055"/>
       <source>Cannot create signature file (check the console for more details).</source>
       <translation>نمی توان فایل امضا ایجاد کرد (برای جزئیات بیشتر کنسول را بررسی کنید).</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="1086"/>
+      <location filename="../core/Cutter.cpp" line="1059"/>
       <source>Written %1 signatures to %2.</source>
       <translation>%1 امضاء به %2 نوشته شد.</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="1987"/>
+      <location filename="../core/Cutter.cpp" line="1964"/>
       <source>Starting native debug...</source>
       <translation>در حال شروع دیباگ محلی...</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2035"/>
+      <location filename="../core/Cutter.cpp" line="2012"/>
       <source>Starting emulation...</source>
       <translation>در حال شروع شبیه سازی...</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2098"/>
+      <location filename="../core/Cutter.cpp" line="2075"/>
       <source>Connecting to: </source>
       <translation>در حال اتصال به: </translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2150"/>
+      <location filename="../core/Cutter.cpp" line="2127"/>
       <source>Attaching to process (</source>
       <translation>در حال اتصال به پردازش (</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2607"/>
+      <location filename="../core/Cutter.cpp" line="2574"/>
       <source>Creating debug tracepoint...</source>
       <translation>در حال ایجاد نقطه ردیابی اشکال زدایی...</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2652"/>
+      <location filename="../core/Cutter.cpp" line="2619"/>
       <source>Stopping debug session...</source>
       <translation>در حال توقف جلسه اشکال زدایی...</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2687"/>
+      <location filename="../core/Cutter.cpp" line="2654"/>
       <source>Breakpoint error</source>
       <translation>خطای نقطه توقف</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2687"/>
+      <location filename="../core/Cutter.cpp" line="2654"/>
       <source>Failed to create breakpoint</source>
       <translation>ایجاد نقطه توقف ناموفق بود</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="3627"/>
+      <location filename="../core/Cutter.cpp" line="3612"/>
       <source>Unknown (%1)</source>
       <translation>ناشناخته (%1)</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="4059"/>
-      <location filename="../core/Cutter.cpp" line="4088"/>
+      <location filename="../core/Cutter.cpp" line="3936"/>
+      <location filename="../core/Cutter.cpp" line="4150"/>
+      <source>Error invalid search kind
+</source>
+      <translation type="unfinished">Error invalid search kind
+</translation>
+    </message>
+    <message>
+      <location filename="../core/Cutter.cpp" line="4330"/>
+      <location filename="../core/Cutter.cpp" line="4359"/>
       <source>Error parsing type: &quot;%1&quot; message: </source>
       <translation>نوع خطا در تجزیه: &quot;%1&quot; پیام: </translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="4065"/>
+      <location filename="../core/Cutter.cpp" line="4336"/>
       <source>Error creating global variable: &quot;%1&quot;</source>
       <translation>خطا در ایجاد متغیر جهانی: &quot;%1&quot;</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="4658"/>
-      <location filename="../core/Cutter.cpp" line="4709"/>
+      <location filename="../core/Cutter.cpp" line="4928"/>
+      <location filename="../core/Cutter.cpp" line="4979"/>
       <source>Cannot get global graph</source>
       <translation>نمی توان نمودار جهانی را دریافت کرد</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="4660"/>
-      <location filename="../core/Cutter.cpp" line="4711"/>
+      <location filename="../core/Cutter.cpp" line="4930"/>
+      <location filename="../core/Cutter.cpp" line="4981"/>
       <source>Cannot get graph at </source>
       <translation>نمودار دریافت نمی شود در </translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="4691"/>
+      <location filename="../core/Cutter.cpp" line="4961"/>
       <source>Failed to generate graph</source>
       <translation>ایجاد نمودار ناموفق بود</translation>
     </message>
@@ -2018,7 +2030,7 @@ Please check the console for more details.</source>
   <context>
     <name>CutterSeekable</name>
     <message>
-      <location filename="../common/CutterSeekable.cpp" line="73"/>
+      <location filename="../common/CutterSeekable.cpp" line="72"/>
       <source>More than one (%1) references here. Weird behaviour expected.</source>
       <translation>بیش از یک (%1) مرجع در اینجا. رفتار عجیب و غریب مورد انتظار است.</translation>
     </message>
@@ -2210,7 +2222,7 @@ Please check the console for more details.</source>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="993"/>
-      <location filename="../widgets/Dashboard.cpp" line="176"/>
+      <location filename="../widgets/Dashboard.cpp" line="177"/>
       <source>Certificates</source>
       <translation>گواهی ها</translation>
     </message>
@@ -2280,22 +2292,22 @@ Please check the console for more details.</source>
       <translation>درصد پوشش:</translation>
     </message>
     <message>
-      <location filename="../widgets/Dashboard.cpp" line="162"/>
+      <location filename="../widgets/Dashboard.cpp" line="163"/>
       <source>Key</source>
       <translation>کلید</translation>
     </message>
     <message>
-      <location filename="../widgets/Dashboard.cpp" line="162"/>
+      <location filename="../widgets/Dashboard.cpp" line="163"/>
       <source>Value</source>
       <translation>مقادیر</translation>
     </message>
     <message>
-      <location filename="../widgets/Dashboard.cpp" line="163"/>
+      <location filename="../widgets/Dashboard.cpp" line="164"/>
       <source>root</source>
       <translation>ریشه</translation>
     </message>
     <message>
-      <location filename="../widgets/Dashboard.cpp" line="204"/>
+      <location filename="../widgets/Dashboard.cpp" line="205"/>
       <source>N/A</source>
       <translation>N/A</translation>
     </message>
@@ -2734,7 +2746,7 @@ Please check the console for more details.</source>
     <name>DecompilerWidget</name>
     <message>
       <location filename="../widgets/DecompilerWidget.ui" line="14"/>
-      <location filename="../widgets/DecompilerWidget.cpp" line="483"/>
+      <location filename="../widgets/DecompilerWidget.cpp" line="485"/>
       <source>Decompiler</source>
       <translation>دیکامپایلر</translation>
     </message>
@@ -2805,84 +2817,89 @@ Please check the console for more details.</source>
   <context>
     <name>DisassemblyContextMenu</name>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="72"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="74"/>
       <source>Copy</source>
       <translation>کپی</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="75"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="77"/>
       <source>Copy address</source>
       <translation>کپی آدرس</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="79"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="85"/>
       <source>Show in</source>
       <translation>نمایش در</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="84"/>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="570"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="90"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="576"/>
       <source>Add Comment</source>
       <translation>افزودن نظر</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="171"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="177"/>
       <source>Add at...</source>
       <translation>اضافه شود در...</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="173"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="179"/>
       <source>Rename or add flag</source>
       <translation>تغییر نام یا اضافه کردن پرچم</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="88"/>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="911"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="94"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="928"/>
       <source>Re-type Local Variables</source>
       <translation>تایپ دوباره متغییرهای محلی</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="92"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="81"/>
+      <source>Copy instruction bytes</source>
+      <translation type="unfinished">Copy instruction bytes</translation>
+    </message>
+    <message>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="98"/>
       <source>Edit function</source>
       <translation>ویرایش تابع</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="96"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="102"/>
       <source>Delete comment</source>
       <translation>حذف کامنت</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="100"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="106"/>
       <source>Delete flag</source>
       <translation>حذف پرچم</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="103"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="109"/>
       <source>Undefine function</source>
       <translation>تابع تعریف نشده</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="107"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="113"/>
       <source>Define function here</source>
       <translation>در اینجا تابع تعریف کنید</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="119"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="125"/>
       <source>Structure offset</source>
       <translation>ساختار آفست</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="127"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="133"/>
       <source>Show X-Refs</source>
       <translation>نمایش X-Refs</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="131"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="137"/>
       <source>X-Refs for local variables</source>
       <translation>X-Ref برای متغیرهای محلی</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="135"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="141"/>
       <source>Show Options</source>
       <translation>نمایش گزینه ها</translation>
     </message>
@@ -2891,264 +2908,264 @@ Please check the console for more details.</source>
       <translation>تنظیم مقدار پایه فوری برای...</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="177"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="183"/>
       <source>Modify or add global variable</source>
       <translation>تغییر یا اضافه کردن متغیر جهانی</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="184"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="190"/>
       <source>Set base of immediate value to..</source>
       <translation>پایه ارزش فوری را تنظیم کنید بر روی..</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="186"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="192"/>
       <source>Binary</source>
       <translation>باینری</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="190"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="196"/>
       <source>Octal</source>
       <translation>مبنای هشت</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="194"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="200"/>
       <source>Decimal</source>
       <translation>دسیمال</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="198"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="204"/>
       <source>Hexadecimal</source>
       <translation>هگزادسیمال</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="202"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="208"/>
       <source>Network Port</source>
       <translation>پورت شبکه</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="206"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="212"/>
       <source>IP Address</source>
       <translation>آدرس IP</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="210"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="216"/>
       <source>Syscall</source>
       <translation>فراخوان سیستمی</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="214"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="220"/>
       <source>String</source>
       <translation>رشته</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="221"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="227"/>
       <source>Set current bits to...</source>
       <translation>تنظیم بیت های فعلی روی...</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="238"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="244"/>
       <source>Set as...</source>
       <translation>تنظیم به صورت...</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="240"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="246"/>
       <source>Code</source>
       <translation>کد</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="244"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="250"/>
       <source>String...</source>
       <translation>رشته...</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="246"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="252"/>
       <source>Auto-detect</source>
       <translation>تشخیص خودکار</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="248"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="254"/>
       <source>Remove</source>
       <translation>حذف</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="250"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="256"/>
       <source>Advanced</source>
       <translation>پیشرفته</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="262"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="268"/>
       <source>Data...</source>
       <translation>داده...</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="264"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="270"/>
       <source>Byte</source>
       <translation>بایت</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="268"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="274"/>
       <source>Word</source>
       <translation>کلمه</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="272"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="278"/>
       <source>Dword</source>
       <translation>Dword</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="276"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="282"/>
       <source>Qword</source>
       <translation>Qword</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="291"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="297"/>
       <source>Edit</source>
       <translation>ویرایش</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="293"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="299"/>
       <source>Instruction</source>
       <translation>دستورالعمل</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="297"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="303"/>
       <source>Nop Instruction</source>
       <translation>دستورالعمل پوچ</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="301"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="307"/>
       <source>Bytes</source>
       <translation>بایت ها</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="304"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="310"/>
       <source>Reverse Jump</source>
       <translation>پرش معکوس</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="310"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="316"/>
       <source>Breakpoint</source>
       <translation>نقطه‌ی توقف</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="312"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="318"/>
       <source>Add/remove breakpoint</source>
       <translation>اضافه/حذف کردن نقطه توقف</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="315"/>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="608"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="321"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="614"/>
       <source>Advanced breakpoint</source>
       <translation>نقطه توقف پیشرفته</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="322"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="328"/>
       <source>Debug</source>
       <translation>اشکال زدایی</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="324"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="330"/>
       <source>Continue until line</source>
       <translation>ادامه تا خط</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="424"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="430"/>
       <source>Add flag at %1 (used here)</source>
       <translation>اضافه کردن پرچم در %1 (اینجا استفاده شود)</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="429"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="435"/>
       <source>Rename &quot;%1&quot;</source>
       <translation>تغییرنام &quot;%1&quot;</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="434"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="440"/>
       <source>Rename local &quot;%1&quot;</source>
       <translation>تغییرنام محلی &quot;%1&quot;</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="439"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="445"/>
       <source>Rename flag &quot;%1&quot; (used here)</source>
       <translation>تغییر نام پرچم &quot;%1&quot; (اینجا استفاده شود)</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="497"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="503"/>
       <source>Add or change global variable at %1 (used here)</source>
       <translation>افزودن یا تغییر متغیر جهانی در %1 (اینجا استفاده شود)</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="573"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="579"/>
       <source>Edit Comment</source>
       <translation>ویرایش نظر</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="589"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="595"/>
       <source>Edit function &quot;%1&quot;</source>
       <translation>ویرایش تابع &quot;%1&quot;</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="606"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="612"/>
       <source>Remove breakpoint</source>
       <translation>حذف نقطه‌توقف</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="606"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="612"/>
       <source>Add breakpoint</source>
       <translation>افزودن نقطه‌توقف</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="607"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="613"/>
       <source>Edit breakpoint</source>
       <translation>ویرایش نقطه‌توقف</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="622"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="628"/>
       <source>X-Refs for %1</source>
       <translation>X-Refs برای %1</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="722"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="733"/>
       <source>Edit Instruction at %1</source>
       <translation>ویرایش دستورالعمل در %1</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="772"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="783"/>
       <source>Edit Bytes at %1</source>
       <translation>ویرایش بایت ها در %1</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="843"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="860"/>
       <source>New function at %1</source>
       <translation>تابع جدید در %1</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="844"/>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="865"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="861"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="882"/>
       <source>Function name:</source>
       <translation>نام تابع:</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="864"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="881"/>
       <source>Rename function %2</source>
       <translation>تغییر نام تابع %2</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="912"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="929"/>
       <source>You must be in a function to define variable types.</source>
       <translation>باید در یک تابع باشید تا بتوانید نوع متغیر‌ها را تعریف کنید.</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="974"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="991"/>
       <source>Wrong address</source>
       <translation>آدرس اشتباه</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="975"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="992"/>
       <source>Can&apos;t edit string at this address</source>
       <translation>نمی توان در این آدرس رشته را ویرایش کرد</translation>
     </message>
     <message>
-      <location filename="../menus/DisassemblyContextMenu.cpp" line="1047"/>
+      <location filename="../menus/DisassemblyContextMenu.cpp" line="1064"/>
       <source>Edit function %1</source>
       <translation>ویرایش تابع %1</translation>
     </message>
@@ -3156,7 +3173,7 @@ Please check the console for more details.</source>
   <context>
     <name>DisassemblyWidget</name>
     <message>
-      <location filename="../widgets/DisassemblyWidget.cpp" line="674"/>
+      <location filename="../widgets/DisassemblyWidget.cpp" line="677"/>
       <source>Disassembly</source>
       <translation>دیس‌اسمبلی</translation>
     </message>
@@ -3612,6 +3629,10 @@ Please check the console for more details.</source>
     </message>
     <message>
       <location filename="../widgets/FunctionsWidget.cpp" line="313"/>
+      <source>Import</source>
+      <translation type="unfinished">Import</translation>
+    </message>
+    <message>
       <source>Imp.</source>
       <translation>Imp.</translation>
     </message>
@@ -3985,24 +4006,24 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/GlobalsWidget.ui" line="76"/>
       <location filename="../widgets/GlobalsWidget.ui" line="79"/>
-      <location filename="../widgets/GlobalsWidget.cpp" line="206"/>
+      <location filename="../widgets/GlobalsWidget.cpp" line="191"/>
       <source>Edit Global Variable</source>
       <translation>ویرایش متغیر جهانی</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.ui" line="84"/>
       <location filename="../widgets/GlobalsWidget.ui" line="87"/>
-      <location filename="../widgets/GlobalsWidget.cpp" line="207"/>
+      <location filename="../widgets/GlobalsWidget.cpp" line="192"/>
       <source>Delete Global Variable</source>
       <translation>حذف متغیر جهانی</translation>
     </message>
     <message>
-      <location filename="../widgets/GlobalsWidget.cpp" line="167"/>
+      <location filename="../widgets/GlobalsWidget.cpp" line="153"/>
       <source>Category</source>
       <translation>دسته‌بندی</translation>
     </message>
     <message>
-      <location filename="../widgets/GlobalsWidget.cpp" line="169"/>
+      <location filename="../widgets/GlobalsWidget.cpp" line="155"/>
       <source>Globals</source>
       <translation>جهانی</translation>
     </message>
@@ -4104,7 +4125,7 @@ Please check the console for more details.</source>
   <context>
     <name>GraphView</name>
     <message>
-      <location filename="../widgets/GraphView.cpp" line="441"/>
+      <location filename="../widgets/GraphView.cpp" line="440"/>
       <source>Cutter graph export</source>
       <translation>صدور نمودار Cutter</translation>
     </message>
@@ -4170,100 +4191,100 @@ Please check the console for more details.</source>
   <context>
     <name>HexWidget</name>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="70"/>
+      <location filename="../widgets/HexWidget.cpp" line="71"/>
       <source>Hexadecimal</source>
       <translation>هگزادسیمال</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="71"/>
+      <location filename="../widgets/HexWidget.cpp" line="72"/>
       <source>Octal</source>
       <translation>مبنای هشت</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="72"/>
+      <location filename="../widgets/HexWidget.cpp" line="73"/>
       <source>Decimal</source>
       <translation>دسیمال</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="73"/>
+      <location filename="../widgets/HexWidget.cpp" line="74"/>
       <source>Signed decimal</source>
       <translation>دسیمال امضا شده</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="74"/>
+      <location filename="../widgets/HexWidget.cpp" line="75"/>
       <source>Float</source>
       <translation>شناور</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="88"/>
+      <location filename="../widgets/HexWidget.cpp" line="89"/>
       <source>Bytes per row</source>
       <translation>بایت های هر ردیف</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="98"/>
+      <location filename="../widgets/HexWidget.cpp" line="99"/>
       <source>Power of 2</source>
       <translation>به توان ۲</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="105"/>
+      <location filename="../widgets/HexWidget.cpp" line="106"/>
       <source>Big Endian</source>
       <translation>Big Endian</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="110"/>
+      <location filename="../widgets/HexWidget.cpp" line="111"/>
       <source>Bytes as pairs</source>
       <translation>بایت ها به‌صورت جفت</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="114"/>
+      <location filename="../widgets/HexWidget.cpp" line="115"/>
       <source>Copy</source>
       <translation>کپی</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="120"/>
+      <location filename="../widgets/HexWidget.cpp" line="121"/>
       <source>Copy address</source>
       <translation>کپی آدرس</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="127"/>
-      <location filename="../widgets/HexWidget.cpp" line="1157"/>
+      <location filename="../widgets/HexWidget.cpp" line="128"/>
+      <location filename="../widgets/HexWidget.cpp" line="1158"/>
       <source>Add Comment</source>
       <translation>افزودن نظر</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="134"/>
+      <location filename="../widgets/HexWidget.cpp" line="135"/>
       <source>Delete Comment</source>
       <translation>حذف کامنت</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="140"/>
+      <location filename="../widgets/HexWidget.cpp" line="141"/>
       <source>Select range</source>
       <translation>انتخاب محدوده</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="147"/>
-      <location filename="../widgets/HexWidget.cpp" line="1272"/>
+      <location filename="../widgets/HexWidget.cpp" line="148"/>
+      <location filename="../widgets/HexWidget.cpp" line="1273"/>
       <source>Write string</source>
       <translation>نوشتن رشته</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="151"/>
+      <location filename="../widgets/HexWidget.cpp" line="152"/>
       <source>Write length and string</source>
       <translation>نوشتن طول و رشته</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="155"/>
-      <location filename="../widgets/HexWidget.cpp" line="1466"/>
+      <location filename="../widgets/HexWidget.cpp" line="156"/>
+      <location filename="../widgets/HexWidget.cpp" line="1467"/>
       <source>Write wide string</source>
       <translation>نوشتن رشته عریض</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="159"/>
+      <location filename="../widgets/HexWidget.cpp" line="160"/>
       <source>Write zero terminated string</source>
       <translation>رشته پایان یافته صفر را بنویسید</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="163"/>
+      <location filename="../widgets/HexWidget.cpp" line="164"/>
       <source>Write a decoded or encoded Base64 string</source>
       <translation>یک رشته Base64 رمزگشایی یا کدگذاری شده بنویسید</translation>
     </message>
@@ -4272,83 +4293,83 @@ Please check the console for more details.</source>
       <translation>رشته De\Encoded Base64 را بنویسید</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="168"/>
-      <location filename="../widgets/HexWidget.cpp" line="1318"/>
+      <location filename="../widgets/HexWidget.cpp" line="169"/>
+      <location filename="../widgets/HexWidget.cpp" line="1319"/>
       <source>Write hex bytes</source>
       <translation>هگز بایت را بنویسید</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="172"/>
-      <location filename="../widgets/HexWidget.cpp" line="1354"/>
+      <location filename="../widgets/HexWidget.cpp" line="173"/>
+      <location filename="../widgets/HexWidget.cpp" line="1355"/>
       <source>Write zeros</source>
       <translation>صفرها را بنویسید</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="176"/>
-      <location filename="../widgets/HexWidget.cpp" line="1410"/>
+      <location filename="../widgets/HexWidget.cpp" line="177"/>
+      <location filename="../widgets/HexWidget.cpp" line="1411"/>
       <source>Write random bytes</source>
       <translation>بایتها را به‌صورت تصادفی بنویسید</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="180"/>
+      <location filename="../widgets/HexWidget.cpp" line="181"/>
       <source>Duplicate from offset</source>
       <translation>تکرار از آفست</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="184"/>
+      <location filename="../widgets/HexWidget.cpp" line="185"/>
       <source>Increment/Decrement</source>
       <translation>افزایش/کاهش</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="188"/>
+      <location filename="../widgets/HexWidget.cpp" line="189"/>
       <source>Edit with keyboard</source>
       <translation>ویرایش با صفحه کلید</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1160"/>
+      <location filename="../widgets/HexWidget.cpp" line="1161"/>
       <source>Edit Comment</source>
       <translation>ویرایش نظر</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1168"/>
+      <location filename="../widgets/HexWidget.cpp" line="1169"/>
       <source>Item size:</source>
       <translation>اندازه آیتم‌ها:</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1170"/>
+      <location filename="../widgets/HexWidget.cpp" line="1171"/>
       <source>Item format:</source>
       <translation>فرمت آیتم‌ها:</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1175"/>
+      <location filename="../widgets/HexWidget.cpp" line="1176"/>
       <source>Edit</source>
       <translation>ویرایش</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1272"/>
-      <location filename="../widgets/HexWidget.cpp" line="1448"/>
-      <location filename="../widgets/HexWidget.cpp" line="1466"/>
-      <location filename="../widgets/HexWidget.cpp" line="1484"/>
+      <location filename="../widgets/HexWidget.cpp" line="1273"/>
+      <location filename="../widgets/HexWidget.cpp" line="1449"/>
+      <location filename="../widgets/HexWidget.cpp" line="1467"/>
+      <location filename="../widgets/HexWidget.cpp" line="1485"/>
       <source>String:</source>
       <translation>رشته:</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1318"/>
+      <location filename="../widgets/HexWidget.cpp" line="1319"/>
       <source>Hex byte string:</source>
       <translation>رشته هگز بایت:</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1354"/>
+      <location filename="../widgets/HexWidget.cpp" line="1355"/>
       <source>Number of zeros:</source>
       <translation>تعداد صفرها:</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1381"/>
+      <location filename="../widgets/HexWidget.cpp" line="1382"/>
       <source>Error</source>
       <translation>خطا</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1382"/>
+      <location filename="../widgets/HexWidget.cpp" line="1383"/>
       <source>Error occured during decoding your input.
 Please, make sure, that it is a valid base64 string and try again.</source>
       <translation>هنگام رمزگشایی ورودی شما خطایی رخ داده است.
@@ -4359,17 +4380,17 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <translation>تصادفی بنویسید</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1410"/>
+      <location filename="../widgets/HexWidget.cpp" line="1411"/>
       <source>Number of bytes:</source>
       <translation>تعداد بایت ها:</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1448"/>
+      <location filename="../widgets/HexWidget.cpp" line="1449"/>
       <source>Write Pascal string</source>
       <translation>رشته پاسکال را بنویسید</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1484"/>
+      <location filename="../widgets/HexWidget.cpp" line="1485"/>
       <source>Write zero-terminated string</source>
       <translation>رشته پایان یافته صفر را بنویسید</translation>
     </message>
@@ -4668,7 +4689,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="167"/>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="413"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="414"/>
       <source>Analysis: Enabled</source>
       <translation>تحلیل: فعال</translation>
     </message>
@@ -4704,7 +4725,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="364"/>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="399"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="400"/>
       <source>Advanced</source>
       <translation>پیشرفته</translation>
     </message>
@@ -4930,58 +4951,58 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <translation>ادامه آنالیزها بعد از هر تابع</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="393"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="394"/>
       <source>No analysis</source>
       <translation>بدون تجزیه و تحلیل</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="395"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="396"/>
       <source>Auto-Analysis (aaa)</source>
       <translation>تجزیه و تحلیل خودکار (aaa)</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="397"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="398"/>
       <source>Auto-Analysis Experimental (aaaa)</source>
       <translation>تجزیه و تحلیل خودکار آزمایشی (aaaa)</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="401"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="402"/>
       <source>Unknown</source>
       <translation>ناشناخته</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="407"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="408"/>
       <source>Level</source>
       <translation>سطح</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="410"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="411"/>
       <source>Analysis: Disabled</source>
       <translation>تحلیل: غیرفعال</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="456"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="457"/>
       <source>Select PDB file</source>
       <translation>انتخاب فایل PDB</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="457"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="458"/>
       <source>PDB file (*.pdb)</source>
       <translation>فایل PDB (*.pdb)</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="457"/>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="479"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="458"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="480"/>
       <source>All files (*)</source>
       <translation>همه فایلها (*)</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="478"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="479"/>
       <source>Select Rizin script file</source>
       <translation>انتخاب فایل اسکریپت Rizin</translation>
     </message>
     <message>
-      <location filename="../dialogs/InitialOptionsDialog.cpp" line="479"/>
+      <location filename="../dialogs/InitialOptionsDialog.cpp" line="480"/>
       <source>Script file (*.rz)</source>
       <translation>اسکریپت فایل (rz.*)</translation>
     </message>
@@ -5007,7 +5028,6 @@ Please, make sure, that it is a valid base64 string and try again.</source>
   <context>
     <name>JSDecDecompiler</name>
     <message>
-      <location filename="../common/Decompiler.cpp" line="109"/>
       <source>Failed to parse JSON from jsdec</source>
       <translation>تجزیه JSON از jsdec انجام نشد</translation>
     </message>
@@ -5112,8 +5132,8 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="160"/>
-      <location filename="../core/MainWindow.cpp" line="147"/>
       <location filename="../core/MainWindow.cpp" line="148"/>
+      <location filename="../core/MainWindow.cpp" line="149"/>
       <source>Plugins</source>
       <translation>پلاگین‌ها</translation>
     </message>
@@ -5181,7 +5201,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="273"/>
       <location filename="../core/MainWindow.ui" line="276"/>
       <location filename="../core/MainWindow.ui" line="872"/>
-      <location filename="../core/MainWindow.cpp" line="1243"/>
+      <location filename="../core/MainWindow.cpp" line="1244"/>
       <source>Save layout</source>
       <translation>ذخیره چیدمان</translation>
     </message>
@@ -5202,8 +5222,8 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="294"/>
-      <location filename="../core/MainWindow.cpp" line="728"/>
-      <location filename="../core/MainWindow.cpp" line="751"/>
+      <location filename="../core/MainWindow.cpp" line="729"/>
+      <location filename="../core/MainWindow.cpp" line="752"/>
       <source>Save Project</source>
       <translation>ذخیره پروژه</translation>
     </message>
@@ -5558,13 +5578,13 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="760"/>
-      <location filename="../core/MainWindow.cpp" line="1803"/>
+      <location filename="../core/MainWindow.cpp" line="1804"/>
       <source>Apply Signature From File</source>
       <translation>اجرای فایل فرم امضا</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="765"/>
-      <location filename="../core/MainWindow.cpp" line="1824"/>
+      <location filename="../core/MainWindow.cpp" line="1825"/>
       <source>Create New Signature File</source>
       <translation>ایجاد فایل امضای جدید</translation>
     </message>
@@ -5674,121 +5694,121 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <translation>برنامه را با استفاده از &apos;s &quot;aaa&quot; دستور Rizin آنالیز کنید</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="542"/>
+      <location filename="../core/MainWindow.cpp" line="543"/>
       <source>Script loading</source>
       <translation>بارگذاری اسکریپت</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="543"/>
+      <location filename="../core/MainWindow.cpp" line="544"/>
       <source>Do you want to load the &apos;%1&apos; script?</source>
       <translation>آیا می خواهید &apos;%1&apos; اسکریپت بارگذاری شود؟</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="561"/>
+      <location filename="../core/MainWindow.cpp" line="562"/>
       <source>Cannot open file!</source>
       <translation>نمی‌توان فایل را باز کرد!</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="562"/>
+      <location filename="../core/MainWindow.cpp" line="563"/>
       <source>Could not open the file! Make sure the file exists and that you have the correct permissions.</source>
       <translation>فایل باز نشد! مطمئن شوید که فایل موجود است و مجوزهای صحیح را دارید.</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="625"/>
+      <location filename="../core/MainWindow.cpp" line="626"/>
       <source>Failed to open project: %1</source>
       <translation>بازکردن فایل ناموفق بود: %1</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="630"/>
+      <location filename="../core/MainWindow.cpp" line="631"/>
       <source>Open Project</source>
       <translation>باز کردن پروژه</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="752"/>
+      <location filename="../core/MainWindow.cpp" line="753"/>
       <source>Failed to save project: %1</source>
       <translation>ذخیره‌سازی فایل ناموفق بود: %1</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="780"/>
+      <location filename="../core/MainWindow.cpp" line="781"/>
       <source>Do you really want to exit?
 Save your project before closing!</source>
       <translation>آیا واقعاً می خواهید خارج شوید؟
 پروژه خود را قبل از بسته شدن ذخیره کنید!</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1056"/>
+      <location filename="../core/MainWindow.cpp" line="1057"/>
       <source>New disassembly</source>
       <translation>دیس‌اسمبلی جدید</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1058"/>
+      <location filename="../core/MainWindow.cpp" line="1059"/>
       <source>New graph</source>
       <translation>نمودار جدید</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1060"/>
+      <location filename="../core/MainWindow.cpp" line="1061"/>
       <source>New hexdump</source>
       <translation>Hexdump جدید</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1061"/>
+      <location filename="../core/MainWindow.cpp" line="1062"/>
       <source>New Decompiler</source>
       <translation>دیکامپایلر جدید</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1240"/>
+      <location filename="../core/MainWindow.cpp" line="1241"/>
       <source>Save layout error</source>
       <translation>ذخیره خطای چیدمان</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1241"/>
+      <location filename="../core/MainWindow.cpp" line="1242"/>
       <source>&apos;%1&apos; is not a valid name.</source>
       <translation>&apos;%1&apos; یک نام معتبر نیست.</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1243"/>
+      <location filename="../core/MainWindow.cpp" line="1244"/>
       <source>Enter name</source>
       <translation>واردکردن نام</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1554"/>
+      <location filename="../core/MainWindow.cpp" line="1555"/>
       <source>Select Rizin script</source>
       <translation>انتخاب اسکریپت Rizin</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1597"/>
+      <location filename="../core/MainWindow.cpp" line="1598"/>
       <source>Do you really want to clear all settings?</source>
       <translation>آیا واقعا میخواهید همه تنظیمات را پاک کنید؟</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1697"/>
+      <location filename="../core/MainWindow.cpp" line="1698"/>
       <source>Select PDB file</source>
       <translation>انتخاب فایل PDB</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1698"/>
+      <location filename="../core/MainWindow.cpp" line="1699"/>
       <source>PDB file (*.pdb)</source>
       <translation>فایل PDB (*.pdb)</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1698"/>
+      <location filename="../core/MainWindow.cpp" line="1699"/>
       <source>All files (*)</source>
       <translation>همه فایلها (*)</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1708"/>
+      <location filename="../core/MainWindow.cpp" line="1709"/>
       <source>%1 loaded.</source>
       <translation>%1 بارگذاری شد.</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1799"/>
-      <location filename="../core/MainWindow.cpp" line="1821"/>
+      <location filename="../core/MainWindow.cpp" line="1800"/>
+      <location filename="../core/MainWindow.cpp" line="1822"/>
       <source>Signature File (*.sig)</source>
       <translation>فایل امضا (sig.*)</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1800"/>
-      <location filename="../core/MainWindow.cpp" line="1822"/>
+      <location filename="../core/MainWindow.cpp" line="1801"/>
+      <location filename="../core/MainWindow.cpp" line="1823"/>
       <source>Pattern File (*.pat)</source>
       <translation>فایل الگو (pat.*)</translation>
     </message>
@@ -6110,27 +6130,27 @@ Save your project before closing!</source>
   <context>
     <name>ProcessesWidget</name>
     <message>
-      <location filename="../widgets/ProcessesWidget.cpp" line="26"/>
+      <location filename="../widgets/ProcessesWidget.cpp" line="20"/>
       <source>PID</source>
       <translation>PID</translation>
     </message>
     <message>
-      <location filename="../widgets/ProcessesWidget.cpp" line="27"/>
+      <location filename="../widgets/ProcessesWidget.cpp" line="22"/>
       <source>UID</source>
       <translation>UID</translation>
     </message>
     <message>
-      <location filename="../widgets/ProcessesWidget.cpp" line="28"/>
+      <location filename="../widgets/ProcessesWidget.cpp" line="24"/>
       <source>Status</source>
       <translation>وضعیت</translation>
     </message>
     <message>
-      <location filename="../widgets/ProcessesWidget.cpp" line="29"/>
+      <location filename="../widgets/ProcessesWidget.cpp" line="26"/>
       <source>Path</source>
       <translation>مسیر</translation>
     </message>
     <message>
-      <location filename="../widgets/ProcessesWidget.cpp" line="167"/>
+      <location filename="../widgets/ProcessesWidget.cpp" line="164"/>
       <source>Unable to switch to the requested process.</source>
       <translation>تغییر به فرآیند درخواستی ممکن نیست.</translation>
     </message>
@@ -6147,12 +6167,12 @@ Save your project before closing!</source>
       <translation>offsetFrom (%1) با refs.at(0).from (%(2)) متفاوت است</translation>
     </message>
     <message>
-      <location filename="../common/IOModesController.cpp" line="53"/>
+      <location filename="../common/IOModesController.cpp" line="59"/>
       <source>Write error</source>
       <translation>نوشتن خطا</translation>
     </message>
     <message>
-      <location filename="../common/IOModesController.cpp" line="54"/>
+      <location filename="../common/IOModesController.cpp" line="60"/>
       <source>Your file is opened in read-only mode. Editing is only available when the file is opened in either Write or Cache modes.
 
 WARNING: In Write mode, any changes will be committed to the file on disk. For safety, please consider using Cache mode and then commit the changes manually via File -&gt; Commit modifications to disk.</source>
@@ -6161,22 +6181,22 @@ WARNING: In Write mode, any changes will be committed to the file on disk. For s
 هشدار: در حالت Write، هر تغییری در فایل روی دیسک انجام می شود. برای ایمنی، لطفاً از حالت Cache استفاده کنید و سپس تغییرات را به صورت دستی از طریق فایل -&gt; انجام تغییرات روی دیسک انجام دهید.</translation>
     </message>
     <message>
-      <location filename="../common/IOModesController.cpp" line="60"/>
+      <location filename="../common/IOModesController.cpp" line="66"/>
       <source>Cancel</source>
       <translation>لغو</translation>
     </message>
     <message>
-      <location filename="../common/IOModesController.cpp" line="62"/>
+      <location filename="../common/IOModesController.cpp" line="68"/>
       <source>Reopen in Write mode</source>
       <translation>در حالت Write دوباره باز کنید</translation>
     </message>
     <message>
-      <location filename="../common/IOModesController.cpp" line="64"/>
+      <location filename="../common/IOModesController.cpp" line="70"/>
       <source>Enable Cache mode</source>
       <translation>حالت Cache را فعال کنید</translation>
     </message>
     <message>
-      <location filename="../common/IOModesController.cpp" line="94"/>
+      <location filename="../common/IOModesController.cpp" line="100"/>
       <source>Uncommitted changes</source>
       <translation>تغییرات تعهد نشده</translation>
     </message>
@@ -6185,7 +6205,7 @@ WARNING: In Write mode, any changes will be committed to the file on disk. For s
       <translation>تغییرات تعهد نشده</translation>
     </message>
     <message>
-      <location filename="../common/IOModesController.cpp" line="95"/>
+      <location filename="../common/IOModesController.cpp" line="101"/>
       <source>It seems that you have changes or patches that are not committed to the file.
 Do you want to commit them now?</source>
       <translation>به نظر می رسد که شما تغییرات یا پچ هایی patches دارید که به فایل متعهد نیستند.
@@ -6202,172 +6222,172 @@ Do you want to commit them now?</source>
       <translation>نسخه مورد استفاده برای کامپایل Cutter (%1) با نسخه باینری rizin (%2) مطابقت ندارد. این می تواند منجر به رفتار غیرمنتظره شود. آیا مطمئن هستید که میخواهید ادامه دهید؟</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="388"/>
+      <location filename="../CutterApplication.cpp" line="384"/>
       <source>A Qt and C++ GUI for rizin reverse engineering framework</source>
       <translation>رابط کاربری گرافیکی Qt و ++C برای چارچوب مهندسی معکوس rizin</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="391"/>
+      <location filename="../CutterApplication.cpp" line="387"/>
       <source>Filename to open.</source>
       <translation>نام فایل برای باز کردن.</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="395"/>
+      <location filename="../CutterApplication.cpp" line="391"/>
       <source>Automatically open file and optionally start analysis. Needs filename to be specified. May be a value between 0 and 2: 0 = no analysis, 1 = aaa, 2 = aaaa (experimental)</source>
       <translation>باز کردن خودکار فایل و شروع آنالیز به صورت اختیاری. باید نام فایل مشخص شود. ممکن است مقداری بین 0 و 2 باشد: 0 = بدون آنالیز، 1 = aaaa = 2 ،aaa (تجربی)</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="398"/>
+      <location filename="../CutterApplication.cpp" line="394"/>
       <source>level</source>
       <translation>سطح</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="401"/>
+      <location filename="../CutterApplication.cpp" line="397"/>
       <source>Sets a specific architecture name</source>
       <translation>یک نام معماری خاص را تنظیم می کند</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="402"/>
+      <location filename="../CutterApplication.cpp" line="398"/>
       <source>arch</source>
       <translation>قوس</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="405"/>
+      <location filename="../CutterApplication.cpp" line="401"/>
       <source>Sets a specific architecture bits</source>
       <translation>یک بیت معماری خاص را تنظیم می کند</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="406"/>
+      <location filename="../CutterApplication.cpp" line="402"/>
       <source>bits</source>
       <translation>بیت‌ها</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="409"/>
+      <location filename="../CutterApplication.cpp" line="405"/>
       <source>Sets a specific CPU</source>
       <translation>یک CPU خاص را تنظیم می کند</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="410"/>
+      <location filename="../CutterApplication.cpp" line="406"/>
       <source>cpu</source>
       <translation>cpu</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="413"/>
+      <location filename="../CutterApplication.cpp" line="409"/>
       <source>Sets a specific operating system</source>
       <translation>یک سیستم عامل خاص را تنظیم می کند</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="414"/>
+      <location filename="../CutterApplication.cpp" line="410"/>
       <source>os</source>
       <translation>os</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="418"/>
+      <location filename="../CutterApplication.cpp" line="414"/>
       <source>Sets the endianness (big or little)</source>
       <translation>Endianness را تنظیم می کند (بزرگ یا کوچک)</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="419"/>
+      <location filename="../CutterApplication.cpp" line="415"/>
       <source>big|little</source>
       <translation>big|little</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="423"/>
+      <location filename="../CutterApplication.cpp" line="419"/>
       <source>Force using a specific file format (bin plugin)</source>
       <translation>استفاده اجباری از یک فرمت فایل خاص (پلاگین bin)</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="424"/>
+      <location filename="../CutterApplication.cpp" line="420"/>
       <source>name</source>
       <translation>نام</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="428"/>
+      <location filename="../CutterApplication.cpp" line="424"/>
       <source>Load binary at a specific base address</source>
       <translation>باینری را در یک آدرس پایه خاص بارگیری نمایید</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="429"/>
+      <location filename="../CutterApplication.cpp" line="425"/>
       <source>base address</source>
       <translation>آدرس پایه</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="433"/>
+      <location filename="../CutterApplication.cpp" line="429"/>
       <source>Map the binary at a specific address</source>
       <translation>باینری را در یک آدرس خاص ترسیم کنید</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="434"/>
+      <location filename="../CutterApplication.cpp" line="430"/>
       <source>map address</source>
       <translation>آدرس نقشه</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="437"/>
+      <location filename="../CutterApplication.cpp" line="433"/>
       <source>Run script file</source>
       <translation>راه اندازی فایل اسکریپت</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="437"/>
+      <location filename="../CutterApplication.cpp" line="433"/>
       <source>file</source>
       <translation>فایل</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="440"/>
+      <location filename="../CutterApplication.cpp" line="436"/>
       <source>Load project file</source>
       <translation>بارگذاری فایل پروژه</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="441"/>
+      <location filename="../CutterApplication.cpp" line="437"/>
       <source>project file</source>
       <translation>فایل پروژه</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="445"/>
+      <location filename="../CutterApplication.cpp" line="441"/>
       <source>Open file in write mode</source>
       <translation>فایل را در حالت نوشتاری باز کنید</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="449"/>
+      <location filename="../CutterApplication.cpp" line="445"/>
       <source>Disables virtual addressing</source>
       <translation>آدرس دهی مجازی را غیرفعال می کند</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="453"/>
+      <location filename="../CutterApplication.cpp" line="449"/>
       <source>PYTHONHOME to use for embedded python interpreter</source>
       <translation>PYTHONHOME برای استفاده جهت مفسر پایتون تعبیه شده</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="459"/>
+      <location filename="../CutterApplication.cpp" line="455"/>
       <source>Disable output redirection. Some of the output in console widget will not be visible. Use this option when debuging a crash or freeze and output  redirection is causing some messages to be lost.</source>
       <translation>تغییر مسیر خروجی را غیرفعال نمایید. برخی از خروجی های ویجت کنسول قابل مشاهده نخواهند بود. از این گزینه زمانی استفاده کنید که اشکال زدایی یک خرابی یا فریز کردن و تغییر مسیر خروجی باعث از بین رفتن برخی از پیام ها می شود.</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="465"/>
+      <location filename="../CutterApplication.cpp" line="461"/>
       <source>Do not load plugins</source>
       <translation>پلاگین ها را بارگذاری نکنید</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="469"/>
+      <location filename="../CutterApplication.cpp" line="465"/>
       <source>Do not load Cutter plugins</source>
       <translation>پلاگین های Cutter را بارگذاری نکنید</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="473"/>
+      <location filename="../CutterApplication.cpp" line="469"/>
       <source>Do not load rizin plugins</source>
       <translation>پلاگین های rizin را بارگذاری نکنید</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="487"/>
+      <location filename="../CutterApplication.cpp" line="483"/>
       <source>Invalid Analysis Level. May be a value between 0 and 2.</source>
       <translation>سطح آنالیز نامعتبر است. ممکن است مقداری بین 0 و 2 باشد.</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="507"/>
+      <location filename="../CutterApplication.cpp" line="503"/>
       <source>Filename must be specified to start analysis automatically.</source>
       <translation>برای شروع خودکار تجزیه و تحلیل باید نام فایل مشخص شود.</translation>
     </message>
     <message>
-      <location filename="../CutterApplication.cpp" line="563"/>
+      <location filename="../CutterApplication.cpp" line="559"/>
       <source>Invalid Endianness. You can only set it to `big` or `little`.</source>
       <translation>Endianness نامعتبر. شما فقط می توانید آن را روی "بزرگ" یا "کوچک" تنظیم کنید.</translation>
     </message>
@@ -7269,32 +7289,32 @@ Do you want to commit them now?</source>
   <context>
     <name>SearchModel</name>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="96"/>
+      <location filename="../widgets/SearchWidget.cpp" line="158"/>
       <source>&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;Preview&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</source>
       <translation>&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;پیش نمایش&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="115"/>
+      <location filename="../widgets/SearchWidget.cpp" line="177"/>
       <source>Size</source>
       <translation>اندازه‌</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="117"/>
+      <location filename="../widgets/SearchWidget.cpp" line="179"/>
       <source>Offset</source>
       <translation>آفست</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="119"/>
+      <location filename="../widgets/SearchWidget.cpp" line="181"/>
       <source>Code</source>
       <translation>کد</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="121"/>
+      <location filename="../widgets/SearchWidget.cpp" line="183"/>
       <source>Data</source>
       <translation>داده</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="123"/>
+      <location filename="../widgets/SearchWidget.cpp" line="185"/>
       <source>Comment</source>
       <translation>نظر</translation>
     </message>
@@ -7303,7 +7323,7 @@ Do you want to commit them now?</source>
     <name>SearchWidget</name>
     <message>
       <location filename="../widgets/SearchWidget.ui" line="83"/>
-      <location filename="../widgets/SearchWidget.cpp" line="332"/>
+      <location filename="../widgets/SearchWidget.cpp" line="391"/>
       <source>Search</source>
       <translation>جستجو</translation>
     </message>
@@ -7318,47 +7338,41 @@ Do you want to commit them now?</source>
       <translation>جستجو در:</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="255"/>
       <source>asm code</source>
       <translation>کد asm</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="256"/>
       <source>string</source>
       <translation>رشته</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="257"/>
       <source>string (case insensitive)</source>
       <translation>رشته (بدون حساسیت به حروف کوچک و بزرگ)</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="258"/>
       <source>hex string</source>
       <translation>رشته hex</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="259"/>
       <source>ROP gadgets</source>
       <translation>ابزارهای ROP</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="260"/>
       <source>32bit value</source>
       <translation>مقدار 32 بیت</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="287"/>
+      <location filename="../widgets/SearchWidget.cpp" line="349"/>
       <source>No results found for:</source>
       <translation>هیچ نتیجه‌ای یافت نشد برای:</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="290"/>
+      <location filename="../widgets/SearchWidget.cpp" line="357"/>
       <source>No Results Found</source>
       <translation>نتیجه ای یافت نشد</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="325"/>
+      <location filename="../widgets/SearchWidget.cpp" line="384"/>
       <source>Searching...</source>
       <translation>درحال جستجو...</translation>
     </message>
@@ -7642,21 +7656,56 @@ Do you want to commit them now?</source>
     </message>
   </context>
   <context>
+    <name>ThreadModel</name>
+    <message>
+      <location filename="../widgets/ThreadsWidget.cpp" line="84"/>
+      <source>TID</source>
+      <translation type="unfinished">TID</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ThreadsWidget.cpp" line="86"/>
+      <source>Status</source>
+      <translation type="unfinished">Status</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ThreadsWidget.cpp" line="88"/>
+      <source>Path</source>
+      <translation type="unfinished">Path</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ThreadsWidget.cpp" line="90"/>
+      <source>PC</source>
+      <translation type="unfinished">PC</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ThreadsWidget.cpp" line="92"/>
+      <source>TLS</source>
+      <translation type="unfinished">TLS</translation>
+    </message>
+  </context>
+  <context>
     <name>ThreadsWidget</name>
     <message>
-      <location filename="../widgets/ThreadsWidget.cpp" line="24"/>
       <source>PID</source>
       <translation>PID</translation>
     </message>
     <message>
-      <location filename="../widgets/ThreadsWidget.cpp" line="25"/>
       <source>Status</source>
       <translation>وضعیت</translation>
     </message>
     <message>
-      <location filename="../widgets/ThreadsWidget.cpp" line="26"/>
       <source>Path</source>
       <translation>مسیر</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ThreadsWidget.cpp" line="243"/>
+      <source>TLS (%0)</source>
+      <translation type="unfinished">TLS (%0)</translation>
+    </message>
+    <message>
+      <location filename="../widgets/ThreadsWidget.cpp" line="248"/>
+      <source>PC (%0)</source>
+      <translation type="unfinished">PC (%0)</translation>
     </message>
   </context>
   <context>
