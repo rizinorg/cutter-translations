@@ -1803,83 +1803,83 @@ Please check the console for more details.</translation>
       <translation type="unfinished">Written %1 signatures to %2.</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="1964"/>
+      <location filename="../core/Cutter.cpp" line="1968"/>
       <source>Starting native debug...</source>
       <translation type="unfinished">Starting native debug...</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2012"/>
+      <location filename="../core/Cutter.cpp" line="2016"/>
       <source>Starting emulation...</source>
       <translation type="unfinished">Starting emulation...</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2075"/>
+      <location filename="../core/Cutter.cpp" line="2079"/>
       <source>Connecting to: </source>
       <translation type="unfinished">Connecting to: </translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2127"/>
+      <location filename="../core/Cutter.cpp" line="2131"/>
       <source>Attaching to process (</source>
       <translation type="unfinished">Attaching to process (</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2574"/>
+      <location filename="../core/Cutter.cpp" line="2578"/>
       <source>Creating debug tracepoint...</source>
       <translation type="unfinished">Creating debug tracepoint...</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2619"/>
+      <location filename="../core/Cutter.cpp" line="2623"/>
       <source>Stopping debug session...</source>
       <translation type="unfinished">Stopping debug session...</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2654"/>
+      <location filename="../core/Cutter.cpp" line="2658"/>
       <source>Breakpoint error</source>
       <translation type="unfinished">Breakpoint error</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="2654"/>
+      <location filename="../core/Cutter.cpp" line="2658"/>
       <source>Failed to create breakpoint</source>
       <translation type="unfinished">Failed to create breakpoint</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="3612"/>
+      <location filename="../core/Cutter.cpp" line="3616"/>
       <source>Unknown (%1)</source>
       <translation type="unfinished">Unknown (%1)</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="3936"/>
-      <location filename="../core/Cutter.cpp" line="4150"/>
+      <location filename="../core/Cutter.cpp" line="3940"/>
+      <location filename="../core/Cutter.cpp" line="4154"/>
       <source>Error invalid search kind
 </source>
       <translation type="unfinished">Error invalid search kind
 </translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="4330"/>
-      <location filename="../core/Cutter.cpp" line="4359"/>
+      <location filename="../core/Cutter.cpp" line="4334"/>
+      <location filename="../core/Cutter.cpp" line="4363"/>
       <source>Error parsing type: &quot;%1&quot; message: </source>
       <translation type="unfinished">Error parsing type: &quot;%1&quot; message: </translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="4336"/>
+      <location filename="../core/Cutter.cpp" line="4340"/>
       <source>Error creating global variable: &quot;%1&quot;</source>
       <translation type="unfinished">Error creating global variable: &quot;%1&quot;</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="4928"/>
-      <location filename="../core/Cutter.cpp" line="4979"/>
+      <location filename="../core/Cutter.cpp" line="4932"/>
+      <location filename="../core/Cutter.cpp" line="4983"/>
       <source>Cannot get global graph</source>
       <translation type="unfinished">Cannot get global graph</translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="4930"/>
-      <location filename="../core/Cutter.cpp" line="4981"/>
+      <location filename="../core/Cutter.cpp" line="4934"/>
+      <location filename="../core/Cutter.cpp" line="4985"/>
       <source>Cannot get graph at </source>
       <translation type="unfinished">Cannot get graph at </translation>
     </message>
     <message>
-      <location filename="../core/Cutter.cpp" line="4961"/>
+      <location filename="../core/Cutter.cpp" line="4965"/>
       <source>Failed to generate graph</source>
       <translation type="unfinished">Failed to generate graph</translation>
     </message>
@@ -3410,12 +3410,12 @@ Please check the console for more details.</translation>
       <translation type="unfinished">Size:</translation>
     </message>
     <message>
-      <location filename="../dialogs/FlagDialog.cpp" line="24"/>
+      <location filename="../dialogs/FlagDialog.cpp" line="33"/>
       <source>Edit flag at %1</source>
       <translation type="unfinished">Edit flag at %1</translation>
     </message>
     <message>
-      <location filename="../dialogs/FlagDialog.cpp" line="26"/>
+      <location filename="../dialogs/FlagDialog.cpp" line="35"/>
       <source>Add flag at %1</source>
       <translation type="unfinished">Add flag at %1</translation>
     </message>
@@ -4191,100 +4191,106 @@ Please check the console for more details.</translation>
   <context>
     <name>HexWidget</name>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="71"/>
+      <location filename="../widgets/HexWidget.cpp" line="72"/>
       <source>Hexadecimal</source>
       <translation type="unfinished">Hexadecimal</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="72"/>
+      <location filename="../widgets/HexWidget.cpp" line="73"/>
       <source>Octal</source>
       <translation type="unfinished">Octal</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="73"/>
+      <location filename="../widgets/HexWidget.cpp" line="74"/>
       <source>Decimal</source>
       <translation type="unfinished">Decimal</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="74"/>
+      <location filename="../widgets/HexWidget.cpp" line="75"/>
       <source>Signed decimal</source>
       <translation type="unfinished">Signed decimal</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="75"/>
+      <location filename="../widgets/HexWidget.cpp" line="76"/>
       <source>Float</source>
       <translation type="unfinished">Float</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="89"/>
+      <location filename="../widgets/HexWidget.cpp" line="90"/>
       <source>Bytes per row</source>
       <translation type="unfinished">Bytes per row</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="99"/>
+      <location filename="../widgets/HexWidget.cpp" line="100"/>
       <source>Power of 2</source>
       <translation type="unfinished">Power of 2</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="106"/>
+      <location filename="../widgets/HexWidget.cpp" line="107"/>
       <source>Big Endian</source>
       <translation type="unfinished">Big Endian</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="111"/>
+      <location filename="../widgets/HexWidget.cpp" line="112"/>
       <source>Bytes as pairs</source>
       <translation type="unfinished">Bytes as pairs</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="115"/>
+      <location filename="../widgets/HexWidget.cpp" line="116"/>
       <source>Copy</source>
       <translation type="unfinished">Copy</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="121"/>
+      <location filename="../widgets/HexWidget.cpp" line="122"/>
       <source>Copy address</source>
       <translation type="unfinished">Copy address</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="128"/>
-      <location filename="../widgets/HexWidget.cpp" line="1158"/>
+      <location filename="../widgets/HexWidget.cpp" line="129"/>
+      <location filename="../widgets/HexWidget.cpp" line="1175"/>
       <source>Add Comment</source>
       <translation type="unfinished">Add Comment</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="135"/>
+      <location filename="../widgets/HexWidget.cpp" line="137"/>
+      <location filename="../widgets/HexWidget.cpp" line="1185"/>
+      <source>Add flag at %1</source>
+      <translation type="unfinished">Add flag at %1</translation>
+    </message>
+    <message>
+      <location filename="../widgets/HexWidget.cpp" line="152"/>
       <source>Delete Comment</source>
       <translation type="unfinished">Delete Comment</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="141"/>
+      <location filename="../widgets/HexWidget.cpp" line="158"/>
       <source>Select range</source>
       <translation type="unfinished">Select range</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="148"/>
-      <location filename="../widgets/HexWidget.cpp" line="1273"/>
+      <location filename="../widgets/HexWidget.cpp" line="165"/>
+      <location filename="../widgets/HexWidget.cpp" line="1309"/>
       <source>Write string</source>
       <translation type="unfinished">Write string</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="152"/>
+      <location filename="../widgets/HexWidget.cpp" line="169"/>
       <source>Write length and string</source>
       <translation type="unfinished">Write length and string</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="156"/>
-      <location filename="../widgets/HexWidget.cpp" line="1467"/>
+      <location filename="../widgets/HexWidget.cpp" line="173"/>
+      <location filename="../widgets/HexWidget.cpp" line="1503"/>
       <source>Write wide string</source>
       <translation type="unfinished">Write wide string</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="160"/>
+      <location filename="../widgets/HexWidget.cpp" line="177"/>
       <source>Write zero terminated string</source>
       <translation type="unfinished">Write zero terminated string</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="164"/>
+      <location filename="../widgets/HexWidget.cpp" line="181"/>
       <source>Write a decoded or encoded Base64 string</source>
       <translation type="unfinished">Write a decoded or encoded Base64 string</translation>
     </message>
@@ -4293,83 +4299,88 @@ Please check the console for more details.</translation>
       <translation type="unfinished">Write De\Encoded Base64 string</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="169"/>
-      <location filename="../widgets/HexWidget.cpp" line="1319"/>
+      <location filename="../widgets/HexWidget.cpp" line="186"/>
+      <location filename="../widgets/HexWidget.cpp" line="1355"/>
       <source>Write hex bytes</source>
       <translation type="unfinished">Write hex bytes</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="173"/>
-      <location filename="../widgets/HexWidget.cpp" line="1355"/>
+      <location filename="../widgets/HexWidget.cpp" line="190"/>
+      <location filename="../widgets/HexWidget.cpp" line="1391"/>
       <source>Write zeros</source>
       <translation type="unfinished">Write zeros</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="177"/>
-      <location filename="../widgets/HexWidget.cpp" line="1411"/>
+      <location filename="../widgets/HexWidget.cpp" line="194"/>
+      <location filename="../widgets/HexWidget.cpp" line="1447"/>
       <source>Write random bytes</source>
       <translation type="unfinished">Write random bytes</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="181"/>
+      <location filename="../widgets/HexWidget.cpp" line="198"/>
       <source>Duplicate from offset</source>
       <translation type="unfinished">Duplicate from offset</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="185"/>
+      <location filename="../widgets/HexWidget.cpp" line="202"/>
       <source>Increment/Decrement</source>
       <translation type="unfinished">Increment/Decrement</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="189"/>
+      <location filename="../widgets/HexWidget.cpp" line="206"/>
       <source>Edit with keyboard</source>
       <translation type="unfinished">Edit with keyboard</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1161"/>
+      <location filename="../widgets/HexWidget.cpp" line="1178"/>
       <source>Edit Comment</source>
       <translation type="unfinished">Edit Comment</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1169"/>
+      <location filename="../widgets/HexWidget.cpp" line="1187"/>
+      <source>Rename flag &quot;%1&quot;</source>
+      <translation type="unfinished">Rename flag &quot;%1&quot;</translation>
+    </message>
+    <message>
+      <location filename="../widgets/HexWidget.cpp" line="1195"/>
       <source>Item size:</source>
       <translation type="unfinished">Item size:</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1171"/>
+      <location filename="../widgets/HexWidget.cpp" line="1197"/>
       <source>Item format:</source>
       <translation type="unfinished">Item format:</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1176"/>
+      <location filename="../widgets/HexWidget.cpp" line="1202"/>
       <source>Edit</source>
       <translation type="unfinished">Edit</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1273"/>
-      <location filename="../widgets/HexWidget.cpp" line="1449"/>
-      <location filename="../widgets/HexWidget.cpp" line="1467"/>
+      <location filename="../widgets/HexWidget.cpp" line="1309"/>
       <location filename="../widgets/HexWidget.cpp" line="1485"/>
+      <location filename="../widgets/HexWidget.cpp" line="1503"/>
+      <location filename="../widgets/HexWidget.cpp" line="1521"/>
       <source>String:</source>
       <translation type="unfinished">String:</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1319"/>
+      <location filename="../widgets/HexWidget.cpp" line="1355"/>
       <source>Hex byte string:</source>
       <translation type="unfinished">Hex byte string:</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1355"/>
+      <location filename="../widgets/HexWidget.cpp" line="1391"/>
       <source>Number of zeros:</source>
       <translation type="unfinished">Number of zeros:</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1382"/>
+      <location filename="../widgets/HexWidget.cpp" line="1418"/>
       <source>Error</source>
       <translation type="unfinished">Error</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1383"/>
+      <location filename="../widgets/HexWidget.cpp" line="1419"/>
       <source>Error occured during decoding your input.
 Please, make sure, that it is a valid base64 string and try again.</source>
       <translation type="unfinished">Error occured during decoding your input.
@@ -4380,17 +4391,17 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <translation type="unfinished">Write random</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1411"/>
+      <location filename="../widgets/HexWidget.cpp" line="1447"/>
       <source>Number of bytes:</source>
       <translation type="unfinished">Number of bytes:</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1449"/>
+      <location filename="../widgets/HexWidget.cpp" line="1485"/>
       <source>Write Pascal string</source>
       <translation type="unfinished">Write Pascal string</translation>
     </message>
     <message>
-      <location filename="../widgets/HexWidget.cpp" line="1485"/>
+      <location filename="../widgets/HexWidget.cpp" line="1521"/>
       <source>Write zero-terminated string</source>
       <translation type="unfinished">Write zero-terminated string</translation>
     </message>
@@ -5095,7 +5106,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="97"/>
-      <location filename="../core/MainWindow.cpp" line="293"/>
+      <location filename="../core/MainWindow.cpp" line="291"/>
       <source>View</source>
       <translation type="unfinished">View</translation>
     </message>
@@ -5132,8 +5143,8 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="160"/>
-      <location filename="../core/MainWindow.cpp" line="148"/>
-      <location filename="../core/MainWindow.cpp" line="149"/>
+      <location filename="../core/MainWindow.cpp" line="146"/>
+      <location filename="../core/MainWindow.cpp" line="147"/>
       <source>Plugins</source>
       <translation type="unfinished">Plugins</translation>
     </message>
@@ -5201,7 +5212,7 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <location filename="../core/MainWindow.ui" line="273"/>
       <location filename="../core/MainWindow.ui" line="276"/>
       <location filename="../core/MainWindow.ui" line="872"/>
-      <location filename="../core/MainWindow.cpp" line="1244"/>
+      <location filename="../core/MainWindow.cpp" line="1242"/>
       <source>Save layout</source>
       <translation type="unfinished">Save layout</translation>
     </message>
@@ -5222,8 +5233,8 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="294"/>
-      <location filename="../core/MainWindow.cpp" line="729"/>
-      <location filename="../core/MainWindow.cpp" line="752"/>
+      <location filename="../core/MainWindow.cpp" line="726"/>
+      <location filename="../core/MainWindow.cpp" line="750"/>
       <source>Save Project</source>
       <translation type="unfinished">Save Project</translation>
     </message>
@@ -5483,6 +5494,10 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     <message>
       <location filename="../core/MainWindow.ui" line="652"/>
       <location filename="../core/MainWindow.ui" line="655"/>
+      <source>Show/Hide bottom panel</source>
+      <translation type="unfinished">Show/Hide bottom panel</translation>
+    </message>
+    <message>
       <source>Show/Hide bottom pannel</source>
       <translation type="unfinished">Show/Hide bottom pannel</translation>
     </message>
@@ -5573,18 +5588,19 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="755"/>
+      <location filename="../core/MainWindow.cpp" line="1765"/>
       <source>Export as code</source>
       <translation type="unfinished">Export as code</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="760"/>
-      <location filename="../core/MainWindow.cpp" line="1804"/>
+      <location filename="../core/MainWindow.cpp" line="1805"/>
       <source>Apply Signature From File</source>
       <translation type="unfinished">Apply Signature From File</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="765"/>
-      <location filename="../core/MainWindow.cpp" line="1825"/>
+      <location filename="../core/MainWindow.cpp" line="1826"/>
       <source>Create New Signature File</source>
       <translation type="unfinished">Create New Signature File</translation>
     </message>
@@ -5679,136 +5695,236 @@ Please, make sure, that it is a valid base64 string and try again.</translation>
       <translation type="unfinished">Manage layouts</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="256"/>
+      <location filename="../core/MainWindow.cpp" line="254"/>
       <source>No plugins are installed. Check the plugins section on Cutter documentation to learn more.</source>
       <translation type="unfinished">No plugins are installed. Check the plugins section on Cutter documentation to learn more.</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="261"/>
+      <location filename="../core/MainWindow.cpp" line="259"/>
       <source>The installed plugins didn&apos;t add entries to this menu.</source>
       <translation type="unfinished">The installed plugins didn&apos;t add entries to this menu.</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="275"/>
+      <location filename="../core/MainWindow.cpp" line="273"/>
       <source>Analyze the program using Rizin&apos;s &quot;aaa&quot; command</source>
       <translation type="unfinished">Analyze the program using Rizin&apos;s &quot;aaa&quot; command</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="543"/>
+      <location filename="../core/MainWindow.cpp" line="541"/>
       <source>Script loading</source>
       <translation type="unfinished">Script loading</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="544"/>
+      <location filename="../core/MainWindow.cpp" line="542"/>
       <source>Do you want to load the &apos;%1&apos; script?</source>
       <translation type="unfinished">Do you want to load the &apos;%1&apos; script?</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="562"/>
+      <location filename="../core/MainWindow.cpp" line="560"/>
       <source>Cannot open file!</source>
       <translation type="unfinished">Cannot open file!</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="563"/>
+      <location filename="../core/MainWindow.cpp" line="561"/>
       <source>Could not open the file! Make sure the file exists and that you have the correct permissions.</source>
       <translation type="unfinished">Could not open the file! Make sure the file exists and that you have the correct permissions.</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="626"/>
+      <location filename="../core/MainWindow.cpp" line="624"/>
       <source>Failed to open project: %1</source>
       <translation type="unfinished">Failed to open project: %1</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="631"/>
+      <location filename="../core/MainWindow.cpp" line="629"/>
       <source>Open Project</source>
       <translation type="unfinished">Open Project</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="753"/>
+      <location filename="../core/MainWindow.cpp" line="727"/>
+      <source>Rizin Project (*.rzdb)</source>
+      <translation type="unfinished">Rizin Project (*.rzdb)</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.cpp" line="751"/>
       <source>Failed to save project: %1</source>
       <translation type="unfinished">Failed to save project: %1</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="781"/>
+      <location filename="../core/MainWindow.cpp" line="779"/>
       <source>Do you really want to exit?
 Save your project before closing!</source>
       <translation type="unfinished">Do you really want to exit?
 Save your project before closing!</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1057"/>
+      <location filename="../core/MainWindow.cpp" line="1055"/>
       <source>New disassembly</source>
       <translation type="unfinished">New disassembly</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1059"/>
+      <location filename="../core/MainWindow.cpp" line="1057"/>
       <source>New graph</source>
       <translation type="unfinished">New graph</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1061"/>
+      <location filename="../core/MainWindow.cpp" line="1059"/>
       <source>New hexdump</source>
       <translation type="unfinished">New hexdump</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1062"/>
+      <location filename="../core/MainWindow.cpp" line="1060"/>
       <source>New Decompiler</source>
       <translation type="unfinished">New Decompiler</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1241"/>
+      <location filename="../core/MainWindow.cpp" line="1239"/>
       <source>Save layout error</source>
       <translation type="unfinished">Save layout error</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1242"/>
+      <location filename="../core/MainWindow.cpp" line="1240"/>
       <source>&apos;%1&apos; is not a valid name.</source>
       <translation type="unfinished">&apos;%1&apos; is not a valid name.</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1244"/>
+      <location filename="../core/MainWindow.cpp" line="1242"/>
       <source>Enter name</source>
       <translation type="unfinished">Enter name</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1555"/>
+      <location filename="../core/MainWindow.cpp" line="1553"/>
       <source>Select Rizin script</source>
       <translation type="unfinished">Select Rizin script</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1598"/>
+      <location filename="../core/MainWindow.cpp" line="1596"/>
       <source>Do you really want to clear all settings?</source>
       <translation type="unfinished">Do you really want to clear all settings?</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1698"/>
+      <location filename="../core/MainWindow.cpp" line="1696"/>
       <source>Select PDB file</source>
       <translation type="unfinished">Select PDB file</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1699"/>
+      <location filename="../core/MainWindow.cpp" line="1697"/>
       <source>PDB file (*.pdb)</source>
       <translation type="unfinished">PDB file (*.pdb)</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1699"/>
+      <location filename="../core/MainWindow.cpp" line="1697"/>
       <source>All files (*)</source>
       <translation type="unfinished">All files (*)</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1709"/>
+      <location filename="../core/MainWindow.cpp" line="1707"/>
       <source>%1 loaded.</source>
       <translation type="unfinished">%1 loaded.</translation>
     </message>
     <message>
-      <location filename="../core/MainWindow.cpp" line="1800"/>
-      <location filename="../core/MainWindow.cpp" line="1822"/>
-      <source>Signature File (*.sig)</source>
-      <translation type="unfinished">Signature File (*.sig)</translation>
+      <location filename="../core/MainWindow.cpp" line="1718"/>
+      <source>C uin8_t array (*.c)</source>
+      <translation type="unfinished">C uin8_t array (*.c)</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.cpp" line="1723"/>
+      <source>C uin16_t array (*.c)</source>
+      <translation type="unfinished">C uin16_t array (*.c)</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.cpp" line="1725"/>
+      <source>C uin32_t array (*.c)</source>
+      <translation type="unfinished">C uin32_t array (*.c)</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.cpp" line="1727"/>
+      <source>C uin64_t array (*.c)</source>
+      <translation type="unfinished">C uin64_t array (*.c)</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.cpp" line="1732"/>
+      <source>Go array (*.go)</source>
+      <translation type="unfinished">Go array (*.go)</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.cpp" line="1734"/>
+      <source>Java array (*.java)</source>
+      <translation type="unfinished">Java array (*.java)</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.cpp" line="1736"/>
+      <source>JSON array (*.json)</source>
+      <translation type="unfinished">JSON array (*.json)</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.cpp" line="1738"/>
+      <source>Kotlin array (*.kt)</source>
+      <translation type="unfinished">Kotlin array (*.kt)</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.cpp" line="1741"/>
+      <source>Javascript array (*.js)</source>
+      <translation type="unfinished">Javascript array (*.js)</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.cpp" line="1743"/>
+      <source>ObjectiveC array (*.m)</source>
+      <translation type="unfinished">ObjectiveC array (*.m)</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.cpp" line="1745"/>
+      <source>Python array (*.py)</source>
+      <translation type="unfinished">Python array (*.py)</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.cpp" line="1747"/>
+      <source>Rust array (*.rs)</source>
+      <translation type="unfinished">Rust array (*.rs)</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.cpp" line="1750"/>
+      <source>Swift array (*.swift)</source>
+      <translation type="unfinished">Swift array (*.swift)</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.cpp" line="1752"/>
+      <source>Print &apos;wx&apos; Rizin commands (*.rz)</source>
+      <translation type="unfinished">Print &apos;wx&apos; Rizin commands (*.rz)</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.cpp" line="1754"/>
+      <source>Shell-script that reconstructs the bin (*.sh)</source>
+      <translation type="unfinished">Shell-script that reconstructs the bin (*.sh)</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.cpp" line="1756"/>
+      <source>GAS .byte blob (*.asm, *.s)</source>
+      <translation type="unfinished">GAS .byte blob (*.asm, *.s)</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.cpp" line="1759"/>
+      <source>Yara (*.yar)</source>
+      <translation type="unfinished">Yara (*.yar)</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.cpp" line="1762"/>
+      <source>.bytes with instructions in comments (*.txt)</source>
+      <translation type="unfinished">.bytes with instructions in comments (*.txt)</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.cpp" line="1776"/>
+      <source>Can&apos;t open file</source>
+      <translation type="unfinished">Can&apos;t open file</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1801"/>
       <location filename="../core/MainWindow.cpp" line="1823"/>
+      <source>Signature File (*.sig)</source>
+      <translation type="unfinished">Signature File (*.sig)</translation>
+    </message>
+    <message>
+      <location filename="../core/MainWindow.cpp" line="1802"/>
+      <location filename="../core/MainWindow.cpp" line="1824"/>
       <source>Pattern File (*.pat)</source>
       <translation type="unfinished">Pattern File (*.pat)</translation>
     </message>
@@ -6812,6 +6928,10 @@ Do you want to commit them now?</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="497"/>
+      <source>Word highlight</source>
+      <translation type="unfinished">Word highlight</translation>
+    </message>
+    <message>
       <source>Word higlight</source>
       <translation type="unfinished">Word higlight</translation>
     </message>
@@ -7288,32 +7408,32 @@ Do you want to commit them now?</translation>
   <context>
     <name>SearchModel</name>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="158"/>
+      <location filename="../widgets/SearchWidget.cpp" line="165"/>
       <source>&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;Preview&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</source>
       <translation type="unfinished">&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;Preview&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="177"/>
+      <location filename="../widgets/SearchWidget.cpp" line="184"/>
       <source>Size</source>
       <translation type="unfinished">Size</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="179"/>
+      <location filename="../widgets/SearchWidget.cpp" line="186"/>
       <source>Offset</source>
       <translation type="unfinished">Offset</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="181"/>
+      <location filename="../widgets/SearchWidget.cpp" line="188"/>
       <source>Code</source>
       <translation type="unfinished">Code</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="183"/>
+      <location filename="../widgets/SearchWidget.cpp" line="190"/>
       <source>Data</source>
       <translation type="unfinished">Data</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="185"/>
+      <location filename="../widgets/SearchWidget.cpp" line="192"/>
       <source>Comment</source>
       <translation type="unfinished">Comment</translation>
     </message>
@@ -7322,7 +7442,7 @@ Do you want to commit them now?</translation>
     <name>SearchWidget</name>
     <message>
       <location filename="../widgets/SearchWidget.ui" line="83"/>
-      <location filename="../widgets/SearchWidget.cpp" line="391"/>
+      <location filename="../widgets/SearchWidget.cpp" line="398"/>
       <source>Search</source>
       <translation type="unfinished">Search</translation>
     </message>
@@ -7337,6 +7457,7 @@ Do you want to commit them now?</translation>
       <translation type="unfinished">Search in:</translation>
     </message>
     <message>
+      <location filename="../widgets/SearchWidget.cpp" line="53"/>
       <source>asm code</source>
       <translation type="unfinished">asm code</translation>
     </message>
@@ -7345,33 +7466,218 @@ Do you want to commit them now?</translation>
       <translation type="unfinished">string</translation>
     </message>
     <message>
+      <location filename="../widgets/SearchWidget.cpp" line="21"/>
+      <source>All maps</source>
+      <translation type="unfinished">All maps</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="22"/>
+      <source>Current map</source>
+      <translation type="unfinished">Current map</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="23"/>
+      <source>Whole file</source>
+      <translation type="unfinished">Whole file</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="24"/>
+      <location filename="../widgets/SearchWidget.cpp" line="38"/>
+      <source>Current block</source>
+      <translation type="unfinished">Current block</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="25"/>
+      <source>Current mapped section</source>
+      <translation type="unfinished">Current mapped section</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="26"/>
+      <source>All mapped sections</source>
+      <translation type="unfinished">All mapped sections</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="27"/>
+      <source>Current mapped segment</source>
+      <translation type="unfinished">Current mapped segment</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="28"/>
+      <source>All mapped segments</source>
+      <translation type="unfinished">All mapped segments</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="29"/>
+      <location filename="../widgets/SearchWidget.cpp" line="39"/>
+      <source>All exec sections</source>
+      <translation type="unfinished">All exec sections</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="30"/>
+      <source>All io.skyline</source>
+      <translation type="unfinished">All io.skyline</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="31"/>
+      <source>Current function</source>
+      <translation type="unfinished">Current function</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="32"/>
+      <source>Current basic block</source>
+      <translation type="unfinished">Current basic block</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="36"/>
+      <source>All memory maps</source>
+      <translation type="unfinished">All memory maps</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="37"/>
+      <source>Memory map</source>
+      <translation type="unfinished">Memory map</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="40"/>
+      <source>Stack</source>
+      <translation type="unfinished">Stack</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="41"/>
+      <source>Heap</source>
+      <translation type="unfinished">Heap</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="54"/>
+      <source>jmp rax</source>
+      <translation type="unfinished">jmp rax</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="55"/>
+      <source>string (literal)</source>
+      <translation type="unfinished">string (literal)</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="56"/>
+      <source>foobar</source>
+      <translation type="unfinished">foobar</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="58"/>
       <source>string (case insensitive)</source>
       <translation type="unfinished">string (case insensitive)</translation>
     </message>
     <message>
+      <location filename="../widgets/SearchWidget.cpp" line="59"/>
+      <source>fOobaR</source>
+      <translation type="unfinished">fOobaR</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="60"/>
+      <source>string (extended regex)</source>
+      <translation type="unfinished">string (extended regex)</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="61"/>
+      <source>(foo){,4}[Bb]ar</source>
+      <translation type="unfinished">(foo){,4}[Bb]ar</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="62"/>
       <source>hex string</source>
       <translation type="unfinished">hex string</translation>
     </message>
     <message>
+      <location filename="../widgets/SearchWidget.cpp" line="63"/>
+      <source>ab01..23...1234ef</source>
+      <translation type="unfinished">ab01..23...1234ef</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="64"/>
       <source>ROP gadgets</source>
       <translation type="unfinished">ROP gadgets</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="65"/>
+      <source>pop,,pop</source>
+      <translation type="unfinished">pop,,pop</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="66"/>
+      <source>ROP gadgets (regex)</source>
+      <translation type="unfinished">ROP gadgets (regex)</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="67"/>
+      <source>mov e[abc]x</source>
+      <translation type="unfinished">mov e[abc]x</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="68"/>
+      <source>32bit big endian value</source>
+      <translation type="unfinished">32bit big endian value</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="69"/>
+      <source>0xdeadbeef (big endian)</source>
+      <translation type="unfinished">0xdeadbeef (big endian)</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="70"/>
+      <source>32bit little endian value</source>
+      <translation type="unfinished">32bit little endian value</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="71"/>
+      <source>0xdeadbeef (little endian)</source>
+      <translation type="unfinished">0xdeadbeef (little endian)</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="72"/>
+      <source>64bit big endian value</source>
+      <translation type="unfinished">64bit big endian value</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="73"/>
+      <source>0xfedcba9876543210 (big endian)</source>
+      <translation type="unfinished">0xfedcba9876543210 (big endian)</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="74"/>
+      <source>64bit little endian value</source>
+      <translation type="unfinished">64bit little endian value</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="75"/>
+      <source>0xfedcba9876543210 (little endian)</source>
+      <translation type="unfinished">0xfedcba9876543210 (little endian)</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="77"/>
+      <source>Cryptographic material</source>
+      <translation type="unfinished">Cryptographic material</translation>
+    </message>
+    <message>
+      <location filename="../widgets/SearchWidget.cpp" line="78"/>
+      <source>Magic signature</source>
+      <translation type="unfinished">Magic signature</translation>
     </message>
     <message>
       <source>32bit value</source>
       <translation type="unfinished">32bit value</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="349"/>
+      <location filename="../widgets/SearchWidget.cpp" line="356"/>
       <source>No results found for:</source>
       <translation type="unfinished">No results found for:</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="357"/>
+      <location filename="../widgets/SearchWidget.cpp" line="364"/>
       <source>No Results Found</source>
       <translation type="unfinished">No Results Found</translation>
     </message>
     <message>
-      <location filename="../widgets/SearchWidget.cpp" line="384"/>
+      <location filename="../widgets/SearchWidget.cpp" line="391"/>
       <source>Searching...</source>
       <translation type="unfinished">Searching...</translation>
     </message>
