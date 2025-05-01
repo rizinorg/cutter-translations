@@ -7508,52 +7508,52 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="30"/>
       <source>All io.skyline</source>
-      <translation type="unfinished">All io.skyline</translation>
+      <translation>모든 io.skyline</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="31"/>
       <source>Current function</source>
-      <translation type="unfinished">Current function</translation>
+      <translation>현재 함수</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="32"/>
       <source>Current basic block</source>
-      <translation type="unfinished">Current basic block</translation>
+      <translation>현재 기본 블록</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="36"/>
       <source>All memory maps</source>
-      <translation type="unfinished">All memory maps</translation>
+      <translation>모든 메모리 맵</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="37"/>
       <source>Memory map</source>
-      <translation type="unfinished">Memory map</translation>
+      <translation>메모리 맵</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="40"/>
       <source>Stack</source>
-      <translation type="unfinished">Stack</translation>
+      <translation>스택</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="41"/>
       <source>Heap</source>
-      <translation type="unfinished">Heap</translation>
+      <translation>힙</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="54"/>
       <source>jmp rax</source>
-      <translation type="unfinished">jmp rax</translation>
+      <translation>jmp rax</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="55"/>
       <source>string (literal)</source>
-      <translation type="unfinished">string (literal)</translation>
+      <translation>문자열(리터럴)</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="56"/>
       <source>foobar</source>
-      <translation type="unfinished">foobar</translation>
+      <translation>foobar</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="58"/>
@@ -7563,17 +7563,17 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="59"/>
       <source>fOobaR</source>
-      <translation type="unfinished">fOobaR</translation>
+      <translation>fOobaR</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="60"/>
       <source>string (extended regex)</source>
-      <translation type="unfinished">string (extended regex)</translation>
+      <translation>문자열(확장 정규식)</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="61"/>
       <source>(foo){,4}[Bb]ar</source>
-      <translation type="unfinished">(foo){,4}[Bb]ar</translation>
+      <translation>(foo){,4}[Bb]ar</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="62"/>
@@ -7583,7 +7583,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="63"/>
       <source>ab01..23...1234ef</source>
-      <translation type="unfinished">ab01..23...1234ef</translation>
+      <translation>ab01..23...1234ef</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="64"/>
@@ -7593,67 +7593,67 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="65"/>
       <source>pop,,pop</source>
-      <translation type="unfinished">pop,,pop</translation>
+      <translation>pop,,pop</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="66"/>
       <source>ROP gadgets (regex)</source>
-      <translation type="unfinished">ROP gadgets (regex)</translation>
+      <translation>ROP 가젯(정규식)</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="67"/>
       <source>mov e[abc]x</source>
-      <translation type="unfinished">mov e[abc]x</translation>
+      <translation>mov e[abc]x</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="68"/>
       <source>32bit big endian value</source>
-      <translation type="unfinished">32bit big endian value</translation>
+      <translation>32비트 빅 엔디언 값</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="69"/>
       <source>0xdeadbeef (big endian)</source>
-      <translation type="unfinished">0xdeadbeef (big endian)</translation>
+      <translation>0xdeadbeef(빅 엔디언)</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="70"/>
       <source>32bit little endian value</source>
-      <translation type="unfinished">32bit little endian value</translation>
+      <translation>32비트 리틀 엔디언 값</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="71"/>
       <source>0xdeadbeef (little endian)</source>
-      <translation type="unfinished">0xdeadbeef (little endian)</translation>
+      <translation>0xdeadbeef(리틀 엔디언)</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="72"/>
       <source>64bit big endian value</source>
-      <translation type="unfinished">64bit big endian value</translation>
+      <translation>64비트 빅 엔디언 값</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="73"/>
       <source>0xfedcba9876543210 (big endian)</source>
-      <translation type="unfinished">0xfedcba9876543210 (big endian)</translation>
+      <translation>0xfedcba9876543210(빅 엔디안)</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="74"/>
       <source>64bit little endian value</source>
-      <translation type="unfinished">64bit little endian value</translation>
+      <translation>64비트 리틀 엔디언 값</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="75"/>
       <source>0xfedcba9876543210 (little endian)</source>
-      <translation type="unfinished">0xfedcba9876543210 (little endian)</translation>
+      <translation>0xfedcba9876543210(리틀 엔디안)</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="77"/>
       <source>Cryptographic material</source>
-      <translation type="unfinished">Cryptographic material</translation>
+      <translation>암호화 자료</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="78"/>
       <source>Magic signature</source>
-      <translation type="unfinished">Magic signature</translation>
+      <translation>매직 시그니처</translation>
     </message>
     <message>
       <source>32bit value</source>
