@@ -4251,7 +4251,7 @@ Please check the console for more details.</source>
       <location filename="../widgets/HexWidget.cpp" line="137"/>
       <location filename="../widgets/HexWidget.cpp" line="1185"/>
       <source>Add flag at %1</source>
-      <translation type="unfinished">Add flag at %1</translation>
+      <translation>%1에 플래그 추가</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="152"/>
@@ -4335,7 +4335,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1187"/>
       <source>Rename flag &quot;%1&quot;</source>
-      <translation type="unfinished">Rename flag &quot;%1&quot;</translation>
+      <translation>플래그 &quot;%1&quot; 이름 변경</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1195"/>
@@ -5491,7 +5491,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../core/MainWindow.ui" line="652"/>
       <location filename="../core/MainWindow.ui" line="655"/>
       <source>Show/Hide bottom panel</source>
-      <translation type="unfinished">Show/Hide bottom panel</translation>
+      <translation>하단 패널 표시/숨기기</translation>
     </message>
     <message>
       <source>Show/Hide bottom pannel</source>
@@ -5738,7 +5738,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="727"/>
       <source>Rizin Project (*.rzdb)</source>
-      <translation type="unfinished">Rizin Project (*.rzdb)</translation>
+      <translation>Rizin 프로젝트(*.rzdb)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="751"/>
@@ -5820,97 +5820,97 @@ Save your project before closing!</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="1718"/>
       <source>C uin8_t array (*.c)</source>
-      <translation type="unfinished">C uin8_t array (*.c)</translation>
+      <translation>C uin8_t 배열(*.c)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1723"/>
       <source>C uin16_t array (*.c)</source>
-      <translation type="unfinished">C uin16_t array (*.c)</translation>
+      <translation>C uin16_t 배열(*.c)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1725"/>
       <source>C uin32_t array (*.c)</source>
-      <translation type="unfinished">C uin32_t array (*.c)</translation>
+      <translation>C uin32_t 배열(*.c)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1727"/>
       <source>C uin64_t array (*.c)</source>
-      <translation type="unfinished">C uin64_t array (*.c)</translation>
+      <translation>C uin64_t 배열(*.c)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1732"/>
       <source>Go array (*.go)</source>
-      <translation type="unfinished">Go array (*.go)</translation>
+      <translation>Go 배열(*.go)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1734"/>
       <source>Java array (*.java)</source>
-      <translation type="unfinished">Java array (*.java)</translation>
+      <translation>Java 배열(*.java)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1736"/>
       <source>JSON array (*.json)</source>
-      <translation type="unfinished">JSON array (*.json)</translation>
+      <translation>JSON 배열(*.json)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1738"/>
       <source>Kotlin array (*.kt)</source>
-      <translation type="unfinished">Kotlin array (*.kt)</translation>
+      <translation>Kotlin 배열(*.kt)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1741"/>
       <source>Javascript array (*.js)</source>
-      <translation type="unfinished">Javascript array (*.js)</translation>
+      <translation>Javascript 배열(*.js)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1743"/>
       <source>ObjectiveC array (*.m)</source>
-      <translation type="unfinished">ObjectiveC array (*.m)</translation>
+      <translation>ObjectiveC 배열(*.m)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1745"/>
       <source>Python array (*.py)</source>
-      <translation type="unfinished">Python array (*.py)</translation>
+      <translation>Python 배열(*.py)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1747"/>
       <source>Rust array (*.rs)</source>
-      <translation type="unfinished">Rust array (*.rs)</translation>
+      <translation>Rust 배열(*.rs)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1750"/>
       <source>Swift array (*.swift)</source>
-      <translation type="unfinished">Swift array (*.swift)</translation>
+      <translation>Swift 배열(*.swift)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1752"/>
       <source>Print &apos;wx&apos; Rizin commands (*.rz)</source>
-      <translation type="unfinished">Print &apos;wx&apos; Rizin commands (*.rz)</translation>
+      <translation>&apos;wx&apos; Rizin 명령어 인쇄(*.rz)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1754"/>
       <source>Shell-script that reconstructs the bin (*.sh)</source>
-      <translation type="unfinished">Shell-script that reconstructs the bin (*.sh)</translation>
+      <translation>빈을 재구성하는 셸 스크립트(*.sh)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1756"/>
       <source>GAS .byte blob (*.asm, *.s)</source>
-      <translation type="unfinished">GAS .byte blob (*.asm, *.s)</translation>
+      <translation>GAS .byte 블롭(*.asm, *.s)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1759"/>
       <source>Yara (*.yar)</source>
-      <translation type="unfinished">Yara (*.yar)</translation>
+      <translation>Yara(*.yar)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1762"/>
       <source>.bytes with instructions in comments (*.txt)</source>
-      <translation type="unfinished">.bytes with instructions in comments (*.txt)</translation>
+      <translation>주석에 명령이 있는 byte(*.txt)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1776"/>
       <source>Can&apos;t open file</source>
-      <translation type="unfinished">Can&apos;t open file</translation>
+      <translation>파일을 열 수 없음</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1801"/>
@@ -6925,7 +6925,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="497"/>
       <source>Word highlight</source>
-      <translation type="unfinished">Word highlight</translation>
+      <translation>낱말 강조</translation>
     </message>
     <message>
       <source>Word higlight</source>
@@ -7461,49 +7461,49 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="21"/>
       <source>All maps</source>
-      <translation type="unfinished">All maps</translation>
+      <translation>모든 지도</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="22"/>
       <source>Current map</source>
-      <translation type="unfinished">Current map</translation>
+      <translation>현재 지도</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="23"/>
       <source>Whole file</source>
-      <translation type="unfinished">Whole file</translation>
+      <translation>전체 파일</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="24"/>
       <location filename="../widgets/SearchWidget.cpp" line="38"/>
       <source>Current block</source>
-      <translation type="unfinished">Current block</translation>
+      <translation>현재 블록</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="25"/>
       <source>Current mapped section</source>
-      <translation type="unfinished">Current mapped section</translation>
+      <translation>현재 매핑 섹션</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="26"/>
       <source>All mapped sections</source>
-      <translation type="unfinished">All mapped sections</translation>
+      <translation>모든 매핑 섹션</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="27"/>
       <source>Current mapped segment</source>
-      <translation type="unfinished">Current mapped segment</translation>
+      <translation>현재 매핑 세그먼트</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="28"/>
       <source>All mapped segments</source>
-      <translation type="unfinished">All mapped segments</translation>
+      <translation>모든 매핑 세그먼트</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="29"/>
       <location filename="../widgets/SearchWidget.cpp" line="39"/>
       <source>All exec sections</source>
-      <translation type="unfinished">All exec sections</translation>
+      <translation>모든 실행 섹션</translation>
     </message>
     <message>
       <location filename="../widgets/SearchWidget.cpp" line="30"/>
