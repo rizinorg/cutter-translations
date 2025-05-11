@@ -5632,7 +5632,7 @@ Veuillez vous assurer qu'il s'agit d'une chaîne base64 valide et réessayez.</t
     <message>
       <location filename="../core/MainWindow.ui" line="801"/>
       <source>Zoom In</source>
-      <translation>Zoom avant</translation>
+      <translation>Zoom Avant</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="804"/>
@@ -6066,7 +6066,7 @@ Enregistrez votre projet avant de le fermer!</translation>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="296"/>
       <source>Don&apos;t open any file</source>
-      <translation>Ne pas ouvrir n&apos;importe quel fichi&apos;er</translation>
+      <translation>Ne pas ouvrir n&apos;importe quel fichier</translation>
     </message>
     <message>
       <location filename="../dialogs/NewFileDialog.ui" line="303"/>
