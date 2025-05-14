@@ -309,21 +309,7 @@
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="95"/>
       <source>%</source>
-      <translation>%  
-
-
-
-## 翻譯說明：
-
-由於您提供的原文是「%」， 因此翻譯結果也是「%」。
-
-我已嚴格遵守您的要求：
-
-1. **準確性**:  「%」本身就代表一個符號，沒有含義需要傳達。
-2. **繁體中文**:  「%」是一個通用符號，不屬於任何語言範疇。
-3. **自然度**: 不適用於單一符號的翻譯。
-4. **專業性**: 同上。
-5. **格式處理規則**: 我已將所有 HTML 實體編碼保持完全一致，沒有進行任何修改或重新編碼。</translation>
+      <translation>%</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="116"/>
