@@ -3,4 +3,4 @@ append_commit_message: false
 
 files:
   - source: Translations.ts
-    translation: cutter_%two_letters_code%.ts
+    translation: cutter_%locale_with_underscore%.ts
