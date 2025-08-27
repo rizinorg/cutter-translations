@@ -11,12 +11,12 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="54"/>
       <source>Check for updates on start</source>
-      <translation type="unfinished">Check for updates on start</translation>
+      <translation>在啟動時檢查更新</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="67"/>
       <source>Check for updates</source>
-      <translation type="unfinished">Check for updates</translation>
+      <translation>檢查更新</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="80"/>
@@ -41,7 +41,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="126"/>
       <source>Show version information</source>
-      <translation type="unfinished">Show version information</translation>
+      <translation>顯示版本資訊</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="144"/>
@@ -51,22 +51,22 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="28"/>
       <source>Version</source>
-      <translation type="unfinished">Version</translation>
+      <translation>版本</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="28"/>
       <source>Using rizin </source>
-      <translation type="unfinished">Using rizin </translation>
+      <translation>使用Rizin </translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="30"/>
       <source>Optional Features:</source>
-      <translation type="unfinished">Optional Features:</translation>
+      <translation>可選功能：</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="47"/>
       <source>License</source>
-      <translation type="unfinished">License</translation>
+      <translation>許可證</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="48"/>
