@@ -1810,7 +1810,7 @@
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="454"/>
       <source>Color of object names, commas between operators, squared brackets and operators inside them.</source>
-      <translation type="unfinished">Color of object names, commas between operators, squared brackets and operators inside them.</translation>
+      <translation>Цвет имен объектов, запятых между операторами, квадратных скобок и операторов внутри них.</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="458"/>
@@ -1920,7 +1920,7 @@
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="491"/>
       <source>Color of compare instructions such as test and cmp</source>
-      <translation type="unfinished">Color of compare instructions such as test and cmp</translation>
+      <translation>Цвет инструкций сравнения, таких как test и cmp</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="492"/>
