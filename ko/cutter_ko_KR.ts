@@ -6,7 +6,7 @@
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="14"/>
       <source>About Cutter</source>
-      <translation>Cutter에 대하여</translation>
+      <translation>Cutter 소개</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.ui" line="54"/>
@@ -184,7 +184,7 @@
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="51"/>
       <source>Show X-Refs</source>
-      <translation>역참조 보기</translation>
+      <translation>X-Ref 보기</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="47"/>
@@ -2237,17 +2237,17 @@
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="579"/>
       <source>ucall</source>
-      <translation type="unfinished">ucall</translation>
+      <translation>ucall</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="580"/>
       <source>ujmp</source>
-      <translation type="unfinished">ujmp</translation>
+      <translation>ujmp</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="582"/>
       <source>Breakpoint background</source>
-      <translation type="unfinished">Breakpoint background</translation>
+      <translation>중단점 배경</translation>
     </message>
   </context>
   <context>
@@ -2491,7 +2491,7 @@
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="14"/>
       <source>Console</source>
-      <translation type="unfinished">Console</translation>
+      <translation>콘솔</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="93"/>
@@ -2526,7 +2526,7 @@
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="79"/>
       <source>Toggle Console Window</source>
-      <translation type="unfinished">Toggle Console Window</translation>
+      <translation>토글 콘솔 창</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="83"/>
@@ -2536,27 +2536,27 @@
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="87"/>
       <source>Clear Input</source>
-      <translation type="unfinished">Clear Input</translation>
+      <translation>입력 삭제</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="91"/>
       <source>Clear Debugee</source>
-      <translation type="unfinished">Clear Debugee</translation>
+      <translation>디버기 삭제</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="95"/>
       <source>Previous Command</source>
-      <translation type="unfinished">Previous Command</translation>
+      <translation>이전 명령</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="99"/>
       <source>Next Command</source>
-      <translation type="unfinished">Next Command</translation>
+      <translation>다음 명령</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="103"/>
       <source>Auto-Complete</source>
-      <translation type="unfinished">Auto-Complete</translation>
+      <translation>자동 완성</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.cpp" line="80"/>
@@ -2835,17 +2835,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="35"/>
       <source>Zoom In</source>
-      <translation type="unfinished">Zoom In</translation>
+      <translation>확대</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="39"/>
       <source>Zoom Out</source>
-      <translation type="unfinished">Zoom Out</translation>
+      <translation>축소</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="43"/>
       <source>Reset Zoom</source>
-      <translation type="unfinished">Reset Zoom</translation>
+      <translation>배율 초기화</translation>
     </message>
   </context>
   <context>
@@ -2874,7 +2874,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/Dashboard.ui" line="17"/>
       <source>Dashboard</source>
-      <translation type="unfinished">Dashboard</translation>
+      <translation>대시보드</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="116"/>
@@ -3140,12 +3140,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="233"/>
       <source>True</source>
-      <translation type="unfinished">True</translation>
+      <translation>True</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="233"/>
       <source>False</source>
-      <translation type="unfinished">False</translation>
+      <translation>False</translation>
     </message>
   </context>
   <context>
@@ -3617,17 +3617,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="487"/>
       <source>Decompiler (%1)</source>
-      <translation type="unfinished">Decompiler (%1)</translation>
+      <translation>디컴파일러(%1)</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="489"/>
       <source>Decompiler (Empty)</source>
-      <translation type="unfinished">Decompiler (Empty)</translation>
+      <translation>디컴파일러(비어 있음)</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="59"/>
       <source>Seek to Previous Address</source>
-      <translation type="unfinished">Seek to Previous Address</translation>
+      <translation>이전 주소까지 탐색</translation>
     </message>
   </context>
   <context>
@@ -3660,7 +3660,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="203"/>
       <source>(Empty)</source>
-      <translation type="unfinished">(Empty)</translation>
+      <translation>(비어 있음)</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="212"/>
@@ -3670,22 +3670,22 @@ Please check the console for more details.</source>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="248"/>
       <source>Take True Branch</source>
-      <translation type="unfinished">Take True Branch</translation>
+      <translation>True 브랜치 가져오기</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="252"/>
       <source>Take False Branch</source>
-      <translation type="unfinished">Take False Branch</translation>
+      <translation>False 브랜치 가져오기</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="256"/>
       <source>Next Instruction</source>
-      <translation type="unfinished">Next Instruction</translation>
+      <translation>다음 명령어</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="260"/>
       <source>Previous Instruction</source>
-      <translation type="unfinished">Previous Instruction</translation>
+      <translation>이전 명령어</translation>
     </message>
   </context>
   <context>
@@ -3738,12 +3738,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="208"/>
       <source>Set To Data Advanced</source>
-      <translation type="unfinished">Set To Data Advanced</translation>
+      <translation>데이터 고급 설정</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="212"/>
       <source>Switch Data</source>
-      <translation type="unfinished">Switch Data</translation>
+      <translation>데이터 전환</translation>
     </message>
     <message>
       <location filename="../menus/DisassemblyContextMenu.cpp" line="101"/>
@@ -4059,27 +4059,27 @@ Please check the console for more details.</source>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="216"/>
       <source>Switch to Graph</source>
-      <translation type="unfinished">Switch to Graph</translation>
+      <translation>그래프로 전환</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="221"/>
       <source>Move Cursor Down</source>
-      <translation type="unfinished">Move Cursor Down</translation>
+      <translation>커서 아래쪽 이동</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="225"/>
       <source>Move Cursor Up</source>
-      <translation type="unfinished">Move Cursor Up</translation>
+      <translation>커서 위쪽 이동</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="228"/>
       <source>Move Cursor Down By Page</source>
-      <translation type="unfinished">Move Cursor Down By Page</translation>
+      <translation>커서 아래쪽 이동(페이지별)</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="232"/>
       <source>Move Cursor Up By Page</source>
-      <translation type="unfinished">Move Cursor Up By Page</translation>
+      <translation>커서 위쪽 이동(페이지별)</translation>
     </message>
   </context>
   <context>
@@ -4151,7 +4151,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="17"/>
       <source>Method</source>
-      <translation type="unfinished">Method</translation>
+      <translation>메소드</translation>
     </message>
     <message>
       <location filename="../dialogs/EditMethodDialog.ui" line="25"/>
@@ -4204,83 +4204,83 @@ Please check the console for more details.</source>
     <message>
       <location filename="../dialogs/EditRegProfileDialog.ui" line="14"/>
       <source>Edit Register Profile</source>
-      <translation type="unfinished">Edit Register Profile</translation>
+      <translation>레지스터 프로필 편집</translation>
     </message>
     <message>
       <location filename="../dialogs/EditRegProfileDialog.ui" line="21"/>
       <source>Aliases</source>
-      <translation type="unfinished">Aliases</translation>
+      <translation>별칭</translation>
     </message>
     <message>
       <location filename="../dialogs/EditRegProfileDialog.ui" line="35"/>
       <source>Registers</source>
-      <translation type="unfinished">Registers</translation>
+      <translation>레지스터</translation>
     </message>
     <message>
       <location filename="../dialogs/EditRegProfileDialog.ui" line="49"/>
       <source>Raw Profile</source>
-      <translation type="unfinished">Raw Profile</translation>
+      <translation>원시 프로필</translation>
     </message>
     <message>
       <location filename="../dialogs/EditRegProfileDialog.ui" line="73"/>
       <source>Add Row</source>
-      <translation type="unfinished">Add Row</translation>
+      <translation>행 추가</translation>
     </message>
     <message>
       <location filename="../dialogs/EditRegProfileDialog.ui" line="80"/>
       <location filename="../dialogs/EditRegProfileDialog.cpp" line="216"/>
       <source>Remove Row</source>
-      <translation type="unfinished">Remove Row</translation>
+      <translation>행 삭제</translation>
     </message>
     <message>
       <location filename="../dialogs/EditRegProfileDialog.cpp" line="15"/>
       <source>Alias</source>
-      <translation type="unfinished">Alias</translation>
+      <translation>별칭</translation>
     </message>
     <message>
       <location filename="../dialogs/EditRegProfileDialog.cpp" line="15"/>
       <source>Register</source>
-      <translation type="unfinished">Register</translation>
+      <translation>레지스터</translation>
     </message>
     <message>
       <location filename="../dialogs/EditRegProfileDialog.cpp" line="19"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>유형</translation>
     </message>
     <message>
       <location filename="../dialogs/EditRegProfileDialog.cpp" line="19"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>이름</translation>
     </message>
     <message>
       <location filename="../dialogs/EditRegProfileDialog.cpp" line="19"/>
       <source>Size</source>
-      <translation type="unfinished">Size</translation>
+      <translation>크기</translation>
     </message>
     <message>
       <location filename="../dialogs/EditRegProfileDialog.cpp" line="19"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>간격</translation>
     </message>
     <message>
       <location filename="../dialogs/EditRegProfileDialog.cpp" line="20"/>
       <source>Packed</source>
-      <translation type="unfinished">Packed</translation>
+      <translation>패킹됨</translation>
     </message>
     <message>
       <location filename="../dialogs/EditRegProfileDialog.cpp" line="20"/>
       <source>Flags/Comment</source>
-      <translation type="unfinished">Flags/Comment</translation>
+      <translation>플래그/주석</translation>
     </message>
     <message>
       <location filename="../dialogs/EditRegProfileDialog.cpp" line="213"/>
       <source>Add Row Above</source>
-      <translation type="unfinished">Add Row Above</translation>
+      <translation>위쪽에 행 추가</translation>
     </message>
     <message>
       <location filename="../dialogs/EditRegProfileDialog.cpp" line="214"/>
       <source>Add Row Below</source>
-      <translation type="unfinished">Add Row Below</translation>
+      <translation>아래쪽에 행 추가</translation>
     </message>
   </context>
   <context>
@@ -4344,12 +4344,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/EntrypointWidget.ui" line="14"/>
       <source>Entry Points</source>
-      <translation type="unfinished">Entry Points</translation>
+      <translation>입구</translation>
     </message>
     <message>
       <location filename="../widgets/EntrypointWidget.ui" line="56"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>주소</translation>
     </message>
     <message>
       <location filename="../widgets/EntrypointWidget.ui" line="61"/>
@@ -8644,7 +8644,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="65"/>
       <source>127.0.0.1 or /tmp/win.sock</source>
-      <translation type="unfinished">127.0.0.1 or /tmp/win.sock</translation>
+      <translation>127.0.0.1 또는 /tmp/win.sock</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="75"/>
@@ -8659,7 +8659,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="104"/>
       <source>Enter Port</source>
-      <translation type="unfinished">Enter Port</translation>
+      <translation>입력 포트</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="159"/>
@@ -8744,7 +8744,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RizinGraphWidget.ui" line="14"/>
       <source>Rizin graphs</source>
-      <translation type="unfinished">Rizin graphs</translation>
+      <translation>Rizin 그래프</translation>
     </message>
     <message>
       <location filename="../widgets/RizinGraphWidget.ui" line="57"/>
@@ -8944,35 +8944,35 @@ Do you want to commit them now?</source>
     <message numerus="yes">
       <location filename="../dialogs/RizinTaskDialog.cpp" line="34"/>
       <source>%n hours</source>
-      <translation type="unfinished">
-        <numerusform>%n hours</numerusform>
+      <translation>
+        <numerusform>%n시간</numerusform>
       </translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/RizinTaskDialog.cpp" line="38"/>
       <source>%n minutes</source>
-      <translation type="unfinished">
-        <numerusform>%n minutes</numerusform>
+      <translation>
+        <numerusform>%n분</numerusform>
       </translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/RizinTaskDialog.cpp" line="41"/>
       <source>%n seconds</source>
-      <translation type="unfinished">
-        <numerusform>%n seconds</numerusform>
+      <translation>
+        <numerusform>%n초</numerusform>
       </translation>
     </message>
     <message>
       <location filename="../dialogs/RizinTaskDialog.cpp" line="42"/>
       <source>Running for %1</source>
       <comment>time</comment>
-      <translation type="unfinished">Running for %1</translation>
+      <translation>소요 시간: %1</translation>
     </message>
     <message>
       <location filename="../dialogs/RizinTaskDialog.cpp" line="54"/>
       <location filename="../dialogs/RizinTaskDialog.cpp" line="64"/>
       <source>Attempting to stop the task...</source>
-      <translation type="unfinished">Attempting to stop the task...</translation>
+      <translation>작업 중지를 시도하는 중...</translation>
     </message>
   </context>
   <context>
@@ -9373,7 +9373,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/SegmentsWidget.cpp" line="140"/>
       <source>Segments</source>
-      <translation type="unfinished">Segments</translation>
+      <translation>세그먼트</translation>
     </message>
   </context>
   <context>
@@ -9421,104 +9421,104 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/preferences/ShortcutOptionsWidget.ui" line="14"/>
       <source>Appearance</source>
-      <translation type="unfinished">Appearance</translation>
+      <translation>모양</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ShortcutOptionsWidget.ui" line="26"/>
       <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="18"/>
       <source>Shortcut</source>
-      <translation type="unfinished">Shortcut</translation>
+      <translation>단축키</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ShortcutOptionsWidget.ui" line="31"/>
       <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="18"/>
       <source>Description</source>
-      <translation type="unfinished">Description</translation>
+      <translation>설명</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ShortcutOptionsWidget.ui" line="39"/>
       <source>Filter</source>
-      <translation type="unfinished">Filter</translation>
+      <translation>필터</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ShortcutOptionsWidget.ui" line="46"/>
       <source>Save as Default</source>
-      <translation type="unfinished">Save as Default</translation>
+      <translation>기본값으로 저장</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="18"/>
       <source>Command</source>
-      <translation type="unfinished">Command</translation>
+      <translation>명령어</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="28"/>
       <source>General</source>
-      <translation type="unfinished">General</translation>
+      <translation>일반</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="28"/>
       <source>Disassembly</source>
-      <translation type="unfinished">Disassembly</translation>
+      <translation>분해</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="29"/>
       <source>Decompiler</source>
-      <translation type="unfinished">Decompiler</translation>
+      <translation>디컴파일러</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="29"/>
       <source>Strings</source>
-      <translation type="unfinished">Strings</translation>
+      <translation>문자열</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="30"/>
       <source>Graph</source>
-      <translation type="unfinished">Graph</translation>
+      <translation>그래프</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="30"/>
       <source>Breakpoint</source>
-      <translation type="unfinished">Breakpoint</translation>
+      <translation>중단점</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="31"/>
       <source>Console</source>
-      <translation type="unfinished">Console</translation>
+      <translation>콘솔</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="31"/>
       <source>Hex</source>
-      <translation type="unfinished">Hex</translation>
+      <translation>16진수</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="32"/>
       <source>Debug</source>
-      <translation type="unfinished">Debug</translation>
+      <translation>디버그</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="32"/>
       <source>Functions</source>
-      <translation type="unfinished">Functions</translation>
+      <translation>함수</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="33"/>
       <source>Omnibar</source>
-      <translation type="unfinished">Omnibar</translation>
+      <translation>옴니바</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="33"/>
       <source>Exports</source>
-      <translation type="unfinished">Exports</translation>
+      <translation>내보내기</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="34"/>
       <source>Imports</source>
-      <translation type="unfinished">Imports</translation>
+      <translation>가져오기</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="34"/>
       <source>Graph Overview</source>
-      <translation type="unfinished">Graph Overview</translation>
+      <translation>그래프 개요</translation>
     </message>
   </context>
   <context>
@@ -9577,7 +9577,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/StackWidget.ui" line="14"/>
       <source>Stack</source>
-      <translation type="unfinished">Stack</translation>
+      <translation>스택</translation>
     </message>
   </context>
   <context>
@@ -9631,7 +9631,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/StringsWidget.ui" line="14"/>
       <source>Strings</source>
-      <translation type="unfinished">Strings</translation>
+      <translation>문자열</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.ui" line="76"/>
@@ -9656,7 +9656,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="303"/>
       <source>Toggle Strings Window</source>
-      <translation type="unfinished">Toggle Strings Window</translation>
+      <translation>토글 문자열 창</translation>
     </message>
   </context>
   <context>
@@ -9745,7 +9745,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/ThreadsWidget.ui" line="14"/>
       <source>Threads</source>
-      <translation type="unfinished">Threads</translation>
+      <translation>스레드</translation>
     </message>
   </context>
   <context>
@@ -9815,47 +9815,47 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/TypesVariablesDialog.ui" line="14"/>
       <source>TypesVariablesDialog</source>
-      <translation type="unfinished">TypesVariablesDialog</translation>
+      <translation>TypesVariablesDialog</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesVariablesDialog.cpp" line="8"/>
       <source>ALL</source>
-      <translation type="unfinished">ALL</translation>
+      <translation>모두</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesVariablesDialog.cpp" line="10"/>
       <source>GLOBAL</source>
-      <translation type="unfinished">GLOBAL</translation>
+      <translation>전역</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesVariablesDialog.cpp" line="12"/>
       <source>LOCAL</source>
-      <translation type="unfinished">LOCAL</translation>
+      <translation>로컬</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesVariablesDialog.cpp" line="138"/>
       <source>Variables: %1</source>
-      <translation type="unfinished">Variables: %1</translation>
+      <translation>변수: %1</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesVariablesDialog.cpp" line="155"/>
       <source>Scope</source>
-      <translation type="unfinished">Scope</translation>
+      <translation>범위</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesVariablesDialog.cpp" line="157"/>
       <source>All</source>
-      <translation type="unfinished">All</translation>
+      <translation>모두</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesVariablesDialog.cpp" line="158"/>
       <source>Globals Only</source>
-      <translation type="unfinished">Globals Only</translation>
+      <translation>전역 전용</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesVariablesDialog.cpp" line="159"/>
       <source>Locals Only</source>
-      <translation type="unfinished">Locals Only</translation>
+      <translation>로컬 전용</translation>
     </message>
   </context>
   <context>
@@ -9863,22 +9863,22 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/TypesVariablesDialog.cpp" line="64"/>
       <source>Name</source>
-      <translation type="unfinished">Name</translation>
+      <translation>이름</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesVariablesDialog.cpp" line="66"/>
       <source>Address</source>
-      <translation type="unfinished">Address</translation>
+      <translation>주소</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesVariablesDialog.cpp" line="68"/>
       <source>Scope</source>
-      <translation type="unfinished">Scope</translation>
+      <translation>범위</translation>
     </message>
     <message>
       <location filename="../dialogs/TypesVariablesDialog.cpp" line="70"/>
       <source>Function</source>
-      <translation type="unfinished">Function</translation>
+      <translation>함수</translation>
     </message>
   </context>
   <context>
@@ -9886,7 +9886,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/TypesWidget.ui" line="14"/>
       <source>Types</source>
-      <translation type="unfinished">Types</translation>
+      <translation>유형</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.ui" line="76"/>
@@ -9925,7 +9925,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="199"/>
       <source>Show Variables and Globals of this Type</source>
-      <translation type="unfinished">Show Variables and Globals of this Type</translation>
+      <translation>이 유형의 변수 및 전역 변수 표시</translation>
     </message>
     <message>
       <location filename="../widgets/TypesWidget.cpp" line="232"/>
@@ -10013,7 +10013,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/VTablesWidget.cpp" line="46"/>
       <source>No Name found</source>
-      <translation type="unfinished">No Name found</translation>
+      <translation>이름을 찾을 수 없습니다.</translation>
     </message>
     <message>
       <location filename="../widgets/VTablesWidget.cpp" line="61"/>
@@ -10036,7 +10036,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/VTablesWidget.ui" line="9"/>
       <source>&amp;VTable</source>
-      <translation type="unfinished">&amp;VTable</translation>
+      <translation>&amp;VTable</translation>
     </message>
   </context>
   <context>
@@ -10365,7 +10365,7 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/XrefsDialog.ui" line="98"/>
       <source>Code preview</source>
-      <translation type="unfinished">Code preview</translation>
+      <translation>코드 미리보기</translation>
     </message>
   </context>
 </TS>
