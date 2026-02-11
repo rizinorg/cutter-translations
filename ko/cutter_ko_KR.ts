@@ -1757,232 +1757,232 @@
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="443"/>
       <source>b0x7f</source>
-      <translation type="unfinished">b0x7f</translation>
+      <translation>b0x7f</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="445"/>
       <source>0xff opcode color</source>
-      <translation type="unfinished">0xff opcode color</translation>
+      <translation>0xff 옵코드 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="446"/>
       <source>b0xff</source>
-      <translation type="unfinished">b0xff</translation>
+      <translation>b0xff</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="448"/>
       <source>Color of arithmetic opcodes (add, div, mul etc)</source>
-      <translation type="unfinished">Color of arithmetic opcodes (add, div, mul etc)</translation>
+      <translation>산술 연산 옵코드(add, div, mul 등) 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="449"/>
       <source>Arithmetic</source>
-      <translation type="unfinished">Arithmetic</translation>
+      <translation>산술 연산</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="451"/>
       <source>Color of binary operations (and, or, xor etc).</source>
-      <translation type="unfinished">Color of binary operations (and, or, xor etc).</translation>
+      <translation>이진 연산(and, or, xor 등) 색상.</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="452"/>
       <source>Binary</source>
-      <translation type="unfinished">Binary</translation>
+      <translation>이진</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="454"/>
       <source>Color of object names, commas between operators, squared brackets and operators inside them.</source>
-      <translation type="unfinished">Color of object names, commas between operators, squared brackets and operators inside them.</translation>
+      <translation>객체 이름, 연산자 사이의 쉼표, 대괄호 및 그 안의 연산자의 색상.</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="458"/>
       <source>Text</source>
-      <translation type="unfinished">Text</translation>
+      <translation>텍스트</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="460"/>
       <source>push opcode color</source>
-      <translation type="unfinished">push opcode color</translation>
+      <translation>푸시 옵코드 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="461"/>
       <source>push</source>
-      <translation type="unfinished">push</translation>
+      <translation>푸시</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="463"/>
       <source>pop opcode color</source>
-      <translation type="unfinished">pop opcode color</translation>
+      <translation>팝 옵코드 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="464"/>
       <source>pop</source>
-      <translation type="unfinished">pop</translation>
+      <translation>팝</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="466"/>
       <source>Cryptographic color</source>
-      <translation type="unfinished">Cryptographic color</translation>
+      <translation>암호화 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="467"/>
       <source>crypto</source>
-      <translation type="unfinished">crypto</translation>
+      <translation>암호화</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="469"/>
       <source>jmp instructions color</source>
-      <translation type="unfinished">jmp instructions color</translation>
+      <translation>jmp 명령어 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="470"/>
       <source>jmp</source>
-      <translation type="unfinished">jmp</translation>
+      <translation>jmp</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="472"/>
       <source>Color of conditional jump opcodes such as je, jg, jne etc</source>
-      <translation type="unfinished">Color of conditional jump opcodes such as je, jg, jne etc</translation>
+      <translation>조건부 점프 옵코드(예: je, jg, jne) 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="474"/>
       <source>Conditional jump</source>
-      <translation type="unfinished">Conditional jump</translation>
+      <translation>조건부 점프</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="476"/>
       <source>call instructions color (ccall, rcall, call etc)</source>
-      <translation type="unfinished">call instructions color (ccall, rcall, call etc)</translation>
+      <translation>콜 명령어 색상(ccall, rcall, call 등)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="477"/>
       <source>call</source>
-      <translation type="unfinished">call</translation>
+      <translation>콜</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="479"/>
       <source>nop opcode color</source>
-      <translation type="unfinished">nop opcode color</translation>
+      <translation>nop 옵코드 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="480"/>
       <source>nop</source>
-      <translation type="unfinished">nop</translation>
+      <translation>nop</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="482"/>
       <source>ret opcode color</source>
-      <translation type="unfinished">ret opcode color</translation>
+      <translation>ret 옵코드 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="483"/>
       <source>ret</source>
-      <translation type="unfinished">ret</translation>
+      <translation>ret</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="485"/>
       <source>Color of interrupts</source>
-      <translation type="unfinished">Color of interrupts</translation>
+      <translation>인터럽트 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="486"/>
       <source>Interrupts</source>
-      <translation type="unfinished">Interrupts</translation>
+      <translation>인터럽트</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="488"/>
       <source>swi opcode color</source>
-      <translation type="unfinished">swi opcode color</translation>
+      <translation>swi 옵코드 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="489"/>
       <source>swi</source>
-      <translation type="unfinished">swi</translation>
+      <translation>swi</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="491"/>
       <source>Color of compare instructions such as test and cmp</source>
-      <translation type="unfinished">Color of compare instructions such as test and cmp</translation>
+      <translation>비교 명령(예: test 및 cmp)의 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="492"/>
       <source>Compare instructions</source>
-      <translation type="unfinished">Compare instructions</translation>
+      <translation>비교 명령어</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="494"/>
       <source>Registers color</source>
-      <translation type="unfinished">Registers color</translation>
+      <translation>레지스터 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="495"/>
       <source>Register</source>
-      <translation type="unfinished">Register</translation>
+      <translation>레지스터</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="496"/>
       <source>creg</source>
-      <translation type="unfinished">creg</translation>
+      <translation>creg</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="498"/>
       <source>Color of numeric constants and object pointers</source>
-      <translation type="unfinished">Color of numeric constants and object pointers</translation>
+      <translation>숫자 상수 및 객체 포인터의 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="499"/>
       <source>Constants</source>
-      <translation type="unfinished">Constants</translation>
+      <translation>상수</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="501"/>
       <source>Color of move instructions such as mov, movd, lea etc</source>
-      <translation type="unfinished">Color of move instructions such as mov, movd, lea etc</translation>
+      <translation>이동 명령어(예: mov, movd, lea 등) 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="502"/>
       <source>Move instructions</source>
-      <translation type="unfinished">Move instructions</translation>
+      <translation>이동 명령어</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="504"/>
       <source>Function variable color</source>
-      <translation type="unfinished">Function variable color</translation>
+      <translation>함수 변수 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="505"/>
       <source>Function variable</source>
-      <translation type="unfinished">Function variable</translation>
+      <translation>함수 변수</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="507"/>
       <source>Function variable (local or argument) type color</source>
-      <translation type="unfinished">Function variable (local or argument) type color</translation>
+      <translation>함수 변수(로컬 또는 인수) 유형 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="508"/>
       <source>Variable type</source>
-      <translation type="unfinished">Variable type</translation>
+      <translation>변수 유형</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="510"/>
       <source>Function variable address color</source>
-      <translation type="unfinished">Function variable address color</translation>
+      <translation>함수 변수 주소 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="511"/>
       <source>Variable address</source>
-      <translation type="unfinished">Variable address</translation>
+      <translation>변수 주소</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="512"/>
       <source>widget_bg</source>
-      <translation type="unfinished">widget_bg</translation>
+      <translation>widget_bg</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="513"/>
       <source>widget_sel</source>
-      <translation type="unfinished">widget_sel</translation>
+      <translation>widget_sel</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="514"/>
@@ -7314,12 +7314,12 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NativeDebugDialog.cpp" line="128"/>
       <source>Could not open file: %1</source>
-      <translation type="unfinished">Could not open file: %1</translation>
+      <translation>파일을 열 수 없습니다: %s</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="129"/>
       <source>Accept Dialog</source>
-      <translation type="unfinished">Accept Dialog</translation>
+      <translation>수락 대화상자</translation>
     </message>
   </context>
   <context>
@@ -7438,7 +7438,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="289"/>
       <source>Clear Omnibar</source>
-      <translation type="unfinished">Clear Omnibar</translation>
+      <translation>옴니바 삭제</translation>
     </message>
   </context>
   <context>
@@ -7446,17 +7446,17 @@ Save your project before closing!</source>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="294"/>
       <source>Zoom In</source>
-      <translation type="unfinished">Zoom In</translation>
+      <translation>확대</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="297"/>
       <source>Zoom Out</source>
-      <translation type="unfinished">Zoom Out</translation>
+      <translation>축소</translation>
     </message>
     <message>
       <location filename="../widgets/OverviewWidget.cpp" line="9"/>
       <source>Graph Overview</source>
-      <translation type="unfinished">Graph Overview</translation>
+      <translation>그래프 개요</translation>
     </message>
   </context>
   <context>
@@ -7507,7 +7507,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="33"/>
       <source>Graph</source>
-      <translation type="unfinished">Graph</translation>
+      <translation>그래프</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="35"/>
@@ -7537,7 +7537,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="41"/>
       <source>Shortcuts</source>
-      <translation type="unfinished">Shortcuts</translation>
+      <translation>단축키</translation>
     </message>
   </context>
   <context>
@@ -7593,7 +7593,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/ProcessesWidget.ui" line="14"/>
       <source>Processes</source>
-      <translation type="unfinished">Processes</translation>
+      <translation>프로세스</translation>
     </message>
   </context>
   <context>
@@ -7601,207 +7601,207 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.ui" line="14"/>
       <source>Dialog</source>
-      <translation type="unfinished">Dialog</translation>
+      <translation>대화상자</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.ui" line="23"/>
       <source>Filter</source>
-      <translation type="unfinished">Filter</translation>
+      <translation>필터</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.ui" line="45"/>
       <source>Close</source>
-      <translation type="unfinished">Close</translation>
+      <translation>닫기</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="11"/>
       <source>Profile Directives</source>
-      <translation type="unfinished">Profile Directives</translation>
+      <translation>프로필 생성 지침</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="14"/>
       <source>Key</source>
-      <translation type="unfinished">Key</translation>
+      <translation>키</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="14"/>
       <source>Description</source>
-      <translation type="unfinished">Description</translation>
+      <translation>설명</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="16"/>
       <source>Set value for argument N passed to the program</source>
-      <translation type="unfinished">Set value for argument N passed to the program</translation>
+      <translation>프로그램에 전송된 N 인수에 대한 값 설정</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="17"/>
       <source>Enable or disable ASLR</source>
-      <translation type="unfinished">Enable or disable ASLR</translation>
+      <translation>ASLR 활성화 또는 비활성화</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="18"/>
       <source>Set 32 or 64 bit (if the architecture supports it)</source>
-      <translation type="unfinished">Set 32 or 64 bit (if the architecture supports it)</translation>
+      <translation>32 또는 64비트 설정(아키텍처가 이를 지원하는 경우)</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="19"/>
       <source>Change directory before executing the program</source>
-      <translation type="unfinished">Change directory before executing the program</translation>
+      <translation>프로그램을 실행하기 전에 디렉터리 변경</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="20"/>
       <source>Run the program in chroot. requires some previous setup</source>
-      <translation type="unfinished">Run the program in chroot. requires some previous setup</translation>
+      <translation>chroot 환경에서 프로그램을 실행할 때 이전의 일부 설정 필요</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="21"/>
       <source>Connect stdin/stdout/stderr to a socket</source>
-      <translation type="unfinished">Connect stdin/stdout/stderr to a socket</translation>
+      <translation>stdin/stdout/stderr를 소켓에 연결</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="22"/>
       <source>Set no limit the core file size</source>
-      <translation type="unfinished">Set no limit the core file size</translation>
+      <translation>코어 파일 크기를 제한하지 않도록 설정</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="24"/>
       <source>Set to false by default, otherwise it will run the program in background, detached from the terminal</source>
-      <translation type="unfinished">Set to false by default, otherwise it will run the program in background, detached from the terminal</translation>
+      <translation>기본값은 false로 설정되어 있으며, 그렇지 않으면 프로그램을 터미널에서 분리된 백그라운드에서 실행합니다.</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="26"/>
       <source>Set a file with lines like `var=value` to be used as env</source>
-      <translation type="unfinished">Set a file with lines like `var=value` to be used as env</translation>
+      <translation>`var=value` 형식의 라인을 포함한 파일을 env 변수로 사용하도록 설정</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="28"/>
       <source>Used with the listen option, allow to spawn a different process for each connection. Ignored when debugging.</source>
-      <translation type="unfinished">Used with the listen option, allow to spawn a different process for each connection. Ignored when debugging.</translation>
+      <translation>listen 옵션과 함께 사용 시, 각 연결마다 다양한 프로세스를 생성하도록 허용합니다. 디버깅 시에는 무시됩니다.</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="30"/>
       <source>Set string to be passed to the program via stdin</source>
-      <translation type="unfinished">Set string to be passed to the program via stdin</translation>
+      <translation>stdin을 통해 프로그램에 전달할 문자열 설정</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="32"/>
       <source>Override path where the dynamic loader will look for shared libraries</source>
-      <translation type="unfinished">Override path where the dynamic loader will look for shared libraries</translation>
+      <translation>동적 로더가 공유 라이브러리를 검색할 경로 재정의</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="33"/>
       <source>Bound stdin/stdout/stderr to a listening socket</source>
-      <translation type="unfinished">Bound stdin/stdout/stderr to a listening socket</translation>
+      <translation>stdin/stdout/stderr를 수신 대기 중인 소켓에 연결</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="34"/>
       <source>Set the maximum number of file descriptors</source>
-      <translation type="unfinished">Set the maximum number of file descriptors</translation>
+      <translation>최대 파일 설명 수 설정</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="35"/>
       <source>Set the maximum number of processes</source>
-      <translation type="unfinished">Set the maximum number of processes</translation>
+      <translation>최대 프로세스 수 설정</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="36"/>
       <source>Set the maximum size for the stack</source>
-      <translation type="unfinished">Set the maximum size for the stack</translation>
+      <translation>최대 스택 크기 설정</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="37"/>
       <source>Set the niceness level of the process</source>
-      <translation type="unfinished">Set the niceness level of the process</translation>
+      <translation>프로세스 우선순위 레벨 설정</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="38"/>
       <source>Set to true to print the PID of the process to stderr</source>
-      <translation type="unfinished">Set to true to print the PID of the process to stderr</translation>
+      <translation>프로세스의 PID를 stderr에 출력하도록 true로 설정</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="39"/>
       <source>Print the PID of the process to the specified file</source>
-      <translation type="unfinished">Print the PID of the process to the specified file</translation>
+      <translation>지정된 파일로 프로세스의 PID 출력</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="40"/>
       <source>Preload a library (not supported on Windows, only linux,osx,bsd)</source>
-      <translation type="unfinished">Preload a library (not supported on Windows, only linux,osx,bsd)</translation>
+      <translation>라이브러리 사전 로드(Windows에서는 지원되지 않으며 linux,osx,bsd에서만 지원됨) </translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="41"/>
       <source>Path to program to be executed</source>
-      <translation type="unfinished">Path to program to be executed</translation>
+      <translation>실행할 프로그램의 경로</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="42"/>
       <source>Use a pty for connection over socket (with connect/listen)</source>
-      <translation type="unfinished">Use a pty for connection over socket (with connect/listen)</translation>
+      <translation>소켓을 통한 연결에 pty 사용(connect/listen 함수 사용)</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="43"/>
       <source>Path to the library to be executed</source>
-      <translation type="unfinished">Path to the library to be executed</translation>
+      <translation>실행할 라이브러리의 경로</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="44"/>
       <source>Function name to call from runlib library</source>
-      <translation type="unfinished">Function name to call from runlib library</translation>
+      <translation>runlib 라이브러리에서 호출할 함수 이름</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="46"/>
       <source>Preload with librz, kill -USR1 to get an rizin shell or -USRZ to spawn a webserver in a thread</source>
-      <translation type="unfinished">Preload with librz, kill -USR1 to get an rizin shell or -USRZ to spawn a webserver in a thread</translation>
+      <translation>librz로 사전 로드한 후, kill -USR1 명령어로 rizin 셸을 얻거나 -USRZ 명령어로 스레드 내 웹서버를 생성합니다.</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="48"/>
       <source>Set effective process group id</source>
-      <translation type="unfinished">Set effective process group id</translation>
+      <translation>유효한 프로세스 그룹 ID 설정</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="49"/>
       <source>Set value for given environment variable (setenv=FOO=BAR)</source>
-      <translation type="unfinished">Set value for given environment variable (setenv=FOO=BAR)</translation>
+      <translation>해당 환경 변수의 값 설정(setenv=FOO=BAR)</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="50"/>
       <source>Set effective process uid</source>
-      <translation type="unfinished">Set effective process uid</translation>
+      <translation>유효한 프로세스의 사용자 ID 설정</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="51"/>
       <source>Set process group id</source>
-      <translation type="unfinished">Set process group id</translation>
+      <translation>프로세스 그룹 ID 설정</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="52"/>
       <source>Set process uid</source>
-      <translation type="unfinished">Set process uid</translation>
+      <translation>프로세스 사용자 ID 설정</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="53"/>
       <source>Sleep for the given amount of seconds</source>
-      <translation type="unfinished">Sleep for the given amount of seconds</translation>
+      <translation>지정된 초 동안 절전 상태</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="54"/>
       <source>Select file to replace stderr file descriptor</source>
-      <translation type="unfinished">Select file to replace stderr file descriptor</translation>
+      <translation>stderr 파일 설명자를 대체할 파일 선택</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="55"/>
       <source>Select file to read data from stdin</source>
-      <translation type="unfinished">Select file to read data from stdin</translation>
+      <translation>stdin에서 데이터를 읽을 파일 선택</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="58"/>
       <source>Select io stream to redirect data from/to. Redirect input/output to the process created by the command prefixed by &apos;!&apos; (stdio=!cmd)</source>
-      <translation type="unfinished">Select io stream to redirect data from/to. Redirect input/output to the process created by the command prefixed by &apos;!&apos; (stdio=!cmd)</translation>
+      <translation>io 스트림을 선택하여 데이터 발신/수신 경로를 리디렉션합니다. &apos;!&apos;이(가) 사전에 수정한 명령어(stdio=!cmd)로 생성한 프로세스에 입력/출력을 리디렉션합니다.</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="60"/>
       <source>Select file to replace stdout file descriptor</source>
-      <translation type="unfinished">Select file to replace stdout file descriptor</translation>
+      <translation>stdout 파일 설명자를 대체할 파일 선택</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="61"/>
@@ -10044,7 +10044,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/VersionInfoDialog.ui" line="26"/>
       <source>Version Info</source>
-      <translation type="unfinished">Version Info</translation>
+      <translation>버전 정보</translation>
     </message>
     <message>
       <location filename="../dialogs/VersionInfoDialog.ui" line="50"/>
@@ -10069,71 +10069,71 @@ Do you want to commit them now?</source>
       <location filename="../dialogs/VersionInfoDialog.cpp" line="24"/>
       <location filename="../dialogs/VersionInfoDialog.cpp" line="29"/>
       <source>Copy</source>
-      <translation type="unfinished">Copy</translation>
+      <translation>복사</translation>
     </message>
     <message>
       <location filename="../dialogs/VersionInfoDialog.cpp" line="34"/>
       <location filename="../dialogs/VersionInfoDialog.cpp" line="38"/>
       <source>Select All</source>
-      <translation type="unfinished">Select All</translation>
+      <translation>모두 선택</translation>
     </message>
     <message>
       <location filename="../dialogs/VersionInfoDialog.cpp" line="144"/>
       <source>Copy to Clipboard</source>
-      <translation type="unfinished">Copy to Clipboard</translation>
+      <translation>클립보드로 복사</translation>
     </message>
     <message>
       <location filename="../dialogs/VersionInfoDialog.cpp" line="145"/>
       <source>Version information was successfully copied!</source>
-      <translation type="unfinished">Version information was successfully copied!</translation>
+      <translation>버전 정보가 성공적으로 복사되었습니다!</translation>
     </message>
     <message>
       <location filename="../dialogs/VersionInfoDialog.cpp" line="162"/>
       <source>Version symbols</source>
-      <translation type="unfinished">Version symbols</translation>
+      <translation>버전 기호</translation>
     </message>
     <message>
       <location filename="../dialogs/VersionInfoDialog.cpp" line="163"/>
       <source>Version need</source>
-      <translation type="unfinished">Version need</translation>
+      <translation>버전 필요</translation>
     </message>
     <message>
       <location filename="../dialogs/VersionInfoDialog.cpp" line="172"/>
       <location filename="../dialogs/VersionInfoDialog.cpp" line="203"/>
       <source>Address:</source>
-      <translation type="unfinished">Address:</translation>
+      <translation>주소:</translation>
     </message>
     <message>
       <location filename="../dialogs/VersionInfoDialog.cpp" line="177"/>
       <location filename="../dialogs/VersionInfoDialog.cpp" line="208"/>
       <source>Offset:</source>
-      <translation type="unfinished">Offset:</translation>
+      <translation>간격:</translation>
     </message>
     <message>
       <location filename="../dialogs/VersionInfoDialog.cpp" line="182"/>
       <location filename="../dialogs/VersionInfoDialog.cpp" line="213"/>
       <source>Entries:</source>
-      <translation type="unfinished">Entries:</translation>
+      <translation>입력 항목:</translation>
     </message>
     <message>
       <location filename="../dialogs/VersionInfoDialog.cpp" line="225"/>
       <source>Version: %0	File: %1</source>
-      <translation type="unfinished">Version: %0	File: %1</translation>
+      <translation>버전: %0	파일: %1</translation>
     </message>
     <message>
       <location filename="../dialogs/VersionInfoDialog.cpp" line="242"/>
       <source>Name: %0	Flags: %1	Version: %2	</source>
-      <translation type="unfinished">Name: %0	Flags: %1	Version: %2	</translation>
+      <translation>이름: %0	플래그: %1	버전: %2	</translation>
     </message>
     <message>
       <location filename="../dialogs/VersionInfoDialog.cpp" line="260"/>
       <source>VS Fixed file info</source>
-      <translation type="unfinished">VS Fixed file info</translation>
+      <translation>VS 수정된 파일 정보</translation>
     </message>
     <message>
       <location filename="../dialogs/VersionInfoDialog.cpp" line="261"/>
       <source>String table</source>
-      <translation type="unfinished">String table</translation>
+      <translation>문자열 테이블</translation>
     </message>
   </context>
   <context>
@@ -10154,54 +10154,54 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/VisualNavbar.cpp" line="288"/>
       <source>Signatures</source>
-      <translation type="unfinished">Signatures</translation>
+      <translation>서명</translation>
     </message>
     <message>
       <location filename="../widgets/VisualNavbar.cpp" line="289"/>
       <source>Code</source>
-      <translation type="unfinished">Code</translation>
+      <translation>코드</translation>
     </message>
     <message>
       <location filename="../widgets/VisualNavbar.cpp" line="290"/>
       <source>Data</source>
-      <translation type="unfinished">Data</translation>
+      <translation>데이터</translation>
     </message>
     <message>
       <location filename="../widgets/VisualNavbar.cpp" line="291"/>
       <source>Strings</source>
-      <translation type="unfinished">Strings</translation>
+      <translation>문자열</translation>
     </message>
     <message>
       <location filename="../widgets/VisualNavbar.cpp" line="292"/>
       <source>Imports</source>
-      <translation type="unfinished">Imports</translation>
+      <translation>가져오기</translation>
     </message>
     <message>
       <location filename="../widgets/VisualNavbar.cpp" line="293"/>
       <source>Symbols</source>
-      <translation type="unfinished">Symbols</translation>
+      <translation>기호</translation>
     </message>
     <message>
       <location filename="../widgets/VisualNavbar.cpp" line="294"/>
       <source>Unexplored</source>
-      <translation type="unfinished">Unexplored</translation>
+      <translation>미탐색</translation>
     </message>
     <message>
       <location filename="../widgets/VisualNavbar.cpp" line="446"/>
       <source>Address: %1</source>
-      <translation type="unfinished">Address: %1</translation>
+      <translation>주소: %1
+</translation>
     </message>
     <message>
       <location filename="../widgets/VisualNavbar.cpp" line="455"/>
       <source>Sections: 
 </source>
-      <translation type="unfinished">Sections: 
-</translation>
+      <translation>섹션:</translation>
     </message>
     <message>
       <location filename="../widgets/VisualNavbar.cpp" line="472"/>
       <source>Show Legend</source>
-      <translation type="unfinished">Show Legend</translation>
+      <translation>범례 보기</translation>
     </message>
   </context>
   <context>
@@ -10350,17 +10350,17 @@ p, li { white-space: pre-wrap; }
     <message>
       <location filename="../dialogs/XrefsDialog.ui" line="14"/>
       <source>XRefs for </source>
-      <translation type="unfinished">XRefs for </translation>
+      <translation>다음에 대한 X-Ref: </translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.ui" line="48"/>
       <source>X-Refs to: </source>
-      <translation type="unfinished">X-Refs to: </translation>
+      <translation>다음 목적지에 대한 X-Ref: </translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.ui" line="71"/>
       <source>X-Refs from: </source>
-      <translation type="unfinished">X-Refs from: </translation>
+      <translation>다음 출발지에 대한 X-Ref: </translation>
     </message>
     <message>
       <location filename="../dialogs/XrefsDialog.ui" line="98"/>
