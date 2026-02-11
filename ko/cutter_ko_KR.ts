@@ -1626,133 +1626,133 @@
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="406"/>
       <source>Color of user Comment</source>
-      <translation type="unfinished">Color of user Comment</translation>
+      <translation>사용자 주석의 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="407"/>
       <source>args</source>
-      <translation type="unfinished">args</translation>
+      <translation>args</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="409"/>
       <source>Color of names of functions</source>
-      <translation type="unfinished">Color of names of functions</translation>
+      <translation>함수 이름의 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="410"/>
       <source>Function name</source>
-      <translation type="unfinished">Function name</translation>
+      <translation>함수 이름</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="412"/>
       <source>Color of function location</source>
-      <translation type="unfinished">Color of function location</translation>
+      <translation>함수 위치의 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="413"/>
       <source>Function location</source>
-      <translation type="unfinished">Function location</translation>
+      <translation>함수 위치</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="415"/>
       <source>Color of the line which shows which opcodes belongs to a function</source>
-      <translation type="unfinished">Color of the line which shows which opcodes belongs to a function</translation>
+      <translation>어떤 옵코드가 함수에 속하는지 나타내는 선의 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="417"/>
       <source>Function line</source>
-      <translation type="unfinished">Function line</translation>
+      <translation>함수 라인</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="419"/>
       <source>Color of flags (similar to bookmarks for offset)</source>
-      <translation type="unfinished">Color of flags (similar to bookmarks for offset)</translation>
+      <translation>플래그 색상(간격의 책갈피와 비슷함)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="420"/>
       <source>Flag</source>
-      <translation type="unfinished">Flag</translation>
+      <translation>플래그</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="421"/>
       <source>Label</source>
-      <translation type="unfinished">Label</translation>
+      <translation>레이블</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="422"/>
       <source>Help</source>
-      <translation type="unfinished">Help</translation>
+      <translation>도움말</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="424"/>
       <source>Color of lines showing jump destination</source>
-      <translation type="unfinished">Color of lines showing jump destination</translation>
+      <translation>점프 목적지를 표시하는 선의 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="425"/>
       <source>Flow</source>
-      <translation type="unfinished">Flow</translation>
+      <translation>플로우</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="426"/>
       <source>flow2</source>
-      <translation type="unfinished">flow2</translation>
+      <translation>flow2</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="428"/>
       <location filename="../widgets/ColorThemeListView.cpp" line="433"/>
       <source>Info</source>
-      <translation type="unfinished">Info</translation>
+      <translation>정보</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="428"/>
       <source>prompt</source>
-      <translation type="unfinished">prompt</translation>
+      <translation>프롬프트</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="430"/>
       <source>Color of offsets</source>
-      <translation type="unfinished">Color of offsets</translation>
+      <translation>간격 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="431"/>
       <source>Offset</source>
-      <translation type="unfinished">Offset</translation>
+      <translation>간격</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="433"/>
       <source>input</source>
-      <translation type="unfinished">input</translation>
+      <translation>입력</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="435"/>
       <source>Invalid opcode color</source>
-      <translation type="unfinished">Invalid opcode color</translation>
+      <translation>잘못된 옵코드 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="436"/>
       <source>invalid</source>
-      <translation type="unfinished">invalid</translation>
+      <translation>유효하지 않음</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="437"/>
       <source>other</source>
-      <translation type="unfinished">other</translation>
+      <translation>기타</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="439"/>
       <source>0x00 opcode color</source>
-      <translation type="unfinished">0x00 opcode color</translation>
+      <translation>0x00 옵코드 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="440"/>
       <source>b0x00</source>
-      <translation type="unfinished">b0x00</translation>
+      <translation>b0x00</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="442"/>
       <source>0x7f opcode color</source>
-      <translation type="unfinished">0x7f opcode color</translation>
+      <translation>0x7f 옵코드 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="443"/>
@@ -1987,252 +1987,252 @@
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="514"/>
       <source>ai.read</source>
-      <translation type="unfinished">ai.read</translation>
+      <translation>ai.read</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="515"/>
       <source>ai.write</source>
-      <translation type="unfinished">ai.write</translation>
+      <translation>ai.write</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="516"/>
       <source>ai.exec</source>
-      <translation type="unfinished">ai.exec</translation>
+      <translation>ai.exec</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="517"/>
       <source>ai.seq</source>
-      <translation type="unfinished">ai.seq</translation>
+      <translation>ai.seq</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="518"/>
       <source>ai.ascii</source>
-      <translation type="unfinished">ai.ascii</translation>
+      <translation>ai.ascii</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="519"/>
       <source>graph.box</source>
-      <translation type="unfinished">graph.box</translation>
+      <translation>graph.box</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="520"/>
       <source>graph.box2</source>
-      <translation type="unfinished">graph.box2</translation>
+      <translation>graph.box2</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="521"/>
       <source>graph.box3</source>
-      <translation type="unfinished">graph.box3</translation>
+      <translation>graph.box3</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="522"/>
       <source>graph.box4</source>
-      <translation type="unfinished">graph.box4</translation>
+      <translation>graph.box4</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="524"/>
       <source>In graph view jump arrow true</source>
-      <translation type="unfinished">In graph view jump arrow true</translation>
+      <translation>그래프에서, 점프 참 화살표 보기</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="525"/>
       <source>Arrow true</source>
-      <translation type="unfinished">Arrow true</translation>
+      <translation>참 화살표</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="527"/>
       <source>In graph view jump arrow false</source>
-      <translation type="unfinished">In graph view jump arrow false</translation>
+      <translation>그래프에서, 점프 거짓 화살표 보기</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="528"/>
       <source>Arrow false</source>
-      <translation type="unfinished">Arrow false</translation>
+      <translation>거짓 화살표</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="530"/>
       <source>In graph view jump arrow (no condition)</source>
-      <translation type="unfinished">In graph view jump arrow (no condition)</translation>
+      <translation>그래프에서, 점프 화살표 보기(조건 없음)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="531"/>
       <source>Arrow</source>
-      <translation type="unfinished">Arrow</translation>
+      <translation>화살표</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="532"/>
       <source>graph.current</source>
-      <translation type="unfinished">graph.current</translation>
+      <translation>graph.current</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="533"/>
       <source>graph.traced</source>
-      <translation type="unfinished">graph.traced</translation>
+      <translation>graph.traced</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="535"/>
       <source>Background color of Graph Overview&apos;s node</source>
-      <translation type="unfinished">Background color of Graph Overview&apos;s node</translation>
+      <translation>그래프 개요 및 노드의 배경 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="536"/>
       <source>Graph Overview node</source>
-      <translation type="unfinished">Graph Overview node</translation>
+      <translation>그래프 개요 노드</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="538"/>
       <source>Fill color of Graph Overview&apos;s selection</source>
-      <translation type="unfinished">Fill color of Graph Overview&apos;s selection</translation>
+      <translation>그래프 개요 선택 항목의 색상 채우기</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="539"/>
       <source>Graph Overview fill</source>
-      <translation type="unfinished">Graph Overview fill</translation>
+      <translation>그래프 개요 채우기</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="541"/>
       <source>Border color of Graph Overview&apos;s selection</source>
-      <translation type="unfinished">Border color of Graph Overview&apos;s selection</translation>
+      <translation>그래프 개요 선택 항목의 경계 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="542"/>
       <source>Graph Overview border</source>
-      <translation type="unfinished">Graph Overview border</translation>
+      <translation>그래프 개요 경계</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="543"/>
       <source>gui.cflow</source>
-      <translation type="unfinished">gui.cflow</translation>
+      <translation>gui.cflow</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="544"/>
       <source>gui.dataoffset</source>
-      <translation type="unfinished">gui.dataoffset</translation>
+      <translation>gui.dataoffset</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="546"/>
       <source>General background color</source>
-      <translation type="unfinished">General background color</translation>
+      <translation>일반 배경 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="547"/>
       <source>Background</source>
-      <translation type="unfinished">Background</translation>
+      <translation>배경</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="549"/>
       <source>Background color of non-focused graph node</source>
-      <translation type="unfinished">Background color of non-focused graph node</translation>
+      <translation>초점이 맞춰지지 않은 그래프 노드의 배경 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="550"/>
       <source>Node background</source>
-      <translation type="unfinished">Node background</translation>
+      <translation>노드 배경</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="552"/>
       <source>Background of current graph node</source>
-      <translation type="unfinished">Background of current graph node</translation>
+      <translation>현재 그래프 노드 배경</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="553"/>
       <source>Current graph node</source>
-      <translation type="unfinished">Current graph node</translation>
+      <translation>현재 그래프 노드</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="555"/>
       <source>Color of node border in graph view</source>
-      <translation type="unfinished">Color of node border in graph view</translation>
+      <translation>그래프 보기에서 노드 경계 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="556"/>
       <source>Node border</source>
-      <translation type="unfinished">Node border</translation>
+      <translation>노드 경계</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="558"/>
       <source>Selected line background color</source>
-      <translation type="unfinished">Selected line background color</translation>
+      <translation>선택한 라인 배경 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="559"/>
       <source>Line highlight</source>
-      <translation type="unfinished">Line highlight</translation>
+      <translation>라인 강조 표시</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="561"/>
       <source>Background color of selected word</source>
-      <translation type="unfinished">Background color of selected word</translation>
+      <translation>선택한 단어의 배경색</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="562"/>
       <source>Word highlight</source>
-      <translation type="unfinished">Word highlight</translation>
+      <translation>낱말 강조</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="564"/>
       <source>Main function color</source>
-      <translation type="unfinished">Main function color</translation>
+      <translation>기본 함수 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="565"/>
       <source>Main</source>
-      <translation type="unfinished">Main</translation>
+      <translation>기본</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="566"/>
       <source>gui.imports</source>
-      <translation type="unfinished">gui.imports</translation>
+      <translation>gui.imports</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="567"/>
       <source>highlightPC</source>
-      <translation type="unfinished">highlightPC</translation>
+      <translation>highlightPC</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="568"/>
       <source>gui.navbar.err</source>
-      <translation type="unfinished">gui.navbar.err</translation>
+      <translation>gui.navbar.err</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="569"/>
       <source>gui.navbar.seek</source>
-      <translation type="unfinished">gui.navbar.seek</translation>
+      <translation>gui.navbar.seek</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="570"/>
       <source>angui.navbar.str</source>
-      <translation type="unfinished">angui.navbar.str</translation>
+      <translation>angui.navbar.str</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="571"/>
       <source>gui.navbar.pc</source>
-      <translation type="unfinished">gui.navbar.pc</translation>
+      <translation>gui.navbar.pc</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="572"/>
       <source>gui.navbar.sym</source>
-      <translation type="unfinished">gui.navbar.sym</translation>
+      <translation>gui.navbar.sym</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="574"/>
       <source>Code section color in navigation bar</source>
-      <translation type="unfinished">Code section color in navigation bar</translation>
+      <translation>탐색 표시줄의 코드 섹션 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="575"/>
       <source>Navbar code</source>
-      <translation type="unfinished">Navbar code</translation>
+      <translation>탐색 표시줄 코드</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="577"/>
       <source>Empty section color in navigation bar</source>
-      <translation type="unfinished">Empty section color in navigation bar</translation>
+      <translation>탐색 표시줄의 비어 있는 섹션 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="578"/>
       <source>Navbar empty</source>
-      <translation type="unfinished">Navbar empty</translation>
+      <translation>비어 있는 탐색 표시줄</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="579"/>
@@ -4354,7 +4354,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/EntrypointWidget.ui" line="61"/>
       <source>Type</source>
-      <translation type="unfinished">Type</translation>
+      <translation>유형</translation>
     </message>
   </context>
   <context>
@@ -4395,7 +4395,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="238"/>
       <source>Toggle Exports Window</source>
-      <translation type="unfinished">Toggle Exports Window</translation>
+      <translation>토글 내보내기 창</translation>
     </message>
   </context>
   <context>
@@ -4469,7 +4469,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="14"/>
       <source>Flags</source>
-      <translation type="unfinished">Flags</translation>
+      <translation>플래그</translation>
     </message>
     <message>
       <location filename="../widgets/FlagsWidget.ui" line="79"/>
@@ -4568,7 +4568,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/FlirtWidget.ui" line="14"/>
       <source>Signatures</source>
-      <translation type="unfinished">Signatures</translation>
+      <translation>서명</translation>
     </message>
   </context>
   <context>
@@ -5036,7 +5036,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/GlobalsWidget.ui" line="14"/>
       <source>Global Variables</source>
-      <translation type="unfinished">Global Variables</translation>
+      <translation>전역 변수</translation>
     </message>
     <message>
       <location filename="../widgets/GlobalsWidget.ui" line="76"/>
@@ -5170,12 +5170,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="264"/>
       <source>Toggle Graph Window</source>
-      <translation type="unfinished">Toggle Graph Window</translation>
+      <translation>토글 그래프 창</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="268"/>
       <source>Switch to Disassembly View</source>
-      <translation type="unfinished">Switch to Disassembly View</translation>
+      <translation>분해도로 전환</translation>
     </message>
   </context>
   <context>
@@ -5291,12 +5291,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="276"/>
       <source>Add flag at address</source>
-      <translation type="unfinished">Add flag at address</translation>
+      <translation>주소에 플래그 추가</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="278"/>
       <source>Add mark</source>
-      <translation type="unfinished">Add mark</translation>
+      <translation>마크 추가</translation>
     </message>
     <message>
       <source>Copy address</source>
@@ -5416,13 +5416,13 @@ Please check the console for more details.</source>
       <location filename="../widgets/HexWidget.cpp" line="1245"/>
       <location filename="../widgets/HexWidget.cpp" line="1254"/>
       <source>Edit Mark</source>
-      <translation type="unfinished">Edit Mark</translation>
+      <translation>마크 편집</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1246"/>
       <location filename="../widgets/HexWidget.cpp" line="1255"/>
       <source>Remove Mark</source>
-      <translation type="unfinished">Remove Mark</translation>
+      <translation>마크 제거</translation>
     </message>
     <message>
       <location filename="../widgets/HexWidget.cpp" line="1391"/>
@@ -5558,7 +5558,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="289"/>
       <source>Information</source>
-      <translation type="unfinished">Information</translation>
+      <translation>정보</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="318"/>
@@ -5578,7 +5578,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="370"/>
       <source>Copy SHA1</source>
-      <translation type="unfinished">Copy SHA1</translation>
+      <translation>SHA1 복사</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="396"/>
@@ -5603,7 +5603,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../widgets/HexdumpWidget.ui" line="486"/>
       <source>Copy MD5</source>
-      <translation type="unfinished">Copy MD5</translation>
+      <translation>MD5 복사</translation>
     </message>
     <message>
       <location filename="../widgets/HexdumpWidget.cpp" line="50"/>
@@ -5724,7 +5724,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="283"/>
       <source>Toggle Imports Window</source>
-      <translation type="unfinished">Toggle Imports Window</translation>
+      <translation>토글 가져오기 창</translation>
     </message>
   </context>
   <context>
@@ -5877,7 +5877,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="707"/>
       <source>Bits: </source>
-      <translation type="unfinished">Bits: </translation>
+      <translation>비트: </translation>
     </message>
     <message>
       <location filename="../dialogs/InitialOptionsDialog.ui" line="720"/>
@@ -6117,13 +6117,13 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../CutterApplication.cpp" line="532"/>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="380"/>
       <source>Auto analysis</source>
-      <translation type="unfinished">Auto analysis</translation>
+      <translation>자동 분석</translation>
     </message>
     <message>
       <location filename="../CutterApplication.cpp" line="538"/>
       <location filename="../dialogs/InitialOptionsDialog.cpp" line="384"/>
       <source>Auto analysis (experimental)</source>
-      <translation type="unfinished">Auto analysis (experimental)</translation>
+      <translation>자동 분석(실험용)</translation>
     </message>
   </context>
   <context>
@@ -6147,7 +6147,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
       <location filename="../dialogs/preferences/InitializationFileEditor.cpp" line="39"/>
       <source>Execute</source>
       <comment>script</comment>
-      <translation type="unfinished">Execute</translation>
+      <translation>실행</translation>
     </message>
   </context>
   <context>
@@ -6280,7 +6280,7 @@ Please, make sure, that it is a valid base64 string and try again.</source>
     <message>
       <location filename="../core/MainWindow.ui" line="207"/>
       <source>Main toolbar</source>
-      <translation type="unfinished">Main toolbar</translation>
+      <translation>메인 툴바</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.ui" line="232"/>
@@ -6901,7 +6901,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../core/MainWindow.cpp" line="1189"/>
       <source>current position (%1)</source>
-      <translation type="unfinished">current position (%1)</translation>
+      <translation>현재 위치(%1)</translation>
     </message>
     <message>
       <location filename="../core/MainWindow.cpp" line="1249"/>
@@ -7058,32 +7058,32 @@ Save your project before closing!</source>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="9"/>
       <source>Seek</source>
-      <translation type="unfinished">Seek</translation>
+      <translation>탐색</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="12"/>
       <source>Seek to Function End</source>
-      <translation type="unfinished">Seek to Function End</translation>
+      <translation>함수 종료 지점까지 탐색</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="16"/>
       <source>Seek to Function Start</source>
-      <translation type="unfinished">Seek to Function Start</translation>
+      <translation>함수 시작 지점까지 탐색</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="30"/>
       <source>Show Filter</source>
-      <translation type="unfinished">Show Filter</translation>
+      <translation>필터 표시</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="32"/>
       <source>Clear Filter</source>
-      <translation type="unfinished">Clear Filter</translation>
+      <translation>필터 삭제</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="75"/>
       <source>Focus Console Input</source>
-      <translation type="unfinished">Focus Console Input</translation>
+      <translation>포커스 콘솔 입력</translation>
     </message>
   </context>
   <context>
@@ -7134,37 +7134,37 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/MarkDialog.ui" line="14"/>
       <source>Mark Editor</source>
-      <translation type="unfinished">Mark Editor</translation>
+      <translation>마크 편집기</translation>
     </message>
     <message>
       <location filename="../dialogs/MarkDialog.ui" line="22"/>
       <source>Name:</source>
-      <translation type="unfinished">Name:</translation>
+      <translation>이름:</translation>
     </message>
     <message>
       <location filename="../dialogs/MarkDialog.ui" line="32"/>
       <source>Background Color:</source>
-      <translation type="unfinished">Background Color:</translation>
+      <translation>배경 색상:</translation>
     </message>
     <message>
       <location filename="../dialogs/MarkDialog.ui" line="47"/>
       <source>Pick</source>
-      <translation type="unfinished">Pick</translation>
+      <translation>선택</translation>
     </message>
     <message>
       <location filename="../dialogs/MarkDialog.ui" line="72"/>
       <source>Start Address:</source>
-      <translation type="unfinished">Start Address:</translation>
+      <translation>시작 주소:</translation>
     </message>
     <message>
       <location filename="../dialogs/MarkDialog.ui" line="82"/>
       <source>End Address:</source>
-      <translation type="unfinished">End Address:</translation>
+      <translation>마지막 주소:</translation>
     </message>
     <message>
       <location filename="../dialogs/MarkDialog.ui" line="92"/>
       <source>Comment:</source>
-      <translation type="unfinished">Comment:</translation>
+      <translation>주석:</translation>
     </message>
     <message>
       <location filename="../dialogs/MarkDialog.cpp" line="59"/>
@@ -7172,32 +7172,32 @@ Save your project before closing!</source>
       <location filename="../dialogs/MarkDialog.cpp" line="70"/>
       <location filename="../dialogs/MarkDialog.cpp" line="79"/>
       <source>Invalid Input</source>
-      <translation type="unfinished">Invalid Input</translation>
+      <translation>잘못된 입력</translation>
     </message>
     <message>
       <location filename="../dialogs/MarkDialog.cpp" line="60"/>
       <source>Starting address is not a valid hexadecimal number</source>
-      <translation type="unfinished">Starting address is not a valid hexadecimal number</translation>
+      <translation>시작 주소가 유효한 16진수 숫자가 아닙니다.</translation>
     </message>
     <message>
       <location filename="../dialogs/MarkDialog.cpp" line="66"/>
       <source>Ending address is not a valid hexadecimal number</source>
-      <translation type="unfinished">Ending address is not a valid hexadecimal number</translation>
+      <translation>마지막 주소가 유효한 16진수 숫자가 아닙니다.</translation>
     </message>
     <message>
       <location filename="../dialogs/MarkDialog.cpp" line="71"/>
       <source>Starting address cannot be greater than ending address</source>
-      <translation type="unfinished">Starting address cannot be greater than ending address</translation>
+      <translation>시작 주소가 마지막 주소보다 클 수 없습니다.</translation>
     </message>
     <message>
       <location filename="../dialogs/MarkDialog.cpp" line="79"/>
       <source>Name cannot be empty</source>
-      <translation type="unfinished">Name cannot be empty</translation>
+      <translation>이름은 필수 정보입니다.</translation>
     </message>
     <message>
       <location filename="../dialogs/MarkDialog.cpp" line="94"/>
       <source>Pick Background Color</source>
-      <translation type="unfinished">Pick Background Color</translation>
+      <translation>배경 색상 선택</translation>
     </message>
   </context>
   <context>
@@ -7259,7 +7259,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NativeDebugDialog.ui" line="29"/>
       <source>Native debugging configuration</source>
-      <translation type="unfinished">Native debugging configuration</translation>
+      <translation>기본 디버깅 구성</translation>
     </message>
     <message>
       <location filename="../dialogs/NativeDebugDialog.ui" line="35"/>
@@ -7269,47 +7269,47 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/NativeDebugDialog.ui" line="64"/>
       <source>Use RzRun Profile</source>
-      <translation type="unfinished">Use RzRun Profile</translation>
+      <translation>RzRun 프로필 사용</translation>
     </message>
     <message>
       <location filename="../dialogs/NativeDebugDialog.ui" line="73"/>
       <source>Load Profile</source>
-      <translation type="unfinished">Load Profile</translation>
+      <translation>프로필 불러오기</translation>
     </message>
     <message>
       <location filename="../dialogs/NativeDebugDialog.ui" line="93"/>
       <source>Select</source>
-      <translation type="unfinished">Select</translation>
+      <translation>선택</translation>
     </message>
     <message>
       <location filename="../dialogs/NativeDebugDialog.ui" line="102"/>
       <source>Profile Directives</source>
-      <translation type="unfinished">Profile Directives</translation>
+      <translation>프로필 생성 지침</translation>
     </message>
     <message>
       <location filename="../dialogs/NativeDebugDialog.ui" line="115"/>
       <source>key=value</source>
-      <translation type="unfinished">key=value</translation>
+      <translation>key=value</translation>
     </message>
     <message>
       <location filename="../dialogs/NativeDebugDialog.ui" line="124"/>
       <source>Show Help</source>
-      <translation type="unfinished">Show Help</translation>
+      <translation>도움말 표시</translation>
     </message>
     <message>
       <location filename="../dialogs/NativeDebugDialog.cpp" line="86"/>
       <source>Open RzRun Profile</source>
-      <translation type="unfinished">Open RzRun Profile</translation>
+      <translation>RzRun 프로필 열기</translation>
     </message>
     <message>
       <location filename="../dialogs/NativeDebugDialog.cpp" line="87"/>
       <source>RzRun Profiles (*.rz *.rrz);;All Files (*)</source>
-      <translation type="unfinished">RzRun Profiles (*.rz *.rrz);;All Files (*)</translation>
+      <translation>RzRun 프로필(*.rz *.rrz);;모든 파일(*)</translation>
     </message>
     <message>
       <location filename="../dialogs/NativeDebugDialog.cpp" line="128"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>오류</translation>
     </message>
     <message>
       <location filename="../dialogs/NativeDebugDialog.cpp" line="128"/>
@@ -7806,22 +7806,22 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="61"/>
       <source>Execute the given command</source>
-      <translation type="unfinished">Execute the given command</translation>
+      <translation>해당 명령 실행</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="62"/>
       <source>Set a timeout</source>
-      <translation type="unfinished">Set a timeout</translation>
+      <translation>타임아웃 설정</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="64"/>
       <source>Signal to use when killing the child because the timeout happens</source>
-      <translation type="unfinished">Signal to use when killing the child because the timeout happens</translation>
+      <translation>타임아웃 발생으로 인한 하위 항목 삭제 시 사용하도록 신호 제공</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="65"/>
       <source>Unset one environment variable</source>
-      <translation type="unfinished">Unset one environment variable</translation>
+      <translation>하나의 환경 변수 설정 해제</translation>
     </message>
   </context>
   <context>
@@ -8468,80 +8468,80 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RegisterProfileDialog.ui" line="14"/>
       <source>Register Profile</source>
-      <translation type="unfinished">Register Profile</translation>
+      <translation>레지스터 프로필</translation>
     </message>
     <message>
       <location filename="../dialogs/RegisterProfileDialog.ui" line="29"/>
       <source>Edit Profile</source>
-      <translation type="unfinished">Edit Profile</translation>
+      <translation>프로필 편집</translation>
     </message>
     <message>
       <location filename="../dialogs/RegisterProfileDialog.ui" line="40"/>
       <source>Import GDB Profile</source>
-      <translation type="unfinished">Import GDB Profile</translation>
+      <translation>GDB 프로필 가져오기</translation>
     </message>
     <message>
       <location filename="../dialogs/RegisterProfileDialog.ui" line="47"/>
       <source>Load Profile</source>
-      <translation type="unfinished">Load Profile</translation>
+      <translation>프로필 불러오기</translation>
     </message>
     <message>
       <location filename="../dialogs/RegisterProfileDialog.ui" line="56"/>
       <source>Recent Profiles</source>
-      <translation type="unfinished">Recent Profiles</translation>
+      <translation>최근 프로필</translation>
     </message>
     <message>
       <location filename="../dialogs/RegisterProfileDialog.ui" line="72"/>
       <location filename="../dialogs/RegisterProfileDialog.cpp" line="197"/>
       <source>Export Profile</source>
-      <translation type="unfinished">Export Profile</translation>
+      <translation>프로필 내보내기</translation>
     </message>
     <message>
       <location filename="../dialogs/RegisterProfileDialog.cpp" line="41"/>
       <source>Remove Item</source>
-      <translation type="unfinished">Remove Item</translation>
+      <translation>항목 제거</translation>
     </message>
     <message>
       <location filename="../dialogs/RegisterProfileDialog.cpp" line="44"/>
       <source>Clear All</source>
-      <translation type="unfinished">Clear All</translation>
+      <translation>모두 삭제</translation>
     </message>
     <message>
       <location filename="../dialogs/RegisterProfileDialog.cpp" line="87"/>
       <source>Open Register Profile</source>
-      <translation type="unfinished">Open Register Profile</translation>
+      <translation>레지스터 프로필 열기</translation>
     </message>
     <message>
       <location filename="../dialogs/RegisterProfileDialog.cpp" line="88"/>
       <location filename="../dialogs/RegisterProfileDialog.cpp" line="98"/>
       <location filename="../dialogs/RegisterProfileDialog.cpp" line="202"/>
       <source>All Files (*)</source>
-      <translation type="unfinished">All Files (*)</translation>
+      <translation>모든 파일(*)</translation>
     </message>
     <message>
       <location filename="../dialogs/RegisterProfileDialog.cpp" line="97"/>
       <source>Open GDB Profile</source>
-      <translation type="unfinished">Open GDB Profile</translation>
+      <translation>GDB 프로필 열기</translation>
     </message>
     <message>
       <location filename="../dialogs/RegisterProfileDialog.cpp" line="134"/>
       <source>Error</source>
-      <translation type="unfinished">Error</translation>
+      <translation>오류</translation>
     </message>
     <message>
       <location filename="../dialogs/RegisterProfileDialog.cpp" line="134"/>
       <source>Could not open file: %1</source>
-      <translation type="unfinished">Could not open file: %1</translation>
+      <translation>파일을 열 수 없습니다: %s</translation>
     </message>
     <message>
       <location filename="../dialogs/RegisterProfileDialog.cpp" line="197"/>
       <source>The profile is empty.</source>
-      <translation type="unfinished">The profile is empty.</translation>
+      <translation>프로필이 비어 있습니다.</translation>
     </message>
     <message>
       <location filename="../dialogs/RegisterProfileDialog.cpp" line="201"/>
       <source>Export Profile As</source>
-      <translation type="unfinished">Export Profile As</translation>
+      <translation>프로필을 다음 형식으로 내보내기</translation>
     </message>
   </context>
   <context>
@@ -8582,7 +8582,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RegisterRefsWidget.ui" line="14"/>
       <source>Register References</source>
-      <translation type="unfinished">Register References</translation>
+      <translation>레지스터 참조</translation>
     </message>
   </context>
   <context>
@@ -8590,12 +8590,12 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/RegistersWidget.ui" line="14"/>
       <source>Registers</source>
-      <translation type="unfinished">Registers</translation>
+      <translation>레지스터</translation>
     </message>
     <message>
       <location filename="../widgets/RegistersWidget.ui" line="75"/>
       <source>Configure Register Profile</source>
-      <translation type="unfinished">Configure Register Profile</translation>
+      <translation>레지스터 프로필 구성</translation>
     </message>
   </context>
   <context>
@@ -8634,7 +8634,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="23"/>
       <source>Remote debugging configuration</source>
-      <translation type="unfinished">Remote debugging configuration</translation>
+      <translation>원격 디버깅 구성</translation>
     </message>
     <message>
       <location filename="../dialogs/RemoteDebugDialog.ui" line="43"/>
