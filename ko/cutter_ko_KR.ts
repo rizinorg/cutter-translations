@@ -66,24 +66,24 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="31"/>
       <source>Python: %1</source>
-      <translation type="unfinished">Python: %1</translation>
+      <translation>파이썬: %1</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="34"/>
       <location filename="../dialogs/AboutDialog.cpp" line="43"/>
       <source>ON</source>
-      <translation type="unfinished">ON</translation>
+      <translation>켜기</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="36"/>
       <location filename="../dialogs/AboutDialog.cpp" line="45"/>
       <source>OFF</source>
-      <translation type="unfinished">OFF</translation>
+      <translation>끄기</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="40"/>
       <source>Python Bindings: %1</source>
-      <translation type="unfinished">Python Bindings: %1</translation>
+      <translation>파이썬 결합: %1</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="48"/>
@@ -159,22 +159,22 @@
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="118"/>
       <source>Add Comment</source>
-      <translation type="unfinished">Add Comment</translation>
+      <translation>주석 추가</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="120"/>
       <source>Edit Comment</source>
-      <translation type="unfinished">Edit Comment</translation>
+      <translation>주석 편집</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="124"/>
       <source>Add Breakpoint</source>
-      <translation type="unfinished">Add Breakpoint</translation>
+      <translation>중단점 추가</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="126"/>
       <source>Remove Breakpoint</source>
-      <translation type="unfinished">Remove Breakpoint</translation>
+      <translation>중단점 제거</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="55"/>
@@ -275,7 +275,7 @@
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="249"/>
       <source>e.g.: 0x554889e5</source>
-      <translation type="unfinished">e.g.: 0x554889e5</translation>
+      <translation>예: 0x554889e5</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.ui" line="269"/>
@@ -285,37 +285,37 @@
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="12"/>
       <source>All executable maps</source>
-      <translation type="unfinished">All executable maps</translation>
+      <translation>확장 가능한 모든 지도</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="13"/>
       <source>All maps</source>
-      <translation type="unfinished">All maps</translation>
+      <translation>모든 지도</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="14"/>
       <source>Current map</source>
-      <translation type="unfinished">Current map</translation>
+      <translation>현재 지도</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="15"/>
       <source>Raw</source>
-      <translation type="unfinished">Raw</translation>
+      <translation>원본 형식</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="16"/>
       <source>Current mapped section</source>
-      <translation type="unfinished">Current mapped section</translation>
+      <translation>현재 매핑 섹션</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="17"/>
       <source>All mapped sections</source>
-      <translation type="unfinished">All mapped sections</translation>
+      <translation>모든 매핑 섹션</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="44"/>
       <source>Analyze the program using Rizin&apos;s &quot;aaa&quot; command</source>
-      <translation type="unfinished">Analyze the program using Rizin&apos;s &quot;aaa&quot; command</translation>
+      <translation>Rizin&apos;s &quot;aaa&quot; 명령어를 사용하여 프로그램을 분석합니다.</translation>
     </message>
   </context>
   <context>
@@ -866,29 +866,29 @@
     <message numerus="yes">
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="45"/>
       <source>%n hours</source>
-      <translation type="unfinished">
-        <numerusform>%n hours</numerusform>
+      <translation>
+        <numerusform>%n시간</numerusform>
       </translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="49"/>
       <source>%n minutes</source>
-      <translation type="unfinished">
-        <numerusform>%n minutes</numerusform>
+      <translation>
+        <numerusform>%n분</numerusform>
       </translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="52"/>
       <source>%n seconds</source>
-      <translation type="unfinished">
-        <numerusform>%n seconds</numerusform>
+      <translation>
+        <numerusform>%n초</numerusform>
       </translation>
     </message>
     <message>
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="54"/>
       <source>Running for %1</source>
       <comment>time</comment>
-      <translation type="unfinished">Running for %1</translation>
+      <translation>소요 시간: %1</translation>
     </message>
   </context>
   <context>
@@ -934,7 +934,7 @@
     <message>
       <location filename="../widgets/BacktraceWidget.ui" line="14"/>
       <source>Backtrace</source>
-      <translation type="unfinished">Backtrace</translation>
+      <translation>백트레이스</translation>
     </message>
   </context>
   <context>
@@ -965,7 +965,7 @@
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="23"/>
       <source>BaseFind</source>
-      <translation type="unfinished">BaseFind</translation>
+      <translation>BaseFind</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="43"/>
@@ -1047,7 +1047,7 @@
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.ui" line="23"/>
       <source>BaseFind Results</source>
-      <translation type="unfinished">BaseFind Results</translation>
+      <translation>BaseFind 결과</translation>
     </message>
   </context>
   <context>
@@ -1068,7 +1068,7 @@
     <message>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="23"/>
       <source>Searching for base address</source>
-      <translation type="unfinished">Searching for base address</translation>
+      <translation>기본 주소 검색 중</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="81"/>
@@ -1246,7 +1246,7 @@
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="14"/>
       <source>Breakpoints</source>
-      <translation type="unfinished">Breakpoints</translation>
+      <translation>중단점</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="58"/>
@@ -1611,17 +1611,17 @@
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="402"/>
       <source>Color of comment generated by Rizin</source>
-      <translation type="unfinished">Color of comment generated by Rizin</translation>
+      <translation>Rizin에서 생성한 주석의 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="403"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>주석</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="405"/>
       <source>Comment created by user</source>
-      <translation type="unfinished">Comment created by user</translation>
+      <translation>사용자가 생성한 주석</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="406"/>
