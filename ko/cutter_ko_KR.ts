@@ -1725,7 +1725,7 @@
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="430"/>
       <source>Color for labels</source>
-      <translation>라벨 색상</translation>
+      <translation>레이블 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="431"/>
@@ -1750,7 +1750,7 @@
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="439"/>
       <source>Color for control flow (alternative)</source>
-      <translation>제어 흐름 색상(대체)</translation>
+      <translation>제어 흐름 색상(대안)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="440"/>
@@ -1945,22 +1945,22 @@
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="502"/>
       <source>Color for unknown calls</source>
-      <translation>알 수 없는 호출 색상</translation>
+      <translation>unknown 호출 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="503"/>
       <source>Unknown Call</source>
-      <translation>알 수 없는 Call</translation>
+      <translation>unknown Call</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="505"/>
       <source>Color for unknown jumps</source>
-      <translation>알 수 없는 jump 색상</translation>
+      <translation>unknown jump 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="506"/>
       <source>Unknown Jump</source>
-      <translation>알 수 없는 Jump</translation>
+      <translation>unknown Jump</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="508"/>
@@ -1985,252 +1985,252 @@
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="514"/>
       <source>Color for registers</source>
-      <translation type="unfinished">Color for registers</translation>
+      <translation>레지스터 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="517"/>
       <source>Color for changed registers</source>
-      <translation type="unfinished">Color for changed registers</translation>
+      <translation>변경된 레지스터 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="518"/>
       <source>Changed Register</source>
-      <translation type="unfinished">Changed Register</translation>
+      <translation>변경된 레지스터</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="520"/>
       <source>Color for numbers</source>
-      <translation type="unfinished">Color for numbers</translation>
+      <translation>숫자 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="521"/>
       <source>Number</source>
-      <translation type="unfinished">Number</translation>
+      <translation>숫자</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="523"/>
       <source>Color for move instructions</source>
-      <translation type="unfinished">Color for move instructions</translation>
+      <translation>move 명령 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="524"/>
       <source>Move</source>
-      <translation type="unfinished">Move</translation>
+      <translation>Move</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="526"/>
       <source>Color for function variables</source>
-      <translation type="unfinished">Color for function variables</translation>
+      <translation>함수 변수 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="527"/>
       <source>Function Variable</source>
-      <translation type="unfinished">Function Variable</translation>
+      <translation>함수 변수</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="529"/>
       <source>Color for function variable types</source>
-      <translation type="unfinished">Color for function variable types</translation>
+      <translation>함수 변수 유형 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="530"/>
       <source>Variable Type</source>
-      <translation type="unfinished">Variable Type</translation>
+      <translation>변수 유형</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="532"/>
       <source>Color for function variable addresses</source>
-      <translation type="unfinished">Color for function variable addresses</translation>
+      <translation>함수 변수 어드레스 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="533"/>
       <source>Variable Address</source>
-      <translation type="unfinished">Variable Address</translation>
+      <translation>변수 어드레스</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="535"/>
       <source>Color for widget background</source>
-      <translation type="unfinished">Color for widget background</translation>
+      <translation>위젯 배경 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="536"/>
       <source>Widget Background</source>
-      <translation type="unfinished">Widget Background</translation>
+      <translation>위젯 배경</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="538"/>
       <source>Color for selected widget</source>
-      <translation type="unfinished">Color for selected widget</translation>
+      <translation>선택한 위젯 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="539"/>
       <source>Widget Selection</source>
-      <translation type="unfinished">Widget Selection</translation>
+      <translation>위젯 선택</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="541"/>
       <source>Color for metadata</source>
-      <translation type="unfinished">Color for metadata</translation>
+      <translation>메타데이터 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="542"/>
       <source>Metadata</source>
-      <translation type="unfinished">Metadata</translation>
+      <translation>메타데이터</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="544"/>
       <source>Color for memory read access</source>
-      <translation type="unfinished">Color for memory read access</translation>
+      <translation>메모리 읽기 액세스 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="545"/>
       <source>AI Read</source>
-      <translation type="unfinished">AI Read</translation>
+      <translation>AI 읽기</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="547"/>
       <source>Color for memory write access</source>
-      <translation type="unfinished">Color for memory write access</translation>
+      <translation>메모리 쓰기 액세스 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="548"/>
       <source>AI Write</source>
-      <translation type="unfinished">AI Write</translation>
+      <translation>AI 쓰기</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="550"/>
       <source>Color for executable memory</source>
-      <translation type="unfinished">Color for executable memory</translation>
+      <translation>실행 가능 메모리 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="551"/>
       <source>AI Exec</source>
-      <translation type="unfinished">AI Exec</translation>
+      <translation>AI 실행</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="553"/>
       <source>Color for sequential memory</source>
-      <translation type="unfinished">Color for sequential memory</translation>
+      <translation>순차 메모리 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="554"/>
       <source>AI Sequence</source>
-      <translation type="unfinished">AI Sequence</translation>
+      <translation>AI 시퀀스</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="556"/>
       <source>Color for ASCII in memory</source>
-      <translation type="unfinished">Color for ASCII in memory</translation>
+      <translation>메모리 내 ASCII 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="557"/>
       <source>AI ASCII</source>
-      <translation type="unfinished">AI ASCII</translation>
+      <translation>AI ASCII</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="559"/>
       <source>Color for graph box</source>
-      <translation type="unfinished">Color for graph box</translation>
+      <translation>그래프 상자 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="560"/>
       <source>Graph Box</source>
-      <translation type="unfinished">Graph Box</translation>
+      <translation>그래프 상자</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="562"/>
       <source>Color for graph box (alternative 2)</source>
-      <translation type="unfinished">Color for graph box (alternative 2)</translation>
+      <translation>그래프 상자 색상(대안 2)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="563"/>
       <source>Graph Box 2</source>
-      <translation type="unfinished">Graph Box 2</translation>
+      <translation>그래프 상자 2</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="565"/>
       <source>Color for graph box (alternative 3)</source>
-      <translation type="unfinished">Color for graph box (alternative 3)</translation>
+      <translation>그래프 상자 색상(대안 3)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="566"/>
       <source>Graph Box 3</source>
-      <translation type="unfinished">Graph Box 3</translation>
+      <translation>그래프 상자 3</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="568"/>
       <source>Color for graph box (alternative 4)</source>
-      <translation type="unfinished">Color for graph box (alternative 4)</translation>
+      <translation>그래프 상자 색상(대안 4)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="569"/>
       <source>Graph Box 4</source>
-      <translation type="unfinished">Graph Box 4</translation>
+      <translation>그래프 상자 4</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="571"/>
       <source>Color for true branch in graph</source>
-      <translation type="unfinished">Color for true branch in graph</translation>
+      <translation>그래프 내 true 분기 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="572"/>
       <source>Arrow True</source>
-      <translation type="unfinished">Arrow True</translation>
+      <translation>True 화살표</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="574"/>
       <source>Color for false branch in graph</source>
-      <translation type="unfinished">Color for false branch in graph</translation>
+      <translation>그래프 내 false 분기 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="575"/>
       <source>Arrow False</source>
-      <translation type="unfinished">Arrow False</translation>
+      <translation>False 화살표</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="580"/>
       <source>Color for unknown jump in graph</source>
-      <translation type="unfinished">Color for unknown jump in graph</translation>
+      <translation>그래프 내 unknown jump 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="581"/>
       <source>Graph Undefined Jump</source>
-      <translation type="unfinished">Graph Undefined Jump</translation>
+      <translation>그래프 정의되지 않은 Jump</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="583"/>
       <source>Color for current node in graph</source>
-      <translation type="unfinished">Color for current node in graph</translation>
+      <translation>그래프 내 current node 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="584"/>
       <source>Graph Current</source>
-      <translation type="unfinished">Graph Current</translation>
+      <translation>현재 그래프</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="586"/>
       <source>Color for traced node in graph</source>
-      <translation type="unfinished">Color for traced node in graph</translation>
+      <translation>그래프 내 traced node 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="587"/>
       <source>Graph Traced</source>
-      <translation type="unfinished">Graph Traced</translation>
+      <translation>Graph Traced</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="589"/>
       <source>Color for unknown diff</source>
-      <translation type="unfinished">Color for unknown diff</translation>
+      <translation>unknown diff 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="590"/>
       <source>Diff Unknown</source>
-      <translation type="unfinished">Diff Unknown</translation>
+      <translation>Diff Unknown</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="592"/>
       <source>Color for new diff</source>
-      <translation type="unfinished">Color for new diff</translation>
+      <translation>new diff 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="593"/>
@@ -2240,247 +2240,247 @@
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="595"/>
       <source>Color for matched diff</source>
-      <translation type="unfinished">Color for matched diff</translation>
+      <translation>matched diff 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="596"/>
       <source>Diff Match</source>
-      <translation type="unfinished">Diff Match</translation>
+      <translation>Diff Match</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="598"/>
       <source>Color for unmatched diff</source>
-      <translation type="unfinished">Color for unmatched diff</translation>
+      <translation>unmatched diff 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="599"/>
       <source>Diff Unmatch</source>
-      <translation type="unfinished">Diff Unmatch</translation>
+      <translation>Diff Unmatch</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="602"/>
       <source>Graph Overview Node</source>
-      <translation type="unfinished">Graph Overview Node</translation>
+      <translation>그래프 개요 노드</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="605"/>
       <source>Graph Overview Fill</source>
-      <translation type="unfinished">Graph Overview Fill</translation>
+      <translation>그래프 개요 채우기</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="608"/>
       <source>Graph Overview Border</source>
-      <translation type="unfinished">Graph Overview Border</translation>
+      <translation>그래프 개요 경계</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="610"/>
       <source>Color for GUI control flow</source>
-      <translation type="unfinished">Color for GUI control flow</translation>
+      <translation>GUI 제어 흐름 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="611"/>
       <source>Control Flow</source>
-      <translation type="unfinished">Control Flow</translation>
+      <translation>제어 흐름</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="613"/>
       <source>Color for GUI data offset</source>
-      <translation type="unfinished">Color for GUI data offset</translation>
+      <translation>GUI 데이터 오프셋 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="614"/>
       <source>Data Offset</source>
-      <translation type="unfinished">Data Offset</translation>
+      <translation>데이터 오프셋</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="616"/>
       <source>Color for GUI background</source>
-      <translation type="unfinished">Color for GUI background</translation>
+      <translation>GUI 배경 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="619"/>
       <source>Color for GUI alternate background</source>
-      <translation type="unfinished">Color for GUI alternate background</translation>
+      <translation>GUI 대안 배경 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="620"/>
       <source>Node Background</source>
-      <translation type="unfinished">Node Background</translation>
+      <translation>노드 배경</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="623"/>
       <source>Current Node</source>
-      <translation type="unfinished">Current Node</translation>
+      <translation>현재 노드</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="625"/>
       <source>Color for GUI border</source>
-      <translation type="unfinished">Color for GUI border</translation>
+      <translation>GUI 경계 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="626"/>
       <source>Node Border</source>
-      <translation type="unfinished">Node Border</translation>
+      <translation>노드 경계</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="628"/>
       <source>Color for highlighted line</source>
-      <translation type="unfinished">Color for highlighted line</translation>
+      <translation>강조 표시 라인 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="629"/>
       <source>Line Highlight</source>
-      <translation type="unfinished">Line Highlight</translation>
+      <translation>라인 강조 표시</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="631"/>
       <source>Background color for highlighted word</source>
-      <translation type="unfinished">Background color for highlighted word</translation>
+      <translation>강조된 단어의 배경색</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="632"/>
       <source>Word Highlight Background</source>
-      <translation type="unfinished">Word Highlight Background</translation>
+      <translation>단어 강조 표시 배경</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="634"/>
       <source>Foreground color for highlighted word</source>
-      <translation type="unfinished">Foreground color for highlighted word</translation>
+      <translation>강조 표시된 단어의 전경 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="635"/>
       <source>Word Highlight Foreground</source>
-      <translation type="unfinished">Word Highlight Foreground</translation>
+      <translation>단어 강조 표시 전경</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="638"/>
       <source>Main Function</source>
-      <translation type="unfinished">Main Function</translation>
+      <translation>주요 함수</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="640"/>
       <source>Color for imported symbols</source>
-      <translation type="unfinished">Color for imported symbols</translation>
+      <translation>갸져 온 기호 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="641"/>
       <source>Imports</source>
-      <translation type="unfinished">Imports</translation>
+      <translation>가져오기</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="643"/>
       <source>Color for Program Counter highlight</source>
-      <translation type="unfinished">Color for Program Counter highlight</translation>
+      <translation>프로그램 카운터 강조 표시 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="644"/>
       <source>PC Highlight</source>
-      <translation type="unfinished">PC Highlight</translation>
+      <translation>PC 강조 표시</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="646"/>
       <source>Error color in navigation bar</source>
-      <translation type="unfinished">Error color in navigation bar</translation>
+      <translation>탐색 표시줄의 오류 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="647"/>
       <source>Navbar Error</source>
-      <translation type="unfinished">Navbar Error</translation>
+      <translation>탐색 표시줄 오류</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="649"/>
       <source>Seek color in navigation bar</source>
-      <translation type="unfinished">Seek color in navigation bar</translation>
+      <translation>탐색 표시줄의 찾기 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="650"/>
       <source>Navbar Seek</source>
-      <translation type="unfinished">Navbar Seek</translation>
+      <translation>탐색 표시줄 찾기</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="652"/>
       <source>String color in navigation bar</source>
-      <translation type="unfinished">String color in navigation bar</translation>
+      <translation>탐색 표시줄의 문자열 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="653"/>
       <source>Navbar String</source>
-      <translation type="unfinished">Navbar String</translation>
+      <translation>탐색 표시줄 문자열</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="655"/>
       <source>PC position color in navigation bar</source>
-      <translation type="unfinished">PC position color in navigation bar</translation>
+      <translation>탐색 표시줄의 PC 위치 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="656"/>
       <source>Navbar PC</source>
-      <translation type="unfinished">Navbar PC</translation>
+      <translation>탐색 표시줄 PC</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="658"/>
       <source>Symbol color in navigation bar</source>
-      <translation type="unfinished">Symbol color in navigation bar</translation>
+      <translation>탐색 표시줄의 기호 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="659"/>
       <source>Navbar Symbol</source>
-      <translation type="unfinished">Navbar Symbol</translation>
+      <translation>탐색 표시줄 기호</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="662"/>
       <source>Navbar Code</source>
-      <translation type="unfinished">Navbar Code</translation>
+      <translation>탐색 표시줄 코드</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="664"/>
       <source>Import section color in navigation bar</source>
-      <translation type="unfinished">Import section color in navigation bar</translation>
+      <translation>탐색 표시줄의 가져오기 섹션 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="665"/>
       <source>Navbar Import</source>
-      <translation type="unfinished">Navbar Import</translation>
+      <translation>탐색 표시줄 가져오기</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="667"/>
       <source>Signature section color in navigation bar</source>
-      <translation type="unfinished">Signature section color in navigation bar</translation>
+      <translation>탐색 표시줄의 서명 섹션 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="668"/>
       <source>Navbar Signature</source>
-      <translation type="unfinished">Navbar Signature</translation>
+      <translation>탐색 표시줄 서명</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="670"/>
       <source>Data section color in navigation bar</source>
-      <translation type="unfinished">Data section color in navigation bar</translation>
+      <translation>탐색 표시줄의 데이터 섹션 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="671"/>
       <source>Navbar Data</source>
-      <translation type="unfinished">Navbar Data</translation>
+      <translation>탐색 표시줄 데이터</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="673"/>
       <source>Unexplored section color in navigation bar</source>
-      <translation type="unfinished">Unexplored section color in navigation bar</translation>
+      <translation>탐색 표시줄의 미탐색 섹션 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="674"/>
       <source>Navbar Unexplored</source>
-      <translation type="unfinished">Navbar Unexplored</translation>
+      <translation>미탐색 탐색 표시줄</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="676"/>
       <source>Background color for breakpoints</source>
-      <translation type="unfinished">Background color for breakpoints</translation>
+      <translation>중단점 배경 색상</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="677"/>
       <source>Breakpoint Background</source>
-      <translation type="unfinished">Breakpoint Background</translation>
+      <translation>중단점 배경</translation>
     </message>
     <message>
       <source>Color of lines showing jump destination</source>
@@ -8340,7 +8340,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="54"/>
       <source>Select file to replace stderr file descriptor</source>
-      <translation>stderr 파일 설명자를 대체할 파일 선택</translation>
+      <translation>stderr 파일 설명자를 대안할 파일 선택</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="55"/>
@@ -8355,7 +8355,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="60"/>
       <source>Select file to replace stdout file descriptor</source>
-      <translation>stdout 파일 설명자를 대체할 파일 선택</translation>
+      <translation>stdout 파일 설명자를 대안할 파일 선택</translation>
     </message>
     <message>
       <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="61"/>
