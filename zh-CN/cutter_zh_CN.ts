@@ -66,24 +66,24 @@
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="31"/>
       <source>Python: %1</source>
-      <translation type="unfinished">Python: %1</translation>
+      <translation>Python: %1</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="34"/>
       <location filename="../dialogs/AboutDialog.cpp" line="43"/>
       <source>ON</source>
-      <translation type="unfinished">ON</translation>
+      <translation>开</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="36"/>
       <location filename="../dialogs/AboutDialog.cpp" line="45"/>
       <source>OFF</source>
-      <translation type="unfinished">OFF</translation>
+      <translation>关</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="40"/>
       <source>Python Bindings: %1</source>
-      <translation type="unfinished">Python Bindings: %1</translation>
+      <translation>Python 绑定: %1</translation>
     </message>
     <message>
       <location filename="../dialogs/AboutDialog.cpp" line="48"/>
@@ -159,22 +159,22 @@
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="118"/>
       <source>Add Comment</source>
-      <translation type="unfinished">Add Comment</translation>
+      <translation>添加注释</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="120"/>
       <source>Edit Comment</source>
-      <translation type="unfinished">Edit Comment</translation>
+      <translation>编辑注释</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="124"/>
       <source>Add Breakpoint</source>
-      <translation type="unfinished">Add Breakpoint</translation>
+      <translation>添加断点</translation>
     </message>
     <message>
       <location filename="../menus/AddressableItemContextMenu.cpp" line="126"/>
       <source>Remove Breakpoint</source>
-      <translation type="unfinished">Remove Breakpoint</translation>
+      <translation>移除断点</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="55"/>
@@ -315,7 +315,7 @@
     <message>
       <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="44"/>
       <source>Analyze the program using Rizin&apos;s &quot;aaa&quot; command</source>
-      <translation type="unfinished">Analyze the program using Rizin&apos;s &quot;aaa&quot; command</translation>
+      <translation>使用 Rizin&apos; 的 &quot;aaa&quot; 命令分析程序</translation>
     </message>
   </context>
   <context>
@@ -866,29 +866,29 @@
     <message numerus="yes">
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="45"/>
       <source>%n hours</source>
-      <translation type="unfinished">
-        <numerusform>%n hours</numerusform>
+      <translation>
+        <numerusform>%n 小时</numerusform>
       </translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="49"/>
       <source>%n minutes</source>
-      <translation type="unfinished">
-        <numerusform>%n minutes</numerusform>
+      <translation>
+        <numerusform>%n 分钟</numerusform>
       </translation>
     </message>
     <message numerus="yes">
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="52"/>
       <source>%n seconds</source>
-      <translation type="unfinished">
-        <numerusform>%n seconds</numerusform>
+      <translation>
+        <numerusform>%n 秒</numerusform>
       </translation>
     </message>
     <message>
       <location filename="../dialogs/AsyncTaskDialog.cpp" line="54"/>
       <source>Running for %1</source>
       <comment>time</comment>
-      <translation type="unfinished">Running for %1</translation>
+      <translation>运行了 %1</translation>
     </message>
   </context>
   <context>
@@ -934,7 +934,7 @@
     <message>
       <location filename="../widgets/BacktraceWidget.ui" line="14"/>
       <source>Backtrace</source>
-      <translation type="unfinished">Backtrace</translation>
+      <translation>回溯</translation>
     </message>
   </context>
   <context>
@@ -965,7 +965,7 @@
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="23"/>
       <source>BaseFind</source>
-      <translation type="unfinished">BaseFind</translation>
+      <translation>查找基址</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindDialog.ui" line="43"/>
@@ -1047,7 +1047,7 @@
     <message>
       <location filename="../tools/basefind/BaseFindResultsDialog.ui" line="23"/>
       <source>BaseFind Results</source>
-      <translation type="unfinished">BaseFind Results</translation>
+      <translation>基址查找结果</translation>
     </message>
   </context>
   <context>
@@ -1068,7 +1068,7 @@
     <message>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="23"/>
       <source>Searching for base address</source>
-      <translation type="unfinished">Searching for base address</translation>
+      <translation>查找基地址</translation>
     </message>
     <message>
       <location filename="../tools/basefind/BaseFindSearchDialog.ui" line="81"/>
