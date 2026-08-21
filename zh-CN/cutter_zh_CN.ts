@@ -1170,7 +1170,7 @@
     <message>
       <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="171"/>
       <source>Bin number in RZ_GLIBC_NBINS or fastbinsY array</source>
-      <translation type="unfinished">Bin number in RZ_GLIBC_NBINS or fastbinsY array</translation>
+      <translation>RZ_GLIBC_NBINS 或 fastbinsY 数组中的 Bin</translation>
     </message>
     <message>
       <source>Bin number in NBINS or fastbinsY array</source>
@@ -1250,7 +1250,7 @@
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="14"/>
       <source>Breakpoints</source>
-      <translation type="unfinished">Breakpoints</translation>
+      <translation>断点</translation>
     </message>
     <message>
       <location filename="../widgets/BreakpointWidget.ui" line="58"/>
@@ -1562,7 +1562,7 @@
     <message>
       <location filename="../widgets/ColorPicker.ui" line="14"/>
       <source>Color Picker</source>
-      <translation type="unfinished">Color Picker</translation>
+      <translation>颜色选取</translation>
     </message>
     <message>
       <location filename="../widgets/ColorPicker.ui" line="87"/>
@@ -1619,7 +1619,7 @@
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="410"/>
       <source>Comment</source>
-      <translation type="unfinished">Comment</translation>
+      <translation>注释</translation>
     </message>
     <message>
       <source>Comment created by user</source>
@@ -1660,97 +1660,97 @@
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="409"/>
       <source>Color for code comments</source>
-      <translation type="unfinished">Color for code comments</translation>
+      <translation>代码注释的颜色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="412"/>
       <source>Color for user comments</source>
-      <translation type="unfinished">Color for user comments</translation>
+      <translation>用户注释的颜色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="413"/>
       <source>User Comment</source>
-      <translation type="unfinished">User Comment</translation>
+      <translation>用户注释</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="415"/>
       <source>Color for function arguments</source>
-      <translation type="unfinished">Color for function arguments</translation>
+      <translation>函数参数的颜色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="416"/>
       <source>Arguments</source>
-      <translation type="unfinished">Arguments</translation>
+      <translation>函数参数</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="418"/>
       <source>Color for function names</source>
-      <translation type="unfinished">Color for function names</translation>
+      <translation>函数名称的颜色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="419"/>
       <source>Function Name</source>
-      <translation type="unfinished">Function Name</translation>
+      <translation>函数名称</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="421"/>
       <source>Color for function locations</source>
-      <translation type="unfinished">Color for function locations</translation>
+      <translation>函数位置的颜色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="422"/>
       <source>Function Location</source>
-      <translation type="unfinished">Function Location</translation>
+      <translation>函数位置</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="424"/>
       <source>Color for function lines</source>
-      <translation type="unfinished">Color for function lines</translation>
+      <translation>函数行的颜色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="425"/>
       <source>Function Line</source>
-      <translation type="unfinished">Function Line</translation>
+      <translation>函数行</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="427"/>
       <source>Color for flags</source>
-      <translation type="unfinished">Color for flags</translation>
+      <translation>标志的颜色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="428"/>
       <source>Flag</source>
-      <translation type="unfinished">Flag</translation>
+      <translation>标志</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="430"/>
       <source>Color for labels</source>
-      <translation type="unfinished">Color for labels</translation>
+      <translation>标签的颜色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="431"/>
       <source>Label</source>
-      <translation type="unfinished">Label</translation>
+      <translation>标签</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="433"/>
       <source>Color for help messages</source>
-      <translation type="unfinished">Color for help messages</translation>
+      <translation>帮助信息的颜色</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="434"/>
       <source>Help</source>
-      <translation type="unfinished">Help</translation>
+      <translation>帮助</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="436"/>
       <source>Color for control flow</source>
-      <translation type="unfinished">Color for control flow</translation>
+      <translation>流程控制</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="439"/>
       <source>Color for control flow (alternative)</source>
-      <translation type="unfinished">Color for control flow (alternative)</translation>
+      <translation>流程控制的颜色 (可选)</translation>
     </message>
     <message>
       <location filename="../widgets/ColorThemeListView.cpp" line="440"/>
@@ -3046,7 +3046,7 @@
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="14"/>
       <source>Console</source>
-      <translation type="unfinished">Console</translation>
+      <translation>控制台</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.ui" line="93"/>
@@ -3081,7 +3081,7 @@
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="79"/>
       <source>Toggle Console Window</source>
-      <translation type="unfinished">Toggle Console Window</translation>
+      <translation>拖动控制台窗口</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="83"/>
@@ -3091,27 +3091,27 @@
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="87"/>
       <source>Clear Input</source>
-      <translation type="unfinished">Clear Input</translation>
+      <translation>清除输入</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="91"/>
       <source>Clear Debugee</source>
-      <translation type="unfinished">Clear Debugee</translation>
+      <translation>清除调试</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="95"/>
       <source>Previous Command</source>
-      <translation type="unfinished">Previous Command</translation>
+      <translation>上一个命令</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="99"/>
       <source>Next Command</source>
-      <translation type="unfinished">Next Command</translation>
+      <translation>下一个命令</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="103"/>
       <source>Auto-Complete</source>
-      <translation type="unfinished">Auto-Complete</translation>
+      <translation>自动补全</translation>
     </message>
     <message>
       <location filename="../widgets/ConsoleWidget.cpp" line="80"/>
@@ -3213,7 +3213,7 @@ Please check the console for more details.</source>
       <location filename="../core/Cutter.cpp" line="4248"/>
       <source>Error invalid search kind
 </source>
-      <translation type="unfinished">Error invalid search kind
+      <translation>无效的搜索类型
 </translation>
     </message>
     <message>
@@ -3390,17 +3390,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="35"/>
       <source>Zoom In</source>
-      <translation type="unfinished">Zoom In</translation>
+      <translation>放大</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="39"/>
       <source>Zoom Out</source>
-      <translation type="unfinished">Zoom Out</translation>
+      <translation>缩小</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="43"/>
       <source>Reset Zoom</source>
-      <translation type="unfinished">Reset Zoom</translation>
+      <translation>重置缩放</translation>
     </message>
   </context>
   <context>
@@ -3429,7 +3429,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/Dashboard.ui" line="17"/>
       <source>Dashboard</source>
-      <translation type="unfinished">Dashboard</translation>
+      <translation>仪表盘</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.ui" line="116"/>
@@ -3695,12 +3695,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="233"/>
       <source>True</source>
-      <translation type="unfinished">True</translation>
+      <translation>True</translation>
     </message>
     <message>
       <location filename="../widgets/Dashboard.cpp" line="233"/>
       <source>False</source>
-      <translation type="unfinished">False</translation>
+      <translation>False</translation>
     </message>
   </context>
   <context>
@@ -4173,17 +4173,17 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="487"/>
       <source>Decompiler (%1)</source>
-      <translation type="unfinished">Decompiler (%1)</translation>
+      <translation>反编译器 (%1)</translation>
     </message>
     <message>
       <location filename="../widgets/DecompilerWidget.cpp" line="489"/>
       <source>Decompiler (Empty)</source>
-      <translation type="unfinished">Decompiler (Empty)</translation>
+      <translation>反编译器 (空)</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="59"/>
       <source>Seek to Previous Address</source>
-      <translation type="unfinished">Seek to Previous Address</translation>
+      <translation>上一个地址</translation>
     </message>
   </context>
   <context>
@@ -4216,7 +4216,7 @@ Please check the console for more details.</source>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="204"/>
       <source>(Empty)</source>
-      <translation type="unfinished">(Empty)</translation>
+      <translation>(空)</translation>
     </message>
     <message>
       <location filename="../widgets/DisassemblerGraphView.cpp" line="213"/>
@@ -4226,12 +4226,12 @@ Please check the console for more details.</source>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="248"/>
       <source>Take True Branch</source>
-      <translation type="unfinished">Take True Branch</translation>
+      <translation>获取真分支</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="252"/>
       <source>Take False Branch</source>
-      <translation type="unfinished">Take False Branch</translation>
+      <translation>获取假分支</translation>
     </message>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="256"/>
@@ -8011,7 +8011,7 @@ Save your project before closing!</source>
     <message>
       <location filename="../widgets/OverviewWidget.cpp" line="9"/>
       <source>Graph Overview</source>
-      <translation type="unfinished">Graph Overview</translation>
+      <translation>图表总览</translation>
     </message>
   </context>
   <context>
@@ -10023,7 +10023,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="29"/>
       <source>Strings</source>
-      <translation type="unfinished">Strings</translation>
+      <translation>字符串</translation>
     </message>
     <message>
       <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="30"/>
@@ -10186,7 +10186,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/StringsWidget.ui" line="14"/>
       <source>Strings</source>
-      <translation type="unfinished">Strings</translation>
+      <translation>字符串</translation>
     </message>
     <message>
       <location filename="../widgets/StringsWidget.ui" line="76"/>
@@ -10211,7 +10211,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../shortcuts/DefaultShortcuts.cpp" line="303"/>
       <source>Toggle Strings Window</source>
-      <translation type="unfinished">Toggle Strings Window</translation>
+      <translation>拖动字符串窗口</translation>
     </message>
   </context>
   <context>
@@ -10724,7 +10724,7 @@ Do you want to commit them now?</source>
     <message>
       <location filename="../widgets/VisualNavbar.cpp" line="291"/>
       <source>Strings</source>
-      <translation type="unfinished">Strings</translation>
+      <translation>字符串</translation>
     </message>
     <message>
       <location filename="../widgets/VisualNavbar.cpp" line="292"/>
