@@ -111,40 +111,58 @@
         <translation>Consultez notre &lt;a href=&apos;https://github.com/rizinorg/cutter/graphs/contributors&apos;&gt;page de contributeurs&lt;/a&gt; pour la liste complète des contributeurs.</translation>
     </message>
     <message>
-        <location filename="../dialogs/AboutDialog.cpp" line="77"/>
+        <location filename="../dialogs/AboutDialog.cpp" line="96"/>
         <source>Rizin version information</source>
         <translation>Informations sur la version Rizin</translation>
     </message>
     <message>
-        <location filename="../dialogs/AboutDialog.cpp" line="106"/>
+        <location filename="../dialogs/AboutDialog.cpp" line="125"/>
         <source>Checking for updates...</source>
         <translation>Recherche de mises à jour...</translation>
     </message>
     <message>
-        <location filename="../dialogs/AboutDialog.cpp" line="112"/>
+        <location filename="../dialogs/AboutDialog.cpp" line="131"/>
         <source>Error!</source>
         <translation>Erreur !</translation>
     </message>
     <message>
-        <location filename="../dialogs/AboutDialog.cpp" line="115"/>
+        <location filename="../dialogs/AboutDialog.cpp" line="134"/>
         <source>Version control</source>
         <translation>Contrôle de version</translation>
     </message>
     <message>
-        <location filename="../dialogs/AboutDialog.cpp" line="116"/>
+        <location filename="../dialogs/AboutDialog.cpp" line="135"/>
         <source>Cutter is up to date!</source>
         <translation>Cutter est à jour !</translation>
     </message>
     <message>
-        <location filename="../dialogs/AboutDialog.cpp" line="157"/>
+        <location filename="../dialogs/AboutDialog.cpp" line="179"/>
         <source>Based on Qt %1 (%2, %3 bit)</source>
         <translation>Basé sur Qt %1 (%2, %3 bits)</translation>
     </message>
 </context>
 <context>
+    <name>AbstractFilterView</name>
+    <message>
+        <location filename="../widgets/AbstractFilterView.cpp" line="53"/>
+        <source>Show item count</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../widgets/AbstractFilterView.cpp" line="56"/>
+        <source>Hide item count on overflow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../widgets/AbstractFilterView.cpp" line="62"/>
+        <source>Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AddressableDockWidget</name>
     <message>
-        <location filename="../widgets/AddressableDockWidget.cpp" line="12"/>
+        <location filename="../widgets/AddressableDockWidget.cpp" line="14"/>
         <source>Sync/unsync offset</source>
         <translation>Synchroniser/désynchroniser l&apos;offset</translation>
     </message>
@@ -152,27 +170,27 @@
 <context>
     <name>AddressableItemContextMenu</name>
     <message>
-        <location filename="../menus/AddressableItemContextMenu.cpp" line="17"/>
+        <location filename="../menus/AddressableItemContextMenu.cpp" line="20"/>
         <source>Show in</source>
         <translation>Afficher dans</translation>
     </message>
     <message>
-        <location filename="../menus/AddressableItemContextMenu.cpp" line="118"/>
+        <location filename="../menus/AddressableItemContextMenu.cpp" line="121"/>
         <source>Add Comment</source>
         <translation type="unfinished">Ajouter un commentaire</translation>
     </message>
     <message>
-        <location filename="../menus/AddressableItemContextMenu.cpp" line="120"/>
+        <location filename="../menus/AddressableItemContextMenu.cpp" line="123"/>
         <source>Edit Comment</source>
         <translation type="unfinished">Modifier le commentaire</translation>
     </message>
     <message>
-        <location filename="../menus/AddressableItemContextMenu.cpp" line="124"/>
+        <location filename="../menus/AddressableItemContextMenu.cpp" line="127"/>
         <source>Add Breakpoint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../menus/AddressableItemContextMenu.cpp" line="126"/>
+        <location filename="../menus/AddressableItemContextMenu.cpp" line="129"/>
         <source>Remove Breakpoint</source>
         <translation type="unfinished"></translation>
     </message>
@@ -195,22 +213,22 @@
 <context>
     <name>AnalysisClassesModel</name>
     <message>
-        <location filename="../widgets/ClassesWidget.cpp" line="420"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="423"/>
         <source>class</source>
         <translation>classe</translation>
     </message>
     <message>
-        <location filename="../widgets/ClassesWidget.cpp" line="444"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="447"/>
         <source>base</source>
         <translation>base</translation>
     </message>
     <message>
-        <location filename="../widgets/ClassesWidget.cpp" line="477"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="480"/>
         <source>method</source>
         <translation>méthode</translation>
     </message>
     <message>
-        <location filename="../widgets/ClassesWidget.cpp" line="515"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="518"/>
         <source>vtable</source>
         <translation>vtable</translation>
     </message>
@@ -283,37 +301,181 @@
         <translation>Analyser le programme</translation>
     </message>
     <message>
+        <source>Raw</source>
+        <translation type="obsolete">Ligne</translation>
+    </message>
+    <message>
         <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="12"/>
-        <source>All executable maps</source>
+        <source>Range</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="13"/>
-        <source>All maps</source>
+        <source>Block</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="14"/>
-        <source>Current map</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="15"/>
-        <source>Raw</source>
-        <translation type="unfinished">Ligne</translation>
     </message>
     <message>
         <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="16"/>
-        <source>Current mapped section</source>
+        <source>Bin Segment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="17"/>
-        <source>All mapped sections</source>
+        <source>All Bin Segments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="18"/>
+        <source>Executable Bin Segments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="19"/>
+        <source>Readable Bin Segments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="22"/>
+        <source>Current Bin Section</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="23"/>
+        <source>All Bin Sections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="24"/>
+        <source>RWX Bin Sections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="25"/>
+        <source>Readable Bin Sections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="26"/>
+        <source>RW Bin Sections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="27"/>
+        <source>RX Bin Sections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="28"/>
+        <source>WX Bin Sections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="29"/>
+        <source>Executable Bin Sections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="32"/>
+        <source>Current IO Map</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="33"/>
+        <source>All IO Maps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="34"/>
+        <source>RWX IO Maps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="35"/>
+        <source>Readable IO Maps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="36"/>
+        <source>RW IO Maps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="37"/>
+        <source>RX IO Maps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="38"/>
+        <source>WX IO Maps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="39"/>
+        <source>Executable IO Maps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="42"/>
+        <source>Debug Stack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="43"/>
+        <source>Debug Heap</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="44"/>
+        <source>Debug Map</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="45"/>
+        <source>Debug Maps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="46"/>
+        <source>Debug Maps RWX</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="47"/>
+        <source>Debug Maps Readable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="48"/>
+        <source>Debug Maps RW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="49"/>
+        <source>Debug Maps RX</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="50"/>
+        <source>Debug Maps WX</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="51"/>
+        <source>Debug Maps Executable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="54"/>
+        <source>Function</source>
+        <translation type="unfinished">Fonction</translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="55"/>
+        <source>Basic Block</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/AnalysisOptionsWidget.cpp" line="87"/>
         <source>Analyze the program using Rizin&apos;s &quot;aaa&quot; command</source>
         <translation type="unfinished">Analyser le programme en utilisant la commande Rizin &quot;aaa&quot;</translation>
     </message>
@@ -321,47 +483,52 @@
 <context>
     <name>AnalysisTask</name>
     <message>
-        <location filename="../common/AnalysisTask.cpp" line="25"/>
+        <location filename="../common/AnalysisTask.cpp" line="26"/>
         <source>Initial Analysis</source>
         <translation>Analyse initiale</translation>
     </message>
     <message>
-        <location filename="../common/AnalysisTask.cpp" line="27"/>
+        <location filename="../common/AnalysisTask.cpp" line="28"/>
         <source>Analyzing Program</source>
         <translation>Analyse du programme</translation>
     </message>
     <message>
-        <location filename="../common/AnalysisTask.cpp" line="45"/>
+        <location filename="../common/AnalysisTask.cpp" line="47"/>
         <source>Loading the file...</source>
         <translation>Chargement du fichier...</translation>
     </message>
     <message>
-        <location filename="../common/AnalysisTask.cpp" line="72"/>
+        <location filename="../common/AnalysisTask.cpp" line="73"/>
         <source>Loading PDB file...</source>
         <translation>Chargement du fichier PDB...</translation>
     </message>
     <message>
-        <location filename="../common/AnalysisTask.cpp" line="81"/>
+        <location filename="../common/AnalysisTask.cpp" line="78"/>
+        <source>Applying Dwarf...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../common/AnalysisTask.cpp" line="87"/>
         <source>Loading shellcode...</source>
         <translation>Chargement du shellcode...</translation>
     </message>
     <message>
-        <location filename="../common/AnalysisTask.cpp" line="92"/>
+        <location filename="../common/AnalysisTask.cpp" line="99"/>
         <source>Executing script...</source>
         <translation>Exécution du script...</translation>
     </message>
     <message>
-        <location filename="../common/AnalysisTask.cpp" line="101"/>
+        <location filename="../common/AnalysisTask.cpp" line="108"/>
         <source>Executing analysis...</source>
         <translation>Exécution de l&apos;analyse...</translation>
     </message>
     <message>
-        <location filename="../common/AnalysisTask.cpp" line="110"/>
+        <location filename="../common/AnalysisTask.cpp" line="117"/>
         <source>Analysis complete!</source>
         <translation>Analyse terminée !</translation>
     </message>
     <message>
-        <location filename="../common/AnalysisTask.cpp" line="112"/>
+        <location filename="../common/AnalysisTask.cpp" line="119"/>
         <source>Skipping Analysis.</source>
         <translation>Ignorer l&apos;analyse.</translation>
     </message>
@@ -435,7 +602,7 @@
     </message>
     <message>
         <location filename="../dialogs/preferences/AppearanceOptionsWidget.ui" line="227"/>
-        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="175"/>
+        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="193"/>
         <source>Delete</source>
         <translation>Supprimer</translation>
     </message>
@@ -465,83 +632,83 @@
         <translation>Enregistrer comme valeurs par défaut</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="137"/>
+        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="155"/>
         <source>Theme Editor - &lt;%1&gt;</source>
         <translation>Éditeur de thème - &lt;%1&gt;</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="148"/>
+        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="166"/>
         <source>Enter theme name</source>
         <translation>Saisissez le nom du thème</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="148"/>
-        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="233"/>
+        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="166"/>
+        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="251"/>
         <source>Name:</source>
         <translation>Nom :</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="149"/>
+        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="167"/>
         <source> - copy</source>
         <translation> - copier</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="155"/>
+        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="173"/>
         <source>Theme Copy</source>
         <translation>Copier le thème</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="156"/>
+        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="174"/>
         <source>Theme named %1 already exists.</source>
         <translation>Le nom %1 existe déjà.</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="171"/>
-        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="180"/>
-        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="202"/>
-        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="226"/>
-        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="241"/>
+        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="189"/>
+        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="198"/>
+        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="220"/>
+        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="244"/>
+        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="259"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="175"/>
+        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="193"/>
         <source>Are you sure you want to delete &lt;b&gt;%1&lt;/b&gt;?</source>
         <translation>Êtes-vous sûr de vouloir supprimer &lt;b&gt;%1&lt;/b&gt; ?</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="197"/>
-        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="223"/>
+        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="215"/>
+        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="241"/>
         <source>Success</source>
         <translation>Terminé avec succès</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="198"/>
+        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="216"/>
         <source>Color theme &lt;b&gt;%1&lt;/b&gt; was successfully imported.</source>
         <translation>Le thème de couleur &lt;b&gt;%1&lt;/b&gt; a été importé avec succès.</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="224"/>
+        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="242"/>
         <source>Color theme &lt;b&gt;%1&lt;/b&gt; was successfully exported.</source>
         <translation>Le thème de couleur &lt;b&gt;%1&lt;/b&gt; a été exporté avec succès.</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="233"/>
+        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="251"/>
         <source>Enter new theme name</source>
         <translation>Saisissez le nom du nouveau thème</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="253"/>
+        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="271"/>
         <source>Language settings</source>
         <translation>Paramètres linguistiques</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="254"/>
+        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="272"/>
         <source>Language will be changed after next application start.</source>
         <translation>La langue sera modifiée après le prochain démarrage de l&apos;application.</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="256"/>
+        <location filename="../dialogs/preferences/AppearanceOptionsWidget.cpp" line="274"/>
         <source>Cannot set language, not found in available ones</source>
         <translation>Impossible de définir la langue, introuvable dans les langues disponibles</translation>
     </message>
@@ -921,21 +1088,36 @@
     </message>
 </context>
 <context>
+    <name>BacktraceModel</name>
+    <message>
+        <location filename="../widgets/BacktraceWidget.cpp" line="55"/>
+        <source>Function</source>
+        <translation type="unfinished">Fonction</translation>
+    </message>
+    <message>
+        <location filename="../widgets/BacktraceWidget.cpp" line="61"/>
+        <source>Frame Size</source>
+        <translation type="unfinished">Taille du cadre</translation>
+    </message>
+    <message>
+        <location filename="../widgets/BacktraceWidget.cpp" line="63"/>
+        <source>Description</source>
+        <translation type="unfinished">Description</translation>
+    </message>
+</context>
+<context>
     <name>BacktraceWidget</name>
     <message>
-        <location filename="../widgets/BacktraceWidget.cpp" line="16"/>
         <source>Function</source>
-        <translation>Fonction</translation>
+        <translation type="vanished">Fonction</translation>
     </message>
     <message>
-        <location filename="../widgets/BacktraceWidget.cpp" line="19"/>
         <source>Description</source>
-        <translation>Description</translation>
+        <translation type="vanished">Description</translation>
     </message>
     <message>
-        <location filename="../widgets/BacktraceWidget.cpp" line="20"/>
         <source>Frame Size</source>
-        <translation>Taille du cadre</translation>
+        <translation type="vanished">Taille du cadre</translation>
     </message>
     <message>
         <location filename="../widgets/BacktraceWidget.ui" line="14"/>
@@ -1033,20 +1215,20 @@
 <context>
     <name>BaseFindResultsDialog</name>
     <message>
-        <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="84"/>
-        <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="110"/>
+        <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="86"/>
+        <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="114"/>
         <source>Copy %1</source>
         <translation>Copier %1</translation>
     </message>
     <message>
-        <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="85"/>
-        <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="111"/>
+        <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="87"/>
+        <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="115"/>
         <source>Reopen Cutter with base address as %1</source>
         <translation>Réouvrir Cutter avec l&apos;adresse de base à %1</translation>
     </message>
     <message>
-        <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="86"/>
-        <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="112"/>
+        <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="88"/>
+        <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="116"/>
         <source>Reopen Cutter with map address as %1</source>
         <translation>Réouvrir Cutter avec l&apos;adresse de mappage à %1</translation>
     </message>
@@ -1059,12 +1241,12 @@
 <context>
     <name>BaseFindResultsModel</name>
     <message>
-        <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="58"/>
+        <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="61"/>
         <source>Score</source>
         <translation>Score</translation>
     </message>
     <message>
-        <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="60"/>
+        <location filename="../tools/basefind/BaseFindResultsDialog.cpp" line="63"/>
         <source>Address</source>
         <translation>Adresse</translation>
     </message>
@@ -1091,22 +1273,22 @@
 <context>
     <name>Basefind</name>
     <message>
-        <location filename="../core/Basefind.cpp" line="41"/>
+        <location filename="../core/Basefind.cpp" line="42"/>
         <source>Start address is &gt;= end address</source>
         <translation>L&apos;adresse de départ est &gt;= l&apos;adresse de fin</translation>
     </message>
     <message>
-        <location filename="../core/Basefind.cpp" line="44"/>
+        <location filename="../core/Basefind.cpp" line="45"/>
         <source>Alignment must be at least </source>
         <translation>L&apos;alignement doit être d&apos;au moins </translation>
     </message>
     <message>
-        <location filename="../core/Basefind.cpp" line="48"/>
+        <location filename="../core/Basefind.cpp" line="49"/>
         <source>Min score must be at least 1</source>
         <translation>Le score minimum doit être d&apos;au moins 1</translation>
     </message>
     <message>
-        <location filename="../core/Basefind.cpp" line="51"/>
+        <location filename="../core/Basefind.cpp" line="52"/>
         <source>Min string length must be at least 1</source>
         <translation>La longueur minimale de la chaîne de charactère doit être d&apos;au moins 1</translation>
     </message>
@@ -1114,22 +1296,22 @@
 <context>
     <name>BinClassesModel</name>
     <message>
-        <location filename="../widgets/ClassesWidget.cpp" line="136"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="137"/>
         <source>method</source>
         <translation>méthode</translation>
     </message>
     <message>
-        <location filename="../widgets/ClassesWidget.cpp" line="160"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="161"/>
         <source>field</source>
         <translation>champ</translation>
     </message>
     <message>
-        <location filename="../widgets/ClassesWidget.cpp" line="182"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="183"/>
         <source>base class</source>
         <translation>classe de base</translation>
     </message>
     <message>
-        <location filename="../widgets/ClassesWidget.cpp" line="202"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="203"/>
         <source>class</source>
         <translation>classe</translation>
     </message>
@@ -1137,44 +1319,44 @@
 <context>
     <name>BinsModel</name>
     <message>
-        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="129"/>
         <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="131"/>
-        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="137"/>
+        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="133"/>
+        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="139"/>
         <source>N/A</source>
         <translation>N/A</translation>
     </message>
     <message>
-        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="153"/>
+        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="155"/>
         <source>#</source>
         <translation>#</translation>
     </message>
     <message>
-        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="155"/>
+        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="157"/>
         <source>Fd</source>
         <translation>Fd</translation>
     </message>
     <message>
-        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="157"/>
+        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="159"/>
         <source>Bk</source>
         <translation>Bk</translation>
     </message>
     <message>
-        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="159"/>
+        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="161"/>
         <source>Type</source>
         <translation>Type</translation>
     </message>
     <message>
-        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="161"/>
+        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="163"/>
         <source>Chunks count</source>
         <translation>Nombre de morceaux</translation>
     </message>
     <message>
-        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="163"/>
+        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="165"/>
         <source>Chunks size</source>
         <translation>Taille des morceaux</translation>
     </message>
     <message>
-        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="171"/>
+        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="173"/>
         <source>Bin number in RZ_GLIBC_NBINS or fastbinsY array</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1183,27 +1365,27 @@
         <translation type="vanished">Numéro d&apos;emplacement dans le tableau NBINS ou fastbinsY</translation>
     </message>
     <message>
-        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="173"/>
+        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="175"/>
         <source>Pointer to first chunk of the bin</source>
         <translation>Pointeur sur le premier bloc du bin</translation>
     </message>
     <message>
-        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="175"/>
+        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="177"/>
         <source>Pointer to last chunk of the bin</source>
         <translation>Pointeur sur le dernier bloc du bin</translation>
     </message>
     <message>
-        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="177"/>
+        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="179"/>
         <source>Type of bin</source>
         <translation>Type de bin</translation>
     </message>
     <message>
-        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="179"/>
+        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="181"/>
         <source>Number of chunks in the bin</source>
         <translation>Nombre de blocs dans le bin</translation>
     </message>
     <message>
-        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="181"/>
+        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="183"/>
         <source>Size of all chunks in the bin</source>
         <translation>Taille de tous les blocs dans le bin</translation>
     </message>
@@ -1211,42 +1393,42 @@
 <context>
     <name>BreakpointModel</name>
     <message>
-        <location filename="../widgets/BreakpointWidget.cpp" line="65"/>
+        <location filename="../widgets/BreakpointWidget.cpp" line="68"/>
         <source>HW %1</source>
         <translation>HW %1</translation>
     </message>
     <message>
-        <location filename="../widgets/BreakpointWidget.cpp" line="67"/>
+        <location filename="../widgets/BreakpointWidget.cpp" line="70"/>
         <source>SW</source>
         <translation>SW</translation>
     </message>
     <message>
-        <location filename="../widgets/BreakpointWidget.cpp" line="102"/>
+        <location filename="../widgets/BreakpointWidget.cpp" line="105"/>
         <source>Offset</source>
         <translation>Décalage</translation>
     </message>
     <message>
-        <location filename="../widgets/BreakpointWidget.cpp" line="104"/>
+        <location filename="../widgets/BreakpointWidget.cpp" line="107"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="../widgets/BreakpointWidget.cpp" line="106"/>
+        <location filename="../widgets/BreakpointWidget.cpp" line="109"/>
         <source>Type</source>
         <translation>Type</translation>
     </message>
     <message>
-        <location filename="../widgets/BreakpointWidget.cpp" line="108"/>
+        <location filename="../widgets/BreakpointWidget.cpp" line="111"/>
         <source>Tracing</source>
         <translation>Tracage</translation>
     </message>
     <message>
-        <location filename="../widgets/BreakpointWidget.cpp" line="110"/>
+        <location filename="../widgets/BreakpointWidget.cpp" line="113"/>
         <source>Enabled</source>
         <translation>Activé</translation>
     </message>
     <message>
-        <location filename="../widgets/BreakpointWidget.cpp" line="112"/>
+        <location filename="../widgets/BreakpointWidget.cpp" line="115"/>
         <source>Comment</source>
         <translation>Commentaire</translation>
     </message>
@@ -1280,7 +1462,7 @@
         <translation>Activer/désactiver le point d&apos;arrêt</translation>
     </message>
     <message>
-        <location filename="../widgets/BreakpointWidget.cpp" line="207"/>
+        <location filename="../widgets/BreakpointWidget.cpp" line="212"/>
         <source>Edit</source>
         <translation>Modifier</translation>
     </message>
@@ -1388,42 +1570,42 @@
         <translation>Commande</translation>
     </message>
     <message>
-        <location filename="../dialogs/BreakpointsDialog.cpp" line="21"/>
+        <location filename="../dialogs/BreakpointsDialog.cpp" line="22"/>
         <source>Edit breakpoint</source>
         <translation>Modifier le point d’arrêt</translation>
     </message>
     <message>
-        <location filename="../dialogs/BreakpointsDialog.cpp" line="23"/>
+        <location filename="../dialogs/BreakpointsDialog.cpp" line="24"/>
         <source>New breakpoint</source>
         <translation>Nouveau point d&apos;arrêt</translation>
     </message>
     <message>
-        <location filename="../dialogs/BreakpointsDialog.cpp" line="32"/>
+        <location filename="../dialogs/BreakpointsDialog.cpp" line="33"/>
         <source>Address</source>
         <translation>Adresse</translation>
     </message>
     <message>
-        <location filename="../dialogs/BreakpointsDialog.cpp" line="32"/>
+        <location filename="../dialogs/BreakpointsDialog.cpp" line="33"/>
         <source>Address or expression calculated when creating breakpoint</source>
         <translation>Adresse ou expression calculée lors de la création d&apos;un point d&apos;arrêt</translation>
     </message>
     <message>
-        <location filename="../dialogs/BreakpointsDialog.cpp" line="34"/>
+        <location filename="../dialogs/BreakpointsDialog.cpp" line="35"/>
         <source>Named</source>
         <translation>Nommé</translation>
     </message>
     <message>
-        <location filename="../dialogs/BreakpointsDialog.cpp" line="34"/>
+        <location filename="../dialogs/BreakpointsDialog.cpp" line="35"/>
         <source>Expression - stored as expression</source>
         <translation>Expression - enregistrée en tant qu&apos;expression</translation>
     </message>
     <message>
-        <location filename="../dialogs/BreakpointsDialog.cpp" line="35"/>
+        <location filename="../dialogs/BreakpointsDialog.cpp" line="36"/>
         <source>Module offset</source>
         <translation>Décalage du module</translation>
     </message>
     <message>
-        <location filename="../dialogs/BreakpointsDialog.cpp" line="35"/>
+        <location filename="../dialogs/BreakpointsDialog.cpp" line="36"/>
         <source>Offset relative to module</source>
         <translation>Décalage par rapport au module</translation>
     </message>
@@ -1450,27 +1632,27 @@
 <context>
     <name>ClassesModel</name>
     <message>
-        <location filename="../widgets/ClassesWidget.cpp" line="21"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="22"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="../widgets/ClassesWidget.cpp" line="23"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="24"/>
         <source>Real Name</source>
         <translation>Nom réel</translation>
     </message>
     <message>
-        <location filename="../widgets/ClassesWidget.cpp" line="25"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="26"/>
         <source>Type</source>
         <translation>Type</translation>
     </message>
     <message>
-        <location filename="../widgets/ClassesWidget.cpp" line="27"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="28"/>
         <source>Offset</source>
         <translation>Décalage</translation>
     </message>
     <message>
-        <location filename="../widgets/ClassesWidget.cpp" line="29"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="30"/>
         <source>VTable</source>
         <translation>Table virtuelle</translation>
     </message>
@@ -1482,79 +1664,79 @@
         <translation type="vanished">Source :</translation>
     </message>
     <message>
-        <location filename="../widgets/ClassesWidget.cpp" line="621"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="625"/>
         <source>Binary Info (Fixed)</source>
         <translation>Infos sur le binaire (Fixé)</translation>
     </message>
     <message>
-        <location filename="../widgets/ClassesWidget.cpp" line="622"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="626"/>
         <source>Analysis (Editable)</source>
         <translation>Analyse (Modifiable)</translation>
     </message>
     <message>
-        <location filename="../widgets/ClassesWidget.cpp" line="599"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="605"/>
         <source>Seek to VTable</source>
         <translation>Chercher vers VTable</translation>
     </message>
     <message>
-        <location filename="../widgets/ClassesWidget.cpp" line="600"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="606"/>
         <source>Edit Method</source>
         <translation>Éditer la Méthode</translation>
     </message>
     <message>
-        <location filename="../widgets/ClassesWidget.cpp" line="601"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="607"/>
         <source>Add Method</source>
         <translation>Ajouter une Méthode</translation>
     </message>
     <message>
-        <location filename="../widgets/ClassesWidget.cpp" line="602"/>
-        <location filename="../widgets/ClassesWidget.cpp" line="789"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="608"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="796"/>
         <source>Create new Class</source>
         <translation>Créer une nouvelle Classe</translation>
     </message>
     <message>
-        <location filename="../widgets/ClassesWidget.cpp" line="603"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="609"/>
         <source>Rename Class</source>
         <translation>Renommer une Classe</translation>
     </message>
     <message>
-        <location filename="../widgets/ClassesWidget.cpp" line="604"/>
-        <location filename="../widgets/ClassesWidget.cpp" line="805"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="610"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="812"/>
         <source>Delete Class</source>
         <translation>Supprimer la classe</translation>
     </message>
     <message>
-        <location filename="../widgets/ClassesWidget.cpp" line="606"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="612"/>
         <source>Classes</source>
         <translation>Classes</translation>
     </message>
     <message>
-        <location filename="../widgets/ClassesWidget.cpp" line="741"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="748"/>
         <source>Missing VTable in class</source>
         <translation>VTable manquant dans la classe</translation>
     </message>
     <message>
-        <location filename="../widgets/ClassesWidget.cpp" line="742"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="749"/>
         <source>The class %1 does not have any VTable!</source>
         <translation>La classe %1 n&apos;a pas de VTable !</translation>
     </message>
     <message>
-        <location filename="../widgets/ClassesWidget.cpp" line="789"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="796"/>
         <source>Class Name:</source>
         <translation>Nom de la classe :</translation>
     </message>
     <message>
-        <location filename="../widgets/ClassesWidget.cpp" line="806"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="813"/>
         <source>Are you sure you want to delete the class %1?</source>
         <translation>Êtes-vous sûrs de vouloir supprimer la class %1 ?</translation>
     </message>
     <message>
-        <location filename="../widgets/ClassesWidget.cpp" line="823"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="831"/>
         <source>Rename Class %1</source>
         <translation>Renommer la Classe %1</translation>
     </message>
     <message>
-        <location filename="../widgets/ClassesWidget.cpp" line="824"/>
+        <location filename="../widgets/ClassesWidget.cpp" line="831"/>
         <source>Class name:</source>
         <translation>Nom de la classe :</translation>
     </message>
@@ -1623,7 +1805,7 @@
         <translation type="obsolete">Couleur du commentaire généré par Rizin</translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="410"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="415"/>
         <source>Comment</source>
         <translation type="unfinished">Commentaire</translation>
     </message>
@@ -1664,827 +1846,837 @@
         <translation type="obsolete">Couleur des flags (similaires aux signets pour le décalage)</translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="409"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="414"/>
         <source>Color for code comments</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="412"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="417"/>
         <source>Color for user comments</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="413"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="418"/>
         <source>User Comment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="415"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="420"/>
         <source>Color for function arguments</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="416"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="421"/>
         <source>Arguments</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="418"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="423"/>
         <source>Color for function names</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="419"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="424"/>
         <source>Function Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="421"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="426"/>
         <source>Color for function locations</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="422"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="427"/>
         <source>Function Location</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="424"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="429"/>
         <source>Color for function lines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="425"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="430"/>
         <source>Function Line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="427"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="432"/>
         <source>Color for flags</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="428"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="433"/>
         <source>Flag</source>
         <translation type="unfinished">Drapeau</translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="430"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="435"/>
         <source>Color for labels</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="431"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="436"/>
         <source>Label</source>
         <translation type="unfinished">Étiquette</translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="433"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="438"/>
         <source>Color for help messages</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="434"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="439"/>
         <source>Help</source>
         <translation type="unfinished">Aide</translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="436"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="441"/>
         <source>Color for control flow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="439"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="444"/>
         <source>Color for control flow (alternative)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="440"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="445"/>
         <source>Flow 2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="442"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="447"/>
         <source>Color for prompt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="443"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="448"/>
         <source>Prompt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="445"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="450"/>
         <source>Color for offsets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="448"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="453"/>
         <source>Color for user input</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="449"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="454"/>
         <source>Input</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="451"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="456"/>
         <source>Color for invalid instructions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="452"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="457"/>
         <source>Invalid</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="454"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="459"/>
         <source>Color for other elements</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="455"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="460"/>
         <source>Other</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="457"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="462"/>
         <source>Color for null bytes (0x00)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="458"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="463"/>
         <source>Byte 0x00</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="460"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="465"/>
         <source>Color for 0x7f bytes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="461"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="466"/>
         <source>Byte 0x7f</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="463"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="468"/>
         <source>Color for 0xff bytes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="464"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="469"/>
         <source>Byte 0xff</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="466"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="471"/>
         <source>Color for math operations</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="467"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="472"/>
         <source>Math</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="469"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="474"/>
         <source>Color for binary information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="472"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="477"/>
         <source>Color for text in binary</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="475"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="480"/>
         <source>Color for push instructions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="476"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="481"/>
         <source>Push</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="478"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="483"/>
         <source>Color for pop instructions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="479"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="484"/>
         <source>Pop</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="481"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="486"/>
         <source>Color for crypto instructions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="482"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="487"/>
         <source>Crypto</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="484"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="489"/>
         <source>Color for jump instructions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="485"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="490"/>
         <source>Jump</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="487"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="492"/>
         <source>Color for conditional jumps</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="488"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="493"/>
         <source>Conditional Jump</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="490"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="495"/>
         <source>Color for call instructions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="491"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="496"/>
         <source>Call</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="493"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="498"/>
         <source>Color for nop instructions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="494"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="499"/>
         <source>Nop</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="496"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="501"/>
         <source>Color for return instructions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="497"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="502"/>
         <source>Return</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="499"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="504"/>
         <source>Color for trap/interrupt instructions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="500"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="505"/>
         <source>Trap</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="502"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="507"/>
         <source>Color for unknown calls</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="503"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="508"/>
         <source>Unknown Call</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="505"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="510"/>
         <source>Color for unknown jumps</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="506"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="511"/>
         <source>Unknown Jump</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="508"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="513"/>
         <source>Color for software interrupts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="509"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="514"/>
         <source>Software Interrupt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="511"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="516"/>
         <source>Color for compare instructions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="512"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="517"/>
         <source>Compare</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="514"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="519"/>
         <source>Color for registers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="517"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="522"/>
         <source>Color for changed registers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="518"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="523"/>
         <source>Changed Register</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="520"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="525"/>
         <source>Color for numbers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="521"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="526"/>
         <source>Number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="523"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="528"/>
         <source>Color for move instructions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="524"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="529"/>
         <source>Move</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="526"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="531"/>
         <source>Color for function variables</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="527"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="532"/>
         <source>Function Variable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="529"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="534"/>
         <source>Color for function variable types</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="530"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="535"/>
         <source>Variable Type</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="532"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="537"/>
         <source>Color for function variable addresses</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="533"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="538"/>
         <source>Variable Address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="535"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="540"/>
         <source>Color for widget background</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="536"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="541"/>
         <source>Widget Background</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="538"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="543"/>
         <source>Color for selected widget</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="539"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="544"/>
         <source>Widget Selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="541"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="546"/>
         <source>Color for metadata</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="542"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="547"/>
         <source>Metadata</source>
         <translation type="unfinished">Métadonnée</translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="544"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="549"/>
         <source>Color for memory read access</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="545"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="550"/>
         <source>AI Read</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="547"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="552"/>
         <source>Color for memory write access</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="548"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="553"/>
         <source>AI Write</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="550"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="555"/>
         <source>Color for executable memory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="551"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="556"/>
         <source>AI Exec</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="553"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="558"/>
         <source>Color for sequential memory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="554"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="559"/>
         <source>AI Sequence</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="556"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="561"/>
         <source>Color for ASCII in memory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="557"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="562"/>
         <source>AI ASCII</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="559"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="564"/>
         <source>Color for graph box</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="560"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="565"/>
         <source>Graph Box</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="562"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="567"/>
         <source>Color for graph box (alternative 2)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="563"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="568"/>
         <source>Graph Box 2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="565"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="570"/>
         <source>Color for graph box (alternative 3)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="566"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="571"/>
         <source>Graph Box 3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="568"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="573"/>
         <source>Color for graph box (alternative 4)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="569"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="574"/>
         <source>Graph Box 4</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="571"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="576"/>
         <source>Color for true branch in graph</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="572"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="577"/>
         <source>Arrow True</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="574"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="579"/>
         <source>Color for false branch in graph</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="575"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="580"/>
         <source>Arrow False</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="580"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="585"/>
         <source>Color for unknown jump in graph</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="581"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="586"/>
         <source>Graph Undefined Jump</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="583"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="588"/>
         <source>Color for current node in graph</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="584"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="589"/>
         <source>Graph Current</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="586"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="591"/>
         <source>Color for traced node in graph</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="587"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="592"/>
         <source>Graph Traced</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="589"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="594"/>
         <source>Color for unknown diff</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="590"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="595"/>
         <source>Diff Unknown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="592"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="597"/>
         <source>Color for new diff</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="593"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="598"/>
         <source>Diff New</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="595"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="600"/>
         <source>Color for matched diff</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="596"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="601"/>
         <source>Diff Match</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="598"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="603"/>
         <source>Color for unmatched diff</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="599"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="604"/>
         <source>Diff Unmatch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="602"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="607"/>
         <source>Graph Overview Node</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="605"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="610"/>
         <source>Graph Overview Fill</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="608"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="613"/>
         <source>Graph Overview Border</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="610"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="615"/>
         <source>Color for GUI control flow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="611"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="616"/>
         <source>Control Flow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="613"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="618"/>
         <source>Color for GUI data offset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="614"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="619"/>
         <source>Data Offset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="616"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="621"/>
         <source>Color for GUI background</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="619"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="624"/>
         <source>Color for GUI alternate background</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="620"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="625"/>
         <source>Node Background</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="623"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="628"/>
         <source>Current Node</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="625"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="630"/>
         <source>Color for GUI border</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="626"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="631"/>
         <source>Node Border</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="628"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="633"/>
         <source>Color for highlighted line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="629"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="634"/>
         <source>Line Highlight</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="631"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="636"/>
         <source>Background color for highlighted word</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="632"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="637"/>
         <source>Word Highlight Background</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="634"/>
-        <source>Foreground color for highlighted word</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="635"/>
-        <source>Word Highlight Foreground</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="638"/>
-        <source>Main Function</source>
+        <location filename="../widgets/ColorThemeListView.cpp" line="639"/>
+        <source>Background color for the currently selected search match</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../widgets/ColorThemeListView.cpp" line="640"/>
-        <source>Color for imported symbols</source>
+        <source>Current Search Highlight</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="641"/>
-        <source>Imports</source>
-        <translation type="unfinished">Imports</translation>
+        <location filename="../widgets/ColorThemeListView.cpp" line="642"/>
+        <source>Background color for all search matches</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../widgets/ColorThemeListView.cpp" line="643"/>
-        <source>Color for Program Counter highlight</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="644"/>
-        <source>PC Highlight</source>
+        <source>Search Highlight</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../widgets/ColorThemeListView.cpp" line="646"/>
-        <source>Error color in navigation bar</source>
+        <source>Main Function</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="647"/>
-        <source>Navbar Error</source>
+        <location filename="../widgets/ColorThemeListView.cpp" line="648"/>
+        <source>Color for imported symbols</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../widgets/ColorThemeListView.cpp" line="649"/>
-        <source>Seek color in navigation bar</source>
-        <translation type="unfinished"></translation>
+        <source>Imports</source>
+        <translation type="unfinished">Imports</translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="650"/>
-        <source>Navbar Seek</source>
+        <location filename="../widgets/ColorThemeListView.cpp" line="651"/>
+        <source>Color for Program Counter highlight</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../widgets/ColorThemeListView.cpp" line="652"/>
-        <source>String color in navigation bar</source>
+        <source>PC Highlight</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="653"/>
-        <source>Navbar String</source>
+        <location filename="../widgets/ColorThemeListView.cpp" line="654"/>
+        <source>Error color in navigation bar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../widgets/ColorThemeListView.cpp" line="655"/>
-        <source>PC position color in navigation bar</source>
+        <source>Navbar Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="656"/>
-        <source>Navbar PC</source>
+        <location filename="../widgets/ColorThemeListView.cpp" line="657"/>
+        <source>Seek color in navigation bar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../widgets/ColorThemeListView.cpp" line="658"/>
-        <source>Symbol color in navigation bar</source>
+        <source>Navbar Seek</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="659"/>
-        <source>Navbar Symbol</source>
+        <location filename="../widgets/ColorThemeListView.cpp" line="660"/>
+        <source>String color in navigation bar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="662"/>
-        <source>Navbar Code</source>
+        <location filename="../widgets/ColorThemeListView.cpp" line="661"/>
+        <source>Navbar String</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../widgets/ColorThemeListView.cpp" line="663"/>
+        <source>PC position color in navigation bar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../widgets/ColorThemeListView.cpp" line="664"/>
-        <source>Import section color in navigation bar</source>
+        <source>Navbar PC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="665"/>
-        <source>Navbar Import</source>
+        <location filename="../widgets/ColorThemeListView.cpp" line="666"/>
+        <source>Symbol color in navigation bar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../widgets/ColorThemeListView.cpp" line="667"/>
-        <source>Signature section color in navigation bar</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="668"/>
-        <source>Navbar Signature</source>
+        <source>Navbar Symbol</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../widgets/ColorThemeListView.cpp" line="670"/>
-        <source>Data section color in navigation bar</source>
+        <source>Navbar Code</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="671"/>
-        <source>Navbar Data</source>
+        <location filename="../widgets/ColorThemeListView.cpp" line="672"/>
+        <source>Import section color in navigation bar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../widgets/ColorThemeListView.cpp" line="673"/>
-        <source>Unexplored section color in navigation bar</source>
+        <source>Navbar Import</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="674"/>
-        <source>Navbar Unexplored</source>
+        <location filename="../widgets/ColorThemeListView.cpp" line="675"/>
+        <source>Signature section color in navigation bar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../widgets/ColorThemeListView.cpp" line="676"/>
+        <source>Navbar Signature</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../widgets/ColorThemeListView.cpp" line="678"/>
+        <source>Data section color in navigation bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../widgets/ColorThemeListView.cpp" line="679"/>
+        <source>Navbar Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../widgets/ColorThemeListView.cpp" line="681"/>
+        <source>Unexplored section color in navigation bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../widgets/ColorThemeListView.cpp" line="682"/>
+        <source>Navbar Unexplored</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../widgets/ColorThemeListView.cpp" line="684"/>
         <source>Background color for breakpoints</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="677"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="685"/>
         <source>Breakpoint Background</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2493,7 +2685,7 @@
         <translation type="obsolete">Couleur des lignes affichant la destination du saut</translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="437"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="442"/>
         <source>Flow</source>
         <translation type="unfinished">Flux</translation>
     </message>
@@ -2510,7 +2702,7 @@
         <translation type="obsolete">Couleur des offsets</translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="446"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="451"/>
         <source>Offset</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2555,7 +2747,7 @@
         <translation type="obsolete">Couleur des opérations binaires (and, or, xor...)</translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="470"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="475"/>
         <source>Binary</source>
         <translation type="unfinished">Binaire</translation>
     </message>
@@ -2564,7 +2756,7 @@
         <translation type="obsolete">Couleur des noms d&apos;objets, des virgules entre les opérateurs, les crochets et les opérateurs à l&apos;intérieur d&apos;eux.</translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="473"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="478"/>
         <source>Text</source>
         <translation type="unfinished">Texte</translation>
     </message>
@@ -2629,7 +2821,7 @@
         <translation type="obsolete">Couleur des registres</translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="515"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="520"/>
         <source>Register</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2690,17 +2882,17 @@
         <translation type="obsolete">Flèche fausse</translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="577"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="582"/>
         <source>In graph view jump arrow (no condition)</source>
         <translation type="unfinished">Dans la vue graphique flèche de saut (sans condition)</translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="578"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="583"/>
         <source>Arrow</source>
         <translation type="unfinished">Flèche</translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="601"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="606"/>
         <source>Background color of Graph Overview&apos;s node</source>
         <translation type="unfinished">Couleur d&apos;arrière-plan du nœud de la vue du graphique</translation>
     </message>
@@ -2709,7 +2901,7 @@
         <translation type="obsolete">Nœud d&apos;aperçu du graphique</translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="604"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="609"/>
         <source>Fill color of Graph Overview&apos;s selection</source>
         <translation type="unfinished">Remplir la couleur de la sélection de la vue du graphique</translation>
     </message>
@@ -2718,7 +2910,7 @@
         <translation type="obsolete">Remplissage de l&apos;aperçu du graphique</translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="607"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="612"/>
         <source>Border color of Graph Overview&apos;s selection</source>
         <translation type="unfinished">Couleur des bordures de la sélection de la vue graphique&apos;</translation>
     </message>
@@ -2731,7 +2923,7 @@
         <translation type="obsolete">Couleur générale d&apos;arrière-plan</translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="617"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="622"/>
         <source>Background</source>
         <translation type="unfinished">Arrière-plan</translation>
     </message>
@@ -2744,7 +2936,7 @@
         <translation type="obsolete">Arrière-plan du noeud</translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="622"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="627"/>
         <source>Background of current graph node</source>
         <translation type="unfinished">Arrière-plan du nœud graphique actuel</translation>
     </message>
@@ -2773,7 +2965,7 @@
         <translation type="obsolete">Couleur d&apos;arrière-plan du mot sélectionné</translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="637"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="645"/>
         <source>Main function color</source>
         <translation type="unfinished">Couleur de la fonction principale</translation>
     </message>
@@ -2782,7 +2974,7 @@
         <translation type="obsolete">Général</translation>
     </message>
     <message>
-        <location filename="../widgets/ColorThemeListView.cpp" line="661"/>
+        <location filename="../widgets/ColorThemeListView.cpp" line="669"/>
         <source>Code section color in navigation bar</source>
         <translation type="unfinished">Couleur de la section de code dans la barre de navigation</translation>
     </message>
@@ -2829,29 +3021,29 @@
         <translation>Rechercher</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="35"/>
+        <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="34"/>
         <source>Disassembly Preview</source>
         <translation>Aperçu du désassemblage</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="79"/>
+        <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="77"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="93"/>
-        <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="144"/>
+        <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="91"/>
+        <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="142"/>
         <source>Unsaved changes</source>
         <translation>Changements non sauvegardés</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="94"/>
-        <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="145"/>
+        <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="92"/>
+        <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="143"/>
         <source>Are you sure you want to exit without saving? All changes will be lost.</source>
         <translation>Êtes-vous sûr de vouloir quitter sans enregistrer ? Toutes les modifications seront perdues.</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="159"/>
+        <location filename="../dialogs/preferences/ColorThemeEditDialog.cpp" line="157"/>
         <source>Theme Editor - &lt;%1&gt;</source>
         <translation>Éditeur de thème - &lt;%1&gt;</translation>
     </message>
@@ -2859,83 +3051,83 @@
 <context>
     <name>ColorThemeWorker</name>
     <message>
-        <location filename="../common/ColorThemeWorker.cpp" line="51"/>
+        <location filename="../common/ColorThemeWorker.cpp" line="65"/>
         <source>Standard themes not found</source>
         <translation>Thèmes standards introuvables</translation>
     </message>
     <message>
-        <location filename="../common/ColorThemeWorker.cpp" line="52"/>
+        <location filename="../common/ColorThemeWorker.cpp" line="66"/>
         <source>The Rizin standard themes could not be found in &apos;%1&apos;. Most likely, Rizin is not properly installed.</source>
         <translation>Les thèmes standard de Rizin n&apos;ont pas été trouvés dans « %1 ». Il est probable que Rizin ne soit pas correctement installé.</translation>
     </message>
     <message>
-        <location filename="../common/ColorThemeWorker.cpp" line="81"/>
-        <location filename="../common/ColorThemeWorker.cpp" line="178"/>
+        <location filename="../common/ColorThemeWorker.cpp" line="94"/>
+        <location filename="../common/ColorThemeWorker.cpp" line="191"/>
         <source>Theme &lt;b&gt;%1&lt;/b&gt; does not exist.</source>
         <translation>Le thème &lt;b&gt;%1&lt;/b&gt; n&apos;existe pas.</translation>
     </message>
     <message>
-        <location filename="../common/ColorThemeWorker.cpp" line="91"/>
+        <location filename="../common/ColorThemeWorker.cpp" line="104"/>
         <source>The file &lt;b&gt;%1&lt;/b&gt; cannot be opened.</source>
         <translation>Le fichier &lt;b&gt;%1&lt;/b&gt; ne peut pas être ouvert.</translation>
     </message>
     <message>
-        <location filename="../common/ColorThemeWorker.cpp" line="175"/>
+        <location filename="../common/ColorThemeWorker.cpp" line="188"/>
         <source>You can not delete standard Rizin color themes.</source>
         <translation>Vous ne pouvez pas supprimer les thèmes de couleurs standard de Rizin.</translation>
     </message>
     <message>
-        <location filename="../common/ColorThemeWorker.cpp" line="183"/>
+        <location filename="../common/ColorThemeWorker.cpp" line="196"/>
         <source>You have no permission to write to &lt;b&gt;%1&lt;/b&gt;</source>
         <translation>Vous n&apos;avez pas la permission d&apos;écrire à &lt;b&gt;%1&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../common/ColorThemeWorker.cpp" line="186"/>
+        <location filename="../common/ColorThemeWorker.cpp" line="199"/>
         <source>File &lt;b&gt;%1&lt;/b&gt; can not be opened.</source>
         <translation>Le fichier &lt;b&gt;%1&lt;/b&gt; ne peut pas être ouvert.</translation>
     </message>
     <message>
-        <location filename="../common/ColorThemeWorker.cpp" line="189"/>
+        <location filename="../common/ColorThemeWorker.cpp" line="202"/>
         <source>File &lt;b&gt;%1&lt;/b&gt; can not be removed.</source>
         <translation>Le fichier &lt;b&gt;%1&lt;/b&gt; ne peut pas être supprimé.</translation>
     </message>
     <message>
-        <location filename="../common/ColorThemeWorker.cpp" line="198"/>
+        <location filename="../common/ColorThemeWorker.cpp" line="211"/>
         <source>File &lt;b&gt;%1&lt;/b&gt; does not exist.</source>
         <translation>Le fichier &lt;b&gt;%1&lt;/b&gt; n&apos;existe pas.</translation>
     </message>
     <message>
-        <location filename="../common/ColorThemeWorker.cpp" line="204"/>
+        <location filename="../common/ColorThemeWorker.cpp" line="217"/>
         <source>File &lt;b&gt;%1&lt;/b&gt; could not be opened. Please make sure you have access to it and try again.</source>
         <translation>Le fichier &lt;b&gt;%1&lt;/b&gt; n&apos;a pas pu être ouvert. Veuillez vous assurer que vous y avez accès et réessayez.</translation>
     </message>
     <message>
-        <location filename="../common/ColorThemeWorker.cpp" line="208"/>
+        <location filename="../common/ColorThemeWorker.cpp" line="221"/>
         <source>File &lt;b&gt;%1&lt;/b&gt; is not a Cutter color theme</source>
         <translation>Le fichier &lt;b&gt;%1&lt;/b&gt; n&apos;est pas un thème de couleur Cutter</translation>
     </message>
     <message>
-        <location filename="../common/ColorThemeWorker.cpp" line="213"/>
+        <location filename="../common/ColorThemeWorker.cpp" line="226"/>
         <source>A color theme named &lt;b&gt;%1&lt;/b&gt; already exists.</source>
         <translation>Un thème nommé &lt;b&gt;%1&lt;/b&gt; existe déjà.</translation>
     </message>
     <message>
-        <location filename="../common/ColorThemeWorker.cpp" line="219"/>
+        <location filename="../common/ColorThemeWorker.cpp" line="232"/>
         <source>Error occurred during importing. Please make sure you have an access to the directory &lt;b&gt;%1&lt;/b&gt; and try again.</source>
         <translation>Une erreur s&apos;est produite lors de l&apos;importation. Veuillez vous assurer que vous avez un accès au répertoire &lt;b&gt;%1&lt;/b&gt; et réessayez.</translation>
     </message>
     <message>
-        <location filename="../common/ColorThemeWorker.cpp" line="229"/>
+        <location filename="../common/ColorThemeWorker.cpp" line="242"/>
         <source>A color theme named &lt;b&gt;&quot;%1&quot;&lt;/b&gt; already exists.</source>
         <translation>Un thème nommé &lt;b&gt;%1&lt;/b&gt; existe déjà.</translation>
     </message>
     <message>
-        <location filename="../common/ColorThemeWorker.cpp" line="233"/>
+        <location filename="../common/ColorThemeWorker.cpp" line="246"/>
         <source>You can not rename standard Rizin themes.</source>
         <translation>Vous ne pouvez pas renommer les thèmes standards de Rizin.</translation>
     </message>
     <message>
-        <location filename="../common/ColorThemeWorker.cpp" line="239"/>
+        <location filename="../common/ColorThemeWorker.cpp" line="252"/>
         <source>Something went wrong during renaming. Please make sure you have access to the directory &lt;b&gt;&quot;%1&quot;&lt;/b&gt;.</source>
         <translation>Une erreur s&apos;est produite lors du renommage. Veuillez vous assurer que vous avez accès au répertoire &lt;b&gt;&quot;%1&quot;&lt;/b&gt;.</translation>
     </message>
@@ -2961,7 +3153,7 @@
 <context>
     <name>CommandTask</name>
     <message>
-        <location filename="../common/CommandTask.h" line="22"/>
+        <location filename="../common/CommandTask.h" line="23"/>
         <source>Running Command</source>
         <translation>Éxécution de la commande</translation>
     </message>
@@ -2974,12 +3166,12 @@
         <translation>Commentaire</translation>
     </message>
     <message>
-        <location filename="../dialogs/CommentsDialog.cpp" line="43"/>
+        <location filename="../dialogs/CommentsDialog.cpp" line="46"/>
         <source>Add Comment at %1</source>
         <translation>Ajouter un commentaire à %1</translation>
     </message>
     <message>
-        <location filename="../dialogs/CommentsDialog.cpp" line="45"/>
+        <location filename="../dialogs/CommentsDialog.cpp" line="48"/>
         <source>Edit Comment at %1</source>
         <translation>Modifier le commentaire à %1</translation>
     </message>
@@ -2987,23 +3179,23 @@
 <context>
     <name>CommentsModel</name>
     <message>
-        <location filename="../widgets/CommentsWidget.cpp" line="150"/>
+        <location filename="../widgets/CommentsWidget.cpp" line="153"/>
         <source>Function/Offset</source>
         <translation>Fonction/Offset</translation>
     </message>
     <message>
-        <location filename="../widgets/CommentsWidget.cpp" line="152"/>
-        <location filename="../widgets/CommentsWidget.cpp" line="163"/>
+        <location filename="../widgets/CommentsWidget.cpp" line="155"/>
+        <location filename="../widgets/CommentsWidget.cpp" line="166"/>
         <source>Comment</source>
         <translation>Commentaire</translation>
     </message>
     <message>
-        <location filename="../widgets/CommentsWidget.cpp" line="159"/>
+        <location filename="../widgets/CommentsWidget.cpp" line="162"/>
         <source>Offset</source>
         <translation>Décalage</translation>
     </message>
     <message>
-        <location filename="../widgets/CommentsWidget.cpp" line="161"/>
+        <location filename="../widgets/CommentsWidget.cpp" line="164"/>
         <source>Function</source>
         <translation>Fonction</translation>
     </message>
@@ -3011,17 +3203,17 @@
 <context>
     <name>CommentsWidget</name>
     <message>
-        <location filename="../widgets/CommentsWidget.cpp" line="228"/>
+        <location filename="../widgets/CommentsWidget.cpp" line="235"/>
         <source>Horizontal</source>
         <translation>Horizontal</translation>
     </message>
     <message>
-        <location filename="../widgets/CommentsWidget.cpp" line="229"/>
+        <location filename="../widgets/CommentsWidget.cpp" line="236"/>
         <source>Vertical</source>
         <translation>Vertical</translation>
     </message>
     <message>
-        <location filename="../widgets/CommentsWidget.cpp" line="231"/>
+        <location filename="../widgets/CommentsWidget.cpp" line="239"/>
         <source>Comments</source>
         <translation>Commentaires</translation>
     </message>
@@ -3037,12 +3229,12 @@
         <translation type="vanished">!!! Les paramètres ne sont pas modifiables ! Assurez-vous d&apos;avoir un accès en écriture à &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../common/Configuration.cpp" line="159"/>
+        <location filename="../common/Configuration.cpp" line="166"/>
         <source>Critical Error!</source>
         <translation>Erreur critique !</translation>
     </message>
     <message>
-        <location filename="../common/Configuration.cpp" line="160"/>
+        <location filename="../common/Configuration.cpp" line="167"/>
         <source>Settings are not writable! Make sure you have a write access to &quot;%1&quot;.</source>
         <translation>Les paramètres ne sont pas accessibles en écriture ! Assurez-vous d&apos;avoir un accès en écriture à &quot;%1&quot;.</translation>
     </message>
@@ -3120,7 +3312,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ConsoleWidget.cpp" line="80"/>
+        <location filename="../widgets/ConsoleWidget.cpp" line="85"/>
         <source>Wrap Lines</source>
         <translation>Retour à la ligne</translation>
     </message>
@@ -3134,212 +3326,220 @@
         <translation>Chargement du fichier d&apos;initialisation à partir de </translation>
     </message>
     <message>
-        <location filename="../core/Cutter.cpp" line="1078"/>
-        <location filename="../core/Cutter.cpp" line="1087"/>
-        <location filename="../core/Cutter.cpp" line="1092"/>
-        <location filename="../core/Cutter.cpp" line="1102"/>
-        <location filename="../core/Cutter.cpp" line="1106"/>
+        <location filename="../core/Cutter.cpp" line="1065"/>
+        <location filename="../core/Cutter.cpp" line="1074"/>
+        <location filename="../core/Cutter.cpp" line="1079"/>
+        <location filename="../core/Cutter.cpp" line="1089"/>
+        <location filename="../core/Cutter.cpp" line="1093"/>
         <source>Signatures</source>
         <translation>Signatures</translation>
     </message>
     <message>
-        <location filename="../core/Cutter.cpp" line="1079"/>
+        <location filename="../core/Cutter.cpp" line="1066"/>
         <source>Cannot apply signature file because the requested arch is not supported by .sig files</source>
         <translation>Impossible d&apos;appliquer le fichier de signature, car l&apos;archive demandée n&apos;est pas prise en charge par les fichiers .sig</translation>
     </message>
     <message>
-        <location filename="../core/Cutter.cpp" line="1088"/>
+        <location filename="../core/Cutter.cpp" line="1075"/>
         <source>Found %1 matching signatures!</source>
         <translation>%1 signatures correspondantes trouvées !</translation>
     </message>
     <message>
-        <location filename="../core/Cutter.cpp" line="1093"/>
+        <location filename="../core/Cutter.cpp" line="1080"/>
         <source>Failed to apply signature file!
 Please check the console for more details.</source>
         <translation>Échec de l&apos;application du fichier de signature !
 Veuillez consulter la console pour plus de détails.</translation>
     </message>
     <message>
-        <location filename="../core/Cutter.cpp" line="1103"/>
+        <location filename="../core/Cutter.cpp" line="1090"/>
         <source>Cannot create signature file (check the console for more details).</source>
         <translation>Impossible de créer un fichier de signature (vérifiez la console pour plus de détails).</translation>
     </message>
     <message>
-        <location filename="../core/Cutter.cpp" line="1107"/>
+        <location filename="../core/Cutter.cpp" line="1094"/>
         <source>Written %1 signatures to %2.</source>
         <translation>%1 signatures écrites sur %2.</translation>
     </message>
     <message>
-        <location filename="../core/Cutter.cpp" line="2016"/>
+        <location filename="../core/Cutter.cpp" line="2123"/>
         <source>Starting native debug...</source>
         <translation>Démarrage du débogage natif...</translation>
     </message>
     <message>
-        <location filename="../core/Cutter.cpp" line="2064"/>
+        <location filename="../core/Cutter.cpp" line="2171"/>
         <source>Starting emulation...</source>
         <translation>Démarrage de l&apos;émulation...</translation>
     </message>
     <message>
-        <location filename="../core/Cutter.cpp" line="2127"/>
+        <location filename="../core/Cutter.cpp" line="2234"/>
         <source>Connecting to: </source>
         <translation>Connexion à : </translation>
     </message>
     <message>
-        <location filename="../core/Cutter.cpp" line="2179"/>
+        <location filename="../core/Cutter.cpp" line="2286"/>
         <source>Attaching to process (</source>
         <translation>Attacher au processus (</translation>
     </message>
     <message>
-        <location filename="../core/Cutter.cpp" line="2626"/>
+        <location filename="../core/Cutter.cpp" line="2734"/>
         <source>Creating debug tracepoint...</source>
         <translation>Création d&apos;un point de contrôle de débogage...</translation>
     </message>
     <message>
-        <location filename="../core/Cutter.cpp" line="2671"/>
+        <location filename="../core/Cutter.cpp" line="2779"/>
         <source>Stopping debug session...</source>
         <translation>Arrêt de la session de débogage...</translation>
     </message>
     <message>
-        <location filename="../core/Cutter.cpp" line="2706"/>
+        <location filename="../core/Cutter.cpp" line="2814"/>
         <source>Breakpoint error</source>
         <translation>Erreur de breakpoint</translation>
     </message>
     <message>
-        <location filename="../core/Cutter.cpp" line="2706"/>
+        <location filename="../core/Cutter.cpp" line="2814"/>
         <source>Failed to create breakpoint</source>
         <translation>Impossible de créer le breakpoint</translation>
     </message>
     <message>
-        <location filename="../core/Cutter.cpp" line="3687"/>
+        <location filename="../core/Cutter.cpp" line="3877"/>
         <source>Unknown (%1)</source>
         <translation>Inconnu (%1)</translation>
     </message>
     <message>
-        <location filename="../core/Cutter.cpp" line="4034"/>
-        <location filename="../core/Cutter.cpp" line="4248"/>
+        <location filename="../core/Cutter.cpp" line="4347"/>
+        <location filename="../core/Cutter.cpp" line="4561"/>
         <source>Error invalid search kind
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../core/Cutter.cpp" line="4459"/>
-        <location filename="../core/Cutter.cpp" line="4488"/>
+        <location filename="../core/Cutter.cpp" line="4780"/>
+        <location filename="../core/Cutter.cpp" line="4809"/>
         <source>Error parsing type: &quot;%1&quot; message: </source>
         <translation>Erreur d&apos;analyse du type : &quot;%1&quot; message : </translation>
     </message>
     <message>
-        <location filename="../core/Cutter.cpp" line="4465"/>
+        <location filename="../core/Cutter.cpp" line="4786"/>
         <source>Error creating global variable: &quot;%1&quot;</source>
         <translation>Erreur lors de la création de la variable globale : &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../core/Cutter.cpp" line="5138"/>
-        <location filename="../core/Cutter.cpp" line="5189"/>
+        <location filename="../core/Cutter.cpp" line="5483"/>
+        <location filename="../core/Cutter.cpp" line="5534"/>
         <source>Cannot get global graph</source>
         <translation>Impossible d&apos;obtenir le graphe global</translation>
     </message>
     <message>
-        <location filename="../core/Cutter.cpp" line="5140"/>
-        <location filename="../core/Cutter.cpp" line="5191"/>
+        <location filename="../core/Cutter.cpp" line="5485"/>
+        <location filename="../core/Cutter.cpp" line="5536"/>
         <source>Cannot get graph at </source>
         <translation>Impossible d&apos;obtenir le graphique à </translation>
     </message>
     <message>
-        <location filename="../core/Cutter.cpp" line="5171"/>
+        <location filename="../core/Cutter.cpp" line="5516"/>
         <source>Failed to generate graph</source>
         <translation>Échec de la génération du graphique</translation>
     </message>
 </context>
 <context>
+    <name>CutterDockWidget</name>
+    <message>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="379"/>
+        <source>Enable/Disable Docking</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>CutterGraphView</name>
     <message>
-        <location filename="../widgets/CutterGraphView.cpp" line="25"/>
-        <location filename="../widgets/CutterGraphView.cpp" line="436"/>
+        <location filename="../widgets/CutterGraphView.cpp" line="26"/>
+        <location filename="../widgets/CutterGraphView.cpp" line="438"/>
         <source>Export Graph</source>
         <translation>Exporter le graphe</translation>
     </message>
     <message>
-        <location filename="../widgets/CutterGraphView.cpp" line="37"/>
+        <location filename="../widgets/CutterGraphView.cpp" line="38"/>
         <source>Layout</source>
         <translation>Calque</translation>
     </message>
     <message>
-        <location filename="../widgets/CutterGraphView.cpp" line="38"/>
+        <location filename="../widgets/CutterGraphView.cpp" line="39"/>
         <source>Horizontal</source>
         <translation>Horizontal</translation>
     </message>
     <message>
-        <location filename="../widgets/CutterGraphView.cpp" line="42"/>
+        <location filename="../widgets/CutterGraphView.cpp" line="43"/>
         <source>Grid narrow</source>
         <translation>Grille petite</translation>
     </message>
     <message>
-        <location filename="../widgets/CutterGraphView.cpp" line="43"/>
+        <location filename="../widgets/CutterGraphView.cpp" line="44"/>
         <source>Grid medium</source>
         <translation>Grille médium</translation>
     </message>
     <message>
-        <location filename="../widgets/CutterGraphView.cpp" line="44"/>
+        <location filename="../widgets/CutterGraphView.cpp" line="45"/>
         <source>Grid wide</source>
         <translation>Grille large</translation>
     </message>
     <message>
-        <location filename="../widgets/CutterGraphView.cpp" line="58"/>
+        <location filename="../widgets/CutterGraphView.cpp" line="59"/>
         <source>Graphviz polyline</source>
         <translation>Visualisation de graphe polyligne</translation>
     </message>
     <message>
-        <location filename="../widgets/CutterGraphView.cpp" line="59"/>
+        <location filename="../widgets/CutterGraphView.cpp" line="60"/>
         <source>Graphviz ortho</source>
         <translation>Visualisation de graphe ortho</translation>
     </message>
     <message>
-        <location filename="../widgets/CutterGraphView.cpp" line="60"/>
+        <location filename="../widgets/CutterGraphView.cpp" line="61"/>
         <source>Graphviz sfdp</source>
         <translation>Graphviz sfdp</translation>
     </message>
     <message>
-        <location filename="../widgets/CutterGraphView.cpp" line="61"/>
+        <location filename="../widgets/CutterGraphView.cpp" line="62"/>
         <source>Graphviz neato</source>
         <translation>Graphviz neato</translation>
     </message>
     <message>
-        <location filename="../widgets/CutterGraphView.cpp" line="62"/>
+        <location filename="../widgets/CutterGraphView.cpp" line="63"/>
         <source>Graphviz twopi</source>
         <translation>Graphviz twopi</translation>
     </message>
     <message>
-        <location filename="../widgets/CutterGraphView.cpp" line="63"/>
+        <location filename="../widgets/CutterGraphView.cpp" line="64"/>
         <source>Graphviz circo</source>
         <translation>Graphviz circo</translation>
     </message>
     <message>
-        <location filename="../widgets/CutterGraphView.cpp" line="405"/>
+        <location filename="../widgets/CutterGraphView.cpp" line="407"/>
         <source>PNG (*.png)</source>
         <translation>PNG (*.png)</translation>
     </message>
     <message>
-        <location filename="../widgets/CutterGraphView.cpp" line="406"/>
+        <location filename="../widgets/CutterGraphView.cpp" line="408"/>
         <source>JPEG (*.jpg)</source>
         <translation>JPEG (*.jpg)</translation>
     </message>
     <message>
-        <location filename="../widgets/CutterGraphView.cpp" line="407"/>
+        <location filename="../widgets/CutterGraphView.cpp" line="409"/>
         <source>SVG (*.svg)</source>
         <translation>SVG (*.svg)</translation>
     </message>
     <message>
-        <location filename="../widgets/CutterGraphView.cpp" line="411"/>
+        <location filename="../widgets/CutterGraphView.cpp" line="413"/>
         <source>Graphviz dot (*.dot)</source>
         <translation>Graphviz dot (*.dot)</translation>
     </message>
     <message>
-        <location filename="../widgets/CutterGraphView.cpp" line="412"/>
+        <location filename="../widgets/CutterGraphView.cpp" line="414"/>
         <source>Graph Modelling Language (*.gml)</source>
         <translation>Langage de modélisation graphique (*.gml)</translation>
     </message>
     <message>
-        <location filename="../widgets/CutterGraphView.cpp" line="414"/>
+        <location filename="../widgets/CutterGraphView.cpp" line="416"/>
         <source>RZ JSON (*.json)</source>
         <translation>RZ JSON (*.json)</translation>
     </message>
@@ -3348,47 +3548,47 @@ Veuillez consulter la console pour plus de détails.</translation>
         <translation type="vanished">Clé-valeur SDB (*.txt)</translation>
     </message>
     <message>
-        <location filename="../widgets/CutterGraphView.cpp" line="420"/>
+        <location filename="../widgets/CutterGraphView.cpp" line="422"/>
         <source>Graphviz json (*.json)</source>
         <translation>Graphviz json (*.json)</translation>
     </message>
     <message>
-        <location filename="../widgets/CutterGraphView.cpp" line="422"/>
+        <location filename="../widgets/CutterGraphView.cpp" line="424"/>
         <source>Graphviz gif (*.gif)</source>
         <translation>Graphviz gif (*.gif)</translation>
     </message>
     <message>
-        <location filename="../widgets/CutterGraphView.cpp" line="424"/>
+        <location filename="../widgets/CutterGraphView.cpp" line="426"/>
         <source>Graphviz png (*.png)</source>
         <translation>Graphviz png (*.png)</translation>
     </message>
     <message>
-        <location filename="../widgets/CutterGraphView.cpp" line="426"/>
+        <location filename="../widgets/CutterGraphView.cpp" line="428"/>
         <source>Graphviz jpg (*.jpg)</source>
         <translation>Graphviz jpg (*.jpg)</translation>
     </message>
     <message>
-        <location filename="../widgets/CutterGraphView.cpp" line="428"/>
+        <location filename="../widgets/CutterGraphView.cpp" line="430"/>
         <source>Graphviz PostScript (*.ps)</source>
         <translation>Graphviz PostScript (*.ps)</translation>
     </message>
     <message>
-        <location filename="../widgets/CutterGraphView.cpp" line="430"/>
+        <location filename="../widgets/CutterGraphView.cpp" line="432"/>
         <source>Graphviz svg (*.svg)</source>
         <translation>Graphviz svg (*.svg)</translation>
     </message>
     <message>
-        <location filename="../widgets/CutterGraphView.cpp" line="432"/>
+        <location filename="../widgets/CutterGraphView.cpp" line="434"/>
         <source>Graphviz pdf (*.pdf)</source>
         <translation>Graphviz pdf (*.pdf)</translation>
     </message>
     <message>
-        <location filename="../widgets/CutterGraphView.cpp" line="454"/>
+        <location filename="../widgets/CutterGraphView.cpp" line="456"/>
         <source>Graph Export</source>
         <translation>Exportation de graphiques</translation>
     </message>
     <message>
-        <location filename="../widgets/CutterGraphView.cpp" line="455"/>
+        <location filename="../widgets/CutterGraphView.cpp" line="457"/>
         <source>Do you really want to export %1 x %2 = %3 pixel bitmap image? Consider using different format.</source>
         <translation>Voulez-vous vraiment exporter une image bitmap de %1 x %2 = %3 pixels ? Envisagez d&apos;utiliser un autre format.</translation>
     </message>
@@ -3409,14 +3609,22 @@ Veuillez consulter la console pour plus de détails.</translation>
     </message>
 </context>
 <context>
+    <name>CutterSearchable</name>
+    <message>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="325"/>
+        <source>Toggle Search Bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>CutterSeekable</name>
     <message>
-        <location filename="../common/CutterSeekable.cpp" line="72"/>
+        <location filename="../common/CutterSeekable.cpp" line="73"/>
         <source>More than one (%1) references here. Weird behaviour expected.</source>
         <translation>Plus d&apos;une (%1) référence ici. Comportement étrange attendu.</translation>
     </message>
     <message>
-        <location filename="../widgets/AddressableDockWidget.cpp" line="45"/>
+        <location filename="../widgets/AddressableDockWidget.cpp" line="47"/>
         <source> (unsynced)</source>
         <translation> (non synchronisé)</translation>
     </message>
@@ -3424,9 +3632,8 @@ Veuillez consulter la console pour plus de détails.</translation>
 <context>
     <name>CutterTreeWidget</name>
     <message>
-        <location filename="../widgets/CutterTreeWidget.cpp" line="19"/>
         <source>%1 Items</source>
-        <translation>%1 Objets</translation>
+        <translation type="vanished">%1 Objets</translation>
     </message>
 </context>
 <context>
@@ -3608,7 +3815,7 @@ Veuillez consulter la console pour plus de détails.</translation>
     </message>
     <message>
         <location filename="../widgets/Dashboard.ui" line="993"/>
-        <location filename="../widgets/Dashboard.cpp" line="177"/>
+        <location filename="../widgets/Dashboard.cpp" line="181"/>
         <source>Certificates</source>
         <translation>Certificats</translation>
     </message>
@@ -3678,32 +3885,32 @@ Veuillez consulter la console pour plus de détails.</translation>
         <translation>Pourcentage de couverture :</translation>
     </message>
     <message>
-        <location filename="../widgets/Dashboard.cpp" line="163"/>
+        <location filename="../widgets/Dashboard.cpp" line="167"/>
         <source>Key</source>
         <translation>Clé</translation>
     </message>
     <message>
-        <location filename="../widgets/Dashboard.cpp" line="163"/>
+        <location filename="../widgets/Dashboard.cpp" line="167"/>
         <source>Value</source>
         <translation>Valeur</translation>
     </message>
     <message>
-        <location filename="../widgets/Dashboard.cpp" line="164"/>
+        <location filename="../widgets/Dashboard.cpp" line="168"/>
         <source>root</source>
         <translation>racine</translation>
     </message>
     <message>
-        <location filename="../widgets/Dashboard.cpp" line="205"/>
+        <location filename="../widgets/Dashboard.cpp" line="204"/>
         <source>N/A</source>
         <translation>N/A</translation>
     </message>
     <message>
-        <location filename="../widgets/Dashboard.cpp" line="233"/>
+        <location filename="../widgets/Dashboard.cpp" line="224"/>
         <source>True</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/Dashboard.cpp" line="233"/>
+        <location filename="../widgets/Dashboard.cpp" line="224"/>
         <source>False</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3711,47 +3918,47 @@ Veuillez consulter la console pour plus de détails.</translation>
 <context>
     <name>DebugActions</name>
     <message>
-        <location filename="../widgets/DebugActions.cpp" line="38"/>
+        <location filename="../widgets/DebugActions.cpp" line="40"/>
         <source>Start emulation</source>
         <translation>Démarrer l’émulation</translation>
     </message>
     <message>
-        <location filename="../widgets/DebugActions.cpp" line="39"/>
+        <location filename="../widgets/DebugActions.cpp" line="41"/>
         <source>Attach to process</source>
         <translation>Attacher au processus</translation>
     </message>
     <message>
-        <location filename="../widgets/DebugActions.cpp" line="40"/>
+        <location filename="../widgets/DebugActions.cpp" line="42"/>
         <source>Connect to a remote debugger</source>
         <translation>Se connecter à un débogueur distant</translation>
     </message>
     <message>
-        <location filename="../widgets/DebugActions.cpp" line="41"/>
+        <location filename="../widgets/DebugActions.cpp" line="43"/>
         <source>Stop debug</source>
         <translation>Arrêter le débogage</translation>
     </message>
     <message>
-        <location filename="../widgets/DebugActions.cpp" line="42"/>
+        <location filename="../widgets/DebugActions.cpp" line="44"/>
         <source>Stop emulation</source>
         <translation>Arrêter l’émulation</translation>
     </message>
     <message>
-        <location filename="../widgets/DebugActions.cpp" line="43"/>
+        <location filename="../widgets/DebugActions.cpp" line="45"/>
         <source>Restart emulation</source>
         <translation>Redémarrer l&apos;émulation</translation>
     </message>
     <message>
-        <location filename="../widgets/DebugActions.cpp" line="44"/>
+        <location filename="../widgets/DebugActions.cpp" line="46"/>
         <source>Continue until main</source>
         <translation>Continuer jusqu’à la fonction principale</translation>
     </message>
     <message>
-        <location filename="../widgets/DebugActions.cpp" line="45"/>
+        <location filename="../widgets/DebugActions.cpp" line="47"/>
         <source>Continue until call</source>
         <translation>Continuer jusqu&apos;à l&apos;appel</translation>
     </message>
     <message>
-        <location filename="../widgets/DebugActions.cpp" line="46"/>
+        <location filename="../widgets/DebugActions.cpp" line="48"/>
         <source>Continue until syscall</source>
         <translation>Continuer jusqu&apos;au syscall</translation>
     </message>
@@ -3781,72 +3988,72 @@ Veuillez consulter la console pour plus de détails.</translation>
         <translation>Reculer</translation>
     </message>
     <message>
-        <location filename="../widgets/DebugActions.cpp" line="47"/>
+        <location filename="../widgets/DebugActions.cpp" line="49"/>
         <source>Start trace session</source>
         <translation>Démarrer la session de traçage</translation>
     </message>
     <message>
-        <location filename="../widgets/DebugActions.cpp" line="48"/>
+        <location filename="../widgets/DebugActions.cpp" line="50"/>
         <source>Stop trace session</source>
         <translation>Arrêter la session de traçage</translation>
     </message>
     <message>
-        <location filename="../widgets/DebugActions.cpp" line="49"/>
+        <location filename="../widgets/DebugActions.cpp" line="51"/>
         <source>Suspend the process</source>
         <translation>Suspendre le processus</translation>
     </message>
     <message>
         <location filename="../shortcuts/DefaultShortcuts.cpp" line="110"/>
-        <location filename="../widgets/DebugActions.cpp" line="50"/>
+        <location filename="../widgets/DebugActions.cpp" line="52"/>
         <source>Continue</source>
         <translation>Continuer</translation>
     </message>
     <message>
-        <location filename="../widgets/DebugActions.cpp" line="51"/>
+        <location filename="../widgets/DebugActions.cpp" line="53"/>
         <source>Restart program</source>
         <translation>Redémarrer le programme</translation>
     </message>
     <message>
         <location filename="../shortcuts/DefaultShortcuts.cpp" line="108"/>
-        <location filename="../widgets/DebugActions.cpp" line="52"/>
+        <location filename="../widgets/DebugActions.cpp" line="54"/>
         <source>Start debug</source>
         <translation>Démarrer le débogage</translation>
     </message>
     <message>
-        <location filename="../widgets/DebugActions.cpp" line="141"/>
+        <location filename="../widgets/DebugActions.cpp" line="142"/>
         <source>Debugged process exited (</source>
         <translation>Le processus débogué a quitté (</translation>
     </message>
     <message>
-        <location filename="../widgets/DebugActions.cpp" line="260"/>
+        <location filename="../widgets/DebugActions.cpp" line="261"/>
         <source>Debug is currently in beta.
 </source>
         <translation>Le débogage est actuellement en version bêta.
 </translation>
     </message>
     <message>
-        <location filename="../widgets/DebugActions.cpp" line="261"/>
+        <location filename="../widgets/DebugActions.cpp" line="262"/>
         <source>If you encounter any problems or have suggestions, please submit an issue to https://github.com/rizinorg/cutter/issues</source>
         <translation>Si vous rencontrez des problèmes ou si vous avez des suggestions, veuillez soumettre un problème à https://github.com/rizinorg/cutter/issues</translation>
     </message>
     <message>
-        <location filename="../widgets/DebugActions.cpp" line="282"/>
-        <location filename="../widgets/DebugActions.cpp" line="361"/>
+        <location filename="../widgets/DebugActions.cpp" line="283"/>
+        <location filename="../widgets/DebugActions.cpp" line="363"/>
         <source>Detach from process</source>
         <translation>Se détacher de processus</translation>
     </message>
     <message>
-        <location filename="../widgets/DebugActions.cpp" line="299"/>
+        <location filename="../widgets/DebugActions.cpp" line="301"/>
         <source>Error connecting.</source>
         <translation>Erreur de connexion.</translation>
     </message>
     <message>
-        <location filename="../widgets/DebugActions.cpp" line="352"/>
+        <location filename="../widgets/DebugActions.cpp" line="354"/>
         <source>Error attaching. No process selected!</source>
         <translation>Erreur lors de l&apos;attachement. Aucun processus sélectionné !</translation>
     </message>
     <message>
-        <location filename="../widgets/DebugActions.cpp" line="381"/>
+        <location filename="../widgets/DebugActions.cpp" line="383"/>
         <source>File &apos;%1&apos; does not have executable permissions.</source>
         <translation>Le fichier &apos;%1&apos; n&apos;est pas executable.</translation>
     </message>
@@ -3912,7 +4119,7 @@ Veuillez consulter la console pour plus de détails.</translation>
         <translation>Copier</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="28"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="29"/>
         <source>Copy instruction address (&lt;address&gt;)</source>
         <translation>Copier l&apos;adresse de l&apos;instruction (&lt;address&gt;)</translation>
     </message>
@@ -3922,17 +4129,17 @@ Veuillez consulter la console pour plus de détails.</translation>
         <translation>Copier l&apos;adresse de [flag] (&lt;address&gt;)</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="30"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="32"/>
         <source>Show in</source>
         <translation>Afficher dans</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="167"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="168"/>
         <source>Add Comment</source>
         <translation>Ajouter un commentaire</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="32"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="34"/>
         <source>Delete comment</source>
         <translation>Supprimer le commentaire</translation>
     </message>
@@ -3942,7 +4149,7 @@ Veuillez consulter la console pour plus de détails.</translation>
         <translation>Renommer la fonction au niveau du curseur</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="34"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="36"/>
         <source>Delete &lt;name&gt;</source>
         <translation>Supprimer &lt;name&gt;</translation>
     </message>
@@ -3961,179 +4168,179 @@ Veuillez consulter la console pour plus de détails.</translation>
         <translation>Ajouter/Supprimer point d&apos;arrêt</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="198"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="199"/>
         <location filename="../shortcuts/DefaultShortcuts.cpp" line="137"/>
         <source>Advanced breakpoint</source>
         <translation>Breakpoint avancé</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="40"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="42"/>
         <source>Continue until line</source>
         <translation>Continuer jusqu&apos;à la ligne</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="41"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="43"/>
         <source>Set PC</source>
         <translation>Définir PC</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="170"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="171"/>
         <source>Edit Comment</source>
         <translation>Modifier le commentaire</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="186"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="187"/>
         <source>Add breakpoint</source>
         <translation>Ajouter un breakpoint</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="188"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="189"/>
         <source>Remove breakpoint</source>
         <translation>Supprimer le point d’arrêt</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="190"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="191"/>
         <source>Remove all breakpoints in line</source>
         <translation>Supprimer tous les points d&apos;arrêt de la ligne</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="197"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="198"/>
         <source>Edit breakpoint</source>
         <translation>Modifier le point d’arrêt</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="201"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="202"/>
         <source>Set %1 here</source>
         <translation>Placer %1 ici</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="213"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="214"/>
         <source>Rename function %1</source>
         <translation>Renommer la fonction %1</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="218"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="220"/>
         <source>Rename %1</source>
         <translation>Renommer %1</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="219"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="221"/>
         <source>Remove %1</source>
         <translation>Supprimer %1</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="222"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="224"/>
         <source>Add name to %1</source>
         <translation>Ajouter un nom à %1</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="227"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="229"/>
         <source>Copy instruction address (%1)</source>
         <translation>Adresse de l&apos;instruction de copie (%1)</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="234"/>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="239"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="236"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="241"/>
         <source>Copy address of %1 (%2)</source>
         <translation>Copier l&apos;adresse de %1 (%2)</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="243"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="245"/>
         <source>Copy address (%1)</source>
         <translation>Copier l&apos;adresse (%1)</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="259"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="261"/>
         <source>Edit variable %1</source>
         <translation>Modifier la variable %1</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="261"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="263"/>
         <source>Rename variable %1</source>
         <translation>Renommer la variable %1</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="321"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="323"/>
         <source>Can&apos;t rename this variable.&lt;br&gt;Only local variables defined in disassembly can be renamed.</source>
         <translation>Impossible de renommer cette variable.&lt;br&gt;Seules les variables locales définies dans le désassemblage peuvent être renommées.</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="340"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="342"/>
         <source>Can&apos;t edit this variable.&lt;br&gt;Only local variables defined in disassembly can be edited.</source>
         <translation>Impossible d&apos;éditer cette variable.&lt;br&gt;Seules les variables locales définies dans le désassemblage peuvent être modifiées.</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="413"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="415"/>
         <source>Define this function at %2</source>
         <translation>Définir cette fonction à %2</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="414"/>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="421"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="416"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="423"/>
         <source>Function name:</source>
         <translation>Nom de la fonction :</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="420"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="422"/>
         <source>Rename function %2</source>
         <translation>Renommer la fonction %2</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="431"/>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="455"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="433"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="458"/>
         <source>Rename %2</source>
         <translation>Renommer %2</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="431"/>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="439"/>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="456"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="433"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="441"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="459"/>
         <source>Enter name</source>
         <translation>Entrez le nom</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="438"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="440"/>
         <source>Add name to %2</source>
         <translation>Ajouter un nom à %2</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="449"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="451"/>
         <source>Rename local variable %1</source>
         <translation>Renommer la variable locale %1</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="450"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="452"/>
         <source>Can&apos;t rename this variable. Only local variables defined in disassembly can be renamed.</source>
         <translation>Impossible de renommer cette variable. Seules les variables locales définies dans le désassemblage peuvent être renommées.</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="475"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="478"/>
         <source>Edit local variable %1</source>
         <translation>Modifier la variable locale %1</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="476"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="479"/>
         <source>Can&apos;t edit this variable. Only local variables defined in disassembly can be edited.</source>
         <translation>Impossible d&apos;éditer cette variable. Seules les variables locales définies dans le désassemblage peuvent être modifiées.</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="542"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="546"/>
         <source>Breakpoint</source>
         <translation>Point de rupture</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="552"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="556"/>
         <source>Debug</source>
         <translation>Débogage</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="582"/>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="584"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="586"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="588"/>
         <source>Show %1 in</source>
         <translation>Afficher %1 dans</translation>
     </message>
     <message>
-        <location filename="../menus/DecompilerContextMenu.cpp" line="589"/>
+        <location filename="../menus/DecompilerContextMenu.cpp" line="593"/>
         <source>%1 (%2)</source>
         <translation>%1 (%2)</translation>
     </message>
@@ -4161,27 +4368,27 @@ Veuillez consulter la console pour plus de détails.</translation>
         <translation>Choisissez un décalage et actualisez pour obtenir le code décompilé</translation>
     </message>
     <message>
-        <location filename="../widgets/DecompilerWidget.cpp" line="69"/>
+        <location filename="../widgets/DecompilerWidget.cpp" line="67"/>
         <source>No Decompiler available.</source>
         <translation>Aucun décompilateur disponible.</translation>
     </message>
     <message>
-        <location filename="../widgets/DecompilerWidget.cpp" line="285"/>
+        <location filename="../widgets/DecompilerWidget.cpp" line="278"/>
         <source>No function found at this offset. Seek to a function or define one in order to decompile it.</source>
         <translation>Aucune fonction n&apos;a été trouvée à cet endroit. Recherchez une fonction ou définissez-en une afin de le décompiler.</translation>
     </message>
     <message>
-        <location filename="../widgets/DecompilerWidget.cpp" line="325"/>
+        <location filename="../widgets/DecompilerWidget.cpp" line="318"/>
         <source>Cannot decompile at this address (Not a function?)</source>
         <translation>Impossible de décompiler à cette adresse (N&apos;est pas une fonction?)</translation>
     </message>
     <message>
-        <location filename="../widgets/DecompilerWidget.cpp" line="487"/>
+        <location filename="../widgets/DecompilerWidget.cpp" line="478"/>
         <source>Decompiler (%1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/DecompilerWidget.cpp" line="489"/>
+        <location filename="../widgets/DecompilerWidget.cpp" line="480"/>
         <source>Decompiler (Empty)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4194,57 +4401,57 @@ Veuillez consulter la console pour plus de détails.</translation>
 <context>
     <name>DisassemblerGraphView</name>
     <message>
-        <location filename="../widgets/DisassemblerGraphView.cpp" line="100"/>
+        <location filename="../widgets/DisassemblerGraphView.cpp" line="98"/>
         <source>Highlight block</source>
         <translation>Bloc de surbrillance</translation>
     </message>
     <message>
-        <location filename="../widgets/DisassemblerGraphView.cpp" line="118"/>
+        <location filename="../widgets/DisassemblerGraphView.cpp" line="116"/>
         <source>Unhighlight block</source>
         <translation>Annuler la mise en surbrillance du bloc</translation>
     </message>
     <message>
-        <location filename="../widgets/DisassemblerGraphView.cpp" line="128"/>
+        <location filename="../widgets/DisassemblerGraphView.cpp" line="126"/>
         <source>Highlight instruction</source>
         <translation>Surligner les instructions</translation>
     </message>
     <message>
-        <location filename="../widgets/DisassemblerGraphView.cpp" line="132"/>
+        <location filename="../widgets/DisassemblerGraphView.cpp" line="130"/>
         <source>Unhighlight instruction</source>
         <translation>Instructions pour annuler la surbrillance</translation>
     </message>
     <message>
-        <location filename="../widgets/DisassemblerGraphView.cpp" line="198"/>
+        <location filename="../widgets/DisassemblerGraphView.cpp" line="199"/>
         <source>Graph</source>
         <translation>Graphe</translation>
     </message>
     <message>
-        <location filename="../widgets/DisassemblerGraphView.cpp" line="204"/>
+        <location filename="../widgets/DisassemblerGraphView.cpp" line="205"/>
         <source>(Empty)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/DisassemblerGraphView.cpp" line="213"/>
+        <location filename="../widgets/DisassemblerGraphView.cpp" line="214"/>
         <source>No function detected. Cannot display graph.</source>
         <translation>Aucune fonction détectée. Impossible d&apos;affiche un graphe.</translation>
     </message>
     <message>
-        <location filename="../shortcuts/DefaultShortcuts.cpp" line="248"/>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="256"/>
         <source>Take True Branch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../shortcuts/DefaultShortcuts.cpp" line="252"/>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="260"/>
         <source>Take False Branch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../shortcuts/DefaultShortcuts.cpp" line="256"/>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="264"/>
         <source>Next Instruction</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../shortcuts/DefaultShortcuts.cpp" line="260"/>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="268"/>
         <source>Previous Instruction</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4261,12 +4468,12 @@ Veuillez consulter la console pour plus de détails.</translation>
         <translation type="vanished">Copier l&apos;adresse</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="84"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="86"/>
         <source>Show in</source>
         <translation>Afficher dans</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="572"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="575"/>
         <source>Add Comment</source>
         <translation>Ajouter un commentaire</translation>
     </message>
@@ -4281,7 +4488,7 @@ Veuillez consulter la console pour plus de détails.</translation>
         <translation>Renommer ou ajouter un drapeau</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="836"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="839"/>
         <location filename="../shortcuts/DefaultShortcuts.cpp" line="168"/>
         <source>Re-type Local Variables</source>
         <translation>Retyper les variables locales</translation>
@@ -4354,57 +4561,57 @@ Veuillez consulter la console pour plus de détails.</translation>
         <translation>Modifier ou Supprimer les variables globales</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="184"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="185"/>
         <source>Set base of immediate value to..</source>
         <translation>Fixer la base de la valeur immédiate à...</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="186"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="187"/>
         <source>Binary</source>
         <translation>Binaire</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="190"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="191"/>
         <source>Octal</source>
         <translation>Octal</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="194"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="195"/>
         <source>Decimal</source>
         <translation>Décimal</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="198"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="199"/>
         <source>Hexadecimal</source>
         <translation>Hexadécimal</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="202"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="203"/>
         <source>Network Port</source>
         <translation>Port réseau</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="206"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="207"/>
         <source>IP Address</source>
         <translation>Adresse&#xa0;IP</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="210"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="211"/>
         <source>Syscall</source>
         <translation>Appel système</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="214"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="215"/>
         <source>String</source>
         <translation>Chaîne</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="221"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="222"/>
         <source>Set current bits to...</source>
         <translation>Définir les bits acuels à...</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="238"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="239"/>
         <source>Set as...</source>
         <translation>Définir comme...</translation>
     </message>
@@ -4414,7 +4621,7 @@ Veuillez consulter la console pour plus de détails.</translation>
         <translation>Code</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="244"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="245"/>
         <source>String...</source>
         <translation>Chaîne de caractères...</translation>
     </message>
@@ -4424,68 +4631,68 @@ Veuillez consulter la console pour plus de détails.</translation>
         <translation>Détection automatique</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="248"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="249"/>
         <source>Remove</source>
         <translation>Supprimer</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="282"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="283"/>
         <location filename="../shortcuts/DefaultShortcuts.cpp" line="204"/>
         <source>Advanced</source>
         <translation>Avancé</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="262"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="263"/>
         <source>Data...</source>
         <translation>Données...</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="264"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="265"/>
         <source>Byte</source>
         <translation>Octet</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="268"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="269"/>
         <source>Word</source>
         <translation>Mot</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="272"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="273"/>
         <source>Dword</source>
         <translation>Dword</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="276"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="277"/>
         <source>Qword</source>
         <translation>Qword</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="292"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="294"/>
         <source>Edit</source>
         <translation>Éditer</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="294"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="296"/>
         <source>Instruction</source>
         <translation>Instruction</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="298"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="300"/>
         <source>Nop Instruction</source>
         <translation>Remplacer par NOP</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="302"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="304"/>
         <source>Bytes</source>
         <translation>Octets</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="305"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="307"/>
         <source>Reverse Jump</source>
         <translation>Saut Inversé</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="311"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="313"/>
         <source>Breakpoint</source>
         <translation>Point de rupture</translation>
     </message>
@@ -4494,118 +4701,118 @@ Veuillez consulter la console pour plus de détails.</translation>
         <translation type="vanished">Ajouter/Supprimer point d&apos;arrêt</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="610"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="613"/>
         <source>Advanced breakpoint</source>
         <translation>Breakpoint avancé</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="323"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="325"/>
         <source>Debug</source>
         <translation>Débogage</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="325"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="327"/>
         <source>Continue until line</source>
         <translation>Continuer jusqu&apos;à la ligne</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="426"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="428"/>
         <source>Add flag at %1 (used here)</source>
         <translation>Ajouter un drapeau à %1 (utilisé ici)</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="431"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="433"/>
         <source>Rename &quot;%1&quot;</source>
         <translation>Renommer &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="436"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="438"/>
         <source>Rename local &quot;%1&quot;</source>
         <translation>Renommer le « %1 » local</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="441"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="443"/>
         <source>Rename flag &quot;%1&quot; (used here)</source>
         <translation>Renommer le drapeau « %1 » (utilisé ici)</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="499"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="501"/>
         <source>Add or change global variable at %1 (used here)</source>
         <translation>Ajouter ou modifier une variable globale à %1 (utilisé ici)</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="575"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="578"/>
         <source>Edit Comment</source>
         <translation>Modifier le commentaire</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="591"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="594"/>
         <source>Edit function &quot;%1&quot;</source>
         <translation>Modifier la fonction &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="608"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="611"/>
         <source>Remove breakpoint</source>
         <translation>Supprimer le point d’arrêt</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="608"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="611"/>
         <source>Add breakpoint</source>
         <translation>Ajouter un breakpoint</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="609"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="612"/>
         <source>Edit breakpoint</source>
         <translation>Modifier le point d’arrêt</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="624"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="627"/>
         <source>X-Refs for %1</source>
         <translation>Références croisées pour %1</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="641"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="644"/>
         <source>Edit Instruction at %1</source>
         <translation>Modifier l&apos;instruction à %1</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="691"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="694"/>
         <source>Edit Bytes at %1</source>
         <translation>Modifier les octets à %1</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="768"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="771"/>
         <source>New function at %1</source>
         <translation>Nouvelle fonction à %1</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="769"/>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="790"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="772"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="793"/>
         <source>Function name:</source>
         <translation>Nom de la fonction :</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="789"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="792"/>
         <source>Rename function %2</source>
         <translation>Renommer la fonction %2</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="837"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="840"/>
         <source>You must be in a function to define variable types.</source>
         <translation>Vous devez être dans une fonction pour définir les types de variables.</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="892"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="895"/>
         <source>Wrong address</source>
         <translation>Mauvaise adresse</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="893"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="896"/>
         <source>Can&apos;t edit string at this address</source>
         <translation>Impossible de modifier la chaîne à cette adresse</translation>
     </message>
     <message>
-        <location filename="../menus/DisassemblyContextMenu.cpp" line="965"/>
+        <location filename="../menus/DisassemblyContextMenu.cpp" line="968"/>
         <source>Edit function %1</source>
         <translation>Modifier la fonction %1</translation>
     </message>
@@ -4613,7 +4820,7 @@ Veuillez consulter la console pour plus de détails.</translation>
 <context>
     <name>DisassemblyWidget</name>
     <message>
-        <location filename="../widgets/DisassemblyWidget.cpp" line="734"/>
+        <location filename="../widgets/DisassemblyWidget.cpp" line="1137"/>
         <source>Disassembly</source>
         <translation>Désassembleur</translation>
     </message>
@@ -4624,21 +4831,23 @@ Veuillez consulter la console pour plus de détails.</translation>
     </message>
     <message>
         <location filename="../shortcuts/DefaultShortcuts.cpp" line="221"/>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="225"/>
         <source>Move Cursor Down</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../shortcuts/DefaultShortcuts.cpp" line="225"/>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="229"/>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="233"/>
         <source>Move Cursor Up</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../shortcuts/DefaultShortcuts.cpp" line="228"/>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="236"/>
         <source>Move Cursor Down By Page</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../shortcuts/DefaultShortcuts.cpp" line="232"/>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="240"/>
         <source>Move Cursor Up By Page</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4750,12 +4959,12 @@ Veuillez consulter la console pour plus de détails.</translation>
         <translation>Offset dans la table virtuelle :</translation>
     </message>
     <message>
-        <location filename="../dialogs/EditMethodDialog.cpp" line="191"/>
+        <location filename="../dialogs/EditMethodDialog.cpp" line="206"/>
         <source>Create Method</source>
         <translation>Créer une méthode</translation>
     </message>
     <message>
-        <location filename="../dialogs/EditMethodDialog.cpp" line="206"/>
+        <location filename="../dialogs/EditMethodDialog.cpp" line="221"/>
         <source>Edit Method</source>
         <translation>Modifier la méthode</translation>
     </message>
@@ -4789,57 +4998,57 @@ Veuillez consulter la console pour plus de détails.</translation>
     </message>
     <message>
         <location filename="../dialogs/EditRegProfileDialog.ui" line="80"/>
-        <location filename="../dialogs/EditRegProfileDialog.cpp" line="216"/>
+        <location filename="../dialogs/EditRegProfileDialog.cpp" line="218"/>
         <source>Remove Row</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/EditRegProfileDialog.cpp" line="15"/>
+        <location filename="../dialogs/EditRegProfileDialog.cpp" line="18"/>
         <source>Alias</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/EditRegProfileDialog.cpp" line="15"/>
+        <location filename="../dialogs/EditRegProfileDialog.cpp" line="18"/>
         <source>Register</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/EditRegProfileDialog.cpp" line="19"/>
+        <location filename="../dialogs/EditRegProfileDialog.cpp" line="21"/>
         <source>Type</source>
         <translation type="unfinished">Type</translation>
     </message>
     <message>
-        <location filename="../dialogs/EditRegProfileDialog.cpp" line="19"/>
+        <location filename="../dialogs/EditRegProfileDialog.cpp" line="21"/>
         <source>Name</source>
         <translation type="unfinished">Nom</translation>
     </message>
     <message>
-        <location filename="../dialogs/EditRegProfileDialog.cpp" line="19"/>
+        <location filename="../dialogs/EditRegProfileDialog.cpp" line="21"/>
         <source>Size</source>
         <translation type="unfinished">Taille</translation>
     </message>
     <message>
-        <location filename="../dialogs/EditRegProfileDialog.cpp" line="19"/>
+        <location filename="../dialogs/EditRegProfileDialog.cpp" line="21"/>
         <source>Offset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/EditRegProfileDialog.cpp" line="20"/>
+        <location filename="../dialogs/EditRegProfileDialog.cpp" line="22"/>
         <source>Packed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/EditRegProfileDialog.cpp" line="20"/>
+        <location filename="../dialogs/EditRegProfileDialog.cpp" line="22"/>
         <source>Flags/Comment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/EditRegProfileDialog.cpp" line="213"/>
+        <location filename="../dialogs/EditRegProfileDialog.cpp" line="215"/>
         <source>Add Row Above</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/EditRegProfileDialog.cpp" line="214"/>
+        <location filename="../dialogs/EditRegProfileDialog.cpp" line="216"/>
         <source>Add Row Below</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4895,7 +5104,7 @@ Veuillez consulter la console pour plus de détails.</translation>
         <translation>Type :</translation>
     </message>
     <message>
-        <location filename="../dialogs/EditVariablesDialog.cpp" line="21"/>
+        <location filename="../dialogs/EditVariablesDialog.cpp" line="22"/>
         <source>Edit Variables in Function: %1</source>
         <translation>Modifier les variables dans la fonction : %1</translation>
     </message>
@@ -4921,27 +5130,27 @@ Veuillez consulter la console pour plus de détails.</translation>
 <context>
     <name>ExportsModel</name>
     <message>
-        <location filename="../widgets/ExportsWidget.cpp" line="57"/>
+        <location filename="../widgets/ExportsWidget.cpp" line="59"/>
         <source>Address</source>
         <translation>Adresse</translation>
     </message>
     <message>
-        <location filename="../widgets/ExportsWidget.cpp" line="59"/>
+        <location filename="../widgets/ExportsWidget.cpp" line="61"/>
         <source>Size</source>
         <translation>Taille</translation>
     </message>
     <message>
-        <location filename="../widgets/ExportsWidget.cpp" line="61"/>
+        <location filename="../widgets/ExportsWidget.cpp" line="63"/>
         <source>Type</source>
         <translation>Type</translation>
     </message>
     <message>
-        <location filename="../widgets/ExportsWidget.cpp" line="63"/>
+        <location filename="../widgets/ExportsWidget.cpp" line="65"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="../widgets/ExportsWidget.cpp" line="65"/>
+        <location filename="../widgets/ExportsWidget.cpp" line="67"/>
         <source>Comment</source>
         <translation>Commentaire</translation>
     </message>
@@ -4949,12 +5158,12 @@ Veuillez consulter la console pour plus de détails.</translation>
 <context>
     <name>ExportsWidget</name>
     <message>
-        <location filename="../widgets/ExportsWidget.cpp" line="135"/>
+        <location filename="../widgets/ExportsWidget.cpp" line="144"/>
         <source>Exports</source>
         <translation>Exports</translation>
     </message>
     <message>
-        <location filename="../shortcuts/DefaultShortcuts.cpp" line="238"/>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="246"/>
         <source>Toggle Exports Window</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4987,12 +5196,12 @@ Veuillez consulter la console pour plus de détails.</translation>
         <translation>Taille :</translation>
     </message>
     <message>
-        <location filename="../dialogs/FlagDialog.cpp" line="33"/>
+        <location filename="../dialogs/FlagDialog.cpp" line="36"/>
         <source>Edit flag at %1</source>
         <translation>Modifier le drapeau à %1</translation>
     </message>
     <message>
-        <location filename="../dialogs/FlagDialog.cpp" line="35"/>
+        <location filename="../dialogs/FlagDialog.cpp" line="38"/>
         <source>Add flag at %1</source>
         <translation>Ajouter flag à %1</translation>
     </message>
@@ -5000,27 +5209,27 @@ Veuillez consulter la console pour plus de détails.</translation>
 <context>
     <name>FlagsModel</name>
     <message>
-        <location filename="../widgets/FlagsWidget.cpp" line="62"/>
+        <location filename="../widgets/FlagsWidget.cpp" line="64"/>
         <source>Size</source>
         <translation>Taille</translation>
     </message>
     <message>
-        <location filename="../widgets/FlagsWidget.cpp" line="64"/>
+        <location filename="../widgets/FlagsWidget.cpp" line="66"/>
         <source>Offset</source>
         <translation>Décalage</translation>
     </message>
     <message>
-        <location filename="../widgets/FlagsWidget.cpp" line="66"/>
+        <location filename="../widgets/FlagsWidget.cpp" line="68"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="../widgets/FlagsWidget.cpp" line="68"/>
+        <location filename="../widgets/FlagsWidget.cpp" line="70"/>
         <source>Real Name</source>
         <translation>Nom réel</translation>
     </message>
     <message>
-        <location filename="../widgets/FlagsWidget.cpp" line="70"/>
+        <location filename="../widgets/FlagsWidget.cpp" line="72"/>
         <source>Comment</source>
         <translation>Commentaire</translation>
     </message>
@@ -5063,17 +5272,17 @@ Veuillez consulter la console pour plus de détails.</translation>
         <translation>Supprimer</translation>
     </message>
     <message>
-        <location filename="../widgets/FlagsWidget.cpp" line="212"/>
+        <location filename="../widgets/FlagsWidget.cpp" line="221"/>
         <source>Rename flag %1</source>
         <translation>Renommer le flag %1</translation>
     </message>
     <message>
-        <location filename="../widgets/FlagsWidget.cpp" line="213"/>
+        <location filename="../widgets/FlagsWidget.cpp" line="221"/>
         <source>Flag name:</source>
         <translation>Nom du drapeau :</translation>
     </message>
     <message>
-        <location filename="../widgets/FlagsWidget.cpp" line="242"/>
+        <location filename="../widgets/FlagsWidget.cpp" line="252"/>
         <source>(all)</source>
         <translation>(tous)</translation>
     </message>
@@ -5081,12 +5290,12 @@ Veuillez consulter la console pour plus de détails.</translation>
 <context>
     <name>FlirtContextMenu</name>
     <message>
-        <location filename="../menus/FlirtContextMenu.cpp" line="14"/>
+        <location filename="../menus/FlirtContextMenu.cpp" line="15"/>
         <source>Copy Line</source>
         <translation>Copier la ligne</translation>
     </message>
     <message>
-        <location filename="../menus/FlirtContextMenu.cpp" line="15"/>
+        <location filename="../menus/FlirtContextMenu.cpp" line="16"/>
         <source>Apply Signature File</source>
         <translation>Appliquer le fichier de signature</translation>
     </message>
@@ -5094,32 +5303,32 @@ Veuillez consulter la console pour plus de détails.</translation>
 <context>
     <name>FlirtModel</name>
     <message>
-        <location filename="../widgets/FlirtWidget.cpp" line="62"/>
+        <location filename="../widgets/FlirtWidget.cpp" line="64"/>
         <source>Bin</source>
         <translation>Bin</translation>
     </message>
     <message>
-        <location filename="../widgets/FlirtWidget.cpp" line="64"/>
+        <location filename="../widgets/FlirtWidget.cpp" line="66"/>
         <source>Arch</source>
         <translation>Arc</translation>
     </message>
     <message>
-        <location filename="../widgets/FlirtWidget.cpp" line="66"/>
+        <location filename="../widgets/FlirtWidget.cpp" line="68"/>
         <source>Bits</source>
         <translation>Bits</translation>
     </message>
     <message>
-        <location filename="../widgets/FlirtWidget.cpp" line="68"/>
+        <location filename="../widgets/FlirtWidget.cpp" line="70"/>
         <source># Funcs</source>
         <translation># Fonctions</translation>
     </message>
     <message>
-        <location filename="../widgets/FlirtWidget.cpp" line="70"/>
+        <location filename="../widgets/FlirtWidget.cpp" line="72"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="../widgets/FlirtWidget.cpp" line="72"/>
+        <location filename="../widgets/FlirtWidget.cpp" line="74"/>
         <source>Details</source>
         <translation>Détails</translation>
     </message>
@@ -5135,90 +5344,90 @@ Veuillez consulter la console pour plus de détails.</translation>
 <context>
     <name>FunctionModel</name>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="130"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="138"/>
         <source>Offset: %1</source>
         <translation>Offset : %1</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="132"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="140"/>
         <source>Size: %1</source>
         <translation>Taille : %1</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="134"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="142"/>
         <source>Import: %1</source>
         <translation>Importer : %1</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="135"/>
-        <location filename="../widgets/FunctionsWidget.cpp" line="162"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="143"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="171"/>
         <source>true</source>
         <translation>true</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="135"/>
-        <location filename="../widgets/FunctionsWidget.cpp" line="162"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="143"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="171"/>
         <source>false</source>
         <translation>false</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="137"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="145"/>
         <source>Nargs: %1</source>
         <translation>Nargs : %1</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="139"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="147"/>
         <source>Nbbs: %1</source>
         <translation>Nbbs : %1</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="141"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="149"/>
         <source>Nlocals: %1</source>
         <translation>Nlocals : %1</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="143"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="151"/>
         <source>Call type: %1</source>
         <translation>Type d&apos;appel : %1</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="145"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="153"/>
         <source>Edges: %1</source>
         <translation>Bordures : %1</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="147"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="155"/>
         <source>StackFrame: %1</source>
         <translation>StackFrame : %1</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="149"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="157"/>
         <source>Comment: %1</source>
         <translation>Commentaire : %1</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="262"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="274"/>
         <source>&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;Disassembly preview&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</source>
         <translation>&lt;div style=&quot;margin-bottom: 10px;&quot;&gt;&lt;strong&gt;Aperçu du dédassemblage&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="267"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="280"/>
         <source>&lt;div&gt;&lt;strong&gt;Highlights&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</source>
         <translation>&lt;div&gt;&lt;strong&gt;Mis en avant&lt;/strong&gt;:&lt;br&gt;%1&lt;/div&gt;</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="302"/>
-        <location filename="../widgets/FunctionsWidget.cpp" line="306"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="315"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="319"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="308"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="321"/>
         <source>Size</source>
         <translation>Taille</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="310"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="323"/>
         <source>Import</source>
         <translation type="unfinished">Importation</translation>
     </message>
@@ -5227,42 +5436,42 @@ Veuillez consulter la console pour plus de détails.</translation>
         <translation type="vanished">Imp.</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="312"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="325"/>
         <source>Offset</source>
         <translation>Offset</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="314"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="327"/>
         <source>Nargs</source>
         <translation>Nargs</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="316"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="329"/>
         <source>Nlocals</source>
         <translation>Nlocals</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="318"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="331"/>
         <source>Nbbs</source>
         <translation>Nbbs</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="320"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="333"/>
         <source>Call type</source>
         <translation>Type d&apos;appel</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="322"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="335"/>
         <source>Edges</source>
         <translation>Bords</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="324"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="337"/>
         <source>StackFrame</source>
         <translation>StackFrame</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="326"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="339"/>
         <source>Comment</source>
         <translation>Commentaire</translation>
     </message>
@@ -5270,7 +5479,7 @@ Veuillez consulter la console pour plus de détails.</translation>
 <context>
     <name>FunctionsTask</name>
     <message>
-        <location filename="../common/FunctionsTask.h" line="13"/>
+        <location filename="../common/FunctionsTask.h" line="15"/>
         <source>Fetching Functions</source>
         <translation>Récupération des fonctions</translation>
     </message>
@@ -5278,38 +5487,38 @@ Veuillez consulter la console pour plus de détails.</translation>
 <context>
     <name>FunctionsWidget</name>
     <message>
-        <location filename="../shortcuts/DefaultShortcuts.cpp" line="243"/>
-        <location filename="../widgets/FunctionsWidget.cpp" line="487"/>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="251"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="510"/>
         <source>Rename</source>
         <translation>Renommer</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="488"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="511"/>
         <source>Undefine</source>
         <translation>Indéfini</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="489"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="512"/>
         <source>Horizontal</source>
         <translation>Horizontal</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="490"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="513"/>
         <source>Vertical</source>
         <translation>Vertical</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="492"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="515"/>
         <source>Functions</source>
         <translation>Fonctions</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="611"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="663"/>
         <source>Rename function %1</source>
         <translation>Renommer la fonction %1</translation>
     </message>
     <message>
-        <location filename="../widgets/FunctionsWidget.cpp" line="612"/>
+        <location filename="../widgets/FunctionsWidget.cpp" line="664"/>
         <source>Function name:</source>
         <translation>Nom de la fonction :</translation>
     </message>
@@ -5337,7 +5546,7 @@ Veuillez consulter la console pour plus de détails.</translation>
         <translation>Saisissez l&apos;adresse de la base du bloc et appuyez sur la touche Entrée</translation>
     </message>
     <message>
-        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="28"/>
+        <location filename="../dialogs/GlibcHeapBinsDialog.cpp" line="32"/>
         <source>Bins info for arena @ </source>
         <translation>Informations sur les bins pour l&apos;arène @ </translation>
     </message>
@@ -5455,27 +5664,27 @@ Veuillez consulter la console pour plus de détails.</translation>
         <translation>Sauvegarder</translation>
     </message>
     <message>
-        <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="12"/>
+        <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="14"/>
         <source>Chunk @ </source>
         <translation>Bloc @ </translation>
     </message>
     <message>
-        <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="100"/>
+        <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="99"/>
         <source>Chunk saved</source>
         <translation>Blocs sauvegardés</translation>
     </message>
     <message>
-        <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="101"/>
+        <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="100"/>
         <source>Chunk header successfully overwritten</source>
         <translation>L&apos;en-tête du bloc a bien été écrasé</translation>
     </message>
     <message>
-        <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="103"/>
+        <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="102"/>
         <source>Chunk not saved</source>
         <translation>Le bloc n&apos;est pas sauvegardé</translation>
     </message>
     <message>
-        <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="104"/>
+        <location filename="../dialogs/GlibcHeapInfoDialog.cpp" line="103"/>
         <source>Chunk header not successfully overwritten</source>
         <translation>L&apos;en-tête du bloc n&apos;a pas été écrasé</translation>
     </message>
@@ -5521,12 +5730,12 @@ Veuillez consulter la console pour plus de détails.</translation>
         <translation>Bins</translation>
     </message>
     <message>
-        <location filename="../widgets/GlibcHeapWidget.cpp" line="27"/>
+        <location filename="../widgets/GlibcHeapWidget.cpp" line="29"/>
         <source>Detailed Chunk Info</source>
         <translation>Informations détaillées sur les blocs</translation>
     </message>
     <message>
-        <location filename="../widgets/GlibcHeapWidget.cpp" line="28"/>
+        <location filename="../widgets/GlibcHeapWidget.cpp" line="30"/>
         <source>Bins Info</source>
         <translation>Infos sur les bins</translation>
     </message>
@@ -5559,12 +5768,12 @@ Veuillez consulter la console pour plus de détails.</translation>
         <translation>Type :</translation>
     </message>
     <message>
-        <location filename="../dialogs/GlobalVariableDialog.cpp" line="29"/>
+        <location filename="../dialogs/GlobalVariableDialog.cpp" line="30"/>
         <source>Edit global variable at %1</source>
         <translation>Modifier la variable locale %1</translation>
     </message>
     <message>
-        <location filename="../dialogs/GlobalVariableDialog.cpp" line="31"/>
+        <location filename="../dialogs/GlobalVariableDialog.cpp" line="32"/>
         <source>Add global variable at %1</source>
         <translation>Ajouter la variable locale %1</translation>
     </message>
@@ -5572,22 +5781,22 @@ Veuillez consulter la console pour plus de détails.</translation>
 <context>
     <name>GlobalsModel</name>
     <message>
-        <location filename="../widgets/GlobalsWidget.cpp" line="58"/>
+        <location filename="../widgets/GlobalsWidget.cpp" line="59"/>
         <source>Address</source>
         <translation>Adresse</translation>
     </message>
     <message>
-        <location filename="../widgets/GlobalsWidget.cpp" line="60"/>
+        <location filename="../widgets/GlobalsWidget.cpp" line="61"/>
         <source>Type</source>
         <translation>Type</translation>
     </message>
     <message>
-        <location filename="../widgets/GlobalsWidget.cpp" line="62"/>
+        <location filename="../widgets/GlobalsWidget.cpp" line="63"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="../widgets/GlobalsWidget.cpp" line="64"/>
+        <location filename="../widgets/GlobalsWidget.cpp" line="65"/>
         <source>Comment</source>
         <translation>Commentaire</translation>
     </message>
@@ -5614,12 +5823,12 @@ Veuillez consulter la console pour plus de détails.</translation>
         <translation>Supprimer la variable globale</translation>
     </message>
     <message>
-        <location filename="../widgets/GlobalsWidget.cpp" line="151"/>
+        <location filename="../widgets/GlobalsWidget.cpp" line="155"/>
         <source>Category</source>
         <translation>Catégorie</translation>
     </message>
     <message>
-        <location filename="../widgets/GlobalsWidget.cpp" line="153"/>
+        <location filename="../widgets/GlobalsWidget.cpp" line="157"/>
         <source>Globals</source>
         <translation>Variables globales</translation>
     </message>
@@ -5720,7 +5929,7 @@ Veuillez consulter la console pour plus de détails.</translation>
 <context>
     <name>GraphView</name>
     <message>
-        <location filename="../widgets/GraphView.cpp" line="440"/>
+        <location filename="../widgets/GraphView.cpp" line="447"/>
         <source>Cutter graph export</source>
         <translation>Cutter export de graphe</translation>
     </message>
@@ -5728,12 +5937,12 @@ Veuillez consulter la console pour plus de détails.</translation>
 <context>
     <name>GraphWidget</name>
     <message>
-        <location filename="../shortcuts/DefaultShortcuts.cpp" line="264"/>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="272"/>
         <source>Toggle Graph Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../shortcuts/DefaultShortcuts.cpp" line="268"/>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="276"/>
         <source>Switch to Disassembly View</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5741,22 +5950,22 @@ Veuillez consulter la console pour plus de détails.</translation>
 <context>
     <name>HeadersModel</name>
     <message>
-        <location filename="../widgets/HeadersWidget.cpp" line="52"/>
+        <location filename="../widgets/HeadersWidget.cpp" line="54"/>
         <source>Offset</source>
         <translation>Offset</translation>
     </message>
     <message>
-        <location filename="../widgets/HeadersWidget.cpp" line="54"/>
+        <location filename="../widgets/HeadersWidget.cpp" line="56"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="../widgets/HeadersWidget.cpp" line="56"/>
+        <location filename="../widgets/HeadersWidget.cpp" line="58"/>
         <source>Value</source>
         <translation>Valeur</translation>
     </message>
     <message>
-        <location filename="../widgets/HeadersWidget.cpp" line="58"/>
+        <location filename="../widgets/HeadersWidget.cpp" line="60"/>
         <source>Comment</source>
         <translation>Commentaire</translation>
     </message>
@@ -5764,7 +5973,7 @@ Veuillez consulter la console pour plus de détails.</translation>
 <context>
     <name>HeadersWidget</name>
     <message>
-        <location filename="../widgets/HeadersWidget.cpp" line="117"/>
+        <location filename="../widgets/HeadersWidget.cpp" line="121"/>
         <source>Headers</source>
         <translation>Entêtes</translation>
     </message>
@@ -5772,18 +5981,18 @@ Veuillez consulter la console pour plus de détails.</translation>
 <context>
     <name>HeapBinsGraphView</name>
     <message>
-        <location filename="../widgets/HeapBinsGraphView.cpp" line="8"/>
+        <location filename="../widgets/HeapBinsGraphView.cpp" line="9"/>
         <source>Detailed Chunk Info</source>
         <translation>Informations détaillées sur les blocs</translation>
     </message>
     <message>
-        <location filename="../widgets/HeapBinsGraphView.cpp" line="79"/>
-        <location filename="../widgets/HeapBinsGraphView.cpp" line="121"/>
+        <location filename="../widgets/HeapBinsGraphView.cpp" line="78"/>
+        <location filename="../widgets/HeapBinsGraphView.cpp" line="120"/>
         <source>bin </source>
         <translation>bin </translation>
     </message>
     <message>
-        <location filename="../widgets/HeapBinsGraphView.cpp" line="121"/>
+        <location filename="../widgets/HeapBinsGraphView.cpp" line="120"/>
         <source> @ </source>
         <translation> @ </translation>
     </message>
@@ -5799,62 +6008,62 @@ Veuillez consulter la console pour plus de détails.</translation>
 <context>
     <name>HexWidget</name>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="88"/>
+        <location filename="../widgets/HexWidget.cpp" line="91"/>
         <source>Hexadecimal</source>
         <translation>Hexadécimal</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="89"/>
+        <location filename="../widgets/HexWidget.cpp" line="92"/>
         <source>Octal</source>
         <translation>Octal</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="90"/>
+        <location filename="../widgets/HexWidget.cpp" line="93"/>
         <source>Decimal</source>
         <translation>Décimal</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="91"/>
+        <location filename="../widgets/HexWidget.cpp" line="94"/>
         <source>Signed decimal</source>
         <translation>Décimale signée</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="92"/>
+        <location filename="../widgets/HexWidget.cpp" line="95"/>
         <source>Float</source>
         <translation>Flottant</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="106"/>
+        <location filename="../widgets/HexWidget.cpp" line="109"/>
         <source>Bytes per row</source>
         <translation>Octets par ligne</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="116"/>
+        <location filename="../widgets/HexWidget.cpp" line="119"/>
         <source>Power of 2</source>
         <translation>Puissance de 2</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="123"/>
+        <location filename="../widgets/HexWidget.cpp" line="126"/>
         <source>Big Endian</source>
         <translation>Big Endian</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="128"/>
+        <location filename="../widgets/HexWidget.cpp" line="131"/>
         <source>Bytes as pairs</source>
         <translation>Octets par pairs</translation>
     </message>
     <message>
-        <location filename="../shortcuts/DefaultShortcuts.cpp" line="273"/>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="281"/>
         <source>Copy</source>
         <translation>Copier</translation>
     </message>
     <message>
-        <location filename="../shortcuts/DefaultShortcuts.cpp" line="276"/>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="284"/>
         <source>Add flag at address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../shortcuts/DefaultShortcuts.cpp" line="278"/>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="286"/>
         <source>Add mark</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5863,50 +6072,50 @@ Veuillez consulter la console pour plus de détails.</translation>
         <translation type="vanished">Copier l&apos;adresse</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="1198"/>
+        <location filename="../widgets/HexWidget.cpp" line="1209"/>
         <source>Add Comment</source>
         <translation>Ajouter un commentaire</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="150"/>
-        <location filename="../widgets/HexWidget.cpp" line="1208"/>
+        <location filename="../widgets/HexWidget.cpp" line="153"/>
+        <location filename="../widgets/HexWidget.cpp" line="1219"/>
         <source>Add flag at %1</source>
         <translation type="unfinished">Ajouter flag à %1</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="164"/>
+        <location filename="../widgets/HexWidget.cpp" line="167"/>
         <source>Delete Comment</source>
         <translation>Supprimer le commentaire</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="170"/>
+        <location filename="../widgets/HexWidget.cpp" line="173"/>
         <source>Select range</source>
         <translation>Sélectionner une portée</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="177"/>
-        <location filename="../widgets/HexWidget.cpp" line="1391"/>
+        <location filename="../widgets/HexWidget.cpp" line="180"/>
+        <location filename="../widgets/HexWidget.cpp" line="1404"/>
         <source>Write string</source>
         <translation>Écrire la chaîne</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="181"/>
+        <location filename="../widgets/HexWidget.cpp" line="184"/>
         <source>Write length and string</source>
         <translation>Longueur d&apos;écriture et chaîne de caractères</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="185"/>
-        <location filename="../widgets/HexWidget.cpp" line="1585"/>
+        <location filename="../widgets/HexWidget.cpp" line="188"/>
+        <location filename="../widgets/HexWidget.cpp" line="1599"/>
         <source>Write wide string</source>
         <translation>Écrire une chaîne large</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="189"/>
+        <location filename="../widgets/HexWidget.cpp" line="192"/>
         <source>Write zero terminated string</source>
         <translation>Écrire une chaîne terminée par un zéro</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="193"/>
+        <location filename="../widgets/HexWidget.cpp" line="196"/>
         <source>Write a decoded or encoded Base64 string</source>
         <translation>Écrire une chaîne de caractère encodée/décodée en Base64</translation>
     </message>
@@ -5915,100 +6124,100 @@ Veuillez consulter la console pour plus de détails.</translation>
         <translation type="vanished">Ecrire la chaîne encodée/décodée en Base64</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="198"/>
-        <location filename="../widgets/HexWidget.cpp" line="1437"/>
+        <location filename="../widgets/HexWidget.cpp" line="201"/>
+        <location filename="../widgets/HexWidget.cpp" line="1451"/>
         <source>Write hex bytes</source>
         <translation>Écrire des octets hexadécimaux</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="202"/>
-        <location filename="../widgets/HexWidget.cpp" line="1473"/>
+        <location filename="../widgets/HexWidget.cpp" line="205"/>
+        <location filename="../widgets/HexWidget.cpp" line="1487"/>
         <source>Write zeros</source>
         <translation>Écrire des zéros</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="206"/>
-        <location filename="../widgets/HexWidget.cpp" line="1529"/>
+        <location filename="../widgets/HexWidget.cpp" line="209"/>
+        <location filename="../widgets/HexWidget.cpp" line="1543"/>
         <source>Write random bytes</source>
         <translation>Écrire des octets aléatoires</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="210"/>
+        <location filename="../widgets/HexWidget.cpp" line="213"/>
         <source>Duplicate from offset</source>
         <translation>Dupliquer à partir du décalage</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="214"/>
+        <location filename="../widgets/HexWidget.cpp" line="217"/>
         <source>Increment/Decrement</source>
         <translation>Incrément/Décrément</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="218"/>
+        <location filename="../widgets/HexWidget.cpp" line="221"/>
         <source>Edit with keyboard</source>
         <translation>Modifier avec le clavier</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="1201"/>
+        <location filename="../widgets/HexWidget.cpp" line="1212"/>
         <source>Edit Comment</source>
         <translation>Modifier le commentaire</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="1210"/>
+        <location filename="../widgets/HexWidget.cpp" line="1221"/>
         <source>Rename flag &quot;%1&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="1218"/>
+        <location filename="../widgets/HexWidget.cpp" line="1229"/>
         <source>Item size:</source>
         <translation>Taille de l&apos;élément :</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="1220"/>
+        <location filename="../widgets/HexWidget.cpp" line="1231"/>
         <source>Item format:</source>
         <translation>Format de l&apos;élément :</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="1225"/>
+        <location filename="../widgets/HexWidget.cpp" line="1236"/>
         <source>Edit</source>
         <translation>Modifier</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="1245"/>
-        <location filename="../widgets/HexWidget.cpp" line="1254"/>
+        <location filename="../widgets/HexWidget.cpp" line="1256"/>
+        <location filename="../widgets/HexWidget.cpp" line="1265"/>
         <source>Edit Mark</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="1246"/>
-        <location filename="../widgets/HexWidget.cpp" line="1255"/>
+        <location filename="../widgets/HexWidget.cpp" line="1257"/>
+        <location filename="../widgets/HexWidget.cpp" line="1266"/>
         <source>Remove Mark</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="1391"/>
-        <location filename="../widgets/HexWidget.cpp" line="1567"/>
-        <location filename="../widgets/HexWidget.cpp" line="1585"/>
-        <location filename="../widgets/HexWidget.cpp" line="1603"/>
+        <location filename="../widgets/HexWidget.cpp" line="1404"/>
+        <location filename="../widgets/HexWidget.cpp" line="1581"/>
+        <location filename="../widgets/HexWidget.cpp" line="1599"/>
+        <location filename="../widgets/HexWidget.cpp" line="1618"/>
         <source>String:</source>
         <translation>Chaîne de caractères :</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="1437"/>
+        <location filename="../widgets/HexWidget.cpp" line="1451"/>
         <source>Hex byte string:</source>
         <translation>Chaîne d&apos;octets hexadécimale :</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="1473"/>
+        <location filename="../widgets/HexWidget.cpp" line="1487"/>
         <source>Number of zeros:</source>
         <translation>Nombre de zéros :</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="1500"/>
+        <location filename="../widgets/HexWidget.cpp" line="1514"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="1501"/>
+        <location filename="../widgets/HexWidget.cpp" line="1515"/>
         <source>Error occured during decoding your input.
 Please, make sure, that it is a valid base64 string and try again.</source>
         <translation>Une erreur s&apos;est produite lors du décodage de votre entrée.
@@ -6019,17 +6228,17 @@ Veuillez vous assurer qu&apos;il s&apos;agit d&apos;une chaîne base64 valide et
         <translation type="vanished">Écrire des octets aléatoires</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="1529"/>
+        <location filename="../widgets/HexWidget.cpp" line="1543"/>
         <source>Number of bytes:</source>
         <translation>Nombre d&apos;octets :</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="1567"/>
+        <location filename="../widgets/HexWidget.cpp" line="1581"/>
         <source>Write Pascal string</source>
         <translation>Écrire une chaîne de caractères en Pascal</translation>
     </message>
     <message>
-        <location filename="../widgets/HexWidget.cpp" line="1603"/>
+        <location filename="../widgets/HexWidget.cpp" line="1617"/>
         <source>Write zero-terminated string</source>
         <translation>Écriture d&apos;une chaîne de caractères à terminaison nulle</translation>
     </message>
@@ -6166,27 +6375,27 @@ Veuillez vous assurer qu&apos;il s&apos;agit d&apos;une chaîne base64 valide et
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/HexdumpWidget.cpp" line="50"/>
+        <location filename="../widgets/HexdumpWidget.cpp" line="49"/>
         <source>Select bytes to display information</source>
         <translation>Sélectionnez les octets pour afficher les informations</translation>
     </message>
     <message>
-        <location filename="../widgets/HexdumpWidget.cpp" line="143"/>
+        <location filename="../widgets/HexdumpWidget.cpp" line="158"/>
         <source>Disassembly</source>
         <translation>Désassembleur</translation>
     </message>
     <message>
-        <location filename="../widgets/HexdumpWidget.cpp" line="144"/>
+        <location filename="../widgets/HexdumpWidget.cpp" line="159"/>
         <source>String</source>
         <translation>Chaîne</translation>
     </message>
     <message>
-        <location filename="../widgets/HexdumpWidget.cpp" line="145"/>
+        <location filename="../widgets/HexdumpWidget.cpp" line="160"/>
         <source>Assembler</source>
         <translation>Assembleur</translation>
     </message>
     <message>
-        <location filename="../widgets/HexdumpWidget.cpp" line="146"/>
+        <location filename="../widgets/HexdumpWidget.cpp" line="161"/>
         <source>C bytes</source>
         <translation>Octets C</translation>
     </message>
@@ -6195,43 +6404,43 @@ Veuillez vous assurer qu&apos;il s&apos;agit d&apos;une chaîne base64 valide et
         <translation type="vanished">Octets C avec instructions</translation>
     </message>
     <message>
-        <location filename="../widgets/HexdumpWidget.cpp" line="147"/>
+        <location filename="../widgets/HexdumpWidget.cpp" line="162"/>
         <source>C half-words (2 byte)</source>
         <translation>Demi-mots C (2 octets)</translation>
     </message>
     <message>
-        <location filename="../widgets/HexdumpWidget.cpp" line="148"/>
+        <location filename="../widgets/HexdumpWidget.cpp" line="163"/>
         <source>C words (4 byte)</source>
         <translation>Mots C (4 octets)</translation>
     </message>
     <message>
-        <location filename="../widgets/HexdumpWidget.cpp" line="149"/>
+        <location filename="../widgets/HexdumpWidget.cpp" line="164"/>
         <source>C dwords (8 byte)</source>
         <translation>Double-mots C (8 octets)</translation>
     </message>
     <message>
-        <location filename="../widgets/HexdumpWidget.cpp" line="150"/>
+        <location filename="../widgets/HexdumpWidget.cpp" line="165"/>
         <source>Python</source>
         <translation>Python</translation>
     </message>
     <message>
-        <location filename="../widgets/HexdumpWidget.cpp" line="151"/>
+        <location filename="../widgets/HexdumpWidget.cpp" line="166"/>
         <source>JSON</source>
         <translation>JSON</translation>
     </message>
     <message>
-        <location filename="../widgets/HexdumpWidget.cpp" line="152"/>
+        <location filename="../widgets/HexdumpWidget.cpp" line="167"/>
         <source>JavaScript</source>
         <translation>JavaScript</translation>
     </message>
     <message>
-        <location filename="../widgets/HexdumpWidget.cpp" line="153"/>
+        <location filename="../widgets/HexdumpWidget.cpp" line="168"/>
         <source>Yara</source>
         <translation>Yara</translation>
     </message>
     <message>
         <location filename="../widgets/HexdumpWidget.ui" line="20"/>
-        <location filename="../widgets/HexdumpWidget.cpp" line="218"/>
+        <location filename="../widgets/HexdumpWidget.cpp" line="233"/>
         <source>Hexdump</source>
         <translation>Hexdump</translation>
     </message>
@@ -6239,37 +6448,37 @@ Veuillez vous assurer qu&apos;il s&apos;agit d&apos;une chaîne base64 valide et
 <context>
     <name>ImportsModel</name>
     <message>
-        <location filename="../widgets/ImportsWidget.cpp" line="45"/>
+        <location filename="../widgets/ImportsWidget.cpp" line="48"/>
         <source>Unsafe</source>
         <translation>Non sûr</translation>
     </message>
     <message>
-        <location filename="../widgets/ImportsWidget.cpp" line="71"/>
+        <location filename="../widgets/ImportsWidget.cpp" line="74"/>
         <source>Address</source>
         <translation>Adresse</translation>
     </message>
     <message>
-        <location filename="../widgets/ImportsWidget.cpp" line="73"/>
+        <location filename="../widgets/ImportsWidget.cpp" line="76"/>
         <source>Type</source>
         <translation>Type</translation>
     </message>
     <message>
-        <location filename="../widgets/ImportsWidget.cpp" line="75"/>
+        <location filename="../widgets/ImportsWidget.cpp" line="78"/>
         <source>Safety</source>
         <translation>Sécurité</translation>
     </message>
     <message>
-        <location filename="../widgets/ImportsWidget.cpp" line="77"/>
+        <location filename="../widgets/ImportsWidget.cpp" line="80"/>
         <source>Library</source>
         <translation>Bibliothèque</translation>
     </message>
     <message>
-        <location filename="../widgets/ImportsWidget.cpp" line="79"/>
+        <location filename="../widgets/ImportsWidget.cpp" line="82"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="../widgets/ImportsWidget.cpp" line="81"/>
+        <location filename="../widgets/ImportsWidget.cpp" line="84"/>
         <source>Comment</source>
         <translation>Commentaire</translation>
     </message>
@@ -6277,12 +6486,12 @@ Veuillez vous assurer qu&apos;il s&apos;agit d&apos;une chaîne base64 valide et
 <context>
     <name>ImportsWidget</name>
     <message>
-        <location filename="../widgets/ImportsWidget.cpp" line="172"/>
+        <location filename="../widgets/ImportsWidget.cpp" line="178"/>
         <source>Imports</source>
         <translation>Imports</translation>
     </message>
     <message>
-        <location filename="../shortcuts/DefaultShortcuts.cpp" line="283"/>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="291"/>
         <source>Toggle Imports Window</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6315,22 +6524,22 @@ Veuillez vous assurer qu&apos;il s&apos;agit d&apos;une chaîne base64 valide et
         <translation>Décrémentation</translation>
     </message>
     <message>
-        <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
+        <location filename="../dialogs/WriteCommandsDialogs.cpp" line="35"/>
         <source>Byte</source>
         <translation>Octet</translation>
     </message>
     <message>
-        <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
+        <location filename="../dialogs/WriteCommandsDialogs.cpp" line="35"/>
         <source>Word</source>
         <translation>Mot</translation>
     </message>
     <message>
-        <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
+        <location filename="../dialogs/WriteCommandsDialogs.cpp" line="35"/>
         <source>Dword</source>
         <translation>Dword</translation>
     </message>
     <message>
-        <location filename="../dialogs/WriteCommandsDialogs.cpp" line="33"/>
+        <location filename="../dialogs/WriteCommandsDialogs.cpp" line="35"/>
         <source>Qword</source>
         <translation>Qword</translation>
     </message>
@@ -6349,7 +6558,7 @@ Veuillez vous assurer qu&apos;il s&apos;agit d&apos;une chaîne base64 valide et
     </message>
     <message>
         <location filename="../dialogs/InitialOptionsDialog.ui" line="167"/>
-        <location filename="../dialogs/InitialOptionsDialog.cpp" line="457"/>
+        <location filename="../dialogs/InitialOptionsDialog.cpp" line="491"/>
         <source>Analysis: Enabled</source>
         <translation>Analyse : Activée</translation>
     </message>
@@ -6365,11 +6574,11 @@ Veuillez vous assurer qu&apos;il s&apos;agit d&apos;une chaîne base64 valide et
     </message>
     <message>
         <location filename="../dialogs/InitialOptionsDialog.ui" line="259"/>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="655"/>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="715"/>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="763"/>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="808"/>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="833"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="653"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="713"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="761"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="806"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="831"/>
         <location filename="../dialogs/InitialOptionsDialog.cpp" line="43"/>
         <source>Auto</source>
         <translation>Auto</translation>
@@ -6385,7 +6594,7 @@ Veuillez vous assurer qu&apos;il s&apos;agit d&apos;une chaîne base64 valide et
     </message>
     <message>
         <location filename="../dialogs/InitialOptionsDialog.ui" line="364"/>
-        <location filename="../dialogs/InitialOptionsDialog.cpp" line="443"/>
+        <location filename="../dialogs/InitialOptionsDialog.cpp" line="477"/>
         <source>Advanced</source>
         <translation>Avancé</translation>
     </message>
@@ -6415,128 +6624,138 @@ Veuillez vous assurer qu&apos;il s&apos;agit d&apos;une chaîne base64 valide et
         <translation>...</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="599"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="598"/>
         <source>Advanced options</source>
         <translation>Options avancées</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="629"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="627"/>
         <source>CPU options</source>
         <translation>Options du Processeur</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="644"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="642"/>
         <source>Architecture:</source>
         <translation>Architecture :</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="669"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="667"/>
         <source>CPU:</source>
         <translation>CPU :</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="707"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="705"/>
         <source>Bits: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="720"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="718"/>
         <source>8</source>
         <translation>8</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="725"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="723"/>
         <source>16</source>
         <translation>16</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="730"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="728"/>
         <source>32</source>
         <translation>32</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="735"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="733"/>
         <source>64</source>
         <translation>64</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="749"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="747"/>
         <source>Endianness: </source>
         <translation>Boutisme : </translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="768"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="766"/>
         <source>Little</source>
         <translation>Petit</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="773"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="771"/>
         <source>Big</source>
         <translation>Grand</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="794"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="792"/>
         <source>Kernel: </source>
         <translation>Noyau : </translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="822"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="820"/>
         <source>Format:</source>
         <translation>Format :</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="876"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="874"/>
         <source>Load bin offset (-B)</source>
         <translation>Charger les offsets du binaire (-B)</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="895"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="893"/>
         <source>1024</source>
         <translation>1024</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="914"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="912"/>
         <source>Map offset (-m)</source>
         <translation>Tracer l&apos;offset (-m)</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="930"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="928"/>
         <source>0x40000</source>
         <translation>0x40000</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="937"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="935"/>
         <source>Load PDB</source>
         <translation>Charger PDB</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="962"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="960"/>
         <source>PDB File path</source>
         <translation>Chemin du fichier PDB</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="969"/>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="1011"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="967"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="1009"/>
         <source>Select</source>
         <translation>Sélectionner</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="979"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="977"/>
         <source>Load script file</source>
         <translation>Charger le fichier de script</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="1004"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="1002"/>
         <source>Path to Rizin script file</source>
         <translation>Chemin d&apos;accès au fichier script Rizin</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="1067"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="1019"/>
+        <source>Debuginfod</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="1047"/>
+        <source>Debuginfod urls</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="1103"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.ui" line="1080"/>
+        <location filename="../dialogs/InitialOptionsDialog.ui" line="1116"/>
         <source>  Ok  </source>
         <translation>  Ok  </translation>
     </message>
@@ -6616,72 +6835,72 @@ Veuillez vous assurer qu&apos;il s&apos;agit d&apos;une chaîne base64 valide et
         <translation>Continuer l&apos;analyse après chaque fonction</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.cpp" line="437"/>
+        <location filename="../dialogs/InitialOptionsDialog.cpp" line="471"/>
         <source>No analysis</source>
         <translation>Pas d&apos;analyse</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.cpp" line="439"/>
+        <location filename="../dialogs/InitialOptionsDialog.cpp" line="473"/>
         <source>Auto-Analysis (aaa)</source>
         <translation>Analyse automatique (aaa)</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.cpp" line="441"/>
+        <location filename="../dialogs/InitialOptionsDialog.cpp" line="475"/>
         <source>Auto-Analysis Experimental (aaaa)</source>
         <translation>Auto-analyse expérimentale (aaaa)</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.cpp" line="445"/>
+        <location filename="../dialogs/InitialOptionsDialog.cpp" line="479"/>
         <source>Unknown</source>
         <translation>Inconnu</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.cpp" line="451"/>
+        <location filename="../dialogs/InitialOptionsDialog.cpp" line="485"/>
         <source>Level</source>
         <translation>Niveau</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.cpp" line="454"/>
+        <location filename="../dialogs/InitialOptionsDialog.cpp" line="488"/>
         <source>Analysis: Disabled</source>
         <translation>Analyse : Désactivée</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.cpp" line="500"/>
+        <location filename="../dialogs/InitialOptionsDialog.cpp" line="534"/>
         <source>Select PDB file</source>
         <translation>Sélectionner un fichier PDB</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.cpp" line="501"/>
+        <location filename="../dialogs/InitialOptionsDialog.cpp" line="535"/>
         <source>PDB file (*.pdb)</source>
         <translation>Fichier PDB (*.pdb)</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.cpp" line="501"/>
-        <location filename="../dialogs/InitialOptionsDialog.cpp" line="523"/>
+        <location filename="../dialogs/InitialOptionsDialog.cpp" line="535"/>
+        <location filename="../dialogs/InitialOptionsDialog.cpp" line="561"/>
         <source>All files (*)</source>
         <translation>Tous les fichiers (*)</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.cpp" line="522"/>
+        <location filename="../dialogs/InitialOptionsDialog.cpp" line="560"/>
         <source>Select Rizin script file</source>
         <translation>Sélectionnez le fichier de script Rizin</translation>
     </message>
     <message>
-        <location filename="../dialogs/InitialOptionsDialog.cpp" line="523"/>
+        <location filename="../dialogs/InitialOptionsDialog.cpp" line="561"/>
         <source>Script file (*.rz)</source>
         <translation>Fichier de script (*.rz)</translation>
     </message>
     <message>
-        <location filename="../common/InitialOptions.h" line="46"/>
-        <location filename="../core/MainWindow.cpp" line="1690"/>
-        <location filename="../CutterApplication.cpp" line="532"/>
-        <location filename="../dialogs/InitialOptionsDialog.cpp" line="380"/>
+        <location filename="../common/InitialOptions.h" line="48"/>
+        <location filename="../core/MainWindow.cpp" line="1754"/>
+        <location filename="../CutterApplication.cpp" line="534"/>
+        <location filename="../dialogs/InitialOptionsDialog.cpp" line="413"/>
         <source>Auto analysis</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="538"/>
-        <location filename="../dialogs/InitialOptionsDialog.cpp" line="384"/>
+        <location filename="../CutterApplication.cpp" line="540"/>
+        <location filename="../dialogs/InitialOptionsDialog.cpp" line="417"/>
         <source>Auto analysis (experimental)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6699,15 +6918,107 @@ Veuillez vous assurer qu&apos;il s&apos;agit d&apos;une chaîne base64 valide et
         <translation>TextLabel</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/InitializationFileEditor.cpp" line="35"/>
+        <location filename="../dialogs/preferences/InitializationFileEditor.cpp" line="33"/>
         <source>Script is loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
         <translation>Le script est chargé depuis &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/InitializationFileEditor.cpp" line="39"/>
+        <location filename="../dialogs/preferences/InitializationFileEditor.cpp" line="37"/>
         <source>Execute</source>
         <comment>script</comment>
         <translation type="unfinished">Exécuter</translation>
+    </message>
+</context>
+<context>
+    <name>InterfaceOptionsWidget</name>
+    <message>
+        <location filename="../dialogs/preferences/InterfaceOptionsWidget.ui" line="14"/>
+        <source>Interface</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/InterfaceOptionsWidget.ui" line="50"/>
+        <source>Functions</source>
+        <translation type="unfinished">Fonctions</translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/InterfaceOptionsWidget.ui" line="61"/>
+        <location filename="../dialogs/preferences/InterfaceOptionsWidget.ui" line="77"/>
+        <source>Sets the default width for function name columns in widgets. In Functions widget the width is only applied if in Horizontal view</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/InterfaceOptionsWidget.ui" line="64"/>
+        <source>Limit function name column width to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/InterfaceOptionsWidget.ui" line="80"/>
+        <source>px</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/InterfaceOptionsWidget.ui" line="95"/>
+        <source>Omnibar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/InterfaceOptionsWidget.ui" line="106"/>
+        <source>Only show the number of entries equal to set value when searching inside omnibar. If unchecked all entries will be shown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/InterfaceOptionsWidget.ui" line="109"/>
+        <source>Limit entries by default to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/InterfaceOptionsWidget.ui" line="136"/>
+        <source>Number of entries to add when clicking &quot;Show More&quot; inside omnibar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/InterfaceOptionsWidget.ui" line="139"/>
+        <source>On &quot;Show More&quot; increment entries by</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/InterfaceOptionsWidget.ui" line="164"/>
+        <source>Quick FIlter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/InterfaceOptionsWidget.ui" line="173"/>
+        <source>Show Quick Filter by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/InterfaceOptionsWidget.ui" line="183"/>
+        <source>Show Item Count in Quick Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/InterfaceOptionsWidget.ui" line="193"/>
+        <source>Hide Item Count on overflow</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>IntervalDialog</name>
+    <message>
+        <location filename="../dialogs/IntervalDialog.cpp" line="12"/>
+        <source>Set Interval for %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/IntervalDialog.cpp" line="27"/>
+        <source>Address</source>
+        <translation type="unfinished">Adresse</translation>
+    </message>
+    <message>
+        <location filename="../dialogs/IntervalDialog.cpp" line="28"/>
+        <source>Size</source>
+        <translation type="unfinished">Taille</translation>
     </message>
 </context>
 <context>
@@ -6731,32 +7042,32 @@ Veuillez vous assurer qu&apos;il s&apos;agit d&apos;une chaîne base64 valide et
     </message>
     <message>
         <location filename="../dialogs/LayoutManager.ui" line="32"/>
-        <location filename="../dialogs/LayoutManager.cpp" line="60"/>
+        <location filename="../dialogs/LayoutManager.cpp" line="63"/>
         <source>Delete</source>
         <translation>Supprimer</translation>
     </message>
     <message>
-        <location filename="../dialogs/LayoutManager.cpp" line="42"/>
+        <location filename="../dialogs/LayoutManager.cpp" line="45"/>
         <source>Rename layout error</source>
         <translation>Erreur de renommage de la mise en page</translation>
     </message>
     <message>
-        <location filename="../dialogs/LayoutManager.cpp" line="43"/>
+        <location filename="../dialogs/LayoutManager.cpp" line="46"/>
         <source>&apos;%1&apos; is already used.</source>
         <translation>« %1 » est déjà utilisé.</translation>
     </message>
     <message>
-        <location filename="../dialogs/LayoutManager.cpp" line="45"/>
+        <location filename="../dialogs/LayoutManager.cpp" line="48"/>
         <source>Save layout</source>
         <translation>Sauvegarder la disposition</translation>
     </message>
     <message>
-        <location filename="../dialogs/LayoutManager.cpp" line="45"/>
+        <location filename="../dialogs/LayoutManager.cpp" line="48"/>
         <source>Enter name</source>
         <translation>Entrez le nom</translation>
     </message>
     <message>
-        <location filename="../dialogs/LayoutManager.cpp" line="61"/>
+        <location filename="../dialogs/LayoutManager.cpp" line="64"/>
         <source>Do you want to delete &apos;%1&apos;</source>
         <translation>Voulez-vous supprimer « %1 »</translation>
     </message>
@@ -6769,9 +7080,8 @@ Veuillez vous assurer qu&apos;il s&apos;agit d&apos;une chaîne base64 valide et
         <translation>Ajouter une option...</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="61"/>
         <source>File</source>
-        <translation>Fichier</translation>
+        <translation type="vanished">Fichier</translation>
     </message>
     <message>
         <location filename="../core/MainWindow.ui" line="68"/>
@@ -6779,8 +7089,7 @@ Veuillez vous assurer qu&apos;il s&apos;agit d&apos;une chaîne base64 valide et
         <translation>Définir le mode</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="97"/>
-        <location filename="../core/MainWindow.cpp" line="296"/>
+        <location filename="../core/MainWindow.cpp" line="295"/>
         <source>View</source>
         <translation>Affichage</translation>
     </message>
@@ -6795,30 +7104,26 @@ Veuillez vous assurer qu&apos;il s&apos;agit d&apos;une chaîne base64 valide et
         <translation>Mises en page</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="133"/>
         <source>Tools</source>
-        <translation>Outils</translation>
+        <translation type="vanished">Outils</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="139"/>
         <source>Help</source>
-        <translation>Aide</translation>
+        <translation type="vanished">Aide</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="147"/>
-        <location filename="../core/MainWindow.ui" line="513"/>
+        <location filename="../core/MainWindow.ui" line="514"/>
         <source>Edit</source>
         <translation>Modifier</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="156"/>
         <source>Windows</source>
-        <translation>Fenêtres</translation>
+        <translation type="vanished">Fenêtres</translation>
     </message>
     <message>
         <location filename="../core/MainWindow.ui" line="160"/>
+        <location filename="../core/MainWindow.cpp" line="146"/>
         <location filename="../core/MainWindow.cpp" line="147"/>
-        <location filename="../core/MainWindow.cpp" line="148"/>
         <source>Plugins</source>
         <translation>Plugins</translation>
     </message>
@@ -6828,14 +7133,52 @@ Veuillez vous assurer qu&apos;il s&apos;agit d&apos;une chaîne base64 valide et
         <translation>Infos...</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="170"/>
         <source>Debug...</source>
-        <translation>Débogage en cours...</translation>
+        <translation type="vanished">Débogage en cours...</translation>
+    </message>
+    <message>
+        <source>Debug</source>
+        <translation type="vanished">Débogage</translation>
+    </message>
+    <message>
+        <location filename="../core/MainWindow.ui" line="61"/>
+        <source>&amp;File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../core/MainWindow.ui" line="97"/>
+        <source>&amp;View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../core/MainWindow.ui" line="133"/>
+        <source>&amp;Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../core/MainWindow.ui" line="139"/>
+        <source>&amp;Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../core/MainWindow.ui" line="147"/>
+        <source>&amp;Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../core/MainWindow.ui" line="156"/>
+        <source>&amp;Windows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../core/MainWindow.ui" line="170"/>
+        <source>&amp;Debug...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../core/MainWindow.ui" line="185"/>
-        <source>Debug</source>
-        <translation>Débogage</translation>
+        <source>&amp;Debug</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../core/MainWindow.ui" line="207"/>
@@ -6890,8 +7233,8 @@ Veuillez vous assurer qu&apos;il s&apos;agit d&apos;une chaîne base64 valide et
     <message>
         <location filename="../core/MainWindow.ui" line="273"/>
         <location filename="../core/MainWindow.ui" line="276"/>
-        <location filename="../core/MainWindow.ui" line="872"/>
-        <location filename="../core/MainWindow.cpp" line="1252"/>
+        <location filename="../core/MainWindow.ui" line="873"/>
+        <location filename="../core/MainWindow.cpp" line="1326"/>
         <source>Save layout</source>
         <translation>Sauvegarder la disposition</translation>
     </message>
@@ -6912,8 +7255,8 @@ Veuillez vous assurer qu&apos;il s&apos;agit d&apos;une chaîne base64 valide et
     </message>
     <message>
         <location filename="../core/MainWindow.ui" line="294"/>
-        <location filename="../core/MainWindow.cpp" line="735"/>
-        <location filename="../core/MainWindow.cpp" line="760"/>
+        <location filename="../core/MainWindow.cpp" line="767"/>
+        <location filename="../core/MainWindow.cpp" line="793"/>
         <source>Save Project</source>
         <translation>Sauvegarder le projet</translation>
     </message>
@@ -6934,7 +7277,7 @@ Veuillez vous assurer qu&apos;il s&apos;agit d&apos;une chaîne base64 valide et
     </message>
     <message>
         <location filename="../core/MainWindow.ui" line="312"/>
-        <location filename="../core/MainWindow.ui" line="518"/>
+        <location filename="../core/MainWindow.ui" line="519"/>
         <source>Paste</source>
         <translation>Coller</translation>
     </message>
@@ -6984,197 +7327,197 @@ Veuillez vous assurer qu&apos;il s&apos;agit d&apos;une chaîne base64 valide et
         <translation>Refaire la recherche</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="378"/>
+        <location filename="../core/MainWindow.ui" line="383"/>
         <source>Unlock Panels</source>
         <translation>Déverrouiller les panneaux</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="381"/>
+        <location filename="../core/MainWindow.ui" line="386"/>
         <source>Toggle panel locks</source>
         <translation>Activer/désactiver les verrous du panneau</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="400"/>
+        <location filename="../core/MainWindow.ui" line="401"/>
         <source>Theme</source>
         <translation>Thème</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="415"/>
-        <location filename="../core/MainWindow.ui" line="418"/>
+        <location filename="../core/MainWindow.ui" line="416"/>
+        <location filename="../core/MainWindow.ui" line="419"/>
         <source>Tabs up/down</source>
         <translation>Onglets haut/bas</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="427"/>
+        <location filename="../core/MainWindow.ui" line="428"/>
         <source>Refresh</source>
         <translation>Rafraîchir</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="435"/>
+        <location filename="../core/MainWindow.ui" line="436"/>
         <source>Show Tabs at the Top</source>
         <translation>Afficher les onglets en haut</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="438"/>
+        <location filename="../core/MainWindow.ui" line="439"/>
         <source>Toggle tab position</source>
         <translation>Basculer la position des onglets</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="443"/>
+        <location filename="../core/MainWindow.ui" line="444"/>
         <source>Dark Theme</source>
         <translation>Thème Sombre</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="448"/>
-        <location filename="../core/MainWindow.ui" line="451"/>
+        <location filename="../core/MainWindow.ui" line="449"/>
+        <location filename="../core/MainWindow.ui" line="452"/>
         <source>Load layout</source>
         <translation>Charger la disposition</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="456"/>
+        <location filename="../core/MainWindow.ui" line="457"/>
         <source>Default Theme</source>
         <translation>Thème par défaut</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="461"/>
+        <location filename="../core/MainWindow.ui" line="462"/>
         <source>Bindiff</source>
         <translation>BinDiff</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="466"/>
+        <location filename="../core/MainWindow.ui" line="467"/>
         <source>Analysis</source>
         <translation>Analyse</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="471"/>
+        <location filename="../core/MainWindow.ui" line="472"/>
         <source>Test menu</source>
         <translation>Menu de test</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="476"/>
-        <location filename="../core/MainWindow.ui" line="479"/>
+        <location filename="../core/MainWindow.ui" line="477"/>
+        <location filename="../core/MainWindow.ui" line="480"/>
         <source>Copy hexpair</source>
         <translation>Copier la paire hexadécimale</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="484"/>
-        <location filename="../core/MainWindow.ui" line="487"/>
+        <location filename="../core/MainWindow.ui" line="485"/>
+        <location filename="../core/MainWindow.ui" line="488"/>
         <source>Copy text</source>
         <translation>Copier le texte</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="492"/>
+        <location filename="../core/MainWindow.ui" line="493"/>
         <source>Copy ASCII</source>
         <translation>Copier l&apos;ASCII</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="497"/>
-        <location filename="../core/MainWindow.ui" line="500"/>
+        <location filename="../core/MainWindow.ui" line="498"/>
+        <location filename="../core/MainWindow.ui" line="501"/>
         <source>Insert string</source>
         <translation>Insérer une chaine de caractères</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="505"/>
-        <location filename="../core/MainWindow.ui" line="508"/>
+        <location filename="../core/MainWindow.ui" line="506"/>
+        <location filename="../core/MainWindow.ui" line="509"/>
         <source>Insert hex</source>
         <translation>Insérer de l&apos;hexadécimal</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="523"/>
+        <location filename="../core/MainWindow.ui" line="524"/>
         <source>Show/Hide bytes</source>
         <translation>Afficher/Masquer les octets</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="528"/>
+        <location filename="../core/MainWindow.ui" line="529"/>
         <source>Switch case</source>
         <translation>Switch case</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="533"/>
-        <location filename="../core/MainWindow.ui" line="536"/>
+        <location filename="../core/MainWindow.ui" line="534"/>
+        <location filename="../core/MainWindow.ui" line="537"/>
         <source>Copy all</source>
         <translation>Tout copier</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="541"/>
-        <location filename="../core/MainWindow.ui" line="544"/>
+        <location filename="../core/MainWindow.ui" line="542"/>
+        <location filename="../core/MainWindow.ui" line="545"/>
         <source>Copy bytes</source>
         <translation>Copier les octets</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="549"/>
-        <location filename="../core/MainWindow.ui" line="552"/>
-        <location filename="../core/MainWindow.ui" line="557"/>
-        <location filename="../core/MainWindow.ui" line="560"/>
+        <location filename="../core/MainWindow.ui" line="550"/>
+        <location filename="../core/MainWindow.ui" line="553"/>
+        <location filename="../core/MainWindow.ui" line="558"/>
+        <location filename="../core/MainWindow.ui" line="561"/>
         <source>Copy disasm</source>
         <translation>Copier l&apos;asm</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="572"/>
-        <location filename="../core/MainWindow.ui" line="575"/>
+        <location filename="../core/MainWindow.ui" line="573"/>
+        <location filename="../core/MainWindow.ui" line="576"/>
         <source>Start web server</source>
         <translation>Démarrer le serveur web</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="580"/>
+        <location filename="../core/MainWindow.ui" line="581"/>
         <source>1</source>
         <translation>1</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="585"/>
+        <location filename="../core/MainWindow.ui" line="586"/>
         <source>2</source>
         <translation>2</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="590"/>
+        <location filename="../core/MainWindow.ui" line="591"/>
         <source>4</source>
         <translation>4</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="595"/>
+        <location filename="../core/MainWindow.ui" line="596"/>
         <source>8</source>
         <translation>8</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="600"/>
+        <location filename="../core/MainWindow.ui" line="601"/>
         <source>16</source>
         <translation>16</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="605"/>
+        <location filename="../core/MainWindow.ui" line="606"/>
         <source>32</source>
         <translation>32</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="610"/>
+        <location filename="../core/MainWindow.ui" line="611"/>
         <source>64</source>
         <translation>64</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="615"/>
+        <location filename="../core/MainWindow.ui" line="616"/>
         <source>Syntax AT&amp;T/Intel</source>
         <translation>Syntaxe AT&amp;T/Intel</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="620"/>
-        <location filename="../core/MainWindow.ui" line="630"/>
+        <location filename="../core/MainWindow.ui" line="621"/>
+        <location filename="../core/MainWindow.ui" line="631"/>
         <source>Rename</source>
         <translation>Renommer</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="625"/>
-        <location filename="../core/MainWindow.ui" line="635"/>
+        <location filename="../core/MainWindow.ui" line="626"/>
+        <location filename="../core/MainWindow.ui" line="636"/>
         <source>Undefine</source>
         <translation>Non défini</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="640"/>
+        <location filename="../core/MainWindow.ui" line="641"/>
         <source>Add comment</source>
         <translation>Ajouter un commentaire</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="652"/>
-        <location filename="../core/MainWindow.ui" line="655"/>
+        <location filename="../core/MainWindow.ui" line="653"/>
+        <location filename="../core/MainWindow.ui" line="656"/>
         <source>Show/Hide bottom panel</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7183,435 +7526,435 @@ Veuillez vous assurer qu&apos;il s&apos;agit d&apos;une chaîne base64 valide et
         <translation type="vanished">Afficher/Masquer le panel du bas</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="660"/>
+        <location filename="../core/MainWindow.ui" line="661"/>
         <source>Run Rizin script</source>
         <translation>Exécuter le script Rizin</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="665"/>
+        <location filename="../core/MainWindow.ui" line="666"/>
         <source>Reset Settings</source>
         <translation>Réinitialiser les paramètres</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="668"/>
+        <location filename="../core/MainWindow.ui" line="669"/>
         <source>Reset settings</source>
         <translation>Réinitialiser les paramètres</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="673"/>
+        <location filename="../core/MainWindow.ui" line="674"/>
         <source>Quit</source>
         <translation>Quitter</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="676"/>
+        <location filename="../core/MainWindow.ui" line="677"/>
         <source>Ctrl+Q</source>
         <translation>Ctrl+Q</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="684"/>
+        <location filename="../core/MainWindow.ui" line="685"/>
         <source>Exports</source>
         <translation>Exportations</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="687"/>
+        <location filename="../core/MainWindow.ui" line="688"/>
         <source>Show/Hide Exports panel</source>
         <translation>Afficher/Masquer le panel des exports</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="692"/>
+        <location filename="../core/MainWindow.ui" line="693"/>
         <location filename="../shortcuts/DefaultShortcuts.cpp" line="20"/>
         <source>Refresh Contents</source>
         <translation>Actualiser le contenu</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="695"/>
+        <location filename="../core/MainWindow.ui" line="696"/>
         <source>Refresh contents</source>
         <translation>Actualiser le contenu</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="703"/>
+        <location filename="../core/MainWindow.ui" line="704"/>
         <source>Show ESIL rather than assembly</source>
         <translation>Afficher ESIL plutôt que l&apos;assembleur</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="711"/>
+        <location filename="../core/MainWindow.ui" line="712"/>
         <source>Show pseudocode rather than assembly</source>
         <translation>Afficher le pseudocode plutôt que l&apos;assembleur</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="722"/>
+        <location filename="../core/MainWindow.ui" line="723"/>
         <source>Display offsets</source>
         <translation>Afficher les offsets</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="727"/>
+        <location filename="../core/MainWindow.ui" line="728"/>
         <source>Preferences</source>
         <translation>Préférences</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="732"/>
+        <location filename="../core/MainWindow.ui" line="733"/>
         <source>Save Project As...</source>
         <translation>Enregistrer le projet sous...</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="740"/>
+        <location filename="../core/MainWindow.ui" line="741"/>
         <source>Graph</source>
         <translation>Graphe</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="745"/>
+        <location filename="../core/MainWindow.ui" line="746"/>
         <source>Import PDB</source>
         <translation>Importer PDB</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="750"/>
+        <location filename="../core/MainWindow.ui" line="751"/>
         <source>Analyze Program</source>
         <translation>Analyser le programme</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="755"/>
-        <location filename="../core/MainWindow.cpp" line="1775"/>
+        <location filename="../core/MainWindow.ui" line="756"/>
+        <location filename="../core/MainWindow.cpp" line="1839"/>
         <source>Export as code</source>
         <translation>Exporter en tant que code</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="760"/>
-        <location filename="../core/MainWindow.cpp" line="1815"/>
+        <location filename="../core/MainWindow.ui" line="761"/>
+        <location filename="../core/MainWindow.cpp" line="1880"/>
         <source>Apply Signature From File</source>
         <translation>Appliquer une signature à partir d&apos;un fichier</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="765"/>
-        <location filename="../core/MainWindow.cpp" line="1836"/>
+        <location filename="../core/MainWindow.ui" line="766"/>
+        <location filename="../core/MainWindow.cpp" line="1901"/>
         <source>Create New Signature File</source>
         <translation>Créer un nouveau fichier de signature</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="770"/>
+        <location filename="../core/MainWindow.ui" line="771"/>
         <source>Add Hexdump</source>
         <translation>Ajouter un dump hexadécimal</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="775"/>
+        <location filename="../core/MainWindow.ui" line="776"/>
         <source>Add Decompiler</source>
         <translation>Ajouter un décompilateur</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="780"/>
+        <location filename="../core/MainWindow.ui" line="781"/>
         <source>Add Disassembly</source>
         <translation>Ajouter un désassemblage</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="785"/>
+        <location filename="../core/MainWindow.ui" line="786"/>
         <source>Add Graph</source>
         <translation>Ajouter un graphe</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="796"/>
+        <location filename="../core/MainWindow.ui" line="797"/>
         <source>Grouped dock dragging</source>
         <translation>Déplacement du dock groupé</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="801"/>
+        <location filename="../core/MainWindow.ui" line="802"/>
         <source>Zoom In</source>
         <translation>Zoom avant</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="804"/>
+        <location filename="../core/MainWindow.ui" line="805"/>
         <source>Ctrl++</source>
         <translation>Ctrl++</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="812"/>
+        <location filename="../core/MainWindow.ui" line="813"/>
         <source>Zoom Out</source>
         <translation>Zoom Arrière</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="815"/>
+        <location filename="../core/MainWindow.ui" line="816"/>
         <source>Ctrl+-</source>
         <translation>Ctrl+-</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="823"/>
+        <location filename="../core/MainWindow.ui" line="824"/>
         <source>Reset</source>
         <translation>Réinitialiser</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="826"/>
+        <location filename="../core/MainWindow.ui" line="827"/>
         <source>Ctrl+=</source>
         <translation>Ctrl+=</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="834"/>
+        <location filename="../core/MainWindow.ui" line="835"/>
         <source>Commit changes</source>
         <translation>Valider les modifications</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="842"/>
+        <location filename="../core/MainWindow.ui" line="843"/>
         <source>Write mode</source>
         <translation>Mode écriture</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="845"/>
+        <location filename="../core/MainWindow.ui" line="846"/>
         <source>Open the file in write mode. Every change to the file will change the original file on disk.</source>
         <translation>Ouvrez le fichier en mode écriture. Chaque modification apportée au fichier modifiera le fichier original sur le disque.</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="853"/>
+        <location filename="../core/MainWindow.ui" line="854"/>
         <source>Cache mode</source>
         <translation>Mode cache</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="856"/>
+        <location filename="../core/MainWindow.ui" line="857"/>
         <source>Enable cache mode. Changes to the file would not be applied to disk unless you specifically commit them. This is a safer option.</source>
         <translation>Activez le mode cache. Les modifications apportées au fichier ne seront pas appliquées au disque à moins que vous ne les validiez spécifiquement. Il s&apos;agit d&apos;une option plus sûre.</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="867"/>
+        <location filename="../core/MainWindow.ui" line="868"/>
         <source>Read-Only mode</source>
         <translation>Mode lecture seule</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.ui" line="877"/>
+        <location filename="../core/MainWindow.ui" line="878"/>
         <source>Manage layouts</source>
         <translation>Gérer les mises en page</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="259"/>
+        <location filename="../core/MainWindow.cpp" line="258"/>
         <source>No plugins are installed. Check the plugins section on Cutter documentation to learn more.</source>
         <translation>Aucun plugin n&apos;est installé. Consultez la section sur les plugins dans la documentation de Cutter pour en savoir plus.</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="264"/>
+        <location filename="../core/MainWindow.cpp" line="263"/>
         <source>The installed plugins didn&apos;t add entries to this menu.</source>
         <translation>Les plugins installés n&apos;ont pas ajouté d&apos;entrées à ce menu.</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="278"/>
+        <location filename="../core/MainWindow.cpp" line="277"/>
         <source>Analyze the program using Rizin&apos;s &quot;aaa&quot; command</source>
         <translation>Analyser le programme en utilisant la commande Rizin &quot;aaa&quot;</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="546"/>
+        <location filename="../core/MainWindow.cpp" line="585"/>
         <source>Script loading</source>
         <translation>Chargement du script</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="547"/>
+        <location filename="../core/MainWindow.cpp" line="586"/>
         <source>Do you want to load the &apos;%1&apos; script?</source>
         <translation>Voulez-vous charger le script &apos;%1&apos; ?</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="565"/>
+        <location filename="../core/MainWindow.cpp" line="604"/>
         <source>Cannot open file!</source>
         <translation>Impossible d&apos;ouvrir le fichier !</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="566"/>
+        <location filename="../core/MainWindow.cpp" line="605"/>
         <source>Could not open the file! Make sure the file exists and that you have the correct permissions.</source>
         <translation>Impossible d&apos;ouvrir le fichier ! Assurez-vous que le fichier existe et que vous avez les permissions correctes.</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="629"/>
+        <location filename="../core/MainWindow.cpp" line="661"/>
         <source>Failed to open project: %1</source>
         <translation>Échec de l&apos;ouverture du projet : %1</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="634"/>
+        <location filename="../core/MainWindow.cpp" line="666"/>
         <source>Open Project</source>
         <translation>Ouvrir un projet</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="736"/>
+        <location filename="../core/MainWindow.cpp" line="768"/>
         <source>Rizin Project (*.rzdb)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="761"/>
+        <location filename="../core/MainWindow.cpp" line="794"/>
         <source>Failed to save project: %1</source>
         <translation>Impossible d&apos;enregistrer le projet : %1</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="789"/>
+        <location filename="../core/MainWindow.cpp" line="817"/>
         <source>Do you really want to exit?
 Save your project before closing!</source>
         <translation>Voulez-vous vraiment quitter ?
 Enregistrez votre projet avant de le fermer!</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1065"/>
+        <location filename="../core/MainWindow.cpp" line="1116"/>
         <source>New disassembly</source>
         <translation>Nouveau désassemblage</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1067"/>
+        <location filename="../core/MainWindow.cpp" line="1118"/>
         <source>New graph</source>
         <translation>Nouveau graphe</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1069"/>
+        <location filename="../core/MainWindow.cpp" line="1120"/>
         <source>New hexdump</source>
         <translation>Nouveau dump hexadécimal</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1070"/>
+        <location filename="../core/MainWindow.cpp" line="1121"/>
         <source>New Decompiler</source>
         <translation>Nouveau décompilateur</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1189"/>
+        <location filename="../core/MainWindow.cpp" line="1263"/>
         <source>current position (%1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1249"/>
+        <location filename="../core/MainWindow.cpp" line="1323"/>
         <source>Save layout error</source>
         <translation>Erreur d&apos;enregistrement de la mise en page</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1250"/>
+        <location filename="../core/MainWindow.cpp" line="1324"/>
         <source>&apos;%1&apos; is not a valid name.</source>
         <translation>« %1 » n&apos;est pas un nom valide.</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1252"/>
+        <location filename="../core/MainWindow.cpp" line="1326"/>
         <source>Enter name</source>
         <translation>Entrez le nom</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1563"/>
+        <location filename="../core/MainWindow.cpp" line="1633"/>
         <source>Select Rizin script</source>
         <translation>Sélectionnez le script Rizin</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1606"/>
+        <location filename="../core/MainWindow.cpp" line="1673"/>
         <source>Do you really want to clear all settings?</source>
         <translation>Voulez-vous vraiment rétablir les paramètres par défaut ?</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1706"/>
+        <location filename="../core/MainWindow.cpp" line="1770"/>
         <source>Select PDB file</source>
         <translation>Sélectionner un fichier PDB</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1707"/>
+        <location filename="../core/MainWindow.cpp" line="1771"/>
         <source>PDB file (*.pdb)</source>
         <translation>Fichier PDB (*.pdb)</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1707"/>
+        <location filename="../core/MainWindow.cpp" line="1771"/>
         <source>All files (*)</source>
         <translation>Tous les fichiers (*)</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1717"/>
+        <location filename="../core/MainWindow.cpp" line="1781"/>
         <source>%1 loaded.</source>
         <translation>%1 chargé.</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1728"/>
+        <location filename="../core/MainWindow.cpp" line="1792"/>
         <source>C uin8_t array (*.c)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1733"/>
+        <location filename="../core/MainWindow.cpp" line="1797"/>
         <source>C uin16_t array (*.c)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1735"/>
+        <location filename="../core/MainWindow.cpp" line="1799"/>
         <source>C uin32_t array (*.c)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1737"/>
+        <location filename="../core/MainWindow.cpp" line="1801"/>
         <source>C uin64_t array (*.c)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1742"/>
+        <location filename="../core/MainWindow.cpp" line="1806"/>
         <source>Go array (*.go)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1744"/>
+        <location filename="../core/MainWindow.cpp" line="1808"/>
         <source>Java array (*.java)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1746"/>
+        <location filename="../core/MainWindow.cpp" line="1810"/>
         <source>JSON array (*.json)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1748"/>
+        <location filename="../core/MainWindow.cpp" line="1812"/>
         <source>Kotlin array (*.kt)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1751"/>
+        <location filename="../core/MainWindow.cpp" line="1815"/>
         <source>Javascript array (*.js)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1753"/>
+        <location filename="../core/MainWindow.cpp" line="1817"/>
         <source>ObjectiveC array (*.m)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1755"/>
+        <location filename="../core/MainWindow.cpp" line="1819"/>
         <source>Python array (*.py)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1757"/>
+        <location filename="../core/MainWindow.cpp" line="1821"/>
         <source>Rust array (*.rs)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1760"/>
+        <location filename="../core/MainWindow.cpp" line="1824"/>
         <source>Swift array (*.swift)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1762"/>
+        <location filename="../core/MainWindow.cpp" line="1826"/>
         <source>Print &apos;wx&apos; Rizin commands (*.rz)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1764"/>
+        <location filename="../core/MainWindow.cpp" line="1828"/>
         <source>Shell-script that reconstructs the bin (*.sh)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1766"/>
+        <location filename="../core/MainWindow.cpp" line="1830"/>
         <source>GAS .byte blob (*.asm, *.s)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1769"/>
+        <location filename="../core/MainWindow.cpp" line="1833"/>
         <source>Yara (*.yar)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1772"/>
+        <location filename="../core/MainWindow.cpp" line="1836"/>
         <source>.bytes with instructions in comments (*.txt)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1786"/>
+        <location filename="../core/MainWindow.cpp" line="1851"/>
         <source>Can&apos;t open file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1811"/>
-        <location filename="../core/MainWindow.cpp" line="1833"/>
+        <location filename="../core/MainWindow.cpp" line="1876"/>
+        <location filename="../core/MainWindow.cpp" line="1898"/>
         <source>Signature File (*.sig)</source>
         <translation>Fichier de signature (*.sig)</translation>
     </message>
     <message>
-        <location filename="../core/MainWindow.cpp" line="1812"/>
-        <location filename="../core/MainWindow.cpp" line="1834"/>
+        <location filename="../core/MainWindow.cpp" line="1877"/>
+        <location filename="../core/MainWindow.cpp" line="1899"/>
         <source>Pattern File (*.pat)</source>
         <translation>Fichier de motifs (*.pat)</translation>
     </message>
@@ -7660,7 +8003,7 @@ Enregistrez votre projet avant de le fermer!</translation>
     </message>
     <message>
         <location filename="../dialogs/MapFileDialog.ui" line="52"/>
-        <location filename="../dialogs/MapFileDialog.cpp" line="18"/>
+        <location filename="../dialogs/MapFileDialog.cpp" line="23"/>
         <source>Select file</source>
         <translation>Sélectionner un fichier</translation>
     </message>
@@ -7679,12 +8022,12 @@ Enregistrez votre projet avant de le fermer!</translation>
         <translation type="vanished">Mapper un nouveau fichier</translation>
     </message>
     <message>
-        <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
+        <location filename="../dialogs/MapFileDialog.cpp" line="41"/>
         <source>Failed to map a new file</source>
         <translation>Échec du mappage d&apos;un nouveau fichier</translation>
     </message>
     <message>
-        <location filename="../dialogs/MapFileDialog.cpp" line="36"/>
+        <location filename="../dialogs/MapFileDialog.cpp" line="41"/>
         <source>Map new file</source>
         <translation>Mapper un nouveau fichier</translation>
     </message>
@@ -7727,35 +8070,35 @@ Enregistrez votre projet avant de le fermer!</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/MarkDialog.cpp" line="59"/>
-        <location filename="../dialogs/MarkDialog.cpp" line="65"/>
-        <location filename="../dialogs/MarkDialog.cpp" line="70"/>
-        <location filename="../dialogs/MarkDialog.cpp" line="79"/>
+        <location filename="../dialogs/MarkDialog.cpp" line="63"/>
+        <location filename="../dialogs/MarkDialog.cpp" line="69"/>
+        <location filename="../dialogs/MarkDialog.cpp" line="74"/>
+        <location filename="../dialogs/MarkDialog.cpp" line="83"/>
         <source>Invalid Input</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/MarkDialog.cpp" line="60"/>
+        <location filename="../dialogs/MarkDialog.cpp" line="64"/>
         <source>Starting address is not a valid hexadecimal number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/MarkDialog.cpp" line="66"/>
+        <location filename="../dialogs/MarkDialog.cpp" line="70"/>
         <source>Ending address is not a valid hexadecimal number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/MarkDialog.cpp" line="71"/>
+        <location filename="../dialogs/MarkDialog.cpp" line="75"/>
         <source>Starting address cannot be greater than ending address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/MarkDialog.cpp" line="79"/>
+        <location filename="../dialogs/MarkDialog.cpp" line="83"/>
         <source>Name cannot be empty</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/MarkDialog.cpp" line="94"/>
+        <location filename="../dialogs/MarkDialog.cpp" line="98"/>
         <source>Pick Background Color</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7763,27 +8106,27 @@ Enregistrez votre projet avant de le fermer!</translation>
 <context>
     <name>MemoryMapModel</name>
     <message>
-        <location filename="../widgets/MemoryMapWidget.cpp" line="57"/>
+        <location filename="../widgets/MemoryMapWidget.cpp" line="60"/>
         <source>Offset start</source>
         <translation>Début de l&apos;offset</translation>
     </message>
     <message>
-        <location filename="../widgets/MemoryMapWidget.cpp" line="59"/>
+        <location filename="../widgets/MemoryMapWidget.cpp" line="62"/>
         <source>Offset end</source>
         <translation>Fin de l&apos;offset</translation>
     </message>
     <message>
-        <location filename="../widgets/MemoryMapWidget.cpp" line="61"/>
+        <location filename="../widgets/MemoryMapWidget.cpp" line="64"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="../widgets/MemoryMapWidget.cpp" line="63"/>
+        <location filename="../widgets/MemoryMapWidget.cpp" line="66"/>
         <source>Permissions</source>
         <translation>Autorisations</translation>
     </message>
     <message>
-        <location filename="../widgets/MemoryMapWidget.cpp" line="65"/>
+        <location filename="../widgets/MemoryMapWidget.cpp" line="68"/>
         <source>Comment</source>
         <translation>Commentaire</translation>
     </message>
@@ -7791,7 +8134,7 @@ Enregistrez votre projet avant de le fermer!</translation>
 <context>
     <name>MemoryMapWidget</name>
     <message>
-        <location filename="../widgets/MemoryMapWidget.cpp" line="122"/>
+        <location filename="../widgets/MemoryMapWidget.cpp" line="128"/>
         <source>Memory Map</source>
         <translation>Sections mémoire</translation>
     </message>
@@ -7799,17 +8142,17 @@ Enregistrez votre projet avant de le fermer!</translation>
 <context>
     <name>MultitypeFileSaveDialog</name>
     <message>
-        <location filename="../dialogs/MultitypeFileSaveDialog.cpp" line="24"/>
+        <location filename="../dialogs/MultitypeFileSaveDialog.cpp" line="22"/>
         <source>Detect type (*)</source>
         <translation>Supprimez le type (*)</translation>
     </message>
     <message>
-        <location filename="../dialogs/MultitypeFileSaveDialog.cpp" line="63"/>
+        <location filename="../dialogs/MultitypeFileSaveDialog.cpp" line="69"/>
         <source>File save error</source>
         <translation>Erreur lors de l&apos;enregistrement du fichier</translation>
     </message>
     <message>
-        <location filename="../dialogs/MultitypeFileSaveDialog.cpp" line="64"/>
+        <location filename="../dialogs/MultitypeFileSaveDialog.cpp" line="70"/>
         <source>Unrecognized extension &apos;%1&apos;</source>
         <translation>Extension &apos;%1&apos; non reconnues</translation>
     </message>
@@ -7857,22 +8200,22 @@ Enregistrez votre projet avant de le fermer!</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/NativeDebugDialog.cpp" line="86"/>
+        <location filename="../dialogs/NativeDebugDialog.cpp" line="87"/>
         <source>Open RzRun Profile</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/NativeDebugDialog.cpp" line="87"/>
+        <location filename="../dialogs/NativeDebugDialog.cpp" line="88"/>
         <source>RzRun Profiles (*.rz *.rrz);;All Files (*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/NativeDebugDialog.cpp" line="128"/>
+        <location filename="../dialogs/NativeDebugDialog.cpp" line="129"/>
         <source>Error</source>
         <translation type="unfinished">Erreur</translation>
     </message>
     <message>
-        <location filename="../dialogs/NativeDebugDialog.cpp" line="128"/>
+        <location filename="../dialogs/NativeDebugDialog.cpp" line="129"/>
         <source>Could not open file: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7964,17 +8307,17 @@ Enregistrez votre projet avant de le fermer!</translation>
         <translation>Effacer tous les projets</translation>
     </message>
     <message>
-        <location filename="../dialogs/NewFileDialog.cpp" line="95"/>
+        <location filename="../dialogs/NewFileDialog.cpp" line="134"/>
         <source>Select file</source>
         <translation>Sélectionner un fichier</translation>
     </message>
     <message>
-        <location filename="../dialogs/NewFileDialog.cpp" line="107"/>
+        <location filename="../dialogs/NewFileDialog.cpp" line="146"/>
         <source>Open Project</source>
         <translation>Ouvrir un projet</translation>
     </message>
     <message>
-        <location filename="../dialogs/NewFileDialog.cpp" line="303"/>
+        <location filename="../dialogs/NewFileDialog.cpp" line="342"/>
         <source>Open a file without additional options/settings.</source>
         <translation>Ouvrir un fichier sans options/paramètres supplémentaires.</translation>
     </message>
@@ -7983,7 +8326,7 @@ Enregistrez votre projet avant de le fermer!</translation>
         <translation type="vanished">Ouvrir un fichier sans traitement supplémentaire.</translation>
     </message>
     <message>
-        <location filename="../dialogs/NewFileDialog.cpp" line="338"/>
+        <location filename="../dialogs/NewFileDialog.cpp" line="377"/>
         <source>Select a new program or a previous one before continuing.</source>
         <translation>Sélectionnez un nouveau programme ou un programme précédent avant de continuer.</translation>
     </message>
@@ -7991,30 +8334,50 @@ Enregistrez votre projet avant de le fermer!</translation>
 <context>
     <name>Omnibar</name>
     <message>
-        <location filename="../widgets/Omnibar.cpp" line="16"/>
+        <location filename="../widgets/Omnibar.cpp" line="45"/>
         <source>Type flag name or address here</source>
         <translation>Tapez le nom ou l&apos;adresse du drapeau ici</translation>
     </message>
     <message>
-        <location filename="../shortcuts/DefaultShortcuts.cpp" line="289"/>
+        <location filename="../widgets/Omnibar.cpp" line="228"/>
+        <source>Show More</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../widgets/Omnibar.cpp" line="229"/>
+        <source>Show All (%1 of %2)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="297"/>
         <source>Clear Omnibar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="301"/>
+        <source>Show More Completions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="305"/>
+        <source>Show All Completions</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>OverviewWidget</name>
     <message>
-        <location filename="../shortcuts/DefaultShortcuts.cpp" line="294"/>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="310"/>
         <source>Zoom In</source>
         <translation type="unfinished">Zoom avant</translation>
     </message>
     <message>
-        <location filename="../shortcuts/DefaultShortcuts.cpp" line="297"/>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="313"/>
         <source>Zoom Out</source>
         <translation type="unfinished">Zoom Arrière</translation>
     </message>
     <message>
-        <location filename="../widgets/OverviewWidget.cpp" line="9"/>
+        <location filename="../widgets/OverviewWidget.cpp" line="14"/>
         <source>Graph Overview</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8022,32 +8385,32 @@ Enregistrez votre projet avant de le fermer!</translation>
 <context>
     <name>PluginsOptionsWidget</name>
     <message>
-        <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="28"/>
+        <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="25"/>
         <source>Plugins are loaded from &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
         <translation>Les plugins sont chargés à partir de &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="34"/>
+        <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="31"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="34"/>
+        <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="31"/>
         <source>Description</source>
         <translation>Description</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="34"/>
+        <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="31"/>
         <source>Version</source>
         <translation>Version</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="34"/>
+        <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="31"/>
         <source>Author</source>
         <translation>Auteur</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="48"/>
+        <location filename="../dialogs/preferences/PluginsOptionsWidget.cpp" line="45"/>
         <source>Show Rizin plugin information</source>
         <translation>Voir les informations des plugins de Rizin</translation>
     </message>
@@ -8060,65 +8423,80 @@ Enregistrez votre projet avant de le fermer!</translation>
         <translation>Préférences</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="29"/>
+        <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="30"/>
         <source>Disassembly</source>
         <translation>Désassembleur</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="33"/>
+        <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="34"/>
         <source>Graph</source>
         <translation type="unfinished">Graphe</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="35"/>
+        <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="36"/>
         <source>Debug</source>
         <translation>Débogage</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="36"/>
+        <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="37"/>
         <source>Appearance</source>
         <translation>Apparence</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="37"/>
+        <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="38"/>
         <source>Plugins</source>
         <translation>Plugins</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="38"/>
+        <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="39"/>
         <source>Initialization Script</source>
         <translation>Script d&apos;initialisation</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="40"/>
+        <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="41"/>
         <source>Analysis</source>
         <translation>Analyse</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="41"/>
+        <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="45"/>
+        <source>Symbols</source>
+        <translation type="unfinished">Symboles</translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="48"/>
         <source>Shortcuts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="49"/>
+        <source>Interface</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/PreferencesDialog.cpp" line="50"/>
+        <source>Rizin Config</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ProcessModel</name>
     <message>
-        <location filename="../dialogs/AttachProcDialog.cpp" line="71"/>
+        <location filename="../dialogs/AttachProcDialog.cpp" line="72"/>
         <source>PID</source>
         <translation>PID</translation>
     </message>
     <message>
-        <location filename="../dialogs/AttachProcDialog.cpp" line="73"/>
+        <location filename="../dialogs/AttachProcDialog.cpp" line="74"/>
         <source>UID</source>
         <translation>UID</translation>
     </message>
     <message>
-        <location filename="../dialogs/AttachProcDialog.cpp" line="75"/>
+        <location filename="../dialogs/AttachProcDialog.cpp" line="76"/>
         <source>Status</source>
         <translation>Status</translation>
     </message>
     <message>
-        <location filename="../dialogs/AttachProcDialog.cpp" line="77"/>
+        <location filename="../dialogs/AttachProcDialog.cpp" line="78"/>
         <source>Path</source>
         <translation>Chemin d&apos;accès</translation>
     </message>
@@ -8126,27 +8504,27 @@ Enregistrez votre projet avant de le fermer!</translation>
 <context>
     <name>ProcessesWidget</name>
     <message>
-        <location filename="../widgets/ProcessesWidget.cpp" line="21"/>
+        <location filename="../widgets/ProcessesWidget.cpp" line="26"/>
         <source>PID</source>
         <translation>PID</translation>
     </message>
     <message>
-        <location filename="../widgets/ProcessesWidget.cpp" line="23"/>
+        <location filename="../widgets/ProcessesWidget.cpp" line="28"/>
         <source>UID</source>
         <translation>UID</translation>
     </message>
     <message>
-        <location filename="../widgets/ProcessesWidget.cpp" line="25"/>
+        <location filename="../widgets/ProcessesWidget.cpp" line="30"/>
         <source>Status</source>
         <translation>Status</translation>
     </message>
     <message>
-        <location filename="../widgets/ProcessesWidget.cpp" line="27"/>
+        <location filename="../widgets/ProcessesWidget.cpp" line="32"/>
         <source>Path</source>
         <translation>Chemin d&apos;accès</translation>
     </message>
     <message>
-        <location filename="../widgets/ProcessesWidget.cpp" line="165"/>
+        <location filename="../widgets/ProcessesWidget.cpp" line="169"/>
         <source>Unable to switch to the requested process.</source>
         <translation>Impossible de passer au processus demandé.</translation>
     </message>
@@ -8174,212 +8552,212 @@ Enregistrez votre projet avant de le fermer!</translation>
         <translation type="unfinished">Fermer</translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="11"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="15"/>
         <source>Profile Directives</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="14"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="17"/>
         <source>Key</source>
         <translation type="unfinished">Clé</translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="14"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="17"/>
         <source>Description</source>
         <translation type="unfinished">Description</translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="16"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="20"/>
         <source>Set value for argument N passed to the program</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="17"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="21"/>
         <source>Enable or disable ASLR</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="18"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="22"/>
         <source>Set 32 or 64 bit (if the architecture supports it)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="19"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="23"/>
         <source>Change directory before executing the program</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="20"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="24"/>
         <source>Run the program in chroot. requires some previous setup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="21"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="25"/>
         <source>Connect stdin/stdout/stderr to a socket</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="22"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="26"/>
         <source>Set no limit the core file size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="24"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="28"/>
         <source>Set to false by default, otherwise it will run the program in background, detached from the terminal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="26"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="30"/>
         <source>Set a file with lines like `var=value` to be used as env</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="28"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="32"/>
         <source>Used with the listen option, allow to spawn a different process for each connection. Ignored when debugging.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="30"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="34"/>
         <source>Set string to be passed to the program via stdin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="32"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="36"/>
         <source>Override path where the dynamic loader will look for shared libraries</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="33"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="37"/>
         <source>Bound stdin/stdout/stderr to a listening socket</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="34"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="38"/>
         <source>Set the maximum number of file descriptors</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="35"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="39"/>
         <source>Set the maximum number of processes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="36"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="40"/>
         <source>Set the maximum size for the stack</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="37"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="41"/>
         <source>Set the niceness level of the process</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="38"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="42"/>
         <source>Set to true to print the PID of the process to stderr</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="39"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="43"/>
         <source>Print the PID of the process to the specified file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="40"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="44"/>
         <source>Preload a library (not supported on Windows, only linux,osx,bsd)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="41"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="45"/>
         <source>Path to program to be executed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="42"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="46"/>
         <source>Use a pty for connection over socket (with connect/listen)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="43"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="47"/>
         <source>Path to the library to be executed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="44"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="48"/>
         <source>Function name to call from runlib library</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="46"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="50"/>
         <source>Preload with librz, kill -USR1 to get an rizin shell or -USRZ to spawn a webserver in a thread</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="48"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="52"/>
         <source>Set effective process group id</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="49"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="53"/>
         <source>Set value for given environment variable (setenv=FOO=BAR)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="50"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="54"/>
         <source>Set effective process uid</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="51"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="55"/>
         <source>Set process group id</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="52"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="56"/>
         <source>Set process uid</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="53"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="57"/>
         <source>Sleep for the given amount of seconds</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="54"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="58"/>
         <source>Select file to replace stderr file descriptor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="55"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="59"/>
         <source>Select file to read data from stdin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="58"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="62"/>
         <source>Select io stream to redirect data from/to. Redirect input/output to the process created by the command prefixed by &apos;!&apos; (stdio=!cmd)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="60"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="64"/>
         <source>Select file to replace stdout file descriptor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="61"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="65"/>
         <source>Execute the given command</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="62"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="66"/>
         <source>Set a timeout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="64"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="68"/>
         <source>Signal to use when killing the child because the timeout happens</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="65"/>
+        <location filename="../dialogs/ProfileDirectivesDialog.cpp" line="69"/>
         <source>Unset one environment variable</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8387,7 +8765,7 @@ Enregistrez votre projet avant de le fermer!</translation>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../common/DisassemblyPreview.cpp" line="26"/>
+        <location filename="../common/DisassemblyPreview.cpp" line="28"/>
         <source>More than one (%1) references here. Weird behaviour expected.</source>
         <translation>Plus d&apos;une (%1) référence ici. Comportement étrange attendu.</translation>
     </message>
@@ -8396,12 +8774,12 @@ Enregistrez votre projet avant de le fermer!</translation>
         <translation type="vanished">offsetFrom (%1) diffère de refs.at(0).from (%(2))</translation>
     </message>
     <message>
-        <location filename="../common/IOModesController.cpp" line="59"/>
+        <location filename="../common/IOModesController.cpp" line="60"/>
         <source>Write error</source>
         <translation>Erreur d&apos;écriture</translation>
     </message>
     <message>
-        <location filename="../common/IOModesController.cpp" line="60"/>
+        <location filename="../common/IOModesController.cpp" line="61"/>
         <source>Your file is opened in read-only mode. Editing is only available when the file is opened in either Write or Cache modes.
 
 WARNING: In Write mode, any changes will be committed to the file on disk. For safety, please consider using Cache mode and then commit the changes manually via File -&gt; Commit modifications to disk.</source>
@@ -8410,22 +8788,22 @@ WARNING: In Write mode, any changes will be committed to the file on disk. For s
 AVERTISSEMENT : en mode écriture, toute modification sera validée dans le fichier sur le disque. Par sécurité, veuillez envisager d&apos;utiliser le mode Cache, puis de valider les modifications manuellement via Fichier -&gt; Valider les modifications sur le disque.</translation>
     </message>
     <message>
-        <location filename="../common/IOModesController.cpp" line="66"/>
+        <location filename="../common/IOModesController.cpp" line="67"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="../common/IOModesController.cpp" line="68"/>
+        <location filename="../common/IOModesController.cpp" line="69"/>
         <source>Reopen in Write mode</source>
         <translation>Réouverture en mode écriture</translation>
     </message>
     <message>
-        <location filename="../common/IOModesController.cpp" line="70"/>
+        <location filename="../common/IOModesController.cpp" line="71"/>
         <source>Enable Cache mode</source>
         <translation>Activer le mode cache</translation>
     </message>
     <message>
-        <location filename="../common/IOModesController.cpp" line="100"/>
+        <location filename="../common/IOModesController.cpp" line="90"/>
         <source>Uncommitted changes</source>
         <translation>Changements non validés</translation>
     </message>
@@ -8434,189 +8812,189 @@ AVERTISSEMENT : en mode écriture, toute modification sera validée dans le fich
         <translation type="vanished">Changements non validés</translation>
     </message>
     <message>
-        <location filename="../common/IOModesController.cpp" line="101"/>
+        <location filename="../common/IOModesController.cpp" line="91"/>
         <source>It seems that you have changes or patches that are not committed to the file.
 Do you want to commit them now?</source>
         <translation>Il semble que vous ayez des modifications ou des correctifs qui n&apos;ont pas été intégrés au fichier.
 Souhaitez-vous les intégrer maintenant ?</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="98"/>
+        <location filename="../CutterApplication.cpp" line="100"/>
         <source>Version mismatch!</source>
         <translation>Version incompatible !</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="99"/>
+        <location filename="../CutterApplication.cpp" line="101"/>
         <source>The version used to compile Cutter (%1) does not match the binary version of rizin (%2). This could result in unexpected behaviour. Are you sure you want to continue?</source>
         <translation>La version utilisée pour compiler Cutter (%1) ne correspond pas à la version binaire de rizin (%2). Cela pourrait entraîner un comportement inattendu. Êtes-vous sûr de vouloir continuer ?</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="382"/>
+        <location filename="../CutterApplication.cpp" line="384"/>
         <source>A Qt and C++ GUI for rizin reverse engineering framework</source>
         <translation>Une interface graphique Qt et C++ pour le cadre de rétro-ingénierie rizin</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="385"/>
+        <location filename="../CutterApplication.cpp" line="387"/>
         <source>Filename to open.</source>
         <translation>Nom de fichier à ouvrir.</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="389"/>
+        <location filename="../CutterApplication.cpp" line="391"/>
         <source>Automatically open file and optionally start analysis. Needs filename to be specified. May be a value between 0 and 2: 0 = no analysis, 1 = aaa, 2 = aaaa (experimental)</source>
         <translation>Ouvre automatiquement le fichier et lance l&apos;analyse (optionnel). Il faut spécifier le nom du fichier. La valeur doit être comprise entre 0 et 2: 0 = aucune analyse, 1 = aaa, 2 = aaaa (expérimental)</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="392"/>
+        <location filename="../CutterApplication.cpp" line="394"/>
         <source>level</source>
         <translation>niveau</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="395"/>
+        <location filename="../CutterApplication.cpp" line="398"/>
         <source>Sets a specific architecture name</source>
         <translation>Sélectionner un nom d&apos;architecture spécifique</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="396"/>
+        <location filename="../CutterApplication.cpp" line="398"/>
         <source>arch</source>
         <translation>arch</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="399"/>
+        <location filename="../CutterApplication.cpp" line="402"/>
         <source>Sets a specific architecture bits</source>
         <translation>Sélectionner un nombre de bits d&apos;architecture</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="400"/>
+        <location filename="../CutterApplication.cpp" line="402"/>
         <source>bits</source>
         <translation>bits</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="403"/>
+        <location filename="../CutterApplication.cpp" line="405"/>
         <source>Sets a specific CPU</source>
         <translation>Sélectionner un Processeur spécifique</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="404"/>
+        <location filename="../CutterApplication.cpp" line="406"/>
         <source>cpu</source>
         <translation>cpu</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="407"/>
+        <location filename="../CutterApplication.cpp" line="410"/>
         <source>Sets a specific operating system</source>
         <translation>Sélectionner un système d&apos;exploitation</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="408"/>
+        <location filename="../CutterApplication.cpp" line="410"/>
         <source>os</source>
         <translation>os</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="412"/>
+        <location filename="../CutterApplication.cpp" line="414"/>
         <source>Sets the endianness (big or little)</source>
         <translation>Définit le boutisme/endianness (grand ou petit)</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="413"/>
+        <location filename="../CutterApplication.cpp" line="415"/>
         <source>big|little</source>
         <translation>grand|petit</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="417"/>
+        <location filename="../CutterApplication.cpp" line="419"/>
         <source>Force using a specific file format (bin plugin)</source>
         <translation>Forcer l&apos;utilisation d&apos;un format de fichier spécifique (plugin bin)</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="418"/>
+        <location filename="../CutterApplication.cpp" line="420"/>
         <source>name</source>
         <translation>nom</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="422"/>
+        <location filename="../CutterApplication.cpp" line="424"/>
         <source>Load binary at a specific base address</source>
         <translation>Chargement d&apos;un binaire à une adresse de base spécifique</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="423"/>
+        <location filename="../CutterApplication.cpp" line="425"/>
         <source>base address</source>
         <translation>adresse de base</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="427"/>
+        <location filename="../CutterApplication.cpp" line="429"/>
         <source>Map the binary at a specific address</source>
         <translation>Chargement d&apos;un binaire à une adresse spécifique</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="428"/>
+        <location filename="../CutterApplication.cpp" line="430"/>
         <source>map address</source>
         <translation>adresse de mappage</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="431"/>
+        <location filename="../CutterApplication.cpp" line="433"/>
         <source>Run script file</source>
         <translation>Lancer le fichier de script</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="431"/>
+        <location filename="../CutterApplication.cpp" line="433"/>
         <source>file</source>
         <translation>fichier</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="434"/>
+        <location filename="../CutterApplication.cpp" line="436"/>
         <source>Load project file</source>
         <translation>Charger le fichier de projet</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="435"/>
+        <location filename="../CutterApplication.cpp" line="437"/>
         <source>project file</source>
         <translation>fichier projet</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="439"/>
+        <location filename="../CutterApplication.cpp" line="441"/>
         <source>Open file in write mode</source>
         <translation>Ouvrir un fichier en mode écriture</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="443"/>
+        <location filename="../CutterApplication.cpp" line="445"/>
         <source>Disables virtual addressing</source>
         <translation>Désactiver l&apos;adressage virtuelle</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="447"/>
+        <location filename="../CutterApplication.cpp" line="449"/>
         <source>PYTHONHOME to use for embedded python interpreter</source>
         <translation>PYTHONHOME à utiliser pour l&apos;interpréteur python intégré</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="453"/>
+        <location filename="../CutterApplication.cpp" line="455"/>
         <source>Disable output redirection. Some of the output in console widget will not be visible. Use this option when debuging a crash or freeze and output  redirection is causing some messages to be lost.</source>
         <translation>Désactive la redirection de la sortie. Une partie de la sortie dans le widget console ne sera pas visible. Utilisez cette option lorsque vous déboguez un plantage ou un gel et que la redirection de sortie entraîne la perte de certains messages.</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="459"/>
+        <location filename="../CutterApplication.cpp" line="461"/>
         <source>Do not load plugins</source>
         <translation>Ne pas charger les plugins</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="463"/>
+        <location filename="../CutterApplication.cpp" line="465"/>
         <source>Do not load Cutter plugins</source>
         <translation>Ne pas charger les plugins Cutter</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="467"/>
+        <location filename="../CutterApplication.cpp" line="469"/>
         <source>Do not load rizin plugins</source>
         <translation>Ne pas charger les plugins rizin</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="481"/>
+        <location filename="../CutterApplication.cpp" line="483"/>
         <source>Invalid Analysis Level. May be a value between 0 and 2.</source>
         <translation>Niveau d&apos;analyse invalide. La valeur doit être comprise entre 0 et 2.</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="501"/>
+        <location filename="../CutterApplication.cpp" line="503"/>
         <source>Filename must be specified to start analysis automatically.</source>
         <translation>Le nom du fichier doit être spécifié pour démarrer l&apos;analyse automatiquement.</translation>
     </message>
     <message>
-        <location filename="../CutterApplication.cpp" line="562"/>
+        <location filename="../CutterApplication.cpp" line="564"/>
         <source>Invalid Endianness. You can only set it to `big` or `little`.</source>
         <translation>Boutisme invalide. Vous ne pouvez le définir qu&apos;à `grand` ou `petit`.</translation>
     </message>
@@ -9005,12 +9383,12 @@ Souhaitez-vous les intégrer maintenant ?</translation>
         <translation>Formulaire</translation>
     </message>
     <message>
-        <location filename="../widgets/QuickFilterView.ui" line="41"/>
+        <location filename="../widgets/QuickFilterView.ui" line="57"/>
         <source>Quick Filter</source>
         <translation>Filtre rapide</translation>
     </message>
     <message>
-        <location filename="../widgets/QuickFilterView.ui" line="61"/>
+        <location filename="../widgets/QuickFilterView.ui" line="44"/>
         <source>X</source>
         <translation>X</translation>
     </message>
@@ -9018,7 +9396,7 @@ Souhaitez-vous les intégrer maintenant ?</translation>
 <context>
     <name>RawAddrDock</name>
     <message>
-        <location filename="../widgets/SectionsWidget.cpp" line="497"/>
+        <location filename="../widgets/SectionsWidget.cpp" line="494"/>
         <source>Raw</source>
         <translation>Ligne</translation>
     </message>
@@ -9052,54 +9430,54 @@ Souhaitez-vous les intégrer maintenant ?</translation>
     </message>
     <message>
         <location filename="../dialogs/RegisterProfileDialog.ui" line="72"/>
-        <location filename="../dialogs/RegisterProfileDialog.cpp" line="197"/>
+        <location filename="../dialogs/RegisterProfileDialog.cpp" line="198"/>
         <source>Export Profile</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/RegisterProfileDialog.cpp" line="41"/>
+        <location filename="../dialogs/RegisterProfileDialog.cpp" line="42"/>
         <source>Remove Item</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/RegisterProfileDialog.cpp" line="44"/>
+        <location filename="../dialogs/RegisterProfileDialog.cpp" line="45"/>
         <source>Clear All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/RegisterProfileDialog.cpp" line="87"/>
+        <location filename="../dialogs/RegisterProfileDialog.cpp" line="88"/>
         <source>Open Register Profile</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/RegisterProfileDialog.cpp" line="88"/>
-        <location filename="../dialogs/RegisterProfileDialog.cpp" line="98"/>
-        <location filename="../dialogs/RegisterProfileDialog.cpp" line="202"/>
+        <location filename="../dialogs/RegisterProfileDialog.cpp" line="89"/>
+        <location filename="../dialogs/RegisterProfileDialog.cpp" line="99"/>
+        <location filename="../dialogs/RegisterProfileDialog.cpp" line="203"/>
         <source>All Files (*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/RegisterProfileDialog.cpp" line="97"/>
+        <location filename="../dialogs/RegisterProfileDialog.cpp" line="98"/>
         <source>Open GDB Profile</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/RegisterProfileDialog.cpp" line="134"/>
+        <location filename="../dialogs/RegisterProfileDialog.cpp" line="135"/>
         <source>Error</source>
         <translation type="unfinished">Erreur</translation>
     </message>
     <message>
-        <location filename="../dialogs/RegisterProfileDialog.cpp" line="134"/>
+        <location filename="../dialogs/RegisterProfileDialog.cpp" line="135"/>
         <source>Could not open file: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/RegisterProfileDialog.cpp" line="197"/>
+        <location filename="../dialogs/RegisterProfileDialog.cpp" line="198"/>
         <source>The profile is empty.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/RegisterProfileDialog.cpp" line="201"/>
+        <location filename="../dialogs/RegisterProfileDialog.cpp" line="202"/>
         <source>Export Profile As</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9107,22 +9485,22 @@ Souhaitez-vous les intégrer maintenant ?</translation>
 <context>
     <name>RegisterRefModel</name>
     <message>
-        <location filename="../widgets/RegisterRefsWidget.cpp" line="65"/>
+        <location filename="../widgets/RegisterRefsWidget.cpp" line="67"/>
         <source>Register</source>
         <translation>Registrer</translation>
     </message>
     <message>
-        <location filename="../widgets/RegisterRefsWidget.cpp" line="67"/>
+        <location filename="../widgets/RegisterRefsWidget.cpp" line="69"/>
         <source>Value</source>
         <translation>Valeur</translation>
     </message>
     <message>
-        <location filename="../widgets/RegisterRefsWidget.cpp" line="69"/>
+        <location filename="../widgets/RegisterRefsWidget.cpp" line="71"/>
         <source>Reference</source>
         <translation>Référence</translation>
     </message>
     <message>
-        <location filename="../widgets/RegisterRefsWidget.cpp" line="71"/>
+        <location filename="../widgets/RegisterRefsWidget.cpp" line="73"/>
         <source>Comment</source>
         <translation>Commentaire</translation>
     </message>
@@ -9130,12 +9508,12 @@ Souhaitez-vous les intégrer maintenant ?</translation>
 <context>
     <name>RegisterRefsWidget</name>
     <message>
-        <location filename="../widgets/RegisterRefsWidget.cpp" line="135"/>
+        <location filename="../widgets/RegisterRefsWidget.cpp" line="134"/>
         <source>Copy register value</source>
         <translation>Copier la valeur du registre</translation>
     </message>
     <message>
-        <location filename="../widgets/RegisterRefsWidget.cpp" line="136"/>
+        <location filename="../widgets/RegisterRefsWidget.cpp" line="135"/>
         <source>Copy register reference</source>
         <translation>Copier la référence du registre</translation>
     </message>
@@ -9161,22 +9539,22 @@ Souhaitez-vous les intégrer maintenant ?</translation>
 <context>
     <name>RelocsModel</name>
     <message>
-        <location filename="../widgets/RelocsWidget.cpp" line="54"/>
+        <location filename="../widgets/RelocsWidget.cpp" line="55"/>
         <source>Address</source>
         <translation>Adresse</translation>
     </message>
     <message>
-        <location filename="../widgets/RelocsWidget.cpp" line="56"/>
+        <location filename="../widgets/RelocsWidget.cpp" line="57"/>
         <source>Type</source>
         <translation>Type</translation>
     </message>
     <message>
-        <location filename="../widgets/RelocsWidget.cpp" line="58"/>
+        <location filename="../widgets/RelocsWidget.cpp" line="59"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="../widgets/RelocsWidget.cpp" line="60"/>
+        <location filename="../widgets/RelocsWidget.cpp" line="61"/>
         <source>Comment</source>
         <translation>Commentaire</translation>
     </message>
@@ -9184,7 +9562,7 @@ Souhaitez-vous les intégrer maintenant ?</translation>
 <context>
     <name>RelocsWidget</name>
     <message>
-        <location filename="../widgets/RelocsWidget.cpp" line="131"/>
+        <location filename="../widgets/RelocsWidget.cpp" line="135"/>
         <source>Relocs</source>
         <translation>Relocs</translation>
     </message>
@@ -9233,22 +9611,22 @@ Souhaitez-vous les intégrer maintenant ?</translation>
         <translation>Tout supprimer</translation>
     </message>
     <message>
-        <location filename="../dialogs/RemoteDebugDialog.cpp" line="57"/>
+        <location filename="../dialogs/RemoteDebugDialog.cpp" line="64"/>
         <source>Invalid debugger</source>
         <translation>Débogueur invalide</translation>
     </message>
     <message>
-        <location filename="../dialogs/RemoteDebugDialog.cpp" line="68"/>
+        <location filename="../dialogs/RemoteDebugDialog.cpp" line="75"/>
         <source>Invalid IP address</source>
         <translation>Adresse IP invalide</translation>
     </message>
     <message>
-        <location filename="../dialogs/RemoteDebugDialog.cpp" line="81"/>
+        <location filename="../dialogs/RemoteDebugDialog.cpp" line="88"/>
         <source>Path does not exist</source>
         <translation>Chemin d&apos;accès inexistant</translation>
     </message>
     <message>
-        <location filename="../dialogs/RemoteDebugDialog.cpp" line="94"/>
+        <location filename="../dialogs/RemoteDebugDialog.cpp" line="101"/>
         <source>Invalid port</source>
         <translation>Port non valide</translation>
     </message>
@@ -9256,37 +9634,37 @@ Souhaitez-vous les intégrer maintenant ?</translation>
 <context>
     <name>ResourcesModel</name>
     <message>
-        <location filename="../widgets/ResourcesWidget.cpp" line="75"/>
+        <location filename="../widgets/ResourcesWidget.cpp" line="77"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="../widgets/ResourcesWidget.cpp" line="77"/>
+        <location filename="../widgets/ResourcesWidget.cpp" line="79"/>
         <source>Vaddr</source>
         <translation>Vaddr</translation>
     </message>
     <message>
-        <location filename="../widgets/ResourcesWidget.cpp" line="79"/>
+        <location filename="../widgets/ResourcesWidget.cpp" line="81"/>
         <source>Index</source>
         <translation>Index</translation>
     </message>
     <message>
-        <location filename="../widgets/ResourcesWidget.cpp" line="81"/>
+        <location filename="../widgets/ResourcesWidget.cpp" line="83"/>
         <source>Type</source>
         <translation>Type</translation>
     </message>
     <message>
-        <location filename="../widgets/ResourcesWidget.cpp" line="83"/>
+        <location filename="../widgets/ResourcesWidget.cpp" line="85"/>
         <source>Size</source>
         <translation>Taille</translation>
     </message>
     <message>
-        <location filename="../widgets/ResourcesWidget.cpp" line="85"/>
+        <location filename="../widgets/ResourcesWidget.cpp" line="87"/>
         <source>Lang</source>
         <translation>Langue</translation>
     </message>
     <message>
-        <location filename="../widgets/ResourcesWidget.cpp" line="87"/>
+        <location filename="../widgets/ResourcesWidget.cpp" line="89"/>
         <source>Comment</source>
         <translation>Commentaire</translation>
     </message>
@@ -9297,6 +9675,72 @@ Souhaitez-vous les intégrer maintenant ?</translation>
         <location filename="../widgets/ResourcesWidget.cpp" line="117"/>
         <source>Resources</source>
         <translation>Ressources</translation>
+    </message>
+</context>
+<context>
+    <name>RizinConfigOptionsModel</name>
+    <message>
+        <location filename="../dialogs/preferences/RizinConfigOptionsWidget.cpp" line="155"/>
+        <source>Name</source>
+        <translation type="unfinished">Nom</translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/RizinConfigOptionsWidget.cpp" line="157"/>
+        <source>Value</source>
+        <translation type="unfinished">Valeur</translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/RizinConfigOptionsWidget.cpp" line="159"/>
+        <source>Description</source>
+        <translation type="unfinished">Description</translation>
+    </message>
+</context>
+<context>
+    <name>RizinConfigOptionsWidget</name>
+    <message>
+        <location filename="../dialogs/preferences/RizinConfigOptionsWidget.ui" line="14"/>
+        <source>Dialog</source>
+        <translation type="unfinished">Dialogue</translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/RizinConfigOptionsWidget.ui" line="32"/>
+        <source>Undo changes for selected items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/RizinConfigOptionsWidget.ui" line="35"/>
+        <source>Restore</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/RizinConfigOptionsWidget.ui" line="45"/>
+        <source>Reset all items to default values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/RizinConfigOptionsWidget.ui" line="48"/>
+        <source>Reset to Default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/RizinConfigOptionsWidget.ui" line="68"/>
+        <source>Re-analyze the entire binary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/RizinConfigOptionsWidget.ui" line="71"/>
+        <source>Analyze Program</source>
+        <translation type="unfinished">Analyser le programme</translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/RizinConfigOptionsWidget.cpp" line="493"/>
+        <source>Edit List for %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/RizinConfigOptionsWidget.cpp" line="566"/>
+        <source>All</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9312,47 +9756,47 @@ Souhaitez-vous les intégrer maintenant ?</translation>
         <translation>ag...</translation>
     </message>
     <message>
-        <location filename="../widgets/RizinGraphWidget.cpp" line="21"/>
+        <location filename="../widgets/RizinGraphWidget.cpp" line="24"/>
         <source>Data reference graph (aga)</source>
         <translation>Graphique de référence des données (aga)</translation>
     </message>
     <message>
-        <location filename="../widgets/RizinGraphWidget.cpp" line="22"/>
+        <location filename="../widgets/RizinGraphWidget.cpp" line="25"/>
         <source>Global data references graph (agA)</source>
         <translation>Graphique de référence des données globales (agA)</translation>
     </message>
     <message>
-        <location filename="../widgets/RizinGraphWidget.cpp" line="26"/>
+        <location filename="../widgets/RizinGraphWidget.cpp" line="29"/>
         <source>Imports graph (agi)</source>
         <translation>Graphique des importations (agi)</translation>
     </message>
     <message>
-        <location filename="../widgets/RizinGraphWidget.cpp" line="27"/>
+        <location filename="../widgets/RizinGraphWidget.cpp" line="30"/>
         <source>References graph (agr)</source>
         <translation>Graphique des références (agr)</translation>
     </message>
     <message>
-        <location filename="../widgets/RizinGraphWidget.cpp" line="28"/>
+        <location filename="../widgets/RizinGraphWidget.cpp" line="31"/>
         <source>Global references graph (agR)</source>
         <translation>Graphique de références globales (agR)</translation>
     </message>
     <message>
-        <location filename="../widgets/RizinGraphWidget.cpp" line="29"/>
+        <location filename="../widgets/RizinGraphWidget.cpp" line="32"/>
         <source>Cross references graph (agx)</source>
         <translation>Graphique des références croisées (agx)</translation>
     </message>
     <message>
-        <location filename="../widgets/RizinGraphWidget.cpp" line="30"/>
+        <location filename="../widgets/RizinGraphWidget.cpp" line="33"/>
         <source>RzIL statement graph (agI)</source>
         <translation>Graphe RzIL (agI)</translation>
     </message>
     <message>
-        <location filename="../widgets/RizinGraphWidget.cpp" line="31"/>
+        <location filename="../widgets/RizinGraphWidget.cpp" line="34"/>
         <source>Custom graph (agg)</source>
         <translation>Graphique personnalisé (agg)</translation>
     </message>
     <message>
-        <location filename="../widgets/RizinGraphWidget.cpp" line="32"/>
+        <location filename="../widgets/RizinGraphWidget.cpp" line="35"/>
         <source>User command</source>
         <translation>Commande de l&apos;utilisateur</translation>
     </message>
@@ -9458,6 +9902,16 @@ Souhaitez-vous les intégrer maintenant ?</translation>
         <source>Author</source>
         <translation>Auteur</translation>
     </message>
+    <message>
+        <location filename="../dialogs/RizinPluginsDialog.ui" line="194"/>
+        <source>Capabilities</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/RizinPluginsDialog.ui" line="199"/>
+        <source>Bits</source>
+        <translation type="unfinished">Bits</translation>
+    </message>
 </context>
 <context>
     <name>RizinTaskDialog</name>
@@ -9544,12 +9998,12 @@ Souhaitez-vous les intégrer maintenant ?</translation>
 <context>
     <name>RunScriptTask</name>
     <message>
-        <location filename="../common/RunScriptTask.cpp" line="18"/>
+        <location filename="../common/RunScriptTask.cpp" line="20"/>
         <source>Executing script...</source>
         <translation>Exécution du script...</translation>
     </message>
     <message>
-        <location filename="../common/RunScriptTask.h" line="15"/>
+        <location filename="../common/RunScriptTask.h" line="17"/>
         <source>Run Script</source>
         <translation>Exécuter le script</translation>
     </message>
@@ -9570,6 +10024,92 @@ Souhaitez-vous les intégrer maintenant ?</translation>
         <location filename="../widgets/SdbWidget.ui" line="125"/>
         <source>Value</source>
         <translation>Valeur</translation>
+    </message>
+</context>
+<context>
+    <name>SearchBarWidget</name>
+    <message>
+        <location filename="../widgets/SearchBarWidget.ui" line="32"/>
+        <source>Form</source>
+        <translation type="unfinished">Formulaire</translation>
+    </message>
+    <message>
+        <location filename="../widgets/SearchBarWidget.ui" line="56"/>
+        <source>Show Search Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../widgets/SearchBarWidget.ui" line="59"/>
+        <location filename="../widgets/SearchBarWidget.ui" line="85"/>
+        <location filename="../widgets/SearchBarWidget.ui" line="95"/>
+        <location filename="../widgets/SearchBarWidget.ui" line="105"/>
+        <location filename="../widgets/SearchBarWidget.ui" line="137"/>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
+        <location filename="../widgets/SearchBarWidget.ui" line="75"/>
+        <source>Search</source>
+        <translation type="unfinished">Rechercher</translation>
+    </message>
+    <message>
+        <location filename="../widgets/SearchBarWidget.ui" line="82"/>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="333"/>
+        <source>Find Previous Match</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../widgets/SearchBarWidget.ui" line="92"/>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="329"/>
+        <source>Find Next Match</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../widgets/SearchBarWidget.ui" line="102"/>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="337"/>
+        <source>Find Last Match</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../widgets/SearchBarWidget.ui" line="121"/>
+        <source>0 of 0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../widgets/SearchBarWidget.ui" line="134"/>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="341"/>
+        <source>Hide Search Bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="345"/>
+        <source>Show Search Bar Options Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../widgets/SearchBarWidget.cpp" line="93"/>
+        <source>&amp;Case Sensitive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../widgets/SearchBarWidget.cpp" line="97"/>
+        <source>Match &amp;Whole Words</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../widgets/SearchBarWidget.cpp" line="101"/>
+        <source>Match &amp;Regular Expression</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../widgets/SearchBarWidget.cpp" line="105"/>
+        <source>&amp;Highlight All Matches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../widgets/SearchBarWidget.cpp" line="163"/>
+        <source>%1 of %2</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9610,7 +10150,7 @@ Souhaitez-vous les intégrer maintenant ?</translation>
     <message>
         <location filename="../widgets/SearchWidget.ui" line="14"/>
         <location filename="../widgets/SearchWidget.ui" line="83"/>
-        <location filename="../widgets/SearchWidget.cpp" line="395"/>
+        <location filename="../widgets/SearchWidget.cpp" line="399"/>
         <source>Search</source>
         <translation>Rechercher</translation>
     </message>
@@ -9625,7 +10165,7 @@ Souhaitez-vous les intégrer maintenant ?</translation>
         <translation>Rechercher dans :</translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="53"/>
+        <location filename="../widgets/SearchWidget.cpp" line="52"/>
         <source>asm code</source>
         <translation>code asm</translation>
     </message>
@@ -9634,199 +10174,199 @@ Souhaitez-vous les intégrer maintenant ?</translation>
         <translation type="vanished">chaine de caractères</translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="21"/>
+        <location filename="../widgets/SearchWidget.cpp" line="20"/>
         <source>All maps</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="22"/>
+        <location filename="../widgets/SearchWidget.cpp" line="21"/>
         <source>Current map</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="23"/>
+        <location filename="../widgets/SearchWidget.cpp" line="22"/>
         <source>Whole file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="24"/>
-        <location filename="../widgets/SearchWidget.cpp" line="38"/>
+        <location filename="../widgets/SearchWidget.cpp" line="23"/>
+        <location filename="../widgets/SearchWidget.cpp" line="37"/>
         <source>Current block</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="25"/>
+        <location filename="../widgets/SearchWidget.cpp" line="24"/>
         <source>Current mapped section</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="26"/>
+        <location filename="../widgets/SearchWidget.cpp" line="25"/>
         <source>All mapped sections</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="27"/>
+        <location filename="../widgets/SearchWidget.cpp" line="26"/>
         <source>Current mapped segment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="28"/>
+        <location filename="../widgets/SearchWidget.cpp" line="27"/>
         <source>All mapped segments</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="29"/>
-        <location filename="../widgets/SearchWidget.cpp" line="39"/>
+        <location filename="../widgets/SearchWidget.cpp" line="28"/>
+        <location filename="../widgets/SearchWidget.cpp" line="38"/>
         <source>All exec sections</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="30"/>
+        <location filename="../widgets/SearchWidget.cpp" line="29"/>
         <source>All io.skyline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="31"/>
+        <location filename="../widgets/SearchWidget.cpp" line="30"/>
         <source>Current function</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="32"/>
+        <location filename="../widgets/SearchWidget.cpp" line="31"/>
         <source>Current basic block</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="36"/>
+        <location filename="../widgets/SearchWidget.cpp" line="35"/>
         <source>All memory maps</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="37"/>
+        <location filename="../widgets/SearchWidget.cpp" line="36"/>
         <source>Memory map</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="40"/>
+        <location filename="../widgets/SearchWidget.cpp" line="39"/>
         <source>Stack</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="41"/>
+        <location filename="../widgets/SearchWidget.cpp" line="40"/>
         <source>Heap</source>
         <translation type="unfinished">Pile</translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="54"/>
+        <location filename="../widgets/SearchWidget.cpp" line="53"/>
         <source>jmp rax</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="55"/>
+        <location filename="../widgets/SearchWidget.cpp" line="54"/>
         <source>string (literal)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="56"/>
+        <location filename="../widgets/SearchWidget.cpp" line="55"/>
         <source>foobar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="58"/>
+        <location filename="../widgets/SearchWidget.cpp" line="57"/>
         <source>string (case insensitive)</source>
         <translation>chaîne de caractères (insensible à la casse)</translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="59"/>
+        <location filename="../widgets/SearchWidget.cpp" line="58"/>
         <source>fOobaR</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="60"/>
+        <location filename="../widgets/SearchWidget.cpp" line="59"/>
         <source>string (extended regex)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="61"/>
+        <location filename="../widgets/SearchWidget.cpp" line="60"/>
         <source>(foo){,4}[Bb]ar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="62"/>
+        <location filename="../widgets/SearchWidget.cpp" line="61"/>
         <source>hex string</source>
         <translation>chaîne hexadécimale</translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="63"/>
+        <location filename="../widgets/SearchWidget.cpp" line="62"/>
         <source>ab01..23...1234ef</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="64"/>
+        <location filename="../widgets/SearchWidget.cpp" line="63"/>
         <source>ROP gadgets</source>
         <translation>ROP gadgets</translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="65"/>
+        <location filename="../widgets/SearchWidget.cpp" line="64"/>
         <source>pop,,pop</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="66"/>
+        <location filename="../widgets/SearchWidget.cpp" line="65"/>
         <source>ROP gadgets (regex)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="67"/>
+        <location filename="../widgets/SearchWidget.cpp" line="66"/>
         <source>mov e[abc]x</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="68"/>
+        <location filename="../widgets/SearchWidget.cpp" line="67"/>
         <source>32bit big endian value</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="69"/>
+        <location filename="../widgets/SearchWidget.cpp" line="68"/>
         <source>0xdeadbeef (big endian)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="70"/>
+        <location filename="../widgets/SearchWidget.cpp" line="69"/>
         <source>32bit little endian value</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="71"/>
+        <location filename="../widgets/SearchWidget.cpp" line="70"/>
         <source>0xdeadbeef (little endian)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="72"/>
+        <location filename="../widgets/SearchWidget.cpp" line="71"/>
         <source>64bit big endian value</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="73"/>
+        <location filename="../widgets/SearchWidget.cpp" line="72"/>
         <source>0xfedcba9876543210 (big endian)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="74"/>
+        <location filename="../widgets/SearchWidget.cpp" line="73"/>
         <source>64bit little endian value</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="75"/>
+        <location filename="../widgets/SearchWidget.cpp" line="74"/>
         <source>0xfedcba9876543210 (little endian)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="77"/>
+        <location filename="../widgets/SearchWidget.cpp" line="76"/>
         <source>Cryptographic material</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="78"/>
+        <location filename="../widgets/SearchWidget.cpp" line="77"/>
         <source>Magic signature</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9835,17 +10375,17 @@ Souhaitez-vous les intégrer maintenant ?</translation>
         <translation type="vanished">Valeur 32 bits</translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="353"/>
+        <location filename="../widgets/SearchWidget.cpp" line="357"/>
         <source>No results found for:</source>
         <translation>Aucun résultat pour :</translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="361"/>
+        <location filename="../widgets/SearchWidget.cpp" line="365"/>
         <source>No Results Found</source>
         <translation>Aucun résultat trouvé</translation>
     </message>
     <message>
-        <location filename="../widgets/SearchWidget.cpp" line="388"/>
+        <location filename="../widgets/SearchWidget.cpp" line="392"/>
         <source>Searching...</source>
         <translation>Rechercher...</translation>
     </message>
@@ -9853,42 +10393,42 @@ Souhaitez-vous les intégrer maintenant ?</translation>
 <context>
     <name>SectionsModel</name>
     <message>
-        <location filename="../widgets/SectionsWidget.cpp" line="90"/>
+        <location filename="../widgets/SectionsWidget.cpp" line="92"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="../widgets/SectionsWidget.cpp" line="92"/>
+        <location filename="../widgets/SectionsWidget.cpp" line="94"/>
         <source>Size</source>
         <translation>Taille</translation>
     </message>
     <message>
-        <location filename="../widgets/SectionsWidget.cpp" line="94"/>
+        <location filename="../widgets/SectionsWidget.cpp" line="96"/>
         <source>Address</source>
         <translation>Adresse</translation>
     </message>
     <message>
-        <location filename="../widgets/SectionsWidget.cpp" line="96"/>
+        <location filename="../widgets/SectionsWidget.cpp" line="98"/>
         <source>End Address</source>
         <translation>Adresse de fin</translation>
     </message>
     <message>
-        <location filename="../widgets/SectionsWidget.cpp" line="98"/>
+        <location filename="../widgets/SectionsWidget.cpp" line="100"/>
         <source>Virtual Size</source>
         <translation>Taille virtuelle</translation>
     </message>
     <message>
-        <location filename="../widgets/SectionsWidget.cpp" line="100"/>
+        <location filename="../widgets/SectionsWidget.cpp" line="102"/>
         <source>Permissions</source>
         <translation>Autorisations</translation>
     </message>
     <message>
-        <location filename="../widgets/SectionsWidget.cpp" line="102"/>
+        <location filename="../widgets/SectionsWidget.cpp" line="104"/>
         <source>Entropy</source>
         <translation>Entropie</translation>
     </message>
     <message>
-        <location filename="../widgets/SectionsWidget.cpp" line="104"/>
+        <location filename="../widgets/SectionsWidget.cpp" line="106"/>
         <source>Comment</source>
         <translation>Commentaire</translation>
     </message>
@@ -9896,7 +10436,7 @@ Souhaitez-vous les intégrer maintenant ?</translation>
 <context>
     <name>SectionsWidget</name>
     <message>
-        <location filename="../widgets/SectionsWidget.cpp" line="164"/>
+        <location filename="../widgets/SectionsWidget.cpp" line="169"/>
         <source>Sections</source>
         <translation>Sections</translation>
     </message>
@@ -9904,32 +10444,32 @@ Souhaitez-vous les intégrer maintenant ?</translation>
 <context>
     <name>SegmentsModel</name>
     <message>
-        <location filename="../widgets/SegmentsWidget.cpp" line="78"/>
+        <location filename="../widgets/SegmentsWidget.cpp" line="81"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="../widgets/SegmentsWidget.cpp" line="80"/>
+        <location filename="../widgets/SegmentsWidget.cpp" line="83"/>
         <source>Size</source>
         <translation>Taille</translation>
     </message>
     <message>
-        <location filename="../widgets/SegmentsWidget.cpp" line="82"/>
+        <location filename="../widgets/SegmentsWidget.cpp" line="85"/>
         <source>Address</source>
         <translation>Adresse</translation>
     </message>
     <message>
-        <location filename="../widgets/SegmentsWidget.cpp" line="84"/>
+        <location filename="../widgets/SegmentsWidget.cpp" line="87"/>
         <source>End Address</source>
         <translation>Adresse de fin</translation>
     </message>
     <message>
-        <location filename="../widgets/SegmentsWidget.cpp" line="86"/>
+        <location filename="../widgets/SegmentsWidget.cpp" line="89"/>
         <source>Permissions</source>
         <translation>Autorisations</translation>
     </message>
     <message>
-        <location filename="../widgets/SegmentsWidget.cpp" line="88"/>
+        <location filename="../widgets/SegmentsWidget.cpp" line="91"/>
         <source>Comment</source>
         <translation>Commentaire</translation>
     </message>
@@ -9937,7 +10477,7 @@ Souhaitez-vous les intégrer maintenant ?</translation>
 <context>
     <name>SegmentsWidget</name>
     <message>
-        <location filename="../widgets/SegmentsWidget.cpp" line="140"/>
+        <location filename="../widgets/SegmentsWidget.cpp" line="146"/>
         <source>Segments</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9991,13 +10531,13 @@ Souhaitez-vous les intégrer maintenant ?</translation>
     </message>
     <message>
         <location filename="../dialogs/preferences/ShortcutOptionsWidget.ui" line="26"/>
-        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="18"/>
+        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="19"/>
         <source>Shortcut</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../dialogs/preferences/ShortcutOptionsWidget.ui" line="31"/>
-        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="18"/>
+        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="19"/>
         <source>Description</source>
         <translation type="unfinished">Description</translation>
     </message>
@@ -10012,78 +10552,83 @@ Souhaitez-vous les intégrer maintenant ?</translation>
         <translation type="unfinished">Enregistrer comme valeurs par défaut</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="18"/>
+        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="19"/>
         <source>Command</source>
         <translation type="unfinished">Commande</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="28"/>
+        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="29"/>
         <source>General</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="28"/>
+        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="29"/>
         <source>Disassembly</source>
         <translation type="unfinished">Désassembleur</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="29"/>
+        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="30"/>
         <source>Decompiler</source>
         <translation type="unfinished">Décompileur</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="29"/>
+        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="30"/>
         <source>Strings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="30"/>
+        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="31"/>
         <source>Graph</source>
         <translation type="unfinished">Graphe</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="30"/>
+        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="31"/>
         <source>Breakpoint</source>
         <translation type="unfinished">Point de rupture</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="31"/>
+        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="32"/>
         <source>Console</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="31"/>
+        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="32"/>
         <source>Hex</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="32"/>
+        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="33"/>
         <source>Debug</source>
         <translation type="unfinished">Débogage</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="32"/>
+        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="33"/>
         <source>Functions</source>
         <translation type="unfinished">Fonctions</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="33"/>
+        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="34"/>
         <source>Omnibar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="33"/>
+        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="34"/>
         <source>Exports</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="34"/>
+        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="35"/>
         <source>Imports</source>
         <translation type="unfinished">Imports</translation>
     </message>
     <message>
-        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="34"/>
+        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="35"/>
         <source>Graph Overview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/ShortcutOptionsWidget.cpp" line="36"/>
+        <source>Docking</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10126,17 +10671,17 @@ Souhaitez-vous les intégrer maintenant ?</translation>
         <translation>Modifier la valeur de la stack...</translation>
     </message>
     <message>
-        <location filename="../widgets/StackWidget.cpp" line="109"/>
+        <location filename="../widgets/StackWidget.cpp" line="108"/>
         <source>Edit stack at %1</source>
         <translation>Modifier la pile à %1</translation>
     </message>
     <message>
-        <location filename="../widgets/StackWidget.cpp" line="138"/>
+        <location filename="../widgets/StackWidget.cpp" line="137"/>
         <source>Stack position</source>
         <translation>Position de la pile</translation>
     </message>
     <message>
-        <location filename="../widgets/StackWidget.cpp" line="140"/>
+        <location filename="../widgets/StackWidget.cpp" line="139"/>
         <source>Pointed memory</source>
         <translation>Mémoire pointée</translation>
     </message>
@@ -10147,39 +10692,62 @@ Souhaitez-vous les intégrer maintenant ?</translation>
     </message>
 </context>
 <context>
+    <name>StringListDialog</name>
+    <message>
+        <location filename="../dialogs/StringListDialog.cpp" line="10"/>
+        <source>Edit List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/StringListDialog.cpp" line="22"/>
+        <source>Add</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/StringListDialog.cpp" line="23"/>
+        <source>Remove</source>
+        <translation type="unfinished">Supprimer</translation>
+    </message>
+    <message>
+        <location filename="../dialogs/StringListDialog.cpp" line="24"/>
+        <source>Remove All</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>StringsModel</name>
     <message>
-        <location filename="../widgets/StringsWidget.cpp" line="64"/>
+        <location filename="../widgets/StringsWidget.cpp" line="68"/>
         <source>Address</source>
         <translation>Adresse</translation>
     </message>
     <message>
-        <location filename="../widgets/StringsWidget.cpp" line="66"/>
+        <location filename="../widgets/StringsWidget.cpp" line="70"/>
         <source>String</source>
         <translation>Chaine de caractères</translation>
     </message>
     <message>
-        <location filename="../widgets/StringsWidget.cpp" line="68"/>
+        <location filename="../widgets/StringsWidget.cpp" line="72"/>
         <source>Type</source>
         <translation>Type</translation>
     </message>
     <message>
-        <location filename="../widgets/StringsWidget.cpp" line="70"/>
+        <location filename="../widgets/StringsWidget.cpp" line="74"/>
         <source>Length</source>
         <translation>Longueur</translation>
     </message>
     <message>
-        <location filename="../widgets/StringsWidget.cpp" line="72"/>
+        <location filename="../widgets/StringsWidget.cpp" line="76"/>
         <source>Size</source>
         <translation>Taille</translation>
     </message>
     <message>
-        <location filename="../widgets/StringsWidget.cpp" line="74"/>
+        <location filename="../widgets/StringsWidget.cpp" line="78"/>
         <source>Section</source>
         <translation>Section</translation>
     </message>
     <message>
-        <location filename="../widgets/StringsWidget.cpp" line="76"/>
+        <location filename="../widgets/StringsWidget.cpp" line="80"/>
         <source>Comment</source>
         <translation>Commentaire</translation>
     </message>
@@ -10187,7 +10755,7 @@ Souhaitez-vous les intégrer maintenant ?</translation>
 <context>
     <name>StringsTask</name>
     <message>
-        <location filename="../common/StringsTask.h" line="13"/>
+        <location filename="../common/StringsTask.h" line="16"/>
         <source>Searching for Strings</source>
         <translation>Rechercher des chaines de caractères</translation>
     </message>
@@ -10200,27 +10768,32 @@ Souhaitez-vous les intégrer maintenant ?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/StringsWidget.ui" line="76"/>
+        <location filename="../widgets/StringsWidget.ui" line="70"/>
+        <source>Show Raw Strings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../widgets/StringsWidget.ui" line="83"/>
         <source>Copy String</source>
         <translation>Copier la chaine de caractères</translation>
     </message>
     <message>
-        <location filename="../widgets/StringsWidget.ui" line="81"/>
+        <location filename="../widgets/StringsWidget.ui" line="88"/>
         <source>Filter</source>
         <translation>Filtre</translation>
     </message>
     <message>
-        <location filename="../widgets/StringsWidget.cpp" line="158"/>
+        <location filename="../widgets/StringsWidget.cpp" line="172"/>
         <source>Section:</source>
         <translation>Section :</translation>
     </message>
     <message>
-        <location filename="../widgets/StringsWidget.cpp" line="241"/>
+        <location filename="../widgets/StringsWidget.cpp" line="261"/>
         <source>(all)</source>
         <translation>(tous)</translation>
     </message>
     <message>
-        <location filename="../shortcuts/DefaultShortcuts.cpp" line="303"/>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="319"/>
         <source>Toggle Strings Window</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10228,30 +10801,88 @@ Souhaitez-vous les intégrer maintenant ?</translation>
 <context>
     <name>SymbolsModel</name>
     <message>
-        <location filename="../widgets/SymbolsWidget.cpp" line="55"/>
+        <location filename="../widgets/SymbolsWidget.cpp" line="56"/>
         <source>Address</source>
         <translation>Adresse</translation>
     </message>
     <message>
-        <location filename="../widgets/SymbolsWidget.cpp" line="57"/>
+        <location filename="../widgets/SymbolsWidget.cpp" line="58"/>
         <source>Type</source>
         <translation>Type</translation>
     </message>
     <message>
-        <location filename="../widgets/SymbolsWidget.cpp" line="59"/>
+        <location filename="../widgets/SymbolsWidget.cpp" line="60"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="../widgets/SymbolsWidget.cpp" line="61"/>
+        <location filename="../widgets/SymbolsWidget.cpp" line="62"/>
         <source>Comment</source>
         <translation>Commentaire</translation>
     </message>
 </context>
 <context>
+    <name>SymbolsOptionsWidget</name>
+    <message>
+        <location filename="../dialogs/preferences/SymbolsOptionsWidget.ui" line="17"/>
+        <source>Form</source>
+        <translation type="unfinished">Formulaire</translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/SymbolsOptionsWidget.ui" line="56"/>
+        <source>PDB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/SymbolsOptionsWidget.ui" line="93"/>
+        <source>Import PDB</source>
+        <translation type="unfinished">Importer PDB</translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/SymbolsOptionsWidget.ui" line="103"/>
+        <source>Select</source>
+        <translation type="unfinished">Sélectionner</translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/SymbolsOptionsWidget.ui" line="117"/>
+        <source>PDB Server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/SymbolsOptionsWidget.ui" line="134"/>
+        <source>Debuginfod</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/SymbolsOptionsWidget.ui" line="159"/>
+        <source>debuginfod</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/SymbolsOptionsWidget.ui" line="208"/>
+        <source>Analyze Program</source>
+        <translation type="unfinished">Analyser le programme</translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/SymbolsOptionsWidget.cpp" line="74"/>
+        <source>Select PDB file</source>
+        <translation type="unfinished">Sélectionner un fichier PDB</translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/SymbolsOptionsWidget.cpp" line="75"/>
+        <source>PDB file (*.pdb);;All files (*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../dialogs/preferences/SymbolsOptionsWidget.cpp" line="96"/>
+        <source>%1 loaded.</source>
+        <translation type="unfinished">%1 chargé.</translation>
+    </message>
+</context>
+<context>
     <name>SymbolsWidget</name>
     <message>
-        <location filename="../widgets/SymbolsWidget.cpp" line="120"/>
+        <location filename="../widgets/SymbolsWidget.cpp" line="124"/>
         <source>Symbols</source>
         <translation>Symboles</translation>
     </message>
@@ -10259,27 +10890,27 @@ Souhaitez-vous les intégrer maintenant ?</translation>
 <context>
     <name>ThreadModel</name>
     <message>
-        <location filename="../widgets/ThreadsWidget.cpp" line="85"/>
+        <location filename="../widgets/ThreadsWidget.cpp" line="89"/>
         <source>TID</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ThreadsWidget.cpp" line="87"/>
+        <location filename="../widgets/ThreadsWidget.cpp" line="91"/>
         <source>Status</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ThreadsWidget.cpp" line="89"/>
+        <location filename="../widgets/ThreadsWidget.cpp" line="93"/>
         <source>Path</source>
         <translation type="unfinished">Chemin d&apos;accès</translation>
     </message>
     <message>
-        <location filename="../widgets/ThreadsWidget.cpp" line="91"/>
+        <location filename="../widgets/ThreadsWidget.cpp" line="95"/>
         <source>PC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ThreadsWidget.cpp" line="93"/>
+        <location filename="../widgets/ThreadsWidget.cpp" line="97"/>
         <source>TLS</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10299,12 +10930,12 @@ Souhaitez-vous les intégrer maintenant ?</translation>
         <translation type="vanished">Chemin d&apos;accès</translation>
     </message>
     <message>
-        <location filename="../widgets/ThreadsWidget.cpp" line="244"/>
+        <location filename="../widgets/ThreadsWidget.cpp" line="249"/>
         <source>TLS (%0)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/ThreadsWidget.cpp" line="249"/>
+        <location filename="../widgets/ThreadsWidget.cpp" line="254"/>
         <source>PC (%0)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10337,18 +10968,18 @@ Souhaitez-vous les intégrer maintenant ?</translation>
         <translation>Entrer des types manuellement</translation>
     </message>
     <message>
-        <location filename="../dialogs/TypesInteractionDialog.cpp" line="37"/>
+        <location filename="../dialogs/TypesInteractionDialog.cpp" line="44"/>
         <source>Select file</source>
         <translation>Sélectionner le fichier</translation>
     </message>
     <message>
-        <location filename="../dialogs/TypesInteractionDialog.cpp" line="45"/>
-        <location filename="../dialogs/TypesInteractionDialog.cpp" line="89"/>
+        <location filename="../dialogs/TypesInteractionDialog.cpp" line="52"/>
+        <location filename="../dialogs/TypesInteractionDialog.cpp" line="97"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="../dialogs/TypesInteractionDialog.cpp" line="90"/>
+        <location filename="../dialogs/TypesInteractionDialog.cpp" line="98"/>
         <source>There was some error while loading new types</source>
         <translation>Il y a eu des erreurs en chargeant de nouveaux types</translation>
     </message>
@@ -10356,22 +10987,27 @@ Souhaitez-vous les intégrer maintenant ?</translation>
 <context>
     <name>TypesModel</name>
     <message>
-        <location filename="../widgets/TypesWidget.cpp" line="73"/>
+        <location filename="../widgets/TypesWidget.cpp" line="80"/>
         <source>Type / Name</source>
         <translation>Type / Nom</translation>
     </message>
     <message>
-        <location filename="../widgets/TypesWidget.cpp" line="75"/>
+        <location filename="../widgets/TypesWidget.cpp" line="82"/>
         <source>Size</source>
         <translation>Taille</translation>
     </message>
     <message>
-        <location filename="../widgets/TypesWidget.cpp" line="77"/>
+        <location filename="../widgets/TypesWidget.cpp" line="86"/>
+        <source>Type Class</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../widgets/TypesWidget.cpp" line="88"/>
         <source>Format</source>
         <translation>Format</translation>
     </message>
     <message>
-        <location filename="../widgets/TypesWidget.cpp" line="79"/>
+        <location filename="../widgets/TypesWidget.cpp" line="84"/>
         <source>Category</source>
         <translation>Catégorie</translation>
     </message>
@@ -10384,42 +11020,42 @@ Souhaitez-vous les intégrer maintenant ?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/TypesVariablesDialog.cpp" line="8"/>
+        <location filename="../dialogs/TypesVariablesDialog.cpp" line="10"/>
         <source>ALL</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/TypesVariablesDialog.cpp" line="10"/>
+        <location filename="../dialogs/TypesVariablesDialog.cpp" line="12"/>
         <source>GLOBAL</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/TypesVariablesDialog.cpp" line="12"/>
+        <location filename="../dialogs/TypesVariablesDialog.cpp" line="14"/>
         <source>LOCAL</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/TypesVariablesDialog.cpp" line="138"/>
+        <location filename="../dialogs/TypesVariablesDialog.cpp" line="150"/>
         <source>Variables: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/TypesVariablesDialog.cpp" line="155"/>
+        <location filename="../dialogs/TypesVariablesDialog.cpp" line="163"/>
         <source>Scope</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/TypesVariablesDialog.cpp" line="157"/>
+        <location filename="../dialogs/TypesVariablesDialog.cpp" line="165"/>
         <source>All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/TypesVariablesDialog.cpp" line="158"/>
+        <location filename="../dialogs/TypesVariablesDialog.cpp" line="166"/>
         <source>Globals Only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/TypesVariablesDialog.cpp" line="159"/>
+        <location filename="../dialogs/TypesVariablesDialog.cpp" line="167"/>
         <source>Locals Only</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10427,22 +11063,22 @@ Souhaitez-vous les intégrer maintenant ?</translation>
 <context>
     <name>TypesVariablesModel</name>
     <message>
-        <location filename="../dialogs/TypesVariablesDialog.cpp" line="64"/>
+        <location filename="../dialogs/TypesVariablesDialog.cpp" line="66"/>
         <source>Name</source>
         <translation type="unfinished">Nom</translation>
     </message>
     <message>
-        <location filename="../dialogs/TypesVariablesDialog.cpp" line="66"/>
+        <location filename="../dialogs/TypesVariablesDialog.cpp" line="68"/>
         <source>Address</source>
         <translation type="unfinished">Adresse</translation>
     </message>
     <message>
-        <location filename="../dialogs/TypesVariablesDialog.cpp" line="68"/>
+        <location filename="../dialogs/TypesVariablesDialog.cpp" line="70"/>
         <source>Scope</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/TypesVariablesDialog.cpp" line="70"/>
+        <location filename="../dialogs/TypesVariablesDialog.cpp" line="72"/>
         <source>Function</source>
         <translation type="unfinished">Fonction</translation>
     </message>
@@ -10455,85 +11091,109 @@ Souhaitez-vous les intégrer maintenant ?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/TypesWidget.ui" line="76"/>
-        <location filename="../widgets/TypesWidget.ui" line="79"/>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="351"/>
+        <source>Delete</source>
+        <translation type="unfinished">Supprimer</translation>
+    </message>
+    <message>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="354"/>
+        <source>Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="357"/>
         <source>Export Types</source>
         <translation>Exporter les types</translation>
     </message>
     <message>
-        <location filename="../widgets/TypesWidget.ui" line="84"/>
-        <location filename="../widgets/TypesWidget.ui" line="87"/>
-        <location filename="../widgets/TypesWidget.cpp" line="312"/>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="361"/>
+        <location filename="../widgets/TypesWidget.cpp" line="384"/>
         <source>Load New Types</source>
         <translation>Charger de nouveaux types</translation>
     </message>
     <message>
-        <location filename="../widgets/TypesWidget.ui" line="92"/>
-        <location filename="../widgets/TypesWidget.ui" line="95"/>
-        <source>Delete Type</source>
-        <translation>Supprimez le type</translation>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="365"/>
+        <source>Rename</source>
+        <translation type="unfinished">Renommer</translation>
     </message>
     <message>
-        <location filename="../widgets/TypesWidget.cpp" line="152"/>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="369"/>
+        <source>Show Usages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../shortcuts/DefaultShortcuts.cpp" line="373"/>
+        <source>View</source>
+        <translation type="unfinished">Affichage</translation>
+    </message>
+    <message>
+        <source>Delete Type</source>
+        <translation type="vanished">Supprimez le type</translation>
+    </message>
+    <message>
+        <location filename="../widgets/TypesWidget.cpp" line="166"/>
         <source>Category</source>
         <translation>Catégorie</translation>
     </message>
     <message>
-        <location filename="../widgets/TypesWidget.cpp" line="197"/>
         <source>View Type</source>
-        <translation>Voir le type</translation>
+        <translation type="vanished">Voir le type</translation>
     </message>
     <message>
-        <location filename="../widgets/TypesWidget.cpp" line="198"/>
         <source>Edit Type</source>
-        <translation>Modifier le type</translation>
+        <translation type="vanished">Modifier le type</translation>
     </message>
     <message>
-        <location filename="../widgets/TypesWidget.cpp" line="199"/>
-        <source>Show Variables and Globals of this Type</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../widgets/TypesWidget.cpp" line="232"/>
+        <location filename="../widgets/TypesWidget.cpp" line="275"/>
         <source>(All)</source>
         <translation>(Tous)</translation>
     </message>
     <message>
-        <location filename="../widgets/TypesWidget.cpp" line="284"/>
+        <location filename="../widgets/TypesWidget.cpp" line="314"/>
+        <source>Set Type Class</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../widgets/TypesWidget.cpp" line="356"/>
         <source>Save File</source>
         <translation>Sauvegarder le fichier</translation>
     </message>
     <message>
-        <location filename="../widgets/TypesWidget.cpp" line="291"/>
+        <location filename="../widgets/TypesWidget.cpp" line="363"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="../widgets/TypesWidget.cpp" line="328"/>
+        <location filename="../widgets/TypesWidget.cpp" line="400"/>
         <source>Edit Type: </source>
         <translation>Modifier le type : </translation>
     </message>
     <message>
-        <location filename="../widgets/TypesWidget.cpp" line="331"/>
-        <location filename="../widgets/TypesWidget.cpp" line="369"/>
+        <location filename="../widgets/TypesWidget.cpp" line="403"/>
+        <location filename="../widgets/TypesWidget.cpp" line="482"/>
         <source>View Type: </source>
         <translation>Voir le type : </translation>
     </message>
     <message>
-        <location filename="../widgets/TypesWidget.cpp" line="331"/>
-        <location filename="../widgets/TypesWidget.cpp" line="369"/>
+        <location filename="../widgets/TypesWidget.cpp" line="403"/>
+        <location filename="../widgets/TypesWidget.cpp" line="482"/>
         <source> (Read Only)</source>
         <translation> (Lecture Seule)</translation>
     </message>
     <message>
-        <location filename="../widgets/TypesWidget.cpp" line="351"/>
+        <location filename="../widgets/TypesWidget.cpp" line="423"/>
         <source>Cutter</source>
         <translation>Cutter</translation>
     </message>
     <message>
-        <location filename="../widgets/TypesWidget.cpp" line="351"/>
+        <location filename="../widgets/TypesWidget.cpp" line="423"/>
         <source>Are you sure you want to delete &quot;%1&quot;?</source>
         <translation>Êtes-vous sûrs de vouloir supprimer &quot;%1&quot; ?</translation>
+    </message>
+    <message>
+        <location filename="../widgets/TypesWidget.cpp" line="443"/>
+        <source>Rename %1</source>
+        <translation type="unfinished">Renommer %1</translation>
     </message>
 </context>
 <context>
@@ -10587,12 +11247,12 @@ Souhaitez-vous les intégrer maintenant ?</translation>
         <translation>Table virtuelle</translation>
     </message>
     <message>
-        <location filename="../widgets/VTablesWidget.cpp" line="82"/>
+        <location filename="../widgets/VTablesWidget.cpp" line="83"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="../widgets/VTablesWidget.cpp" line="84"/>
+        <location filename="../widgets/VTablesWidget.cpp" line="85"/>
         <source>Address</source>
         <translation>Adresse</translation>
     </message>
@@ -10632,72 +11292,72 @@ Souhaitez-vous les intégrer maintenant ?</translation>
     </message>
     <message>
         <location filename="../dialogs/VersionInfoDialog.ui" line="160"/>
-        <location filename="../dialogs/VersionInfoDialog.cpp" line="24"/>
-        <location filename="../dialogs/VersionInfoDialog.cpp" line="29"/>
+        <location filename="../dialogs/VersionInfoDialog.cpp" line="25"/>
+        <location filename="../dialogs/VersionInfoDialog.cpp" line="30"/>
         <source>Copy</source>
         <translation type="unfinished">Copier</translation>
     </message>
     <message>
-        <location filename="../dialogs/VersionInfoDialog.cpp" line="34"/>
-        <location filename="../dialogs/VersionInfoDialog.cpp" line="38"/>
+        <location filename="../dialogs/VersionInfoDialog.cpp" line="35"/>
+        <location filename="../dialogs/VersionInfoDialog.cpp" line="39"/>
         <source>Select All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/VersionInfoDialog.cpp" line="144"/>
+        <location filename="../dialogs/VersionInfoDialog.cpp" line="152"/>
         <source>Copy to Clipboard</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/VersionInfoDialog.cpp" line="145"/>
+        <location filename="../dialogs/VersionInfoDialog.cpp" line="153"/>
         <source>Version information was successfully copied!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/VersionInfoDialog.cpp" line="162"/>
+        <location filename="../dialogs/VersionInfoDialog.cpp" line="170"/>
         <source>Version symbols</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/VersionInfoDialog.cpp" line="163"/>
+        <location filename="../dialogs/VersionInfoDialog.cpp" line="171"/>
         <source>Version need</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/VersionInfoDialog.cpp" line="172"/>
-        <location filename="../dialogs/VersionInfoDialog.cpp" line="203"/>
+        <location filename="../dialogs/VersionInfoDialog.cpp" line="180"/>
+        <location filename="../dialogs/VersionInfoDialog.cpp" line="211"/>
         <source>Address:</source>
         <translation type="unfinished">Adresse :</translation>
     </message>
     <message>
-        <location filename="../dialogs/VersionInfoDialog.cpp" line="177"/>
-        <location filename="../dialogs/VersionInfoDialog.cpp" line="208"/>
+        <location filename="../dialogs/VersionInfoDialog.cpp" line="185"/>
+        <location filename="../dialogs/VersionInfoDialog.cpp" line="216"/>
         <source>Offset:</source>
         <translation type="unfinished">Décalage :</translation>
     </message>
     <message>
-        <location filename="../dialogs/VersionInfoDialog.cpp" line="182"/>
-        <location filename="../dialogs/VersionInfoDialog.cpp" line="213"/>
+        <location filename="../dialogs/VersionInfoDialog.cpp" line="190"/>
+        <location filename="../dialogs/VersionInfoDialog.cpp" line="221"/>
         <source>Entries:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/VersionInfoDialog.cpp" line="225"/>
+        <location filename="../dialogs/VersionInfoDialog.cpp" line="233"/>
         <source>Version: %0	File: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/VersionInfoDialog.cpp" line="242"/>
+        <location filename="../dialogs/VersionInfoDialog.cpp" line="250"/>
         <source>Name: %0	Flags: %1	Version: %2	</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/VersionInfoDialog.cpp" line="260"/>
+        <location filename="../dialogs/VersionInfoDialog.cpp" line="268"/>
         <source>VS Fixed file info</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/VersionInfoDialog.cpp" line="261"/>
+        <location filename="../dialogs/VersionInfoDialog.cpp" line="269"/>
         <source>String table</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10705,7 +11365,7 @@ Souhaitez-vous les intégrer maintenant ?</translation>
 <context>
     <name>VirtualAddrDock</name>
     <message>
-        <location filename="../widgets/SectionsWidget.cpp" line="505"/>
+        <location filename="../widgets/SectionsWidget.cpp" line="502"/>
         <source>Virtual</source>
         <translation>Virtuel</translation>
     </message>
@@ -10713,58 +11373,58 @@ Souhaitez-vous les intégrer maintenant ?</translation>
 <context>
     <name>VisualNavbar</name>
     <message>
-        <location filename="../widgets/VisualNavbar.cpp" line="43"/>
+        <location filename="../widgets/VisualNavbar.cpp" line="46"/>
         <source>Visual navigation bar</source>
         <translation>Barre de navigation visuelle</translation>
     </message>
     <message>
-        <location filename="../widgets/VisualNavbar.cpp" line="288"/>
+        <location filename="../widgets/VisualNavbar.cpp" line="289"/>
         <source>Signatures</source>
         <translation type="unfinished">Signatures</translation>
     </message>
     <message>
-        <location filename="../widgets/VisualNavbar.cpp" line="289"/>
+        <location filename="../widgets/VisualNavbar.cpp" line="290"/>
         <source>Code</source>
         <translation type="unfinished">Code</translation>
     </message>
     <message>
-        <location filename="../widgets/VisualNavbar.cpp" line="290"/>
+        <location filename="../widgets/VisualNavbar.cpp" line="291"/>
         <source>Data</source>
         <translation type="unfinished">Données</translation>
     </message>
     <message>
-        <location filename="../widgets/VisualNavbar.cpp" line="291"/>
+        <location filename="../widgets/VisualNavbar.cpp" line="292"/>
         <source>Strings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/VisualNavbar.cpp" line="292"/>
+        <location filename="../widgets/VisualNavbar.cpp" line="293"/>
         <source>Imports</source>
         <translation type="unfinished">Imports</translation>
     </message>
     <message>
-        <location filename="../widgets/VisualNavbar.cpp" line="293"/>
+        <location filename="../widgets/VisualNavbar.cpp" line="294"/>
         <source>Symbols</source>
         <translation type="unfinished">Symboles</translation>
     </message>
     <message>
-        <location filename="../widgets/VisualNavbar.cpp" line="294"/>
+        <location filename="../widgets/VisualNavbar.cpp" line="295"/>
         <source>Unexplored</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/VisualNavbar.cpp" line="446"/>
+        <location filename="../widgets/VisualNavbar.cpp" line="447"/>
         <source>Address: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/VisualNavbar.cpp" line="455"/>
+        <location filename="../widgets/VisualNavbar.cpp" line="456"/>
         <source>Sections: 
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../widgets/VisualNavbar.cpp" line="472"/>
+        <location filename="../widgets/VisualNavbar.cpp" line="473"/>
         <source>Show Legend</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10783,7 +11443,7 @@ Souhaitez-vous les intégrer maintenant ?</translation>
     </message>
     <message>
         <location filename="../dialogs/WelcomeDialog.ui" line="104"/>
-        <location filename="../dialogs/WelcomeDialog.cpp" line="19"/>
+        <location filename="../dialogs/WelcomeDialog.cpp" line="16"/>
         <source>Version </source>
         <translation>Version </translation>
     </message>
@@ -10818,12 +11478,12 @@ Souhaitez-vous les intégrer maintenant ?</translation>
         <translation>Vérifier les mises à jour au démarrage</translation>
     </message>
     <message>
-        <location filename="../dialogs/WelcomeDialog.ui" line="298"/>
+        <location filename="../dialogs/WelcomeDialog.ui" line="297"/>
         <source>Community</source>
         <translation>Communauté</translation>
     </message>
     <message>
-        <location filename="../dialogs/WelcomeDialog.ui" line="320"/>
+        <location filename="../dialogs/WelcomeDialog.ui" line="319"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
@@ -10836,27 +11496,27 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;Rejoingnez des milliers de reverse engineers dans notre communauté :&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Twitter :&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;	&lt;/span&gt;&lt;a href=&quot;https://twitter.com/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;Telegram :	&lt;/span&gt;&lt;a href=&quot;https://t.me/cutter_re&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;@cutter_re &lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; font-weight:600;&quot;&gt;IRC :	&lt;/span&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt;&quot;&gt;#cutter sur &lt;/span&gt;&lt;a href=&quot;https://web.libera.chat/&quot;&gt;&lt;span style=&quot; font-family:&apos;Noto Sans&apos;; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;https://web.libera.chat/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../dialogs/WelcomeDialog.ui" line="355"/>
+        <location filename="../dialogs/WelcomeDialog.ui" line="354"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;Want to help us make Cutter even better?&lt;br/&gt;Visit our &lt;/span&gt;&lt;a href=&quot;https://github.com/rizinorg/cutter&quot;&gt;&lt;span style=&quot; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;Github page&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt; and report bugs or contribute code.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body style=&quot; font-family:&apos;Cantarell&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;Vous voulez nous aider à améliorer Cutter ?&lt;br/&gt;Visitez notre &lt;/span&gt;&lt;a href=&quot;https://github.com/rizinorg/cutter&quot;&gt;&lt;span style=&quot; font-size:10pt; text-decoration: underline; color:#2980b9;&quot;&gt;page GitHub&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt; et signalez des bugs ou contribuez du code.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../dialogs/WelcomeDialog.ui" line="394"/>
+        <location filename="../dialogs/WelcomeDialog.ui" line="392"/>
         <source>Contributing</source>
         <translation>Contribuant</translation>
     </message>
     <message>
-        <location filename="../dialogs/WelcomeDialog.ui" line="417"/>
+        <location filename="../dialogs/WelcomeDialog.ui" line="415"/>
         <source>Continue</source>
         <translation>Continuer</translation>
     </message>
     <message>
-        <location filename="../dialogs/WelcomeDialog.cpp" line="86"/>
+        <location filename="../dialogs/WelcomeDialog.cpp" line="89"/>
         <source>Language settings</source>
         <translation>Paramètres de langue</translation>
     </message>
     <message>
-        <location filename="../dialogs/WelcomeDialog.cpp" line="87"/>
+        <location filename="../dialogs/WelcomeDialog.cpp" line="90"/>
         <source>Language will be changed after next application start.</source>
         <translation>Le langage sera modifiée après le prochain lancement de l&apos;application.</translation>
     </message>
@@ -10864,22 +11524,22 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>XrefModel</name>
     <message>
-        <location filename="../dialogs/XrefsDialog.cpp" line="300"/>
+        <location filename="../dialogs/XrefsDialog.cpp" line="336"/>
         <source>Address</source>
         <translation>Adresse</translation>
     </message>
     <message>
-        <location filename="../dialogs/XrefsDialog.cpp" line="302"/>
+        <location filename="../dialogs/XrefsDialog.cpp" line="338"/>
         <source>Type</source>
         <translation>Type</translation>
     </message>
     <message>
-        <location filename="../dialogs/XrefsDialog.cpp" line="304"/>
+        <location filename="../dialogs/XrefsDialog.cpp" line="340"/>
         <source>Code</source>
         <translation>Code</translation>
     </message>
     <message>
-        <location filename="../dialogs/XrefsDialog.cpp" line="306"/>
+        <location filename="../dialogs/XrefsDialog.cpp" line="342"/>
         <source>Comment</source>
         <translation>Commentaire</translation>
     </message>
@@ -10887,28 +11547,28 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>XrefsDialog</name>
     <message>
-        <location filename="../dialogs/XrefsDialog.cpp" line="158"/>
+        <location filename="../dialogs/XrefsDialog.cpp" line="194"/>
         <source>X-Refs to %1 (%2 results):</source>
         <translation>Références croisées à %1 (%2 résultats) :</translation>
     </message>
     <message>
-        <location filename="../dialogs/XrefsDialog.cpp" line="160"/>
+        <location filename="../dialogs/XrefsDialog.cpp" line="195"/>
         <source>X-Refs from %1 (%2 results):</source>
         <translation>Références croisées de %1 (%2 résultats) :</translation>
     </message>
     <message>
-        <location filename="../dialogs/XrefsDialog.cpp" line="165"/>
+        <location filename="../dialogs/XrefsDialog.cpp" line="200"/>
         <source>Writes to %1</source>
         <translation>Écrit dans %1</translation>
     </message>
     <message>
-        <location filename="../dialogs/XrefsDialog.cpp" line="166"/>
+        <location filename="../dialogs/XrefsDialog.cpp" line="201"/>
         <source>Reads from %1</source>
         <translation>Lecture de %1</translation>
     </message>
     <message>
-        <location filename="../dialogs/XrefsDialog.cpp" line="177"/>
-        <location filename="../dialogs/XrefsDialog.cpp" line="196"/>
+        <location filename="../dialogs/XrefsDialog.cpp" line="213"/>
+        <location filename="../dialogs/XrefsDialog.cpp" line="232"/>
         <source>X-Refs for %1</source>
         <translation>Références croisées pour %1</translation>
     </message>
@@ -10923,12 +11583,12 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/XrefsDialog.ui" line="71"/>
+        <location filename="../dialogs/XrefsDialog.ui" line="74"/>
         <source>X-Refs from: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../dialogs/XrefsDialog.ui" line="98"/>
+        <location filename="../dialogs/XrefsDialog.ui" line="104"/>
         <source>Code preview</source>
         <translation type="unfinished"></translation>
     </message>
